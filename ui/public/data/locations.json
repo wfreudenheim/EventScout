@@ -1,0 +1,3769 @@
+[
+  {
+    "id": "pioneer-works",
+    "name": "Pioneer Works",
+    "entity_type": "venue",
+    "address": "159 Pioneer St, Brooklyn, NY 11231",
+    "neighborhood": "Red Hook",
+    "coordinates": [
+      40.6784,
+      -74.0132
+    ],
+    "categories": [
+      "community",
+      "art-tech",
+      "music",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://pioneerworks.org/events",
+        "notes": "403 blocked"
+      },
+      {
+        "type": "eventbrite",
+        "url": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
+        "notes": "Primary source - works well"
+      }
+    ],
+    "scrape_notes": "Tier 1: fetch-eventbrite.ts on the Eventbrite page (JSON-LD). Site itself is JS-rendered. | Website blocks scraping. Eventbrite search returns full event list.",
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:03:14.405Z",
+    "scrape_tier": 1,
+    "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
+    "generated_scraper": null
+  },
+  {
+    "id": "moma-ps1",
+    "name": "MoMA PS1",
+    "entity_type": "venue",
+    "address": "22-25 Jackson Ave, Long Island City, NY 11101",
+    "neighborhood": "LIC",
+    "coordinates": [
+      40.7454,
+      -73.9474
+    ],
+    "categories": [
+      "museum"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.momaps1.org/calendar"
+      }
+    ],
+    "scrape_notes": "Museum calendar page",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:11:02.721Z"
+  },
+  {
+    "id": "new-museum",
+    "name": "New Museum",
+    "entity_type": "venue",
+    "address": "235 Bowery, New York, NY 10002",
+    "neighborhood": "LES",
+    "coordinates": [
+      40.7224,
+      -73.9929
+    ],
+    "categories": [
+      "museum",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.newmuseum.org/calendar"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: calendar page empty via WebFetch (JS-rendered). | Home to Rhizome and NEW INC",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-03-26T20:59:31.095Z"
+  },
+  {
+    "id": "eyebeam",
+    "name": "Eyebeam",
+    "entity_type": "venue",
+    "address": "Brooklyn, NY",
+    "neighborhood": "Brooklyn",
+    "categories": [
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://eyebeam.org/"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: /events 404s; events listed on homepage.",
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null
+  },
+  {
+    "id": "metrograph",
+    "name": "Metrograph",
+    "entity_type": "venue",
+    "address": "7 Ludlow St, New York, NY 10002",
+    "neighborhood": "LES",
+    "coordinates": [
+      40.7155,
+      -73.9915
+    ],
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://metrograph.com/calendar"
+      },
+      {
+        "type": "rss",
+        "url": "https://metrograph.com/feed/",
+        "notes": "Discovered by audit 2026-07; likely blog feed — verify it carries events before relying on it."
+      }
+    ],
+    "scrape_notes": "Clean calendar with repertory and new releases",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:11:02.739Z"
+  },
+  {
+    "id": "film-forum",
+    "name": "Film Forum",
+    "entity_type": "venue",
+    "address": "209 W Houston St, New York, NY 10014",
+    "neighborhood": "West Village",
+    "coordinates": [
+      40.7275,
+      -74.0002
+    ],
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://filmforum.org/now-playing"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: JSON-LD present but startDate fields are empty — not Tier 2-able. Tier 3. | Repertory and first-run calendar",
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:20:13.913Z"
+  },
+  {
+    "id": "anthology-film-archives",
+    "name": "Anthology Film Archives",
+    "entity_type": "venue",
+    "address": "32 2nd Ave, New York, NY 10003",
+    "neighborhood": "East Village",
+    "coordinates": [
+      40.7258,
+      -73.9899
+    ],
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://anthologyfilmarchives.org/film_screenings"
+      },
+      {
+        "type": "rss",
+        "url": "https://www.anthologyfilmarchives.org/rss",
+        "notes": "Discovered by audit 2026-07; likely blog feed — verify it carries events before relying on it."
+      }
+    ],
+    "scrape_notes": "Essential for experimental film",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:55:26.303Z"
+  },
+  {
+    "id": "spectacle-theater",
+    "name": "Spectacle Theater",
+    "entity_type": "venue",
+    "address": "124 S 3rd St, Brooklyn, NY 11249",
+    "neighborhood": "Williamsburg",
+    "coordinates": [
+      40.7127,
+      -73.9636
+    ],
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.spectacletheater.com"
+      },
+      {
+        "type": "rss",
+        "url": "https://www.spectacletheater.com/feed/",
+        "notes": "Discovered by audit 2026-07; likely blog feed — verify it carries events before relying on it."
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: homepage lists programs without dates. Use Screen Slate for dated Spectacle listings. | Volunteer-run microcinema, very DIY",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:11:02.748Z"
+  },
+  {
+    "id": "national-sawdust",
+    "name": "National Sawdust",
+    "entity_type": "venue",
+    "address": "80 N 6th St, Brooklyn, NY 11249",
+    "neighborhood": "Williamsburg",
+    "coordinates": [
+      40.7178,
+      -73.9634
+    ],
+    "categories": [
+      "performance",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://nationalsawdust.org/performances",
+        "notes": "Works! Was /events before (404)"
+      }
+    ],
+    "scrape_notes": "Correct URL is /performances not /events. Good Tier 3 source.",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:11:02.768Z"
+  },
+  {
+    "id": "issue-project-room",
+    "name": "Issue Project Room",
+    "entity_type": "venue",
+    "address": "22 Boerum Pl, Brooklyn, NY 11201",
+    "neighborhood": "Downtown Brooklyn",
+    "coordinates": [
+      40.6884,
+      -73.9877
+    ],
+    "categories": [
+      "performance",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://issueprojectroom.org/events"
+      }
+    ],
+    "scrape_notes": "Experimental sound and performance",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:55:26.222Z"
+  },
+  {
+    "id": "roulette",
+    "name": "Roulette",
+    "entity_type": "venue",
+    "address": "509 Atlantic Ave, Brooklyn, NY 11217",
+    "neighborhood": "Boerum Hill",
+    "coordinates": [
+      40.6853,
+      -73.9812
+    ],
+    "categories": [
+      "performance",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://roulette.org/calendar/"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: seed URL was wrong domain (rfroulette.com = hat brand). Real site roulette.org, calendar OK.",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:11:02.758Z"
+  },
+  {
+    "id": "knockdown-center",
+    "name": "Knockdown Center",
+    "entity_type": "venue",
+    "address": "52-19 Flushing Ave, Maspeth, NY 11378",
+    "neighborhood": "Maspeth",
+    "coordinates": [
+      40.7147,
+      -73.9206
+    ],
+    "categories": [
+      "performance",
+      "music",
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://knockdown.center/events"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: blocks plain HTTP clients (429 rate-limited). Tier 3 WebFetch only. | Large-scale events, art, music, performance",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-03-26T19:48:37.310Z",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null
+  },
+  {
+    "id": "nyu-itp",
+    "name": "NYU ITP / IMA",
+    "entity_type": "venue",
+    "address": "370 Jay St, Brooklyn, NY 11201",
+    "neighborhood": "Downtown Brooklyn",
+    "coordinates": [
+      40.6934,
+      -73.9871
+    ],
+    "categories": [
+      "university",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://tisch.nyu.edu/itp/events",
+        "notes": "Works! Was itp.nyu.edu before (redirect)"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: itp.nyu.edu/events/ 404s. Find new events page (summer break likely). | Correct domain is tisch.nyu.edu. Limited public events outside ITP Camp and thesis shows.",
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:59:55.129Z"
+  },
+  {
+    "id": "the-new-school",
+    "name": "The New School",
+    "entity_type": "venue",
+    "address": "66 W 12th St, New York, NY 10011",
+    "neighborhood": "Greenwich Village",
+    "coordinates": [
+      40.7352,
+      -73.9975
+    ],
+    "categories": [
+      "university",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://events.newschool.edu/"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: events.newschool.edu landing page carries no listings (Localist SPA). Try events.newschool.edu/calendar or the Localist API. | Audit 2026-07: old /public-events 404s. events.newschool.edu is a Localist calendar — check for RSS/JSON API during sweep.",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:57:19.830Z"
+  },
+  {
+    "id": "columbia-gsapp",
+    "name": "Columbia GSAPP",
+    "entity_type": "venue",
+    "address": "1172 Amsterdam Ave, New York, NY 10027",
+    "neighborhood": "Morningside Heights",
+    "coordinates": [
+      40.8082,
+      -73.9602
+    ],
+    "categories": [
+      "university",
+      "architecture"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.arch.columbia.edu/events"
+      }
+    ],
+    "scrape_notes": "Architecture and urbanism lectures, exhibitions",
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-07-24T17:45:47.752Z"
+  },
+  {
+    "id": "e-flux",
+    "name": "e-flux",
+    "entity_type": "org",
+    "address": "172 Classon Ave, Brooklyn, NY 11205",
+    "neighborhood": "Clinton Hill",
+    "categories": [
+      "gallery",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.e-flux.com/live"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: /program 404s; /live is the events section.",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:55:26.229Z"
+  },
+  {
+    "id": "artists-space",
+    "name": "Artists Space",
+    "entity_type": "venue",
+    "address": "11 Cortlandt Alley, New York, NY 10007",
+    "neighborhood": "Tribeca",
+    "coordinates": [
+      40.7172,
+      -74.003
+    ],
+    "categories": [
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://artistsspace.org"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: homepage shows stale content; exhibitions page needed. | Alternative space since 1972",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:13:23.640Z"
+  },
+  {
+    "id": "sculpture-center",
+    "name": "SculptureCenter",
+    "entity_type": "venue",
+    "address": "44-19 Purves St, Long Island City, NY 11101",
+    "neighborhood": "LIC",
+    "coordinates": [
+      40.7474,
+      -73.9407
+    ],
+    "categories": [
+      "gallery",
+      "museum"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.sculpture-center.org/events/",
+        "notes": "Works! Was /exhibitions before (404)"
+      }
+    ],
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "scrape_notes": "Correct URL is /events/ not /exhibitions. /exhibitions/ also has show listings.",
+    "last_checked": "2026-09-15T14:55:26.250Z"
+  },
+  {
+    "id": "the-kitchen",
+    "name": "The Kitchen",
+    "entity_type": "venue",
+    "address": "512 W 19th St, New York, NY 10011",
+    "neighborhood": "Chelsea",
+    "coordinates": [
+      40.7441,
+      -74.0049
+    ],
+    "categories": [
+      "performance",
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://thekitchen.org/on-view"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: homepage is JS-nav only; needs /on-air or season page. | Website returned CSS only on /on-view. Needs alternate URL or approach.",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:55:26.258Z"
+  },
+  {
+    "id": "bam",
+    "name": "Brooklyn Academy of Music",
+    "entity_type": "venue",
+    "address": "30 Lafayette Ave, Brooklyn, NY 11217",
+    "neighborhood": "Fort Greene",
+    "coordinates": [
+      40.6862,
+      -73.9779
+    ],
+    "categories": [
+      "performance",
+      "cinema",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.bam.org/programs",
+        "notes": "Season-level only, not individual events"
+      }
+    ],
+    "scrape_notes": "/programs returns season overviews, not individual dated events. Needs BAMcinematek or Eventbrite for film.",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:13:23.659Z"
+  },
+  {
+    "id": "light-industry",
+    "name": "Light Industry",
+    "entity_type": "org",
+    "neighborhood": "Brooklyn",
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://lightindustry.org/calendar/",
+        "notes": "Works! Root page had no events"
+      }
+    ],
+    "scrape_notes": "Correct URL is /calendar/ not root. Lists screenings with dates.",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:03:14.370Z"
+  },
+  {
+    "id": "union-docs",
+    "name": "UnionDocs",
+    "entity_type": "venue",
+    "address": "322 Union Ave, Brooklyn, NY 11211",
+    "neighborhood": "Ridgewood",
+    "coordinates": [
+      40.7087,
+      -73.951
+    ],
+    "categories": [
+      "cinema",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://uniondocs.org/events/category/screenings-events/",
+        "notes": "Works!"
+      }
+    ],
+    "scrape_notes": "Tier 2: JSON-LD scraper (audit 2026-07). | Correct URL is /events/category/screenings-events/. Now in Ridgewood, Queens.",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 2,
+    "structured_source": null,
+    "generated_scraper": "scrapers/union-docs.ts",
+    "last_checked": "2026-09-15T14:56:46.756Z"
+  },
+  {
+    "id": "whitney",
+    "name": "Whitney Museum of American Art",
+    "entity_type": "venue",
+    "address": "99 Gansevoort St, New York, NY 10014",
+    "neighborhood": "Meatpacking",
+    "coordinates": [
+      40.7396,
+      -74.0089
+    ],
+    "categories": [
+      "museum"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://whitney.org/events"
+      }
+    ],
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:20:13.924Z"
+  },
+  {
+    "id": "the-drawing-center",
+    "name": "The Drawing Center",
+    "entity_type": "venue",
+    "address": "35 Wooster St, New York, NY 10013",
+    "neighborhood": "SoHo",
+    "coordinates": [
+      40.7226,
+      -74.002
+    ],
+    "categories": [
+      "gallery",
+      "museum"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://drawingcenter.org/exhibitions"
+      }
+    ],
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
+    "last_checked": "2026-09-15T15:20:13.936Z"
+  },
+  {
+    "id": "do-not-research",
+    "name": "Do Not Research",
+    "entity_type": "org",
+    "categories": [
+      "community",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "substack",
+        "url": "https://donotresearch.substack.com/",
+        "notes": "Main site redirects here"
+      },
+      {
+        "type": "eventbrite",
+        "url": "https://www.eventbrite.com/o/do-not-research-31826498177",
+        "notes": "Check for event listings"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: Eventbrite organizer page 404s (stale). Substack feed exists but is mostly essays (fetch-rss finds few dated events). WebFetch substack or find new EB organizer.",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null
+  },
+  {
+    "id": "rhizome",
+    "name": "Rhizome",
+    "entity_type": "org",
+    "address": "235 Bowery, New York, NY 10002",
+    "neighborhood": "LES",
+    "categories": [
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://rhizome.org/events"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: blocks plain HTTP clients (403). Tier 3 WebFetch only. | Website returns 403. Events likely covered by New Museum calendar. Consider mailing list.",
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:55:26.350Z"
+  },
+  {
+    "id": "new-inc",
+    "name": "NEW INC",
+    "entity_type": "org",
+    "address": "235 Bowery, New York, NY 10002",
+    "neighborhood": "LES",
+    "categories": [
+      "art-tech",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.newmuseum.org/new-inc/",
+        "notes": "Merged into New Museum site"
+      }
+    ],
+    "scrape_notes": "Redirects to New Museum. Events covered by New Museum calendar scrape.",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "inactive",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null
+  },
+  {
+    "id": "nyc-resistor",
+    "name": "NYC Resistor",
+    "entity_type": "venue",
+    "address": "87 3rd Ave, Brooklyn, NY 11217",
+    "neighborhood": "Downtown Brooklyn",
+    "coordinates": [
+      40.6859,
+      -73.979
+    ],
+    "categories": [
+      "hackerspace"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.nycresistor.com/calendar/",
+        "notes": "JS-rendered, empty to scraper"
+      },
+      {
+        "type": "eventbrite",
+        "url": "https://www.eventbrite.com/d/ny--new-york/nyc-resistor/",
+        "notes": "Primary source - works well"
+      },
+      {
+        "type": "rss",
+        "url": "https://www.nycresistor.com/feed/",
+        "notes": "Discovered by audit 2026-07; likely blog feed — verify it carries events before relying on it."
+      }
+    ],
+    "scrape_notes": "Tier 1: fetch-eventbrite.ts on the Eventbrite page (JSON-LD). Site itself blocks/omits listings. | Website is JS-rendered. Eventbrite has all classes and events.",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 1,
+    "structured_source": "https://www.eventbrite.com/d/ny--new-york/nyc-resistor/",
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:57:19.815Z"
+  },
+  {
+    "id": "sfpc",
+    "name": "School for Poetic Computation",
+    "entity_type": "org",
+    "categories": [
+      "art-tech",
+      "hackerspace"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://sfpc.study"
+      }
+    ],
+    "scrape_notes": "Creative coding, hardware, poetic technology workshops",
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:59:55.149Z"
+  },
+  {
+    "id": "simons-foundation",
+    "name": "Simons Foundation",
+    "entity_type": "venue",
+    "address": "160 5th Ave, New York, NY 10010",
+    "neighborhood": "Flatiron",
+    "coordinates": [
+      40.7405,
+      -73.9907
+    ],
+    "categories": [
+      "science",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.simonsfoundation.org/events"
+      },
+      {
+        "type": "rss",
+        "url": "https://www.simonsfoundation.org/feed/",
+        "notes": "Discovered by audit 2026-07; likely blog feed — verify it carries events before relying on it."
+      }
+    ],
+    "scrape_notes": "Free Presidential Lectures, science + math colloquia",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:03:14.389Z"
+  },
+  {
+    "id": "center-for-architecture",
+    "name": "Center for Architecture / AIA New York",
+    "entity_type": "venue",
+    "address": "536 LaGuardia Pl, New York, NY 10012",
+    "neighborhood": "Greenwich Village",
+    "coordinates": [
+      40.7274,
+      -73.9996
+    ],
+    "categories": [
+      "architecture",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://calendar.aiany.org/",
+        "notes": "Works! Redirects from centerforarchitecture.org"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: /events/ now 404s. Find new events path. | Redirects to calendar.aiany.org. Rich calendar with tours, talks, exhibitions.",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:13:23.669Z"
+  },
+  {
+    "id": "bitforms",
+    "name": "bitforms gallery",
+    "entity_type": "venue",
+    "address": "131 Allen St, New York, NY 10002",
+    "neighborhood": "LES",
+    "coordinates": [
+      40.7192,
+      -73.9901
+    ],
+    "categories": [
+      "gallery",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://bitforms.art"
+      }
+    ],
+    "scrape_notes": "New media and technology-focused gallery",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T15:03:14.397Z"
+  },
+  {
+    "id": "microscope-gallery",
+    "name": "Microscope Gallery",
+    "entity_type": "venue",
+    "address": "1329 Willoughby Ave, Brooklyn, NY 11237",
+    "neighborhood": "Bushwick",
+    "coordinates": [
+      40.7023,
+      -73.9218
+    ],
+    "categories": [
+      "gallery",
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.microscopegallery.com"
+      },
+      {
+        "type": "rss",
+        "url": "https://microscopegallery.com/feed/",
+        "notes": "Discovered by audit 2026-07; likely blog feed — verify it carries events before relying on it."
+      }
+    ],
+    "scrape_notes": "Time-based and moving image art",
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:59:55.156Z"
+  },
+  {
+    "id": "caveat",
+    "name": "Caveat",
+    "entity_type": "venue",
+    "address": "21A Clinton St, New York, NY 10002",
+    "neighborhood": "LES",
+    "coordinates": [
+      40.7207,
+      -73.9852
+    ],
+    "categories": [
+      "science",
+      "talks",
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.caveat.nyc/events",
+        "notes": "JS-rendered React app"
+      },
+      {
+        "type": "eventbrite",
+        "url": "https://www.eventbrite.com/d/ny--new-york/caveat/",
+        "notes": "Partial - gets Nerd Nite, Story Collider etc"
+      }
+    ],
+    "scrape_notes": "Tier 1: fetch-eventbrite.ts on the Eventbrite page (JSON-LD). Site itself blocks/omits listings. | Website is React SPA. Eventbrite partial coverage. Consider mailing list for full coverage.",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 1,
+    "structured_source": "https://www.eventbrite.com/d/ny--new-york/caveat/",
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:57:21.082Z"
+  },
+  {
+    "id": "triple-canopy",
+    "name": "Triple Canopy",
+    "entity_type": "org",
+    "address": "264 Canal St, New York, NY 10013",
+    "neighborhood": "Chinatown",
+    "categories": [
+      "talks",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.canopycanopycanopy.com"
+      }
+    ],
+    "scrape_notes": "Magazine + nonprofit, readings, screenings, lectures at shared space with EAI",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:55:26.215Z"
+  },
+  {
+    "id": "film-at-lincoln-center",
+    "name": "Film at Lincoln Center",
+    "entity_type": "venue",
+    "address": "165 W 65th St, New York, NY 10023",
+    "neighborhood": "Upper West Side",
+    "coordinates": [
+      40.7736,
+      -73.9831
+    ],
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.filmlinc.org/calendar/"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: blocks plain HTTP clients (403). Tier 3 WebFetch only. | NYFF home, year-round repertory and premieres",
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:55:26.295Z"
+  },
+  {
+    "id": "museum-of-moving-image",
+    "name": "Museum of the Moving Image",
+    "entity_type": "venue",
+    "address": "36-01 35th Ave, Astoria, NY 11106",
+    "neighborhood": "Astoria",
+    "coordinates": [
+      40.7564,
+      -73.9237
+    ],
+    "categories": [
+      "museum",
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://movingimage.us/calendar/"
+      }
+    ],
+    "scrape_notes": "Audit 2026-07: blocks plain HTTP clients (403). Tier 3 WebFetch only. | Film, TV, digital media exhibitions and screenings",
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "last_checked": "2026-09-15T14:55:26.286Z"
+  },
+  {
+    "id": "moma",
+    "name": "MoMA",
+    "entity_type": "venue",
+    "address": "11 W 53rd St, New York, NY 10019",
+    "neighborhood": "Midtown",
+    "categories": [
+      "museum"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.moma.org/calendar/"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.343Z",
+    "scrape_notes": "Sweep 2026-07: now 403s via WebFetch too (worked in March). | Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
+  },
+  {
+    "id": "guggenheim",
+    "name": "Guggenheim",
+    "entity_type": "venue",
+    "address": "1071 5th Ave, New York, NY 10128",
+    "neighborhood": "Upper East Side",
+    "categories": [
+      "museum"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.guggenheim.org/"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_notes": "Audit 2026-07: /calendar 404s, no obvious replacement (JS nav). WebFetch root and locate events path during sweep."
+  },
+  {
+    "id": "cooper-union",
+    "name": "Cooper Union",
+    "entity_type": "venue",
+    "address": "7 E 7th St, New York, NY 10003",
+    "neighborhood": "East Village",
+    "categories": [
+      "university",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://cooper.edu/events"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:13:23.677Z"
+  },
+  {
+    "id": "printed-matter",
+    "name": "Printed Matter",
+    "entity_type": "venue",
+    "address": "231 11th Ave, New York, NY 10001",
+    "neighborhood": "Chelsea",
+    "categories": [
+      "bookstore",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.printedmatter.org/programs"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
+    "last_checked": "2026-09-15T14:55:26.381Z"
+  },
+  {
+    "id": "the-shed",
+    "name": "The Shed",
+    "entity_type": "venue",
+    "address": "545 W 30th St, New York, NY 10001",
+    "neighborhood": "Hudson Yards",
+    "categories": [
+      "performance",
+      "gallery",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://theshed.org/program"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_notes": "Sweep 2026-07: queue-it bot wall blocks fetching. Try off-peak or newsletter.",
+    "last_checked": "2026-09-15T14:55:26.389Z"
+  },
+  {
+    "id": "performance-space-ny",
+    "name": "Performance Space New York",
+    "entity_type": "venue",
+    "address": "150 1st Ave, New York, NY 10009",
+    "neighborhood": "East Village",
+    "categories": [
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://performancespacenewyork.org/shows/"
+      },
+      {
+        "type": "rss",
+        "url": "https://performancespacenewyork.org/feed/",
+        "notes": "Discovered by audit 2026-07; likely blog feed — verify it carries events before relying on it."
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:03:14.414Z"
+  },
+  {
+    "id": "secret-science-club",
+    "name": "Secret Science Club",
+    "entity_type": "org",
+    "neighborhood": "Gowanus",
+    "categories": [
+      "science",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.secretscienceclub.com"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_notes": "Sweep 2026-07: homepage renders empty. Events are posted on Bell House calendar + their blog."
+  },
+  {
+    "id": "storefront-art-arch",
+    "name": "Storefront for Art and Architecture",
+    "entity_type": "venue",
+    "address": "97 Kenmare St, New York, NY 10012",
+    "neighborhood": "LES",
+    "categories": [
+      "architecture",
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://storefrontnews.org/programming/"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source."
+  },
+  {
+    "id": "architectural-league",
+    "name": "Architectural League of New York",
+    "entity_type": "org",
+    "categories": [
+      "architecture",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://archleague.org/events/"
+      },
+      {
+        "type": "rss",
+        "url": "https://archleague.org/events/feed/",
+        "notes": "Discovered by audit 2026-07; likely blog feed — verify it carries events before relying on it."
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:13:23.686Z"
+  },
+  {
+    "id": "mcnally-jackson",
+    "name": "McNally Jackson",
+    "entity_type": "venue",
+    "address": "52 Prince St, New York, NY 10012",
+    "neighborhood": "SoHo",
+    "categories": [
+      "bookstore",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.mcnallyjackson.com/events"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-03-27T02:50:49.143Z",
+    "scrape_notes": "Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
+  },
+  {
+    "id": "housing-works",
+    "name": "Housing Works Bookstore",
+    "entity_type": "venue",
+    "address": "126 Crosby St, New York, NY 10012",
+    "neighborhood": "SoHo",
+    "categories": [
+      "bookstore",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.housingworks.org/events"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "verso-books",
+    "name": "Verso Books",
+    "entity_type": "org",
+    "categories": [
+      "bookstore",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "eventbrite",
+        "url": "https://www.eventbrite.com/d/ny--new-york/verso-books/"
+      }
+    ],
+    "scrape_tier": 1,
+    "structured_source": "https://www.eventbrite.com/d/ny--new-york/verso-books/",
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-03-27T02:46:25.000Z",
+    "scrape_notes": "Tier 1: fetch-eventbrite.ts on the Eventbrite page (JSON-LD). Site itself blocks/omits listings."
+  },
+  {
+    "id": "nyu-cns",
+    "name": "NYU Center for Neural Science",
+    "entity_type": "venue",
+    "address": "4 Washington Pl, New York, NY 10003",
+    "neighborhood": "Greenwich Village",
+    "categories": [
+      "university",
+      "science"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://as.nyu.edu/departments/cns/events.html"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source."
+  },
+  {
+    "id": "columbia-science-society",
+    "name": "Columbia Center for Science and Society",
+    "entity_type": "venue",
+    "neighborhood": "Morningside Heights",
+    "categories": [
+      "university",
+      "science"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://scienceandsociety.columbia.edu/events"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "scrape_notes": "Sweep 2026-07: 403 (columbia.edu WAF). Newsletter candidate. | Audit 2026-07: blocks plain HTTP clients (403). Tier 3 WebFetch only.",
+    "last_checked": "2026-09-15T14:55:26.202Z"
+  },
+  {
+    "id": "genspace",
+    "name": "Genspace",
+    "entity_type": "venue",
+    "neighborhood": "Brooklyn",
+    "categories": [
+      "science",
+      "hackerspace",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.genspace.org/events"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-03-27T02:50:37.957Z",
+    "scrape_notes": "Sweep 2026-07: events page shows stale (May) listings. Use their Eventbrite organizer instead."
+  },
+  {
+    "id": "elsewhere",
+    "name": "Elsewhere",
+    "entity_type": "venue",
+    "address": "599 Johnson Ave, Brooklyn, NY 11237",
+    "neighborhood": "Bushwick",
+    "categories": [
+      "music",
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.elsewhere.club/events"
+      }
+    ],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:20:13.945Z",
+    "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
+  },
+  {
+    "id": "cuny-graduate-center",
+    "name": "CUNY Graduate Center",
+    "entity_type": "venue",
+    "neighborhood": "Midtown",
+    "categories": [
+      "university",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.gc.cuny.edu/events"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: 403 (WAF). Newsletter/mailing-list candidate — GC public programs email is the reliable channel. | THE theory-talk venue — philosophy, media, cognitive science public programs.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:59:55.166Z"
+  },
+  {
+    "id": "columbia-soa-lenfest",
+    "name": "Columbia School of the Arts / Lenfest Center",
+    "entity_type": "venue",
+    "neighborhood": "Manhattanville",
+    "categories": [
+      "university",
+      "talks",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://arts.columbia.edu/events"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: all *.columbia.edu 403s (institution-wide WAF). Newsletter candidate; Columbia Spectator arts coverage as discovery signal. | Author talks, screenings, exhibitions at Lenfest Center (e.g. Olga Ravn event).",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "columbia-zuckerman",
+    "name": "Columbia Zuckerman Institute",
+    "entity_type": "venue",
+    "neighborhood": "Manhattanville",
+    "categories": [
+      "university",
+      "science",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://zuckermaninstitute.columbia.edu/news-events"
+      },
+      {
+        "type": "eventbrite",
+        "url": "https://www.eventbrite.com/o/columbia-universitys-zuckerman-institute-12109950390",
+        "notes": "Organizer page found 2026-07. Empty in summer; check in fall sweeps."
+      }
+    ],
+    "scrape_notes": "Eventbrite organizer is the scrapeable channel (0 events July 2026 — summer). Newsletter signup: /newsletter-archives. | Sweep 2026-07: 403 (columbia.edu WAF). Newsletter candidate. | Neuroscience — public events, Tuesdays@10 seminars.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "columbia-heyman",
+    "name": "Columbia Society of Fellows / Heyman Center",
+    "entity_type": "venue",
+    "neighborhood": "Morningside Heights",
+    "categories": [
+      "university",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://sof-heyman.columbia.edu/events"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: not attempted directly but sof-heyman.columbia.edu shares the columbia.edu WAF — expect 403. Newsletter candidate. | Humanities — critical theory, history of science talks.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:42.146Z"
+  },
+  {
+    "id": "vera-list-center",
+    "name": "Vera List Center for Art and Politics",
+    "entity_type": "venue",
+    "neighborhood": "Greenwich Village",
+    "categories": [
+      "university",
+      "talks",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://veralistcenter.org/events/"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: worked. High hit rate. | Art & politics at The New School — panels, fellowships.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.180Z"
+  },
+  {
+    "id": "rockefeller-university",
+    "name": "Rockefeller University",
+    "entity_type": "venue",
+    "neighborhood": "Upper East Side",
+    "categories": [
+      "university",
+      "science"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.rockefeller.edu/events/"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: /events/ 404s — find current calendar path. | Insight Lectures, Harvey Lectures — public science.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:21:05.079Z"
+  },
+  {
+    "id": "nyas",
+    "name": "New York Academy of Sciences",
+    "entity_type": "venue",
+    "neighborhood": "FiDi",
+    "categories": [
+      "science",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.nyas.org/events/"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: worked. Mostly career/med-science; occasional AI/neuro picks. | Public events, ML symposia.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.412Z"
+  },
+  {
+    "id": "bard-graduate-center",
+    "name": "Bard Graduate Center",
+    "entity_type": "venue",
+    "neighborhood": "Upper West Side",
+    "categories": [
+      "university",
+      "talks",
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.bgc.bard.edu/events"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: gallery closed until Sep 18, no fall listings posted yet. Re-check late August. | Material culture, design history — gallery + talks.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.188Z"
+  },
+  {
+    "id": "the-stone",
+    "name": "The Stone (New School)",
+    "entity_type": "venue",
+    "neighborhood": "Greenwich Village",
+    "categories": [
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://thestonenyc.com/calendar.php"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: thestonenyc.com TLS cert broken (points at server340.com). Check for new domain or use Instagram. | John Zorn's experimental music room at The New School — weekly residencies.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "nyu-cds",
+    "name": "NYU Center for Data Science",
+    "entity_type": "venue",
+    "neighborhood": "Greenwich Village",
+    "categories": [
+      "university",
+      "science",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://cds.nyu.edu/events/"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: 403. Newsletter candidate. | AI/ML public talks.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "electronic-arts-intermix",
+    "name": "Electronic Arts Intermix",
+    "entity_type": "org",
+    "neighborhood": "Chelsea",
+    "categories": [
+      "art-tech",
+      "cinema",
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.eai.org/"
+      }
+    ],
+    "scrape_notes": "Video art distributor — screenings, talks. Newsletter subscribed 2026-07 (inbox agent). Also partnering with CANYON venue opening fall 2026.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "wendys-subway",
+    "name": "Wendy's Subway",
+    "entity_type": "venue",
+    "neighborhood": "Bushwick",
+    "categories": [
+      "bookstore",
+      "community",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://wendyssubway.com/"
+      }
+    ],
+    "scrape_notes": "Reading room, library, publisher — readings, workshops, launches. Newsletter subscribed 2026-07 (inbox agent).",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.265Z"
+  },
+  {
+    "id": "cybernetics-library",
+    "name": "Cybernetics Library",
+    "entity_type": "venue",
+    "neighborhood": "Hell's Kitchen",
+    "categories": [
+      "community",
+      "art-tech",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.cyberneticslibrary.org/"
+      }
+    ],
+    "scrape_notes": "Artist-run cybernetics browsing library. Luma calendar = Tier 1 candidate: luma.com/cyberneticslibrary Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "interference-archive",
+    "name": "Interference Archive",
+    "entity_type": "venue",
+    "neighborhood": "Gowanus",
+    "categories": [
+      "community",
+      "gallery",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://interferencearchive.org/"
+      }
+    ],
+    "scrape_notes": "Social movement archive — exhibitions, talks, open hours. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:05:00.445Z"
+  },
+  {
+    "id": "montez-press-radio",
+    "name": "Montez Press Radio",
+    "entity_type": "venue",
+    "neighborhood": "Chinatown",
+    "categories": [
+      "community",
+      "art-tech",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://radio.montezpress.com/"
+      }
+    ],
+    "scrape_notes": "Radio/performance space — broadcasts, live events, readings. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "poetry-project",
+    "name": "The Poetry Project",
+    "entity_type": "venue",
+    "neighborhood": "East Village",
+    "categories": [
+      "community",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.poetryproject.org/"
+      }
+    ],
+    "scrape_notes": "St. Mark's Church — readings, experimental poetics since 1966. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:13:23.696Z"
+  },
+  {
+    "id": "center-for-book-arts",
+    "name": "Center for Book Arts",
+    "entity_type": "venue",
+    "neighborhood": "Flatiron",
+    "categories": [
+      "gallery",
+      "studio"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://centerforbookarts.org/"
+      }
+    ],
+    "scrape_notes": "Book arts exhibitions, workshops, letterpress. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "franklin-furnace",
+    "name": "Franklin Furnace",
+    "entity_type": "venue",
+    "neighborhood": "Brooklyn",
+    "categories": [
+      "performance",
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://franklinfurnace.org/"
+      }
+    ],
+    "scrape_notes": "Avant-garde performance art org — 50th anniversary 2026. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:14:57.189Z"
+  },
+  {
+    "id": "emily-harvey-foundation",
+    "name": "Emily Harvey Foundation",
+    "entity_type": "venue",
+    "neighborhood": "SoHo",
+    "categories": [
+      "gallery",
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://emilyharveyfoundation.org/"
+      }
+    ],
+    "scrape_notes": "Fluxus-lineage space — performances, screenings. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "mmuseumm",
+    "name": "Mmuseumm",
+    "entity_type": "venue",
+    "neighborhood": "Tribeca",
+    "categories": [
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.mmuseumm.com/"
+      }
+    ],
+    "scrape_notes": "Freight-elevator museum of vernacular objects. Seasonal. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "city-reliquary",
+    "name": "City Reliquary",
+    "entity_type": "venue",
+    "neighborhood": "Williamsburg",
+    "categories": [
+      "community",
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.cityreliquary.org/"
+      }
+    ],
+    "scrape_notes": "Quirky NYC-history micro-museum — backyard events. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "morus",
+    "name": "Museum of Reclaimed Urban Space",
+    "entity_type": "venue",
+    "neighborhood": "East Village",
+    "categories": [
+      "community",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.morusnyc.org/"
+      }
+    ],
+    "scrape_notes": "LES activism history — tours, talks. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "mono-no-aware",
+    "name": "Mono No Aware",
+    "entity_type": "venue",
+    "neighborhood": "Gowanus",
+    "categories": [
+      "cinema",
+      "community",
+      "studio"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "http://mononoawarefilm.com/"
+      }
+    ],
+    "scrape_notes": "Expanded-cinema festival + analog film workshops. Newsletter-primary. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "filmmakers-coop",
+    "name": "Film-Makers' Cooperative",
+    "entity_type": "venue",
+    "neighborhood": "Midtown",
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://film-makerscoop.com/"
+      }
+    ],
+    "scrape_notes": "The New American Cinema Group — avant-garde film distribution, loft screenings. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:05:00.455Z"
+  },
+  {
+    "id": "maysles-documentary-center",
+    "name": "Maysles Documentary Center",
+    "entity_type": "venue",
+    "neighborhood": "Harlem",
+    "categories": [
+      "cinema",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.maysles.org/"
+      }
+    ],
+    "scrape_notes": "Documentary screenings + education; hosts Prismatic Ground. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:05:00.480Z"
+  },
+  {
+    "id": "millennium-film-workshop",
+    "name": "Millennium Film Workshop",
+    "entity_type": "venue",
+    "neighborhood": "Bushwick",
+    "categories": [
+      "cinema",
+      "studio"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.millenniumfilm.org/"
+      }
+    ],
+    "scrape_notes": "Historic experimental film workshop — screenings, equipment, classes. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:05:00.464Z"
+  },
+  {
+    "id": "rockaway-film-festival",
+    "name": "Rockaway Film Festival",
+    "entity_type": "venue",
+    "neighborhood": "Far Rockaway",
+    "categories": [
+      "cinema",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.rockawayfilmfestival.org/"
+      }
+    ],
+    "scrape_notes": "Cinema at the coastal edge — 8th edition Aug 20-24 2026. Seasonal + year-round screenings. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.318Z"
+  },
+  {
+    "id": "prismatic-ground",
+    "name": "Prismatic Ground",
+    "entity_type": "venue",
+    "neighborhood": "Harlem",
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://prismaticground.com/"
+      }
+    ],
+    "scrape_notes": "Experimental documentary festival — 5th edition was Apr-May 2026; watch for 2027. Seasonal. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "rooftop-films",
+    "name": "Rooftop Films",
+    "entity_type": "venue",
+    "neighborhood": "Various",
+    "categories": [
+      "cinema",
+      "outdoor"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://rooftopfilms.com/"
+      }
+    ],
+    "scrape_notes": "Summer outdoor screening series citywide. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:14:57.179Z"
+  },
+  {
+    "id": "film-noir-cinema",
+    "name": "Film Noir Cinema",
+    "entity_type": "venue",
+    "neighborhood": "Greenpoint",
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.filmnoircinema.com/"
+      }
+    ],
+    "scrape_notes": "Idiosyncratic genre/cult microcinema. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "nitehawk",
+    "name": "Nitehawk Cinema",
+    "entity_type": "venue",
+    "neighborhood": "Williamsburg",
+    "categories": [
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://nitehawkcinema.com/"
+      }
+    ],
+    "scrape_notes": "Dine-in indie; good rep series (Art Seen). Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "japan-society",
+    "name": "Japan Society",
+    "entity_type": "venue",
+    "neighborhood": "Midtown East",
+    "categories": [
+      "cinema",
+      "performance",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://japansociety.org/"
+      }
+    ],
+    "scrape_notes": "Japanese film series, performing arts, talks. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.334Z"
+  },
+  {
+    "id": "asia-society",
+    "name": "Asia Society",
+    "entity_type": "venue",
+    "neighborhood": "Upper East Side",
+    "categories": [
+      "talks",
+      "gallery",
+      "cinema"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://asiasociety.org/new-york"
+      }
+    ],
+    "scrape_notes": "Asian art + policy talks; SEA programming. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "aaww",
+    "name": "Asian American Writers' Workshop",
+    "entity_type": "venue",
+    "neighborhood": "Chelsea",
+    "categories": [
+      "talks",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://aaww.org/"
+      }
+    ],
+    "scrape_notes": "Readings and panels — strong SEA/diaspora literary programming. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:59:55.184Z"
+  },
+  {
+    "id": "blank-forms",
+    "name": "Blank Forms",
+    "entity_type": "venue",
+    "neighborhood": "Clinton Hill",
+    "categories": [
+      "music",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://blankforms.org/"
+      }
+    ],
+    "scrape_notes": "Experimental music org — concerts, publications, archival editions. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:59:55.176Z"
+  },
+  {
+    "id": "experimental-intermedia",
+    "name": "Experimental Intermedia",
+    "entity_type": "venue",
+    "neighborhood": "SoHo",
+    "categories": [
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "http://www.experimentalintermedia.org/"
+      }
+    ],
+    "scrape_notes": "Phill Niblock's loft series — minimal/drone concerts. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "ambient-church",
+    "name": "Ambient Church",
+    "entity_type": "venue",
+    "neighborhood": "Various",
+    "categories": [
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.ambient.church/"
+      }
+    ],
+    "scrape_notes": "Ambient/electronic concerts in historic churches with visuals. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.326Z"
+  },
+  {
+    "id": "fridman-gallery",
+    "name": "Fridman Gallery",
+    "entity_type": "venue",
+    "neighborhood": "SoHo",
+    "categories": [
+      "gallery",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.fridmangallery.com/"
+      }
+    ],
+    "scrape_notes": "New-media gallery; New Ear festival. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:14:57.147Z"
+  },
+  {
+    "id": "public-records",
+    "name": "Public Records",
+    "entity_type": "venue",
+    "neighborhood": "Gowanus",
+    "categories": [
+      "music",
+      "club"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://publicrecords.nyc/"
+      }
+    ],
+    "scrape_notes": "Hi-fi listening venue — ambient/jazz/electronic bookings. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:14:57.168Z"
+  },
+  {
+    "id": "nowadays",
+    "name": "Nowadays",
+    "entity_type": "venue",
+    "neighborhood": "Ridgewood",
+    "categories": [
+      "music",
+      "club",
+      "outdoor"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://nowadays.nyc/"
+      }
+    ],
+    "scrape_notes": "Ridgewood club/garden — Nonstop, ambient mornings, planetarium nights. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "bang-on-a-can",
+    "name": "Bang on a Can",
+    "entity_type": "venue",
+    "neighborhood": "Various",
+    "categories": [
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://bangonacan.org/"
+      }
+    ],
+    "scrape_notes": "New-music org — Long Play festival, marathons. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "time-spans",
+    "name": "TIME:SPANS Festival",
+    "entity_type": "venue",
+    "neighborhood": "Midtown",
+    "categories": [
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://timespans.org/"
+      }
+    ],
+    "scrape_notes": "Contemporary music festival every August at DiMenna Center. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "wave-farm",
+    "name": "Wave Farm",
+    "entity_type": "venue",
+    "neighborhood": "Upstate/Radio",
+    "categories": [
+      "music",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://wavefarm.org/"
+      }
+    ],
+    "scrape_notes": "Transmission arts org — radio art, WGXC; occasional NYC events. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.373Z"
+  },
+  {
+    "id": "the-lot-radio",
+    "name": "The Lot Radio",
+    "entity_type": "venue",
+    "neighborhood": "Greenpoint",
+    "categories": [
+      "music",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.thelotradio.com/"
+      }
+    ],
+    "scrape_notes": "Shipping-container radio station — DJ streams, occasional events. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "bisr",
+    "name": "Brooklyn Institute for Social Research",
+    "entity_type": "venue",
+    "neighborhood": "Various",
+    "categories": [
+      "talks",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://thebrooklyninstitute.com/"
+      }
+    ],
+    "scrape_notes": "Critical theory courses + free public events in bars/bookstores. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:01:41.905Z"
+  },
+  {
+    "id": "brooklyn-rail",
+    "name": "The Brooklyn Rail",
+    "entity_type": "venue",
+    "neighborhood": "Online/Various",
+    "categories": [
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://brooklynrail.org/"
+      }
+    ],
+    "scrape_notes": "The New Social Environment — daily lunchtime artist/thinker conversations. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "nypl-live",
+    "name": "LIVE from NYPL",
+    "entity_type": "venue",
+    "neighborhood": "Midtown",
+    "categories": [
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.nypl.org/events/live-nypl"
+      }
+    ],
+    "scrape_notes": "NYPL flagship author/thinker talks. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:42.155Z"
+  },
+  {
+    "id": "helix-center",
+    "name": "The Helix Center",
+    "entity_type": "venue",
+    "neighborhood": "Upper East Side",
+    "categories": [
+      "talks",
+      "science"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.helixcenter.org/"
+      }
+    ],
+    "scrape_notes": "Free interdisciplinary roundtables — science, philosophy, arts. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.194Z"
+  },
+  {
+    "id": "data-society",
+    "name": "Data & Society",
+    "entity_type": "venue",
+    "neighborhood": "Online/NYC",
+    "categories": [
+      "talks",
+      "science",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://datasociety.net/"
+      }
+    ],
+    "scrape_notes": "Research institute on tech & society — public events, Databites. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.209Z"
+  },
+  {
+    "id": "n-plus-one",
+    "name": "n+1 Magazine",
+    "entity_type": "venue",
+    "neighborhood": "Brooklyn",
+    "categories": [
+      "talks",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.nplusonemag.com/"
+      }
+    ],
+    "scrape_notes": "Literary/political magazine — launches, panels. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:42.164Z"
+  },
+  {
+    "id": "the-drift",
+    "name": "The Drift Magazine",
+    "entity_type": "venue",
+    "neighborhood": "Various",
+    "categories": [
+      "talks",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.thedriftmag.com/"
+      }
+    ],
+    "scrape_notes": "Young lit/culture magazine — events and launches. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "creative-time",
+    "name": "Creative Time",
+    "entity_type": "venue",
+    "neighborhood": "Various",
+    "categories": [
+      "art-tech",
+      "outdoor",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://creativetime.org/"
+      }
+    ],
+    "scrape_notes": "Ambitious public art commissions + summits. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:08:06.006Z"
+  },
+  {
+    "id": "canal-projects",
+    "name": "Canal Projects",
+    "entity_type": "venue",
+    "neighborhood": "SoHo",
+    "categories": [
+      "gallery",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://canalprojects.org/"
+      }
+    ],
+    "scrape_notes": "Nonprofit international contemporary art — strong Asian + SEA artists. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "swiss-institute",
+    "name": "Swiss Institute",
+    "entity_type": "venue",
+    "neighborhood": "East Village",
+    "categories": [
+      "gallery",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.swissinstitute.net/"
+      }
+    ],
+    "scrape_notes": "Free contemporary art institution — exhibitions, events. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.366Z"
+  },
+  {
+    "id": "white-columns",
+    "name": "White Columns",
+    "entity_type": "venue",
+    "neighborhood": "West Village",
+    "categories": [
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://whitecolumns.org/"
+      }
+    ],
+    "scrape_notes": "NYC's oldest alternative art space. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:17:35.021Z"
+  },
+  {
+    "id": "participant-inc",
+    "name": "Participant Inc",
+    "entity_type": "venue",
+    "neighborhood": "Lower East Side",
+    "categories": [
+      "gallery",
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://participantinc.org/"
+      }
+    ],
+    "scrape_notes": "Nonprofit for underrecognized experimental practices. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:17:35.033Z"
+  },
+  {
+    "id": "recess-art",
+    "name": "Recess",
+    "entity_type": "venue",
+    "neighborhood": "Downtown Brooklyn",
+    "categories": [
+      "gallery",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.recessart.org/"
+      }
+    ],
+    "scrape_notes": "Artist sessions + public programs. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:17:35.053Z"
+  },
+  {
+    "id": "amant",
+    "name": "Amant",
+    "entity_type": "venue",
+    "neighborhood": "East Williamsburg",
+    "categories": [
+      "gallery",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.amant.org/"
+      }
+    ],
+    "scrape_notes": "Foundation with exhibitions, residencies, free talks. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.272Z"
+  },
+  {
+    "id": "culturehub",
+    "name": "CultureHub",
+    "entity_type": "venue",
+    "neighborhood": "East Village",
+    "categories": [
+      "art-tech",
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.culturehub.org/"
+      }
+    ],
+    "scrape_notes": "La MaMa's art+technology lab — experimental performance, Re-Fest. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:01:41.914Z"
+  },
+  {
+    "id": "la-mama",
+    "name": "La MaMa",
+    "entity_type": "venue",
+    "neighborhood": "East Village",
+    "categories": [
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.lamama.org/"
+      }
+    ],
+    "scrape_notes": "Historic experimental theater. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.396Z"
+  },
+  {
+    "id": "harvestworks",
+    "name": "Harvestworks",
+    "entity_type": "venue",
+    "neighborhood": "Governors Island",
+    "categories": [
+      "art-tech",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.harvestworks.org/"
+      }
+    ],
+    "scrape_notes": "Digital media arts center — listening events, artist talks, Governors Island shows. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:01:41.923Z"
+  },
+  {
+    "id": "onassis-onx",
+    "name": "Onassis ONX",
+    "entity_type": "venue",
+    "neighborhood": "SoHo",
+    "categories": [
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://onx.studio/"
+      }
+    ],
+    "scrape_notes": "Immersive/XR art studio — showcases of member works. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.236Z"
+  },
+  {
+    "id": "index-space",
+    "name": "Index Space",
+    "entity_type": "venue",
+    "neighborhood": "Chinatown",
+    "categories": [
+      "community",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.index-space.org/"
+      }
+    ],
+    "scrape_notes": "Design/tech classes and community events. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:17:35.064Z"
+  },
+  {
+    "id": "babycastles",
+    "name": "Babycastles",
+    "entity_type": "venue",
+    "neighborhood": "Various",
+    "categories": [
+      "hackerspace",
+      "art-tech"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.babycastles.com/"
+      }
+    ],
+    "scrape_notes": "DIY videogame art collective — shows, game events. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "wonderville",
+    "name": "Wonderville",
+    "entity_type": "venue",
+    "neighborhood": "Bushwick",
+    "categories": [
+      "hackerspace",
+      "music",
+      "club"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.wonderville.nyc/"
+      }
+    ],
+    "scrape_notes": "Indie arcade bar (Death by Audio Arcade lineage) — game showcases, chiptune. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:08:06.026Z"
+  },
+  {
+    "id": "nyu-game-center",
+    "name": "NYU Game Center",
+    "entity_type": "venue",
+    "neighborhood": "Downtown Brooklyn",
+    "categories": [
+      "university",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://gamecenter.nyu.edu/"
+      }
+    ],
+    "scrape_notes": "Game design school — public lecture series. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "abrons-arts-center",
+    "name": "Abrons Arts Center",
+    "entity_type": "venue",
+    "neighborhood": "Lower East Side",
+    "categories": [
+      "performance",
+      "gallery"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://abronsartscenter.org/"
+      }
+    ],
+    "scrape_notes": "Henry Street Settlement — experimental performance. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.278Z"
+  },
+  {
+    "id": "movement-research",
+    "name": "Movement Research",
+    "entity_type": "venue",
+    "neighborhood": "East Village",
+    "categories": [
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://movementresearch.org/"
+      }
+    ],
+    "scrape_notes": "Experimental dance — Judson Church Mondays are free. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "danspace-project",
+    "name": "Danspace Project",
+    "entity_type": "venue",
+    "neighborhood": "East Village",
+    "categories": [
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://danspaceproject.org/"
+      }
+    ],
+    "scrape_notes": "Experimental dance at St. Mark's. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:17:35.075Z"
+  },
+  {
+    "id": "chocolate-factory",
+    "name": "The Chocolate Factory Theater",
+    "entity_type": "venue",
+    "neighborhood": "Long Island City",
+    "categories": [
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://chocolatefactorytheater.org/"
+      }
+    ],
+    "scrape_notes": "Experimental performance commissions. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "jack-arts",
+    "name": "JACK",
+    "entity_type": "venue",
+    "neighborhood": "Clinton Hill",
+    "categories": [
+      "performance",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.jackny.org/"
+      }
+    ],
+    "scrape_notes": "Experimental performance + civic practice. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "the-brick",
+    "name": "The Brick",
+    "entity_type": "venue",
+    "neighborhood": "Williamsburg",
+    "categories": [
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.bricktheater.com/"
+      }
+    ],
+    "scrape_notes": "DIY experimental theater. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:20:13.956Z"
+  },
+  {
+    "id": "morbid-anatomy",
+    "name": "Morbid Anatomy",
+    "entity_type": "venue",
+    "neighborhood": "Green-Wood/Various",
+    "categories": [
+      "talks",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.morbidanatomy.org/"
+      }
+    ],
+    "scrape_notes": "Art/science/death intersection — lectures, classes at Green-Wood. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:08:06.035Z"
+  },
+  {
+    "id": "green-wood",
+    "name": "Green-Wood Cemetery",
+    "entity_type": "venue",
+    "neighborhood": "Greenwood Heights",
+    "categories": [
+      "outdoor",
+      "music",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.green-wood.com/events/"
+      }
+    ],
+    "scrape_notes": "Site-specific concerts (Angel's Share), twilight tours, talks. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:17:35.086Z"
+  },
+  {
+    "id": "canyon",
+    "name": "CANYON",
+    "entity_type": "venue",
+    "neighborhood": "Lower East Side",
+    "categories": [
+      "art-tech",
+      "cinema",
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://canyon.nyc/"
+      }
+    ],
+    "scrape_notes": "40k sq ft video/sound/performance venue opening fall 2026 — EAI + Rhizome partnership. Watch for opening programming. Added via long-tail deep dive 2026-07; newsletter-primary until audited.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "austrian-cultural-forum",
+    "name": "Austrian Cultural Forum",
+    "entity_type": "venue",
+    "neighborhood": "Midtown",
+    "categories": [
+      "gallery",
+      "music",
+      "talks"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.acfny.org/"
+      }
+    ],
+    "scrape_notes": "Free exhibitions, new music, talks in the Raimund Abraham tower. Newsletter subscribed 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:20:13.902Z"
+  },
+  {
+    "id": "world-music-institute",
+    "name": "World Music Institute",
+    "entity_type": "org",
+    "neighborhood": "Various",
+    "categories": [
+      "music"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.worldmusicinstitute.org/upcoming-events/"
+      }
+    ],
+    "scrape_notes": "RSS /feed is placeholder blog junk (verified 2026-07) — use /upcoming-events via Tier 3. THE global music presenter — shows at Sawdust, Symphony Space, PW (co-presented Peni Candra Rini, Leenalchi). Tier 1 via RSS. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.419Z"
+  },
+  {
+    "id": "barbes",
+    "name": "Barbès",
+    "entity_type": "venue",
+    "neighborhood": "Park Slope",
+    "categories": [
+      "music",
+      "club"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.barbesbrooklyn.com/calendar"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: /calendar 404s — find current calendar path or rely on newsletter (newsletter-first venue). | Nightly global music bar — Slavic Soul Party Tuesdays, Mexican/Colombian/Balkan/West African residencies. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-08-09T17:46:03.863Z"
+  },
+  {
+    "id": "jalopy-theatre",
+    "name": "Jalopy Theatre",
+    "entity_type": "venue",
+    "neighborhood": "Red Hook",
+    "categories": [
+      "music",
+      "community",
+      "studio"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://jalopytheatre.org/"
+      }
+    ],
+    "scrape_notes": "Folk/traditional music school + theater — international roots bookings, unusual space. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "drom",
+    "name": "DROM",
+    "entity_type": "venue",
+    "neighborhood": "East Village",
+    "categories": [
+      "music",
+      "club"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://dromnyc.com/"
+      },
+      {
+        "type": "rss",
+        "url": "https://dromnyc.com/feed/",
+        "notes": "Working feed (thin). Verified 2026-07."
+      }
+    ],
+    "scrape_notes": "Global music venue — Balkan brass, Turkish psych, Latin, jazz. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-07-29T11:58:51.160Z"
+  },
+  {
+    "id": "summerstage",
+    "name": "SummerStage (City Parks Foundation)",
+    "entity_type": "org",
+    "neighborhood": "Various parks",
+    "categories": [
+      "music",
+      "outdoor"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://cityparksfoundation.org/summerstage/"
+      },
+      {
+        "type": "rss",
+        "url": "https://cityparksfoundation.org/feed/",
+        "notes": "Blog feed, thin. Site calendar is the source."
+      }
+    ],
+    "scrape_notes": "Free citywide park concerts May-Oct — strong global/Latin/African bookings. Seasonal. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.404Z"
+  },
+  {
+    "id": "celebrate-brooklyn",
+    "name": "BRIC Celebrate Brooklyn!",
+    "entity_type": "org",
+    "neighborhood": "Prospect Park",
+    "categories": [
+      "music",
+      "outdoor"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://bricartsmedia.org/celebrate-brooklyn/"
+      },
+      {
+        "type": "rss",
+        "url": "https://bricartsmedia.org/feed/",
+        "notes": "Working feed (9 items). Verified 2026-07."
+      }
+    ],
+    "scrape_notes": "Free bandshell series all summer — global headliners. Seasonal. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "flushing-town-hall",
+    "name": "Flushing Town Hall",
+    "entity_type": "venue",
+    "neighborhood": "Flushing",
+    "categories": [
+      "music",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.flushingtownhall.org/"
+      }
+    ],
+    "scrape_notes": "Global music + jazz presenter in Queens — strong Asian traditional programming. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "brooklyn-raga-massive",
+    "name": "Brooklyn Raga Massive",
+    "entity_type": "org",
+    "neighborhood": "Various",
+    "categories": [
+      "music",
+      "community"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.brooklynragamassive.org/"
+      }
+    ],
+    "scrape_notes": "Raga collective — weekly jams, Ragas Live Festival (24hr, at Pioneer Works). Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 4,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T14:55:26.357Z"
+  },
+  {
+    "id": "terraza-7",
+    "name": "Terraza 7",
+    "entity_type": "venue",
+    "neighborhood": "Elmhurst",
+    "categories": [
+      "music",
+      "community",
+      "club"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://terraza7.com/"
+      }
+    ],
+    "scrape_notes": "Elmhurst bar/venue — Latin American jazz, Andean, folkloric; beloved unusual space. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active"
+  },
+  {
+    "id": "lincoln-center-summer",
+    "name": "Lincoln Center (Summer for the City / Atrium)",
+    "entity_type": "org",
+    "neighborhood": "Lincoln Center",
+    "categories": [
+      "music",
+      "outdoor",
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://www.lincolncenter.org/campus/whats-on"
+      }
+    ],
+    "scrape_notes": "Sweep 2026-07: whats-on page is a JS app, 404s via fetch. Newsletter + Summer for the City page. | Free summer programming + David Rubenstein Atrium global music year-round. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3.5,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-09-15T15:21:32.917Z"
+  },
+  {
+    "id": "bryant-park-picnics",
+    "name": "Bryant Park Picnic Performances",
+    "entity_type": "org",
+    "neighborhood": "Midtown",
+    "categories": [
+      "music",
+      "outdoor",
+      "performance"
+    ],
+    "event_sources": [
+      {
+        "type": "website",
+        "url": "https://bryantpark.org/activities/picnic-performances"
+      }
+    ],
+    "scrape_notes": "Free summer music/dance/theater on the lawn — world music nights. Seasonal. Added world-music expansion 2026-07.",
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 3,
+    "added_by": "manual",
+    "status": "active",
+    "last_checked": "2026-07-27T15:40:39.069Z"
+  },
+  {
+    "id": "central-park-summerstage",
+    "name": "Central Park SummerStage",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:40:39.061Z"
+  },
+  {
+    "id": "adler-hall",
+    "name": "Adler Hall",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:32:29.511Z"
+  },
+  {
+    "id": "the-sultan-room",
+    "name": "The Sultan Room",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:32:29.517Z"
+  },
+  {
+    "id": "sony-hall",
+    "name": "Sony Hall",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:32:29.524Z"
+  },
+  {
+    "id": "joe-s-pub",
+    "name": "Joe's Pub",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:32:29.530Z"
+  },
+  {
+    "id": "nublu",
+    "name": "Nublu",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:32:29.536Z"
+  },
+  {
+    "id": "kaufman-music-center",
+    "name": "Kaufman Music Center",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:32:29.542Z"
+  },
+  {
+    "id": "webster-hall",
+    "name": "Webster Hall",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:32:29.549Z"
+  },
+  {
+    "id": "bronx-park",
+    "name": "Bronx Park",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:40:39.076Z"
+  },
+  {
+    "id": "prospect-park-bandshell",
+    "name": "Prospect Park Bandshell",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-27T15:40:39.083Z"
+  },
+  {
+    "id": "asia-art-archive-in-america",
+    "name": "Asia Art Archive in America",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-07-29T11:58:51.185Z"
+  },
+  {
+    "id": "snug-harbor-cultural-center",
+    "name": "Snug Harbor Cultural Center",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-08-09T17:46:03.870Z"
+  },
+  {
+    "id": "dustin-yellin-s-studio",
+    "name": "Dustin Yellin's Studio",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-08-09T17:47:44.978Z"
+  },
+  {
+    "id": "lectures-on-tap-prospect-park-south",
+    "name": "Lectures on Tap (Prospect Park South)",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-08-09T17:47:44.985Z"
+  },
+  {
+    "id": "316-ten-eyck",
+    "name": "316 Ten Eyck",
+    "entity_type": "venue",
+    "categories": [],
+    "event_sources": [],
+    "scrape_tier": 3,
+    "structured_source": null,
+    "generated_scraper": null,
+    "relevance_score": 2.5,
+    "added_by": "aggregator",
+    "status": "pending",
+    "last_checked": "2026-08-09T17:47:44.993Z"
+  }
+]

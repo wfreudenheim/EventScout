@@ -1,0 +1,958 @@
+[
+  {
+    "id": "moma-2026-04-01-an-evening-celebrating-amos-poe",
+    "title": "An Evening Celebrating Amos Poe",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-04-01",
+    "time_start": "19:00",
+    "description": "Retrospective evening honoring No Wave filmmaker Amos Poe.",
+    "url": "https://www.moma.org/calendar/events/11315",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.313Z"
+  },
+  {
+    "id": "nyc-resistor-2026-04-01-learn-to-use-a-laser-cutter",
+    "title": "Learn to Use a Laser Cutter",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-04-01",
+    "time_start": "18:00",
+    "description": "Hands-on workshop using an Epilog 60W laser cutter to cut and etch custom designs.",
+    "url": "https://www.eventbrite.com/e/learn-to-use-a-laser-cutter-to-cut-and-etch-your-own-designs-tickets-1985030267967",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:03.265Z"
+  },
+  {
+    "id": "pioneer-works-2026-04-01-long-play-festival-2026",
+    "title": "Long Play Festival 2026",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-04-01",
+    "description": "Multi-venue festival across Brooklyn celebrating experimental music and performance.",
+    "url": "https://www.eventbrite.com/e/long-play-festival-2026-tickets-1979786361301",
+    "format": "festival",
+    "interest_score": 5,
+    "tags": [
+      "experimental-music"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.292Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-04-01-preservation-lecture-series-preservation",
+    "title": "Preservation Lecture Series: Preservation Futures",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-04-01",
+    "time_start": "13:00",
+    "description": "Discussing future directions in historic preservation and adaptive reuse.",
+    "url": "https://www.arch.columbia.edu/events/4145-preservation-lecture-series-preservation-futures",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "preservation",
+      "adaptive-reuse"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:59.525Z"
+  },
+  {
+    "id": "moma-2026-04-01-star-spangled-to-death-ken-jacobs-1957-2",
+    "title": "Star Spangled to Death (Ken Jacobs, 1957-2004)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-04-01",
+    "time_start": "10:30",
+    "description": "Ken Jacobs' experimental film blending found footage, collage, and political commentary.",
+    "url": "https://www.moma.org/calendar/events/11379",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.313Z"
+  },
+  {
+    "id": "film-forum-2026-04-01-vagabond",
+    "title": "Vagabond",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-04-01",
+    "time_start": "17:45",
+    "description": "Varda's Palme d'Or-winning film about a young vagabond's encounters across rural France.",
+    "url": "https://filmforum.org/film/vagabond-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.448Z"
+  },
+  {
+    "id": "simons-foundation-2026-04-02-2026-national-institute-for-theory-and-m",
+    "title": "2026 National Institute for Theory and Mathematics in Biology Annual Meeting",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-04-02",
+    "description": "Annual conference bringing together researchers in theoretical and computational biology.",
+    "url": "https://www.simonsfoundation.org/event/national-institute-for-theory-and-mathematics-in-biology-annual-meeting-2026/",
+    "price": "free",
+    "format": "conference",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:15.753Z"
+  },
+  {
+    "id": "union-docs-2026-04-02-as-i-imagine-my-body-moving",
+    "title": "As I Imagine My Body Moving",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-04-02",
+    "time_start": "20:00",
+    "description": "Meta-choreographic rituals exploring auto-fictional narratives of bodies and movements.",
+    "url": "https://uniondocs.org/event/2026-04-02-elysa-wendi/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:11.456Z"
+  },
+  {
+    "id": "genspace-2026-04-02-first-thursdays-at-genspace-earth-and-sp",
+    "title": "First Thursdays at Genspace: Earth and Space",
+    "venue_id": "genspace",
+    "venue_name": "Genspace",
+    "date": "2026-04-02",
+    "time_start": "19:00",
+    "description": "Monthly sci-art gathering with two lightning talks followed by networking.",
+    "url": "https://www.eventbrite.com/e/first-thursdays-at-genspace-earth-and-space-tickets-1985385826452",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science",
+      "Climate & Environment"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:37.946Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-04-02-on-the-edge-of-legibility-symposium-keyn",
+    "title": "On the Edge of Legibility — Symposium Keynote: Ijlal Muzaffar",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-04-02",
+    "time_start": "17:00",
+    "description": "Keynote lecture exploring architecture and its peripheries as part of PhD symposium.",
+    "url": "https://www.arch.columbia.edu/events/4027-on-the-edge-of-legibility-architecture-and-its-peripheries-symposium-keynote-lecture-ijlal-muzaffar",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:59.526Z"
+  },
+  {
+    "id": "elsewhere-2026-04-03-kaitlyn-aurelia-smith-uma-dj",
+    "title": "Kaitlyn Aurelia Smith + UMA DJ",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-04-03",
+    "time_start": "23:00",
+    "description": "Electronic composer Kaitlyn Aurelia Smith performs experimental sound work.",
+    "url": "https://www.eventbrite.com/e/kaitlyn-aurelia-smith-uma-dj-tickets-1967712076791",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:44.724Z"
+  },
+  {
+    "id": "moma-2026-04-04-fanny-and-alexander-bergman-1982-",
+    "title": "Fanny and Alexander (Bergman, 1982)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-04-04",
+    "time_start": "18:00",
+    "description": "Bergman's masterpiece exploring family dynamics, memory, and theatrical life.",
+    "url": "https://www.moma.org/calendar/events/11294",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.313Z"
+  },
+  {
+    "id": "sculpture-center-2026-04-04-off-site-screening-reel-life-performantz",
+    "title": "Off-Site Screening: Reel Life Performantz by Pat Oleszko",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-04-04",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "description": "Screening of Pat Oleszko's performance film work.",
+    "url": "https://www.sculpturecenter.org/events/14811/off-site-screening-reel-life-performantz-by-pat-oleszko",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:07.127Z"
+  },
+  {
+    "id": "nyc-resistor-2026-04-04-repair-cafe",
+    "title": "Repair Cafe",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-04-04",
+    "time_start": "14:00",
+    "description": "Casual hangout where people diagnose and repair broken items with community support.",
+    "url": "https://www.eventbrite.com/e/repair-your-broken-items-at-repair-cafe-tickets-1985518512319",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:03.265Z"
+  },
+  {
+    "id": "union-docs-2026-04-05-beyond-resolution-films-by-sabine-gruffa",
+    "title": "Beyond Resolution: Films By Sabine Gruffat",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-04-05",
+    "time_start": "19:30",
+    "description": "Illegibility as a site of tension, friction, and possibility rather than escape from politics.",
+    "url": "https://uniondocs.org/event/2026-04-05-beyond-resolution-sabine-gruffat/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:11.456Z"
+  },
+  {
+    "id": "nyc-resistor-2026-04-05-intro-to-soldering-workshop-make-an-led-",
+    "title": "Intro to Soldering Workshop: Make an LED Tile",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-04-05",
+    "time_start": "13:00",
+    "description": "Introduction to soldering techniques with hands-on creation of an LED tile.",
+    "url": "https://www.eventbrite.com/e/intro-to-soldering-workshop-make-an-led-tile-tickets-1985030292039",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [
+      "soldering"
+    ],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:03.265Z"
+  },
+  {
+    "id": "sfpc-2026-04-06-consensual-hacking",
+    "title": "Consensual Hacking",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2026-04-06",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "One-day workshop with Melanie Hoff exploring ethical approaches to hacking and technology.",
+    "url": "https://sfpc.study/sessions/spring-26/consensual-hacking",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:14:45.585Z"
+  },
+  {
+    "id": "cooper-union-2026-04-06-typographic-signals-phototypesetting-as-",
+    "title": "Typographic Signals: Phototypesetting as a New Form of Writing",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-04-06",
+    "time_start": "12:30",
+    "description": "Investigation of phototypesetting as a revolutionary communication medium and design practice.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/typographic-signals-phototypesetting-new-form-writing",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:21.191Z"
+  },
+  {
+    "id": "pioneer-works-2026-04-07-ben-lerner-transcription",
+    "title": "Ben Lerner: Transcription",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-04-07",
+    "time_start": "19:30",
+    "description": "Official launch for Ben Lerner's novel at Pioneer Works.",
+    "url": "https://www.eventbrite.com/e/ben-lerner-transcription-tickets-1984308437954",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.292Z"
+  },
+  {
+    "id": "light-industry-2026-04-07-return-to-lecture-hall-6-the-whole-sheba",
+    "title": "Return to Lecture Hall 6: The Whole Shebang (Ken and Flo Jacobs)",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-04-07",
+    "description": "Presentation by J. Hoberman celebrating Ken and Flo Jacobs, legends of experimental cinema.",
+    "url": "https://www.screenslate.com/series/whole-shebang-celebrating-ken-and-flo-jacobs",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "experimental-cinema"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:11.542Z"
+  },
+  {
+    "id": "simons-foundation-2026-04-09-2026-solar-radiation-management-annual-m",
+    "title": "2026 Solar Radiation Management Annual Meeting",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-04-09",
+    "description": "Annual meeting on solar radiation management research and climate intervention strategies.",
+    "url": "https://www.simonsfoundation.org/event/solar-radiation-management-annual-meeting-2026/",
+    "price": "free",
+    "format": "conference",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:15.754Z"
+  },
+  {
+    "id": "pioneer-works-2026-04-09-science-society-do-forests-feel-",
+    "title": "Science & Society: Do Forests Feel?",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-04-09",
+    "time_start": "20:00",
+    "description": "Interdisciplinary discussion exploring scientific perspectives on forest ecosystems and consciousness.",
+    "url": "https://www.eventbrite.com/e/science-society-do-forests-feel-tickets-1984508643775",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "consciousness"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Neuroscience, AI & Cognitive Science",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.293Z"
+  },
+  {
+    "id": "union-docs-2026-04-10-tripoli-a-tale-of-three-cities",
+    "title": "Tripoli / A Tale of Three Cities",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-04-10",
+    "time_start": "19:30",
+    "description": "A contemplative urban symphony capturing a city trapped in a self-spun web.",
+    "url": "https://uniondocs.org/event/2026-04-10-a-tale-of-three-cities/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:11.456Z"
+  },
+  {
+    "id": "genspace-2026-04-11-make-it-glow-intro-to-molecular-cloning",
+    "title": "Make It Glow: Intro to Molecular Cloning",
+    "venue_id": "genspace",
+    "venue_name": "Genspace",
+    "date": "2026-04-11",
+    "time_start": "14:00",
+    "description": "Step into molecular biology to reprogram living cells using DNA techniques.",
+    "url": "https://www.eventbrite.com/e/make-it-glow-intro-to-molecular-cloning-tickets-1982461904924",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:37.946Z"
+  },
+  {
+    "id": "genspace-2026-04-12-painting-with-bioluminescent-bacteria",
+    "title": "Painting With Bioluminescent Bacteria",
+    "venue_id": "genspace",
+    "venue_name": "Genspace",
+    "date": "2026-04-12",
+    "time_start": "11:00",
+    "description": "Explore bioluminescence and create living art using bacteria as material.",
+    "url": "https://www.eventbrite.com/e/painting-with-bioluminescent-bacteria-tickets-1984303231381",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [
+      "painting"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Hackerspaces & Creative Tech",
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:37.947Z"
+  },
+  {
+    "id": "pioneer-works-2026-04-12-second-sundays-april-2026",
+    "title": "Second Sundays: April 2026",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-04-12",
+    "time_start": "12:00",
+    "description": "Free community event with art, music, and science programming across Pioneer Works.",
+    "url": "https://www.eventbrite.com/e/second-sundays-april-2026-tickets-1981790759510",
+    "price": "free",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.293Z"
+  },
+  {
+    "id": "union-docs-2026-04-12-the-whole-shebang-celebrating-ken-flo-ja",
+    "title": "The Whole Shebang: Celebrating Ken & Flo Jacobs — Living Archive",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-04-12",
+    "time_start": "16:00",
+    "description": "Fourteen-venue expanded cinema salute to experimental cinema icons Ken and Flo Jacobs.",
+    "url": "https://uniondocs.org/event/2026-04-12-the-whole-shebang-celebrating-ken-flo-jacobs/",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "experimental-cinema"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:11.457Z"
+  },
+  {
+    "id": "verso-books-2026-04-13-book-launch-violaine-huisman-the-monumen",
+    "title": "Book Launch: Violaine Huisman — The Monuments of Paris",
+    "venue_id": "verso-books",
+    "venue_name": "Verso Books",
+    "date": "2026-04-13",
+    "time_start": "19:30",
+    "description": "Author discusses her new work on Parisian monuments with John Burnham Schwartz.",
+    "url": "https://www.eventbrite.com/e/book-launch-violaine-huisman-with-john-burnham-schwartz-tickets-1984311078853",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:24.989Z"
+  },
+  {
+    "id": "elsewhere-2026-04-13-takaat-masaaki-maria-chavez-dj-",
+    "title": "Takaat, Masaaki, Maria Chavez (DJ)",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-04-13",
+    "time_start": "23:00",
+    "description": "Punk and experimental performance featuring turntablist and sound artist Maria Chavez.",
+    "url": "https://www.eventbrite.com/e/takaat-masaaki-maria-chavez-dj-tickets-1984812558793",
+    "price": "$20",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:44.726Z"
+  },
+  {
+    "id": "caveat-2026-04-13-the-story-collider",
+    "title": "The Story Collider",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-04-13",
+    "time_start": "19:00",
+    "description": "Personal narratives about science and scientific discovery shared by storytellers.",
+    "url": "https://www.eventbrite.com/e/the-story-collider-tickets-1983379365072",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:19.689Z"
+  },
+  {
+    "id": "elsewhere-2026-04-14-holy-fuck-gus-englehorn",
+    "title": "Holy Fuck + Gus Englehorn",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-04-14",
+    "time_start": "23:00",
+    "description": "Experimental live electronic sound design and instrumentation.",
+    "url": "https://www.eventbrite.com/e/holy-fuck-gus-englehorn-tickets-1980034316943",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:44.726Z"
+  },
+  {
+    "id": "architectural-league-2026-04-16-after-hours-pentagram",
+    "title": "After Hours: Pentagram",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-04-16",
+    "description": "Behind-the-scenes visit to the Pentagram design studio.",
+    "url": "https://archleague.org/event/after-hours-pentagram/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:22.241Z"
+  },
+  {
+    "id": "film-forum-2026-04-17-crumb",
+    "title": "Crumb",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-04-17",
+    "time_start": "12:00",
+    "description": "Terry Zwigoff documentary portrait of underground cartoonist Robert Crumb.",
+    "url": "https://filmforum.org/film/crumb",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.448Z"
+  },
+  {
+    "id": "pioneer-works-2026-04-18-ende-tymes-16-feat-jeph-jerman-pedestria",
+    "title": "Ende Tymes 16: Feat. Jeph Jerman, Pedestrian Deposit, and more",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-04-18",
+    "time_start": "20:00",
+    "description": "Curated evening celebrating experimental sonic artists exploring unconventional sound.",
+    "url": "https://www.eventbrite.com/e/ende-tymes-16-feat-jeph-jerman-pedestrian-deposit-and-more-tickets-1982709034094",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.293Z"
+  },
+  {
+    "id": "genspace-2026-04-18-smart-biomaterials-introducing-magnetism",
+    "title": "Smart Biomaterials: Introducing Magnetism",
+    "venue_id": "genspace",
+    "venue_name": "Genspace",
+    "date": "2026-04-18",
+    "time_start": "10:00",
+    "description": "Create magnetic sequins from flaxseed gum and learn responsive material science.",
+    "url": "https://www.eventbrite.com/e/smart-biomaterials-introducing-magnetism-tickets-1984769840020",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:37.947Z"
+  },
+  {
+    "id": "sfpc-2026-04-21-counterveillance",
+    "title": "Counterveillance",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2026-04-21",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "One-day workshop with American Artist examining surveillance and resistance strategies.",
+    "url": "https://sfpc.study/sessions/spring-26/counterveillance",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:14:45.586Z"
+  },
+  {
+    "id": "cooper-union-2026-04-21-our-world-in-ten-buildings-billie-tsien-",
+    "title": "Our World in Ten Buildings (Billie Tsien, Michael Murphy, Spencer Bailey)",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-04-21",
+    "time_start": "18:30",
+    "description": "Renowned architects and critic examine ten seminal buildings exemplifying archetypal forms.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/diane-lewis-student-lecture-series-billie-tsien-michael-murphy-and",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:21.191Z"
+  },
+  {
+    "id": "genspace-2026-04-22-nasa-s-lucy-mission-unveiling-the-trojan",
+    "title": "NASA's Lucy Mission: Unveiling the Trojans",
+    "venue_id": "genspace",
+    "venue_name": "Genspace",
+    "date": "2026-04-22",
+    "time_start": "19:00",
+    "description": "NASA mission to uncover solar system origins by exploring ancient Trojan asteroids.",
+    "url": "https://www.eventbrite.com/e/unveiling-the-trojans-nasas-lucy-mission-to-the-solar-systems-fossils-tickets-1985741431075",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:37.947Z"
+  },
+  {
+    "id": "nyc-resistor-2026-04-22-nycresistor-ham-radio-club",
+    "title": "NYCResistor Ham Radio Club",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-04-22",
+    "time_start": "20:00",
+    "description": "Monthly amateur radio club meeting.",
+    "url": "https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1633091232839",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:03.265Z"
+  },
+  {
+    "id": "national-sawdust-2026-04-22-time-to-act-a-live-opera-recording",
+    "title": "TIME TO ACT: A Live Opera Recording",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-04-22",
+    "time_start": "19:00",
+    "description": "Commissioned opera addressing gun violence through student voices in live commercial recording.",
+    "url": "https://www.nationalsawdust.org/event/boston-conservatory-presents-time-to-act-4-22",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:15.526Z"
+  },
+  {
+    "id": "genspace-2026-04-25-bioyarn-create-biotextiles-from-algae",
+    "title": "Bioyarn: Create Biotextiles from Algae",
+    "venue_id": "genspace",
+    "venue_name": "Genspace",
+    "date": "2026-04-25",
+    "time_start": "10:00",
+    "description": "Design flexible, colorful yarn from algae for knitters, makers, and curious learners.",
+    "url": "https://www.eventbrite.com/e/bioyarn-create-biotextiles-from-algae-tickets-1984308461023",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:37.947Z"
+  },
+  {
+    "id": "sfpc-2026-04-25-how-to-find-what-you-are-looking-for",
+    "title": "How To Find What You Are Looking For",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2026-04-25",
+    "time_start": "13:00",
+    "time_end": "18:00",
+    "description": "Weekend workshop with Sam Lavigne and Maura Brewer on creative coding and search.",
+    "url": "https://sfpc.study/sessions/spring-26/how-to-find",
+    "format": "workshop",
+    "interest_score": 3.5,
+    "tags": [
+      "creative-coding"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:14:45.586Z"
+  },
+  {
+    "id": "genspace-2026-04-26-intro-to-bioplastics-biolaminate-collage",
+    "title": "Intro to Bioplastics: Biolaminate Collage",
+    "venue_id": "genspace",
+    "venue_name": "Genspace",
+    "date": "2026-04-26",
+    "time_start": "10:00",
+    "description": "Create stained bioglass and explore the art and science of sustainable bioplastics.",
+    "url": "https://www.eventbrite.com/e/intro-to-bioplastics-biolaminate-collage-tickets-1985193769003",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:37.947Z"
+  },
+  {
+    "id": "sculpture-center-2026-04-26-punday-with-pat-oleszko",
+    "title": "Punday with Pat Oleszko",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-04-26",
+    "time_start": "13:00",
+    "time_end": "16:00",
+    "description": "Interactive program featuring wordplay and performance by Pat Oleszko.",
+    "url": "https://www.sculpturecenter.org/events/14742/punday-with-pat-oleszko",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:07.129Z"
+  },
+  {
+    "id": "pioneer-works-2026-04-29-oneohtrix-point-never-john-medeski",
+    "title": "Oneohtrix Point Never, John Medeski",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-04-29",
+    "time_start": "20:00",
+    "description": "Experimental electronic performance with live visual elements.",
+    "url": "https://www.eventbrite.com/e/oneohtrix-point-never-john-medeski-tickets-1980592730172",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.293Z"
+  },
+  {
+    "id": "architectural-league-2026-04-30-from-field-to-form-corn",
+    "title": "From Field to Form: Corn",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-04-30",
+    "description": "Experts discuss the application of corn as a building material in construction and design.",
+    "url": "https://archleague.org/event/from-field-to-form-corn/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:22.242Z"
+  },
+  {
+    "id": "pioneer-works-2026-04-30-oneohtrix-point-never-tyondai-braxton",
+    "title": "Oneohtrix Point Never, Tyondai Braxton",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-04-30",
+    "time_start": "20:00",
+    "description": "Experimental electronic work with singular visual accompaniment.",
+    "url": "https://www.eventbrite.com/e/oneohtrix-point-never-tyondai-braxton-tickets-1980574825619",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.293Z"
+  }
+]

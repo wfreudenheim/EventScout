@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>EventScout — Newsletter Subscription Checklist</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, sans-serif; max-width: 880px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { font-size: 1.4rem; } h2 { font-size: 1.05rem; margin-top: 2rem; border-bottom: 1px solid #8884; padding-bottom: .3rem; }
+  .hint { color: #888; font-size: .85rem; }
+  .progress { position: sticky; top: 0; background: Canvas; padding: .5rem 0; font-weight: 600; border-bottom: 1px solid #8884; }
+  ul { list-style: none; padding: 0; }
+  li { display: flex; align-items: baseline; gap: .6rem; padding: .35rem .4rem; border-radius: 6px; }
+  li:hover { background: #8881; }
+  li.done { opacity: .45; text-decoration: line-through; }
+  input[type=checkbox] { transform: translateY(2px); }
+  a { color: #2f6fd0; text-decoration: none; font-weight: 600; }
+  a:hover { text-decoration: underline; }
+  .note { color: #888; font-size: .82rem; }
+  .why { font-size: .82rem; color: #a66; }
+</style>
+</head>
+<body>
+<h1>EventScout — Newsletter Subscription Checklist</h1>
+<p class="hint">Open each site in a new tab and subscribe with the dedicated Gmail. Signup is almost always in the <b>footer</b> ("Newsletter" / "Mailing List" / "Subscribe"). Checkboxes save in your browser. Tier A first — those are the venues we can't scrape at all.</p>
+<div class="progress" id="progress"></div>
+
+<h2>Tier A — scrape-blocked, high priority</h2>
+<ul id="tierA">
+  <li data-id="eflux"><input type="checkbox"><a href="https://www.e-flux.com/subscribe/" target="_blank">e-flux — subscribe page</a><span class="why">densest art/theory source; pick "announcements" + "events/program"</span></li>
+  <li data-id="rhizome"><input type="checkbox"><a href="https://rhizome.org/" target="_blank">Rhizome</a><span class="note">footer signup</span></li>
+  <li data-id="moma"><input type="checkbox"><a href="https://www.moma.org/" target="_blank">MoMA</a><span class="note">footer "Sign up for our newsletter"</span></li>
+  <li data-id="flc"><input type="checkbox"><a href="https://www.filmlinc.org/" target="_blank">Film at Lincoln Center</a><span class="note">footer</span></li>
+  <li data-id="momi"><input type="checkbox"><a href="https://movingimage.us/" target="_blank">Museum of the Moving Image</a><span class="note">footer</span></li>
+  <li data-id="shed"><input type="checkbox"><a href="https://www.theshed.org/" target="_blank">The Shed</a><span class="note">footer</span></li>
+  <li data-id="newmuseum"><input type="checkbox"><a href="https://www.newmuseum.org/" target="_blank">New Museum</a><span class="note">footer</span></li>
+  <li data-id="kitchen"><input type="checkbox"><a href="https://thekitchen.org/" target="_blank">The Kitchen</a><span class="note">footer</span></li>
+  <li data-id="cunygc"><input type="checkbox"><a href="https://www.gc.cuny.edu/public-programming" target="_blank">CUNY Graduate Center — Public Programs</a><span class="why">THE theory-talk venue; look for the PublicsLab / Public Programs mailing list</span></li>
+  <li data-id="lenfest"><input type="checkbox"><a href="https://universitylife.columbia.edu/content/events-opportunities-newsletters" target="_blank">Columbia School of the Arts / Lenfest</a><span class="note">no public SoA events list found — this page indexes Columbia newsletters; also grab the "add to calendar" ICS link on arts.columbia.edu/events (see note)</span></li>
+  <li data-id="zuckerman"><input type="checkbox"><a href="https://zuckermaninstitute.columbia.edu/newsletter-archives" target="_blank">Columbia Zuckerman Institute — newsletter signup</a><span class="why">neuroscience public events</span></li>
+  <li data-id="scisoc"><input type="checkbox"><a href="https://columbia.us10.list-manage.com/subscribe?u=b2b3484ee39eee9f44e15dbe7&amp;id=e2504f6751" target="_blank">Columbia Center for Science &amp; Society — direct signup</a><span class="why">STS / history of science lectures</span></li>
+  <li data-id="heyman"><input type="checkbox"><a href="https://sofheyman.org/connect/subscribe" target="_blank">Columbia SOF/Heyman — subscribe page</a><span class="note">humanities talks</span></li>
+  <li data-id="nyucds"><input type="checkbox"><a href="https://cds.nyu.edu/" target="_blank">NYU Center for Data Science</a><span class="note">AI/ML talks</span></li>
+  <li data-id="nyuitp"><input type="checkbox"><a href="https://itp.nyu.edu/" target="_blank">NYU ITP / IMA</a><span class="why">thesis shows + open shows announced by email</span></li>
+  <li data-id="nyucns"><input type="checkbox"><a href="https://as.nyu.edu/cns.html" target="_blank">NYU Center for Neural Science</a><span class="note">colloquia list — may need an email to the dept</span></li>
+  <li data-id="veralist"><input type="checkbox"><a href="https://veralistcenter.org/" target="_blank">Vera List Center</a><span class="note">footer</span></li>
+  <li data-id="printedmatter"><input type="checkbox"><a href="https://www.printedmatter.org/" target="_blank">Printed Matter</a><span class="note">footer</span></li>
+  <li data-id="storefront"><input type="checkbox"><a href="https://storefrontnews.org/" target="_blank">Storefront for Art &amp; Architecture</a><span class="note">footer</span></li>
+  <li data-id="ssc"><input type="checkbox"><a href="https://www.secretscienceclub.com/" target="_blank">Secret Science Club</a><span class="note">blog sidebar signup</span></li>
+  <li data-id="stone"><input type="checkbox"><a href="https://www.instagram.com/thestonenyc/" target="_blank">The Stone</a><span class="note">website broken — follow Instagram, or the New School COPA mailing list</span></li>
+</ul>
+
+<h2>Tier B — scrapeable, but email announces earlier &amp; more completely</h2>
+<ul id="tierB">
+  <li data-id="lightindustry"><input type="checkbox"><a href="https://lightindustry.org/" target="_blank">Light Industry</a><span class="why">their emails are the canonical announcement channel</span></li>
+  <li data-id="screenslate"><input type="checkbox"><a href="https://www.screenslate.com/" target="_blank">Screen Slate — daily email</a><span class="why">covers most NYC microcinema incl. Spectacle + e-flux screenings</span></li>
+  <li data-id="anthology"><input type="checkbox"><a href="https://www.anthologyfilmarchives.org/" target="_blank">Anthology Film Archives</a><span class="note">footer</span></li>
+  <li data-id="pioneerworks"><input type="checkbox"><a href="https://pioneerworks.org/" target="_blank">Pioneer Works (Broadcast)</a><span class="note">footer</span></li>
+  <li data-id="roulette"><input type="checkbox"><a href="https://roulette.org/" target="_blank">Roulette</a><span class="note">footer</span></li>
+  <li data-id="issue"><input type="checkbox"><a href="https://issueprojectroom.org/" target="_blank">ISSUE Project Room</a><span class="note">footer</span></li>
+  <li data-id="sfpc"><input type="checkbox"><a href="https://sfpc.study/" target="_blank">School for Poetic Computation</a><span class="note">footer</span></li>
+  <li data-id="dnr"><input type="checkbox"><a href="https://donotresearch.substack.com/" target="_blank">Do Not Research (Substack)</a><span class="note">subscribe free</span></li>
+  <li data-id="metrograph"><input type="checkbox"><a href="https://metrograph.com/" target="_blank">Metrograph</a><span class="note">footer</span></li>
+  <li data-id="uniondocs"><input type="checkbox"><a href="https://uniondocs.org/" target="_blank">UnionDocs</a><span class="note">footer</span></li>
+</ul>
+
+<h2>Tier C — long tail (whenever)</h2>
+<ul id="tierC">
+  <li data-id="eyebeam"><input type="checkbox"><a href="https://eyebeam.org/" target="_blank">Eyebeam</a></li>
+  <li data-id="triplecanopy"><input type="checkbox"><a href="https://www.canopycanopycanopy.com/" target="_blank">Triple Canopy</a></li>
+  <li data-id="nycresistor"><input type="checkbox"><a href="https://www.nycresistor.com/" target="_blank">NYC Resistor</a></li>
+  <li data-id="genspace"><input type="checkbox"><a href="https://www.genspace.org/" target="_blank">Genspace</a></li>
+  <li data-id="bgc"><input type="checkbox"><a href="https://www.bgc.bard.edu/" target="_blank">Bard Graduate Center</a></li>
+  <li data-id="nyas"><input type="checkbox"><a href="https://www.nyas.org/" target="_blank">NY Academy of Sciences</a></li>
+  <li data-id="simons"><input type="checkbox"><a href="https://www.simonsfoundation.org/" target="_blank">Simons Foundation</a></li>
+  <li data-id="vanalen"><input type="checkbox"><a href="https://www.vanalen.org/" target="_blank">Van Alen Institute</a></li>
+  <li data-id="archleague"><input type="checkbox"><a href="https://archleague.org/" target="_blank">Architectural League</a></li>
+  <li data-id="knockdown"><input type="checkbox"><a href="https://knockdown.center/" target="_blank">Knockdown Center</a></li>
+  <li data-id="efluxarch"><input type="checkbox"><a href="https://www.e-flux.com/architecture/" target="_blank">e-flux Architecture</a><span class="note">separate list on the e-flux subscribe page</span></li>
+</ul>
+
+<h2>Unusual spaces, reading rooms &amp; archives</h2>
+<ul id="tierD">
+  <li data-id="cyberneticslib"><input type="checkbox"><a href="https://www.cyberneticslibrary.org/visit" target="_blank">Cybernetics Library — mailing list</a><span class="why">also subscribe to their Luma calendar: <a href="https://luma.com/cyberneticslibrary" target="_blank">luma.com/cyberneticslibrary</a></span></li>
+  <li data-id="interference"><input type="checkbox"><a href="https://interferencearchive.org/" target="_blank">Interference Archive</a><span class="note">social movement archive, Gowanus</span></li>
+  <li data-id="montez"><input type="checkbox"><a href="https://radio.montezpress.com/" target="_blank">Montez Press Radio</a><span class="why">Chinatown radio/performance space</span></li>
+  <li data-id="poetryproject"><input type="checkbox"><a href="https://www.poetryproject.org/" target="_blank">The Poetry Project</a><span class="note">St. Mark's readings</span></li>
+  <li data-id="bookarts"><input type="checkbox"><a href="https://centerforbookarts.org/" target="_blank">Center for Book Arts</a></li>
+  <li data-id="franklinfurnace"><input type="checkbox"><a href="https://franklinfurnace.org/" target="_blank">Franklin Furnace</a><span class="note">50th anniversary year</span></li>
+  <li data-id="emilyharvey"><input type="checkbox"><a href="https://emilyharveyfoundation.org/" target="_blank">Emily Harvey Foundation</a><span class="note">Fluxus-lineage SoHo space</span></li>
+  <li data-id="mmuseumm"><input type="checkbox"><a href="https://www.mmuseumm.com/" target="_blank">Mmuseumm</a><span class="note">freight-elevator museum</span></li>
+  <li data-id="cityreliquary"><input type="checkbox"><a href="https://www.cityreliquary.org/" target="_blank">City Reliquary</a></li>
+  <li data-id="morus"><input type="checkbox"><a href="https://www.morusnyc.org/" target="_blank">Museum of Reclaimed Urban Space</a></li>
+  <li data-id="morbidanatomy"><input type="checkbox"><a href="https://www.morbidanatomy.org/" target="_blank">Morbid Anatomy</a><span class="why">art/science/death lectures at Green-Wood</span></li>
+  <li data-id="greenwood"><input type="checkbox"><a href="https://www.green-wood.com/events/" target="_blank">Green-Wood Cemetery</a><span class="note">Angel's Share concerts, twilight events</span></li>
+  <li data-id="canyon"><input type="checkbox"><a href="https://canyon.nyc/" target="_blank">CANYON</a><span class="why">EAI + Rhizome's 40k sq ft video/sound venue — opens fall 2026, get on the list early</span></li>
+</ul>
+
+<h2>Screening series &amp; festivals</h2>
+<ul id="tierE">
+  <li data-id="rockawayff"><input type="checkbox"><a href="https://www.rockawayfilmfestival.org/" target="_blank">Rockaway Film Festival</a><span class="why">8th edition AUG 20–24 — under a month away</span></li>
+  <li data-id="mononoaware"><input type="checkbox"><a href="http://mononoawarefilm.com/" target="_blank">Mono No Aware</a><span class="why">expanded cinema festival + analog film workshops</span></li>
+  <li data-id="prismatic"><input type="checkbox"><a href="https://prismaticground.com/" target="_blank">Prismatic Ground</a><span class="note">experimental doc festival (spring)</span></li>
+  <li data-id="maysles"><input type="checkbox"><a href="https://www.maysles.org/" target="_blank">Maysles Documentary Center</a><span class="note">Harlem</span></li>
+  <li data-id="fmcoop"><input type="checkbox"><a href="https://film-makerscoop.com/" target="_blank">Film-Makers' Cooperative</a><span class="note">avant-garde loft screenings</span></li>
+  <li data-id="millennium"><input type="checkbox"><a href="https://www.millenniumfilm.org/" target="_blank">Millennium Film Workshop</a></li>
+  <li data-id="rooftop"><input type="checkbox"><a href="https://rooftopfilms.com/" target="_blank">Rooftop Films</a><span class="note">summer outdoor series</span></li>
+  <li data-id="filmnoir"><input type="checkbox"><a href="https://www.filmnoircinema.com/" target="_blank">Film Noir Cinema</a><span class="note">Greenpoint cult programming</span></li>
+  <li data-id="nitehawk"><input type="checkbox"><a href="https://nitehawkcinema.com/" target="_blank">Nitehawk Cinema</a></li>
+  <li data-id="japansociety"><input type="checkbox"><a href="https://japansociety.org/" target="_blank">Japan Society</a><span class="note">film series + performing arts</span></li>
+</ul>
+
+<h2>Sound, music &amp; radio</h2>
+<ul id="tierF">
+  <li data-id="blankforms"><input type="checkbox"><a href="https://blankforms.org/" target="_blank">Blank Forms</a><span class="why">experimental music org — concerts + publications</span></li>
+  <li data-id="expintermedia"><input type="checkbox"><a href="http://www.experimentalintermedia.org/" target="_blank">Experimental Intermedia</a><span class="note">Phill Niblock's loft series</span></li>
+  <li data-id="ambientchurch"><input type="checkbox"><a href="https://www.ambient.church/" target="_blank">Ambient Church</a><span class="why">ambient concerts in historic churches</span></li>
+  <li data-id="fridman"><input type="checkbox"><a href="https://www.fridmangallery.com/" target="_blank">Fridman Gallery</a><span class="note">New Ear festival</span></li>
+  <li data-id="publicrecords"><input type="checkbox"><a href="https://publicrecords.nyc/" target="_blank">Public Records</a></li>
+  <li data-id="nowadays"><input type="checkbox"><a href="https://nowadays.nyc/" target="_blank">Nowadays</a><span class="note">Ridgewood — ambient mornings, planetarium nights</span></li>
+  <li data-id="bangonacan"><input type="checkbox"><a href="https://bangonacan.org/" target="_blank">Bang on a Can</a><span class="note">Long Play festival</span></li>
+  <li data-id="timespans"><input type="checkbox"><a href="https://timespans.org/" target="_blank">TIME:SPANS</a><span class="note">contemporary music festival every August</span></li>
+  <li data-id="wavefarm"><input type="checkbox"><a href="https://wavefarm.org/" target="_blank">Wave Farm</a><span class="note">transmission arts / radio art</span></li>
+  <li data-id="lotradio"><input type="checkbox"><a href="https://www.thelotradio.com/" target="_blank">The Lot Radio</a></li>
+</ul>
+
+<h2>World music &amp; global traditions</h2>
+<ul id="tierWM">
+  <li data-id="wmi"><input type="checkbox"><a href="https://www.worldmusicinstitute.org/" target="_blank">World Music Institute</a><span class="why">THE global music presenter — shows citywide, incl. Peni Candra Rini + Leenalchi</span></li>
+  <li data-id="barbes"><input type="checkbox"><a href="https://www.barbesbrooklyn.com/" target="_blank">Barbès</a><span class="why">nightly global music bar in Park Slope — Balkan, West African, Latin residencies</span></li>
+  <li data-id="jalopy"><input type="checkbox"><a href="https://jalopytheatre.org/" target="_blank">Jalopy Theatre</a><span class="note">Red Hook folk/traditional music school + theater</span></li>
+  <li data-id="drom"><input type="checkbox"><a href="https://dromnyc.com/" target="_blank">DROM</a><span class="note">East Village global music venue</span></li>
+  <li data-id="summerstage"><input type="checkbox"><a href="https://cityparksfoundation.org/summerstage/" target="_blank">SummerStage</a><span class="why">free park concerts citywide May–Oct</span></li>
+  <li data-id="celebratebk"><input type="checkbox"><a href="https://bricartsmedia.org/celebrate-brooklyn/" target="_blank">BRIC Celebrate Brooklyn!</a><span class="note">free Prospect Park bandshell series</span></li>
+  <li data-id="flushingth"><input type="checkbox"><a href="https://www.flushingtownhall.org/" target="_blank">Flushing Town Hall</a><span class="note">global music + jazz, strong Asian traditional</span></li>
+  <li data-id="ragamassive"><input type="checkbox"><a href="https://www.brooklynragamassive.org/" target="_blank">Brooklyn Raga Massive</a><span class="why">weekly raga jams + 24hr Ragas Live Festival</span></li>
+  <li data-id="terraza7"><input type="checkbox"><a href="https://terraza7.com/" target="_blank">Terraza 7</a><span class="note">Elmhurst — Latin American jazz + folkloric, great space</span></li>
+  <li data-id="lincolncenter"><input type="checkbox"><a href="https://www.lincolncenter.org/" target="_blank">Lincoln Center</a><span class="note">Summer for the City + free Atrium global shows</span></li>
+  <li data-id="bryantpark"><input type="checkbox"><a href="https://bryantpark.org/activities/picnic-performances" target="_blank">Bryant Park Picnic Performances</a><span class="note">free lawn shows all summer</span></li>
+</ul>
+
+<h2>Theory, talks &amp; institutes</h2>
+<ul id="tierG">
+  <li data-id="bisr"><input type="checkbox"><a href="https://thebrooklyninstitute.com/" target="_blank">Brooklyn Institute for Social Research</a><span class="why">critical theory courses + free events in bars</span></li>
+  <li data-id="bkrail"><input type="checkbox"><a href="https://brooklynrail.org/" target="_blank">The Brooklyn Rail</a><span class="why">New Social Environment — daily lunchtime artist talks</span></li>
+  <li data-id="datasociety"><input type="checkbox"><a href="https://datasociety.net/" target="_blank">Data &amp; Society</a><span class="why">tech &amp; society research institute — Databites</span></li>
+  <li data-id="nypllive"><input type="checkbox"><a href="https://www.nypl.org/events/live-nypl" target="_blank">LIVE from NYPL</a></li>
+  <li data-id="helix"><input type="checkbox"><a href="https://www.helixcenter.org/" target="_blank">The Helix Center</a><span class="note">free interdisciplinary roundtables</span></li>
+  <li data-id="aaww"><input type="checkbox"><a href="https://aaww.org/" target="_blank">Asian American Writers' Workshop</a><span class="why">SEA/diaspora literary events</span></li>
+  <li data-id="asiasociety"><input type="checkbox"><a href="https://asiasociety.org/new-york" target="_blank">Asia Society</a></li>
+  <li data-id="nplusone"><input type="checkbox"><a href="https://www.nplusonemag.com/" target="_blank">n+1</a><span class="note">launches + panels</span></li>
+  <li data-id="thedrift"><input type="checkbox"><a href="https://www.thedriftmag.com/" target="_blank">The Drift</a></li>
+</ul>
+
+<h2>Art–tech, games &amp; performance labs</h2>
+<ul id="tierH">
+  <li data-id="culturehub"><input type="checkbox"><a href="https://www.culturehub.org/" target="_blank">CultureHub</a><span class="why">La MaMa's art+technology lab — Re-Fest</span></li>
+  <li data-id="harvestworks"><input type="checkbox"><a href="https://www.harvestworks.org/" target="_blank">Harvestworks</a><span class="why">digital media arts — Governors Island listening events</span></li>
+  <li data-id="onx"><input type="checkbox"><a href="https://onx.studio/" target="_blank">Onassis ONX</a><span class="why">immersive/XR art showcases</span></li>
+  <li data-id="newinc"><input type="checkbox"><a href="https://www.newinc.org/" target="_blank">NEW INC</a><span class="note">New Museum incubator demo days</span></li>
+  <li data-id="indexspace"><input type="checkbox"><a href="https://www.index-space.org/" target="_blank">Index Space</a></li>
+  <li data-id="babycastles"><input type="checkbox"><a href="https://www.babycastles.com/" target="_blank">Babycastles</a><span class="why">DIY videogame art collective</span></li>
+  <li data-id="wonderville"><input type="checkbox"><a href="https://www.wonderville.nyc/" target="_blank">Wonderville</a><span class="note">indie arcade bar, Bushwick</span></li>
+  <li data-id="nyugamecenter"><input type="checkbox"><a href="https://gamecenter.nyu.edu/" target="_blank">NYU Game Center</a><span class="note">public lecture series</span></li>
+  <li data-id="creativetime"><input type="checkbox"><a href="https://creativetime.org/" target="_blank">Creative Time</a><span class="note">public art commissions + summit</span></li>
+  <li data-id="canalprojects"><input type="checkbox"><a href="https://canalprojects.org/" target="_blank">Canal Projects</a><span class="note">strong SEA artists</span></li>
+  <li data-id="swissinstitute"><input type="checkbox"><a href="https://www.swissinstitute.net/" target="_blank">Swiss Institute</a></li>
+  <li data-id="whitecolumns"><input type="checkbox"><a href="https://whitecolumns.org/" target="_blank">White Columns</a></li>
+  <li data-id="participant"><input type="checkbox"><a href="https://participantinc.org/" target="_blank">Participant Inc</a></li>
+  <li data-id="recess"><input type="checkbox"><a href="https://www.recessart.org/" target="_blank">Recess</a></li>
+  <li data-id="amant"><input type="checkbox"><a href="https://www.amant.org/" target="_blank">Amant</a></li>
+  <li data-id="abrons"><input type="checkbox"><a href="https://abronsartscenter.org/" target="_blank">Abrons Arts Center</a><span class="note">experimental performance</span></li>
+  <li data-id="movementresearch"><input type="checkbox"><a href="https://movementresearch.org/" target="_blank">Movement Research</a><span class="note">free Judson Church Mondays</span></li>
+  <li data-id="danspace"><input type="checkbox"><a href="https://danspaceproject.org/" target="_blank">Danspace Project</a></li>
+  <li data-id="chocolatefactory"><input type="checkbox"><a href="https://chocolatefactorytheater.org/" target="_blank">The Chocolate Factory</a></li>
+  <li data-id="jack"><input type="checkbox"><a href="https://www.jackny.org/" target="_blank">JACK</a></li>
+  <li data-id="thebrick"><input type="checkbox"><a href="https://www.bricktheater.com/" target="_blank">The Brick</a></li>
+  <li data-id="lamama"><input type="checkbox"><a href="https://www.lamama.org/" target="_blank">La MaMa</a></li>
+</ul>
+
+<script>
+  const KEY = "eventscout-subs";
+  const state = JSON.parse(localStorage.getItem(KEY) || "{}");
+  const boxes = document.querySelectorAll("li[data-id]");
+  function refresh() {
+    let done = 0;
+    boxes.forEach((li) => {
+      const id = li.dataset.id;
+      const cb = li.querySelector("input");
+      cb.checked = !!state[id];
+      li.classList.toggle("done", cb.checked);
+      if (cb.checked) done++;
+    });
+    document.getElementById("progress").textContent =
+      `${done} / ${boxes.length} subscribed`;
+  }
+  boxes.forEach((li) => {
+    li.querySelector("input").addEventListener("change", (e) => {
+      state[li.dataset.id] = e.target.checked;
+      localStorage.setItem(KEY, JSON.stringify(state));
+      refresh();
+    });
+  });
+  refresh();
+</script>
+</body>
+</html>

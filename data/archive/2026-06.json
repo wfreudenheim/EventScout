@@ -1,0 +1,62 @@
+[
+  {
+    "id": "nyu-itp-2026-06-01-itp-camp-2026",
+    "title": "ITP Camp 2026",
+    "venue_id": "nyu-itp",
+    "venue_name": "NYU ITP / IMA",
+    "date": "2026-06-01",
+    "description": "Month-long summer camp for adults exploring coding, fabrication, and emerging media through workshops and talks by ITP faculty, alumni, and experts.",
+    "url": "https://tisch.nyu.edu/itp/events/fall-20251/itp-camp-2026",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [
+      "fabrication"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:14:46.643Z"
+  },
+  {
+    "id": "national-sawdust-2026-06-03-felipe-lara-talea-ensemble-conrad-tao-ma",
+    "title": "Felipe Lara / Talea Ensemble / Conrad Tao: Mazes and Portals (NY Premiere)",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-06-03",
+    "time_start": "19:30",
+    "description": "Brazilian-American composer's works exploring fractals, mirrors, and labyrinths with electronic influences.",
+    "url": "https://www.nationalsawdust.org/event/felipe-lara-talea-ensemble-mazes-and-portals-ny-premiere",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:15.526Z"
+  },
+  {
+    "id": "pioneer-works-2026-06-29-produce-volume-1",
+    "title": "PRODUCE: Volume 1",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-06-29",
+    "time_start": "20:00",
+    "description": "Curated music and performance event at Pioneer Works.",
+    "url": "https://www.eventbrite.com/e/produce-volume-1-tickets-1985537744844",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.293Z"
+  }
+]

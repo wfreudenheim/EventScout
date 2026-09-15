@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "bitforms-2026-03-19-starpower-maya-man",
+    "title": "StarPower — Maya Man",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-03-19",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Opening reception for Maya Man's exhibition exploring digital identity and internet culture.",
+    "url": "https://www.bitforms.art/exhibition/starpower",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:12.595Z"
+  },
+  {
+    "id": "bitforms-2026-03-21-new-humans-memories-of-the-future",
+    "title": "New Humans: Memories of the Future",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-03-21",
+    "description": "New Museum inaugural exhibition featuring 150+ international artists exploring humanity's relationship with technology.",
+    "url": "https://www.newmuseum.org/exhibition/new-humans-memories-of-the-future/",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:12.596Z"
+  },
+  {
+    "id": "microscope-gallery-2026-03-25-experimental-intermedia-screen-compositi",
+    "title": "Experimental Intermedia Screen Compositions 22",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-03-25",
+    "time_start": "19:00",
+    "description": "Curated by Katherine Liberovskaya, screening of experimental intermedia works exploring screen-based compositions.",
+    "url": "https://microscopegallery.com/experimental-intermedia-screen-compositions-22/",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:10.492Z"
+  },
+  {
+    "id": "center-for-architecture-2026-03-26-a-conversation-with-ed-mazria-pedagogy-a",
+    "title": "A Conversation with Ed Mazria: Pedagogy, Agency, Advocacy and Energy Futures",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-03-26",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Discussion on energy in architecture pedagogy, models of practice, and energy futures with prominent architect Ed Mazria.",
+    "url": "https://calendar.aiany.org/2026/03/26/a-conversation-with-ed-mazria-pedagogy-agency-advocacy-and-energy-futures/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:56.301Z"
+  },
+  {
+    "id": "metrograph-2026-03-26-a-short-film-about-killing",
+    "title": "A Short Film About Killing",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-26",
+    "time_start": "18:00",
+    "description": "Kieślowski's provocative examination of capital punishment and moral absolutes.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004773",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.693Z"
+  },
+  {
+    "id": "metrograph-2026-03-26-a-short-film-about-love",
+    "title": "A Short Film About Love",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-26",
+    "time_start": "18:00",
+    "description": "Kieślowski's intimate exploration of desire and obsession through voyeurism and human connection.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004785",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.694Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-03-26-cccp-lecture-stan-douglas",
+    "title": "CCCP Lecture: Stan Douglas",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-03-26",
+    "time_start": "18:30",
+    "description": "Lecture featuring artist Stan Douglas.",
+    "url": "https://www.arch.columbia.edu/events/4045-cccp-lecture-stan-douglas",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:59.524Z"
+  },
+  {
+    "id": "moma-2026-03-26-dhrupad-mani-kaul-1983-",
+    "title": "Dhrupad (Mani Kaul, 1983)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-03-26",
+    "time_start": "18:30",
+    "description": "Indian film exploring classical music traditions and cultural expression.",
+    "url": "https://www.moma.org/calendar/events/11297",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.312Z"
+  },
+  {
+    "id": "moma-ps1-2026-03-26-homeroom-red-canary-song-touch-the-heart",
+    "title": "Homeroom: Red Canary Song - Touch the Heart",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-03-26",
+    "time_start": "12:00",
+    "time_end": "18:00",
+    "description": "Exhibition by Flushing-based Red Canary Song collective, a grassroots mutual aid network led by migrant massage and sex workers.",
+    "url": "https://www.momaps1.org/en/programs/745-homeroom-red-canary-song",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:13.643Z"
+  },
+  {
+    "id": "film-forum-2026-03-26-le-bonheur",
+    "title": "Le Bonheur",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-26",
+    "time_start": "12:30",
+    "description": "Agnès Varda retrospective: exploring happiness and relationships with vibrant cinematography.",
+    "url": "https://filmforum.org/film/le-bonheur-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "cinematography"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.446Z"
+  },
+  {
+    "id": "film-forum-2026-03-26-les-cr-atures",
+    "title": "Les Créatures",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-26",
+    "time_start": "19:30",
+    "description": "Varda's experimental narrative examining reality, memory, and human connection through avant-garde techniques.",
+    "url": "https://filmforum.org/film/les-creatures-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.447Z"
+  },
+  {
+    "id": "moma-2026-03-26-lumiere-le-cinema-2025",
+    "title": "Lumiere, Le Cinema! 2025",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-03-26",
+    "time_start": "16:00",
+    "description": "Film celebrating cinema history and the Lumiere legacy.",
+    "url": "https://www.moma.org/calendar/events/11280",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.311Z"
+  },
+  {
+    "id": "mcnally-jackson-2026-03-26-lynne-tillman-paul-chan-scott-schomburg",
+    "title": "Lynne Tillman, Paul Chan, Scott Schomburg",
+    "venue_id": "mcnally-jackson",
+    "venue_name": "McNally Jackson",
+    "date": "2026-03-26",
+    "time_start": "19:00",
+    "description": "Artists and writers discuss contemporary culture, theory, and artistic practice.",
+    "url": "https://www.mcnallyjackson.com/event/lynne-tillman-paul-chan-scott-schomburg",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:49.138Z"
+  },
+  {
+    "id": "metrograph-2026-03-26-perfect-blue",
+    "title": "Perfect Blue",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-26",
+    "time_start": "22:20",
+    "description": "Satoshi Kon's hallucinatory anime about celebrity, identity, and psychological dissolution.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999001649",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.695Z"
+  },
+  {
+    "id": "film-forum-2026-03-26-the-beaches-of-agn-s",
+    "title": "The Beaches of Agnès",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-26",
+    "time_start": "16:30",
+    "description": "Varda's autobiographical film reflecting on her life, cinema, and memories.",
+    "url": "https://filmforum.org/film/the-beaches-of-agnes-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.447Z"
+  },
+  {
+    "id": "film-forum-2026-03-26-the-gleaners-and-i",
+    "title": "The Gleaners and I",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-26",
+    "time_start": "14:40",
+    "description": "Varda's documentary essay on gleaning and social observations with poetic visual approach.",
+    "url": "https://filmforum.org/film/the-gleaners-and-i-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.447Z"
+  },
+  {
+    "id": "union-docs-2026-03-26-todo-parecia-posible",
+    "title": "Todo parecia posible",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-03-26",
+    "time_start": "19:30",
+    "description": "A critical reckoning with the politics of mid-twentieth-century Puerto Rico.",
+    "url": "https://uniondocs.org/event/2026-03-26-todo-parecia-posible/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:11.455Z"
+  },
+  {
+    "id": "cooper-union-2026-03-26-trans-ecologies-ohan-breiding-and-jill-c",
+    "title": "Trans Ecologies: Ohan Breiding and Jill Casid in Conversation",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-03-26",
+    "time_start": "16:00",
+    "description": "Conversation between artists exploring ecological transformation and contemporary practice.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/trans-ecologies-ohan-breiding-and-jill-casid-conversation",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:21.189Z"
+  },
+  {
+    "id": "moma-2026-03-27-a-summer-at-grandpa-s-hou-hsiao-hsien-19",
+    "title": "A Summer at Grandpa's (Hou Hsiao-hsien, 1984)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-03-27",
+    "time_start": "19:30",
+    "description": "Taiwanese film portraying childhood memories and family relationships.",
+    "url": "https://www.moma.org/calendar/events/11295",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.312Z"
+  },
+  {
+    "id": "metrograph-2026-03-27-allegro-non-troppo",
+    "title": "Allegro Non Troppo",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-27",
+    "time_start": "20:30",
+    "description": "Bozzetto's surreal animated feature blending classical music with avant-garde visuals.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004740",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.695Z"
+  },
+  {
+    "id": "film-forum-2026-03-27-days-and-nights-in-the-forest",
+    "title": "Days and Nights in the Forest",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-27",
+    "time_start": "15:10",
+    "description": "Satyajit Ray classic in new 4K restoration exploring human relationships in rural Bengal.",
+    "url": "https://filmforum.org/film/days-and-nights-in-the-forest",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.447Z"
+  },
+  {
+    "id": "metrograph-2026-03-27-dead-man",
+    "title": "Dead Man",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-27",
+    "time_start": "15:15",
+    "description": "Jarmusch's philosophical Western with haunting black-and-white cinematography.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999000299",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "cinematography"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.695Z"
+  },
+  {
+    "id": "whitney-2026-03-27-exhibition-tour-whitney-biennial-2026-fl",
+    "title": "Exhibition Tour: Whitney Biennial 2026 (Floor 5)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-03-27",
+    "time_start": "14:00",
+    "description": "Guided tour of the Whitney Biennial 2026.",
+    "url": "https://www.whitney.org/events/tour-whitney-biennial-2026-floor5",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:57.377Z"
+  },
+  {
+    "id": "whitney-2026-03-27-exhibition-tour-whitney-biennial-2026-fl",
+    "title": "Exhibition Tour: Whitney Biennial 2026 (Floor 6)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-03-27",
+    "time_start": "13:00",
+    "description": "Guided tour of the Whitney Biennial 2026.",
+    "url": "https://www.whitney.org/events/tour-whitney-biennial-2026-floor6",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:57.376Z"
+  },
+  {
+    "id": "metrograph-2026-03-27-goodbye-dragon-inn",
+    "title": "Goodbye, Dragon Inn",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-27",
+    "time_start": "13:30",
+    "description": "Tsai Ming-liang's meditative film about memory and cinema within a dying movie palace.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999000006",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.695Z"
+  },
+  {
+    "id": "film-forum-2026-03-27-kontinental-25",
+    "title": "Kontinental '25",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-27",
+    "time_start": "13:00",
+    "description": "Bold absurdist satire from the filmmaker behind Bad Luck Banging or Loony Porn.",
+    "url": "https://filmforum.org/film/kontinental-25",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.448Z"
+  },
+  {
+    "id": "moma-2026-03-27-ran-kurosawa-1985-",
+    "title": "Ran (Kurosawa, 1985)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-03-27",
+    "time_start": "16:00",
+    "description": "Kurosawa's epic adaptation of King Lear set in feudal Japan.",
+    "url": "https://www.moma.org/calendar/events/11287",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.312Z"
+  },
+  {
+    "id": "nyc-resistor-2026-03-27-synthesizer-night-nyc-resistor",
+    "title": "Synthesizer Night @ NYC Resistor",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-03-27",
+    "time_start": "19:30",
+    "description": "Gathering musicians and enthusiasts to connect and share passion for synthesis. BYO synth!",
+    "url": "https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-1984416255439",
+    "price": "free",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "synthesizer"
+    ],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:03.263Z"
+  },
+  {
+    "id": "metrograph-2026-03-27-the-seventh-seal",
+    "title": "The Seventh Seal",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-27",
+    "time_start": "16:20",
+    "description": "Bergman's existential masterpiece depicting mortality through a medieval knight's chess with death.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999001970",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.695Z"
+  },
+  {
+    "id": "moma-2026-03-28-almanac-of-fall-bela-tarr-1984-",
+    "title": "Almanac of Fall (Bela Tarr, 1984)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-03-28",
+    "time_start": "16:00",
+    "description": "Hungarian film exploring urban decay and philosophical disorientation.",
+    "url": "https://www.moma.org/calendar/events/11283",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.313Z"
+  },
+  {
+    "id": "genspace-2026-03-28-diy-neuroscience-mind-reading-101",
+    "title": "DIY Neuroscience: Mind Reading 101",
+    "venue_id": "genspace",
+    "venue_name": "Genspace",
+    "date": "2026-03-28",
+    "time_start": "15:00",
+    "description": "Learn and experiment with technologies that interpret electrical activity from brain cells.",
+    "url": "https://www.eventbrite.com/e/diy-neuroscience-mind-reading-101-tickets-1982252626968",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [
+      "neuroscience"
+    ],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:37.945Z"
+  },
+  {
+    "id": "whitney-2026-03-28-end-of-days-nile-harris-dyer-rhoads",
+    "title": "End of Days — Nile Harris & Dyer Rhoads",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-03-28",
+    "time_start": "12:00",
+    "description": "Performance as part of Whitney Biennial 2026.",
+    "url": "https://www.whitney.org/events/end-of-days",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:57.378Z"
+  },
+  {
+    "id": "national-sawdust-2026-03-28-infinitesimal-opera",
+    "title": "Infinitesimal Opera",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-03-28",
+    "time_start": "19:30",
+    "description": "Chamber opera blurring boundaries between science, memoir, theater, and music with expansive sonic landscape.",
+    "url": "https://www.nationalsawdust.org/event/infinitesimal-opera",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology",
+      "Climate & Environment"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:15.525Z"
+  },
+  {
+    "id": "metrograph-2026-03-28-made-in-hong-kong",
+    "title": "Made in Hong Kong",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-28",
+    "time_start": "22:15",
+    "description": "Fruit Chan's intimate portrait of youth and marginalization in Hong Kong.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999002313",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.696Z"
+  },
+  {
+    "id": "caveat-2026-03-28-nerd-nite",
+    "title": "Nerd Nite",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-03-28",
+    "time_start": "19:00",
+    "description": "Three fun-yet-informative presentations on various topics of intellectual interest.",
+    "url": "https://www.eventbrite.com/e/nerd-nite-tickets-1980492235590",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:19.688Z"
+  },
+  {
+    "id": "metrograph-2026-03-28-outskirts",
+    "title": "Outskirts",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-28",
+    "time_start": "13:10",
+    "description": "Boris Barnet's silent Soviet film with innovative cinematography.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004733",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "cinematography"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.696Z"
+  },
+  {
+    "id": "center-for-architecture-2026-03-28-walking-tour-the-architecture-of-bryant-",
+    "title": "Walking Tour: The Architecture of Bryant Park",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-03-28",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "Guided walking tour examining the architectural design and development of Bryant Park.",
+    "url": "https://calendar.aiany.org/2026/03/28/walking-tour-the-architecture-of-bryant-park-14/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:56.302Z"
+  },
+  {
+    "id": "moma-ps1-2026-03-28-wampum-belt-weaving-with-metoac-indigeno",
+    "title": "Wampum Belt Weaving with Metoac Indigenous Collective",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-03-28",
+    "time_start": "12:00",
+    "time_end": "14:30",
+    "description": "Collaborative workshop featuring wampum belt weaving, historically used by northeastern Indigenous communities to record treaties.",
+    "url": "https://www.momaps1.org/en/events/746-wampum-belt-weaving",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:13.644Z"
+  },
+  {
+    "id": "nyc-resistor-2026-03-29-diyaudio-nyc-march-meetup",
+    "title": "diyaudio.nyc March Meetup",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-03-29",
+    "time_start": "13:00",
+    "description": "Meetup for DIY audio enthusiasts to learn about making home audio gear and speaker projects.",
+    "url": "https://www.eventbrite.com/e/diyaudionyc-march-meetup-tickets-1984415233382",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:03.265Z"
+  },
+  {
+    "id": "center-for-architecture-2026-03-29-energies-of-repair-tour-sunset-park-toxi",
+    "title": "Energies of Repair Tour: Sunset Park Toxicity with UPROSE",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-03-29",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "description": "Walking tour exploring environmental justice and community resilience in Sunset Park.",
+    "url": "https://calendar.aiany.org/2026/03/29/energies-of-repair-tour-sunset-park-toxicity-with-uprose/",
+    "format": "tour",
+    "interest_score": 5,
+    "tags": [
+      "environmental-justice"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:56.303Z"
+  },
+  {
+    "id": "union-docs-2026-03-29-just-a-movement",
+    "title": "Just A Movement",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-03-29",
+    "time_start": "19:30",
+    "description": "A meditation on the relationship between politics, justice, and memory.",
+    "url": "https://uniondocs.org/event/2026-03-29-just-a-movement/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:11.456Z"
+  },
+  {
+    "id": "pioneer-works-2026-03-29-meshell-ndegeocello",
+    "title": "Meshell Ndegeocello",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-03-29",
+    "time_start": "20:00",
+    "description": "Grammy-winning bassist and singer-songwriter performing as part of Winter Jazz Fest.",
+    "url": "https://www.eventbrite.com/e/meshell-ndegeocello-tickets-1782839233139",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.290Z"
+  },
+  {
+    "id": "film-forum-2026-03-30-cl-o-from-5-to-7",
+    "title": "Cléo from 5 to 7",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-30",
+    "time_start": "18:30",
+    "description": "Varda's influential New Wave film following a woman during two hours of her life in real time.",
+    "url": "https://filmforum.org/film/cleo-from-5-to-7-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.448Z"
+  },
+  {
+    "id": "cooper-union-2026-03-30-geometric-letters-and-architecture-from-",
+    "title": "Geometric Letters and Architecture: From Antiquity to Enric Miralles",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-03-30",
+    "time_start": "12:30",
+    "description": "Exploration of geometric letterforms and their relationship to architectural design across historical periods.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/geometric-letters-and-architecture-antiquity-enric-miralles-and",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:21.190Z"
+  },
+  {
+    "id": "metrograph-2026-03-30-irma-vep",
+    "title": "Irma Vep",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-30",
+    "time_start": "22:00",
+    "description": "Assayas's metacinematic exploration of filmmaking, performance, and artistic obsession.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999000516",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.697Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-03-30-phd-in-urban-planning-lecture-faranak-mi",
+    "title": "PhD in Urban Planning Lecture: Faranak Miraftab",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-03-30",
+    "time_start": "18:30",
+    "description": "Lecture on urban planning, infrastructure, and public space.",
+    "url": "https://www.arch.columbia.edu/events/4125-ph-d-in-urban-planning-lecture-faranak-miraftab",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "infrastructure",
+      "urban-planning",
+      "public-space"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:59.525Z"
+  },
+  {
+    "id": "metrograph-2026-03-30-stalker",
+    "title": "Stalker",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-30",
+    "time_start": "16:15",
+    "description": "Tarkovsky's philosophical science-fiction meditation on desire, faith, and human meaning.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999001012",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.696Z"
+  },
+  {
+    "id": "metrograph-2026-03-30-the-wind-will-carry-us",
+    "title": "The Wind Will Carry Us",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-03-30",
+    "time_start": "19:35",
+    "description": "Kiarostami's contemplative film exploring mortality and human connection in rural Iran.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004695",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:14.696Z"
+  },
+  {
+    "id": "moma-2026-03-30-variety-bette-gordon-1983-",
+    "title": "Variety (Bette Gordon, 1983)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-03-30",
+    "time_start": "16:00",
+    "description": "Film examining voyeurism, surveillance, and urban observation.",
+    "url": "https://www.moma.org/calendar/events/11289",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.313Z"
+  },
+  {
+    "id": "national-sawdust-2026-03-31-eunbi-kim-it-feels-like-a-dream",
+    "title": "Eunbi Kim: it feels like a dream",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-03-31",
+    "time_start": "19:30",
+    "description": "Immersive multimedia sonic memoir combining classical music with indie-pop and projected visuals.",
+    "url": "https://www.nationalsawdust.org/event/eunbi-kim-it-feels-like-a-dream",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:15.526Z"
+  },
+  {
+    "id": "film-forum-2026-03-31-faces-places",
+    "title": "Faces Places",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-31",
+    "time_start": "16:50",
+    "description": "Varda's late collaboration creating large-scale portraits with artist JR across French landscapes.",
+    "url": "https://filmforum.org/film/faces-places-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.448Z"
+  },
+  {
+    "id": "cooper-union-2026-03-31-french-2d-processing-dwelling-pettersen-",
+    "title": "French 2D: Processing Dwelling (Pettersen Lecture)",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-03-31",
+    "time_start": "18:30",
+    "description": "Lecture examining housing design approaches and spatial processing in contemporary architecture.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/eleanore-pettersen-lecture-french-2d-processing-dwelling",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "housing"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:21.191Z"
+  },
+  {
+    "id": "light-industry-2026-03-31-john-cook-s-i-just-can-t-go-on",
+    "title": "John Cook's I Just Can't Go On",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-03-31",
+    "description": "Screening of experimental film work by artist John Cook.",
+    "url": "https://www.lightindustry.org/johncook",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:11.541Z"
+  },
+  {
+    "id": "film-forum-2026-03-31-lions-love-and-lies-",
+    "title": "Lions Love (... and Lies)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-31",
+    "time_start": "19:30",
+    "description": "Varda's avant-garde Los Angeles film about artists, identity, and documentary truth.",
+    "url": "https://filmforum.org/film/lions-love-and-lies-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.448Z"
+  },
+  {
+    "id": "pioneer-works-2026-03-31-lubomyr-melnyk",
+    "title": "Lubomyr Melnyk",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-03-31",
+    "time_start": "20:00",
+    "description": "Pianist performing experimental continuous music — 'a cascading choir of sound.'",
+    "url": "https://www.eventbrite.com/e/lubomyr-melnyk-tickets-1981377443270",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.291Z"
+  },
+  {
+    "id": "moma-2026-03-31-smithereens-susan-seidelman-1982-",
+    "title": "Smithereens (Susan Seidelman, 1982)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-03-31",
+    "time_start": "19:00",
+    "description": "Capturing 1980s downtown New York youth culture and indie aesthetics.",
+    "url": "https://www.moma.org/calendar/events/11285",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "aesthetics"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.313Z"
+  },
+  {
+    "id": "film-forum-2026-03-31-varda-by-agn-s",
+    "title": "Varda by Agnès",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-03-31",
+    "time_start": "14:20",
+    "description": "Varda's final film, a personal documentary reflection on her life and artistic practice.",
+    "url": "https://filmforum.org/film/varda-by-agnes-agnes-varda",
+    "price": "$11-17",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:19:58.448Z"
+  },
+  {
+    "id": "moma-2026-03-31-veronika-voss-fassbinder-1982-",
+    "title": "Veronika Voss (Fassbinder, 1982)",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-03-31",
+    "time_start": "16:30",
+    "description": "Fassbinder's film exploring addiction and post-war nostalgia.",
+    "url": "https://www.moma.org/calendar/events/11299",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:23.313Z"
+  },
+  {
+    "id": "mcnally-jackson-2026-03-31-we-jazz-magazine-spring-issue-launch",
+    "title": "We Jazz Magazine Spring Issue Launch",
+    "venue_id": "mcnally-jackson",
+    "venue_name": "McNally Jackson",
+    "date": "2026-03-31",
+    "time_start": "19:00",
+    "description": "Launch celebration for experimental music and culture publication.",
+    "url": "https://www.mcnallyjackson.com/event/we-jazz-magazine-spring-issue-launch",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [
+      "experimental-music"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:50:49.139Z"
+  }
+]

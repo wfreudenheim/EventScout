@@ -1,0 +1,366 @@
+{
+  "description": "Scoring calibration set. Rate each event 0-5 based on personal interest. 0 = would never go, 1 = vaguely aware it exists, 2 = might go if nothing else, 3 = interested, would consider, 4 = definitely want to go, 5 = drop everything.",
+  "events": [
+    {
+      "id": "cal-01",
+      "title": "Oneohtrix Point Never + Tyondai Braxton",
+      "venue": "Pioneer Works",
+      "description": "Experimental electronic performance with live visual elements. OPN premiering new audiovisual work.",
+      "format": "music",
+      "source": "real",
+      "user_score": 3
+    },
+    {
+      "id": "cal-02",
+      "title": "Lea Bertucci & Norbert Rodenkirchen: 8-channel flute composition",
+      "venue": "Issue Project Room",
+      "description": "New composition for sampled and live early flutes in 8-channel sound.",
+      "format": "music",
+      "source": "real",
+      "user_score": 2
+    },
+    {
+      "id": "cal-03",
+      "title": "Perfect Blue (Satoshi Kon)",
+      "venue": "Metrograph",
+      "description": "Hallucinatory anime about celebrity, identity, and psychological dissolution. 35mm print.",
+      "format": "screening",
+      "source": "real",
+      "user_score": 4
+    },
+    {
+      "id": "cal-04",
+      "title": "Stalker (Tarkovsky)",
+      "venue": "Metrograph",
+      "description": "Philosophical science-fiction meditation on desire, faith, and human meaning. DCP restoration.",
+      "format": "screening",
+      "source": "real",
+      "user_score": 5
+    },
+    {
+      "id": "cal-05",
+      "title": "Consensual Hacking (Melanie Hoff)",
+      "venue": "School for Poetic Computation",
+      "description": "One-day workshop exploring ethical approaches to hacking, network security, and technology.",
+      "format": "workshop",
+      "source": "real",
+      "user_score": 3
+    },
+    {
+      "id": "cal-06",
+      "title": "Science & Society: Do Forests Feel?",
+      "venue": "Pioneer Works",
+      "description": "Interdisciplinary discussion exploring scientific perspectives on forest ecosystems and consciousness.",
+      "format": "talk",
+      "source": "real",
+      "user_score": 3
+    },
+    {
+      "id": "cal-07",
+      "title": "Synthesizer Night @ NYC Resistor",
+      "venue": "NYC Resistor",
+      "description": "Open jam for synth enthusiasts. BYO modular, semi-modular, or whatever you've got. Casual, social.",
+      "format": "music",
+      "source": "real",
+      "user_score": 3
+    },
+    {
+      "id": "cal-08",
+      "title": "Nerd Nite NYC",
+      "venue": "Caveat",
+      "description": "Three 20-minute presentations on random intellectual topics. Past talks: archaeology of sewers, math of juggling, neuroscience of dreams.",
+      "format": "talk",
+      "source": "real",
+      "user_score": 1,
+      "notes": "Explicitly nerd-coded branding is annoying"
+    },
+    {
+      "id": "cal-09",
+      "title": "Energies of Repair Tour: Sunset Park Toxicity with UPROSE",
+      "venue": "Center for Architecture",
+      "description": "Walking tour exploring environmental justice and community resilience in Sunset Park's industrial waterfront.",
+      "format": "tour",
+      "source": "real",
+      "user_score": 5
+    },
+    {
+      "id": "cal-10",
+      "title": "Whitney Biennial 2026 — Guided Tour (Floor 6)",
+      "venue": "Whitney Museum",
+      "description": "Docent-led tour of the current Biennial exhibition.",
+      "format": "gallery",
+      "source": "real",
+      "user_score": 3
+    },
+    {
+      "id": "cal-11",
+      "title": "Exhibition Tour: Agnès Varda retrospective Q&A",
+      "venue": "Film Forum",
+      "description": "Les Créatures screening followed by scholar discussion on Varda's experimental narrative techniques.",
+      "format": "screening",
+      "source": "real",
+      "user_score": 5
+    },
+    {
+      "id": "cal-12",
+      "title": "Intro to Soldering: Make an LED Tile",
+      "venue": "NYC Resistor",
+      "description": "Hands-on beginner workshop. Learn to solder through-hole components and build a working LED tile.",
+      "format": "workshop",
+      "source": "real",
+      "user_score": 3
+    },
+    {
+      "id": "cal-13",
+      "title": "On Prosthetics: Berenice Olmedo and David Gissen in Conversation",
+      "venue": "New Museum",
+      "description": "Artists and theorists discuss prosthetics, technology, and expanded notions of the body.",
+      "format": "talk",
+      "source": "real",
+      "user_score": 5
+    },
+    {
+      "id": "cal-14",
+      "title": "Ende Tymes 16: Jeph Jerman, Pedestrian Deposit + more",
+      "venue": "Pioneer Works",
+      "description": "Annual noise/experimental festival. Harsh noise, field recordings, prepared instruments, contact mic works.",
+      "format": "music",
+      "source": "real",
+      "user_score": 3
+    },
+    {
+      "id": "cal-15",
+      "title": "The Whole Shebang: Celebrating Ken & Flo Jacobs",
+      "venue": "UnionDocs + 13 other venues",
+      "description": "Fourteen-venue expanded cinema salute to experimental cinema legends Ken and Flo Jacobs.",
+      "format": "screening",
+      "source": "real",
+      "user_score": 4
+    },
+    {
+      "id": "cal-16",
+      "title": "Real-time Rendering as Cinematic Practice: Game Engines and the Moving Image",
+      "venue": "NYU ITP",
+      "description": "Panel with artists using Unreal Engine and Unity for experimental animation and virtual production. Includes demo of real-time mocap-to-render pipeline.",
+      "format": "talk",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-17",
+      "title": "Computational Neuroscience Colloquium: Predictive Coding and Visual Perception",
+      "venue": "NYU Center for Neural Science",
+      "description": "Faculty seminar on hierarchical predictive processing models of the visual cortex. Speaker from Gatsby Computational Neuroscience Unit, UCL.",
+      "format": "talk",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-18",
+      "title": "Reading Group: Gilbert Simondon's 'On the Mode of Existence of Technical Objects'",
+      "venue": "e-flux",
+      "description": "Monthly reading group session. This month: chapters 3-4 on the genesis of technical objects and the relation between technology and culture.",
+      "format": "talk",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-19",
+      "title": "Bioart Lab: Growing Circuits with Slime Mold",
+      "venue": "Genspace",
+      "description": "Workshop using Physarum polycephalum to create living biological circuits. Participants grow their own bio-computational systems.",
+      "format": "workshop",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-20",
+      "title": "Apichatpong Weerasethakul: New Short Films + Q&A",
+      "venue": "Anthology Film Archives",
+      "description": "World premiere of two new short films by the Thai director, followed by conversation with Dennis Lim.",
+      "format": "screening",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-21",
+      "title": "Climate Futures Workshop: Speculative Infrastructure for a 3°C World",
+      "venue": "Columbia GSAPP",
+      "description": "Design workshop imagining infrastructure adaptations for extreme climate scenarios. Teams prototype urban water systems, cooling networks, and food distribution.",
+      "format": "workshop",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-22",
+      "title": "Pen Plotter Social: Bring Your Plots",
+      "venue": "NYC Resistor",
+      "description": "Informal meetup for pen plotter enthusiasts. Share your latest generative art plots. Axidraw and HP plotters available to try.",
+      "format": "workshop",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-23",
+      "title": "Indonesian Film Night: Joko Anwar double feature",
+      "venue": "Museum of the Moving Image",
+      "description": "Satan's Slaves (2017) and Impetigore (2019) double feature with curator introduction on Indonesian genre cinema.",
+      "format": "screening",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-24",
+      "title": "Demoscene to Gallery: Real-time Graphics as Art Form",
+      "venue": "Eyebeam",
+      "description": "Exhibition opening featuring shader art, 64K intros, and live-coded visuals. Artists from the demoscene and creative coding communities.",
+      "format": "opening",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-25",
+      "title": "History of Computing Lecture: The ARPANET Letters",
+      "venue": "Simons Foundation",
+      "description": "Historian presents newly uncovered correspondence between early internet architects. How social dynamics shaped network protocols.",
+      "format": "talk",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-26",
+      "title": "Live Coding Night: Hydra + TidalCycles",
+      "venue": "Babycastles",
+      "description": "Performances and open jam using Hydra (visuals) and TidalCycles (music). Beginners welcome, laptops available.",
+      "format": "music",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-27",
+      "title": "Landscape Architecture Lecture: Rewilding the Urban Edge",
+      "venue": "Center for Architecture",
+      "description": "Talk on ecological restoration projects along NYC's industrial waterfronts. Case studies from Gowanus, Newtown Creek, and the Bronx River.",
+      "format": "talk",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-28",
+      "title": "Brutalism Walking Tour: Government Center to Civic Center",
+      "venue": "Municipal Art Society",
+      "description": "Walking tour of NYC brutalist architecture from the 1960s-70s civic building boom.",
+      "format": "tour",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-29",
+      "title": "Gallery Opening: Emerging Painters Group Show",
+      "venue": "Canyon (Bushwick)",
+      "description": "Group show featuring six emerging painters working in abstraction. Opening reception with DJ.",
+      "format": "opening",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-30",
+      "title": "Worldbuilding Symposium: Designing Fictional Ecologies",
+      "venue": "The New School (Parsons)",
+      "description": "One-day symposium on speculative ecology in games, film, and fiction. Speakers include sci-fi authors, game designers, and ecological modelers.",
+      "format": "conference",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-31",
+      "title": "Jazz at Lincoln Center: Wynton Marsalis Big Band",
+      "venue": "Lincoln Center",
+      "description": "Standard big band jazz concert.",
+      "format": "music",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-32",
+      "title": "Watercolor Workshop for Beginners",
+      "venue": "92nd Street Y",
+      "description": "Six-week watercolor painting course for adult beginners. No experience necessary.",
+      "format": "workshop",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-33",
+      "title": "Celebrity Chef Book Signing",
+      "venue": "Barnes & Noble Union Square",
+      "description": "Cookbook signing with TV chef. Line starts at 5pm.",
+      "format": "reading",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-34",
+      "title": "Corporate Innovation Summit: AI in Enterprise",
+      "venue": "Javits Center",
+      "description": "B2B conference on AI implementation in Fortune 500 companies. Keynotes from Microsoft and Salesforce.",
+      "format": "conference",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-35",
+      "title": "Standup Comedy: Open Mic Night",
+      "venue": "The Comedy Cellar",
+      "description": "Weekly open mic. Sign up at 5pm.",
+      "format": "performance",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-36",
+      "title": "BCI Hackathon: Brain-Computer Interfaces for Creative Expression",
+      "venue": "NYU Tandon",
+      "description": "48-hour hackathon building brain-computer interface prototypes for art, music, and interactive media. EEG headsets provided. Teams present demos on Sunday.",
+      "format": "workshop",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-37",
+      "title": "Donna Haraway in Conversation: Staying with the Trouble",
+      "venue": "The New School (NSSR)",
+      "description": "Public conversation with Donna Haraway on multispecies justice, tentacular thinking, and making kin in the Chthulucene.",
+      "format": "talk",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-38",
+      "title": "Abstract Expressionism: Permanent Collection Highlights Tour",
+      "venue": "MoMA",
+      "description": "Standard docent tour of the permanent collection focusing on Rothko, Pollock, de Kooning.",
+      "format": "gallery",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-39",
+      "title": "Modular Synth Build Workshop: Serge-inspired VCO",
+      "venue": "NYC Resistor",
+      "description": "Build a Serge-inspired voltage-controlled oscillator module from scratch. Through-hole soldering, PCB provided. Takes ~4 hours.",
+      "format": "workshop",
+      "source": "synthetic",
+      "user_score": null
+    },
+    {
+      "id": "cal-40",
+      "title": "Animation After Dark: Chris Landreth, Jodie Mack, and Semiconductor",
+      "venue": "Museum of the Moving Image",
+      "description": "Triple bill of experimental animation: Landreth's CG psychological portraits, Mack's material-based 16mm films, and Semiconductor's geological data visualizations.",
+      "format": "screening",
+      "source": "synthetic",
+      "user_score": null
+    }
+  ]
+}

@@ -1,0 +1,3314 @@
+[
+  {
+    "uid": 1,
+    "from": "\"Google\" <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "date": "2026-07-25T13:42:22.000Z",
+    "file": "data\\inbox\\1-security-alert.html",
+    "processed": true
+  },
+  {
+    "uid": 2,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "Please confirm your subscription",
+    "date": "2026-07-25T13:47:47.000Z",
+    "file": "data\\inbox\\2-please-confirm-your-subscription.html",
+    "processed": true
+  },
+  {
+    "uid": 3,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Confirm your subscription",
+    "date": "2026-07-25T13:47:49.000Z",
+    "file": "data\\inbox\\3-confirm-your-subscription.html",
+    "processed": true
+  },
+  {
+    "uid": 4,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "Welcome from MoMA!",
+    "date": "2026-07-25T13:48:48.000Z",
+    "file": "data\\inbox\\4-welcome-from-moma.html",
+    "processed": true
+  },
+  {
+    "uid": 5,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Please Confirm Your Subscription",
+    "date": "2026-07-25T13:49:43.000Z",
+    "file": "data\\inbox\\5-please-confirm-your-subscription.html",
+    "processed": true
+  },
+  {
+    "uid": 6,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "Weekly Email: Subscription Confirmed",
+    "date": "2026-07-25T13:50:20.000Z",
+    "file": "data\\inbox\\6-weekly-email-subscription-confirmed.html",
+    "processed": true
+  },
+  {
+    "uid": 7,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "Please confirm your subscription to The Shed communications",
+    "date": "2026-07-25T13:52:16.000Z",
+    "file": "data\\inbox\\7-please-confirm-your-subscription-to-the-shed-commu.html",
+    "processed": true
+  },
+  {
+    "uid": 8,
+    "from": "\"The Center for Science and Society at Columbia\" <scienceandsociety@columbia.edu>",
+    "subject": "Welcome to the Center for Science and Society",
+    "date": "2026-07-25T13:59:32.000Z",
+    "file": "data\\inbox\\8-welcome-to-the-center-for-science-and-society.html",
+    "processed": true
+  },
+  {
+    "uid": 9,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Thank you! Please Confirm Subscription",
+    "date": "2026-07-25T14:02:39.000Z",
+    "file": "data\\inbox\\9-thank-you-please-confirm-subscription.html",
+    "processed": true
+  },
+  {
+    "uid": 10,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Welcome to Screen Slate!",
+    "date": "2026-07-25T14:03:47.000Z",
+    "file": "data\\inbox\\10-welcome-to-screen-slate.html",
+    "processed": true
+  },
+  {
+    "uid": 11,
+    "from": "\"Bard Graduate Center\" <news@bgc.bard.edu>",
+    "subject": "Welcome to Bard Graduate Center!",
+    "date": "2026-07-25T14:08:22.000Z",
+    "file": "data\\inbox\\11-welcome-to-bard-graduate-center.html",
+    "processed": true
+  },
+  {
+    "uid": 12,
+    "from": "\"SOF/Heyman\" <sofheyman@columbia.edu>",
+    "subject": "SOF/Heyman Newsletter: Subscription Confirmed",
+    "date": "2026-07-25T14:10:28.000Z",
+    "file": "data\\inbox\\12-sof-heyman-newsletter-subscription-confirmed.html",
+    "processed": true
+  },
+  {
+    "uid": 13,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Chris McCormack on Tolia Astakhishvili’s “Figure of the Child” at mumok, Vienna",
+    "date": "2026-07-25T14:10:41.000Z",
+    "file": "data\\inbox\\13-review-chris-mccormack-on-tolia-astakhishvili-s-fi.html",
+    "processed": true
+  },
+  {
+    "uid": 14,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "Mailing List: Subscription Confirmed",
+    "date": "2026-07-25T14:11:14.000Z",
+    "file": "data\\inbox\\14-mailing-list-subscription-confirmed.html",
+    "processed": true
+  },
+  {
+    "uid": 15,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "Thanks for joining Broadcast!",
+    "date": "2026-07-25T14:10:26.000Z",
+    "file": "data\\inbox\\15-thanks-for-joining-broadcast.html",
+    "processed": true
+  },
+  {
+    "uid": 16,
+    "from": "\"Google\" <no-reply@accounts.google.com>",
+    "subject": "2-Step Verification turned on",
+    "date": "2026-07-25T14:24:31.000Z",
+    "file": "data\\inbox\\16-2-step-verification-turned-on.html",
+    "processed": true
+  },
+  {
+    "uid": 17,
+    "from": "\"Google\" <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "date": "2026-07-25T14:25:34.000Z",
+    "file": "data\\inbox\\17-security-alert.html",
+    "processed": true
+  },
+  {
+    "uid": 18,
+    "from": "\"Google\" <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "date": "2026-07-25T14:26:14.000Z",
+    "file": "data\\inbox\\18-security-alert.html",
+    "processed": true
+  },
+  {
+    "uid": 19,
+    "from": "\"e-flux Events\" <events@mailer.e-flux.com>",
+    "subject": "Please confirm your subscription",
+    "date": "2026-07-25T14:32:40.000Z",
+    "file": "data\\inbox\\19-please-confirm-your-subscription.html",
+    "processed": true
+  },
+  {
+    "uid": 20,
+    "from": "\"Luma\" <support@luma.com>",
+    "subject": "476169 is your Luma sign-in code",
+    "date": "2026-07-25T14:48:15.000Z",
+    "file": "data\\inbox\\20-476169-is-your-luma-sign-in-code.html",
+    "processed": true
+  },
+  {
+    "uid": 21,
+    "from": "\"La MaMa\" <programs@lamama.org>",
+    "subject": "Main List: Subscription Confirmed",
+    "date": "2026-07-25T14:51:05.000Z",
+    "file": "data\\inbox\\21-main-list-subscription-confirmed.html",
+    "processed": true
+  },
+  {
+    "uid": 22,
+    "from": "\"Swiss Institute / Contemporary Art\" <info@swissinstitute.net>",
+    "subject": "Swiss Institute: Subscription Confirmed",
+    "date": "2026-07-25T14:52:59.000Z",
+    "file": "data\\inbox\\22-swiss-institute-subscription-confirmed.html",
+    "processed": true
+  },
+  {
+    "uid": 23,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "Thanks for signing up!",
+    "date": "2026-07-25T14:54:10.000Z",
+    "file": "data\\inbox\\23-thanks-for-signing-up.html",
+    "processed": true
+  },
+  {
+    "uid": 24,
+    "from": "\"Onassis ONX\" <contact@onx.studio>",
+    "subject": "Comprehensive ONX Mailing List: Please Confirm Subscription",
+    "date": "2026-07-25T14:54:25.000Z",
+    "file": "data\\inbox\\24-comprehensive-onx-mailing-list-please-confirm-subs.html",
+    "processed": true
+  },
+  {
+    "uid": 25,
+    "from": "\"The Helix Center\" <info@helixcenter.org>",
+    "subject": "Helix Center Listserv: Please Confirm Subscription",
+    "date": "2026-07-25T14:55:33.000Z",
+    "file": "data\\inbox\\25-helix-center-listserv-please-confirm-subscription.html",
+    "processed": true
+  },
+  {
+    "uid": 26,
+    "from": "\"Data & Society Research Institute\" <info@datasociety.net>",
+    "subject": "Data & Society announcements: Please Confirm Subscription",
+    "date": "2026-07-25T14:56:31.000Z",
+    "file": "data\\inbox\\26-data-society-announcements-please-confirm-subscrip.html",
+    "processed": true
+  },
+  {
+    "uid": 27,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Welcome to Japan Society!",
+    "date": "2026-07-25T15:01:20.000Z",
+    "file": "data\\inbox\\27-welcome-to-japan-society.html",
+    "processed": true
+  },
+  {
+    "uid": 28,
+    "from": "\"The Helix Center\" <info@helixcenter.org>",
+    "subject": "Helix Center Listserv: Subscription Confirmed",
+    "date": "2026-07-25T15:03:02.000Z",
+    "file": "data\\inbox\\28-helix-center-listserv-subscription-confirmed.html",
+    "processed": true
+  },
+  {
+    "uid": 29,
+    "from": "\"Data & Society Research Institute\" <info@datasociety.net>",
+    "subject": "Data & Society announcements: Subscription Confirmed",
+    "date": "2026-07-25T15:03:16.000Z",
+    "file": "data\\inbox\\29-data-society-announcements-subscription-confirmed.html",
+    "processed": true
+  },
+  {
+    "uid": 30,
+    "from": "\"Austrian Cultural Forum\" <info@acfny.org>",
+    "subject": "Austrian Cultural Forum New York: Subscription Confirmed",
+    "date": "2026-07-25T15:03:58.000Z",
+    "file": "data\\inbox\\30-austrian-cultural-forum-new-york-subscription-conf.html",
+    "processed": true
+  },
+  {
+    "uid": 31,
+    "from": "\"Data & Society Research Institute\" <info@datasociety.net>",
+    "subject": "Welcome to Data & Society!",
+    "date": "2026-07-25T15:04:20.000Z",
+    "file": "data\\inbox\\31-welcome-to-data-society.html",
+    "processed": true
+  },
+  {
+    "uid": 32,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Correction: Do the Right Thing Double Feature + Rockaway Chamber Music with Herzog's Lessons of Darkness",
+    "date": "2026-07-25T16:03:35.000Z",
+    "file": "data\\inbox\\32-correction-do-the-right-thing-double-feature-rocka.html",
+    "processed": true
+  },
+  {
+    "uid": 33,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Dread Beat an Blood",
+    "date": "2026-07-25T16:46:59.000Z",
+    "file": "data\\inbox\\33-dread-beat-an-blood.html",
+    "processed": true
+  },
+  {
+    "uid": 34,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "Find your new favorite artworks in our galleries and online",
+    "date": "2026-07-26T13:49:51.000Z",
+    "file": "data\\inbox\\34-find-your-new-favorite-artworks-in-our-galleries-a.html",
+    "processed": true
+  },
+  {
+    "uid": 35,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Masked and Anonymous",
+    "date": "2026-07-26T16:11:50.000Z",
+    "file": "data\\inbox\\35-masked-and-anonymous.html",
+    "processed": true
+  },
+  {
+    "uid": 36,
+    "from": "\"The New York Public Library\" <enews@email.nypl.org>",
+    "subject": "NYPL Events: Celebrate reading with a summer party at Lincoln Center, enjoy live performances from local artists at our studio40 showcase, and more!",
+    "date": "2026-07-26T23:02:28.000Z",
+    "file": "data\\inbox\\36-nypl-events-celebrate-reading-with-a-summer-party-.html",
+    "processed": true
+  },
+  {
+    "uid": 37,
+    "from": "\"n+1\" <subs@nplusonemag.com>",
+    "subject": "Welcome to n+1!",
+    "date": "2026-07-27T04:00:22.000Z",
+    "file": "data\\inbox\\37-welcome-to-n-1.html",
+    "processed": true
+  },
+  {
+    "uid": 38,
+    "from": "\"e-flux Events\" <events@mailer.e-flux.com>",
+    "subject": "This week at e-flux: Coleman Collins and Hirokazu Kore-eda",
+    "date": "2026-07-27T13:06:15.000Z",
+    "file": "data\\inbox\\38-this-week-at-e-flux-coleman-collins-and-hirokazu-k.html",
+    "processed": true
+  },
+  {
+    "uid": 39,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "Weekly Email: Subscription Confirmed",
+    "date": "2026-07-27T15:31:20.000Z",
+    "file": "data\\inbox\\39-weekly-email-subscription-confirmed.html",
+    "processed": true
+  },
+  {
+    "uid": 40,
+    "from": "\"Jalopy Theatre and School of Music\" <no-reply@campaign-preferences.com>",
+    "subject": "Confirm your subscription to Jalopy Theatre and School of Music",
+    "date": "2026-07-27T15:40:10.000Z",
+    "file": "data\\inbox\\40-confirm-your-subscription-to-jalopy-theatre-and-sc.html",
+    "processed": true
+  },
+  {
+    "uid": 41,
+    "from": "\"Flushing Town Hall\" <boxoffice@flushingtownhall.ccsend.com>",
+    "subject": "Will, Meet the World at Flushing Town Hall",
+    "date": "2026-07-27T15:42:44.000Z",
+    "file": "data\\inbox\\41-will-meet-the-world-at-flushing-town-hall.html",
+    "processed": true
+  },
+  {
+    "uid": 42,
+    "from": "\"Lincoln Center\" <info@lincolncenter.org>",
+    "subject": "Please Confirm Your Email Subscription",
+    "date": "2026-07-27T15:43:08.000Z",
+    "file": "data\\inbox\\42-please-confirm-your-email-subscription.html",
+    "processed": true
+  },
+  {
+    "uid": 43,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Hold Everything Dear – John Berger and Cinema",
+    "date": "2026-07-27T15:45:53.000Z",
+    "file": "data\\inbox\\43-hold-everything-dear-john-berger-and-cinema.html",
+    "processed": true
+  },
+  {
+    "uid": 44,
+    "from": "\"Drom\" <office@dromnyc.com>",
+    "subject": "This Week at DROM: LAMC Showcases: Sony Music Latin, Warner Music Latina, Sounds of Spain, Argentina Rising, The Hustle: 70’s Disco Party, Elijah Lyons & The Renaissance, WHO’S DANCING? No-Phones Live Funk Dance Party, JUZU & NIÑO DISCO, DEL MISMO RACIMO, and Flamenco Jazz Jam. DROM ON TOUR CONCERTS: Cem Adrian, Mor ve Otesi & Gomercin Kuslari",
+    "date": "2026-07-27T16:43:26.000Z",
+    "file": "data\\inbox\\44-this-week-at-drom-lamc-showcases-sony-music-latin-.html",
+    "processed": true
+  },
+  {
+    "uid": 45,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "Sanctuary as Collective Practice | Join Us on July 29",
+    "date": "2026-07-27T21:15:18.000Z",
+    "file": "data\\inbox\\45-sanctuary-as-collective-practice-join-us-on-july-2.html",
+    "processed": true
+  },
+  {
+    "uid": 46,
+    "from": "\"Rhizome News\" <info@rhizome.org>",
+    "subject": "Escaping the Calculating Machine",
+    "date": "2026-07-27T21:24:29.000Z",
+    "file": "data\\inbox\\46-escaping-the-calculating-machine.html",
+    "processed": true
+  },
+  {
+    "uid": 47,
+    "from": "\"Afropop Worldwide\" <info@afropop.org>",
+    "subject": "Afropop Worldwide Newsletter: Subscription Confirmed",
+    "date": "2026-07-28T12:19:46.000Z",
+    "file": "data\\inbox\\47-afropop-worldwide-newsletter-subscription-confirme.html",
+    "processed": true
+  },
+  {
+    "uid": 48,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Katherine C. M. Adams on Yehwan Song’s “The Other Internet” at Subtitled NYC, New York",
+    "date": "2026-07-28T14:09:45.000Z",
+    "file": "data\\inbox\\48-review-katherine-c-m-adams-on-yehwan-song-s-the-ot.html",
+    "processed": true
+  },
+  {
+    "uid": 49,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "NYFF64 Centerpiece selection announced 🎟️",
+    "date": "2026-07-28T15:21:32.000Z",
+    "file": "data\\inbox\\49-nyff64-centerpiece-selection-announced.html",
+    "processed": true
+  },
+  {
+    "uid": 50,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Bigger Than Life // Mississippi Triangle",
+    "date": "2026-07-28T17:07:27.000Z",
+    "file": "data\\inbox\\50-bigger-than-life-mississippi-triangle.html",
+    "processed": true
+  },
+  {
+    "uid": 51,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "ISSUE Online Exclusive Preview + Early Access Tickets",
+    "date": "2026-07-28T18:04:03.000Z",
+    "file": "data\\inbox\\51-issue-online-exclusive-preview-early-access-ticket.html",
+    "processed": true
+  },
+  {
+    "uid": 52,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "Julieta Venegas, La India, Breakbeat Lou, WayV, and more",
+    "date": "2026-07-28T18:32:47.000Z",
+    "file": "data\\inbox\\52-julieta-venegas-la-india-breakbeat-lou-wayv-and-mo.html",
+    "processed": true
+  },
+  {
+    "uid": 53,
+    "from": "\"UnionDocs\" <info@uniondocs.org>",
+    "subject": "K-Family Affairs Screening Outside on the Handball Court & Summer Lab Pitch Bingo! Plus, we’re hiring, join the team!",
+    "date": "2026-07-28T18:59:13.000Z",
+    "file": "data\\inbox\\53-k-family-affairs-screening-outside-on-the-handball.html",
+    "processed": true
+  },
+  {
+    "uid": 54,
+    "from": "\"Onassis ONX\" <contact@onx.studio>",
+    "subject": "🦁 ONX @ Venice Immersive 2026 📚 Summer School 2026",
+    "date": "2026-07-28T19:21:27.000Z",
+    "file": "data\\inbox\\54-onx-venice-immersive-2026-summer-school-2026.html",
+    "processed": true
+  },
+  {
+    "uid": 55,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "See it big — in 70mm — starting this weekend with Kubrick's 2001!",
+    "date": "2026-07-29T14:32:26.000Z",
+    "file": "data\\inbox\\55-see-it-big-in-70mm-starting-this-weekend-with-kubr.html",
+    "processed": true
+  },
+  {
+    "uid": 56,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: Marcel Duchamp on Film; Hold Everything Dear: John Berger and Cinema; IN THE BATTLEFIELDS & EC",
+    "date": "2026-07-29T15:17:26.000Z",
+    "file": "data\\inbox\\56-this-week-at-afa-marcel-duchamp-on-film-hold-every.html",
+    "processed": true
+  },
+  {
+    "uid": 57,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "Immerse yourself in the Starry Night as never before",
+    "date": "2026-07-29T16:02:19.000Z",
+    "file": "data\\inbox\\57-immerse-yourself-in-the-starry-night-as-never-befo.html",
+    "processed": true
+  },
+  {
+    "uid": 58,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "NYFF64 Poster 🌝 unveiled—pre-order today!",
+    "date": "2026-07-29T16:15:18.000Z",
+    "file": "data\\inbox\\58-nyff64-poster-unveiled-pre-order-today.html",
+    "processed": true
+  },
+  {
+    "uid": 59,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Marcel Duchamp on Film",
+    "date": "2026-07-29T17:06:35.000Z",
+    "file": "data\\inbox\\59-marcel-duchamp-on-film.html",
+    "processed": true
+  },
+  {
+    "uid": 60,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "Screen Slate Recommends Welcome II the Terrordome",
+    "date": "2026-07-29T18:31:43.000Z",
+    "file": "data\\inbox\\60-screen-slate-recommends-welcome-ii-the-terrordome.html",
+    "processed": true
+  },
+  {
+    "uid": 61,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Final week for \"magic ephemera\"",
+    "date": "2026-07-29T21:06:42.000Z",
+    "file": "data\\inbox\\61-final-week-for-magic-ephemera.html",
+    "processed": true
+  },
+  {
+    "uid": 62,
+    "from": "\"Data & Society\" <info@datasociety.net>",
+    "subject": "Why AI agents require more than humans-in-the-loop, jobs with our AI civics program, what if there were age limits for AI use?",
+    "date": "2026-07-29T21:08:30.000Z",
+    "file": "data\\inbox\\62-why-ai-agents-require-more-than-humans-in-the-loop.html",
+    "processed": true
+  },
+  {
+    "uid": 63,
+    "from": "\"World Music Institute\" <gaby-worldmusicinstitute.org@shared1.ccsend.com>",
+    "subject": "Our Fall and Winter Brochure is Here!",
+    "date": "2026-07-29T22:31:10.000Z",
+    "file": "data\\inbox\\63-our-fall-and-winter-brochure-is-here.html",
+    "processed": true
+  },
+  {
+    "uid": 64,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Arts of the Working Class Issue 42 and the Transitional Justice with Artists Fellows",
+    "date": "2026-07-30T06:10:36.000Z",
+    "file": "data\\inbox\\64-arts-of-the-working-class-issue-42-and-the-transit.html",
+    "processed": true
+  },
+  {
+    "uid": 65,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Kiyoshi Kurosawa’s The Samurai and the Prisoner Opens + NYFF64 Centerpiece and Poster Announced + More!",
+    "date": "2026-07-30T15:43:19.000Z",
+    "file": "data\\inbox\\65-kiyoshi-kurosawa-s-the-samurai-and-the-prisoner-op.html",
+    "processed": true
+  },
+  {
+    "uid": 66,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "TCB - The Toni Cade Bambara School of Organizing",
+    "date": "2026-07-30T16:05:42.000Z",
+    "file": "data\\inbox\\66-tcb-the-toni-cade-bambara-school-of-organizing.html",
+    "processed": true
+  },
+  {
+    "uid": 67,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "Store Reopening + Chang Yuchen: a dictionary, a loom, a manifesto ...",
+    "date": "2026-07-30T17:21:50.000Z",
+    "file": "data\\inbox\\67-store-reopening-chang-yuchen-a-dictionary-a-loom-a.html",
+    "processed": true
+  },
+  {
+    "uid": 68,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "The Samurai and the Prisoner",
+    "date": "2026-07-30T18:32:57.000Z",
+    "file": "data\\inbox\\68-the-samurai-and-the-prisoner.html",
+    "processed": true
+  },
+  {
+    "uid": 69,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "Save the date for Triple Canopy’s 2026 Symposium!",
+    "date": "2026-07-30T19:05:37.000Z",
+    "file": "data\\inbox\\69-save-the-date-for-triple-canopy-s-2026-symposium.html",
+    "processed": true
+  },
+  {
+    "uid": 70,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "🏖️ Creative Time's Sandcastle Competition Is Back | September 13",
+    "date": "2026-07-30T22:00:11.000Z",
+    "file": "data\\inbox\\70-creative-time-s-sandcastle-competition-is-back-sep.html",
+    "processed": true
+  },
+  {
+    "uid": 71,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "Your summer isn't over just yet!⏲️☀️",
+    "date": "2026-07-30T17:45:33.000Z",
+    "file": "data\\inbox\\71-your-summer-isn-t-over-just-yet.html",
+    "processed": true
+  },
+  {
+    "uid": 72,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-07-31T09:53:34.000Z",
+    "file": "data\\inbox\\72-this-week-at-barbes.html",
+    "processed": true
+  },
+  {
+    "uid": 73,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Filipa Ramos on “Demeure” at Cimetière de Pantin, Paris",
+    "date": "2026-07-31T14:08:34.000Z",
+    "file": "data\\inbox\\73-review-filipa-ramos-on-demeure-at-cimeti-re-de-pan.html",
+    "processed": true
+  },
+  {
+    "uid": 74,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "Spend the Weekend With SummerStage!",
+    "date": "2026-07-31T15:05:25.000Z",
+    "file": "data\\inbox\\74-spend-the-weekend-with-summerstage.html",
+    "processed": true
+  },
+  {
+    "uid": 75,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Portraits of Exile",
+    "date": "2026-07-31T15:40:34.000Z",
+    "file": "data\\inbox\\75-portraits-of-exile.html",
+    "processed": true
+  },
+  {
+    "uid": 76,
+    "from": "\"The Shed\" <members@theshed.org>",
+    "subject": "Get first access to Steve McQueen's End Credits",
+    "date": "2026-07-31T16:05:53.000Z",
+    "file": "data\\inbox\\76-get-first-access-to-steve-mcqueen-s-end-credits.html",
+    "processed": true
+  },
+  {
+    "uid": 77,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "Vondie Curtis-Hall, Kasi Lemmons, Alexandre Rockwell in person with N.Y. premiere of The Projectionist",
+    "date": "2026-07-31T17:58:22.000Z",
+    "file": "data\\inbox\\77-vondie-curtis-hall-kasi-lemmons-alexandre-rockwell.html",
+    "processed": true
+  },
+  {
+    "uid": 78,
+    "from": "\"Amant\" <amant@amant.org>",
+    "subject": "August at Amant",
+    "date": "2026-07-31T18:46:12.000Z",
+    "file": "data\\inbox\\78-august-at-amant.html",
+    "processed": true
+  },
+  {
+    "uid": 79,
+    "from": "\"Rhizome News\" <info@rhizome.org>",
+    "subject": "Tickets are on Sale for Rhizome's Benefit, September 23 in NYC!",
+    "date": "2026-07-31T19:02:04.000Z",
+    "file": "data\\inbox\\79-tickets-are-on-sale-for-rhizome-s-benefit-septembe.html",
+    "processed": true
+  },
+  {
+    "uid": 80,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "BOOK REVIEW: Ben Eastham on Avocado Ibuprofen’s “Amber”",
+    "date": "2026-08-01T14:09:32.000Z",
+    "file": "data\\inbox\\80-book-review-ben-eastham-on-avocado-ibuprofen-s-amb.html",
+    "processed": true
+  },
+  {
+    "uid": 81,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Summer Tour + Advance Shell Passes for RFF9",
+    "date": "2026-08-01T15:53:02.000Z",
+    "file": "data\\inbox\\81-summer-tour-advance-shell-passes-for-rff9.html",
+    "processed": true
+  },
+  {
+    "uid": 82,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Surreal Incidents: An Interview with Lawrence Jordan // A Lost Man",
+    "date": "2026-08-01T16:09:56.000Z",
+    "file": "data\\inbox\\82-surreal-incidents-an-interview-with-lawrence-jorda.html",
+    "processed": true
+  },
+  {
+    "uid": 83,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Party Girl (1958)",
+    "date": "2026-08-02T16:42:14.000Z",
+    "file": "data\\inbox\\83-party-girl-1958.html",
+    "processed": true
+  },
+  {
+    "uid": 84,
+    "from": "\"NYU Center for Data Science\" <cds-communications@nyu.edu>",
+    "subject": "Ebrahim Rasromani uses LLMs to detect pancreatic cancer early, Yueh-Han Chen discovers that AI models can’t hide their reasoning, and more!",
+    "date": "2026-08-03T15:00:48.000Z",
+    "file": "data\\inbox\\84-ebrahim-rasromani-uses-llms-to-detect-pancreatic-c.html",
+    "processed": true
+  },
+  {
+    "uid": 85,
+    "from": "\"Blank Forms\" <mail@blankforms.org>",
+    "subject": "Coming this September: LIGHTHOUSE, 2xLP from The Shadow Ring",
+    "date": "2026-08-03T15:04:19.000Z",
+    "file": "data\\inbox\\85-coming-this-september-lighthouse-2xlp-from-the-sha.html",
+    "processed": true
+  },
+  {
+    "uid": 86,
+    "from": "\"Lincoln Center\" <Info@lincolncenter.org>",
+    "subject": "This week at Summer for the City",
+    "date": "2026-08-03T15:09:52.000Z",
+    "file": "data\\inbox\\86-this-week-at-summer-for-the-city.html",
+    "processed": true
+  },
+  {
+    "uid": 87,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "Put Your Name on 40 Years of SummerStage",
+    "date": "2026-08-03T16:03:24.000Z",
+    "file": "data\\inbox\\87-put-your-name-on-40-years-of-summerstage.html",
+    "processed": true
+  },
+  {
+    "uid": 88,
+    "from": "\"The Shed\" <members@theshed.org>",
+    "subject": "Two performances only: Steve McQueen's End Credits",
+    "date": "2026-08-03T16:04:49.000Z",
+    "file": "data\\inbox\\88-two-performances-only-steve-mcqueen-s-end-credits.html",
+    "processed": true
+  },
+  {
+    "uid": 89,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "3 Bad Men",
+    "date": "2026-08-03T18:00:48.000Z",
+    "file": "data\\inbox\\89-3-bad-men.html",
+    "processed": true
+  },
+  {
+    "uid": 90,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "e-flux Staff Picks—Gilgamesh: She Who Saw the Deep by Pelin Tan and Anton Vidokle",
+    "date": "2026-08-03T19:12:02.000Z",
+    "file": "data\\inbox\\90-e-flux-staff-picks-gilgamesh-she-who-saw-the-deep-.html",
+    "processed": true
+  },
+  {
+    "uid": 91,
+    "from": "\"Printed Matter\" <info@printedmatter.org>",
+    "subject": "We Are Open!",
+    "date": "2026-08-04T14:03:26.000Z",
+    "file": "data\\inbox\\91-we-are-open.html",
+    "processed": true
+  },
+  {
+    "uid": 92,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "NYFF64 Spotlight Gala film announced 🎟️",
+    "date": "2026-08-04T14:22:17.000Z",
+    "file": "data\\inbox\\92-nyff64-spotlight-gala-film-announced.html",
+    "processed": true
+  },
+  {
+    "uid": 93,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "2026 Season In Review: ISSUE AIR Edition",
+    "date": "2026-08-04T15:18:00.000Z",
+    "file": "data\\inbox\\93-2026-season-in-review-issue-air-edition.html",
+    "processed": true
+  },
+  {
+    "uid": 94,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "🎬 U.S. Premiere: BLANK CANVAS + Meet Akiko Higashimura!",
+    "date": "2026-08-04T15:12:33.000Z",
+    "file": "data\\inbox\\94-u-s-premiere-blank-canvas-meet-akiko-higashimura.html",
+    "processed": true
+  },
+  {
+    "uid": 95,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Introducing a new series of reviews from the e-flux archive",
+    "date": "2026-08-04T17:10:35.000Z",
+    "file": "data\\inbox\\95-introducing-a-new-series-of-reviews-from-the-e-flu.html",
+    "processed": true
+  },
+  {
+    "uid": 96,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Mars Attacks!",
+    "date": "2026-08-04T18:08:12.000Z",
+    "file": "data\\inbox\\96-mars-attacks.html",
+    "processed": true
+  },
+  {
+    "uid": 97,
+    "from": "\"Afropop Worldwide\" <info@afropop.org>",
+    "subject": "NEW Living Room Session: ALSARAH",
+    "date": "2026-08-04T19:09:58.000Z",
+    "file": "data\\inbox\\97-new-living-room-session-alsarah.html",
+    "processed": true
+  },
+  {
+    "uid": 98,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Pig Earth + Parting Shots from Animals",
+    "date": "2026-08-05T15:12:04.000Z",
+    "file": "data\\inbox\\98-pig-earth-parting-shots-from-animals.html",
+    "processed": true
+  },
+  {
+    "uid": 99,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: Acid + International Westerns; John Berger and Cinema & EC",
+    "date": "2026-08-05T15:17:58.000Z",
+    "file": "data\\inbox\\99-this-week-at-afa-acid-international-westerns-john-.html",
+    "processed": true
+  },
+  {
+    "uid": 100,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "NYFF64 Main Slate announced 🏔️🧡 🎶",
+    "date": "2026-08-05T15:22:32.000Z",
+    "file": "data\\inbox\\100-nyff64-main-slate-announced.html",
+    "processed": true
+  },
+  {
+    "uid": 101,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Announcing the Ninth Annual Rockaway Film Festival",
+    "date": "2026-08-05T16:38:05.000Z",
+    "file": "data\\inbox\\101-announcing-the-ninth-annual-rockaway-film-festival.html",
+    "processed": true
+  },
+  {
+    "uid": 102,
+    "from": "\"Lincoln Center\" <Info@lincolncenter.org>",
+    "subject": "Just Announced: The Lincoln Center Presents 2026-2027 Season",
+    "date": "2026-08-05T18:23:40.000Z",
+    "file": "data\\inbox\\102-just-announced-the-lincoln-center-presents-2026-20.html",
+    "processed": true
+  },
+  {
+    "uid": 103,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "A Week of FREE Celebrations at SummerStage in Central Park, Staten Island",
+    "date": "2026-08-05T18:46:51.000Z",
+    "file": "data\\inbox\\103-a-week-of-free-celebrations-at-summerstage-in-cent.html",
+    "processed": true
+  },
+  {
+    "uid": 104,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Announcing our Fall Workshop Lineup",
+    "date": "2026-08-05T21:01:53.000Z",
+    "file": "data\\inbox\\104-announcing-our-fall-workshop-lineup.html",
+    "processed": true
+  },
+  {
+    "uid": 105,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "Cats, whales, and sharks into infinity and beyond!",
+    "date": "2026-08-05T21:03:49.000Z",
+    "file": "data\\inbox\\105-cats-whales-and-sharks-into-infinity-and-beyond.html",
+    "processed": true
+  },
+  {
+    "uid": 106,
+    "from": "\"The Shed\" <members@theshed.org>",
+    "subject": "Don't miss out on exclusive access to End Credits",
+    "date": "2026-08-06T10:05:29.000Z",
+    "file": "data\\inbox\\106-don-t-miss-out-on-exclusive-access-to-end-credits.html",
+    "processed": true
+  },
+  {
+    "uid": 107,
+    "from": "\"Afropop Worldwide\" <info@afropop.org>",
+    "subject": "NEW Living Room Session: ALSARAH",
+    "date": "2026-08-06T13:04:24.000Z",
+    "file": "data\\inbox\\107-new-living-room-session-alsarah.html",
+    "processed": true
+  },
+  {
+    "uid": 108,
+    "from": "\"Onassis ONX\" <contact@onx.studio>",
+    "subject": "Introducing ONX Relay 💢 Trevor Paglen, Maya Man, and Ben Frost",
+    "date": "2026-08-06T14:05:35.000Z",
+    "file": "data\\inbox\\108-introducing-onx-relay-trevor-paglen-maya-man-and-b.html",
+    "processed": true
+  },
+  {
+    "uid": 109,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FROM THE ARCHIVE: On “institutional gaslighting”",
+    "date": "2026-08-06T14:08:27.000Z",
+    "file": "data\\inbox\\109-from-the-archive-on-institutional-gaslighting.html",
+    "processed": true
+  },
+  {
+    "uid": 110,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Celebrity Signings, Dances, Business Growth, and Workshops!",
+    "date": "2026-08-06T16:07:36.000Z",
+    "file": "data\\inbox\\110-celebrity-signings-dances-business-growth-and-work.html",
+    "processed": true
+  },
+  {
+    "uid": 111,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Willem Dafoe Leads Kent Jones’s Late Fame + Bibliomania w. Indiana Jones on 70mm + NYFF64 Main Slate!",
+    "date": "2026-08-06T16:51:32.000Z",
+    "file": "data\\inbox\\111-willem-dafoe-leads-kent-jones-s-late-fame-biblioma.html",
+    "processed": true
+  },
+  {
+    "uid": 112,
+    "from": "\"News BGC\" <news@bgc.bard.edu>",
+    "subject": "Coming Soon: Goddesses in the Machine",
+    "date": "2026-08-06T17:33:43.000Z",
+    "file": "data\\inbox\\112-coming-soon-goddesses-in-the-machine.html",
+    "processed": true
+  },
+  {
+    "uid": 113,
+    "from": "\"NYPL Connect\" <enews@email.nypl.org>",
+    "subject": "Stay cool with the Library! Take our Summer Reading Challenge, find beach reads in audiobook form, and learn how you can join our Big Summer Book Club Celebration!",
+    "date": "2026-08-06T15:04:18.000Z",
+    "file": "data\\inbox\\113-stay-cool-with-the-library-take-our-summer-reading.html",
+    "processed": true
+  },
+  {
+    "uid": 114,
+    "from": "\"n+1\" <subs@nplusonemag.com>",
+    "subject": "n+1’s Fall issue, POWER PLAY, is almost here",
+    "date": "2026-08-06T17:53:36.000Z",
+    "file": "data\\inbox\\114-n-1-s-fall-issue-power-play-is-almost-here.html",
+    "processed": true
+  },
+  {
+    "uid": 115,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "The painting that scandalized New York",
+    "date": "2026-08-06T18:04:21.000Z",
+    "file": "data\\inbox\\115-the-painting-that-scandalized-new-york.html",
+    "processed": true
+  },
+  {
+    "uid": 116,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Chicago Film Society's Technicolor Weekend",
+    "date": "2026-08-06T18:40:47.000Z",
+    "file": "data\\inbox\\116-chicago-film-society-s-technicolor-weekend.html",
+    "processed": true
+  },
+  {
+    "uid": 117,
+    "from": "\"Harry Poster\" <abrons@henrystreet.org>",
+    "subject": "Give today and keep artists creating in the Lower East Side!",
+    "date": "2026-08-06T21:01:07.000Z",
+    "file": "data\\inbox\\117-give-today-and-keep-artists-creating-in-the-lower-.html",
+    "processed": true
+  },
+  {
+    "uid": 118,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-08-07T10:46:31.000Z",
+    "file": "data\\inbox\\118-this-week-at-barbes.html",
+    "processed": true
+  },
+  {
+    "uid": 119,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "Harry Belafonte's Daylight Came",
+    "date": "2026-08-07T16:44:13.000Z",
+    "file": "data\\inbox\\119-harry-belafonte-s-daylight-came.html",
+    "processed": true
+  },
+  {
+    "uid": 120,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Stanley Kwan on the restored Center Stage",
+    "date": "2026-08-07T16:57:09.000Z",
+    "file": "data\\inbox\\120-stanley-kwan-on-the-restored-center-stage.html",
+    "processed": true
+  },
+  {
+    "uid": 121,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "Experience Ryan Gosling’s first trip to space in Dolby Atmos this Saturday",
+    "date": "2026-08-07T20:51:39.000Z",
+    "file": "data\\inbox\\121-experience-ryan-gosling-s-first-trip-to-space-in-d.html",
+    "processed": true
+  },
+  {
+    "uid": 122,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Otar Iosseliani Early Shorts Program",
+    "date": "2026-08-08T15:50:40.000Z",
+    "file": "data\\inbox\\122-otar-iosseliani-early-shorts-program.html",
+    "processed": true
+  },
+  {
+    "uid": 123,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "Final weeks: Don't miss Marcel Duchamp",
+    "date": "2026-08-08T18:02:20.000Z",
+    "file": "data\\inbox\\123-final-weeks-don-t-miss-marcel-duchamp.html",
+    "processed": true
+  },
+  {
+    "uid": 124,
+    "from": "\"n+1\" <subs@nplusonemag.com>",
+    "subject": "Can we send you n+1’s Fall issue?",
+    "date": "2026-08-09T14:31:43.000Z",
+    "file": "data\\inbox\\124-can-we-send-you-n-1-s-fall-issue.html",
+    "processed": true
+  },
+  {
+    "uid": 125,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Cemetery Without Crosses",
+    "date": "2026-08-09T16:29:02.000Z",
+    "file": "data\\inbox\\125-cemetery-without-crosses.html",
+    "processed": true
+  },
+  {
+    "uid": 126,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "Live video with Pioneer Works now: August Second Sundays, ft Josh Jelly-Shapiro, Doreen St. Félix, Lajuné McMillian, and Saad Khan",
+    "date": "2026-08-09T18:07:27.000Z",
+    "file": "data\\inbox\\126-live-video-with-pioneer-works-now-august-second-su.html",
+    "processed": true
+  },
+  {
+    "uid": 127,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "Live video with Pioneer Works now: August Second Sundays",
+    "date": "2026-08-09T19:06:36.000Z",
+    "file": "data\\inbox\\127-live-video-with-pioneer-works-now-august-second-su.html",
+    "processed": true
+  },
+  {
+    "uid": 128,
+    "from": "\"Substack\" <no-reply@substack.com>",
+    "subject": "Live video with Pioneer Works now: August Second Sundays: Joshua Jelly Schapiro and Doreen St. Félix",
+    "date": "2026-08-09T20:02:35.000Z",
+    "file": "data\\inbox\\128-live-video-with-pioneer-works-now-august-second-su.html",
+    "processed": true
+  },
+  {
+    "uid": 129,
+    "from": "\"The New York Public Library\" <enews@email.nypl.org>",
+    "subject": "NYPL Events: The Met's 'Musical Bodies' curator in conversation—plus, Edwidge Danticat and Nicole Dennis-Benn tickets just released!",
+    "date": "2026-08-09T23:02:50.000Z",
+    "file": "data\\inbox\\129-nypl-events-the-met-s-musical-bodies-curator-in-co.html",
+    "processed": true
+  },
+  {
+    "uid": 130,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Beavis and Butt-Head Do America",
+    "date": "2026-08-10T16:27:53.000Z",
+    "file": "data\\inbox\\130-beavis-and-butt-head-do-america.html",
+    "processed": true
+  },
+  {
+    "uid": 131,
+    "from": "\"The Shed\" <gala@theshed.org>",
+    "subject": "Gala Single Tickets Now On Sale!",
+    "date": "2026-08-10T20:03:48.000Z",
+    "file": "data\\inbox\\131-gala-single-tickets-now-on-sale.html",
+    "processed": true
+  },
+  {
+    "uid": 132,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "Concert & Jam this Thursday!",
+    "date": "2026-08-11T13:16:15.000Z",
+    "file": "data\\inbox\\132-concert-jam-this-thursday.html",
+    "processed": true
+  },
+  {
+    "uid": 133,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FROM THE ARCHIVE: On “expressing the inexpressible”",
+    "date": "2026-08-11T14:24:31.000Z",
+    "file": "data\\inbox\\133-from-the-archive-on-expressing-the-inexpressible.html",
+    "processed": true
+  },
+  {
+    "uid": 134,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Brothers",
+    "date": "2026-08-11T14:58:12.000Z",
+    "file": "data\\inbox\\134-brothers.html",
+    "processed": true
+  },
+  {
+    "uid": 135,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "GENTLE MONSTER starring Léa Seydoux | WATCH THE TRAILER",
+    "date": "2026-08-11T15:02:43.000Z",
+    "file": "data\\inbox\\135-gentle-monster-starring-l-a-seydoux-watch-the-trai.html",
+    "processed": true
+  },
+  {
+    "uid": 136,
+    "from": "\"Ambient Church\" <info@ambient.church>",
+    "subject": "Visions of Hildegard ☩ Ethereal Choral Works ☩ Sept 26",
+    "date": "2026-08-11T16:13:49.000Z",
+    "file": "data\\inbox\\136-visions-of-hildegard-ethereal-choral-works-sept-26.html",
+    "processed": true
+  },
+  {
+    "uid": 137,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "NYFF64 Spotlight lineup announced 🚲🗽👯‍♀️",
+    "date": "2026-08-11T16:28:05.000Z",
+    "file": "data\\inbox\\137-nyff64-spotlight-lineup-announced.html",
+    "processed": true
+  },
+  {
+    "uid": 138,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "ISSUE Welcomes New Board Members",
+    "date": "2026-08-11T18:05:07.000Z",
+    "file": "data\\inbox\\138-issue-welcomes-new-board-members.html",
+    "processed": true
+  },
+  {
+    "uid": 139,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "ISSUE Welcomes New Board Members",
+    "date": "2026-08-11T19:03:21.000Z",
+    "file": "data\\inbox\\139-issue-welcomes-new-board-members.html",
+    "processed": true
+  },
+  {
+    "uid": 140,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "August programs | Book fair and book launch",
+    "date": "2026-08-11T19:15:20.000Z",
+    "file": "data\\inbox\\140-august-programs-book-fair-and-book-launch.html",
+    "processed": true
+  },
+  {
+    "uid": 141,
+    "from": "\"Nick Dirks, Academy President & CEO\" <nyas@nyas.org>",
+    "subject": "Supporting Science this Summer",
+    "date": "2026-08-11T22:15:50.000Z",
+    "file": "data\\inbox\\141-supporting-science-this-summer.html",
+    "processed": true
+  },
+  {
+    "uid": 142,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Wesh, Wesh, What's Happening?",
+    "date": "2026-08-12T14:34:57.000Z",
+    "file": "data\\inbox\\142-wesh-wesh-what-s-happening.html",
+    "processed": true
+  },
+  {
+    "uid": 143,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "Video Highlights - Tony Winner Qween Jean / Lin-Manuel Miranda Bio 🎥",
+    "date": "2026-08-12T15:03:18.000Z",
+    "file": "data\\inbox\\143-video-highlights-tony-winner-qween-jean-lin-manuel.html",
+    "processed": true
+  },
+  {
+    "uid": 144,
+    "from": "\"SculptureCenter\" <info@sculpture-center.org>",
+    "subject": "Announcing: Aziz Hazara, Cevdet Erek, and Yining Fei | Sep 19–Dec 28, 2026",
+    "date": "2026-08-12T15:02:42.000Z",
+    "file": "data\\inbox\\144-announcing-aziz-hazara-cevdet-erek-and-yining-fei-.html",
+    "processed": true
+  },
+  {
+    "uid": 145,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: This Week at AFA: Acid + International Westerns; 2026 Cuban Film Festival: Salvus; and Kyoko Kagawa Rarities: LITTLE PEACH",
+    "date": "2026-08-12T15:16:43.000Z",
+    "file": "data\\inbox\\145-this-week-at-afa-this-week-at-afa-acid-internation.html",
+    "processed": true
+  },
+  {
+    "uid": 146,
+    "from": "\"n+1\" <subs@nplusonemag.com>",
+    "subject": "Last chance: Get n+1’s new issue as soon as it’s out",
+    "date": "2026-08-12T15:16:10.000Z",
+    "file": "data\\inbox\\146-last-chance-get-n-1-s-new-issue-as-soon-as-it-s-ou.html",
+    "processed": true
+  },
+  {
+    "uid": 147,
+    "from": "\"UnionDocs\" <info@uniondocs.org>",
+    "subject": "Frederick Wiseman’s NY! A civic and cinematic tour of NYC with the ultimate observer. Plus Mike Williams, Bianca Giaever and Sean Cole bring us live audio performances.",
+    "date": "2026-08-12T15:25:16.000Z",
+    "file": "data\\inbox\\147-frederick-wiseman-s-ny-a-civic-and-cinematic-tour-.html",
+    "processed": true
+  },
+  {
+    "uid": 148,
+    "from": "\"The New York Public Library\" <friends@email.nypl.org>",
+    "subject": "48-Hour 'Back to School' Match: All donations to NYPL will be matched—get a free gift!",
+    "date": "2026-08-12T13:43:16.000Z",
+    "file": "data\\inbox\\148-48-hour-back-to-school-match-all-donations-to-nypl.html",
+    "processed": true
+  },
+  {
+    "uid": 149,
+    "from": "\"Drom\" <office@dromnyc.com>",
+    "subject": "This Week at DROM:",
+    "date": "2026-08-12T16:41:36.000Z",
+    "file": "data\\inbox\\149-this-week-at-drom.html",
+    "processed": true
+  },
+  {
+    "uid": 150,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "Concert & Jam this Thursday!",
+    "date": "2026-08-12T19:14:51.000Z",
+    "file": "data\\inbox\\150-concert-jam-this-thursday.html",
+    "processed": true
+  },
+  {
+    "uid": 151,
+    "from": "\"The Shed\" <members@theshed.org>",
+    "subject": "Last two days of End Credits presale",
+    "date": "2026-08-12T20:56:57.000Z",
+    "file": "data\\inbox\\151-last-two-days-of-end-credits-presale.html",
+    "processed": true
+  },
+  {
+    "uid": 152,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Free Outdoor Concert this Saturday!",
+    "date": "2026-08-12T21:01:18.000Z",
+    "file": "data\\inbox\\152-free-outdoor-concert-this-saturday.html",
+    "processed": true
+  },
+  {
+    "uid": 153,
+    "from": "\"Data & Society\" <info@datasociety.net>",
+    "subject": "Join us on 8/20 to discuss the limits of human oversight for AI agents, plus: how data centers broke American politics",
+    "date": "2026-08-12T21:04:47.000Z",
+    "file": "data\\inbox\\153-join-us-on-8-20-to-discuss-the-limits-of-human-ove.html",
+    "processed": true
+  },
+  {
+    "uid": 154,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "De Palma in 70mm +  save the date for our September Henson bash",
+    "date": "2026-08-12T21:39:00.000Z",
+    "file": "data\\inbox\\154-de-palma-in-70mm-save-the-date-for-our-september-h.html",
+    "processed": true
+  },
+  {
+    "uid": 155,
+    "from": "\"The New York Public Library\" <friends@email.nypl.org>",
+    "subject": "Don't miss NYPL's 'Back to School' match!",
+    "date": "2026-08-12T20:24:32.000Z",
+    "file": "data\\inbox\\155-don-t-miss-nypl-s-back-to-school-match.html",
+    "processed": true
+  },
+  {
+    "uid": 156,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "13 Ways of Looking: Ed Park",
+    "date": "2026-08-13T13:16:08.000Z",
+    "file": "data\\inbox\\156-13-ways-of-looking-ed-park.html",
+    "processed": true
+  },
+  {
+    "uid": 157,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FROM THE ARCHIVE: On migration and storytelling",
+    "date": "2026-08-13T14:16:22.000Z",
+    "file": "data\\inbox\\157-from-the-archive-on-migration-and-storytelling.html",
+    "processed": true
+  },
+  {
+    "uid": 158,
+    "from": "\"Printed Matter\" <info@printedmatter.org>",
+    "subject": "Support Your Favorite Bookstore! August New Arrivals & Events",
+    "date": "2026-08-13T15:04:57.000Z",
+    "file": "data\\inbox\\158-support-your-favorite-bookstore-august-new-arrival.html",
+    "processed": true
+  },
+  {
+    "uid": 159,
+    "from": "\"The New York Public Library\" <friends@email.nypl.org>",
+    "subject": "Time is running out: NYPL's 'Back to School' double match ending soon!",
+    "date": "2026-08-13T13:26:00.000Z",
+    "file": "data\\inbox\\159-time-is-running-out-nypl-s-back-to-school-double-m.html",
+    "processed": true
+  },
+  {
+    "uid": 160,
+    "from": "\"La MaMa\" <programs@lamama.org>",
+    "subject": "Welcome to Oneness, Season 65 Tickets Now Available!",
+    "date": "2026-08-13T16:03:25.000Z",
+    "file": "data\\inbox\\160-welcome-to-oneness-season-65-tickets-now-available.html",
+    "processed": true
+  },
+  {
+    "uid": 161,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "NYFF64 Currents lineup announced 🚸🐎🌅",
+    "date": "2026-08-13T16:32:47.000Z",
+    "file": "data\\inbox\\161-nyff64-currents-lineup-announced.html",
+    "processed": true
+  },
+  {
+    "uid": 162,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Final Day to Save on NYFF64 Passes + Scary Movies XIV Haunts Walter Reade Theater + More!",
+    "date": "2026-08-13T17:35:05.000Z",
+    "file": "data\\inbox\\162-final-day-to-save-on-nyff64-passes-scary-movies-xi.html",
+    "processed": true
+  },
+  {
+    "uid": 163,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Death Valley",
+    "date": "2026-08-13T18:42:45.000Z",
+    "file": "data\\inbox\\163-death-valley.html",
+    "processed": true
+  },
+  {
+    "uid": 164,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "A Summer of Spirals",
+    "date": "2026-08-13T19:14:41.000Z",
+    "file": "data\\inbox\\164-a-summer-of-spirals.html",
+    "processed": true
+  },
+  {
+    "uid": 165,
+    "from": "\"Blank Forms\" <mail@blankforms.org>",
+    "subject": "Save the date! Honoring Keiji Haino & Jim Shaw",
+    "date": "2026-08-13T20:14:04.000Z",
+    "file": "data\\inbox\\165-save-the-date-honoring-keiji-haino-jim-shaw.html",
+    "processed": true
+  },
+  {
+    "uid": 166,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "The Hole, New York",
+    "date": "2026-08-13T21:19:54.000Z",
+    "file": "data\\inbox\\166-the-hole-new-york.html",
+    "processed": true
+  },
+  {
+    "uid": 167,
+    "from": "\"Library for the Performing Arts\" <lpaupdates@email.nypl.org>",
+    "subject": "Pets of the performing arts, Martha Graham, and more at the Library for the Performing Arts",
+    "date": "2026-08-13T23:01:42.000Z",
+    "file": "data\\inbox\\167-pets-of-the-performing-arts-martha-graham-and-more.html",
+    "processed": true
+  },
+  {
+    "uid": 168,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "Get tickets to Steve McQueen's \"End Credits\" 📁",
+    "date": "2026-08-14T16:09:34.000Z",
+    "file": "data\\inbox\\168-get-tickets-to-steve-mcqueen-s-end-credits.html",
+    "processed": true
+  },
+  {
+    "uid": 169,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-08-14T16:50:58.000Z",
+    "file": "data\\inbox\\169-this-week-at-barbes.html",
+    "processed": true
+  },
+  {
+    "uid": 170,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Same River Thrice: An Interview with Robb Moss",
+    "date": "2026-08-14T16:58:21.000Z",
+    "file": "data\\inbox\\170-the-same-river-thrice-an-interview-with-robb-moss.html",
+    "processed": true
+  },
+  {
+    "uid": 171,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Get your tickets to RFF9",
+    "date": "2026-08-14T17:40:00.000Z",
+    "file": "data\\inbox\\171-get-your-tickets-to-rff9.html",
+    "processed": true
+  },
+  {
+    "uid": 172,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "Spend Your Weekend at SummerStage!",
+    "date": "2026-08-14T18:33:06.000Z",
+    "file": "data\\inbox\\172-spend-your-weekend-at-summerstage.html",
+    "processed": true
+  },
+  {
+    "uid": 173,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "Tennis, anyone? See Luca Guadagnino's scintillating CHALLENGERS in Dolby Atmos this Saturday",
+    "date": "2026-08-14T19:08:19.000Z",
+    "file": "data\\inbox\\173-tennis-anyone-see-luca-guadagnino-s-scintillating-.html",
+    "processed": true
+  },
+  {
+    "uid": 174,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "Screen Slate Recommends Big & Loud at the Paris",
+    "date": "2026-08-14T20:03:18.000Z",
+    "file": "data\\inbox\\174-screen-slate-recommends-big-loud-at-the-paris.html",
+    "processed": true
+  },
+  {
+    "uid": 175,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Dead Souls",
+    "date": "2026-08-15T15:38:08.000Z",
+    "file": "data\\inbox\\175-dead-souls.html",
+    "processed": true
+  },
+  {
+    "uid": 176,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "Summer Sale—30% off all books!",
+    "date": "2026-08-16T14:01:00.000Z",
+    "file": "data\\inbox\\176-summer-sale-30-off-all-books.html",
+    "processed": true
+  },
+  {
+    "uid": 177,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "There Once Was a Singing Blackbird",
+    "date": "2026-08-16T15:25:30.000Z",
+    "file": "data\\inbox\\177-there-once-was-a-singing-blackbird.html",
+    "processed": true
+  },
+  {
+    "uid": 178,
+    "from": "\"The New York Public Library\" <enews@email.nypl.org>",
+    "subject": "6 ways to see N.K. Jemisin and Alison Stewart on August 17",
+    "date": "2026-08-16T22:01:58.000Z",
+    "file": "data\\inbox\\178-6-ways-to-see-n-k-jemisin-and-alison-stewart-on-au.html",
+    "processed": true
+  },
+  {
+    "uid": 179,
+    "from": "\"e-flux Events\" <events@mailer.e-flux.com>",
+    "subject": "This week at e-flux: Greg Fox",
+    "date": "2026-08-17T13:05:59.000Z",
+    "file": "data\\inbox\\179-this-week-at-e-flux-greg-fox.html",
+    "processed": true
+  },
+  {
+    "uid": 180,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "🎷☀️SummerStage is in full swing with Capital One cardholder perks!",
+    "date": "2026-08-17T14:02:57.000Z",
+    "file": "data\\inbox\\180-summerstage-is-in-full-swing-with-capital-one-card.html",
+    "processed": true
+  },
+  {
+    "uid": 181,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "FAST",
+    "date": "2026-08-17T17:25:29.000Z",
+    "file": "data\\inbox\\181-fast.html",
+    "processed": true
+  },
+  {
+    "uid": 182,
+    "from": "\"Ambient Church\" <info@ambient.church>",
+    "subject": "📡  james K ☩ James Ferraro Live in Brooklyn (9.25)",
+    "date": "2026-08-17T18:27:09.000Z",
+    "file": "data\\inbox\\182-james-k-james-ferraro-live-in-brooklyn-9-25.html",
+    "processed": true
+  },
+  {
+    "uid": 183,
+    "from": "\"Data & Society Research Institute\" <events@datasociety.net>",
+    "subject": "The limits of human oversight of AI agents",
+    "date": "2026-08-17T21:00:00.000Z",
+    "file": "data\\inbox\\183-the-limits-of-human-oversight-of-ai-agents.html",
+    "processed": true
+  },
+  {
+    "uid": 184,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "ArtVilnius presents 2026 participants list",
+    "date": "2026-08-18T06:10:26.000Z",
+    "file": "data\\inbox\\184-artvilnius-presents-2026-participants-list.html",
+    "processed": true
+  },
+  {
+    "uid": 185,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FROM THE ARCHIVE: Barbara Casavecchia on “Defiant Muses”",
+    "date": "2026-08-18T14:10:53.000Z",
+    "file": "data\\inbox\\185-from-the-archive-barbara-casavecchia-on-defiant-mu.html",
+    "processed": true
+  },
+  {
+    "uid": 186,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Hockey is for everyone",
+    "date": "2026-08-18T15:02:38.000Z",
+    "file": "data\\inbox\\186-hockey-is-for-everyone.html",
+    "processed": true
+  },
+  {
+    "uid": 187,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "NYFF64 Revivals lineup announced 💐🏍️☂️",
+    "date": "2026-08-18T15:16:50.000Z",
+    "file": "data\\inbox\\187-nyff64-revivals-lineup-announced.html",
+    "processed": true
+  },
+  {
+    "uid": 188,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Fan",
+    "date": "2026-08-18T16:36:49.000Z",
+    "file": "data\\inbox\\188-the-fan.html",
+    "processed": true
+  },
+  {
+    "uid": 189,
+    "from": "\"Drom\" <office@dromnyc.com>",
+    "subject": "This Week at DROM:",
+    "date": "2026-08-18T17:39:50.000Z",
+    "file": "data\\inbox\\189-this-week-at-drom.html",
+    "processed": true
+  },
+  {
+    "uid": 190,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "Screen Slate Recommends To Use a Mountain",
+    "date": "2026-08-18T18:03:20.000Z",
+    "file": "data\\inbox\\190-screen-slate-recommends-to-use-a-mountain.html",
+    "processed": true
+  },
+  {
+    "uid": 191,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "Triple Canopy Symposium 🤝 Durations",
+    "date": "2026-08-18T19:32:00.000Z",
+    "file": "data\\inbox\\191-triple-canopy-symposium-durations.html",
+    "processed": true
+  },
+  {
+    "uid": 192,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Announcing: “Music by Ryuichi Sakamoto” Feat. Rare Films Scored by the Legendary Musician",
+    "date": "2026-08-18T20:07:10.000Z",
+    "file": "data\\inbox\\192-announcing-music-by-ryuichi-sakamoto-feat-rare-fil.html",
+    "processed": true
+  },
+  {
+    "uid": 193,
+    "from": "\"Afropop Worldwide\" <info@afropop.org>",
+    "subject": "The Best of Summer at Afropop 😎",
+    "date": "2026-08-19T05:24:02.000Z",
+    "file": "data\\inbox\\193-the-best-of-summer-at-afropop.html",
+    "processed": true
+  },
+  {
+    "uid": 194,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: S.I.N.A. Rides Again; Acid + International Westerns; Lost & Found; Narrow Rooms & EC",
+    "date": "2026-08-19T15:16:47.000Z",
+    "file": "data\\inbox\\194-this-week-at-afa-s-i-n-a-rides-again-acid-internat.html",
+    "processed": true
+  },
+  {
+    "uid": 195,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "Concert & Jam this Thursday!",
+    "date": "2026-08-19T15:17:35.000Z",
+    "file": "data\\inbox\\195-concert-jam-this-thursday.html",
+    "processed": true
+  },
+  {
+    "uid": 196,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Irmin Schmidt on CAN's Soundtracks and film scoring",
+    "date": "2026-08-19T15:26:58.000Z",
+    "file": "data\\inbox\\196-irmin-schmidt-on-can-s-soundtracks-and-film-scorin.html",
+    "processed": true
+  },
+  {
+    "uid": 197,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "September 9 in New York: Ground Zero Plus 25",
+    "date": "2026-08-19T15:51:05.000Z",
+    "file": "data\\inbox\\197-september-9-in-new-york-ground-zero-plus-25.html",
+    "processed": true
+  },
+  {
+    "uid": 198,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "[Just added] End Credits matinee on Sept 26!",
+    "date": "2026-08-19T16:09:40.000Z",
+    "file": "data\\inbox\\198-just-added-end-credits-matinee-on-sept-26.html",
+    "processed": true
+  },
+  {
+    "uid": 199,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "One Month Until the 2026–27 Performing Arts Season Kicks Off its TWO SOILS Series!",
+    "date": "2026-08-19T19:29:55.000Z",
+    "file": "data\\inbox\\199-one-month-until-the-2026-27-performing-arts-season.html",
+    "processed": true
+  },
+  {
+    "uid": 200,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "AKIRA special screening, Hamlet (70mm), The Umbrellas of Cherbourg, Pacific Rim, and more",
+    "date": "2026-08-19T21:40:54.000Z",
+    "file": "data\\inbox\\200-akira-special-screening-hamlet-70mm-the-umbrellas-.html",
+    "processed": true
+  },
+  {
+    "uid": 201,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "Gordon Matta-Clark exhibition — New Openings Against Old Surfaces",
+    "date": "2026-08-19T21:49:59.000Z",
+    "file": "data\\inbox\\201-gordon-matta-clark-exhibition-new-openings-against.html",
+    "processed": true
+  },
+  {
+    "uid": 202,
+    "from": "\"World Music Institute\" <gaby-worldmusicinstitute.org@shared1.ccsend.com>",
+    "subject": "This Sunday - Angelique Kidjo at SummerStage in Central Park! 🇧🇯",
+    "date": "2026-08-19T22:45:23.000Z",
+    "file": "data\\inbox\\202-this-sunday-angelique-kidjo-at-summerstage-in-cent.html",
+    "processed": true
+  },
+  {
+    "uid": 203,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Kiaf Seoul 2026 edition",
+    "date": "2026-08-20T00:11:05.000Z",
+    "file": "data\\inbox\\203-kiaf-seoul-2026-edition.html",
+    "processed": true
+  },
+  {
+    "uid": 204,
+    "from": "\"Blank Forms\" <mail@blankforms.org>",
+    "subject": "Blank Forms is moving to Manhattan",
+    "date": "2026-08-20T14:05:54.000Z",
+    "file": "data\\inbox\\204-blank-forms-is-moving-to-manhattan.html",
+    "processed": true
+  },
+  {
+    "uid": 205,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Judith Wilkinson on “Self-Determination: A Global Perspective” at Irish Museum of Modern Art, Dublin",
+    "date": "2026-08-20T14:09:44.000Z",
+    "file": "data\\inbox\\205-review-judith-wilkinson-on-self-determination-a-gl.html",
+    "processed": true
+  },
+  {
+    "uid": 206,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "SummerStage Heads to Harlem and more in Central Park",
+    "date": "2026-08-20T14:33:46.000Z",
+    "file": "data\\inbox\\206-summerstage-heads-to-harlem-and-more-in-central-pa.html",
+    "processed": true
+  },
+  {
+    "uid": 207,
+    "from": "\"UnionDocs\" <info@uniondocs.org>",
+    "subject": "Genevieve Yue tours us through Wiseman’s New York. Plus, Charlie Shackleton makes the case for first-person filmmaking.",
+    "date": "2026-08-20T15:13:16.000Z",
+    "file": "data\\inbox\\207-genevieve-yue-tours-us-through-wiseman-s-new-york-.html",
+    "processed": true
+  },
+  {
+    "uid": 208,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Agnieszka Holland’s Franz Opens Friday + NYFF64 Revivals Announced + More!",
+    "date": "2026-08-20T15:26:33.000Z",
+    "file": "data\\inbox\\208-agnieszka-holland-s-franz-opens-friday-nyff64-revi.html",
+    "processed": true
+  },
+  {
+    "uid": 209,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "🎬 U.S. Premiere: Akiko Higashimura’s \"Blank Canvas\", Kanji, and Japanese Design 🇯🇵",
+    "date": "2026-08-20T15:07:08.000Z",
+    "file": "data\\inbox\\209-u-s-premiere-akiko-higashimura-s-blank-canvas-kanj.html",
+    "processed": true
+  },
+  {
+    "uid": 210,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Honoring community through art",
+    "date": "2026-08-20T16:01:11.000Z",
+    "file": "data\\inbox\\210-honoring-community-through-art.html",
+    "processed": true
+  },
+  {
+    "uid": 211,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Our Latin Thing",
+    "date": "2026-08-20T17:03:34.000Z",
+    "file": "data\\inbox\\211-our-latin-thing.html",
+    "processed": true
+  },
+  {
+    "uid": 212,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "Concert & Jam this Thursday!",
+    "date": "2026-08-20T19:14:54.000Z",
+    "file": "data\\inbox\\212-concert-jam-this-thursday.html",
+    "processed": true
+  },
+  {
+    "uid": 213,
+    "from": "\"Ambient Church\" <info@ambient.church>",
+    "subject": "♾️ CHARLEMAGNE PALESTINE ✦ OORGAAANNN (9.27)",
+    "date": "2026-08-20T19:57:29.000Z",
+    "file": "data\\inbox\\213-charlemagne-palestine-oorgaaannn-9-27.html",
+    "processed": true
+  },
+  {
+    "uid": 214,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-08-20T20:21:48.000Z",
+    "file": "data\\inbox\\214-this-week-at-barbes.html",
+    "processed": true
+  },
+  {
+    "uid": 215,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "PalaisPopulaire presents fourth edition of OnView: Transformation",
+    "date": "2026-08-21T13:13:54.000Z",
+    "file": "data\\inbox\\215-palaispopulaire-presents-fourth-edition-of-onview-.html",
+    "processed": true
+  },
+  {
+    "uid": 216,
+    "from": "\"Onassis ONX\" <contact@onx.studio>",
+    "subject": "ONX at Ars Electronica ⭐",
+    "date": "2026-08-21T14:08:38.000Z",
+    "file": "data\\inbox\\216-onx-at-ars-electronica.html",
+    "processed": true
+  },
+  {
+    "uid": 217,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "White Sun of the Desert",
+    "date": "2026-08-21T15:05:56.000Z",
+    "file": "data\\inbox\\217-white-sun-of-the-desert.html",
+    "processed": true
+  },
+  {
+    "uid": 218,
+    "from": "\"The Kitchen\" <info@thekitchen.org>",
+    "subject": "Josiah McElheny: Instrument Object",
+    "date": "2026-08-21T15:16:50.000Z",
+    "file": "data\\inbox\\218-josiah-mcelheny-instrument-object.html",
+    "processed": true
+  },
+  {
+    "uid": 219,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "This Saturday see Kenneth Branagh’s glorious adaptation of HAMLET in its original 70mm format",
+    "date": "2026-08-21T15:20:20.000Z",
+    "file": "data\\inbox\\219-this-saturday-see-kenneth-branagh-s-glorious-adapt.html",
+    "processed": true
+  },
+  {
+    "uid": 220,
+    "from": "\"City Parks Foundation\" <development@cityparksfoundation.org>",
+    "subject": "ANNOUNCING GALA ARTIST SPECIAL GUESTS: ST. VINCENT AND ROBERT RANDOLPH",
+    "date": "2026-08-21T18:04:06.000Z",
+    "file": "data\\inbox\\220-announcing-gala-artist-special-guests-st-vincent-a.html",
+    "processed": true
+  },
+  {
+    "uid": 221,
+    "from": "\"Printed Matter, Inc.\" <news@printedmatter.org>",
+    "subject": "⭐ Introducing the new and improved Membership Program ⭐",
+    "date": "2026-08-21T18:53:57.000Z",
+    "file": "data\\inbox\\221-introducing-the-new-and-improved-membership-progra.html",
+    "processed": true
+  },
+  {
+    "uid": 222,
+    "from": "\"Rhizome News\" <info@rhizome.org>",
+    "subject": "Celebrate 30 years of Rhizome",
+    "date": "2026-08-21T19:00:36.000Z",
+    "file": "data\\inbox\\222-celebrate-30-years-of-rhizome.html",
+    "processed": true
+  },
+  {
+    "uid": 223,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Feature Films at the Ninth Annual Rockaway Film Festival",
+    "date": "2026-08-21T21:12:26.000Z",
+    "file": "data\\inbox\\223-feature-films-at-the-ninth-annual-rockaway-film-fe.html",
+    "processed": true
+  },
+  {
+    "uid": 224,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "No More Excuses",
+    "date": "2026-08-22T16:24:09.000Z",
+    "file": "data\\inbox\\224-no-more-excuses.html",
+    "processed": true
+  },
+  {
+    "uid": 225,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "On the Silver Globe",
+    "date": "2026-08-23T14:31:37.000Z",
+    "file": "data\\inbox\\225-on-the-silver-globe.html",
+    "processed": true
+  },
+  {
+    "uid": 226,
+    "from": "\"The New York Public Library\" <enews@email.nypl.org>",
+    "subject": "NYPL Events: Just announced! Jill Lepore, Hilton Als, George Saunders and more!",
+    "date": "2026-08-23T23:02:25.000Z",
+    "file": "data\\inbox\\226-nypl-events-just-announced-jill-lepore-hilton-als-.html",
+    "processed": true
+  },
+  {
+    "uid": 227,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "International open call for 2026 Foundwork Artist Prize",
+    "date": "2026-08-24T06:10:24.000Z",
+    "file": "data\\inbox\\227-international-open-call-for-2026-foundwork-artist-.html",
+    "processed": true
+  },
+  {
+    "uid": 228,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "Generation Astrology",
+    "date": "2026-08-24T09:24:37.000Z",
+    "file": "data\\inbox\\228-generation-astrology.html",
+    "processed": true
+  },
+  {
+    "uid": 229,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "The Charlie Parker Jazz Festival Returns!",
+    "date": "2026-08-24T16:17:47.000Z",
+    "file": "data\\inbox\\229-the-charlie-parker-jazz-festival-returns.html",
+    "processed": true
+  },
+  {
+    "uid": 230,
+    "from": "\"The New York Academy of Sciences\" <nyas@nyas.org>",
+    "subject": "Academy eNews: August 2026",
+    "date": "2026-08-24T16:32:11.000Z",
+    "file": "data\\inbox\\230-academy-enews-august-2026.html",
+    "processed": true
+  },
+  {
+    "uid": 231,
+    "from": "\"Drom\" <office@dromnyc.com>",
+    "subject": "This Week at DROM:",
+    "date": "2026-08-24T20:06:28.000Z",
+    "file": "data\\inbox\\231-this-week-at-drom.html",
+    "processed": true
+  },
+  {
+    "uid": 232,
+    "from": "\"Printed Matter, Inc.\" <news@printedmatter.org>",
+    "subject": "2026 NY Art Book Fair Website Is Now Live!",
+    "date": "2026-08-24T20:03:20.000Z",
+    "file": "data\\inbox\\232-2026-ny-art-book-fair-website-is-now-live.html",
+    "processed": true
+  },
+  {
+    "uid": 233,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Rotterdam Photo 2027 open call",
+    "date": "2026-08-25T06:10:23.000Z",
+    "file": "data\\inbox\\233-rotterdam-photo-2027-open-call.html",
+    "processed": true
+  },
+  {
+    "uid": 234,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Next month: Samuel Stein and Nikil Saval in conversation",
+    "date": "2026-08-25T13:46:42.000Z",
+    "file": "data\\inbox\\234-next-month-samuel-stein-and-nikil-saval-in-convers.html",
+    "processed": true
+  },
+  {
+    "uid": 235,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FROM THE ARCHIVE: Local modernisms",
+    "date": "2026-08-25T14:11:46.000Z",
+    "file": "data\\inbox\\235-from-the-archive-local-modernisms.html",
+    "processed": true
+  },
+  {
+    "uid": 236,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "This Fall, Step Into Gen’ichirō Inokuma's NYC Salon",
+    "date": "2026-08-25T15:07:44.000Z",
+    "file": "data\\inbox\\236-this-fall-step-into-gen-ichir-inokuma-s-nyc-salon.html",
+    "processed": true
+  },
+  {
+    "uid": 237,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "Announcing More Fall Programs: Liturgy, Noveller, Axine M",
+    "date": "2026-08-25T16:17:00.000Z",
+    "file": "data\\inbox\\237-announcing-more-fall-programs-liturgy-noveller-axi.html",
+    "processed": true
+  },
+  {
+    "uid": 238,
+    "from": "\"Center for Science and Society\" <scienceandsociety@chimp.mail.columbia.edu>",
+    "subject": "August Newsletter: Events, Grants, and More",
+    "date": "2026-08-25T16:19:33.000Z",
+    "file": "data\\inbox\\238-august-newsletter-events-grants-and-more.html",
+    "processed": true
+  },
+  {
+    "uid": 239,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Mad Dog Morgan",
+    "date": "2026-08-25T16:38:47.000Z",
+    "file": "data\\inbox\\239-mad-dog-morgan.html",
+    "processed": true
+  },
+  {
+    "uid": 240,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FUTURE HISTORY at RANSHOU Archives & Collection",
+    "date": "2026-08-26T06:10:17.000Z",
+    "file": "data\\inbox\\240-future-history-at-ranshou-archives-collection.html",
+    "processed": true
+  },
+  {
+    "uid": 241,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "JUST ANNOUNCED! FREE Climate Week Concert",
+    "date": "2026-08-26T14:05:25.000Z",
+    "file": "data\\inbox\\241-just-announced-free-climate-week-concert.html",
+    "processed": true
+  },
+  {
+    "uid": 242,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: America – Everything You’ve Ever Dreamed of (and More): Tony Ganz & Rhody Streeter, Part 2; Acid + International Westerns & EC",
+    "date": "2026-08-26T15:16:49.000Z",
+    "file": "data\\inbox\\242-this-week-at-afa-america-everything-you-ve-ever-dr.html",
+    "processed": true
+  },
+  {
+    "uid": 243,
+    "from": "\"Blank Forms\" <mail@blankforms.org>",
+    "subject": "Introducing Kou Records at Blank Forms",
+    "date": "2026-08-26T15:03:08.000Z",
+    "file": "data\\inbox\\243-introducing-kou-records-at-blank-forms.html",
+    "processed": true
+  },
+  {
+    "uid": 244,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Step Into the Archives – Bibliomania: A Preface to Chronovisor Opens Friday 🎞️📚",
+    "date": "2026-08-26T16:06:29.000Z",
+    "file": "data\\inbox\\244-step-into-the-archives-bibliomania-a-preface-to-ch.html",
+    "processed": true
+  },
+  {
+    "uid": 245,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "A Game of Inaction: A Conversation with Filipiñana director Rafael Manuel",
+    "date": "2026-08-26T16:52:02.000Z",
+    "file": "data\\inbox\\245-a-game-of-inaction-a-conversation-with-filipi-ana-.html",
+    "processed": true
+  },
+  {
+    "uid": 246,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "Sept. 17: Imagining sabotage for the “laptop class”",
+    "date": "2026-08-26T19:03:05.000Z",
+    "file": "data\\inbox\\246-sept-17-imagining-sabotage-for-the-laptop-class.html",
+    "processed": true
+  },
+  {
+    "uid": 247,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "Gandahar",
+    "date": "2026-08-26T19:17:35.000Z",
+    "file": "data\\inbox\\247-gandahar.html",
+    "processed": true
+  },
+  {
+    "uid": 248,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "70mm and Dolby Atmos Summer finale + DJ sets in the Courtyard, and more",
+    "date": "2026-08-26T20:21:20.000Z",
+    "file": "data\\inbox\\248-70mm-and-dolby-atmos-summer-finale-dj-sets-in-the-.html",
+    "processed": true
+  },
+  {
+    "uid": 249,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Tomorrow: Explore NYC Waterways",
+    "date": "2026-08-26T21:00:54.000Z",
+    "file": "data\\inbox\\249-tomorrow-explore-nyc-waterways.html",
+    "processed": true
+  },
+  {
+    "uid": 250,
+    "from": "\"Data & Society\" <info@datasociety.net>",
+    "subject": "Join us on 9/23 for a book talk with danah boyd, curbing public input on data centers, protecting science from government intimidation",
+    "date": "2026-08-26T21:02:49.000Z",
+    "file": "data\\inbox\\250-join-us-on-9-23-for-a-book-talk-with-danah-boyd-cu.html",
+    "processed": true
+  },
+  {
+    "uid": 251,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Brno Art Open 2026: Fulfilled Prophecies",
+    "date": "2026-08-27T06:09:11.000Z",
+    "file": "data\\inbox\\251-brno-art-open-2026-fulfilled-prophecies.html",
+    "processed": true
+  },
+  {
+    "uid": 252,
+    "from": "\"Terraza7\" <info@terraza7.com>",
+    "subject": "Upcoming — Terraza 7 & Acoustic Memories: Migrant Sounds of New York",
+    "date": "2026-08-27T12:40:56.000Z",
+    "file": "data\\inbox\\252-upcoming-terraza-7-acoustic-memories-migrant-sound.html",
+    "processed": true
+  },
+  {
+    "uid": 253,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FROM THE ARCHIVE: On disorder and refusal",
+    "date": "2026-08-27T14:11:13.000Z",
+    "file": "data\\inbox\\253-from-the-archive-on-disorder-and-refusal.html",
+    "processed": true
+  },
+  {
+    "uid": 254,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-08-27T15:05:40.000Z",
+    "file": "data\\inbox\\254-this-week-at-barbes.html",
+    "processed": true
+  },
+  {
+    "uid": 255,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Explore the NYFF64 schedule and Talks lineup 🗓️🎤",
+    "date": "2026-08-27T15:31:12.000Z",
+    "file": "data\\inbox\\255-explore-the-nyff64-schedule-and-talks-lineup.html",
+    "processed": true
+  },
+  {
+    "uid": 256,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Free Book Fair Saturday + Rarities on 35mm for Bibliomania + Luca Guadagnino Favorite Samba Traoré Opens + More!",
+    "date": "2026-08-27T16:17:28.000Z",
+    "file": "data\\inbox\\256-free-book-fair-saturday-rarities-on-35mm-for-bibli.html",
+    "processed": true
+  },
+  {
+    "uid": 257,
+    "from": "\"UnionDocs\" <info@uniondocs.org>",
+    "subject": "John Wilson, Nilita Vachani, K. Austin Collins, Arlin Golden and Shawn Glinis dive deep into Wiseman’s New York films. Plus, Charlie Shackleton, Alan Berliner and Joanna Arnow on first person filmmaking.",
+    "date": "2026-08-27T16:19:19.000Z",
+    "file": "data\\inbox\\257-john-wilson-nilita-vachani-k-austin-collins-arlin-.html",
+    "processed": true
+  },
+  {
+    "uid": 258,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "“Hagiographies are Boring and Annoying” Tom Stern on Butthole Surfers: The Hole Truth and Nothing Butt",
+    "date": "2026-08-27T16:32:47.000Z",
+    "file": "data\\inbox\\258-hagiographies-are-boring-and-annoying-tom-stern-on.html",
+    "processed": true
+  },
+  {
+    "uid": 259,
+    "from": "\"Ambient Church\" <info@ambient.church>",
+    "subject": "🪽 Hildegard Sold Out, 2nd Added + Student Discounts 🎓",
+    "date": "2026-08-27T17:44:27.000Z",
+    "file": "data\\inbox\\259-hildegard-sold-out-2nd-added-student-discounts.html",
+    "processed": true
+  },
+  {
+    "uid": 260,
+    "from": "\"Printed Matter, Inc.\" <news@printedmatter.org>",
+    "subject": "🥂 Printed Matter's Reciprocal Benefits Program: Membership, multiplied 💥",
+    "date": "2026-08-27T19:06:57.000Z",
+    "file": "data\\inbox\\260-printed-matter-s-reciprocal-benefits-program-membe.html",
+    "processed": true
+  },
+  {
+    "uid": 261,
+    "from": "\"Swiss Institute / Contemporary Art\" <info@swissinstitute.net>",
+    "subject": "Announcing | SI OFFSITE | Rafał Skoczek: Kino Drift",
+    "date": "2026-08-27T19:17:40.000Z",
+    "file": "data\\inbox\\261-announcing-si-offsite-rafa-skoczek-kino-drift.html",
+    "processed": true
+  },
+  {
+    "uid": 262,
+    "from": "\"NYPL Connect\" <enews@email.nypl.org>",
+    "subject": "Join Hilton Als, Jill Lepore, Min Jin Lee, and more for a new season of LIVE from NYPL",
+    "date": "2026-08-27T18:21:35.000Z",
+    "file": "data\\inbox\\262-join-hilton-als-jill-lepore-min-jin-lee-and-more-f.html",
+    "processed": true
+  },
+  {
+    "uid": 263,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Southnord Artfest 2026 full programme: The Other Side of the Mountain",
+    "date": "2026-08-28T06:10:17.000Z",
+    "file": "data\\inbox\\263-southnord-artfest-2026-full-programme-the-other-si.html",
+    "processed": true
+  },
+  {
+    "uid": 264,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "September 13 | Your invitation to Creative Time’s End-of-Summer Benefit Bash",
+    "date": "2026-08-28T15:00:34.000Z",
+    "file": "data\\inbox\\264-september-13-your-invitation-to-creative-time-s-en.html",
+    "processed": true
+  },
+  {
+    "uid": 265,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "America – Everything You’ve Ever Dreamed of (And More): Tony Ganz + Rhody Streeter",
+    "date": "2026-08-28T15:42:45.000Z",
+    "file": "data\\inbox\\265-america-everything-you-ve-ever-dreamed-of-and-more.html",
+    "processed": true
+  },
+  {
+    "uid": 266,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "See how it's made: Animation & screenprinting",
+    "date": "2026-08-28T15:58:17.000Z",
+    "file": "data\\inbox\\266-see-how-it-s-made-animation-screenprinting.html",
+    "processed": true
+  },
+  {
+    "uid": 267,
+    "from": "\"World Music Institute\" <kate@worldmusicinstitute.org>",
+    "subject": "So Long Sweet Summer - September is Almost Here 🍂",
+    "date": "2026-08-28T16:15:39.000Z",
+    "file": "data\\inbox\\267-so-long-sweet-summer-september-is-almost-here.html",
+    "processed": true
+  },
+  {
+    "uid": 268,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "Saturday: Greta Gerwig and Noah Baumbach’s generational touchstone FRANCES HA",
+    "date": "2026-08-28T18:08:15.000Z",
+    "file": "data\\inbox\\268-saturday-greta-gerwig-and-noah-baumbach-s-generati.html",
+    "processed": true
+  },
+  {
+    "uid": 269,
+    "from": "\"e-flux Events\" <events@mailer.e-flux.com>",
+    "subject": "This week at e-flux: Book Sale and Open House",
+    "date": "2026-08-28T20:05:46.000Z",
+    "file": "data\\inbox\\269-this-week-at-e-flux-book-sale-and-open-house.html",
+    "processed": true
+  },
+  {
+    "uid": 270,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Shorts Programs at the Ninth Annual Rockaway Film Festival",
+    "date": "2026-08-28T20:38:05.000Z",
+    "file": "data\\inbox\\270-shorts-programs-at-the-ninth-annual-rockaway-film-.html",
+    "processed": true
+  },
+  {
+    "uid": 271,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "New poetry by Kim Eon Hee with artwork by Mire Lee",
+    "date": "2026-08-28T21:30:32.000Z",
+    "file": "data\\inbox\\271-new-poetry-by-kim-eon-hee-with-artwork-by-mire-lee.html",
+    "processed": true
+  },
+  {
+    "uid": 272,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Changeling",
+    "date": "2026-08-29T14:25:14.000Z",
+    "file": "data\\inbox\\272-the-changeling.html",
+    "processed": true
+  },
+  {
+    "uid": 273,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "September 9 in New York: Ground Zero Plus 25",
+    "date": "2026-08-29T14:46:30.000Z",
+    "file": "data\\inbox\\273-september-9-in-new-york-ground-zero-plus-25.html",
+    "processed": true
+  },
+  {
+    "uid": 274,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "In the Studio: Animation and screenprinting, step by step",
+    "date": "2026-08-30T15:56:03.000Z",
+    "file": "data\\inbox\\274-in-the-studio-animation-and-screenprinting-step-by.html",
+    "processed": true
+  },
+  {
+    "uid": 275,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "When We Saw Each Other More Often",
+    "date": "2026-08-30T16:45:56.000Z",
+    "file": "data\\inbox\\275-when-we-saw-each-other-more-often.html",
+    "processed": true
+  },
+  {
+    "uid": 276,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Ben Sledsens: An Apple for the Road at Tim Van Laere Gallery",
+    "date": "2026-08-31T06:11:17.000Z",
+    "file": "data\\inbox\\276-ben-sledsens-an-apple-for-the-road-at-tim-van-laer.html",
+    "processed": true
+  },
+  {
+    "uid": 277,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Paul Thomas Anderson Returns to NYFF 🎹",
+    "date": "2026-08-31T15:23:37.000Z",
+    "file": "data\\inbox\\277-paul-thomas-anderson-returns-to-nyff.html",
+    "processed": true
+  },
+  {
+    "uid": 278,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "I WILL DELIVER YOU INTO THIS WORLD: Seduction, Consummation & Rebirth in Der Fan’s Lost Germany",
+    "date": "2026-08-31T15:30:20.000Z",
+    "file": "data\\inbox\\278-i-will-deliver-you-into-this-world-seduction-consu.html",
+    "processed": true
+  },
+  {
+    "uid": 279,
+    "from": "\"e-flux Events\" <events@mailer.e-flux.com>",
+    "subject": "This week at e-flux: Fergus Jones",
+    "date": "2026-08-31T22:06:48.000Z",
+    "file": "data\\inbox\\279-this-week-at-e-flux-fergus-jones.html",
+    "processed": true
+  },
+  {
+    "uid": 280,
+    "from": "\"SculptureCenter\" <info@sculpture-center.org>",
+    "subject": "Opening Sep 19: Aziz Hazara, Cevdet Erek, and Yining Fei | 2–4pm",
+    "date": "2026-09-01T12:32:05.000Z",
+    "file": "data\\inbox\\280-opening-sep-19-aziz-hazara-cevdet-erek-and-yining-.html",
+    "processed": true
+  },
+  {
+    "uid": 281,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "Berlinische Galerie prersents Su Yu Hsin in the IBB Video Space",
+    "date": "2026-09-01T13:16:23.000Z",
+    "file": "data\\inbox\\281-berlinische-galerie-prersents-su-yu-hsin-in-the-ib.html",
+    "processed": true
+  },
+  {
+    "uid": 282,
+    "from": "\"Amant\" <amant@amant.org>",
+    "subject": "September at Amant",
+    "date": "2026-09-01T13:55:33.000Z",
+    "file": "data\\inbox\\282-september-at-amant.html",
+    "processed": true
+  },
+  {
+    "uid": 283,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Luca Guadagnino Returns to the NYFF64 Main Slate 🖥️",
+    "date": "2026-09-01T14:40:54.000Z",
+    "file": "data\\inbox\\283-luca-guadagnino-returns-to-the-nyff64-main-slate.html",
+    "processed": true
+  },
+  {
+    "uid": 284,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Locarno Film Festival 2026",
+    "date": "2026-09-01T14:56:55.000Z",
+    "file": "data\\inbox\\284-locarno-film-festival-2026.html",
+    "processed": true
+  },
+  {
+    "uid": 285,
+    "from": "\"NYU Center for Data Science\" <cds-communications@nyu.edu>",
+    "subject": "Tal Linzen analyzes what makes some sentences difficult to read, Emily Black reveals how AI is shaping hiring decisions, and more!",
+    "date": "2026-09-01T15:00:52.000Z",
+    "file": "data\\inbox\\285-tal-linzen-analyzes-what-makes-some-sentences-diff.html",
+    "processed": true
+  },
+  {
+    "uid": 286,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "A First Look at ISSUE in 2027",
+    "date": "2026-09-01T15:18:07.000Z",
+    "file": "data\\inbox\\286-a-first-look-at-issue-in-2027.html",
+    "processed": true
+  },
+  {
+    "uid": 287,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "Celebrate Verve’s 70th Anniversary at SummerStage!",
+    "date": "2026-09-01T16:04:19.000Z",
+    "file": "data\\inbox\\287-celebrate-verve-s-70th-anniversary-at-summerstage.html",
+    "processed": true
+  },
+  {
+    "uid": 288,
+    "from": "\"Mark Krotov\" <subs@nplusonemag.com>",
+    "subject": "POWER PLAY is online now",
+    "date": "2026-09-01T18:59:48.000Z",
+    "file": "data\\inbox\\288-power-play-is-online-now.html",
+    "processed": true
+  },
+  {
+    "uid": 289,
+    "from": "\"The Shed\" <gala@theshed.org>",
+    "subject": "Jamie xx live at Gala After-Party",
+    "date": "2026-09-01T20:59:51.000Z",
+    "file": "data\\inbox\\289-jamie-xx-live-at-gala-after-party.html",
+    "processed": true
+  },
+  {
+    "uid": 290,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "LA BOLA NEGRA from Cannes-Winning Directors Javier Calvo & Javier Ambrossi | WATCH THE TEASER  TRAILER | In Theaters 10/16",
+    "date": "2026-09-01T21:14:18.000Z",
+    "file": "data\\inbox\\290-la-bola-negra-from-cannes-winning-directors-javier.html",
+    "processed": true
+  },
+  {
+    "uid": 291,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Our ninth annual festival is tomorrow!",
+    "date": "2026-09-01T21:19:28.000Z",
+    "file": "data\\inbox\\291-our-ninth-annual-festival-is-tomorrow.html",
+    "processed": true
+  },
+  {
+    "uid": 292,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Flash Art International presents issue 356: Borders",
+    "date": "2026-09-02T06:10:13.000Z",
+    "file": "data\\inbox\\292-flash-art-international-presents-issue-356-borders.html",
+    "processed": true
+  },
+  {
+    "uid": 293,
+    "from": "\"Vera List Center\" <vlc@newschool.edu>",
+    "subject": "Announcing Fall 2026 programming!",
+    "date": "2026-09-02T13:03:30.000Z",
+    "file": "data\\inbox\\293-announcing-fall-2026-programming.html",
+    "processed": true
+  },
+  {
+    "uid": 294,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: WHAT GODMILOW TAUGHT; UnionDocs Presents Wiseman’s WELFARE; MIX NYC Presents Vintage Trans Cinema; TRUE NORTH & EC",
+    "date": "2026-09-02T15:17:09.000Z",
+    "file": "data\\inbox\\294-this-week-at-afa-what-godmilow-taught-uniondocs-pr.html",
+    "processed": true
+  },
+  {
+    "uid": 295,
+    "from": "\"Wave Farm + WGXC 90.7-FM\" <info@wavefarm.org>",
+    "subject": "Wave Farm News September 2026",
+    "date": "2026-09-02T15:17:27.000Z",
+    "file": "data\\inbox\\295-wave-farm-news-september-2026.html",
+    "processed": true
+  },
+  {
+    "uid": 296,
+    "from": "\"Ambient Church\" <info@ambient.church>",
+    "subject": "🎹 The Piano Music of Ryuichi Sakamoto | Friday, 9.25 🗽 NYC",
+    "date": "2026-09-02T16:43:47.000Z",
+    "file": "data\\inbox\\296-the-piano-music-of-ryuichi-sakamoto-friday-9-25-ny.html",
+    "processed": true
+  },
+  {
+    "uid": 297,
+    "from": "\"MoMI Member News\" <info@movingimage.org>",
+    "subject": "Casino, In the Cut, Wet Hot American Summer, Wild Inside, and more",
+    "date": "2026-09-02T17:04:18.000Z",
+    "file": "data\\inbox\\297-casino-in-the-cut-wet-hot-american-summer-wild-ins.html",
+    "processed": true
+  },
+  {
+    "uid": 298,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "An Engagement in a Kind of Faith: A Conversation with David Gatten",
+    "date": "2026-09-02T17:06:24.000Z",
+    "file": "data\\inbox\\298-an-engagement-in-a-kind-of-faith-a-conversation-wi.html",
+    "processed": true
+  },
+  {
+    "uid": 299,
+    "from": "\"News BGC\" <news@bgc.bard.edu>",
+    "subject": "What's On This Fall @ BGC",
+    "date": "2026-09-02T17:31:13.000Z",
+    "file": "data\\inbox\\299-what-s-on-this-fall-bgc.html",
+    "processed": true
+  },
+  {
+    "uid": 300,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "MoMA Guide: What’s new and next this fall",
+    "date": "2026-09-02T18:10:25.000Z",
+    "file": "data\\inbox\\300-moma-guide-what-s-new-and-next-this-fall.html",
+    "processed": true
+  },
+  {
+    "uid": 301,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Our new exhibition opens next week!",
+    "date": "2026-09-02T21:01:27.000Z",
+    "file": "data\\inbox\\301-our-new-exhibition-opens-next-week.html",
+    "processed": true
+  },
+  {
+    "uid": 302,
+    "from": "\"Bryant Park Picnic Performances\" <mcn@urbanmgt.com>",
+    "subject": "Catch the Last Shows of the Summer! 🌳✨🧺🎶",
+    "date": "2026-09-02T22:18:51.000Z",
+    "file": "data\\inbox\\302-catch-the-last-shows-of-the-summer.html",
+    "processed": true
+  },
+  {
+    "uid": 303,
+    "from": "\"World Music Institute\" <kate@worldmusicinstitute.org>",
+    "subject": "We've Got the Soundtrack to Your September 🍁",
+    "date": "2026-09-02T22:46:00.000Z",
+    "file": "data\\inbox\\303-we-ve-got-the-soundtrack-to-your-september.html",
+    "processed": true
+  },
+  {
+    "uid": 304,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Carlos Martiel: Dark Age at The Shelley & Donald Rubin Foundation",
+    "date": "2026-09-03T06:10:06.000Z",
+    "file": "data\\inbox\\304-carlos-martiel-dark-age-at-the-shelley-donald-rubi.html",
+    "processed": true
+  },
+  {
+    "uid": 305,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Love, Women and Flowers",
+    "date": "2026-09-03T14:06:11.000Z",
+    "file": "data\\inbox\\305-love-women-and-flowers.html",
+    "processed": true
+  },
+  {
+    "uid": 306,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FEATURE: A short history of Korea's biennials",
+    "date": "2026-09-03T14:11:07.000Z",
+    "file": "data\\inbox\\306-feature-a-short-history-of-korea-s-biennials.html",
+    "processed": true
+  },
+  {
+    "uid": 307,
+    "from": "\"City Parks Foundation\" <development@cityparksfoundation.org>",
+    "subject": "Just Announced: Black Thought + Kenan Thompson at the CPF Gala",
+    "date": "2026-09-03T14:32:22.000Z",
+    "file": "data\\inbox\\307-just-announced-black-thought-kenan-thompson-at-the.html",
+    "processed": true
+  },
+  {
+    "uid": 308,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "Announcing Fall 2026 Public Programs - Reserve Now",
+    "date": "2026-09-03T15:12:19.000Z",
+    "file": "data\\inbox\\308-announcing-fall-2026-public-programs-reserve-now.html",
+    "processed": true
+  },
+  {
+    "uid": 309,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Enter the Mysterious World of Chronovisor + Marketa Lazarová Restoration + Get Your NYFF64 Express Pass + More!",
+    "date": "2026-09-03T16:04:54.000Z",
+    "file": "data\\inbox\\309-enter-the-mysterious-world-of-chronovisor-marketa-.html",
+    "processed": true
+  },
+  {
+    "uid": 310,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Music to your eyes: the cinematic world of Ryuichi Sakamoto 🎵👀",
+    "date": "2026-09-03T17:06:35.000Z",
+    "file": "data\\inbox\\310-music-to-your-eyes-the-cinematic-world-of-ryuichi-.html",
+    "processed": true
+  },
+  {
+    "uid": 311,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "Oct. 16: Arnold J. Kemp in conversation with Mira Dayal",
+    "date": "2026-09-03T19:02:03.000Z",
+    "file": "data\\inbox\\311-oct-16-arnold-j-kemp-in-conversation-with-mira-day.html",
+    "processed": true
+  },
+  {
+    "uid": 312,
+    "from": "\"Printed Matter, Inc.\" <news@printedmatter.org>",
+    "subject": "✨ Champion-level Membership Premiums: A Piece of Printed Matter History 🖼️",
+    "date": "2026-09-03T21:07:16.000Z",
+    "file": "data\\inbox\\312-champion-level-membership-premiums-a-piece-of-prin.html",
+    "processed": true
+  },
+  {
+    "uid": 313,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Wiigwasitig / waskway / Honouring the Birch Tree at the Art Gallery of Burlington",
+    "date": "2026-09-04T06:11:04.000Z",
+    "file": "data\\inbox\\313-wiigwasitig-waskway-honouring-the-birch-tree-at-th.html",
+    "processed": true
+  },
+  {
+    "uid": 314,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "Batalha Centro de Cinema presents Afterlife",
+    "date": "2026-09-04T13:14:02.000Z",
+    "file": "data\\inbox\\314-batalha-centro-de-cinema-presents-afterlife.html",
+    "processed": true
+  },
+  {
+    "uid": 315,
+    "from": "\"Printed Matter, Inc.\" <info@printedmatter.org>",
+    "subject": "Latest Arrivals & Back to School at Printed Matter",
+    "date": "2026-09-04T14:06:05.000Z",
+    "file": "data\\inbox\\315-latest-arrivals-back-to-school-at-printed-matter.html",
+    "processed": true
+  },
+  {
+    "uid": 316,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "July Events from Brooklyn Raga Massive and Friends",
+    "date": "2026-09-04T14:11:15.000Z",
+    "file": "data\\inbox\\316-july-events-from-brooklyn-raga-massive-and-friends.html",
+    "processed": true
+  },
+  {
+    "uid": 317,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "Your local Capital One Café is right around the corner",
+    "date": "2026-09-04T14:04:12.000Z",
+    "file": "data\\inbox\\317-your-local-capital-one-caf-is-right-around-the-cor.html",
+    "processed": true
+  },
+  {
+    "uid": 318,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Archon and the Archive: An Interview with Jack Auen and Kevin Walker",
+    "date": "2026-09-04T15:20:40.000Z",
+    "file": "data\\inbox\\318-the-archon-and-the-archive-an-interview-with-jack-.html",
+    "processed": true
+  },
+  {
+    "uid": 319,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "See a classic musical masterpiece with a Rodgers & Hart score in 35mm this Saturday",
+    "date": "2026-09-04T16:03:15.000Z",
+    "file": "data\\inbox\\319-see-a-classic-musical-masterpiece-with-a-rodgers-h.html",
+    "processed": true
+  },
+  {
+    "uid": 320,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "Sept. 9 at CTHQ | Cat Sanctuary and Beyond",
+    "date": "2026-09-04T16:00:53.000Z",
+    "file": "data\\inbox\\320-sept-9-at-cthq-cat-sanctuary-and-beyond.html",
+    "processed": true
+  },
+  {
+    "uid": 321,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Savdie/Soutine at NORR COHAN",
+    "date": "2026-09-04T17:11:00.000Z",
+    "file": "data\\inbox\\321-savdie-soutine-at-norr-cohan.html",
+    "processed": true
+  },
+  {
+    "uid": 322,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "MoMA Guide: Fall’s must-see exhibitions",
+    "date": "2026-09-04T18:09:05.000Z",
+    "file": "data\\inbox\\322-moma-guide-fall-s-must-see-exhibitions.html",
+    "processed": true
+  },
+  {
+    "uid": 323,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "“Music by Ryuichi Sakamoto” Opens in One Week!",
+    "date": "2026-09-04T18:55:31.000Z",
+    "file": "data\\inbox\\323-music-by-ryuichi-sakamoto-opens-in-one-week.html",
+    "processed": true
+  },
+  {
+    "uid": 324,
+    "from": "\"Rhizome News\" <info@rhizome.org>",
+    "subject": "WEBSITES WEBSITES WEBSITES!",
+    "date": "2026-09-04T19:00:29.000Z",
+    "file": "data\\inbox\\324-websites-websites-websites.html",
+    "processed": true
+  },
+  {
+    "uid": 325,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "Last chance to visit The Black Mirror Experience!",
+    "date": "2026-09-04T21:04:41.000Z",
+    "file": "data\\inbox\\325-last-chance-to-visit-the-black-mirror-experience.html",
+    "processed": true
+  },
+  {
+    "uid": 326,
+    "from": "\"Ambient Church\" <info@ambient.church>",
+    "subject": "🌅 LARAAJI x Michael Brook, Carl Stone & More 9.26 NYC 🗽",
+    "date": "2026-09-04T21:30:10.000Z",
+    "file": "data\\inbox\\326-laraaji-x-michael-brook-carl-stone-more-9-26-nyc.html",
+    "processed": true
+  },
+  {
+    "uid": 327,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Quinn Latimer on Carlos Motta’s “Pleas of Resistance” at OK Linz",
+    "date": "2026-09-05T14:10:03.000Z",
+    "file": "data\\inbox\\327-review-quinn-latimer-on-carlos-motta-s-pleas-of-re.html",
+    "processed": true
+  },
+  {
+    "uid": 328,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Youth Without Youth",
+    "date": "2026-09-05T16:08:23.000Z",
+    "file": "data\\inbox\\328-youth-without-youth.html",
+    "processed": true
+  },
+  {
+    "uid": 329,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Half-off subscriptions for students and university workers",
+    "date": "2026-09-05T16:44:30.000Z",
+    "file": "data\\inbox\\329-half-off-subscriptions-for-students-and-university.html",
+    "processed": true
+  },
+  {
+    "uid": 330,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Crack",
+    "date": "2026-09-06T15:41:53.000Z",
+    "file": "data\\inbox\\330-the-crack.html",
+    "processed": true
+  },
+  {
+    "uid": 331,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "July Events from Brooklyn Raga Massive and Friends",
+    "date": "2026-09-06T19:15:33.000Z",
+    "file": "data\\inbox\\331-july-events-from-brooklyn-raga-massive-and-friends.html",
+    "processed": true
+  },
+  {
+    "uid": 332,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "Upcoming programs | Border Defiance and workshop with Nora Treatbaby",
+    "date": "2026-09-06T21:15:05.000Z",
+    "file": "data\\inbox\\332-upcoming-programs-border-defiance-and-workshop-wit.html",
+    "processed": true
+  },
+  {
+    "uid": 333,
+    "from": "\"The New York Public Library\" <enews@email.nypl.org>",
+    "subject": "NYPL Events: Join Jonathan Blitzer, Rozina Ali, Edwidge Danticat, and Rita Indiana at the Library!",
+    "date": "2026-09-06T23:03:12.000Z",
+    "file": "data\\inbox\\333-nypl-events-join-jonathan-blitzer-rozina-ali-edwid.html",
+    "processed": true
+  },
+  {
+    "uid": 334,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Pina presents its third issue with American Artist and C.B. Evans",
+    "date": "2026-09-07T06:10:15.000Z",
+    "file": "data\\inbox\\334-pina-presents-its-third-issue-with-american-artist.html",
+    "processed": true
+  },
+  {
+    "uid": 335,
+    "from": "\"e-flux Events\" <events@mailer.e-flux.com>",
+    "subject": "This week at e-flux: Su Yu Hsin, and Pandrogeny Manifesto",
+    "date": "2026-09-07T13:05:40.000Z",
+    "file": "data\\inbox\\335-this-week-at-e-flux-su-yu-hsin-and-pandrogeny-mani.html",
+    "processed": true
+  },
+  {
+    "uid": 336,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Turning the Camera On: Barbara Hammer from Birth to Death",
+    "date": "2026-09-07T14:31:21.000Z",
+    "file": "data\\inbox\\336-turning-the-camera-on-barbara-hammer-from-birth-to.html",
+    "processed": true
+  },
+  {
+    "uid": 337,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "ArtAsiaPacific issue 150 out now",
+    "date": "2026-09-08T06:09:48.000Z",
+    "file": "data\\inbox\\337-artasiapacific-issue-150-out-now.html",
+    "processed": true
+  },
+  {
+    "uid": 338,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Jesi Khadivi on “FIRE: From the Cosmos to the Commons” at St. Nikolai Memorial, Hamburg",
+    "date": "2026-09-08T14:11:00.000Z",
+    "file": "data\\inbox\\338-review-jesi-khadivi-on-fire-from-the-cosmos-to-the.html",
+    "processed": true
+  },
+  {
+    "uid": 339,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Merrily We Go to Hell",
+    "date": "2026-09-08T15:01:38.000Z",
+    "file": "data\\inbox\\339-merrily-we-go-to-hell.html",
+    "processed": true
+  },
+  {
+    "uid": 340,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Free tickets to Ground Zero Plus 25—tomorrow night",
+    "date": "2026-09-08T15:20:13.000Z",
+    "file": "data\\inbox\\340-free-tickets-to-ground-zero-plus-25-tomorrow-night.html",
+    "processed": true
+  },
+  {
+    "uid": 341,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "Our award-winning animated series is back",
+    "date": "2026-09-08T16:11:13.000Z",
+    "file": "data\\inbox\\341-our-award-winning-animated-series-is-back.html",
+    "processed": true
+  },
+  {
+    "uid": 342,
+    "from": "\"Lincoln Center\" <Info@lincolncenter.org>",
+    "subject": "This week at Lincoln Center Presents",
+    "date": "2026-09-08T16:22:08.000Z",
+    "file": "data\\inbox\\342-this-week-at-lincoln-center-presents.html",
+    "processed": true
+  },
+  {
+    "uid": 343,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "Reserve Now for Fall 2026 Public Programs",
+    "date": "2026-09-08T16:58:21.000Z",
+    "file": "data\\inbox\\343-reserve-now-for-fall-2026-public-programs.html",
+    "processed": true
+  },
+  {
+    "uid": 344,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Michail Pirgelis at Kunstraum Dornbirn",
+    "date": "2026-09-08T17:12:01.000Z",
+    "file": "data\\inbox\\344-michail-pirgelis-at-kunstraum-dornbirn.html",
+    "processed": true
+  },
+  {
+    "uid": 345,
+    "from": "\"UnionDocs\" <info@uniondocs.org>",
+    "subject": "Listening at the margins with Johanna Linsley & Fabiana Vieira Gibin. Plus Joanna Arnow, Charlie Shackleton and Alan Berliner on first person filmmaking — last spots!",
+    "date": "2026-09-08T18:50:14.000Z",
+    "file": "data\\inbox\\345-listening-at-the-margins-with-johanna-linsley-fabi.html",
+    "processed": true
+  },
+  {
+    "uid": 346,
+    "from": "\"The Helix Center\" <info@helixcenter.org>",
+    "subject": "It's About TIME",
+    "date": "2026-09-08T19:00:30.000Z",
+    "file": "data\\inbox\\346-it-s-about-time.html",
+    "processed": true
+  },
+  {
+    "uid": 347,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "Gordon Matta-Clark: New Openings Against Old Surfaces Reception and Talk",
+    "date": "2026-09-08T20:21:18.000Z",
+    "file": "data\\inbox\\347-gordon-matta-clark-new-openings-against-old-surfac.html",
+    "processed": true
+  },
+  {
+    "uid": 348,
+    "from": "\"Drom\" <office@dromnyc.com>",
+    "subject": "This Week at DROM:",
+    "date": "2026-09-08T20:57:52.000Z",
+    "file": "data\\inbox\\348-this-week-at-drom.html",
+    "processed": true
+  },
+  {
+    "uid": 349,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Residency For Artists On Hiatus in print: RFAOH Annual Report 2013/14, 2014/15, 2016/17",
+    "date": "2026-09-08T21:10:14.000Z",
+    "file": "data\\inbox\\349-residency-for-artists-on-hiatus-in-print-rfaoh-ann.html",
+    "processed": true
+  },
+  {
+    "uid": 350,
+    "from": "\"SOF/Heyman\" <sofheyman@news.mail.columbia.edu>",
+    "subject": "Our Fall 2026 Programming Guide",
+    "date": "2026-09-08T21:43:18.000Z",
+    "file": "data\\inbox\\350-our-fall-2026-programming-guide.html",
+    "processed": true
+  },
+  {
+    "uid": 351,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Barcelona Symposium 2026 presented by Talking Galleries",
+    "date": "2026-09-09T06:10:07.000Z",
+    "file": "data\\inbox\\351-barcelona-symposium-2026-presented-by-talking-gall.html",
+    "processed": true
+  },
+  {
+    "uid": 352,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "NNCK Returns | Fall Season Begins This Weekend",
+    "date": "2026-09-09T07:03:13.000Z",
+    "file": "data\\inbox\\352-nnck-returns-fall-season-begins-this-weekend.html",
+    "processed": true
+  },
+  {
+    "uid": 353,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "A Reverence for Water: Of Rivers",
+    "date": "2026-09-09T15:35:16.000Z",
+    "file": "data\\inbox\\353-a-reverence-for-water-of-rivers.html",
+    "processed": true
+  },
+  {
+    "uid": 354,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "A publishing utopia in miniature",
+    "date": "2026-09-09T15:50:11.000Z",
+    "file": "data\\inbox\\354-a-publishing-utopia-in-miniature.html",
+    "processed": true
+  },
+  {
+    "uid": 355,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Soft Power festival presented by Arts of the Working Class",
+    "date": "2026-09-09T17:11:10.000Z",
+    "file": "data\\inbox\\355-soft-power-festival-presented-by-arts-of-the-worki.html",
+    "processed": true
+  },
+  {
+    "uid": 356,
+    "from": "\"The Kitchen\" <info@thekitchen.org>",
+    "subject": "🔊Exhibition opening tomorrow—Josiah McElheny: Instrument Object",
+    "date": "2026-09-09T17:17:22.000Z",
+    "file": "data\\inbox\\356-exhibition-opening-tomorrow-josiah-mcelheny-instru.html",
+    "processed": true
+  },
+  {
+    "uid": 357,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: Christine Choy; Jackie Raynal Presents & EC",
+    "date": "2026-09-09T17:17:09.000Z",
+    "file": "data\\inbox\\357-this-week-at-afa-christine-choy-jackie-raynal-pres.html",
+    "processed": true
+  },
+  {
+    "uid": 358,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "Kwaidan",
+    "date": "2026-09-09T18:03:00.000Z",
+    "file": "data\\inbox\\358-kwaidan.html",
+    "processed": true
+  },
+  {
+    "uid": 359,
+    "from": "\"NYPL Connect\" <enews@email.nypl.org>",
+    "subject": "Join talks with Elizabeth Alexander, Tracie D. Hall, and George Saunders, access Gloria Steinem's work, and find free giveaways and activities this back to school season!",
+    "date": "2026-09-09T18:29:44.000Z",
+    "file": "data\\inbox\\359-join-talks-with-elizabeth-alexander-tracie-d-hall-.html",
+    "processed": true
+  },
+  {
+    "uid": 360,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Application open: Visual Artist AIRspace Residency",
+    "date": "2026-09-09T20:01:09.000Z",
+    "file": "data\\inbox\\360-application-open-visual-artist-airspace-residency.html",
+    "processed": true
+  },
+  {
+    "uid": 361,
+    "from": "\"Lincoln Center\" <Info@lincolncenter.org>",
+    "subject": "Now on sale: Unmissable Fall performances",
+    "date": "2026-09-09T20:09:25.000Z",
+    "file": "data\\inbox\\361-now-on-sale-unmissable-fall-performances.html",
+    "processed": true
+  },
+  {
+    "uid": 362,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "This October: Japanese Creation Myths Come to Life!",
+    "date": "2026-09-09T20:24:41.000Z",
+    "file": "data\\inbox\\362-this-october-japanese-creation-myths-come-to-life.html",
+    "processed": true
+  },
+  {
+    "uid": 363,
+    "from": "\"Ambient Church\" <info@ambient.church>",
+    "subject": "Just announced in NYC 🌐 Objekt, Skee Mask, Huerco S. + more (9.26-27)",
+    "date": "2026-09-09T21:38:44.000Z",
+    "file": "data\\inbox\\363-just-announced-in-nyc-objekt-skee-mask-huerco-s-mo.html",
+    "processed": true
+  },
+  {
+    "uid": 364,
+    "from": "\"World Music Institute\" <kate@worldmusicinstitute.org>",
+    "subject": "Shana Tova to All Who Celebrate! 🍯",
+    "date": "2026-09-09T22:30:40.000Z",
+    "file": "data\\inbox\\364-shana-tova-to-all-who-celebrate.html",
+    "processed": true
+  },
+  {
+    "uid": 365,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Gyeonggi Ceramics Biennale 2026",
+    "date": "2026-09-10T06:11:02.000Z",
+    "file": "data\\inbox\\365-gyeonggi-ceramics-biennale-2026.html",
+    "processed": true
+  },
+  {
+    "uid": 366,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "e-flux Film Notes—“What Images Withhold: Film Form and Public Sphere”",
+    "date": "2026-09-10T13:17:04.000Z",
+    "file": "data\\inbox\\366-e-flux-film-notes-what-images-withhold-film-form-a.html",
+    "processed": true
+  },
+  {
+    "uid": 367,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Departed",
+    "date": "2026-09-10T13:35:12.000Z",
+    "file": "data\\inbox\\367-the-departed.html",
+    "processed": true
+  },
+  {
+    "uid": 368,
+    "from": "\"Swiss Institute\" <benefit@swissinstitute.net>",
+    "subject": "Personal Invitation | SI 40th Anniversary Benefit Gala | November 7, 2026",
+    "date": "2026-09-10T14:02:19.000Z",
+    "file": "data\\inbox\\368-personal-invitation-si-40th-anniversary-benefit-ga.html",
+    "processed": true
+  },
+  {
+    "uid": 369,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Mitch Speed on “Tomás Saraceno in Collaboration: Ancestral Futures” at Haus der Kunst, Munich",
+    "date": "2026-09-10T14:11:11.000Z",
+    "file": "data\\inbox\\369-review-mitch-speed-on-tom-s-saraceno-in-collaborat.html",
+    "processed": true
+  },
+  {
+    "uid": 370,
+    "from": "\"Center for Science and Society\" <scienceandsociety@chimp.mail.columbia.edu>",
+    "subject": "September Newsletter: Welcoming Tunç Şen",
+    "date": "2026-09-10T15:00:17.000Z",
+    "file": "data\\inbox\\370-september-newsletter-welcoming-tun-en.html",
+    "processed": true
+  },
+  {
+    "uid": 371,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "Adrienne Warren starring in “Imitation of Life”",
+    "date": "2026-09-10T16:09:33.000Z",
+    "file": "data\\inbox\\371-adrienne-warren-starring-in-imitation-of-life.html",
+    "processed": true
+  },
+  {
+    "uid": 372,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "Don't miss! Our award-winning animated series is back",
+    "date": "2026-09-10T16:10:09.000Z",
+    "file": "data\\inbox\\372-don-t-miss-our-award-winning-animated-series-is-ba.html",
+    "processed": true
+  },
+  {
+    "uid": 373,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "FLC Fall/Winter Lineup + Get Paper Tiger and Godzilla Minus Zero Party Access + More!",
+    "date": "2026-09-10T16:07:50.000Z",
+    "file": "data\\inbox\\373-flc-fall-winter-lineup-get-paper-tiger-and-godzill.html",
+    "processed": true
+  },
+  {
+    "uid": 374,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "30th international ARTfair in Innsbruck presents Bettina Heinen-Ayech",
+    "date": "2026-09-10T17:09:56.000Z",
+    "file": "data\\inbox\\374-30th-international-artfair-in-innsbruck-presents-b.html",
+    "processed": true
+  },
+  {
+    "uid": 375,
+    "from": "\"Blank Forms\" <mail@blankforms.org>",
+    "subject": "Announcing Laurie Spiegel: VOICES WITHIN 🎛️",
+    "date": "2026-09-10T17:47:08.000Z",
+    "file": "data\\inbox\\375-announcing-laurie-spiegel-voices-within.html",
+    "processed": true
+  },
+  {
+    "uid": 376,
+    "from": "\"Data & Society\" <info@datasociety.net>",
+    "subject": "Join us for upcoming events on data centers and the census, an ecosystem approach to governing AI agents, a labor market disappears",
+    "date": "2026-09-10T17:50:58.000Z",
+    "file": "data\\inbox\\376-join-us-for-upcoming-events-on-data-centers-and-th.html",
+    "processed": true
+  },
+  {
+    "uid": 377,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "Three study sessions | Combat Breathing Vol. II: A Symposium on Aesthetics and Politics",
+    "date": "2026-09-10T18:30:45.000Z",
+    "file": "data\\inbox\\377-three-study-sessions-combat-breathing-vol-ii-a-sym.html",
+    "processed": true
+  },
+  {
+    "uid": 378,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "Next week: Clarissa Redwine, JS Tan, Tega Brain & Sam Lavigne at TC HQ",
+    "date": "2026-09-10T19:02:34.000Z",
+    "file": "data\\inbox\\378-next-week-clarissa-redwine-js-tan-tega-brain-sam-l.html",
+    "processed": true
+  },
+  {
+    "uid": 379,
+    "from": "\"Onassis ONX\" <contact@onx.studio>",
+    "subject": "Announcing our next exhibition, What Remains! 🪨",
+    "date": "2026-09-10T19:18:05.000Z",
+    "file": "data\\inbox\\379-announcing-our-next-exhibition-what-remains.html",
+    "processed": true
+  },
+  {
+    "uid": 380,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Join the Symposium: Gen’ichiro Inokuma’s NYC Salon",
+    "date": "2026-09-10T20:17:33.000Z",
+    "file": "data\\inbox\\380-join-the-symposium-gen-ichiro-inokuma-s-nyc-salon.html",
+    "processed": true
+  },
+  {
+    "uid": 381,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "Shorts festival, spooky After Dark tours, MoMI LAB demos, movies and more",
+    "date": "2026-09-10T20:32:20.000Z",
+    "file": "data\\inbox\\381-shorts-festival-spooky-after-dark-tours-momi-lab-d.html",
+    "processed": true
+  },
+  {
+    "uid": 382,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "CCA Tashkent opens to the public: a permanent institution for contemporary art in Uzbekistan",
+    "date": "2026-09-11T06:10:55.000Z",
+    "file": "data\\inbox\\382-cca-tashkent-opens-to-the-public-a-permanent-insti.html",
+    "processed": true
+  },
+  {
+    "uid": 383,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "Broadcast Gets Wet",
+    "date": "2026-09-11T14:03:48.000Z",
+    "file": "data\\inbox\\383-broadcast-gets-wet.html",
+    "processed": true
+  },
+  {
+    "uid": 384,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "Remember to Reserve for Fall Public Programs",
+    "date": "2026-09-11T15:02:40.000Z",
+    "file": "data\\inbox\\384-remember-to-reserve-for-fall-public-programs.html",
+    "processed": true
+  },
+  {
+    "uid": 385,
+    "from": "\"SculptureCenter\" <info@sculpture-center.org>",
+    "subject": "Announcing In Practice 2027",
+    "date": "2026-09-11T15:02:40.000Z",
+    "file": "data\\inbox\\385-announcing-in-practice-2027.html",
+    "processed": true
+  },
+  {
+    "uid": 386,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Orange Era",
+    "date": "2026-09-11T16:22:51.000Z",
+    "file": "data\\inbox\\386-orange-era.html",
+    "processed": true
+  },
+  {
+    "uid": 387,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Disintegration Loop 1.1",
+    "date": "2026-09-11T16:53:55.000Z",
+    "file": "data\\inbox\\387-disintegration-loop-1-1.html",
+    "processed": true
+  },
+  {
+    "uid": 388,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Ana Segovia: The Office of Inter-American Affairs Presents at kurimanzutto",
+    "date": "2026-09-11T17:10:56.000Z",
+    "file": "data\\inbox\\388-ana-segovia-the-office-of-inter-american-affairs-p.html",
+    "processed": true
+  },
+  {
+    "uid": 389,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "Saturday: the ’70s sci-fi-horror tale about A.I. run amok, Demon Seed, starring Julie Christie",
+    "date": "2026-09-11T18:02:49.000Z",
+    "file": "data\\inbox\\389-saturday-the-70s-sci-fi-horror-tale-about-a-i-run-.html",
+    "processed": true
+  },
+  {
+    "uid": 390,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-09-11T18:05:12.000Z",
+    "file": "data\\inbox\\390-this-week-at-barbes.html",
+    "processed": true
+  },
+  {
+    "uid": 391,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Chris Fite-Wassilak on Jun Aoki and Richard Tuttle’s “Almost Sky” at Tokyo Opera City Art Gallery",
+    "date": "2026-09-12T14:09:51.000Z",
+    "file": "data\\inbox\\391-review-chris-fite-wassilak-on-jun-aoki-and-richard.html",
+    "processed": true
+  },
+  {
+    "uid": 392,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Thank you + more screenings this month!",
+    "date": "2026-09-12T14:23:23.000Z",
+    "file": "data\\inbox\\392-thank-you-more-screenings-this-month.html",
+    "processed": true
+  },
+  {
+    "uid": 393,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "Three Benefit Shows at SummerStage!",
+    "date": "2026-09-12T16:02:51.000Z",
+    "file": "data\\inbox\\393-three-benefit-shows-at-summerstage.html",
+    "processed": true
+  },
+  {
+    "uid": 394,
+    "from": "\"La MaMa\" <programs@lamama.org>",
+    "subject": "Save the Date for our 65th Anniversary Block Party!",
+    "date": "2026-09-12T16:18:51.000Z",
+    "file": "data\\inbox\\394-save-the-date-for-our-65th-anniversary-block-party.html",
+    "processed": true
+  },
+  {
+    "uid": 395,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Viva Las Vegas + Learning from Learning from Las Vegas",
+    "date": "2026-09-12T17:11:28.000Z",
+    "file": "data\\inbox\\395-viva-las-vegas-learning-from-learning-from-las-veg.html",
+    "processed": true
+  },
+  {
+    "uid": 396,
+    "from": "\"The Helix Center\" <info@helixcenter.org>",
+    "subject": "It's About TIME",
+    "date": "2026-09-12T19:00:09.000Z",
+    "file": "data\\inbox\\396-it-s-about-time.html",
+    "processed": true
+  },
+  {
+    "uid": 397,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "MUSCLEFEST 2026",
+    "date": "2026-09-13T18:29:04.000Z",
+    "file": "data\\inbox\\397-musclefest-2026.html",
+    "processed": true
+  },
+  {
+    "uid": 398,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Open call for artist-run initiatives: Supermarket Art Fair 2027",
+    "date": "2026-09-14T06:09:56.000Z",
+    "file": "data\\inbox\\398-open-call-for-artist-run-initiatives-supermarket-a.html",
+    "processed": true
+  },
+  {
+    "uid": 399,
+    "from": "\"Printed Matter, Inc.\" <news@printedmatter.org>",
+    "subject": "🤩 A tote bag made for artists' books 📚",
+    "date": "2026-09-14T12:31:56.000Z",
+    "file": "data\\inbox\\399-a-tote-bag-made-for-artists-books.html",
+    "processed": true
+  },
+  {
+    "uid": 400,
+    "from": "\"e-flux Events\" <events@mailer.e-flux.com>",
+    "subject": "This week at e-flux: Andrei Ujică, Midgar Records, Chantal Akerman, Shirley Clarke, and Yvonne Rainer",
+    "date": "2026-09-14T13:06:42.000Z",
+    "file": "data\\inbox\\400-this-week-at-e-flux-andrei-ujic-midgar-records-cha.html",
+    "processed": true
+  },
+  {
+    "uid": 401,
+    "from": "\"Lincoln Center\" <Info@lincolncenter.org>",
+    "subject": "This week at Lincoln Center Presents",
+    "date": "2026-09-14T15:26:04.000Z",
+    "file": "data\\inbox\\401-this-week-at-lincoln-center-presents.html",
+    "processed": true
+  },
+  {
+    "uid": 402,
+    "from": "\"Vera List Center\" <vlc@newschool.edu>",
+    "subject": "Announcing the VLC Forum 2026: Matter of Intelligence | Full Program & Speakers",
+    "date": "2026-09-14T16:01:44.000Z",
+    "file": "data\\inbox\\402-announcing-the-vlc-forum-2026-matter-of-intelligen.html",
+    "processed": true
+  },
+  {
+    "uid": 403,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Michael Glawogger’s Globalization Trilogy",
+    "date": "2026-09-14T16:09:55.000Z",
+    "file": "data\\inbox\\403-michael-glawogger-s-globalization-trilogy.html",
+    "processed": true
+  },
+  {
+    "uid": 404,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "September 23 in Brooklyn: A party to celebrate Issue 54",
+    "date": "2026-09-14T16:08:58.000Z",
+    "file": "data\\inbox\\404-september-23-in-brooklyn-a-party-to-celebrate-issu.html",
+    "processed": true
+  },
+  {
+    "uid": 405,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "Fall Events from Brooklyn Raga Massive and Friends",
+    "date": "2026-09-14T16:34:58.000Z",
+    "file": "data\\inbox\\405-fall-events-from-brooklyn-raga-massive-and-friends.html",
+    "processed": true
+  },
+  {
+    "uid": 406,
+    "from": "\"SOF/Heyman\" <sofheyman@news.mail.columbia.edu>",
+    "subject": "Early cinema, Russian documentary theory, and more",
+    "date": "2026-09-14T16:53:14.000Z",
+    "file": "data\\inbox\\406-early-cinema-russian-documentary-theory-and-more.html",
+    "processed": true
+  },
+  {
+    "uid": 407,
+    "from": "\"The Helix Center\" <info@helixcenter.org>",
+    "subject": "It's About TIME",
+    "date": "2026-09-14T17:00:35.000Z",
+    "file": "data\\inbox\\407-it-s-about-time.html",
+    "processed": true
+  },
+  {
+    "uid": 408,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "You Had to Be There featuring Martin Short and Eugene Levy”",
+    "date": "2026-09-14T18:03:05.000Z",
+    "file": "data\\inbox\\408-you-had-to-be-there-featuring-martin-short-and-eug.html",
+    "processed": true
+  },
+  {
+    "uid": 409,
+    "from": "\"Data & Society Research Institute\" <events@datasociety.net>",
+    "subject": "Data & Society events during UNGA Week in NYC",
+    "date": "2026-09-14T19:01:56.000Z",
+    "file": "data\\inbox\\409-data-society-events-during-unga-week-in-nyc.html",
+    "processed": true
+  },
+  {
+    "uid": 410,
+    "from": "\"Swiss Institute / Contemporary Art\" <info@swissinstitute.net>",
+    "subject": "Education at SI | Teen Council Applications Live | Contemporary Art Topics Registration | SI Public Art Family Guide",
+    "date": "2026-09-14T19:15:12.000Z",
+    "file": "data\\inbox\\410-education-at-si-teen-council-applications-live-con.html",
+    "processed": true
+  },
+  {
+    "uid": 411,
+    "from": "\"Ambient Church\" <info@ambient.church>",
+    "subject": "♾️ Charlemagne Palestine Sold Out, 2nd Show Added 9.27",
+    "date": "2026-09-14T19:18:13.000Z",
+    "file": "data\\inbox\\411-charlemagne-palestine-sold-out-2nd-show-added-9-27.html",
+    "processed": true
+  },
+  {
+    "uid": 412,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Open call for Upė Foundation Artist and Curatorial Fellowships at Gasworks",
+    "date": "2026-09-15T06:11:53.000Z",
+    "file": "data\\inbox\\412-open-call-for-up-foundation-artist-and-curatorial-.html",
+    "processed": true
+  },
+  {
+    "uid": 413,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Gökcan Demirkazik on the 5th Kyiv Biennial, “A Bird That Cannot Land” at KW Institute of Contemporary Art, Berlin",
+    "date": "2026-09-15T14:09:43.000Z",
+    "file": "data\\inbox\\413-review-g-kcan-demirkazik-on-the-5th-kyiv-biennial-.html",
+    "processed": true
+  },
+  {
+    "uid": 414,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "Highlights from Creative Time’s 2026 Sandcastle Competition",
+    "date": "2026-09-15T14:12:20.000Z",
+    "file": "data\\inbox\\414-highlights-from-creative-time-s-2026-sandcastle-co.html",
+    "processed": true
+  }
+]

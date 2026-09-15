@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-09-15",
+  "note": "Venues whose websites could not be scraped in the 2026-09-15 full sweep and whose newsletters are NOT yet arriving in the scout inbox. Sign up with the dedicated scout address so the mailing-list agent covers them.",
+  "groups": [
+    {
+      "title": "Blocked (403 / WAF / paywall) — newsletter is the only channel",
+      "venues": [
+        {"id": "brooklyn-rail", "name": "The Brooklyn Rail", "problem": "403 Forbidden", "site": "https://brooklynrail.org/", "signup": "https://brooklynrail.org/newsletter", "notes": "New Social Environment daily lunchtime talks — the single densest artist/thinker conversation feed. Signup box also in site footer."},
+        {"id": "knockdown-center", "name": "Knockdown Center", "problem": "403 Forbidden", "site": "https://knockdown.center/", "signup": "https://knockdown.center/newsletter", "notes": "Footer newsletter signup. Also follow on Resident Advisor for club nights."},
+        {"id": "bang-on-a-can", "name": "Bang on a Can", "problem": "403 Forbidden", "site": "https://bangonacan.org/", "signup": "https://bangonacan.org/newsletter/", "notes": "Long Play festival, Loud Weekend, People's Commissioning Fund concerts."},
+        {"id": "center-for-book-arts", "name": "Center for Book Arts", "problem": "403 Forbidden", "site": "https://centerforbookarts.org/", "signup": "https://centerforbookarts.org/newsletter", "notes": "Footer 'Join our mailing list'."},
+        {"id": "columbia-soa-lenfest", "name": "Columbia School of the Arts / Lenfest Center", "problem": "403 (institution-wide WAF)", "site": "https://arts.columbia.edu/events", "signup": "https://arts.columbia.edu/newsletter", "notes": "Lenfest Center events list: https://lenfest.arts.columbia.edu/ — look for 'Subscribe' in footer."},
+        {"id": "columbia-zuckerman", "name": "Columbia Zuckerman Institute", "problem": "403 (institution-wide WAF)", "site": "https://zuckermaninstitute.columbia.edu/news-events", "signup": "https://zuckermaninstitute.columbia.edu/newsletter-archives", "notes": "Public neuroscience talks + Brain Insight lectures. Newsletter signup on the archives page."},
+        {"id": "columbia-gsapp", "name": "Columbia GSAPP", "problem": "Calendar is JS-rendered (403 on direct fetch)", "site": "https://www.arch.columbia.edu/events", "signup": "https://www.arch.columbia.edu/newsletter", "notes": "Architecture lecture series; 'Sign up for our newsletter' in site footer."},
+        {"id": "asia-society", "name": "Asia Society New York", "problem": "HTTP 402 (bot wall)", "site": "https://asiasociety.org/new-york", "signup": "https://asiasociety.org/new-york/subscribe", "notes": "Southeast Asian film/talks — pick the New York + Arts lists."},
+        {"id": "mcnally-jackson", "name": "McNally Jackson", "problem": "403 Forbidden", "site": "https://www.mcnallyjackson.com/events", "signup": "https://www.mcnallyjackson.com/newsletter", "notes": "Author talks; footer newsletter signup."},
+        {"id": "housing-works", "name": "Housing Works Bookstore", "problem": "Events list is JS-rendered (empty)", "site": "https://www.housingworks.org/events", "signup": "https://www.housingworks.org/locations/bookstore-cafe", "notes": "Bookstore events newsletter link is on the bookstore page footer."}
+      ]
+    },
+    {
+      "title": "JS-rendered / empty pages — nothing to parse",
+      "venues": [
+        {"id": "new-museum", "name": "New Museum", "problem": "Calendar renders empty", "site": "https://www.newmuseum.org/calendar", "signup": "https://www.newmuseum.org/newsletter", "notes": "Also home of NEW INC — pick the Public Programs list."},
+        {"id": "nitehawk", "name": "Nitehawk Cinema", "problem": "Homepage only (JS calendar)", "site": "https://nitehawkcinema.com/", "signup": "https://nitehawkcinema.com/newsletter", "notes": "Signup form is on the homepage; covers both Williamsburg and Prospect Park."},
+        {"id": "secret-science-club", "name": "Secret Science Club", "problem": "Homepage renders empty", "site": "https://www.secretscienceclub.com", "signup": "https://www.secretscienceclub.com", "notes": "Blog sidebar has 'Join the mailing list'. Events are also on the Bell House calendar (also JS-rendered)."},
+        {"id": "nowadays", "name": "Nowadays", "problem": "Programming lives on RA; site has only a signup box", "site": "https://nowadays.nyc/", "signup": "https://nowadays.nyc/", "notes": "Newsletter field at bottom of homepage. Nonstop, Mister Sunday, ambient Sunday sessions."},
+        {"id": "guggenheim", "name": "Guggenheim", "problem": "Events URLs 404", "site": "https://www.guggenheim.org/", "signup": "https://www.guggenheim.org/newsletter", "notes": "Works & Process performances, Guggenheim Talks."},
+        {"id": "canyon", "name": "CANYON", "problem": "Site returns empty (pre-opening)", "site": "https://canyon.nyc/", "signup": "https://canyon.nyc/", "notes": "40k sq ft video/sound venue opening fall 2026 (EAI + Rhizome). Join list on homepage so you catch opening programming."},
+        {"id": "cybernetics-library", "name": "Cybernetics Library", "problem": "Luma calendar cards have no dates", "site": "https://www.cyberneticslibrary.org/", "signup": "https://luma.com/cyberneticslibrary", "notes": "Click 'Subscribe' on the Luma calendar page — Luma emails arrive from luma.com and already parse well."},
+        {"id": "babycastles", "name": "Babycastles", "problem": "Homepage has no listings", "site": "https://www.babycastles.com/", "signup": "https://withfriends.co/babycastles", "notes": "Events post on withfriends + Discord; withfriends membership/newsletter is the email channel."},
+        {"id": "nyu-game-center", "name": "NYU Game Center", "problem": "Lecture series listed without dates", "site": "https://gamecenter.nyu.edu/", "signup": "https://gamecenter.nyu.edu/newsletter/", "notes": "Lecture Series (Bennett Foddy, Chris Plante etc.), No Quarter, Playtest Thursdays."},
+        {"id": "eyebeam", "name": "Eyebeam", "problem": "Homepage has no listings", "site": "https://eyebeam.org/", "signup": "https://eyebeam.org/newsletter/", "notes": "Footer signup."},
+        {"id": "electronic-arts-intermix", "name": "Electronic Arts Intermix", "problem": "Homepage lists only past/external shows", "site": "https://www.eai.org/", "signup": "https://www.eai.org/newsletter", "notes": "Registry says 'subscribed 2026-07' but no EAI mail has arrived — re-check the subscription."},
+        {"id": "montez-press-radio", "name": "Montez Press Radio", "problem": "Site is a bare header", "site": "https://radio.montezpress.com/", "signup": "https://montezpress.com/", "notes": "Newsletter via montezpress.com footer; Instagram @montezpressradio is the live channel. (Hosted Laurie Spiegel this week.)"},
+        {"id": "the-drift", "name": "The Drift", "problem": "Events page lists only past launches", "site": "https://www.thedriftmag.com/events/", "signup": "https://www.thedriftmag.com/newsletter/", "notes": "Issue launch parties + panels; newsletter announces them first."},
+        {"id": "performance-space-ny", "name": "Performance Space New York", "problem": "Show pages have no dates", "site": "https://performancespacenewyork.org/shows/", "signup": "https://performancespacenewyork.org/newsletter/", "notes": "Footer signup. First Mondays series had no dates on site."},
+        {"id": "chocolate-factory", "name": "The Chocolate Factory Theater", "problem": "Season listed without dates", "site": "https://chocolatefactorytheater.org/", "signup": "https://chocolatefactorytheater.org/mailing-list", "notes": "'Join our mailing list' in site nav."},
+        {"id": "movement-research", "name": "Movement Research", "problem": "Only classes on homepage", "site": "https://movementresearch.org/", "signup": "https://movementresearch.org/newsletter", "notes": "Fall Festival, Judson Church Mondays, Sounding Body series."},
+        {"id": "jack-arts", "name": "JACK", "problem": "No upcoming listings", "site": "https://www.jackny.org/", "signup": "https://www.jackny.org/", "notes": "Newsletter link in footer; or email hello@jackny.org."},
+        {"id": "city-reliquary", "name": "City Reliquary", "problem": "No upcoming listings", "site": "https://www.cityreliquary.org/", "signup": "https://www.cityreliquary.org/", "notes": "Footer newsletter signup."},
+        {"id": "mmuseumm", "name": "Mmuseumm", "problem": "No dated events", "site": "https://www.mmuseumm.com/", "signup": "https://www.mmuseumm.com/", "notes": "Newsletter signup on homepage."},
+        {"id": "do-not-research", "name": "Do Not Research", "problem": "Substack front page renders empty; RSS is essays", "site": "https://donotresearch.substack.com/", "signup": "https://donotresearch.substack.com/subscribe", "notes": "Subscribe (free) — event announcements come as posts."}
+      ]
+    },
+    {
+      "title": "Broken sites (DNS / TLS / dead domain)",
+      "venues": [
+        {"id": "storefront-art-arch", "name": "Storefront for Art and Architecture", "problem": "storefrontnews.org DNS fails", "site": "https://storefrontnews.org/", "signup": "https://www.instagram.com/storefrontnyc/", "notes": "Domain may have moved — check Instagram for the new site, then find the newsletter link there."},
+        {"id": "morus", "name": "Museum of Reclaimed Urban Space", "problem": "TLS cert mismatch", "site": "http://www.morusnyc.org/", "signup": "http://www.morusnyc.org/", "notes": "Try http:// — newsletter signup on homepage."},
+        {"id": "the-stone", "name": "The Stone (New School)", "problem": "thestonenyc.com cert broken", "site": "https://thestonenyc.com/", "signup": "https://www.newschool.edu/performing-arts/", "notes": "Sign up for The New School College of Performing Arts events list, and follow @thestonenyc."},
+        {"id": "nyu-cns", "name": "NYU Center for Neural Science", "problem": "Connection reset", "site": "https://as.nyu.edu/departments/cns/events.html", "signup": "https://as.nyu.edu/departments/cns.html", "notes": "Ask to join the colloquium announcement list (email on department page)."}
+      ]
+    },
+    {
+      "title": "Tier 1 fallbacks that came back empty",
+      "venues": [
+        {"id": "genspace", "name": "Genspace", "problem": "Eventbrite organizer page has no upcoming events; site shows stale listings", "site": "https://www.genspace.org/events", "signup": "https://www.genspace.org/", "notes": "Footer newsletter signup — First Thursdays, bio-art classes."},
+        {"id": "verso-books", "name": "Verso Books (Verso Loft)", "problem": "Eventbrite search returns unrelated book clubs", "site": "https://www.versobooks.com/", "signup": "https://www.versobooks.com/pages/newsletter", "notes": "Verso Loft events in Brooklyn are announced via newsletter."},
+        {"id": "light-industry", "name": "Light Industry", "problem": "Site says 'details coming soon' for future programs", "site": "https://lightindustry.org/calendar/", "signup": "https://lightindustry.org/", "notes": "Their email list IS the announcement channel — 'mailing list' link on homepage."},
+        {"id": "mono-no-aware", "name": "Mono No Aware", "problem": "Seasonal; site not fetched", "site": "http://mononoawarefilm.com/", "signup": "http://mononoawarefilm.com/", "notes": "Expanded cinema festival + analog film workshops; newsletter link on homepage."},
+        {"id": "prismatic-ground", "name": "Prismatic Ground", "problem": "Seasonal (spring festival)", "site": "https://prismaticground.com/", "signup": "https://prismaticground.com/", "notes": "Join list to catch the 2027 lineup announcement."}
+      ]
+    }
+  ]
+}

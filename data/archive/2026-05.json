@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pioneer-works-2026-05-01-kali-malone-s-dshij-ft-lucy-railton-step",
+    "title": "Kali Malone's DSHIJ ft. Lucy Railton & Stephen O'Malley + Walt McClements",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-05-01",
+    "time_start": "20:00",
+    "description": "Experimental sound composition with live visuals. Walt McClements opens on accordion.",
+    "url": "https://www.eventbrite.com/e/kali-malones-dshij-ft-lucy-railton-stephen-omalley-walt-mcclements-tickets-1981385049019",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.293Z"
+  },
+  {
+    "id": "national-sawdust-2026-05-08-ana-roxanne",
+    "title": "Ana Roxanne",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-05-08",
+    "time_start": "20:00",
+    "description": "Musician working in electric meditation, dream pop, and ambient songcraft.",
+    "url": "https://www.nationalsawdust.org/event/ana-roxanne",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:15.526Z"
+  },
+  {
+    "id": "sculpture-center-2026-05-18-off-site-an-evening-with-ellen-pau-at-mo",
+    "title": "Off-Site: An Evening with Ellen Pau at MoMA",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-05-18",
+    "time_start": "19:00",
+    "description": "Evening program featuring video artist Ellen Pau at MoMA.",
+    "url": "https://www.sculpturecenter.org/events/14806/off-site-program-an-evening-with-ellen-pau-nbsp-at-moma",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Art & Technology",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:07.129Z"
+  },
+  {
+    "id": "architectural-league-2026-05-21-after-hours-so-il-solid-objectives-idenb",
+    "title": "After Hours: SO-IL (Solid Objectives Idenburg Liu)",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-05-21",
+    "description": "Visit to SO-IL's new Downtown Brooklyn office.",
+    "url": "https://archleague.org/event/after-hours-solid-objectives-idenburg-liu-so-il/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:22.242Z"
+  },
+  {
+    "id": "verso-books-2026-05-21-sara-van-os-rachel-harrison-decompositio",
+    "title": "Sara Van Os + Rachel Harrison: Decomposition Book",
+    "venue_id": "verso-books",
+    "venue_name": "Verso Books",
+    "date": "2026-05-21",
+    "time_start": "19:00",
+    "description": "Debut author discusses novel with visual artist Rachel Harrison.",
+    "url": "https://www.eventbrite.com/e/sara-van-os-rachel-harrison-decomposition-book-tickets-1983471472568",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-27T02:46:24.990Z"
+  },
+  {
+    "id": "sculpture-center-2026-05-27-akinsanya-kambon-ellen-pau-magdelena-pet",
+    "title": "Akinsanya Kambon, Ellen Pau, Magdelena Petroni — Opening Reception",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-05-27",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Triple opening reception for summer exhibitions.",
+    "url": "https://www.sculpturecenter.org/events/14809/akinsanya-kambon-soul-sessions-ellen-pau-she-moves-and-in-practice-magdelena-petroni-opening-reception",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:37:07.129Z"
+  }
+]

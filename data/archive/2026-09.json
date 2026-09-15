@@ -1,0 +1,350 @@
+[
+  {
+    "id": "union-docs-2026-09-02-wiseman-s-new-york",
+    "title": "Wiseman's New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-02",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:58.751Z"
+  },
+  {
+    "id": "bryant-park-picnics-2026-09-03-asian-american-arts-alliance-night-grace",
+    "title": "Asian American Arts Alliance night: Grace Kelly, Ashni",
+    "venue_id": "bryant-park-picnics",
+    "venue_name": "Bryant Park Picnic Performances",
+    "date": "2026-09-03",
+    "time_start": "19:00",
+    "description": "A4-curated evening of Asian American performers.",
+    "url": "https://bryantpark.org/activities/picnic-performances",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "asian-american"
+    ],
+    "matched_categories": [
+      "world_music",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.065Z"
+  },
+  {
+    "id": "union-docs-2026-09-03-hospital-wiseman-s-new-york",
+    "title": "Hospital — Wiseman's New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-03",
+    "time_start": "19:30",
+    "description": "Wiseman retrospective.",
+    "url": "https://uniondocs.org/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.965Z"
+  },
+  {
+    "id": "union-docs-2026-09-04-high-school-ii-wiseman-s-new-york",
+    "title": "High School II — Wiseman's New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-04",
+    "time_start": "19:30",
+    "description": "Wiseman retrospective.",
+    "url": "https://uniondocs.org/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.965Z"
+  },
+  {
+    "id": "union-docs-2026-09-05-model-wiseman-s-new-york",
+    "title": "Model — Wiseman’s New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-05",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "description": "<p> A view of the intersections of fashion, business, advertising, photography, television and fantasy.</p>\\n",
+    "url": "https://uniondocs.org/event/model-wisemans-new-york-2026-09-05/",
+    "format": "other",
+    "interest_score": 2.2,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "tier2-scraper",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:17.767Z"
+  },
+  {
+    "id": "union-docs-2026-09-06-central-park-wiseman-s-new-york",
+    "title": "Central Park — Wiseman's New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-06",
+    "time_start": "19:30",
+    "description": "Wiseman retrospective.",
+    "url": "https://uniondocs.org/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "architecture_urbanism"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.965Z"
+  },
+  {
+    "id": "union-docs-2026-09-09-ballet-wiseman-s-new-york",
+    "title": "Ballet — Wiseman's New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-09",
+    "time_start": "19:30",
+    "description": "Wiseman retrospective.",
+    "url": "https://uniondocs.org/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.966Z"
+  },
+  {
+    "id": "national-sawdust-2026-09-10-eli-fola-the-healing-scapes",
+    "title": "Eli Fola: The Healing Scapes",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-09-10",
+    "time_start": "19:30",
+    "description": "Immersive audio-visual performance blending electronic, ambient, jazz, and techno with West African instrumentation — sound as a tool for emotional connection.",
+    "url": "https://nationalsawdust.org/event/eli-folas-the-healing-scapes",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "experimental_music",
+      "art_tech",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:24.931Z"
+  },
+  {
+    "id": "union-docs-2026-09-10-in-jackson-heights-wiseman-s-new-york",
+    "title": "In Jackson Heights — Wiseman's New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-10",
+    "time_start": "19:30",
+    "description": "Wiseman's portrait of Queens's most diverse neighborhood.",
+    "url": "https://uniondocs.org/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "architecture_urbanism"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.966Z"
+  },
+  {
+    "id": "film-forum-2026-09-11-kwaidan-kobayashi-4k-",
+    "title": "Kwaidan (Kobayashi, 4K)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-09-11",
+    "description": "Masaki Kobayashi's ghost-story anthology in a new 4K restoration.",
+    "url": "https://filmforum.org/film/kwaidan",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.265Z"
+  },
+  {
+    "id": "national-sawdust-2026-09-11-lara-somogyi-a-time-patterned-nyc-premie",
+    "title": "Lara Somogyi: a [time] patterned (NYC premiere)",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-09-11",
+    "time_start": "19:30",
+    "description": "Contemporary harp constructing sonic environments through extended techniques, electronics, field recordings, and string orchestra.",
+    "url": "https://nationalsawdust.org/event/lara-somogyi-a-time-patterned-nyc-premiere",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "field-recording"
+    ],
+    "matched_categories": [
+      "experimental_music",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:24.934Z"
+  },
+  {
+    "id": "pioneer-works-2026-09-11-pioneer-works-fall-2026-exhibitions-open",
+    "title": "Pioneer Works Fall 2026 Exhibitions — Opening Reception",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-09-11",
+    "description": "Opening night for the fall exhibition cycle.",
+    "url": "https://pioneerworks.org/",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.933Z"
+  },
+  {
+    "id": "union-docs-2026-09-12-ex-libris-wiseman-s-new-york",
+    "title": "Ex Libris — Wiseman's New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-12",
+    "time_start": "16:00",
+    "description": "Wiseman inside the New York Public Library.",
+    "url": "https://uniondocs.org/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.966Z"
+  },
+  {
+    "id": "national-sawdust-2026-09-12-john-zorn-s-flatlands",
+    "title": "John Zorn's Flatlands",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-09-12",
+    "time_start": "20:00",
+    "description": "Power trio performing thirteen kaleidoscopic Zorn compositions — virtuosic solos, complex rhythms, atonal melodies.",
+    "url": "https://nationalsawdust.org/event/john-zorns-flatlands",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:24.932Z"
+  },
+  {
+    "id": "issue-project-room-2026-09-12-no-neck-blues-band",
+    "title": "No-Neck Blues Band",
+    "venue_id": "issue-project-room",
+    "venue_name": "Issue Project Room",
+    "date": "2026-09-12",
+    "time_start": "20:00",
+    "description": "NYC improvising collective NNCK returns to open ISSUE's Fall season, featuring founding member Keith Connolly (2016 AIR). The group favors anonymity, autonomy, and obfuscation in their performances.",
+    "url": "https://issueprojectroom.org/event/no-neck-blues-band",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music",
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:35.779Z"
+  },
+  {
+    "id": "union-docs-2026-09-12-racetrack-wiseman-s-new-york",
+    "title": "Racetrack — Wiseman's New York",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-12",
+    "time_start": "19:30",
+    "description": "Wiseman retrospective.",
+    "url": "https://uniondocs.org/",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.966Z"
+  },
+  {
+    "id": "roulette-2026-09-13-raven-chacon-tashi-dorji-alex-zhang-hung",
+    "title": "Raven Chacon + Tashi Dorji + Alex Zhang Hungtai // Leo Chang",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-09-13",
+    "time_start": "20:00",
+    "description": "Interactive sound-movement piece reimagining Korean folk practice sangmonori, followed by the debut of a new improvising trio with Pulitzer-winner Raven Chacon.",
+    "url": "https://roulette.org/event/raven-chacon-tashi-dorji-alex-zhang-hungtai-leo-chang/",
+    "price": "$25",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music",
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:23.581Z"
+  }
+]

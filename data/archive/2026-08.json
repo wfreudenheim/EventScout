@@ -1,0 +1,1254 @@
+[
+  {
+    "id": "nypl-live-2026-08-01-big-summer-book-club-writing-workshop-wi",
+    "title": "Big Summer Book Club Writing Workshop with N. K. Jemisin (livestream)",
+    "venue_id": "nypl-live",
+    "venue_name": "LIVE from NYPL",
+    "date": "2026-08-01",
+    "time_start": "14:00",
+    "description": "Interactive worldbuilding/writing workshop with sci-fi and fantasy author N. K. Jemisin (The City We Became). In-person registration full; livestream tickets available.",
+    "url": "https://www.nypl.org/events",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [
+      "worldbuilding"
+    ],
+    "matched_categories": [
+      "worldbuilding",
+      "philosophy_theory",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-27T14:11:39.013Z"
+  },
+  {
+    "id": "sfpc-2026-08-01-handmade-datasets",
+    "title": "Handmade Datasets",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2026-08-01",
+    "time_start": "13:30",
+    "description": "Free public talk by Aarati Akkapeddi exploring manual data creation and curation practices in artistic contexts.",
+    "url": "https://withfriends.events/event/NXWa8sJw/handmade-datasets-free-public-talk/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "art_tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:33.203Z"
+  },
+  {
+    "id": "metrograph-2026-08-01-in-the-mood-for-love-wong-kar-wai-",
+    "title": "In the Mood for Love (Wong Kar-wai)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-08-01",
+    "time_start": "14:10",
+    "description": "Wong Kar-wai's 2000 masterpiece (98min, 35mm). Also plays 8/5.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999000517",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "sea_culture"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.511Z"
+  },
+  {
+    "id": "nypl-live-2026-08-01-reading-rhythms-party-at-lincoln-center-",
+    "title": "Reading Rhythms Party at Lincoln Center Plaza",
+    "venue_id": "nypl-live",
+    "venue_name": "LIVE from NYPL",
+    "date": "2026-08-01",
+    "time_start": "10:00",
+    "description": "Outdoor reading party at Lincoln Center as part of Summer at the Library — bring a book or borrow from the performing-arts librarians.",
+    "url": "https://www.nypl.org/events",
+    "price": "free",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-27T14:11:39.013Z"
+  },
+  {
+    "id": "cooper-union-2026-08-01-since-type-cooper-ecal-a-typographic-atl",
+    "title": "Since Type@Cooper + ECAL: A Typographic Atlas (exhibitions, through early Aug)",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-08-01",
+    "description": "Paired exhibitions on typography history at Cooper Union and global lettering traditions from ECAL. Closing date approximate — on view through early August.",
+    "url": "https://cooper.edu/events-and-exhibitions/exhibitions/typecooper",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "art_tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:26.264Z"
+  },
+  {
+    "id": "metrograph-2026-08-01-the-night-is-short-walk-on-girl-yuasa-",
+    "title": "The Night is Short, Walk on Girl (Yuasa)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-08-01",
+    "time_start": "19:00",
+    "description": "Masaaki Yuasa's 2019 anime adventure (93min, DCP) with vibrant surreal animation.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999001554",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "experimental_animation",
+      "film_cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.511Z"
+  },
+  {
+    "id": "bitforms-2026-08-01-time-is-a-flat-circle-closing-soon-",
+    "title": "time is a flat circle (closing soon)",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-08-01",
+    "description": "Group exhibition at bitforms NYC exploring cyclical time through new media work. On view through early August.",
+    "url": "https://www.bitforms.art/exhibition/time-is-a-flat-circle",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "new-media"
+    ],
+    "matched_categories": [
+      "art_tech",
+      "contemporary_art",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:55.249Z"
+  },
+  {
+    "id": "elsewhere-2026-08-01-uffie-dj-cfcf-dj-doecaine-club-vs-trance",
+    "title": "Uffie (DJ) + CFCF (DJ), Doecaine, CLUB VS TRANCE",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-08-01",
+    "time_start": "22:30",
+    "description": "Full-venue club night — CFCF's ambient-adjacent electronic sets are a highlight.",
+    "url": "https://www.eventbrite.com/e/uffie-dj-set-cfcf-dj-set-doecaine-club-vs-trance-more-tickets-1992848359088",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "experimental_music",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:46.445Z"
+  },
+  {
+    "id": "union-docs-2026-08-01--k-family-affairs",
+    "title": "애국소녀 K- Family Affairs",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-08-01",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "sea_culture"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:58.751Z"
+  },
+  {
+    "id": "metrograph-2026-08-02-possession-u-awski-",
+    "title": "Possession (Żuławski)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-08-02",
+    "time_start": "23:00",
+    "description": "Żuławski's 1981 psychological horror (124min, 4K DCP) exploring relationship dissolution.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999001205",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.511Z"
+  },
+  {
+    "id": "pioneer-works-2026-08-03-produce-vol-3-az-car-curated-by-rocky-ro",
+    "title": "PRODUCE Vol. 3 : Azúcar (Curated by Rocky Romero)",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-08-03",
+    "description": "Everyone asks if wrestlers are athletes or performers. They’re asking the wrong question. What athlete isn’t a performer?",
+    "url": "https://www.eventbrite.com/e/produce-vol-3-azucar-curated-by-rocky-romero-tickets-1990659873268",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:54.824Z"
+  },
+  {
+    "id": "pioneer-works-2026-08-04-modern-silent-shorts-on-tour",
+    "title": "Modern Silent Shorts: On Tour",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-08-04",
+    "description": "Since 2023, Modern Silent Shorts has commissioned emerging directors to create new silent films reexamining the form’s origins.",
+    "url": "https://www.eventbrite.com/e/modern-silent-shorts-on-tour-tickets-1992592901006",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-24T14:57:54.992Z"
+  },
+  {
+    "id": "light-industry-2026-08-04-the-quiet-one-sidney-meyers-tinker-herbe",
+    "title": "The Quiet One (Sidney Meyers) + Tinker (Herbert Marshall)",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-08-04",
+    "description": "Double feature of experimental and documentary films exploring silence and mechanical observation.",
+    "url": "https://lightindustry.org/calendar/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:53.968Z"
+  },
+  {
+    "id": "asia-art-archive-in-america-2026-08-06-counter-occupation-chia-amisola-and-herd",
+    "title": "Counter-Occupation: Chia Amisola and Herdimas Anggara",
+    "venue_id": "asia-art-archive-in-america",
+    "venue_name": "Asia Art Archive in America",
+    "date": "2026-08-06",
+    "description": "Conversation and performance with web artists Chia Amisola and Herdimas Anggara, with curator Celine Wong Katzman — presented with the online exhibition Prototypes for Alternative Power. Via Rhizome community listings.",
+    "url": "https://www.aaa-a.org/",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "art_tech",
+      "sea_culture",
+      "contemporary_art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-29T11:58:51.182Z"
+  },
+  {
+    "id": "caveat-2026-08-06-major-fix-powerpoint-lecture-series-abou",
+    "title": "Major Fix: PowerPoint lecture series about personal obsessions",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-08-06",
+    "description": "Major Fix is an interactive storytelling show where NYC's most interesting minds share PowerPoint presentations about their obsessions",
+    "url": "https://www.eventbrite.com/e/major-fix-powerpoint-lecture-series-about-personal-obsessions-tickets-1982827847468",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:56.130Z"
+  },
+  {
+    "id": "elsewhere-2026-08-07-15-years-of-darker-than-wax-haseeb-iqbal",
+    "title": "15 Years of Darker Than Wax (Haseeb Iqbal, Marco Weibel + more)",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-08-07",
+    "time_start": "22:30",
+    "description": "Anniversary night for the Singapore-rooted electronic label Darker Than Wax.",
+    "url": "https://www.eventbrite.com/e/15-years-of-darker-than-wax-with-haseeb-iqbal-marco-weibel-and-more-tickets-1994237000552",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music",
+      "sea_culture"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:46.446Z"
+  },
+  {
+    "id": "sfpc-2026-08-07-becoming-hypertext",
+    "title": "Becoming Hypertext",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2026-08-07",
+    "time_start": "13:00",
+    "description": "Two-day workshop with Chia Amisola exploring hypertext theory and non-linear narrative structures in digital media.",
+    "url": "https://sfpc.study/sessions/future-schools/becoming-hypertext",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "art_tech",
+      "games_interactive"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:33.203Z"
+  },
+  {
+    "id": "film-forum-2026-08-07-center-stage-stanley-kwan-4k-",
+    "title": "Center Stage (Stanley Kwan, 4K)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-08-07",
+    "description": "Stanley Kwan's masterpiece with Maggie Cheung as silent-film star Ruan Lingyu. New 4K restoration.",
+    "url": "https://filmforum.org/film/center-stage",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "sea_culture",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.265Z"
+  },
+  {
+    "id": "prospect-park-bandshell-2026-08-07-globalfest-at-celebrate-brooklyn-dakhabr",
+    "title": "globalFEST at Celebrate Brooklyn: DakhaBrakha, Yeison Landero, Sally Baby's Silver Dollars, Sunju Park",
+    "venue_id": "prospect-park-bandshell",
+    "venue_name": "Prospect Park Bandshell",
+    "date": "2026-08-07",
+    "time_start": "17:00",
+    "description": "Free world-music festival night — Ukrainian ethno-chaos, Colombian cumbia lineage, Korean pansori-rooted work.",
+    "url": "https://bricartsmedia.org/event/globalfest-at-bric-celebrate-brooklyn-with-dakhabrakha-yeison-landero-sally-babys-silver-dollars-and-sunju-park/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "cumbia",
+      "pansori"
+    ],
+    "matched_categories": [
+      "world_music",
+      "experimental_music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.079Z"
+  },
+  {
+    "id": "bam-2026-08-07-rites-of-cinema-the-films-of-ant-nio-rei",
+    "title": "Rites of Cinema: the Films of António Reis & Margarida Cordeiro",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-08-07",
+    "description": "The influential Portuguese filmmakers' haunting work, restored and presented for the first time in years.",
+    "url": "https://www.bam.org/film/2026/rites-of-cinema",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:43.847Z"
+  },
+  {
+    "id": "barbes-2026-08-09-ben-monder-tom-rainey-duo",
+    "title": "Ben Monder / Tom Rainey Duo",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-08-09",
+    "time_start": "18:00",
+    "description": "Guitar/drums duo — two of NY's finest improvisers.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.853Z"
+  },
+  {
+    "id": "snug-harbor-cultural-center-2026-08-09-bobby-sanabria-multiverse-big-band-charl",
+    "title": "Bobby Sanabria Multiverse Big Band + Charlie Aponte (SummerStage salsa closer)",
+    "venue_id": "snug-harbor-cultural-center",
+    "venue_name": "Snug Harbor Cultural Center",
+    "date": "2026-08-09",
+    "description": "Free salsa evening closing SummerStage's Snug Harbor run, with Jazzmobile and Universal Temple of the Arts.",
+    "url": "https://cityparksfoundation.org/summerstage/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "salsa"
+    ],
+    "matched_categories": [
+      "world_music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.866Z"
+  },
+  {
+    "id": "barbes-2026-08-09-clube-do-choro-with-regional-samauma-sun",
+    "title": "Clube do Choro with Regional Samauma (Sundays, front room)",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-08-09",
+    "time_start": "15:30",
+    "description": "Weekly choro jam with a rotating cast of NY's Brazilian musicians.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.852Z"
+  },
+  {
+    "id": "pioneer-works-2026-08-09-second-sundays-august-2026",
+    "title": "Second Sundays: August 2026",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-08-09",
+    "description": "Join us August 9th for Second Sundays at Pioneer Works! 12 – 6pm. Free and open to all.",
+    "url": "https://www.eventbrite.com/e/second-sundays-august-2026-tickets-1981791248974",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art",
+      "art_tech"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:54.822Z"
+  },
+  {
+    "id": "barbes-2026-08-09-stephane-wrembel-sundays-",
+    "title": "Stephane Wrembel (Sundays)",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-08-09",
+    "time_start": "20:00",
+    "description": "Resident Gypsy-jazz master's weekly djangologie.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.853Z"
+  },
+  {
+    "id": "nyc-resistor-2026-08-09-touchdesigner-intro-to-tdableton",
+    "title": "TouchDesigner: Intro to TDableton",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-08-09",
+    "description": "Workshop connecting TouchDesigner with Ableton Live for audiovisual work.",
+    "url": "https://www.nycresistor.com/",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "art_tech",
+      "hackerspace",
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-27T14:12:58.898Z"
+  },
+  {
+    "id": "cooper-union-2026-08-10-type-archived-treasures-of-the-uk-s-nati",
+    "title": "Type Archived: Treasures of the UK's National Typefounding Collection",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-08-10",
+    "time_start": "18:30",
+    "description": "Showcase of treasures from the UK's National Typefounding Collection — historical typographic artifacts and their cultural significance.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/type-archived-treasures-uks-national-typefounding-collection",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "art_tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:26.263Z"
+  },
+  {
+    "id": "light-industry-2026-08-11--berfall-ern-metzner-brothers-werner-hoc",
+    "title": "Überfall (Ernő Metzner) + Brothers (Werner Hochbaum)",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-08-11",
+    "description": "Curated double feature of early experimental cinema exploring social and political themes.",
+    "url": "https://lightindustry.org/calendar/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-cinema"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:53.969Z"
+  },
+  {
+    "id": "nyc-resistor-2026-08-12-soft-robotics-an-intro-talk-for-curious-",
+    "title": "Soft Robotics: An Intro Talk for Curious Artists/Tinkerers",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-08-12",
+    "description": "Introduction to soft robotics aimed at artists and tinkerers.",
+    "url": "https://www.nycresistor.com/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "art_tech",
+      "hackerspace"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.942Z"
+  },
+  {
+    "id": "barbes-2026-08-14-joel-forrester-fridays-in-august-",
+    "title": "Joel Forrester (Fridays in August)",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-08-14",
+    "time_start": "18:00",
+    "description": "Microscopic Septet co-leader in residence all August.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.853Z"
+  },
+  {
+    "id": "elsewhere-2026-08-14-mat-zo-datsko",
+    "title": "Mat Zo, Datsko",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-08-14",
+    "time_start": "22:30",
+    "description": "Full-venue club night with electronic producer Mat Zo.",
+    "url": "https://www.eventbrite.com/e/mat-zo-datsko-tickets-1989327551257",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:46.446Z"
+  },
+  {
+    "id": "bryant-park-picnics-2026-08-14-ny-guitar-festival-at-bryant-park",
+    "title": "NY Guitar Festival at Bryant Park",
+    "venue_id": "bryant-park-picnics",
+    "venue_name": "Bryant Park Picnic Performances",
+    "date": "2026-08-14",
+    "time_start": "19:00",
+    "description": "Free evening of the NY Guitar Festival; second night Aug 15.",
+    "url": "https://bryantpark.org/activities/picnic-performances",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.064Z"
+  },
+  {
+    "id": "bam-2026-08-14-summer-in-japan-series-",
+    "title": "Summer in Japan (series)",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-08-14",
+    "description": "Survey of Japanese cinema from postwar masters through contemporary auteurs.",
+    "url": "https://www.bam.org/film/2026/summer-in-japan",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:43.848Z"
+  },
+  {
+    "id": "film-forum-2026-08-14-the-bend-in-the-river-robb-moss-",
+    "title": "The Bend in the River (Robb Moss)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-08-14",
+    "description": "Final installment in Moss's documentary trilogy revisiting the Riverdogs.",
+    "url": "https://filmforum.org/film/the-bend-in-the-river",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.265Z"
+  },
+  {
+    "id": "prospect-park-bandshell-2026-08-15-americana-night-yola-dom-flemons-and-the",
+    "title": "Americana Night: Yola + Dom Flemons and the Traveling Wildfires + Cleo Reed",
+    "venue_id": "prospect-park-bandshell",
+    "venue_name": "Prospect Park Bandshell",
+    "date": "2026-08-15",
+    "time_start": "18:00",
+    "description": "Roots night — Dom Flemons's Black string-band scholarship is the draw.",
+    "url": "https://bricartsmedia.org/event/americana-night-yola-dom-flemons-and-the-traveling-wildfires-cleo-reed/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.079Z"
+  },
+  {
+    "id": "316-ten-eyck-2026-08-15-bomb-s-small-press-flea-2026",
+    "title": "BOMB's Small Press Flea 2026",
+    "venue_id": "316-ten-eyck",
+    "venue_name": "316 Ten Eyck",
+    "date": "2026-08-15",
+    "description": "BOMB Magazine's annual small-press fair — indie publishers, art books, readings.",
+    "url": "https://bombmagazine.org/",
+    "format": "fair",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art",
+      "philosophy_theory"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.989Z"
+  },
+  {
+    "id": "sfpc-2026-08-15-double-tap-long-press-writing-device-bod",
+    "title": "Double Tap, Long Press: Writing Device-Body Contaminations",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2026-08-15",
+    "description": "One-day workshop with Ahana Ganguly examining relationships between embodied interaction, technology, and writing practices.",
+    "url": "https://sfpc.study/sessions/future-schools/double-tap-long-press",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "art_tech",
+      "philosophy_theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:33.203Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-08-15-experimental-westerns-part-2-acid-intern",
+    "title": "Experimental Westerns Part 2: Acid + International Westerns (series, Aug 6–31)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-08-15",
+    "description": "Month-long series of Acid, feminist, Black, Indigenous, and international Westerns: Suzuki's Man with a Shotgun, Glauber Rocha's Black God White Devil, Time to Die, White Sun of the Desert, Mad Dog Morgan, and more. Runs all month — check calendar for showtimes.",
+    "url": "http://anthologyfilmarchives.org/",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.818Z"
+  },
+  {
+    "id": "barbes-2026-08-15-micha-l-attias-renku-saturdays-in-august",
+    "title": "Michaël Attias: RENKU (Saturdays in August)",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-08-15",
+    "time_start": "18:00",
+    "description": "Saxophonist's August residency — this week RENKU with John Hébert and Satoshi Takeishi.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.853Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-08-15-see-it-big-70mm-series-through-august-",
+    "title": "See It Big: 70mm (series, through August)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-08-15",
+    "description": "MoMI's annual large-format summer series — Kubrick's 2001 in 70mm opened it; continues weekends through August. Check calendar for showtimes.",
+    "url": "https://movingimage.us/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.824Z"
+  },
+  {
+    "id": "sculpture-center-2026-08-16-akinsanya-kambon-soul-sessions-closing-a",
+    "title": "Akinsanya Kambon: Soul Sessions (closing Aug 16)",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-08-16",
+    "description": "Exhibition of Akinsanya Kambon's ceramic sculpture, on view through August.",
+    "url": "https://www.sculpturecenter.org/exhibitions/14800/akinsanya-kambon-soul-sessions",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "contemporary_art",
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:19.593Z"
+  },
+  {
+    "id": "sculpture-center-2026-08-16-ellen-pau-she-moves-closing-aug-16-",
+    "title": "Ellen Pau: She Moves (closing Aug 16)",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-08-16",
+    "description": "Exhibition and commission by Hong Kong video/media art pioneer Ellen Pau, on view through mid-August.",
+    "url": "https://www.sculpturecenter.org/exhibitions/14802/ellen-pau-she-moves",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "contemporary_art",
+      "experimental_animation",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:19.592Z"
+  },
+  {
+    "id": "sculpture-center-2026-08-16-in-practice-michaela-bathrick-closing-au",
+    "title": "In Practice: Michaela Bathrick (closing Aug 16)",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-08-16",
+    "description": "In Practice commission featuring Michaela Bathrick, concluding mid-August.",
+    "url": "https://www.sculpturecenter.org/exhibitions/14302/in-practice-michaela-bathrick",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:19.593Z"
+  },
+  {
+    "id": "moma-ps1-2026-08-17-greater-new-york-2026-closing-aug-17-",
+    "title": "Greater New York 2026 (closing Aug 17)",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-08-17",
+    "description": "MoMA PS1's signature survey of contemporary art practices from the New York region, on view through August 17.",
+    "url": "https://www.moma.org/en/programs/702-greater-new-york-2026",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "contemporary-art"
+    ],
+    "matched_categories": [
+      "contemporary_art",
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:18.326Z"
+  },
+  {
+    "id": "moma-ps1-2026-08-17-homeroom-red-canary-song-touch-the-heart",
+    "title": "Homeroom: Red Canary Song — Touch the Heart (closing Aug 17)",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-08-17",
+    "description": "Collaborative exhibition at MoMA PS1, on view through August 17.",
+    "url": "https://www.moma.org/en/programs/745-homeroom-red-canary-song",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:18.326Z"
+  },
+  {
+    "id": "light-industry-2026-08-18-stuart-sherman-s-21-films-robert-beck-is",
+    "title": "Stuart Sherman's 21 Films + Robert Beck Is Alive and Well and Living in NYC (Brian Frye)",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-08-18",
+    "description": "Program pairing conceptual artist films with documentary video work exploring urban life and performance.",
+    "url": "https://lightindustry.org/calendar/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "conceptual-art",
+      "documentary"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "experimental_animation",
+      "contemporary_art",
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:53.970Z"
+  },
+  {
+    "id": "lectures-on-tap-prospect-park-south-2026-08-19-lectures-on-tap-critical-theory-101",
+    "title": "Lectures on Tap: Critical Theory 101",
+    "venue_id": "lectures-on-tap-prospect-park-south",
+    "venue_name": "Lectures on Tap (Prospect Park South)",
+    "date": "2026-08-19",
+    "description": "Bar lecture on critical theory fundamentals.",
+    "url": "https://www.eventbrite.com/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "critical-theory"
+    ],
+    "matched_categories": [
+      "philosophy_theory",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.981Z"
+  },
+  {
+    "id": "roulette-2026-08-20-jim-staley-with-ikue-mori-and-zeena-park",
+    "title": "Jim Staley with Ikue Mori and Zeena Parkins",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-08-20",
+    "time_start": "20:00",
+    "description": "Roulette co-founder Jim Staley performs with long-running collaborators in a special evening of improvisation.",
+    "url": "https://roulette.org/event/jim-staley-ikue-mori-zeena-parkins/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "experimental_music",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:23.580Z"
+  },
+  {
+    "id": "rockaway-film-festival-2026-08-20-rockaway-film-festival-9-aug-20-24-",
+    "title": "Rockaway Film Festival 9 (Aug 20–24)",
+    "venue_id": "rockaway-film-festival",
+    "venue_name": "Rockaway Film Festival",
+    "date": "2026-08-20",
+    "description": "Ninth annual festival at Arverne Cinema: new features, works-in-progress, shorts, guest-curated screenings, live music daily, dance parties, a theatrical performance, dance workshop, and artist talk. Individual tickets on sale Aug 10; Shell Pass available now.",
+    "url": "https://www.rockawayfilmfestival.org/",
+    "format": "festival",
+    "interest_score": 5,
+    "tags": [
+      "artist-talk",
+      "film-festival"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "experimental_music",
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.807Z"
+  },
+  {
+    "id": "bam-2026-08-21-arthouse-sci-fi-series-",
+    "title": "Arthouse Sci-fi (series)",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-08-21",
+    "description": "Experimental takes on science fiction by Godard, Tarkovsky, Marker, Cronenberg, and Weerasethakul.",
+    "url": "https://www.bam.org/film/2026/arthouse-scifi",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "arthouse"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "worldbuilding",
+      "sea_culture",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:43.847Z"
+  },
+  {
+    "id": "film-forum-2026-08-21-coppola-retrospective-3-weeks-opens-aug-",
+    "title": "Coppola retrospective (3 weeks, opens Aug 21)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-08-21",
+    "description": "25 films including The Conversation, Apocalypse Now, and the Godfather trilogy with new Zoetrope restorations.",
+    "url": "https://filmforum.org/film/coppola",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.265Z"
+  },
+  {
+    "id": "bam-2026-08-21-teenage-sex-and-death-at-camp-miasma-jan",
+    "title": "Teenage Sex and Death at Camp Miasma (Jane Schoenbrun)",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-08-21",
+    "description": "Schoenbrun's psychosexual horror featuring an ambitious queer director reviving a slasher franchise.",
+    "url": "https://www.bam.org/film/2026/teenage-sex-and-death",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:43.848Z"
+  },
+  {
+    "id": "bryant-park-picnics-2026-08-22-emerging-music-festival-at-bryant-park",
+    "title": "Emerging Music Festival at Bryant Park",
+    "venue_id": "bryant-park-picnics",
+    "venue_name": "Bryant Park Picnic Performances",
+    "date": "2026-08-22",
+    "time_start": "18:00",
+    "description": "Contemporary composers showcase, free on the lawn.",
+    "url": "https://bryantpark.org/activities/picnic-performances",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.064Z"
+  },
+  {
+    "id": "the-drawing-center-2026-08-22-in-conversation-asmaa-walton-olaronke-ak",
+    "title": "In Conversation: Asmaa Walton, OlaRonke Akinmowo, and Myron Beasley",
+    "venue_id": "the-drawing-center",
+    "venue_name": "The Drawing Center",
+    "date": "2026-08-22",
+    "time_start": "16:00",
+    "description": "Artist conversation around the Black Art Library and archive-building practices.",
+    "url": "https://drawingcenter.org/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:45.155Z"
+  },
+  {
+    "id": "nyc-resistor-2026-08-22-make-along-pinhole-polaroid-camera-from-",
+    "title": "Make Along: Pinhole Polaroid Camera from a Beer or Soda Can",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-08-22",
+    "description": "Build a working pinhole instant camera from a can — analog image-making, DIY optics.",
+    "url": "https://www.nycresistor.com/",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "hackerspace",
+      "film_cinema"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-27T14:12:58.899Z"
+  },
+  {
+    "id": "caveat-2026-08-22-the-power-joker-a-robert-moses-comedy-sh",
+    "title": "The Power Joker: A Robert Moses Comedy Show",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-08-22",
+    "description": "Comedy show about Robert Moses — urbanism-history crossover.",
+    "url": "https://www.caveat.nyc/",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "architecture_urbanism"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-27T14:12:58.914Z"
+  },
+  {
+    "id": "central-park-summerstage-2026-08-23-ang-lique-kidjo-wmi-at-summerstage-",
+    "title": "Angélique Kidjo (WMI at SummerStage)",
+    "venue_id": "central-park-summerstage",
+    "venue_name": "Central Park SummerStage",
+    "date": "2026-08-23",
+    "time_start": "19:00",
+    "description": "Beninese vocal legend, free outdoor show co-presented by World Music Institute.",
+    "url": "https://www.worldmusicinstitute.org/angeliquekidjo/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "world_music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:wmi",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:32:29.493Z"
+  },
+  {
+    "id": "caveat-2026-08-26-radiolab-live-at-caveat-",
+    "title": "Radiolab (live at Caveat)",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-08-26",
+    "description": "Radiolab live show.",
+    "url": "https://www.caveat.nyc/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "neuroscience_ai"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.949Z"
+  },
+  {
+    "id": "bryant-park-picnics-2026-08-28-accordion-festival-at-bryant-park",
+    "title": "Accordion Festival at Bryant Park",
+    "venue_id": "bryant-park-picnics",
+    "venue_name": "Bryant Park Picnic Performances",
+    "date": "2026-08-28",
+    "time_start": "19:00",
+    "description": "Bryant Park's roving accordionists festival — global squeezebox traditions.",
+    "url": "https://bryantpark.org/activities/picnic-performances",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.065Z"
+  },
+  {
+    "id": "film-forum-2026-08-28-filipi-ana-rafael-manuel-",
+    "title": "Filipiñana (Rafael Manuel)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-08-28",
+    "description": "Dark fairy tale exploring classism and invisible violence from the Philippines. Special Jury Award, Sundance 2026.",
+    "url": "https://filmforum.org/film/filipinana",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "sea_culture"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.265Z"
+  },
+  {
+    "id": "dustin-yellin-s-studio-2026-08-29-arbrasson-workshop-with-daniel-fishkin",
+    "title": "Arbrasson Workshop with Daniel Fishkin",
+    "venue_id": "dustin-yellin-s-studio",
+    "venue_name": "Dustin Yellin's Studio",
+    "date": "2026-08-29",
+    "description": "Build-and-play workshop on the arbrasson, a friction-sound sculpture instrument, with experimental instrument builder Daniel Fishkin at Dustin Yellin's Red Hook studio.",
+    "url": "https://pioneerworks.org/",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "experimental_music",
+      "art_tech",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:tier1",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:47:44.974Z"
+  },
+  {
+    "id": "national-sawdust-2026-08-31-keir-gogwilt-the-zarabanda-variations",
+    "title": "Keir GoGwilt: The Zarabanda Variations",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-08-31",
+    "time_start": "19:30",
+    "description": "Concert and multimedia collage exploring Baroque music syncretism through 12 original songs, dances, and poems.",
+    "url": "https://nationalsawdust.org/event/the-zarabanda-variations",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music",
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:24.933Z"
+  }
+]

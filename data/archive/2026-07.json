@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "metrograph-2026-07-24-adolescence-of-utena",
+    "title": "Adolescence of Utena",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-24",
+    "time_start": "14:00",
+    "description": "Kunihiko Ikuhara's 1999 anime (100min, DCP). Revolutionary magical-girl subversion exploring gender and power.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004893",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "experimental_animation",
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.509Z"
+  },
+  {
+    "id": "film-forum-2026-07-24-dread-beat-an-blood",
+    "title": "Dread Beat an Blood",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-07-24",
+    "time_start": "13:00",
+    "description": "Franco Rosso's newly-restored 1979 documentary portrait of dub poet Linton Kwesi Johnson, plus a 1985 concert with the Dennis Bovell Dub Band.",
+    "url": "https://filmforum.org/film/dread-beat-an-blood",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "experimental_music",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.263Z"
+  },
+  {
+    "id": "sfpc-2026-07-24-extending-poetry-through-computation",
+    "title": "Extending Poetry Through Computation",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2026-07-24",
+    "time_start": "18:00",
+    "description": "Two-day workshop with Omayeli Arenyeka blending poetic language with computational methods and algorithmic approaches.",
+    "url": "https://sfpc.study/sessions/future-schools/extending-poetry-through-computation",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [
+      "algorithmic"
+    ],
+    "matched_categories": [
+      "art_tech",
+      "philosophy_theory",
+      "Art & Technology"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:33.203Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-24-found-footage-program",
+    "title": "Found Footage Program",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-24",
+    "time_start": "18:45",
+    "description": "Program of found footage films, part of Anthology's experimental cinema offerings.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61750",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-cinema"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "experimental_animation",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.516Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-24-greaser-s-palace-dcp-",
+    "title": "Greaser's Palace (DCP)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-24",
+    "time_start": "20:45",
+    "description": "Robert Downey Sr.'s surreal acid western, presented in DCP.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61713",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.517Z"
+  },
+  {
+    "id": "metrograph-2026-07-24-je-tu-il-elle-akerman-",
+    "title": "Je Tu Il Elle (Akerman)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-24",
+    "time_start": "18:15",
+    "description": "Chantal Akerman's experimental 1975 film (90min, DCP) exploring desire and identity through minimal narrative.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999002615",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "philosophy_theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.510Z"
+  },
+  {
+    "id": "elsewhere-2026-07-24-recondite-kanykei-yokoo-open-to-close-",
+    "title": "Recondite, Kanykei, YokoO (open to close)",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-07-24",
+    "time_start": "22:30",
+    "description": "Full-venue club night headlined by melodic techno producer Recondite.",
+    "url": "https://www.eventbrite.com/e/recondite-kanykei-yokoo-open-to-close-more-tickets-1986663796896",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:46.444Z"
+  },
+  {
+    "id": "film-forum-2026-07-24-remake-ross-mcelwee-",
+    "title": "Remake (Ross McElwee)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-07-24",
+    "time_start": "14:20",
+    "description": "McElwee's cine-memoir weaving a love letter to his son while chronicling attempts to adapt Sherman's March into fiction.",
+    "url": "https://filmforum.org/film/remake",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.264Z"
+  },
+  {
+    "id": "film-forum-2026-07-24-sherman-s-march-40th-anniversary-4k-",
+    "title": "Sherman's March (40th anniversary 4K)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-07-24",
+    "time_start": "15:20",
+    "description": "Ross McElwee's landmark first-person documentary, in a new 4K restoration.",
+    "url": "https://filmforum.org/film/shermans-march",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary",
+      "restoration"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.265Z"
+  },
+  {
+    "id": "nyc-resistor-2026-07-24-synthesizer-night-nyc-resistor",
+    "title": "Synthesizer Night @ NYC Resistor",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-07-24",
+    "description": "Gathering musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. BYO synth encouraged!",
+    "url": "https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-1994608162708",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "synthesizer"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-24T14:57:56.267Z"
+  },
+  {
+    "id": "union-docs-2026-07-24-the-lost-image-archives",
+    "title": "The Lost Image Archives",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-07-24",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:58.749Z"
+  },
+  {
+    "id": "film-forum-2026-07-24-the-third-man-new-35mm-print-",
+    "title": "The Third Man (new 35mm print)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-07-24",
+    "time_start": "12:50",
+    "description": "Carol Reed's classic thriller in a brand-new 35mm print struck from original elements.",
+    "url": "https://filmforum.org/film/the-third-man-2026",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.265Z"
+  },
+  {
+    "id": "bam-2026-07-24-tidal-memory-film-series-",
+    "title": "Tidal Memory (film series)",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-07-24",
+    "description": "Curated series examining Atlantic waters as archives of the Transatlantic Slave Trade, exploring legacies of forced migration.",
+    "url": "https://www.bam.org/film/2026/tidal-memory",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "philosophy_theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:43.846Z"
+  },
+  {
+    "id": "moma-ps1-2026-07-24-warm-up-2026-fridays-through-aug-28-",
+    "title": "Warm Up 2026 (Fridays through Aug 28)",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-07-24",
+    "description": "MoMA PS1's summer music series, July 24 – August 28, featuring experimental and electronic music performances in the courtyard.",
+    "url": "https://www.moma.org/en/programs/800-warm-up-2026",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "electronic-music"
+    ],
+    "matched_categories": [
+      "experimental_music",
+      "contemporary_art",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:18.324Z"
+  },
+  {
+    "id": "whitney-2026-07-24-whitney-biennial-2026-on-view-",
+    "title": "Whitney Biennial 2026 (on view)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-07-24",
+    "description": "The Whitney's signature survey of contemporary American art, on view across floors 5 and 6.",
+    "url": "https://whitney.org/exhibitions",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:20.933Z"
+  },
+  {
+    "id": "whitney-2026-07-25-a-closer-look-guided-close-looking-throu",
+    "title": "A Closer Look: Guided Close-Looking Through Dialogue",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-07-25",
+    "time_start": "15:00",
+    "description": "Interpretive discussion exploring artworks in 'Untitled' (America) through close visual analysis.",
+    "url": "https://whitney.org/events/closer-look-untitled-america",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:20.934Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-25-craig-baldwin-charles-i-levine",
+    "title": "Craig Baldwin + Charles I. Levine",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-25",
+    "time_start": "18:15",
+    "description": "Double feature of experimental avant-garde works — Baldwin is a legend of found-footage collage filmmaking.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61745",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "experimental_animation"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.518Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-25-essential-cinema-a-man-escaped-bresson-",
+    "title": "Essential Cinema: A Man Escaped (Bresson)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-25",
+    "time_start": "16:30",
+    "description": "Essential Cinema program presenting Robert Bresson's prison-escape masterwork. Also plays 7/29 and 7/30.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61578",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.517Z"
+  },
+  {
+    "id": "metrograph-2026-07-25-europa-lars-von-trier-",
+    "title": "Europa (Lars von Trier)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-25",
+    "time_start": "22:00",
+    "description": "Von Trier's 1991 experimental epic (108min, DCP) on post-WWII Germany using innovative visual techniques.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004899",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.510Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-25-lonesome-cowboys-warhol-",
+    "title": "Lonesome Cowboys (Warhol)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-25",
+    "time_start": "20:00",
+    "description": "Warhol's experimental western.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61735",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "contemporary_art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.518Z"
+  },
+  {
+    "id": "metrograph-2026-07-25-toute-une-nuit-akerman-",
+    "title": "Toute une nuit (Akerman)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-25",
+    "time_start": "20:15",
+    "description": "Chantal Akerman's 1982 structural cinema work (91min, DCP) capturing nocturnal urban encounters.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004906",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.510Z"
+  },
+  {
+    "id": "metrograph-2026-07-26-belle-de-jour-bu-uel-",
+    "title": "Belle de Jour (Buñuel)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-26",
+    "time_start": "13:30",
+    "description": "Buñuel's 1967 surrealist masterpiece (100min, 35mm) with intro by ICP's Marley Trigg Stewart.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999001018",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.510Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-26-cremaster-2-arabesque",
+    "title": "Cremaster 2 + Arabesque",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-26",
+    "time_start": "17:45",
+    "description": "Matthew Barney's Cremaster 2 paired with Arabesque — sculptural video art on the big screen.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61738",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "contemporary_art",
+      "experimental_animation",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.518Z"
+  },
+  {
+    "id": "metrograph-2026-07-26-el-topo-jodorowsky-",
+    "title": "El Topo (Jodorowsky)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-26",
+    "time_start": "22:40",
+    "description": "Jodorowsky's 1970 surrealist western (125min, 35mm) merging philosophy and mysticism.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999003748",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "philosophy_theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.510Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-26-essential-cinema-pickpocket-bresson-",
+    "title": "Essential Cinema: Pickpocket (Bresson)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-26",
+    "time_start": "19:30",
+    "description": "Bresson's minimalist masterwork. Also plays 7/29 and 7/30.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61582",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.518Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-26-moustapha-alassane-kevin-jerome-everson",
+    "title": "Moustapha Alassane + Kevin Jerome Everson",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-26",
+    "time_start": "20:00",
+    "description": "Double bill pairing Nigerien animation pioneer Alassane with experimental documentarian Everson.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61741",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "experimental_animation",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.518Z"
+  },
+  {
+    "id": "metrograph-2026-07-26-the-hole-tsai-ming-liang-newly-struck-35",
+    "title": "The Hole (Tsai Ming-liang) [newly struck 35mm]",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-26",
+    "time_start": "20:40",
+    "description": "Tsai Ming-liang's 1998 musical-apocalypse masterpiece (93min, new 35mm print) exploring isolation and modernity.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004933",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "sea_culture"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.510Z"
+  },
+  {
+    "id": "caveat-2026-07-27-the-story-collider-full-circle",
+    "title": "The Story Collider: Full Circle",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-07-27",
+    "description": "True, personal stories about science",
+    "url": "https://www.eventbrite.com/e/the-story-collider-full-circle-tickets-1983379432273",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "neuroscience_ai"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:56.129Z"
+  },
+  {
+    "id": "pioneer-works-2026-07-28-dean-hurley-c-lavender-ash-fure",
+    "title": "Dean Hurley, C. Lavender, Ash Fure",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-07-28",
+    "description": "For the 27th iteration of False Harmonics Pioneer Works is excited to present a evening of A/V performances by Dean Hurley and C. Lavender.",
+    "url": "https://www.eventbrite.com/e/dean-hurley-c-lavender-ash-fure-tickets-1989420152229",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:54.824Z"
+  },
+  {
+    "id": "drom-2026-07-28-lamc-showcase-sony-music-latin",
+    "title": "LAMC Showcase: Sony Music Latin",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-07-28",
+    "time_start": "20:00",
+    "description": "Official Latin Alternative Music Conference showcase night.",
+    "url": "https://dromnyc.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-29T11:58:51.150Z"
+  },
+  {
+    "id": "e-flux-2026-07-28-leap-of-faith-iv-afterlife-in-images-kor",
+    "title": "Leap of Faith IV: Afterlife in Images — Kore-eda + Coleman Collins",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-07-28",
+    "time_start": "20:00",
+    "description": "Final night of the rooftop summer series: Hirokazu Kore-eda's After Life (1998) + Coleman Collins's Specular Fiction (2024) — what remains of a life in recorded and simulated images. e-flux Screening Room rooftop.",
+    "url": "https://www.e-flux.com/live",
+    "price": "$10",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "philosophy_theory",
+      "experimental_animation"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-27T14:11:39.005Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-07-28-mscdp-conversations-with-practitioners-l",
+    "title": "MSCDP Conversations with Practitioners: Lorenzo Villaggi",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-07-28",
+    "time_start": "12:00",
+    "description": "Computational Design Practices speaker series conversation with Lorenzo Villaggi (generative design researcher).",
+    "url": "https://www.arch.columbia.edu/events/4236-mscdp-conversations-with-practitioners-lorenzo-villaggi",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "architecture_urbanism",
+      "art_tech"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:47.748Z"
+  },
+  {
+    "id": "film-forum-2026-07-28-nyc-in-transit-series-opens-jul-28-",
+    "title": "NYC in Transit (series, opens Jul 28)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-07-28",
+    "description": "Series for the Transit Museum's 50th: The Taking of Pelham 123, The Warriors, Wild Style, Harold Lloyd's Speedy, and more.",
+    "url": "https://filmforum.org/series/nyc-in-transit",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "architecture_urbanism"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:22.265Z"
+  },
+  {
+    "id": "metrograph-2026-07-28-solaris-preceded-by-the-working-end-tark",
+    "title": "Solaris preceded by The Working End (Tarkovsky)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-28",
+    "time_start": "15:35",
+    "description": "Tarkovsky's 1972 sci-fi meditation (169min, DCP) with introduction by artist Kristin Walsh.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004938",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "philosophy_theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.510Z"
+  },
+  {
+    "id": "union-docs-2026-07-28-summer-lab-pitch-bingo-chill",
+    "title": "Summer Lab Pitch Bingo & Chill",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-07-28",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:14:58.751Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-29-in-the-battlefields-maarek-hob",
+    "title": "In the Battlefields / Maarek Hob",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-29",
+    "time_start": "19:00",
+    "description": "Contemporary international cinema screening.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61672",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.518Z"
+  },
+  {
+    "id": "central-park-summerstage-2026-07-29-julieta-venegas-lasso-micro-tdh-lamc-nig",
+    "title": "Julieta Venegas / Lasso / Micro TDH (LAMC night)",
+    "venue_id": "central-park-summerstage",
+    "venue_name": "Central Park SummerStage",
+    "date": "2026-07-29",
+    "time_start": "18:00",
+    "description": "Grammy-winning Mexican singer-songwriter headlines the Latin Alternative Music Conference night.",
+    "url": "https://cityparksfoundation.org/events/julieta-venegas/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.047Z"
+  },
+  {
+    "id": "drom-2026-07-29-lamc-showcase-warner-m-sica-latina",
+    "title": "LAMC Showcase: Warner Música Latina",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-07-29",
+    "time_start": "20:00",
+    "description": "LAMC showcase night of emerging Latin artists.",
+    "url": "https://dromnyc.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-29T11:58:51.150Z"
+  },
+  {
+    "id": "creative-time-2026-07-29-sanctuary-as-collective-practice-tania-b",
+    "title": "Sanctuary as Collective Practice: Tania Bruguera + Rev. Juan Carlos Ruiz",
+    "venue_id": "creative-time",
+    "venue_name": "Creative Time",
+    "date": "2026-07-29",
+    "description": "Conversation on refuge, public space, and collective practice with artist-activist Tania Bruguera and sanctuary-movement organizer Rev. Juan Carlos Ruiz.",
+    "url": "https://creativetime.org/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "public-space"
+    ],
+    "matched_categories": [
+      "contemporary_art",
+      "philosophy_theory",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-29T11:58:51.142Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-30-duchamp-program-1-duchamp-in-on-film",
+    "title": "Duchamp Program 1: Duchamp In/On Film",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-30",
+    "time_start": "19:30",
+    "description": "Program exploring Duchamp's influence on experimental cinema and art.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61650",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "experimental-cinema"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "contemporary_art",
+      "philosophy_theory",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.518Z"
+  },
+  {
+    "id": "bam-2026-07-30-film-comment-live-play-me-something",
+    "title": "Film Comment Live: Play Me Something",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-07-30",
+    "description": "Adaptation of John Berger's story featuring the writer as a mysterious raconteur.",
+    "url": "https://www.bam.org/film/2026/play-me-something",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "philosophy_theory"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:43.848Z"
+  },
+  {
+    "id": "bronx-park-2026-07-30-la-india-with-bobby-allende-dj-tony-touc",
+    "title": "La India with Bobby Allende / DJ Tony Touch",
+    "venue_id": "bronx-park",
+    "venue_name": "Bronx Park",
+    "date": "2026-07-30",
+    "time_start": "18:00",
+    "description": "The Princess of Salsa, free in the Bronx with Tony Touch.",
+    "url": "https://cityparksfoundation.org/events/la-india-bronx-26/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "salsa"
+    ],
+    "matched_categories": [
+      "world_music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.072Z"
+  },
+  {
+    "id": "drom-2026-07-30-lamc-showcase-sounds-from-spain",
+    "title": "LAMC Showcase: Sounds from Spain",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-07-30",
+    "time_start": "20:00",
+    "description": "Three Spanish artists in the LAMC showcase series.",
+    "url": "https://dromnyc.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-29T11:58:51.150Z"
+  },
+  {
+    "id": "bam-2026-07-30-sheep-in-the-box-kore-eda-",
+    "title": "Sheep in the Box (Kore-eda)",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-07-30",
+    "description": "Kore-eda meditates on loss and grief through a couple bringing an artificial child into their lives.",
+    "url": "https://www.bam.org/film/2026/sheep-in-the-box",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "neuroscience_ai"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:43.848Z"
+  },
+  {
+    "id": "central-park-summerstage-2026-07-30-ultimate-breaks-and-beats-40th-anniversa",
+    "title": "Ultimate Breaks and Beats 40th Anniversary (Lord Finesse, Diamond D, Grand Puba...)",
+    "venue_id": "central-park-summerstage",
+    "venue_name": "Central Park SummerStage",
+    "date": "2026-07-30",
+    "time_start": "19:00",
+    "description": "Celebration of the foundational breakbeat compilation that seeded hip-hop and sampling culture.",
+    "url": "https://cityparksfoundation.org/events/ubb-40th-anniversary/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music",
+      "world_music"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.049Z"
+  },
+  {
+    "id": "bryant-park-picnics-2026-07-31-carnegie-hall-citywide-el-laberinto-del-",
+    "title": "Carnegie Hall Citywide: El Laberinto del Coco",
+    "venue_id": "bryant-park-picnics",
+    "venue_name": "Bryant Park Picnic Performances",
+    "date": "2026-07-31",
+    "time_start": "19:00",
+    "description": "Puerto Rican bomba ensemble, free on the lawn.",
+    "url": "https://bryantpark.org/activities/picnic-performances",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.064Z"
+  },
+  {
+    "id": "prospect-park-bandshell-2026-07-31-carrtoons-hail-supreme-sof-a-vald-s-juli",
+    "title": "CARRTOONS & Hailé Supreme + Sofía Valdés + Julia Zivic",
+    "venue_id": "prospect-park-bandshell",
+    "venue_name": "Prospect Park Bandshell",
+    "date": "2026-07-31",
+    "time_start": "18:00",
+    "description": "Free bandshell night — soul/electronic crossover bill.",
+    "url": "https://bricartsmedia.org/event/carrtoons-haile-supreme-sofia-valdes-julia-zivic/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:parks",
+    "status": "archived",
+    "discovered_at": "2026-07-27T15:40:39.079Z"
+  },
+  {
+    "id": "pioneer-works-2026-07-31-dan-deacon-macula-dog-mshr",
+    "title": "Dan Deacon, Macula Dog, MSHR",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-07-31",
+    "time_start": "20:00",
+    "description": "Electronic and experimental music showcase featuring innovative contemporary artists.",
+    "url": "https://www.eventbrite.com/e/dan-deacon-macula-dog-mshr-tickets-1984507105173",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "contemporary-art",
+      "experimental-music"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-03-26T21:36:58.293Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-31-duchamp-program-2-found-footage",
+    "title": "Duchamp Program 2: Found Footage",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-31",
+    "time_start": "19:30",
+    "description": "Second program in the Duchamp series, featuring found footage works.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61652",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "contemporary_art",
+      "experimental_animation"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.519Z"
+  },
+  {
+    "id": "metrograph-2026-07-31-happy-together-wong-kar-wai-",
+    "title": "Happy Together (Wong Kar-wai)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-07-31",
+    "time_start": "21:30",
+    "description": "Wong Kar-wai's 1997 romantic drama (96min, DCP) exploring love and alienation.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999000497",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "sea_culture"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:22:56.510Z"
+  },
+  {
+    "id": "drom-2026-07-31-lamc-showcase-argentina-rising",
+    "title": "LAMC Showcase: Argentina Rising",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-07-31",
+    "time_start": "20:00",
+    "description": "Argentine artists co-presented by PopArt Music and Cosquín Rock.",
+    "url": "https://dromnyc.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "world_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-07-29T11:58:51.150Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-07-31-walk-the-walk",
+    "title": "Walk the Walk",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-07-31",
+    "time_start": "19:00",
+    "description": "Contemporary film screening with documentary elements.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61692",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "film_cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T16:18:34.518Z"
+  },
+  {
+    "id": "bam-2026-07-31-welcome-ii-the-terrordome-ngozi-onwurah-",
+    "title": "Welcome II The Terrordome (Ngozi Onwurah)",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-07-31",
+    "description": "Prescient fusion of political commentary and genre spectacle depicting a segregated dystopia.",
+    "url": "https://www.bam.org/film/2026/welcome-ii-the-terrordome",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "film_cinema",
+      "worldbuilding"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:45:43.848Z"
+  }
+]

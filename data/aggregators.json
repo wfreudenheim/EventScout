@@ -1,0 +1,50 @@
+[
+  {
+    "id": "screen-slate",
+    "name": "Screen Slate",
+    "url": "https://www.screenslate.com/screenings",
+    "focus": "Film/video screenings across NYC — repertory, experimental, microcinema. Essential for moving image.",
+    "notes": "Website listings are JS-rendered (403/empty via fetch). THE channel is their daily email — full day listings below the essay; parse via /scout inbox. Daily listings. Venue name appears with each screening. Also check /articles for series announcements.",
+    "status": "active"
+  },
+  {
+    "id": "thought-gallery",
+    "name": "Thought Gallery",
+    "url": "https://thoughtgallery.org/events/",
+    "focus": "Intellectual events — talks, lectures, panels, book launches across NYC institutions.",
+    "notes": "2026-07: site 403s via WebFetch. Subscribe to their weekly newsletter (thoughtgallery.org footer) — inbox is the channel. Categorized listings with venue names. Good for university and institute talks.",
+    "status": "active"
+  },
+  {
+    "id": "cal-red",
+    "name": "cal.red (Red Calendar)",
+    "url": "https://cal.red/",
+    "focus": "Community calendar — DIY, art, music, left-leaning cultural events.",
+    "notes": "Respectful scraping only. Community-maintained; venue names informal, may need matching help.",
+    "status": "active"
+  },
+  {
+    "id": "nyc-noise",
+    "name": "NYC Noise",
+    "url": "https://nyc-noise.com/",
+    "focus": "Experimental music, noise, improv shows — often at DIY/nomadic spaces.",
+    "notes": "Dense weekly listings. Venue names informal (bar names, lofts).",
+    "status": "active"
+  },
+  {
+    "id": "pools-events",
+    "name": "Pools.Events (formerly WithFriends)",
+    "url": "https://pools.events/organizations/",
+    "focus": "DIY/artist-run org directory + events — SFPC, Blank Forms, Spectacle, Mayday Space all host here.",
+    "notes": "Browse per-org event pages; also a discovery source for new spaces.",
+    "status": "active"
+  },
+  {
+    "id": "nyc-parks-concerts",
+    "name": "NYC Parks Free Concerts",
+    "url": "https://www.nycgovparks.org/events/free_summer_concerts",
+    "focus": "All free concerts in city parks — 139 events Jul-Oct 2026. Strong world/Latin/African programming.",
+    "notes": "Server-rendered listing pages; paginated. Venue = park name (create-pending OK for parks).",
+    "status": "active"
+  }
+]
