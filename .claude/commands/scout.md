@@ -23,7 +23,7 @@ Parse events for **next month and anything further out you find**. Skip clearly 
 
 ### `full` — full sweep of all active venues (tier-routed)
 1. `npx tsx src/cli/index.ts archive` — move past events out of the active set first.
-2. Run the `inbox` subcommand flow if `.env` credentials exist (`npx tsx src/scripts/fetch-inbox.ts`) — newsletters cover the scrape-blocked venues, so process them before deciding which venues still need fetching.
+2. Run the `inbox` subcommand flow — newsletters cover the scrape-blocked venues, so process them before deciding which venues still need fetching. **Cloud/unattended runs:** there are no IMAP credentials; the inbox GitHub Action has already fetched newsletters and committed them as stripped text in `data/inbox/txt/<uid>.txt` — parse those directly (see inbox step 3b) and skip `fetch-inbox.ts`. If `data/inbox/txt/` is empty and `.env` is missing, skip the inbox step and note it in the summary.
 3. `npx tsx src/scripts/prepare-run.ts` — lists all active venues by relevance with batch plan; writes `data/tmp/run-plan.json`.
 4. Route each venue by its `scrape_tier`:
    - **Tier 1** (structured source): `npx tsx src/scripts/fetch-eventbrite.ts <venue-id>` or `npx tsx src/scripts/fetch-rss.ts <venue-id>`. IMPORTANT: before ingesting, read the fetched JSON and add `interest_score`/`matched_categories` yourself — automated fetches carry no scores, and keyword-only scoring drops good events at the floor (proven 2026-07: all 20 Caveat events dropped until scored). Then ingest: Eventbrite search-page results via `ingest-aggregator.ts eventbrite <file>` (search pages mix in other venues' events — venue matching filters them); organizer pages or RSS via `ingest-tier3.ts <venue-id> <file>`.
@@ -45,11 +45,11 @@ Run the Tier 3 loop for just that venue, then wrap up and summarize what was fou
 5. Review the unmatched-venues report with the user: interesting ones → `add-venue` (or re-run ingest with `--create-pending` to stage everything under pending registry entries). Cross-source dedup is automatic (fuzzy title+date matching per venue).
 
 ### `inbox` — mailing-list agent (see docs/mailing-list-agent.md)
-1. `npx tsx src/scripts/fetch-inbox.ts` — pulls new newsletters into `data/inbox/` (needs `.env` credentials; if missing, point the user at docs/mailing-list-agent.md setup).
+1. `npx tsx src/scripts/fetch-inbox.ts --limit 300` — pulls new newsletters into `data/inbox/` (needs `.env` credentials; if missing, point the user at docs/mailing-list-agent.md setup). Then `npx tsx src/scripts/inbox-to-text.ts` to convert them to stripped text in `data/inbox/txt/` (tracking links and footers removed — far cheaper to read than the HTML).
 2. `npx tsx src/scripts/fetch-inbox.ts --status` — list unprocessed messages.
-3. For each unprocessed message: Read its saved HTML file, extract events as JSON (same fields as the aggregator prompt — every event needs `venue_name`; score against the interest profile; the sender usually IS the venue). Newsletters also carry open calls, application deadlines, and early ticket announcements — collect these separately for the summary.
+3. Triage by sender/subject first: skip international art-fair/press announcements (e-flux Agenda, e-flux Film), donation and membership asks, day-of daily picks (Screen Slate dailies), and anything whose dates have passed. Read the rest from `data/inbox/txt/<uid>.txt` (3b: in cloud runs these files are the only copy — the HTML is not in the repo). Extract events as JSON (same fields as the aggregator prompt — every event needs `venue_name`; score against the interest profile; the sender usually IS the venue). Newsletters also carry open calls, application deadlines, and early ticket announcements — collect these separately for the summary.
 4. Write all extracted events to `data/tmp/inbox-batch.json`, then `npx tsx src/scripts/ingest-aggregator.ts inbox data/tmp/inbox-batch.json`.
-5. Mark parsed messages done: `npx tsx src/scripts/fetch-inbox.ts --mark-processed <uid1>,<uid2>,...`
+5. Mark ALL triaged messages done (skipped ones too): `npx tsx src/scripts/fetch-inbox.ts --mark-processed <uid1>,<uid2>,...`, then `npx tsx src/scripts/inbox-to-text.ts --prune` to drop their text files.
 6. Report: events staged, open calls/deadlines found, unmatched venues worth adding.
 
 ### `audit` — venue registry audit
@@ -82,7 +82,9 @@ Ask the user for name, URL, type, neighborhood, categories (or take them from th
 
 1. `npx tsx src/cli/index.ts calendar --weeks 6 --min-score 2 --output output/calendar.md`
 2. If the user uses the web UI, refresh its data copy: `cd ui && npm run sync-data`
-3. Remind: `/scout review` to approve staged events.
+3. `npx tsx src/scripts/build-digest.ts` — refresh the weekly digest (`output/digest/latest.html`, also copied into the site).
+4. **Cloud/unattended runs only:** commit and push so the site redeploys: `git add data output ui/public/digest && git commit -m "sweep: <date> — <N> staged" && git push`. If the push is rejected, open a PR instead. Never commit `.env` or `data/inbox/*.html`.
+5. Interactive runs: remind the user to run `/scout review` to approve staged events.
 
 ## Scoring calibration notes
 

@@ -45,7 +45,7 @@ Implemented in `.claude/commands/scout.md` (orchestration playbook per subcomman
 
 ## Run Cadence
 
-Manual, once or twice a month. Agents search next month + anything further out they find. Merges with existing data, deduplicates, archives past events.
+Automated (see docs/automation.md): the inbox GitHub Action fetches newsletters Wed + Sun 1:30am ET, a Claude cloud routine runs `/scout full` at 2am ET and pushes results, GitHub Pages redeploys the site on push, and the digest Action emails the week ahead Sunday 8:30am ET. Manual runs still work the same way. Agents search next month + anything further out they find. Merges with existing data, deduplicates, archives past events.
 
 ## Commands
 
@@ -71,6 +71,9 @@ npx tsx src/scripts/fetch-rss.ts <venue-id|url>             # Tier 1: RSS/Atom f
 npx tsx src/scripts/run-scraper.ts <venue-id>|--all         # Tier 2: run generated scrapers (--dry-run)
 npx tsx src/scripts/audit-venues.ts                         # Audit venue URLs, recommend tiers -> data/audit.json
 npx tsx src/scripts/fetch-inbox.ts [--status|--all]         # Mailing-list agent: pull newsletters via IMAP (needs .env)
+npx tsx src/scripts/inbox-to-text.ts [--all|--prune]        # Newsletters -> stripped text in data/inbox/txt (committed; cloud runs read these)
+npx tsx src/scripts/build-digest.ts [--from YYYY-MM-DD]     # Weekly digest -> output/digest/latest.{html,md} + site copy
+npx tsx src/scripts/send-digest.ts [--dry-run]              # Email the digest via Gmail SMTP (SCOUT_EMAIL/_PASSWORD, DIGEST_TO)
 
 npm run serve                                                # Launch web UI (syncs data first)
 ```

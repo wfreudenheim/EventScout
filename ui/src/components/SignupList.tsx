@@ -45,7 +45,7 @@ export function SignupList() {
   const [hideDone, setHideDone] = useState(false);
 
   useEffect(() => {
-    fetch("/data/signup_list.json")
+    fetch(import.meta.env.BASE_URL + "data/signup_list.json")
       .then((r) => (r.ok ? r.json() : null))
       .then(setData);
   }, []);

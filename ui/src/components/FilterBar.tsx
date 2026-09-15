@@ -15,7 +15,7 @@ export function FilterBar({ filters, onChange, formats, categories, neighborhood
   const hiddenActive = filters.categories.length + filters.neighborhoods.length;
 
   return (
-    <div className="filter-bar">
+    <div className={`filter-bar ${showMore ? "expanded" : ""}`}>
       <div className="filter-row">
         <div className="filter-group">
           <label>score</label>
@@ -46,7 +46,9 @@ export function FilterBar({ filters, onChange, formats, categories, neighborhood
             ))}
           </div>
         </div>
+      </div>
 
+      <div className="filter-row secondary">
         <div className="filter-group">
           <label>cost</label>
           <div className="chip-group">
@@ -61,9 +63,7 @@ export function FilterBar({ filters, onChange, formats, categories, neighborhood
             ))}
           </div>
         </div>
-      </div>
 
-      <div className="filter-row">
         <div className="filter-group">
           <label>format</label>
           <div className="chip-group">
@@ -87,7 +87,7 @@ export function FilterBar({ filters, onChange, formats, categories, neighborhood
 
       <div className="filter-row">
         <button className="filter-toggle" onClick={() => setShowMore(!showMore)}>
-          {showMore ? "− less" : "+ category · neighborhood"}
+          {showMore ? "− less" : "+ more filters"}
           {!showMore && hiddenActive > 0 && (
             <span className="filter-toggle-count"> ({hiddenActive} active)</span>
           )}

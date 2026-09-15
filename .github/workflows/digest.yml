@@ -1,0 +1,37 @@
+# Build and email the weekly digest. 12:30 UTC Sunday = 8:30am EDT / 7:30am EST,
+# a few hours after the 2am sweep routine so its results are included.
+name: Weekly digest
+
+on:
+  schedule:
+    - cron: "30 12 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Build digest
+        run: npx tsx src/scripts/build-digest.ts
+      - name: Send email
+        env:
+          SCOUT_EMAIL: ${{ secrets.SCOUT_EMAIL }}
+          SCOUT_EMAIL_PASSWORD: ${{ secrets.SCOUT_EMAIL_PASSWORD }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+        run: npx tsx src/scripts/send-digest.ts
+      - name: Commit digest to the site
+        run: |
+          git config user.name "eventscout-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add output/digest ui/public/digest
+          git diff --cached --quiet && echo "Digest unchanged." || git commit -m "digest: $(date -u +%Y-%m-%d)"
+          git push

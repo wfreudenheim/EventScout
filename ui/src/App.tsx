@@ -65,8 +65,10 @@ export default function App() {
             >
 
               Sources
-
             </button>
+            <a className="tab tab-link" href={`${import.meta.env.BASE_URL}digest/latest.html`}>
+              This Week ↗
+            </a>
           </nav>
         </div>
       </header>

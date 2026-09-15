@@ -6,8 +6,8 @@ let cachedLocations: Location[] | null = null;
 export async function loadEvents(): Promise<Event[]> {
   if (cachedEvents) return cachedEvents;
   const [staged, approved] = await Promise.all([
-    fetchJson<Event[]>("/data/staged_events.json"),
-    fetchJson<Event[]>("/data/events.json"),
+    fetchJson<Event[]>("data/staged_events.json"),
+    fetchJson<Event[]>("data/events.json"),
   ]);
   cachedEvents = [...approved, ...staged];
   return cachedEvents;
@@ -15,12 +15,13 @@ export async function loadEvents(): Promise<Event[]> {
 
 export async function loadLocations(): Promise<Location[]> {
   if (cachedLocations) return cachedLocations;
-  cachedLocations = await fetchJson<Location[]>("/data/locations.json");
+  cachedLocations = await fetchJson<Location[]>("data/locations.json");
   return cachedLocations;
 }
 
 async function fetchJson<T>(path: string): Promise<T> {
-  const res = await fetch(path);
+  // Relative to the deploy base so it works at / (dev) and /EventScout/ (GitHub Pages)
+  const res = await fetch(import.meta.env.BASE_URL + path);
   if (!res.ok) return [] as unknown as T;
   return res.json();
 }

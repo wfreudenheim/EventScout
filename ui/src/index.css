@@ -514,45 +514,93 @@ body {
 
 /* === Mobile === */
 
+.tab-link { text-decoration: none; }
+
 @media (max-width: 640px) {
+  :root { padding-bottom: env(safe-area-inset-bottom, 0px); }
+
   .header-content {
     padding: 0 1rem;
+    padding-left: max(1rem, env(safe-area-inset-left, 0px));
+    padding-right: max(1rem, env(safe-area-inset-right, 0px));
+    height: 52px;
+  }
+
+  .app-title { font-size: 15px; }
+
+  .view-toggle { gap: 0; }
+  .view-toggle .tab {
+    font-size: 14px;
+    padding: 0.55rem 0.55rem;   /* ~40px tap target */
+    min-height: 40px;
   }
 
   .filter-bar,
   .main-content {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: max(1rem, env(safe-area-inset-left, 0px));
+    padding-right: max(1rem, env(safe-area-inset-right, 0px));
+  }
+
+  .filter-bar { gap: 0.2rem; padding-top: 0.6rem; padding-bottom: 0.4rem; }
+  .filter-row { gap: 0.2rem 1rem; }
+  .filter-group { gap: 0.4rem; }
+  .filter-group > label { min-width: 3rem; }
+
+  /* cost + format collapse behind '+ more filters' on phones */
+  .filter-bar:not(.expanded) .filter-row.secondary { display: none; }
+
+  .chip-group { gap: 0.15rem; }
+  .chip {
+    font-size: 14px;
+    padding: 0.35rem 0.6rem;    /* bigger tap targets */
+    min-height: 34px;
+  }
+  .filter-toggle { font-size: 14px; padding: 0.4rem 0; min-height: 36px; }
+
+  /* day headers stick under the app header while scrolling */
+  .day-header {
+    position: sticky;
+    top: 52px;
+    z-index: 5;
+    background: var(--bg);
+    padding-top: 0.5rem;
+    font-size: 12px;
   }
 
   .row-line {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.15rem 0.75rem;
-    padding: 0.6rem 0.25rem;
+    align-items: baseline;
+    gap: 0.1rem 0.6rem;
+    padding: 0.7rem 0.15rem;
   }
+
+  .row-time { order: 0; font-size: 12px; min-width: 0; }
+  .row-score { order: 0; margin-left: auto; }
 
   .row-title {
+    order: 1;
     flex-basis: 100%;
     white-space: normal;
-    order: 0;
+    font-size: 15px;
+    line-height: 1.35;
   }
 
-  .row-time,
   .row-venue,
   .row-format,
   .row-price {
-    order: 1;
-  }
-
-  .row-score {
     order: 2;
-    margin-left: auto;
+    font-size: 12.5px;
+    white-space: normal;
   }
 
-  .row-detail {
-    padding-left: 0.25rem;
-  }
+  .row-detail { padding-left: 0.15rem; padding-right: 0.15rem; }
+  .detail-description { font-size: 14px; line-height: 1.5; }
+  .detail-actions { gap: 1.25rem; }
+  .detail-link { font-size: 14px; padding: 0.3rem 0; display: inline-block; }
+
+  .venue-card { padding: 0.7rem 0.15rem; }
+  .venue-meta { gap: 0.5rem 0.9rem; }
 }
 
 /* === Sources / signup list === */

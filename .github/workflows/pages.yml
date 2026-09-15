@@ -1,0 +1,56 @@
+# Build the React UI and publish it to GitHub Pages whenever data or UI changes land on main.
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "ui/**"
+      - "data/*.json"
+      - "output/digest/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: ui/package-lock.json
+      - name: Install UI deps
+        working-directory: ui
+        run: npm ci
+      - name: Sync data into the UI
+        working-directory: ui
+        run: npm run sync-data
+      - name: Build
+        working-directory: ui
+        env:
+          VITE_BASE: /EventScout/
+        run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ui/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
