@@ -1,6 +1,6 @@
 VENUE:sculpture-center | SculptureCenter
 URL:https://www.sculpture-center.org/events/
-FETCHED:2026-09-20T11:43:22.303Z
+FETCHED:2026-09-20T11:45:13.275Z
 
 /
  * Exhibitions [/exhibitions/]

@@ -1,6 +1,6 @@
 VENUE:housing-works | Housing Works Bookstore
 URL:https://www.housingworks.org/events
-FETCHED:2026-09-20T11:43:23.192Z
+FETCHED:2026-09-20T11:45:14.546Z
 
 ${ searchAnnouncement }
 Go

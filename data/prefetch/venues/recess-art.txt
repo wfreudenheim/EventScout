@@ -1,6 +1,6 @@
 VENUE:recess-art | Recess
 URL:https://www.recessart.org/
-FETCHED:2026-09-20T11:43:20.604Z
+FETCHED:2026-09-20T11:45:11.065Z
 
 Skip to content
 Recess homepage [/]
@@ -90,5 +90,5 @@ Shop [https://recessart.bigcartel.com/]
 
 EXPLORE THEMES
 
-Race [/explore?theme=16] Indigeneity [/explore?theme=20] Economics [/explore?theme=11] Archival Work [/explore?theme=21] Session [/explore?program=4-session] Gender [/explore?theme=12] Blackness [/explore?theme=10] Care [/explore?theme=6] Abolition [/explore?theme=8] Queerness [/explore?theme=15] Environmental Justice [/explore?theme=19] Assembly [/explore?program=3-assembly] Somatics [/explore?theme=13] Critical Writing [/explore?program=5-critical-writing] Equity [/explore?theme=7] Disability Justice [/explore?theme=9]
+Equity [/explore?theme=7] Abolition [/explore?theme=8] Environmental Justice [/explore?theme=19] Archival Work [/explore?theme=21] Queerness [/explore?theme=15] Care [/explore?theme=6] Assembly [/explore?program=3-assembly] Indigeneity [/explore?theme=20] Somatics [/explore?theme=13] Critical Writing [/explore?program=5-critical-writing] Disability Justice [/explore?theme=9] Economics [/explore?theme=11] Session [/explore?program=4-session] Gender [/explore?theme=12] Race [/explore?theme=16] Blackness [/explore?theme=10]
 Donate [https://www.recessart.org/donate]

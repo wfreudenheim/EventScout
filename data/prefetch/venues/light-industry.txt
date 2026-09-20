@@ -1,6 +1,6 @@
 VENUE:light-industry | Light Industry
 URL:https://lightindustry.org/calendar/
-FETCHED:2026-09-20T11:43:15.695Z
+FETCHED:2026-09-20T11:45:05.579Z
 
 * Calendar [https://lightindustry.org/calendar/]
  * About [https://lightindustry.org/about/]
