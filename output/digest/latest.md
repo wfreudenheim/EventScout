@@ -1,261 +1,27 @@
-# Event Scout · Week of Tue, Sep 15
+# Event Scout · Week of Sun, Sep 20
 
-99 events scoring 3+ from Tue, Sep 15 to Tue, Sep 22.
+83 events scoring 3+ from Sun, Sep 20 to Sun, Sep 27.
 
 ## Top picks
 
-- **Wed, Sep 16 · 7pm** — [Tyondai Braxton, Qasim Naqvi — Sound Room](https://link.dice.fm/P22cf1e294a9) (5)  
-  Public Records · Gowanus  
-  Live experimental electronic performance in the Public Records Sound Room with modular synth composer Tyondai Braxton and Qasim Naqvi. Gowanus.
-- **Thu, Sep 17 · 6pm** — [Sentient Earth + Matthew Lutz-Kinoy: The Mud Room — Fall Opening Receptions](https://www.amant.org) (5)  
-  Amant · East Williamsburg · free  
-  Sentient Earth (Sep 17–Feb 14): 28 international artists on how extractive technologies shape lived environments — Bernd & Hilla Becher, Simon Denny, Mark Dion, Monira Al Qadiri, Cauleen Smith, Yuyan Wang and more;…
-- **Thu, Sep 17 · 7pm** — [WordHack feat. Neta Bomani, Andrew Badr and Andrew Boylan](https://wonderville.nyc/events/wordhack-9-17-26) (5)  
-  Wonderville · Bushwick · $15  
-  Monthly showcase at the intersection of language and technology — code poetry, digital literature, e-lit — with an open projector segment for audience participation. Livestreamed on Twitch. Wonderville, Bushwick.
-- **Fri, Sep 18 · 7pm** — [Laurie Spiegel: Voices Within — Night 1](https://blankforms.org/events/laurie-spiegel-voices-within) (5)  
-  Blank Forms · Clinton Hill · $25  
-  A portrait of the composer at eighty: Joseph Kubera plays Spiegel's rarely heard solo piano works, Lucia and Maria Ahn debut new works for piano and cello, Max Eilbacher performs on Spiegel's software Music Mouse, plus…
-- **Fri, Sep 18 · 7:30pm** — [EEK ORK ORK Vol. II: A Showcase of Cosmic Animation](https://www.spectacletheater.com/eek-ork-ork-vol-ii/) (5)  
-  Spectacle Theater · Williamsburg · $5  
-  Two pioneering works by animator Beny Tchaicovsky blending digital technology with archaic symbolism — immersive surreal worlds at the intersection of technology, consciousness and art. Also Sept 25 at midnight.…
-- **Sat, Sep 19 · 7pm** — [Laurie Spiegel: Voices Within — Night 2](https://blankforms.org/events/laurie-spiegel-voices-within) (5)  
-  Blank Forms · Clinton Hill · $25  
-  Second night of Blank Forms' two-night 80th-birthday program for Laurie Spiegel — Bell Labs computer-music pioneer and creator of Music Mouse — with Joseph Kubera, Lucia and Maria Ahn, Max Eilbacher, and rare electronic…
-
-## Tuesday, September 15
-
-- **6:30pm** — [BISR Course: Late-Capitalist Architecture (Isi Litke)](https://thebrooklyninstitute.com/items/courses/new-york/late-capitalist-architecture-4/) (4)  
-  Brooklyn Institute for Social Research · Various · $355  
-  4-week Tuesday course (Sept 15–Oct 6) on how architecture embodies financial capital's logic — corporate campuses, luxury condos, data centers, border facilities — and whether it can retain a critical function. Online…
-- **6:30pm** — [BISR Course: Truth and Beauty — Kant's Critical Aesthetics (Michael Stevenson)](https://thebrooklyninstitute.com/items/courses/new-york/truth-and-beauty-kants-critical-aesthetics-3/) (3)  
-  Brooklyn Institute for Social Research · Various · $355  
-  4-week Tuesday course (Sept 15–Oct 6) on aesthetics in Kant's critical project as the bridge between nature and freedom. Online (ET). $355.
-- **7pm** — [Andrei Ujică: Images in the World, Images in the Mind](https://www.e-flux.com/programs/) (4)  
-  e-flux · Clinton Hill  
-  Screening of excerpts from Videograms of a Revolution (with Harun Farocki), The Autobiography of Nicolae Ceaușescu, and TWST, followed by conversation with the Romanian filmmaker moderated by Lukas Brasiskis — on…
-- **7pm** — [Jackie Raynal Presents: Deux Fois (1968) — Filmmaker in Person](https://anthologyfilmarchives.org) (4)  
-  Anthology Film Archives · East Village  
-  Zanzibar Group co-founder and legendary Bleecker Street/Carnegie Hall Cinema programmer Jackie Raynal presents her 1968 feature Deux Fois, 'an intentionally elementary meditation on certain primary functions of film.'…
-- **7:30pm** — [100 Jars of Honey](https://uniondocs.org/) (3)  
-  UnionDocs · Ridgewood · $10  
-  Documentary feature screening.
-- [Colin Stetson & Brìghde Chaimbeul (duo), Space Lady, Clarice Jensen](https://www.eventbrite.com/e/colin-stetson-brighde-chaimbeul-duo-space-lady-clarice-jensen-tickets-1989671124895) (4)  
-  Pioneer Works · Red Hook  
-  Colin Stetson and Brìghde Chaimbeul come together with the support of Space Lady for a live performance of All the Light in the World.
-- [Sarah Michelson: nowhere](https://www.moma.org/calendar/) (3)  
-  MoMA · Midtown  
-  Daily performance (Sept 15–Oct 11) in which choreographer Sarah Michelson treats the Marron Family Atrium as her workspace, integrating her dancing, thinking, and being into the life of the Museum.
-
-## Wednesday, September 16
-
-- **12pm** — [Book Talk: Against Tech Oligarchy — Worker Resistance in the World's Most Powerful Industry](https://scienceandsociety.columbia.edu) (3)  
-  Columbia Center for Science and Society · Morningside Heights · free  
-  Traces the rise of the 'tech worker movement' after 2016 through the employer-led backlash of the early 2020s. Fayerweather Hall Rm 513, Columbia. Free, registration required.
-- **12:15pm** — [Kwaidan (4K Restoration)](https://filmforum.org/film/kwaidan-2026) (4)  
-  Film Forum · West Village · $18  
-  Masaki Kobayashi's 1964 anthology of Japanese ghost stories in a new 4K restoration, held over through Sept 24. Film Forum.
-- **12:20pm** — [Filipiñana (Rafael Manuel)](https://filmforum.org/film/filipinana) (4)  
-  Film Forum · West Village · $18  
-  Rafael Manuel's visually striking dark fairy tale examining classism and patriarchy at a Philippine golf club. Now playing at Film Forum.
-- **12:45pm** — [Barbara Forever (Brydie O'Connor)](https://filmforum.org/film/barbara-forever) (4)  
-  Film Forum · West Village · $18  
-  Documentary on experimental film pioneer Barbara Hammer's work and legacy, winner of the Teddy Award for Best Documentary at Berlin 2026. Now playing at Film Forum.
-- **1pm** — [Whitney Biennial 2026](https://whitney.org/events/tour-whitney-biennial-2026-floor6) (3)  
-  Whitney Museum of American Art · Meatpacking  
-  The Whitney Biennial 2026 is on view; free guided tours daily. Free Friday Nights 5–10pm with DJs, tours, and Queer History Walks.
-- **5:30pm** — [NYC Mass Timber Studio Launch: Accelerating Housing Development](https://calendar.aiany.org/2026/09/16/nyc-mass-timber-studio-launch-event-accelerating-housing-development/) (3)  
-  Center for Architecture / AIA New York · Greenwich Village · free  
-  Pre-Climate Week event with NYCEDC on mass timber's future in NYC and accelerating housing development. Center for Architecture, 536 LaGuardia Pl.
-- **6pm** — [Presidential Lecture: How, and What, Does AlphaFold Learn About Protein Structure? — Mohammed AlQuraishi](https://www.simonsfoundation.org/event/how-and-what-does-alphafold-learn-about-protein-structure/) (3)  
-  Simons Foundation · Flatiron · free  
-  Columbia's Mohammed AlQuraishi on what deep-learning protein-structure models actually learn. Free, Gerald D. Fischbach Auditorium, Simons Foundation, 160 5th Ave.
-- **6:30pm** — [Jackie Raynal Presents: My Last Interview with Éric Rohmer + Gougnette](https://anthologyfilmarchives.org) (3)  
-  Anthology Film Archives · East Village  
-  Rarely screened documentary shorts directed by Jackie Raynal (2010 / 2008), presented in person, followed at 8:30 by her New York feature Hotel New York.
-- **6:30pm** — [BISR Course: Philosophy and War (Alberto Toscano)](https://thebrooklyninstitute.com/items/courses/new-york/philosophy-and-war/) (4)  
-  Brooklyn Institute for Social Research · Various · $355  
-  4-week Wednesday course (Sept 16–Oct 7) with Alberto Toscano on philosophy's engagement with war from Heraclitus to Virilio. Online (ET). $355.
-- **7pm** — [Tyondai Braxton, Qasim Naqvi — Sound Room](https://link.dice.fm/P22cf1e294a9) (5)  
-  Public Records · Gowanus  
-  Live experimental electronic performance in the Public Records Sound Room with modular synth composer Tyondai Braxton and Qasim Naqvi. Gowanus.
-- **7:30pm** — [Michael Glawogger's Globalization Trilogy: Megacities](https://www.spectacletheater.com/michael-glawoggers-globalization-trilogy/) (4)  
-  Spectacle Theater · Williamsburg · $5  
-  Glawogger's debut on improvised survival in Mumbai, Mexico City, New York, and Moscow. Also Sept 22 at 10pm. Trilogy continues with Workingman's Death (Sept 17, 20) and Whore's Glory (Sept 24). Spectacle Theater.
-- **8pm** — [Joy Guidry: Five Prayers in Five Movements // A Space for Sound](https://roulette.org/event/joy-guidry-five-prayers-in-five-movements/) (3)  
-  Roulette · Boerum Hill · $25  
-  Bassoonist Joy Guidry melds sound, spirit, and radical self-expression; opened by solo improvisations on tapes, voice, synths, and samples. Roulette, Brooklyn.
-- **8:30pm** — [Jackie Raynal Presents: Hotel New York](https://anthologyfilmarchives.org) (3)  
-  Anthology Film Archives · East Village  
-  Raynal's New York-made feature, presented in person as part of Jackie Raynal Presents.
-- [Josiah McElheny: Instrument Object](https://thekitchen.org) (4)  
-  The Kitchen · Chelsea · free  
-  Exhibition (Sep 10–Nov 7) of twenty multidisciplinary works drawing on experimental-music legacies tied to The Kitchen — Pauline Oliveros, Lucia Dlugoszewski, Julius Eastman, John Cage, Milford Graves, Sun Ra.…
-- [Frank Gillette: Spectra Obscura](https://microscopegallery.com/frank-gillette-spectra-obscura/) (4)  
-  Microscope Gallery · Bushwick · free  
-  Exhibition by video-art pioneer Frank Gillette (Raindance Foundation co-founder), including Riverrun. On view through Oct 17 at Microscope Gallery, Bushwick.
-- [Jennifer & Kevin McCoy: ReLensing](https://bitforms.art/exhibition/relensing) (4)  
-  bitforms gallery · LES · free  
-  Current exhibition at bitforms gallery of new work by media-art duo Jennifer & Kevin McCoy (opened Sept 10). 131 Allen St.
-- [LaJuné McMillian: Child/ren of the Bloom](https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom) (4)  
-  Pioneer Works · Red Hook · free  
-  Interactive installation exploring phytoplankton and bioluminescence, on view at Pioneer Works (opened Sept 11). Part of Pioneer Works' Oceans season.
-- [Theresa Hak Kyung Cha: Multiple Offerings](https://artistsspace.org/exhibitions/theresa-hak-kyung-cha-multiple-offerings) (4)  
-  Artists Space · Tribeca · free  
-  Exhibition of work by Theresa Hak Kyung Cha (Dictee) — video, performance documentation, artist's books and language-based works — on view through November at Artists Space, 11 Cortlandt Alley. Wed–Sat 12–6pm.
-- [Tyler Cala Williams: Elastic Synapse](https://participantinc.org/seasons/season-25/tyler-cala-williams-elastic-synapse) (3)  
-  Participant Inc · Lower East Side · free  
-  Debut solo show (Sept 13–Oct 25) of oil paintings and mounted prints examining how images transform across mediums — pixelation, moiré patterning, chromatic disruption — exploring Black visuality and diasporic visual…
-- [Certainly an Act: Works on Paper by Pope.L](https://drawingcenter.org/exhibitions/certainly-an-act-pope-l) (3)  
-  The Drawing Center · SoHo · free  
-  Works on paper by the late performance/conceptual artist Pope.L, on view through Sept 27 at The Drawing Center, 35 Wooster St.
-
-## Thursday, September 17
-
-- **12pm** — [The Impact of Early Life Adversity on Developing Emotion Circuits — Laura DeNardo (UCLA)](https://www.rockefeller.edu/events-and-lectures/66557-the-impact-of-early-life-adversity-on-developing-emotion-circuits) (3)  
-  Rockefeller University · Upper East Side · free  
-  Neuroscience seminar on how early stress shapes emotional brain circuit development. Rockefeller University.
-- **6pm** — [Sentient Earth + Matthew Lutz-Kinoy: The Mud Room — Fall Opening Receptions](https://www.amant.org) (5)  
-  Amant · East Williamsburg · free  
-  Sentient Earth (Sep 17–Feb 14): 28 international artists on how extractive technologies shape lived environments — Bernd & Hilla Becher, Simon Denny, Mark Dion, Monira Al Qadiri, Cauleen Smith, Yuyan Wang and more;…
-- **7pm** — [Shift Ctrl: Clarissa Redwine, JS Tan, Tega Brain & Sam Lavigne](https://canopycanopycanopy.com) (4)  
-  Triple Canopy · Chinatown · free  
-  Against Tech Oligarchy coauthors Redwine and Tan join artists Tega Brain and Sam Lavigne (whose digital works explore technological tools and labor) to imagine new organizing tactics for the tech industry and what…
-- **7pm** — [Rehearsal Behavior I: Chantal Akerman and Shirley Clarke](https://www.e-flux.com/programs/) (3)  
-  e-flux · Clinton Hill · $12  
-  Akerman's One Day Pina Asked… (1983) preceded by Shirley Clarke's A Moment in Love (1956); first part of a screening series on choreographic moving-image works, guest-curated by Andrea Torres and Charlotte Strange. 172…
-- **7pm** — [Jackie Raynal Presents: Permanent Vacation (Jim Jarmusch) + Paparazzi (Jacques Rozier)](https://anthologyfilmarchives.org) (3)  
-  Anthology Film Archives · East Village  
-  Jarmusch's debut feature, championed by Raynal as a programmer in the 1970s–80s, paired with Rozier's short Paparazzi. Raynal in person.
-- **7pm** — [WordHack feat. Neta Bomani, Andrew Badr and Andrew Boylan](https://wonderville.nyc/events/wordhack-9-17-26) (5)  
-  Wonderville · Bushwick · $15  
-  Monthly showcase at the intersection of language and technology — code poetry, digital literature, e-lit — with an open projector segment for audience participation. Livestreamed on Twitch. Wonderville, Bushwick.
-- **7pm** — [Building the Future of NYC](https://cooper.edu/events-and-exhibitions/events/building-future-nyc) (3)  
-  Cooper Union · East Village · free  
-  Panel on contemporary urban development and planning for New York City. Cooper Union.
-- **7:30pm** — [Michael Glawogger's Globalization Trilogy: Workingman's Death](https://www.spectacletheater.com/michael-glawoggers-globalization-trilogy/) (4)  
-  Spectacle Theater · Williamsburg · $5  
-  Five-part chronicle of manual labor in Ukraine, Indonesia, Nigeria, Pakistan, and China amid post-industrial transformation. Also Sept 20 at 5pm. Spectacle Theater.
-- **8pm** — [Katherine Young: BIOMES (album release)](https://roulette.org/event/biomes-album-release-katherine-young/) (4)  
-  Roulette · Boerum Hill · $25  
-  Bassoonist/composer with Olivia Block, Ben LaMar Gay, Brian Chase, and Yarn/Wire celebrating the new Chaikin release.
-- [Overexposed: Art, Technology, and the Body](https://movingimage.org) (4)  
-  Museum of the Moving Image · Astoria  
-  Gallery exhibition (through Jan 3) bringing together research-based and educational films with contemporary artworks by 16 artists — Barbara Hammer, Ana Mendieta, Panteha Abareshi, Peggy Ahwesh, Zuza Banasińska,…
-- [Architects of Liberation](https://www.moma.org/calendar/exhibitions/) (4)  
-  MoMA · Midtown  
-  First major exhibition examining modern architecture from the late 1950s through early 1980s in the context of political independence — 350+ objects, most shown publicly for the first time. On view through Jan 2, 2027.
-- [New Openings Against Old Surfaces: On Gordon Matta-Clark's Walls Paper](https://www.printedmatter.org) (3)  
-  Printed Matter · Chelsea · free  
-  First exhibition focused on the publishing output of Gordon Matta-Clark, centered on his 1973 project Walls Paper — documentary photographs, test prints, uncut printer sheets, and publications — plus new print…
-- [Public Craft Night Mondays and Thursdays!](https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098738954) (3)  
-  NYC Resistor · Downtown Brooklyn  
-  Learn, make and share at NYC Resistor (all events18+)
-- [Courtyard Commission: Precious Okoyomon](https://www.momaps1.org/en/programs/747-courtyard-commission-precious-okoyomon) (4)  
-  MoMA PS1 · LIC · free  
-  Precious Okoyomon transforms the MoMA PS1 courtyard into a living forest with plants, interactive sculpture, and sound, exploring the coexistence of native and invasive species. Free, on view now.
-- [Finissage Panel: Cities in Transformation — Sustainable Buildings and Infrastructure](https://acfny.org/event/finissage-panel/) (3)  
-  Austrian Cultural Forum · Midtown · free  
-  Closing panel for Dietmar Feichtinger: Architecture of Connection, on urban transformation and sustainable infrastructure. Austrian Cultural Forum, 11 E 52nd St.
-
-## Friday, September 18
-
-- **12:30pm** — [My Brother's Wedding (4K) — Charles Burnett in person](https://filmforum.org/film/my-brothers-wedding) (3)  
-  Film Forum · West Village · $18  
-  Charles Burnett's 1983 film in new 4K restoration; opening-night conversation with the director and Maya Cade (Milestone Films). Film Forum.
-- **2pm** — [New Russian Documentary Theory: Aleksandr Rastorguev Symposium](https://sofheyman.org) (3)  
-  Columbia Society of Fellows / Heyman Center · Morningside Heights · free  
-  One-day symposium paying tribute to Russian documentary auteur Aleksandr Rastorguev, focusing on his theory of documentary cinema and the afterlife of his projects. Organized by SOF fellow Anastasia Kostina. Heyman…
-- **7pm** — [Climate Film Festival Opening Night: House of Fish](https://movingimage.org) (4)  
-  Museum of the Moving Image · Astoria  
-  East Coast premiere with director Santiago Burin des Roziers in person: Italian fisherman Paolo Fanciulli's underwater museum of monumental marble sculptures that protect the seabed from bottom trawling. Part of Science…
-- **7pm** — [House of Dreams (1963, 16mm)](https://movingimage.org) (3)  
-  Museum of the Moving Image · Astoria  
-  Robert Berry's never-distributed mid-century avant-garde horror shot on gritty 16mm in Indiana — a frustrated author plagued by recurring nightmares of a haunted house. Part of Disreputable Cinema.
-- **7pm** — [Laurie Spiegel: Voices Within — Night 1](https://blankforms.org/events/laurie-spiegel-voices-within) (5)  
-  Blank Forms · Clinton Hill · $25  
-  A portrait of the composer at eighty: Joseph Kubera plays Spiegel's rarely heard solo piano works, Lucia and Maria Ahn debut new works for piano and cello, Max Eilbacher performs on Spiegel's software Music Mouse, plus…
-- **7:30pm** — [Jeffrey Zeigler: We Were Fridays](https://nationalsawdust.org/event/visionintoart-in-residence-we-were-fridays-9-18-26) (4)  
-  National Sawdust · Williamsburg  
-  Interdisciplinary project exploring Gullah cultural memory and diaspora through cello, electronics, and dance.
-- **7:30pm** — [EEK ORK ORK Vol. II: A Showcase of Cosmic Animation](https://www.spectacletheater.com/eek-ork-ork-vol-ii/) (5)  
-  Spectacle Theater · Williamsburg · $5  
-  Two pioneering works by animator Beny Tchaicovsky blending digital technology with archaic symbolism — immersive surreal worlds at the intersection of technology, consciousness and art. Also Sept 25 at midnight.…
-- **8pm** — [eden girma: I hope / I won't make / any mistak(e)s](https://issueprojectroom.org/event/eden-girma-i-hope-i-wont-make-any-mistakes) (4)  
-  Issue Project Room · Downtown Brooklyn  
-  First commission from Eden Girma (2026 AIR). An intimate diasporic familial archive presented as part dreamscape and part summoning circle, pieced together through a five-year-old child's perspective.
-- **8pm** — [Red Hook Records 5th Anniversary: Andrew Cyrille, Wadada Leo Smith, Qasim Naqvi // Amina Claudine Myers](https://roulette.org/event/red-hook-records-andrew-cyrille-wadada-leo-smith-qasim-naqvi-amina-claudine-myers/) (4)  
-  Roulette · Boerum Hill · $40  
-  Night one of a two-night label showcase — free-jazz legends Cyrille and Smith together.
-- **8pm** — [L. Shankar (WMI)](https://www.worldmusicinstitute.org/l-shankar-at-adler-hall/) (4)  
-  Adler Hall  
-  Indian violin virtuoso blending Carnatic classical and contemporary styles.
-- [My Brother's Wedding (Charles Burnett, 4K)](https://filmforum.org/film/my-brothers-wedding) (3)  
-  Film Forum · West Village · $18  
-  Charles Burnett's LA Rebellion classic in a new 4K restoration.
-- [Goddesses in the Machine: Fashion in American Silent Film (opens Sep 18)](https://www.bgc.bard.edu/) (4)  
-  Bard Graduate Center · Upper West Side  
-  First major exhibition on fashion in American silent film — costume design's emergence traced through rare surviving garments, clips, and works on paper. Through Jan 3.
-- [Chronovisor (Kevin Walker & Jack Auen)](https://www.filmlinc.org) (4)  
-  Film at Lincoln Center · Upper West Side  
-  NYT Critic's Pick / ND/NF 2026 selection: a Columbia professor follows a Borgesian labyrinth of textual clues toward a time-travel device rumored to have been suppressed by the Vatican — inspired by the true story of a…
-- [Marketa Lazarová (4K Restoration)](https://www.filmlinc.org) (3)  
-  Film at Lincoln Center · Upper West Side  
-  František Vláčil's staggering medieval epic, hailed as the greatest Czech film ever made — stark widescreen black and white, 13th-century Bohemia between paganism and Christianity. Runs through Sept 20 at FLC.
-
-## Saturday, September 19
-
-- **11:30am** — [Wild City: NYC Ecology Day + Penny Lane's Wild Inside](https://movingimage.org) (3)  
+- **Mon, Sep 21 · 10am** — [SFPC Fall 2026: Shaders for the Rest of Us (Fernando Ramallo)](https://sfpc.study/sessions/fall-26/shaders-for-the-rest-of-us) (5)  
+  School for Poetic Computation  
+  10-week online class on shader programming for creative applications, taught by Fernando Ramallo. School for Poetic Computation Fall '26 session.
+- **Mon, Sep 21** — [WEBSITES WEBSITES WEBSITES! — Opening Reception (Rhizome 30th Anniversary)](https://rhizome.org) (5)  
+  Rhizome · LES · free  
+  Rhizome x ARTXCODE exhibition curated by LAN Party celebrating the website as a site of experimentation, identity and autonomy: Petra Cortright, Vuk Ćosić, Simon Denny, EXONEMO, Auriea Harvey, Rafaël Rozendaal, Maya…
+- **Tue, Sep 22 · 6pm** — [Responsive Signals: Jonas Lund, Yoshi Sodeoka, Kat Zhang, Nick Fox-Gieg](https://movingimage.org) (5)  
   Museum of the Moving Image · Astoria · free  
-  Free Open Worlds: Science day exploring the ecology of NYC's wild animals with Gotham Coyote, Gotham Whale and others, plus a free screening of Penny Lane's new documentary Wild Inside about Flaco the Owl. RSVP required.
-- **1pm** — [High Tea with Khajistan — Session Opening](https://www.recessart.org/projects/605-the-khajistan-institute-for-advanced-research-and-necessary-development) (4)  
-  Recess · Downtown Brooklyn · free  
-  Opening of Khajistan's Recess Session: Saad Khan and Joey Chriqui's archive of banned and overlooked media from North Africa to South Asia, developing the Khajistan Portal — a digital Reading Room, Screening Room, and…
-- **1:30pm** — [It's About TIME — Helix Center Roundtable](https://www.helixcenter.org) (4)  
-  The Helix Center · Upper East Side · free  
-  Interdisciplinary roundtable on the nature of time: the thermodynamic arrow (David Albert's view) vs. Bergsonian lived duration. Participants include philosopher of physics Jacob Barandes (Harvard), philosopher of time…
-- **2pm** — [SculptureCenter Fall 2026 Opening: Aziz Hazara, Cevdet Erek, Yining Fei](https://www.sculpture-center.org) (3)  
-  SculptureCenter · LIC · free  
-  Opening reception for three new solo exhibitions — Aziz Hazara: Coming Home; Cevdet Erek: Americas; Yining Fei: Feral Sediment — on view Sep 19–Dec 28. 44-19 Purves St, Long Island City.
-- **3pm** — [Rehearsal Behavior II: Yvonne Rainer — Lives of Performers + Conversation](https://www.e-flux.com/programs/) (4)  
-  e-flux · Clinton Hill · $12  
-  Screening of Rainer's Lives of Performers (1972) followed by an in-person conversation with Yvonne Rainer moderated by David Velasco. Second part of the Rehearsal Behavior series on choreographic moving image. 172…
-- **3pm** — [Sentient Earth Roundtable: Isaiah Davis, Maren Karlson, Clare Koury, Marina Xenofontos](https://www.amant.org) (4)  
-  Amant · East Williamsburg · free  
-  Artist talks with four Sentient Earth exhibitors on how their work reimagines centuries-old extractive systems through the failures, transformations, and physicality of their materials. Géza, 306 Maujer. Free, RSVP…
-- **6:30pm** — [Zidane: A 21st Century Portrait — Q&A with Darius Khondji](https://metrograph.com/film/?vista_film_id=9999001731) (4)  
-  Metrograph · LES  
-  Douglas Gordon and Philippe Parreno's 17-camera art-film portrait of Zidane during a single match, with cinematographer Darius Khondji in person. Metrograph.
-- **7pm** — [Laurie Spiegel: Voices Within — Night 2](https://blankforms.org/events/laurie-spiegel-voices-within) (5)  
-  Blank Forms · Clinton Hill · $25  
-  Second night of Blank Forms' two-night 80th-birthday program for Laurie Spiegel — Bell Labs computer-music pioneer and creator of Music Mouse — with Joseph Kubera, Lucia and Maria Ahn, Max Eilbacher, and rare electronic…
-- **7pm** — [Cavernous Shoal: Season Opening — Ibrahima Mbaye / Jesús Hilario-Reyes](https://performancespacenewyork.org/shows/cavernous-shoal-season-opening/) (5)  
-  Performance Space New York · East Village  
-  Performance Space unveils its transformed community space OPEN ROOM with a sculptural installation of mangrove roots and a custom sound system by Jesús Hilario-Reyes; sound artist Ibrahima Mbaye performs LIVING ROOM,…
-- **8pm** — [Red Hook Records 5th Anniversary: Jason Moran, BlankFor.ms, Marcus Gilmore // Caroline Davis, Qasim Naqvi, Grey Mcmurray](https://roulette.org/event/red-hook-records-jason-moran-blankforms-marcus-gilmore-caroline-davis-qasim-naqvi-grey-mcmurray/) (4)  
-  Roulette · Boerum Hill · $40  
-  Night two of the Red Hook Records showcase.
-- **8pm** — [PictoBeach Presents: Tedious Limbs — Devin Flynn Animation Retrospective](https://rockawayfilmfestival.org) (4)  
-  Rockaway Film Festival · Far Rockaway  
-  Over two decades of work by animator and comix artist Devin Flynn, blending traditional cartooning with incendiary underground methods. Annual collaboration with PictoBeach comics & zines festival. Arverne Cinema…
-- [Your Name. — 10th Anniversary](https://movingimage.org) (3.8)  
-  Museum of the Moving Image · Astoria  
-  Makoto Shinkai's 2016 animated fantasy on its 10th anniversary, Sept 19 & 20. Part of World of Animation.
-- [Intro to Soldering Workshop: Make an LED Tile](https://www.eventbrite.com/e/intro-to-soldering-workshop-make-an-led-tile-tickets-1998510904915) (3)  
-  NYC Resistor · Downtown Brooklyn  
-  Soldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole solder
-- [grokaesthetic Workshop — Jeffrey Alan Scudder (Aesthetic Computer)](https://www.culturehub.org/events/grokaesthetic-workshop) (5)  
-  CultureHub · East Village  
-  Hands-on workshop with notepat, Menu Band, and AC OS led by CultureHub resident artist Jeffrey Alan Scudder of Aesthetic Computer — a live-coded creative computing environment. CultureHub, 47 Great Jones St.
-- [In Other Forms — Harvestworks Governors Island Exhibition](https://www.harvestworks.org/) (3)  
-  Harvestworks · Governors Island · free  
-  Harvestworks' fall exhibition of digital media and sound art at their Governors Island Art Center, on view Aug 29–Nov 1 with performances throughout.
-- [Gripped by Hysteria: Ishmael Bernal x3](https://www.spectacletheater.com/bernal/) (4)  
-  Spectacle Theater · Williamsburg · $5  
-  Three films by Filipino master Ishmael Bernal, screening throughout September at Spectacle Theater, Williamsburg. Check site for showtimes.
-- [Party in the Park: Trio Under the Triboro — Performance Art Festival](https://franklinfurnace.org/trio-triboro/) (4)  
-  Franklin Furnace · Brooklyn · free  
-  Day-long performance art festival presented by Franklin Furnace, Materials for the Arts, and Socrates Sculpture Park. Free with RSVP. Socrates Sculpture Park, LIC.
+  Armory Week evening of artist talks and interactive installations with MoMI and Art on Tezos — Jonas Lund and Yoshi Sodeoka (Terms of Agreement, on view in the lobby), Kat Zhang and Nick Fox-Gieg. Free with RSVP.
+- **Wed, Sep 23 · 12pm** — [Experimental Animated Documentary](https://sfpc.study/sessions/fall-26/experimental-animated-documentary) (5)  
+  School for Poetic Computation  
+  10-week course with Case Jernigan exploring non-traditional animation techniques applied to documentary storytelling.
+- **Wed, Sep 23 · 7pm** — [Long Live the Underground! Six Decades of The Film-Makers' Cooperative and Millennium Film Workshop](https://www.moma.org/calendar/film/5931) (5)  
+  Film-Makers' Cooperative · Midtown  
+  MoMA series (Sept 23–Oct 8) of nine thematic programs of avant-garde film and video celebrating the Coop's 65th and Millennium's 60th anniversaries; opens with Stan Brakhage's Anticipation of the Night (1958). At MoMA,…
+- **Wed, Sep 23 · 7:30pm** — [Amir ElSaffar: Ruins أطلال — A Maqam Opera in Arabic](https://nationalsawdust.org/event/artist-in-residence-amir-elsaffar-presents-ruins-tll-a-maqam-opera-in-arabic) (5)  
+  National Sawdust · Williamsburg  
+  Three-act opera reimagining 7th-century Arabic poems with maqam vocal style, microtonality, and improvisation across 26 musicians.
 
 ## Sunday, September 20
 
@@ -343,6 +109,192 @@
 - [Chris Marker's The Train Rolls On + Alexander Medvedkin's Happiness](https://lightindustry.org/calendar/) (4)  
   Light Industry · Brooklyn  
   Double feature: Marker's 1971 portrait of Medvedkin's agit-prop 'cine-train' paired with Medvedkin's 1935 silent satire Happiness — revolutionary cinema and its afterlives. Light Industry, 361 Stagg St, Brooklyn.
+
+## Wednesday, September 23
+
+- **10am** — [Shaders for the Rest of Us](https://sfpc.study/sessions/fall-26/shaders-for-the-rest-of-us) (4)  
+  School for Poetic Computation  
+  10-week technical workshop on shader programming led by Fernando Ramallo, designed for diverse skill levels.
+- **12pm** — [Experimental Animated Documentary](https://sfpc.study/sessions/fall-26/experimental-animated-documentary) (5)  
+  School for Poetic Computation  
+  10-week course with Case Jernigan exploring non-traditional animation techniques applied to documentary storytelling.
+- **1pm** — [danah boyd: Data Are Made, Not Found — Protecting Democracy's Data](https://datasociety.net/events/) (3)  
+  Data & Society · Online/NYC · free  
+  Online book talk: D&S founder danah boyd on how Census Bureau civil servants produced the 2020 count amid pandemic and political interference, in conversation with historian Dan Bouk, moderated by Janet Haven.
+- **6pm** — [The Erotics of Debt](https://sfpc.study/sessions/fall-26/the-erotics-of-debt) (3)  
+  School for Poetic Computation  
+  10-week online course examining economic and social dimensions of debt through critical theoretical frameworks.
+- **6pm** — [Rhizome 30th Anniversary Benefit — honoring Skawennati + Erick Calderon](https://rhizome.org/) (3)  
+  Rhizome · LES  
+  Annual benefit at Capitale (130 Bowery) marking 30 years — honoring indigenous futurist Skawennati and Art Blocks founder Erick Calderon. Ticketed fundraiser.
+- **6pm** — [Fashion Shows on Film: An Evening of Silent Serials](https://www.bgc.bard.edu) (3)  
+  Bard Graduate Center · Upper West Side  
+  Annotated screening of three silent films, live scored by Makia Matsumura, with Goddesses in the Machine cocurator Michelle Finamore. BGC Lecture Hall, 38 W 86th St.
+- **6pm** — [SI Offsite — Rafał Skoczek: Kino Drift (Opening)](https://www.swissinstitute.net) (4)  
+  Swiss Institute · East Village · free  
+  Swiss Institute off-site project (Sept 23–Nov 14): an artist studio transformed into a continuously shifting cinema/library/venue with rotating screenings (incl. Zurich's Filmclub Populaire), concerts under the…
+- **6pm** — [SFPC Fall 2026: Surveillance Culture and Sound Maps (Nichole Shinn)](https://sfpc.study/sessions/fall-26/surveillance-culture-and-sound-maps) (4)  
+  School for Poetic Computation  
+  5-week online class examining surveillance through sonic perspectives and sound mapping. School for Poetic Computation.
+- **6pm** — [Presidential Lecture: Hidden Order — The Geometry of Complex Patterns (Salvatore Torquato)](https://www.simonsfoundation.org/event/hidden-order-the-geometry-of-complex-patterns/) (3)  
+  Simons Foundation · Flatiron · free  
+  Princeton's Salvatore Torquato on hyperuniformity and the hidden geometric order underlying complex patterns in nature and materials. Free, Simons Foundation.
+- **7pm** — [n+1 Issue 54 (Power Play) Launch Party](https://www.nplusonemag.com/events/) (3)  
+  n+1 Magazine · Brooklyn · free  
+  Readings from contributors Walker Caplan, Leigh Claire La Berge, Maria Marchinkoski, Mark Krotov, and Colin Vanderburg, then a party. n+1 office, 37 Greenpoint Ave #316, Brooklyn. RSVP.
+- **7pm** — [Long Live the Underground! Six Decades of The Film-Makers' Cooperative and Millennium Film Workshop](https://www.moma.org/calendar/film/5931) (5)  
+  Film-Makers' Cooperative · Midtown  
+  MoMA series (Sept 23–Oct 8) of nine thematic programs of avant-garde film and video celebrating the Coop's 65th and Millennium's 60th anniversaries; opens with Stan Brakhage's Anticipation of the Night (1958). At MoMA,…
+- **7pm** — [Daniel Avery (Live) + Dopplereffekt (Live)](https://www.eventbrite.com/e/daniel-avery-live-dopplereffekt-live-tickets-1991939072387) (4)  
+  Elsewhere · Bushwick  
+  Electro/techno live sets from Daniel Avery and Detroit electro enigmas Dopplereffekt in The Hall at Elsewhere, Bushwick.
+- **7:30pm** — [Amir ElSaffar: Ruins أطلال — A Maqam Opera in Arabic](https://nationalsawdust.org/event/artist-in-residence-amir-elsaffar-presents-ruins-tll-a-maqam-opera-in-arabic) (5)  
+  National Sawdust · Williamsburg  
+  Three-act opera reimagining 7th-century Arabic poems with maqam vocal style, microtonality, and improvisation across 26 musicians.
+- **8pm** — [Back to the Present: 50 Years of Free Expression with Franklin Furnace](https://issueprojectroom.org/event/back-present-50-years-free-expression-franklin-furnace) (3)  
+  Issue Project Room · Downtown Brooklyn  
+  Partnership event with Franklin Furnace celebrating their 50th anniversary — an evening of performance and conversation on five decades of experimental practice.
+- **8:30pm** — ['The Only Show Like This': The Poetry Project at 60](https://www.poetryproject.org/events/the-only-show-like-this-60-years-of-the-poetry-project) (3)  
+  The Poetry Project · East Village · $20  
+  Readings and performances by Benjamin Krusling, Brandon López, Cuthwulf, and Eileen Myles celebrating the Poetry Project's 60th anniversary. St. Mark's Church.
+- [Architecture, Planning, and International Law: Building Postcarbon Futures](https://archleague.org/event/architecture-planning-and-international-law-building-postcarbon-futures/) (4)  
+  Architectural League of New York · free  
+  Climate Week NYC program: climate and built-environment experts showcase climate-justice work globally and map the future of cities and communities. Architectural League, at Capacity.
+
+## Thursday, September 24
+
+- **12pm** — [Teresa Margolles: En el lugar de los hechos (At the Scene)](https://www.momaps1.org/en/programs/760-teresa-margolles) (3)  
+  MoMA PS1 · LIC · free  
+  First US survey of Mexican artist Teresa Margolles examining transnational violence and the US–Mexico border through installations and a new commission. Opens Sept 24 at MoMA PS1.
+- **5pm** — [Opening Party: Leila Cohoon's Hair Art Collection & Morbid Anatomy's New Space](https://www.morbidanatomy.org/events) (3)  
+  Morbid Anatomy · Green-Wood/Various  
+  Grand re-opening of the Morbid Anatomy Library at Industry City with nearly 50 Victorian hairwork pieces from Leila's Hair Museum; collection tours with Cohoon's granddaughter Lindsay Evans. Public open house follows…
+- **7pm** — [NY Art Book Fair 2026 — Opening Night](https://nyartbookfair.com) (4)  
+  Printed Matter · Chelsea  
+  Opening night of NYABF at MoMA PS1 honoring Printed Matter's 50th anniversary and NYABF's 20th: 300 exhibitors from 41 countries, music from Shyboi and A.B.E.L.A., limited edition by Sara Yukiko, first access to the…
+- **7pm** — [A Right to Housing? — A Conversation with Samuel Stein](https://thebrooklyninstitute.com/items/events/a-right-to-housing-a-conversation-with-samuel-stein/) (3)  
+  Brooklyn Institute for Social Research · Various · free  
+  BISR public event with urban planner Samuel Stein on his new Verso book A Right to Housing? — a blueprint for universal housing and a right to the city, written in the early months of the Mamdani administration. In…
+- **7pm** — [Brooklyn Experimental Electronic Music (BEEM) September Showcase](https://wonderville.nyc/events/beem-9-24-26) (4)  
+  Wonderville · Bushwick  
+  Eclectic mix of NYC artists working with electronic music, modular synthesizers, and experimental sounds. Wonderville, Bushwick.
+- **8pm** — [The Scores Project: book release with The Rise of the Novel](https://roulette.org/event/the-scores-project-the-rise-of-the-novel/) (4)  
+  Roulette · Boerum Hill · $25  
+  Scholars discuss a new publication on experimental notation, followed by performances.
+- [Note(s)pat(ial) Native & The MacNeoPolitan Trio — Jeffrey Alan Scudder](https://www.culturehub.org/events/notespatial-native-the-macneopolitan-trio) (5)  
+  CultureHub · East Village  
+  Live performance by CultureHub resident artist Jeffrey Alan Scudder (Aesthetic Computer) featuring two new pieces — one using reclaimed e-waste machines, one using new equipment.
+- [Does Expertise Matter? Authority in the Age of Infinite Information — Emma Stamm](https://luma.com/index-evt-UvFiSAPkV9yUGZJ) (4)  
+  Index Space · Chinatown  
+  Talk by media theorist Emma Stamm on expertise and authority under conditions of infinite information. Index Chinatown.
+
+## Friday, September 25
+
+- **1pm** — [What Remains — Group Exhibition at Onassis ONX](https://onx.studio) (5)  
+  Onassis ONX · SoHo · free  
+  Seven artists working between physical and digital experience: Ugo Arsac's Katabasis (Cannes 2026 Best Immersive Work, US debut), Margarita Athanasiou's alchemy/fascism film essay, Jiabao Li's Cryoscape (3D ice printer…
+- **6pm** — [Surveillance Culture and Sound Maps](https://sfpc.study/sessions/fall-26/surveillance-culture-and-sound-maps) (4)  
+  School for Poetic Computation  
+  5-week course with Nichole Shinn exploring surveillance systems through sonic mapping and critical sound practice.
+- **6pm** — [FLOODLINES: Where Cities and Oceans Meet](https://pioneerworks.org/programs) (4)  
+  Pioneer Works · Red Hook · free  
+  Evening of music, poetry, science and conversation about rising waters and how cities heal, presented with the Wellcome Trust. Hosted by Hanif Abdurraqib, music by Hurray for the Riff Raff, poetry by Eileen Myles, and…
+- **6pm** — [Music Sets You Free: Listening to Ryuichi Sakamoto](https://link.dice.fm/H3af19e97aed) (3)  
+  Public Records · Gowanus  
+  Curated listening session in the Sound Room exploring Sakamoto's electronic and compositional work, tied to the release of his translated autobiography. Public Records.
+- **7pm** — [The Art of Fairy Tale Weekend — Symposium with Joanna Ebenstein & ARAS](https://www.morbidanatomy.org/events/art-of-fairy-tales-symposium-aras) (3)  
+  Morbid Anatomy · Green-Wood/Various  
+  Multi-day celebration of Morbid Anatomy founder Joanna Ebenstein's new book on fairy-tale art: day-long symposium with the Archive for Research in Archetypal Symbolism, costume fête, and library tours. Sept 25–27, NYC.
+- **7:15pm** — [This Long Century Presents: Salomé Lamas (in person)](https://metrograph.com/film/?vista_film_id=9999005002) (4)  
+  Metrograph · LES  
+  Artist-film screening with Portuguese filmmaker Salomé Lamas (Eldorado XXI, Extinction) in person for a Q&A. Metrograph.
+- **7:30pm** — [MEZAME New York: james K, James Ferraro, Drumloop](https://ambient.church) (4)  
+  Ambient Church · Various  
+  Opening night of Ambient Church's MEZAME New York festival — three singular voices in contemporary experimental music moving between the physical and the digital. Doors 7pm. Co-Cathedral of St. Joseph, 856 Pacific St,…
+- **8pm** — [Laura Itandehui (WMI)](https://www.worldmusicinstitute.org/laura-itandehui/) (3)  
+  Public Records · Gowanus  
+  Mexican artist blending indigenous and global musical traditions.
+- **8pm** — [MEZAME New York: Light in Darkness — The Piano Music of Ryuichi Sakamoto (Vicky Chow)](https://ambient.church) (3)  
+  Ambient Church · Various  
+  Bang on a Can All-Stars pianist Vicky Chow performs solo piano works spanning Ryuichi Sakamoto's career at St. Bartholomew's Church, 325 Park Ave. Doors 7:15pm.
+- [The Scout (Paula González-Nasser)](https://filmforum.org/film/the-scout) (3)  
+  Film Forum · West Village · $18  
+  A young location scout traverses NYC searching for meaning and TV pilot settings.
+- [NYFF64 — 64th New York Film Festival (Sep 25 – Oct 12)](https://www.filmlinc.org/nyff2026/) (4)  
+  Film at Lincoln Center · Upper West Side  
+  Festival dates announced; Centerpiece is Tony Gilroy's Behemoth! (world premiere Oct 2, Alice Tully Hall). Full slate announcements coming; single tickets typically early September.
+- [64th New York Film Festival (NYFF64)](https://www.filmlinc.org/nyff2026/) (3)  
+  Film at Lincoln Center · Upper West Side  
+  NYFF64 runs Sept 25–Oct 12 at Lincoln Center and venues across the city. Opening Night: James Gray's Paper Tiger; Spotlight Gala: Godzilla Minus Zero world premiere (Sept 26); Closing Night: Ava DuVernay's 14th. Single…
+- [NY Art Book Fair 2026 at MoMA PS1](https://nyartbookfair.com) (4)  
+  Printed Matter · Chelsea  
+  Four-day fair (Sept 24–27) of independent and institutional publishers, antiquarian booksellers, galleries, and zine makers — 300 exhibitors from 41 countries, plus a program of talks, performances (Stage curated by…
+- [Synthesizer Night @ NYC Resistor](https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2000165400556) (4)  
+  NYC Resistor · Downtown Brooklyn  
+  Gathering musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. BYO synth encouraged!
+- [Rediscovering Fanon](https://www.maysles.org/calendar/rediscovering-fanon-2026) (3)  
+  Maysles Documentary Center · Harlem  
+  Documentary screening at Maysles Documentary Center, Harlem, part of a late-September program of Black liberation histories (Free Joan Little 9/24, A Panther in Africa and Legacy: Spirit of the Black Panthers 9/26).
+
+## Saturday, September 26
+
+- **1pm** — [MEZAME New York: Laraaji x Michael Brook, Carl Stone, Robert Turman, a.m.p.](https://ambient.church) (5)  
+  Ambient Church · Various  
+  Afternoon of ambient, electronic, and experimental music at St. Bartholomew's Church: a rare Laraaji + Michael Brook collaboration, live computer music pioneer Carl Stone, Robert Turman's physical tape electronics, and…
+- **1pm** — [Steve McQueen: End Credits — Live Performance (Added Matinee)](https://theshed.org) (4)  
+  The Shed · Hudson Yards  
+  Rare live work: nearly 40 years of FBI surveillance of Paul Robeson given voice by performers reading from declassified records, transforming persecution into a portrait of the fragility of civil liberties. Added…
+- **2pm** — [Explore Green-Wood's Fungal Biodiversity: Cemetery Meadow](https://www.green-wood.com/event/explore-green-woods-fungal-biodiversity-cemetery-meadow/) (3)  
+  Green-Wood Cemetery · Greenwood Heights  
+  Guided exploration of fungal life in Green-Wood's Cemetery Meadow with access to the Catacombs.
+- **2:10pm** — [Tokyo Melody (1985) — intro by Paul Grimstad](https://metrograph.com/film/?vista_film_id=9999005006) (4)  
+  Metrograph · LES  
+  Elizabeth Lennard's experimental portrait of Ryuichi Sakamoto at work, introduced by composer Paul Grimstad. Metrograph.
+- **2:30pm** — [Deep Focus: James Gray in Conversation with Martin Scorsese](https://www.filmlinc.org/nyff2026/) (3)  
+  Film at Lincoln Center · Upper West Side  
+  NYFF64 Talk: Paper Tiger director James Gray and Martin Scorsese in a wide-ranging discussion of Gray's career and filmography.
+- **5:30pm** — [MEZAME New York Saturday: Objekt, Skee Mask, ARAABMUZIK, Jessy Lanza, Purelink, Rabit, Toxe + more](https://ambient.church) (4)  
+  Ambient Church · Various  
+  Ambient to deconstructed club to full-on space exploration inside St. Bartholomew's Church with full-spectrum sound, lights and projections: Objekt, Skee Mask, ARAABMUZIK, Jessy Lanza, Kelman Duran, Purelink, Rabit,…
+- **7:30pm** — [Erik Hall: Music for 18 Musicians & Canto Ostinato (spatial audio installation)](https://nationalsawdust.org/event/erik-hall-music-for-18-musicians-canto-ostinato-performance-spatial-audio-installation) (5)  
+  National Sawdust · Williamsburg  
+  Solo multi-tracked rendition of Steve Reich's masterwork in an immersive spatial-audio installation on a Meyer Sound system.
+- **7:50pm** — [Eddington (4K) — Q&A with Ari Aster & Darius Khondji](https://metrograph.com/film/?vista_film_id=9999005008) (3)  
+  Metrograph · LES  
+  Ari Aster's Eddington with post-screening Q&A with the director and cinematographer Darius Khondji. Metrograph.
+- [NYFF64 Currents — Experimental & Avant-Garde Section](https://www.filmlinc.org/nyff2026/) (5)  
+  Film at Lincoln Center · Upper West Side  
+  15 features + 28 shorts in six programs pushing against cinematic convention: Beatrice Gibson's At Night, Carlos Reygadas's Heil Jupiter!, Tiffany Sia's Overt Listening, Fred Camper's restored Super 8 Suicide Note, Éric…
+- [Javier Bustos + Testu Collective](https://www.harvestworks.org/event/performance-javier-bustos-testu-collective/) (4)  
+  Harvestworks · Governors Island  
+  Performance at Harvestworks Digital Media Arts Center featuring Argentine sound/media artist Javier Bustos and Testu Collective. Part of the In Other Forms exhibition season (Aug 29–Nov 1), Governors Island.
+
+## Sunday, September 27
+
+- **2:30pm** — [Charlemagne Palestine Plays the Pipe Organ (with madeline stepien)](https://ambient.church) (5)  
+  Ambient Church · Various  
+  Minimalist legend Charlemagne Palestine's first NYC pipe organ performance in ten years, on the verge of his 80th year — sixty years after he watched the organ tuners work in this very loft. Doors 2pm, St. Bartholomew's…
+- **5:15pm** — [Ryuichi Sakamoto | Opus — Q&A with Kogonada & Bill Kirstein](https://metrograph.com/film/?vista_film_id=9999005011) (3)  
+  Metrograph · LES  
+  Neo Sora's final concert film of Ryuichi Sakamoto, with Q&A moderated by filmmaker Kogonada featuring cinematographer Bill Kirstein. Metrograph.
+- **6:15pm** — [MEZAME New York Sunday: Loidis (Huerco S.), CRYSTALLMESS, Terekke, Yu Su](https://ambient.church) (4)  
+  Ambient Church · Various  
+  Closing evening of MEZAME New York at St. Bartholomew's Church with Loidis (Huerco S.), CRYSTALLMESS, Terekke and Yu Su, with lights and projections throughout the cathedral.
+- **7:45pm** — [Charlemagne Palestine — Second Organ Performance (Brooklyn)](https://ambient.church) (5)  
+  Ambient Church · Various  
+  Added second show after the St. Bart's performance sold out. Charlemagne Palestine on pipe organ at Church of St. Luke & St. Matthew, Brooklyn. Doors 7pm.
+- **8pm** — [John Zorn's Alea Iacta Est (world premiere)](https://roulette.org/event/john-zorns-alea-iacta-est/) (4)  
+  Roulette · Boerum Hill · $35  
+  Complex piano concerto performed by four of Zorn's trusted interpreters — one of his most challenging masterworks.
+- [Certainly an Act: Works on Paper by Pope.L (through Sep 27)](https://drawingcenter.org/exhibitions/certainly-an-act-pope-l) (4)  
+  The Drawing Center · SoHo  
+  Major exhibition of works on paper by Pope.L at The Drawing Center.
+- [Black Art Library at The Drawing Center (through Sep 27)](https://drawingcenter.org/exhibitions/blackartlibrary) (3)  
+  The Drawing Center · SoHo  
+  Asmaa Walton's traveling Black Art Library installed at The Drawing Center.
+- [NYFF64 Revivals: Pelechian Project + Nitrate Kisses + The Devils](https://www.filmlinc.org/nyff2026/) (4)  
+  Film at Lincoln Center · Upper West Side  
+  Restored landmarks and rarities: two programs of Artavazd Pelechian's montage films (We, The Seasons, Our Century, The End…), Barbara Hammer's Nitrate Kisses (new 4K), Ken Russell's The Devils, Alexander Kluge's…
 
 ---
 [Full calendar](https://wfreudenheim.github.io/EventScout/)
