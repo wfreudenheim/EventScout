@@ -45,7 +45,7 @@ Implemented in `.claude/commands/scout.md` (orchestration playbook per subcomman
 
 ## Run Cadence
 
-Automated (see docs/automation.md): the inbox GitHub Action fetches newsletters Wed + Sun 1:30am ET, a Claude cloud routine runs `/scout full` at 2am ET and pushes results, GitHub Pages redeploys the site on push, and the digest Action emails the week ahead Sunday 8:30am ET. Manual runs still work the same way. Agents search next month + anything further out they find. Merges with existing data, deduplicates, archives past events.
+Automated (see docs/automation.md): the Prefetch GitHub Action fetches newsletters + Tier 1/2 Wed + Sun 1:30am ET, a Claude cloud routine runs `/scout full` at 2am ET and pushes a `claude/sweep-<date>` branch that an Action merges into main, GitHub Pages redeploys the site on push, and the digest Action emails the week ahead Sunday 8:30am ET. Manual runs still work the same way. Agents search next month + anything further out they find. Merges with existing data, deduplicates, archives past events.
 
 ## Commands
 
