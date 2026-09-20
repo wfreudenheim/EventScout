@@ -4,11 +4,11 @@ Everything runs off the GitHub repo (`wfreudenheim/EventScout`, public). Five pi
 
 | When | What | Where | Needs |
 |---|---|---|---|
-| Wed + Sun 1:30am | **Prefetch** — IMAP pull of new newsletters as stripped text (`data/inbox/txt/`), Tier 1 Eventbrite fetches (`data/prefetch/*-eb.json`, unscored), Tier 2 scrapers, and every Tier 3 venue page as stripped text (`data/prefetch/venues/*.txt` + `_report.json`); committed to `main` | GitHub Action `prefetch.yml` (`30 5 * * 0,3`) | `SCOUT_EMAIL`, `SCOUT_EMAIL_PASSWORD` secrets |
-| Wed + Sun 2:00am | **Sweep** — Claude cloud routine runs `/scout full`: archives past events, parses the text newsletters, scores the Tier 1 prefetch, parses the pre-fetched Tier 3 venue text via subagents (WebFetch only as a fallback), rebuilds calendar + digest, and pushes a `claude/sweep-<date>` branch | Claude Code routine (`0 6 * * 0,3`, Sonnet 5) | Claude GitHub App on the repo; environment **Network access = Full** |
+| Wed + Sun 2:30am | **Prefetch** — IMAP pull of new newsletters as stripped text (`data/inbox/txt/`), Tier 1 Eventbrite fetches (`data/prefetch/*-eb.json`, unscored), Tier 2 scrapers, and every Tier 3 venue page as stripped text (`data/prefetch/venues/*.txt` + `_report.json`); committed to `main` | GitHub Action `prefetch.yml` (`30 6 * * 0,3`) | `SCOUT_EMAIL`, `SCOUT_EMAIL_PASSWORD` secrets |
+| Wed + Sun 3:00am | **Sweep** — Claude cloud routine runs `/scout full`: archives past events, parses the text newsletters, scores the Tier 1 prefetch, parses the pre-fetched Tier 3 venue text via subagents (WebFetch only as a fallback), rebuilds calendar + digest, and pushes a `claude/sweep-<date>` branch | Claude Code routine (`0 7 * * 0,3`, Sonnet 5) | Claude GitHub App on the repo; environment **Network access = Full** |
 | On push to `claude/sweep-*` | **Merge sweep** — merges the routine's branch into `main` (sweep wins conflicts), deletes the branch | GitHub Action `merge-sweep.yml` | — |
 | On push to `main` | **Site** — builds `ui/` with Vite and deploys to GitHub Pages | GitHub Action `pages.yml` | — |
-| Sun 8:30am | **Digest** — builds the week-ahead digest and emails it; commits `output/digest/` + the site copy | GitHub Action `digest.yml` (`30 12 * * 0`) | secrets above + `DIGEST_TO` |
+| Sun 6:30am | **Digest** — builds the week-ahead digest and emails it; commits `output/digest/` + the site copy | GitHub Action `digest.yml` (`30 10 * * 0`) | secrets above + `DIGEST_TO` |
 
 Site: https://wfreudenheim.github.io/EventScout/ — the "This Week ↗" link opens the latest digest.
 
@@ -41,7 +41,7 @@ Any workflow can also be run on demand from the Actions tab (`workflow_dispatch`
 - Routine runs and logs: https://claude.ai/code/routines
 - Action runs: https://github.com/wfreudenheim/EventScout/actions
 - If the sweep pushed but the site didn't update, check that `merge-sweep.yml` merged the `claude/sweep-*` branch and then `pages.yml` ran (it only triggers on `ui/**`, `data/*.json`, `output/digest/**`).
-- If the digest is stale, the Sunday sweep probably didn't finish by 8:30am — run the digest workflow manually or move its cron later.
+- If the digest is stale, the Sunday sweep probably didn't finish by 6:30am — run the digest workflow manually or move its cron later.
 
 ## Adjusting
 

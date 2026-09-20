@@ -4,12 +4,12 @@
 #   2. Tier 1: fetch Eventbrite pages for T1 venues -> data/prefetch/<venue>-eb.json (unscored)
 #   3. Tier 2: run generated scrapers (they ingest directly)
 #   4. Tier 3: fetch every venue's event page as stripped text -> data/prefetch/venues/<venue>.txt
-# then commits to main. 05:30 UTC = 1:30am EDT / 12:30am EST, Wed + Sun.
+# then commits to main. 06:30 UTC = 2:30am EDT / 1:30am EST, Wed + Sun (30 min before the sweep).
 name: Prefetch (inbox + Tier 1/2)
 
 on:
   schedule:
-    - cron: "30 5 * * 0,3"
+    - cron: "30 6 * * 0,3"
   workflow_dispatch:
 
 permissions:
