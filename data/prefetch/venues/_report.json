@@ -1,0 +1,1091 @@
+{
+  "fetched_at": "2026-09-20T11:43:28.603Z",
+  "total": 134,
+  "ok": 100,
+  "empty": 14,
+  "http": 15,
+  "error": 5,
+  "venues": [
+    {
+      "id": "aaww",
+      "name": "Asian American Writers' Workshop",
+      "url": "https://aaww.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 8810
+    },
+    {
+      "id": "abrons-arts-center",
+      "name": "Abrons Arts Center",
+      "url": "https://abronsartscenter.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1442
+    },
+    {
+      "id": "amant",
+      "name": "Amant",
+      "url": "https://www.amant.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 897
+    },
+    {
+      "id": "ambient-church",
+      "name": "Ambient Church",
+      "url": "https://www.ambient.church/",
+      "status": "empty",
+      "http": 200,
+      "chars": 0,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "anthology-film-archives",
+      "name": "Anthology Film Archives",
+      "url": "https://anthologyfilmarchives.org/film_screenings",
+      "status": "ok",
+      "http": 200,
+      "chars": 10749
+    },
+    {
+      "id": "architectural-league",
+      "name": "Architectural League of New York",
+      "url": "https://archleague.org/events/",
+      "status": "ok",
+      "http": 200,
+      "chars": 6170
+    },
+    {
+      "id": "artists-space",
+      "name": "Artists Space",
+      "url": "https://artistsspace.org",
+      "status": "ok",
+      "http": 200,
+      "chars": 1166
+    },
+    {
+      "id": "asia-society",
+      "name": "Asia Society",
+      "url": "https://asiasociety.org/new-york",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "austrian-cultural-forum",
+      "name": "Austrian Cultural Forum",
+      "url": "https://www.acfny.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1384
+    },
+    {
+      "id": "babycastles",
+      "name": "Babycastles",
+      "url": "https://www.babycastles.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1991
+    },
+    {
+      "id": "bam",
+      "name": "Brooklyn Academy of Music",
+      "url": "https://www.bam.org/programs",
+      "status": "ok",
+      "http": 200,
+      "chars": 23233
+    },
+    {
+      "id": "bang-on-a-can",
+      "name": "Bang on a Can",
+      "url": "https://bangonacan.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2705
+    },
+    {
+      "id": "barbes",
+      "name": "Barbès",
+      "url": "https://www.barbesbrooklyn.com/calendar",
+      "status": "http",
+      "http": 404,
+      "note": "Not Found"
+    },
+    {
+      "id": "bard-graduate-center",
+      "name": "Bard Graduate Center",
+      "url": "https://www.bgc.bard.edu/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 4931
+    },
+    {
+      "id": "bisr",
+      "name": "Brooklyn Institute for Social Research",
+      "url": "https://thebrooklyninstitute.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 19339
+    },
+    {
+      "id": "bitforms",
+      "name": "bitforms gallery",
+      "url": "https://bitforms.art",
+      "status": "ok",
+      "http": 200,
+      "chars": 4487
+    },
+    {
+      "id": "blank-forms",
+      "name": "Blank Forms",
+      "url": "https://blankforms.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 4688
+    },
+    {
+      "id": "brooklyn-raga-massive",
+      "name": "Brooklyn Raga Massive",
+      "url": "https://www.brooklynragamassive.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 498
+    },
+    {
+      "id": "brooklyn-rail",
+      "name": "The Brooklyn Rail",
+      "url": "https://brooklynrail.org/",
+      "status": "empty",
+      "http": 200,
+      "chars": 0,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "bryant-park-picnics",
+      "name": "Bryant Park Picnic Performances",
+      "url": "https://bryantpark.org/activities/picnic-performances",
+      "status": "ok",
+      "http": 200,
+      "chars": 10647
+    },
+    {
+      "id": "canal-projects",
+      "name": "Canal Projects",
+      "url": "https://canalprojects.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1360
+    },
+    {
+      "id": "canyon",
+      "name": "CANYON",
+      "url": "https://canyon.nyc/",
+      "status": "empty",
+      "http": 200,
+      "chars": 0,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "celebrate-brooklyn",
+      "name": "BRIC Celebrate Brooklyn!",
+      "url": "https://bricartsmedia.org/celebrate-brooklyn/",
+      "status": "ok",
+      "http": 200,
+      "chars": 14164
+    },
+    {
+      "id": "center-for-architecture",
+      "name": "Center for Architecture / AIA New York",
+      "url": "https://calendar.aiany.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 12193
+    },
+    {
+      "id": "center-for-book-arts",
+      "name": "Center for Book Arts",
+      "url": "https://centerforbookarts.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 5549
+    },
+    {
+      "id": "chocolate-factory",
+      "name": "The Chocolate Factory Theater",
+      "url": "https://chocolatefactorytheater.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 32159
+    },
+    {
+      "id": "city-reliquary",
+      "name": "City Reliquary",
+      "url": "https://www.cityreliquary.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1898
+    },
+    {
+      "id": "columbia-gsapp",
+      "name": "Columbia GSAPP",
+      "url": "https://www.arch.columbia.edu/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 13274
+    },
+    {
+      "id": "columbia-heyman",
+      "name": "Columbia Society of Fellows / Heyman Center",
+      "url": "https://sof-heyman.columbia.edu/events",
+      "status": "error",
+      "note": "fetch failed"
+    },
+    {
+      "id": "columbia-science-society",
+      "name": "Columbia Center for Science and Society",
+      "url": "https://scienceandsociety.columbia.edu/events",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "columbia-soa-lenfest",
+      "name": "Columbia School of the Arts / Lenfest Center",
+      "url": "https://arts.columbia.edu/events",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "columbia-zuckerman",
+      "name": "Columbia Zuckerman Institute",
+      "url": "https://zuckermaninstitute.columbia.edu/news-events",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "cooper-union",
+      "name": "Cooper Union",
+      "url": "https://cooper.edu/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 2909
+    },
+    {
+      "id": "creative-time",
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2110
+    },
+    {
+      "id": "culturehub",
+      "name": "CultureHub",
+      "url": "https://www.culturehub.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 8389
+    },
+    {
+      "id": "cuny-graduate-center",
+      "name": "CUNY Graduate Center",
+      "url": "https://www.gc.cuny.edu/events",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "cybernetics-library",
+      "name": "Cybernetics Library",
+      "url": "https://www.cyberneticslibrary.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 606
+    },
+    {
+      "id": "danspace-project",
+      "name": "Danspace Project",
+      "url": "https://danspaceproject.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 3811
+    },
+    {
+      "id": "data-society",
+      "name": "Data & Society",
+      "url": "https://datasociety.net/",
+      "status": "ok",
+      "http": 200,
+      "chars": 16613
+    },
+    {
+      "id": "do-not-research",
+      "name": "Do Not Research",
+      "url": "https://donotresearch.substack.com/",
+      "status": "empty",
+      "http": 200,
+      "chars": 350,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "drom",
+      "name": "DROM",
+      "url": "https://dromnyc.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 5194
+    },
+    {
+      "id": "e-flux",
+      "name": "e-flux",
+      "url": "https://www.e-flux.com/live",
+      "status": "ok",
+      "http": 200,
+      "chars": 6186
+    },
+    {
+      "id": "electronic-arts-intermix",
+      "name": "Electronic Arts Intermix",
+      "url": "https://www.eai.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2763
+    },
+    {
+      "id": "elsewhere",
+      "name": "Elsewhere",
+      "url": "https://www.elsewhere.club/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 7674
+    },
+    {
+      "id": "emily-harvey-foundation",
+      "name": "Emily Harvey Foundation",
+      "url": "https://emilyharveyfoundation.org/",
+      "status": "empty",
+      "http": 200,
+      "chars": 370,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "experimental-intermedia",
+      "name": "Experimental Intermedia",
+      "url": "http://www.experimentalintermedia.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 10130
+    },
+    {
+      "id": "eyebeam",
+      "name": "Eyebeam",
+      "url": "https://eyebeam.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 3505
+    },
+    {
+      "id": "film-at-lincoln-center",
+      "name": "Film at Lincoln Center",
+      "url": "https://www.filmlinc.org/calendar/",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "film-forum",
+      "name": "Film Forum",
+      "url": "https://filmforum.org/now-playing",
+      "status": "ok",
+      "http": 200,
+      "chars": 14316
+    },
+    {
+      "id": "film-noir-cinema",
+      "name": "Film Noir Cinema",
+      "url": "https://www.filmnoircinema.com/",
+      "status": "empty",
+      "http": 200,
+      "chars": 253,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "filmmakers-coop",
+      "name": "Film-Makers' Cooperative",
+      "url": "https://film-makerscoop.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 13246
+    },
+    {
+      "id": "flushing-town-hall",
+      "name": "Flushing Town Hall",
+      "url": "https://www.flushingtownhall.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 5507
+    },
+    {
+      "id": "franklin-furnace",
+      "name": "Franklin Furnace",
+      "url": "https://franklinfurnace.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 7129
+    },
+    {
+      "id": "fridman-gallery",
+      "name": "Fridman Gallery",
+      "url": "https://www.fridmangallery.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 3059
+    },
+    {
+      "id": "genspace",
+      "name": "Genspace",
+      "url": "https://www.genspace.org/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 40973
+    },
+    {
+      "id": "green-wood",
+      "name": "Green-Wood Cemetery",
+      "url": "https://www.green-wood.com/events/",
+      "status": "ok",
+      "http": 200,
+      "chars": 5470
+    },
+    {
+      "id": "guggenheim",
+      "name": "Guggenheim",
+      "url": "https://www.guggenheim.org/",
+      "status": "empty",
+      "http": 200,
+      "chars": 264,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "harvestworks",
+      "name": "Harvestworks",
+      "url": "https://www.harvestworks.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2111
+    },
+    {
+      "id": "helix-center",
+      "name": "The Helix Center",
+      "url": "https://www.helixcenter.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 4069
+    },
+    {
+      "id": "housing-works",
+      "name": "Housing Works Bookstore",
+      "url": "https://www.housingworks.org/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 3160
+    },
+    {
+      "id": "index-space",
+      "name": "Index Space",
+      "url": "https://www.index-space.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 10173
+    },
+    {
+      "id": "interference-archive",
+      "name": "Interference Archive",
+      "url": "https://interferencearchive.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 8361
+    },
+    {
+      "id": "issue-project-room",
+      "name": "Issue Project Room",
+      "url": "https://issueprojectroom.org/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 8548
+    },
+    {
+      "id": "jack-arts",
+      "name": "JACK",
+      "url": "https://www.jackny.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 454
+    },
+    {
+      "id": "jalopy-theatre",
+      "name": "Jalopy Theatre",
+      "url": "https://jalopytheatre.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2332
+    },
+    {
+      "id": "japan-society",
+      "name": "Japan Society",
+      "url": "https://japansociety.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 11875
+    },
+    {
+      "id": "knockdown-center",
+      "name": "Knockdown Center",
+      "url": "https://knockdown.center/events",
+      "status": "http",
+      "http": 429,
+      "note": "Too Many Requests"
+    },
+    {
+      "id": "la-mama",
+      "name": "La MaMa",
+      "url": "https://www.lamama.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 9266
+    },
+    {
+      "id": "light-industry",
+      "name": "Light Industry",
+      "url": "https://lightindustry.org/calendar/",
+      "status": "ok",
+      "http": 200,
+      "chars": 40973
+    },
+    {
+      "id": "lincoln-center-summer",
+      "name": "Lincoln Center (Summer for the City / Atrium)",
+      "url": "https://www.lincolncenter.org/campus/whats-on",
+      "status": "http",
+      "http": 404,
+      "note": "Not Found"
+    },
+    {
+      "id": "maysles-documentary-center",
+      "name": "Maysles Documentary Center",
+      "url": "https://www.maysles.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 3856
+    },
+    {
+      "id": "mcnally-jackson",
+      "name": "McNally Jackson",
+      "url": "https://www.mcnallyjackson.com/events",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "metrograph",
+      "name": "Metrograph",
+      "url": "https://metrograph.com/calendar",
+      "status": "ok",
+      "http": 200,
+      "chars": 40973
+    },
+    {
+      "id": "microscope-gallery",
+      "name": "Microscope Gallery",
+      "url": "https://www.microscopegallery.com",
+      "status": "ok",
+      "http": 200,
+      "chars": 1109
+    },
+    {
+      "id": "millennium-film-workshop",
+      "name": "Millennium Film Workshop",
+      "url": "https://www.millenniumfilm.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2949
+    },
+    {
+      "id": "mmuseumm",
+      "name": "Mmuseumm",
+      "url": "https://www.mmuseumm.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 996
+    },
+    {
+      "id": "moma",
+      "name": "MoMA",
+      "url": "https://www.moma.org/calendar/",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "moma-ps1",
+      "name": "MoMA PS1",
+      "url": "https://www.momaps1.org/calendar",
+      "status": "ok",
+      "http": 200,
+      "chars": 6974
+    },
+    {
+      "id": "mono-no-aware",
+      "name": "Mono No Aware",
+      "url": "http://mononoawarefilm.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1104
+    },
+    {
+      "id": "montez-press-radio",
+      "name": "Montez Press Radio",
+      "url": "https://radio.montezpress.com/",
+      "status": "empty",
+      "http": 200,
+      "chars": 0,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "morbid-anatomy",
+      "name": "Morbid Anatomy",
+      "url": "https://www.morbidanatomy.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1329
+    },
+    {
+      "id": "morus",
+      "name": "Museum of Reclaimed Urban Space",
+      "url": "https://www.morusnyc.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2835
+    },
+    {
+      "id": "movement-research",
+      "name": "Movement Research",
+      "url": "https://movementresearch.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 6486
+    },
+    {
+      "id": "museum-of-moving-image",
+      "name": "Museum of the Moving Image",
+      "url": "https://movingimage.us/calendar/",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "n-plus-one",
+      "name": "n+1 Magazine",
+      "url": "https://www.nplusonemag.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 13109
+    },
+    {
+      "id": "national-sawdust",
+      "name": "National Sawdust",
+      "url": "https://nationalsawdust.org/performances",
+      "status": "ok",
+      "http": 200,
+      "chars": 40973
+    },
+    {
+      "id": "new-museum",
+      "name": "New Museum",
+      "url": "https://www.newmuseum.org/calendar",
+      "status": "empty",
+      "http": 200,
+      "chars": 0,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "nitehawk",
+      "name": "Nitehawk Cinema",
+      "url": "https://nitehawkcinema.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 600
+    },
+    {
+      "id": "nowadays",
+      "name": "Nowadays",
+      "url": "https://nowadays.nyc/",
+      "status": "ok",
+      "http": 200,
+      "chars": 537
+    },
+    {
+      "id": "nyas",
+      "name": "New York Academy of Sciences",
+      "url": "https://www.nyas.org/events/",
+      "status": "ok",
+      "http": 200,
+      "chars": 8127
+    },
+    {
+      "id": "nypl-live",
+      "name": "LIVE from NYPL",
+      "url": "https://www.nypl.org/events/live-nypl",
+      "status": "empty",
+      "http": 200,
+      "chars": 0,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "nyu-cds",
+      "name": "NYU Center for Data Science",
+      "url": "https://cds.nyu.edu/events/",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "nyu-cns",
+      "name": "NYU Center for Neural Science",
+      "url": "https://as.nyu.edu/departments/cns/events.html",
+      "status": "error",
+      "note": "fetch failed"
+    },
+    {
+      "id": "nyu-game-center",
+      "name": "NYU Game Center",
+      "url": "https://gamecenter.nyu.edu/",
+      "status": "ok",
+      "http": 200,
+      "chars": 4025
+    },
+    {
+      "id": "nyu-itp",
+      "name": "NYU ITP / IMA",
+      "url": "https://tisch.nyu.edu/itp/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 6227
+    },
+    {
+      "id": "onassis-onx",
+      "name": "Onassis ONX",
+      "url": "https://onx.studio/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2603
+    },
+    {
+      "id": "participant-inc",
+      "name": "Participant Inc",
+      "url": "https://participantinc.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 903
+    },
+    {
+      "id": "performance-space-ny",
+      "name": "Performance Space New York",
+      "url": "https://performancespacenewyork.org/shows/",
+      "status": "ok",
+      "http": 200,
+      "chars": 5398
+    },
+    {
+      "id": "poetry-project",
+      "name": "The Poetry Project",
+      "url": "https://www.poetryproject.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1483
+    },
+    {
+      "id": "printed-matter",
+      "name": "Printed Matter",
+      "url": "https://www.printedmatter.org/programs",
+      "status": "ok",
+      "http": 200,
+      "chars": 12236
+    },
+    {
+      "id": "prismatic-ground",
+      "name": "Prismatic Ground",
+      "url": "https://prismaticground.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2082
+    },
+    {
+      "id": "public-records",
+      "name": "Public Records",
+      "url": "https://publicrecords.nyc/",
+      "status": "ok",
+      "http": 200,
+      "chars": 21083
+    },
+    {
+      "id": "recess-art",
+      "name": "Recess",
+      "url": "https://www.recessart.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2792
+    },
+    {
+      "id": "rhizome",
+      "name": "Rhizome",
+      "url": "https://rhizome.org/events",
+      "status": "http",
+      "http": 403,
+      "note": "Forbidden"
+    },
+    {
+      "id": "rockaway-film-festival",
+      "name": "Rockaway Film Festival",
+      "url": "https://www.rockawayfilmfestival.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 3176
+    },
+    {
+      "id": "rockefeller-university",
+      "name": "Rockefeller University",
+      "url": "https://www.rockefeller.edu/events/",
+      "status": "http",
+      "http": 404,
+      "note": "Not Found"
+    },
+    {
+      "id": "rooftop-films",
+      "name": "Rooftop Films",
+      "url": "https://rooftopfilms.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 4060
+    },
+    {
+      "id": "roulette",
+      "name": "Roulette",
+      "url": "https://roulette.org/calendar/",
+      "status": "ok",
+      "http": 200,
+      "chars": 4792
+    },
+    {
+      "id": "sculpture-center",
+      "name": "SculptureCenter",
+      "url": "https://www.sculpture-center.org/events/",
+      "status": "ok",
+      "http": 200,
+      "chars": 40973
+    },
+    {
+      "id": "secret-science-club",
+      "name": "Secret Science Club",
+      "url": "https://www.secretscienceclub.com",
+      "status": "empty",
+      "http": 200,
+      "chars": 0,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "sfpc",
+      "name": "School for Poetic Computation",
+      "url": "https://sfpc.study",
+      "status": "ok",
+      "http": 200,
+      "chars": 3525
+    },
+    {
+      "id": "simons-foundation",
+      "name": "Simons Foundation",
+      "url": "https://www.simonsfoundation.org/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 3607
+    },
+    {
+      "id": "spectacle-theater",
+      "name": "Spectacle Theater",
+      "url": "https://www.spectacletheater.com",
+      "status": "ok",
+      "http": 200,
+      "chars": 1877
+    },
+    {
+      "id": "storefront-art-arch",
+      "name": "Storefront for Art and Architecture",
+      "url": "https://storefrontnews.org/programming/",
+      "status": "error",
+      "note": "fetch failed"
+    },
+    {
+      "id": "summerstage",
+      "name": "SummerStage (City Parks Foundation)",
+      "url": "https://cityparksfoundation.org/summerstage/",
+      "status": "ok",
+      "http": 200,
+      "chars": 12670
+    },
+    {
+      "id": "swiss-institute",
+      "name": "Swiss Institute",
+      "url": "https://www.swissinstitute.net/",
+      "status": "ok",
+      "http": 200,
+      "chars": 7081
+    },
+    {
+      "id": "terraza-7",
+      "name": "Terraza 7",
+      "url": "https://terraza7.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 7839
+    },
+    {
+      "id": "the-brick",
+      "name": "The Brick",
+      "url": "https://www.bricktheater.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 6106
+    },
+    {
+      "id": "the-drawing-center",
+      "name": "The Drawing Center",
+      "url": "https://drawingcenter.org/exhibitions",
+      "status": "ok",
+      "http": 200,
+      "chars": 1731
+    },
+    {
+      "id": "the-drift",
+      "name": "The Drift Magazine",
+      "url": "https://www.thedriftmag.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 13121
+    },
+    {
+      "id": "the-kitchen",
+      "name": "The Kitchen",
+      "url": "https://thekitchen.org/on-view",
+      "status": "empty",
+      "http": 200,
+      "chars": 313,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "the-lot-radio",
+      "name": "The Lot Radio",
+      "url": "https://www.thelotradio.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2712
+    },
+    {
+      "id": "the-new-school",
+      "name": "The New School",
+      "url": "https://events.newschool.edu/",
+      "status": "ok",
+      "http": 200,
+      "chars": 1325
+    },
+    {
+      "id": "the-shed",
+      "name": "The Shed",
+      "url": "https://theshed.org/program",
+      "status": "error",
+      "note": "fetch failed"
+    },
+    {
+      "id": "the-stone",
+      "name": "The Stone (New School)",
+      "url": "https://thestonenyc.com/calendar.php",
+      "status": "error",
+      "note": "fetch failed"
+    },
+    {
+      "id": "time-spans",
+      "name": "TIME:SPANS Festival",
+      "url": "https://timespans.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 946
+    },
+    {
+      "id": "triple-canopy",
+      "name": "Triple Canopy",
+      "url": "https://www.canopycanopycanopy.com",
+      "status": "empty",
+      "http": 200,
+      "chars": 121,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "vera-list-center",
+      "name": "Vera List Center for Art and Politics",
+      "url": "https://veralistcenter.org/events/",
+      "status": "ok",
+      "http": 200,
+      "chars": 5095
+    },
+    {
+      "id": "wave-farm",
+      "name": "Wave Farm",
+      "url": "https://wavefarm.org/",
+      "status": "empty",
+      "http": 200,
+      "chars": 61,
+      "note": "page text too short — likely JS-rendered"
+    },
+    {
+      "id": "wendys-subway",
+      "name": "Wendy's Subway",
+      "url": "https://wendyssubway.com/",
+      "status": "ok",
+      "http": 200,
+      "chars": 2361
+    },
+    {
+      "id": "white-columns",
+      "name": "White Columns",
+      "url": "https://whitecolumns.org/",
+      "status": "ok",
+      "http": 200,
+      "chars": 4444
+    },
+    {
+      "id": "whitney",
+      "name": "Whitney Museum of American Art",
+      "url": "https://whitney.org/events",
+      "status": "ok",
+      "http": 200,
+      "chars": 6211
+    },
+    {
+      "id": "wonderville",
+      "name": "Wonderville",
+      "url": "https://www.wonderville.nyc/",
+      "status": "ok",
+      "http": 200,
+      "chars": 8162
+    },
+    {
+      "id": "world-music-institute",
+      "name": "World Music Institute",
+      "url": "https://www.worldmusicinstitute.org/upcoming-events/",
+      "status": "ok",
+      "http": 200,
+      "chars": 3560
+    }
+  ]
+}

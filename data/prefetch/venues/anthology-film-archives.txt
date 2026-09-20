@@ -1,0 +1,267 @@
+VENUE:anthology-film-archives | Anthology Film Archives
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar
+FETCHED:2026-09-20T11:43:14.895Z
+
+ANTHOLOGY FILM ARCHIVES
+
+ * /film_screenings
+    * Film Calendar [/film_screenings/calendar]
+    * Buy Tickets [/film_screenings/buy-tickets]
+    * Programs [/film_screenings/programs]
+       * Essential Cinema [/film_screenings/programs/essential-cinema]
+       * Premieres/Revivals [/film_screenings/programs/premieres]
+       * Retrospectives [/film_screenings/programs/retrospectives]
+       * Series [/film_screenings/programs/series]
+       * Special Screenings [/film_screenings/programs/special-screenings]
+       * AFA Preservations [/film_screenings/programs/preservations]
+       * New Filmmakers [/film_screenings/programs/new-filmmakers]
+
+    * Upcoming Rentals & Festivals [/film_screenings/rentals]
+    * DCP Specifications [/film_screenings/DCP]
+    * Video File Exhibition Specs [/film_screenings/video]
+
+ * /collections
+ * /support
+ * /about
+ * /contact
+ * /
+
+ * Expansion [https://expansion-anthologyfilmarchives.org/]
+ * Membership [/support/membership]
+ * Mailing List [/contact/mailing-list]
+ * Directions [/contact/directions]
+
+FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-20]
+
+September 2026
+QUARTERLY PDF [/AFA_456_2013Cal_complete.pdf?v=1] | RSS [/rss] Filter by Program Essential Cinema Premieres/Revivals Retrospectives Series Special Screenings AFA Preservations New Filmmakers
+
+Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+1
+2
+ * 6:30 PM
+   UNIONDOCS PRESENTS: WELFARE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61981]
+
+3
+ * 7:30 PM
+   MIX NYC PRESENTS: EARLY INTERIORITY: VINTAGE TRANS CINEMA [/film_screenings/calendar?view=list&month=09&year=2026#showing-62008]
+ * 9:30 PM
+   MIX NYC PRESENTS: EARLY INTERIORITY: VINTAGE TRANS CINEMA (encore screening) [/film_screenings/calendar?view=list&month=09&year=2026#showing-62138]
+
+4
+ * 6:45 PM
+   WHAT GODMILOW TAUGHT [/film_screenings/calendar?view=list&month=09&year=2026#showing-61936]
+ * 8:45 PM
+   WHAT FAROCKI TAUGHT + SCUM MANIFESTO [/film_screenings/calendar?view=list&month=09&year=2026#showing-61939]
+
+5
+ * 6:00 PM
+   WHAT GODMILOW TAUGHT [/film_screenings/calendar?view=list&month=09&year=2026#showing-61937]
+ * 8:00 PM
+   ROY COHN/JACK SMITH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61941]
+
+6
+ * 4:00 PM
+   THE LITTLE DEATHS / LAS MUERTES CHIQUITAS [/film_screenings/calendar?view=list&month=09&year=2026#showing-61943]
+ * 5:15 PM
+   EC: ZVENIGORA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61903]
+ * 7:30 PM
+   EC: ARSENAL [/film_screenings/calendar?view=list&month=09&year=2026#showing-61904]
+
+7
+8
+ * 7:00 PM
+   TRUE NORTH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61985]
+
+9
+ * 6:45 PM
+   TEACH OUR CHILDREN + INSIDE WOMEN INSIDE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61857]
+ * 7:15 PM
+   EC: EARTH / ZEMLYA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61905]
+ * 8:30 PM
+   FROM SPIKES TO SPINDLES + FEI TIEN, GODDESS IN FLIGHT [/film_screenings/calendar?view=list&month=09&year=2026#showing-61860]
+
+10
+ * 6:30 PM
+   EC: THE PARSON’S WIDOW [/film_screenings/calendar?view=list&month=09&year=2026#showing-61906]
+ * 6:45 PM
+   TO LOVE, HONOR, AND OBEY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61863]
+ * 8:30 PM
+   NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRICA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61865]
+ * 8:45 PM
+   EC: MICHAEL [/film_screenings/calendar?view=list&month=09&year=2026#showing-61907]
+
+11
+ * 6:45 PM
+   WHO KILLED VINCENT CHIN? [/film_screenings/calendar?view=list&month=09&year=2026#showing-61873]
+ * 7:30 PM
+   EC: THE PASSION OF JOAN OF ARC [/film_screenings/calendar?view=list&month=09&year=2026#showing-61908]
+ * 9:00 PM
+   TEACH OUR CHILDREN + INSIDE WOMEN INSIDE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61858]
+
+12
+ * 4:45 PM
+   NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRICA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61866]
+ * 6:00 PM
+   EC: VAMPYR [/film_screenings/calendar?view=list&month=09&year=2026#showing-61909]
+ * 7:00 PM
+   HA HA SHANGHAI [/film_screenings/calendar?view=list&month=09&year=2026#showing-61876]
+ * 8:00 PM
+   EC: DAY OF WRATH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61910]
+
+13
+ * 5:00 PM
+   EC: ORDET [/film_screenings/calendar?view=list&month=09&year=2026#showing-61913]
+ * 6:30 PM
+   FROM SPIKES TO SPINDLES + FEI TIEN, GODDESS IN FLIGHT [/film_screenings/calendar?view=list&month=09&year=2026#showing-61861]
+ * 8:00 PM
+   EC: GERTRUD [/film_screenings/calendar?view=list&month=09&year=2026#showing-61914]
+ * 8:30 PM
+   WHO KILLED VINCENT CHIN? [/film_screenings/calendar?view=list&month=09&year=2026#showing-61874]
+
+14
+15
+ * 7:00 PM
+   DEUX FOIS [/film_screenings/calendar?view=list&month=09&year=2026#showing-61896]
+ * 9:00 PM
+   EC: DAY OF WRATH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61911]
+
+16
+ * 6:30 PM
+   MY LAST INTERVIEW WITH ÉRIC ROHMER + GOUGNETTE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61898]
+ * 7:30 PM
+   EC: DAY OF WRATH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61912]
+ * 8:30 PM
+   HOTEL NEW YORK [/film_screenings/calendar?view=list&month=09&year=2026#showing-61900]
+
+17
+ * 7:00 PM
+   PERMANENT VACATION [/film_screenings/calendar?view=list&month=09&year=2026#showing-61902]
+ * 7:30 PM
+   GO GO GO SLOW (book release event!) [/film_screenings/calendar?view=list&month=09&year=2026#showing-61983]
+
+18
+ * 7:00 PM
+   WORK IN PROGRESS / EN CONSTRUCCIÓN [/film_screenings/calendar?view=list&month=09&year=2026#showing-61955]
+ * 7:30 PM
+   THE GLORIA OF YOUR IMAGINATION [/film_screenings/calendar?view=list&month=09&year=2026#showing-61946]
+
+19
+ * 5:15 PM
+   THE GLORIA OF YOUR IMAGINATION [/film_screenings/calendar?view=list&month=09&year=2026#showing-61947]
+ * 5:30 PM
+   MEISHI STREET [/film_screenings/calendar?view=list&month=09&year=2026#showing-61957]
+ * 8:00 PM
+   NO OTHER LAND [/film_screenings/calendar?view=list&month=09&year=2026#showing-61959]
+ * 8:15 PM
+   WHEN IT WAS BLUE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61950]
+
+20
+ * 4:15 PM
+   IN VANDA’S ROOM / NO QUARTO DA VANDA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61962]
+ * 5:15 PM
+   JENNIFER REEVES SHORT FILM PGM [/film_screenings/calendar?view=list&month=09&year=2026#showing-61952]
+ * 7:45 PM
+   THE GLORIA OF YOUR IMAGINATION [/film_screenings/calendar?view=list&month=09&year=2026#showing-61948]
+ * 8:00 PM
+   DEMOLITION / CHAIQIAN / 拆·迁 [/film_screenings/calendar?view=list&month=09&year=2026#showing-61965]
+
+21
+ * 7:00 PM
+   STILL LIFE / 三峡好人 [/film_screenings/calendar?view=list&month=09&year=2026#showing-61968]
+
+22
+ * 6:30 PM
+   RUBBLE ON SCREEN: SHORT FILM PGM [/film_screenings/calendar?view=list&month=09&year=2026#showing-61971]
+ * 7:00 PM
+   VALENTIN NOUJAÏM PGM 1: VEILED STRUGGLES [/film_screenings/calendar?view=list&month=09&year=2026#showing-61990]
+ * 8:30 PM
+   DEMOLITION / CHAIQIAN / 拆·迁 [/film_screenings/calendar?view=list&month=09&year=2026#showing-61966]
+
+23
+ * 6:30 PM
+   NO OTHER LAND [/film_screenings/calendar?view=list&month=09&year=2026#showing-61960]
+ * 7:00 PM
+   VALENTIN NOUJAÏM PGM 2: RE-TELLING [/film_screenings/calendar?view=list&month=09&year=2026#showing-61992]
+ * 9:00 PM
+   STILL LIFE / 三峡好人 [/film_screenings/calendar?view=list&month=09&year=2026#showing-61969]
+
+24
+ * 7:00 PM
+   IN VANDA’S ROOM / NO QUARTO DA VANDA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61963]
+ * 7:30 PM
+   NARROW ROOMS: JERKER [/film_screenings/calendar?view=list&month=09&year=2026#showing-61973]
+
+25
+ * 6:30 PM
+   TONEY W. MERRITT PGM 1: PSYCHODRAMAS [/film_screenings/calendar?view=list&month=09&year=2026#showing-61927]
+ * 6:45 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61878]
+ * 8:30 PM
+   TONEY W. MERRITT PGM 2: VIGNETTES / MINIATURES [/film_screenings/calendar?view=list&month=09&year=2026#showing-61930]
+ * 9:00 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61879]
+
+26
+ * 4:00 PM
+   TONEY W. MERRITT PGM 3: LATER WORK [/film_screenings/calendar?view=list&month=09&year=2026#showing-61933]
+ * 4:30 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61882]
+ * 6:00 PM
+   TONEY W. MERRITT PGM 2: VIGNETTES / MINIATURES [/film_screenings/calendar?view=list&month=09&year=2026#showing-61931]
+ * 6:45 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61880]
+ * 9:00 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61881]
+
+27
+ * 3:45 PM
+   BO HARWOOD RECORD RELEASE EVENT: THE KILLING OF A CHINESE BOOKIE [/film_screenings/calendar?view=list&month=09&year=2026#showing-62140]
+ * 4:30 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61883]
+ * 6:45 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61884]
+ * 7:00 PM
+   TONEY W. MERRITT PGM 1: PSYCHODRAMAS [/film_screenings/calendar?view=list&month=09&year=2026#showing-61928]
+ * 9:00 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61885]
+
+28
+ * 6:45 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61886]
+ * 9:00 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61887]
+
+29
+ * 6:45 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61888]
+ * 9:00 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61889]
+
+30
+ * 6:45 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61890]
+ * 7:00 PM
+   A HEART AS WILLING / LA CORAZONADA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61977]
+ * 9:00 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61891]
+
+NEW VISITOR CINEPHILES RESEARCHERS MORE
+ * About [/about]
+ * Essential Cinema [/about/essential-cinema]
+ * Map/Directions [/contact/directions]
+
+ * Film Calendar [/film_screenings/calendar]
+ * Programs [/film_screenings/programs]
+ *  
+
+ * Collections [/collections]
+ * History [/about/history]
+ *  
+
+ * Buy Tickets [/film_screenings/buy-tickets]
+ * Membership [/support/membership]
+ * Theater Rental [/film_screenings/theater-rental]
+
+Anthology Film Archives 32 Second Avenue New York, NY 10003
+(212) 505-5181  |  Contact [/contact]  |  Press [/press]  |  Website Development by Reflexions Data [https://reflexions.co] and TransFuture [https://transfuture.com]  |  Terms of Use [/about/terms-of-use]

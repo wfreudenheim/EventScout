@@ -4,8 +4,8 @@ Everything runs off the GitHub repo (`wfreudenheim/EventScout`, public). Five pi
 
 | When | What | Where | Needs |
 |---|---|---|---|
-| Wed + Sun 1:30am | **Prefetch** — IMAP pull of new newsletters as stripped text (`data/inbox/txt/`), Tier 1 Eventbrite fetches (`data/prefetch/*-eb.json`, unscored), Tier 2 scrapers; committed to `main` | GitHub Action `prefetch.yml` (`30 5 * * 0,3`) | `SCOUT_EMAIL`, `SCOUT_EMAIL_PASSWORD` secrets |
-| Wed + Sun 2:00am | **Sweep** — Claude cloud routine runs `/scout full`: archives past events, parses the text newsletters, scores the Tier 1 prefetch, WebFetches Tier 3 venues, rebuilds calendar + digest, and pushes a `claude/sweep-<date>` branch | Claude Code routine (`0 6 * * 0,3`, Sonnet 5) | Claude GitHub App on the repo; environment **Network access = Full** |
+| Wed + Sun 1:30am | **Prefetch** — IMAP pull of new newsletters as stripped text (`data/inbox/txt/`), Tier 1 Eventbrite fetches (`data/prefetch/*-eb.json`, unscored), Tier 2 scrapers, and every Tier 3 venue page as stripped text (`data/prefetch/venues/*.txt` + `_report.json`); committed to `main` | GitHub Action `prefetch.yml` (`30 5 * * 0,3`) | `SCOUT_EMAIL`, `SCOUT_EMAIL_PASSWORD` secrets |
+| Wed + Sun 2:00am | **Sweep** — Claude cloud routine runs `/scout full`: archives past events, parses the text newsletters, scores the Tier 1 prefetch, parses the pre-fetched Tier 3 venue text via subagents (WebFetch only as a fallback), rebuilds calendar + digest, and pushes a `claude/sweep-<date>` branch | Claude Code routine (`0 6 * * 0,3`, Sonnet 5) | Claude GitHub App on the repo; environment **Network access = Full** |
 | On push to `claude/sweep-*` | **Merge sweep** — merges the routine's branch into `main` (sweep wins conflicts), deletes the branch | GitHub Action `merge-sweep.yml` | — |
 | On push to `main` | **Site** — builds `ui/` with Vite and deploys to GitHub Pages | GitHub Action `pages.yml` | — |
 | Sun 8:30am | **Digest** — builds the week-ahead digest and emails it; commits `output/digest/` + the site copy | GitHub Action `digest.yml` (`30 12 * * 0`) | secrets above + `DIGEST_TO` |
@@ -15,7 +15,7 @@ Site: https://wfreudenheim.github.io/EventScout/ — the "This Week ↗" link op
 ## Two things the cloud routine cannot do (and how that's handled)
 
 1. **It cannot push to `main`.** Routines may always push to `claude/*` branches, but a push to any other branch is rejected if that branch carries commits by another author — and `main` has commits from the `eventscout-bot` Actions identity. So the routine pushes `claude/sweep-<date>` and `merge-sweep.yml` folds it into `main`. The Claude GitHub App must also be installed on the repo (https://github.com/apps/claude → Configure → wfreudenheim → select EventScout → Save); without it every push fails with "Claude doesn't have GitHub access to wfreudenheim/EventScout".
-2. **Its network is restricted by default.** Cloud environments default to *Trusted* network access (package registries + GitHub only), which blocks WebFetch to venue sites with `403` / `host_not_allowed`. Fix: claude.ai/code/routines → the routine → menu → **Edit** → the cloud icon under the Instructions box (shows the environment name, e.g. "Default") → hover the environment → settings icon → **Network access: Full** → **Save changes**. Applies from the next run. Tier 1/2 fetching lives in the Prefetch Action so it works regardless of this setting; only the Tier 3 web sweep depends on it, and the routine is told to skip Tier 3 (not keep retrying) if egress is blocked.
+2. **Its network is restricted by default.** Cloud environments default to *Trusted* network access (package registries + GitHub only), which blocks WebFetch to venue sites with `403` / `host_not_allowed`. Fix: claude.ai/code/routines → the routine → menu → **Edit** → the cloud icon under the Instructions box (shows the environment name, e.g. "Default") → hover the environment → settings icon → **Network access: Full** → **Save changes**. Applies from the next run. All fetching (newsletters, Tier 1, Tier 2, and Tier 3 venue pages) now happens in the Prefetch Action, which has unrestricted network, so the sweep works even with egress blocked. Full network access on the routine's environment is still nice-to-have: it lets the routine WebFetch venues the Action couldn't get (see `data/prefetch/venues/_report.json`).
 
 ## Why it's split this way
 
@@ -23,7 +23,7 @@ Only the sweep needs Claude. Fetching mail, building the digest, and sending it 
 
 ## What's committed vs. not
 
-- Committed: `data/*.json` (events, staged, locations, agent log, inbox manifest), `data/inbox/txt/*.txt` (pending newsletters, tracking links stripped — pruned once processed), `data/prefetch/*.json` (latest Tier 1 fetches, overwritten each run), `output/`, `ui/`.
+- Committed: `data/*.json` (events, staged, locations, agent log, inbox manifest), `data/inbox/txt/*.txt` (pending newsletters, tracking links stripped — pruned once processed), `data/prefetch/` (latest Tier 1 JSON and Tier 3 venue text, ~1 MB, overwritten each run), `output/`, `ui/`.
 - Ignored: `.env`, `data/inbox/*.html` (raw mail with personal unsubscribe tokens), `data/tmp/`, `node_modules/`.
 
 ## Manual equivalents

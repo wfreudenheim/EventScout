@@ -1,0 +1,152 @@
+VENUE:housing-works | Housing Works Bookstore
+URL:https://www.housingworks.org/events
+FETCHED:2026-09-20T11:43:23.192Z
+
+${ searchAnnouncement }
+Go
+
+EVENTS
+
+EVENTS
+
+There’s never a dull moment here at Housing Works, between our annual benefits such as Design on a Dime, weekly Thrift Shop sales, and a wide array of events at our beloved Bookstore Cafe – we have a plethora of exciting and unique happenings to keep you busy all year long!
+
+Learn more about our Annual Events
+
+Loading
+
+SUNDAY, SEPTEMBER 20, 2026
+
+TODAY AT HOUSING WORKS
+
+Alert ${ event.eventLocation }
+
+!
+
+${ event.startDateMonth }
+
+${ event.startDateDay }
+
+----------------------------------------
+
+${ event.startTime }–${ event.endTime }
+
+${ event.startDateMonth }
+
+${ event.startDateDay }
+
+----------------------------------------
+
+${ event.endDateMonth }
+
+${ event.endDateDay }
+
+${ event.calendar.name }
+
+UPCOMING EVENTS
+
+${ event.startDateMonth }
+
+${ event.startDateDay }–${ event.endDateDay }
+
+${ event.startDateMonth }
+
+${ event.startDateDay }
+
+${ event.calendar.name } ${ event.eventLocation}
+
+${ MONTH.MONTHFULLNAME } ${ MONTH.YEAR }
+
+No events
+
+${ event.startDateMonth }
+
+${ event.startDateDay }–${ event.endDateDay }
+
+${ event.startDateMonth }
+
+${ event.startDateDay }
+
+Alert ${ event.eventLocation }
+
+!
+
+${ event.startDateMonth }
+
+${ event.startDateDay }–${ event.endDateDay }
+
+${ event.startDateMonth }
+
+${ event.startDateDay }
+
+${ event.startTime }–${ event.endTime }
+${ event.calendar.name } All locations ${ event.eventLocation }
+
+ANNUAL EVENTS
+
+Advocacy
+
+WORLD AIDS DAY
+
+[https://www.housingworks.org/events/world-aids-day]
+
+Special Events
+
+BRAKING AIDS® RIDE
+
+[https://www.housingworks.org/events/brakingaidsride2025]
+
+Special Events
+
+FASHION FOR ACTION
+
+[https://www.housingworks.org/events/fashion-for-action]
+
+Special Events
+
+FEAST FOR THE BOOKS
+
+[https://www.housingworks.org/events/feast-for-the-books]
+
+Special Events
+
+THE GROUNDBREAKER AWARDS
+
+[https://www.housingworks.org/events/the-groundbreaker-awards]
+
+Special Events
+
+DESIGN ON A DIME
+
+[https://www.housingworks.org/events/design-on-a-dime]
+
+${ selectedEvent.startDateMonth }
+
+${ selectedEvent.startDateDay }–${ selectedEvent.endDateDay }
+
+${ selectedEvent.startDateMonth }
+
+${ selectedEvent.startDateDay }
+
+${ selectedEvent.calendar.name } All locations ${ selectedEvent.eventLocation }
+
+${ SELECTEDEVENT.STARTTIME }–${ SELECTEDEVENT.ENDTIME }
+
+${ SELECTEDEVENT.EVENTCOST }
+
+Locations See Location Learn More
+
+OUR MISSION
+
+Born out of the AIDS crisis in New York City, Housing Works is a healing community that fights for inclusive care, social justice, and an end to homelessness. Our integrated healthcare, life-changing services, relentless advocacy, and social enterprises break barriers and involve the whole community in building a more compassionate and equitable world.
+
+Donate Now
+[https://www.housingworks.org/donate]
+Learn More
+ * HOUSING WORKS CEO CHARLES KING MOVES CROWD AT... [https://www.housingworks.org/advocacy/charles-king]
+ * Healing Community Special Events [https://www.housingworks.org/events/category/special-events]
+ * Spring into Style at Housing Works’ “Best of... [https://www.housingworks.org/press/spring-into-style-at-housing-works-best-of-spring-shopping-events]
+
+SIGN UP FOR OUR NEWSLETTERS
+
+EVENTS

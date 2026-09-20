@@ -72,6 +72,7 @@ npx tsx src/scripts/run-scraper.ts <venue-id>|--all         # Tier 2: run genera
 npx tsx src/scripts/audit-venues.ts                         # Audit venue URLs, recommend tiers -> data/audit.json
 npx tsx src/scripts/fetch-inbox.ts [--status|--all]         # Mailing-list agent: pull newsletters via IMAP (needs .env)
 npx tsx src/scripts/inbox-to-text.ts [--all|--prune]        # Newsletters -> stripped text in data/inbox/txt (committed; cloud runs read these)
+npx tsx src/scripts/prefetch-venues.ts [--venue <id>]        # Tier 3 venue pages -> data/prefetch/venues/*.txt (+ _report.json); cloud runs parse these
 npx tsx src/scripts/build-digest.ts [--from YYYY-MM-DD]     # Weekly digest -> output/digest/latest.{html,md} + site copy
 npx tsx src/scripts/send-digest.ts [--dry-run]              # Email the digest via Gmail SMTP (SCOUT_EMAIL/_PASSWORD, DIGEST_TO)
 
