@@ -1,0 +1,160 @@
+UID:455 | 2026-09-17 | "Genspace" <genspace@ghost.io> | Can Fungi Be Stronger than Steel?
+
+Brian Houstle is an architect, an electrician, a carpenter, a general contractor, and a handyman. He’s currently working as a sustainability specialist for New York State and as one of the co-leads of Genspace’s Biomaterial’s Studio. In the lab, he’s using all that expertise and his interest in synthetic biology to introduce fungi as a sustainable replacement for concrete. "I'm an architect. I worked in construction and through it all I've been focused on one goal — decarbonization," he said. "
+                                                                                                                                                                                                                                                                                                                                                               
+
+ 
+Genspace
+
+CAN FUNGI BE STRONGER THAN STEEL?
+
+By Sarai Mena • 17 Sept 2026 View in browser View in browser
+
+ 
+
+ 
+
+Brian Houstle is an architect, an electrician, a carpenter, a general contractor, and a handyman. He’s currently working as a sustainability specialist for New York State and as one of the co-leads of Genspace’s Biomaterial’s Studio. In the lab, he’s using all that expertise and his interest in synthetic biology to introduce fungi as a sustainable replacement for concrete.
+
+Brian in a ceiling during his first wiring job.
+
+"I'm an architect. I worked in construction and through it all I've been focused on one goal — decarbonization," he said. "One of the main materials that emits the most carbon in the built environment is concrete, steel is number two, and wood a surprising contender. So I've been doing research around how we replace these three materials, and I've landed on mycelium.”
+
+For the last few years, that's meant learning deeply about mycelium, and using it to make stronger and stronger composites. 
+
+"Within the last year, I ran into all of these processes around biomineralization, which is basically using bacteria to precipitate out calcium and crystallize and further bind together a material," he said. "I had a hypothesis, based on a number of papers that have conducted this research to varying degrees and with different combinations, that if I add a mineralization process to my mycelium composites, then I can finally hit the performance characteristics that match concrete, steel, and wood."
+
+Decarbonization as the anchor
+
+Two weeks ago we held an event called EurekaFest, that included a pitch working session for members. Brian got feedback that decarbonization, his main anchor for this work, isn't necessarily the pitch that lands with investors.
+
+Brian presenting research at a pitch feedback session at EurekaFest on August 30, 2026.
+
+"Most people don't really care about the environment as much as they care about their bottom line. I also just talked to a startup co-founder yesterday who's producing biomineralized mycelium in Denmark, and she said, “What they care about is whether you can put a budget in front of them that says it's going to cost this much, and I can sell it for this much, and it's going to work."
+
+This means  that while the pitch can flex depending on who's listening, the framework shouldn’t. "If I'm pitching to VCs, I'll take that feedback and make it more about speeding up construction, making construction safer so there's less risk for a contractor, and reducing costs. But if I'm talking about this research to anybody else, I would always hold the line on decarbonization, because I think it's really important as a framework for understanding why we do these things, and how many aspects of our economy, our planet, and our social lives are touched by this issue.
+
+"I went to architecture school at the University of Maryland and went straight into industry. I wanted to learn how we build a building, and why we build a building the way we do. Architecture school is so focused on form and space and not on materiality, not on how a building actually functions, and that frustrated me," he said. "So I moved to California, and started working for a boutique architecture firm.”
+
+From there, he started to pivot away from concrete and steel, and into a world of natural building he'd found through the Carbon Leadership Forum and healthy-materials work with the American Institute of Architects. "That's when I switched to straw bale construction," he said.
+
+"For a short period I worked part time as an architectural designer for the straw bale firm, and part time as an electrician doing wiring, HVAC, and domestic hot water installs, really everything it took to remove gas from a building, I got to do myself: electrical, HVAC, plumbing, carpentry, all on the job. That was probably one of the most important jobs I've had, because it really showed me what it means to translate sustainability into the actual act of construction, and how hard that is."
+
+Along the way, he even got to build Jennifer Doudna's straw bale home. "I've wanted to reach out to her this whole time and say, 'Hey, I took a CRISPR class. I'm doing this stuff in the lab now, which is really crazy.'"
+
+This is the path that led him to our lab, where he took on co-leading the Biomaterials Studio, and became a sustainability specialist for New York State. 
+
+“I've worn a lot of different hats along the way in this industry, and that's been the ultimate ethos for me in now looking at how to manufacture a new material and bring it into the industry."
+
+What’s happening in the lab
+
+We asked him to walk us through what he’s working on now. "When you first start looking at mycelium, it's really not that strong of a material, but we can use some basic materials science principles to make it a lot stronger. One of those is applying a textile.”
+
+Brian's textile-reinforced composites.
+
+“You take a textile and add in an adhesive, and you get something that's really strong. And when we pre-stress the textile, it becomes even stronger. We already do this with concrete and steel. We add rebar to concrete, and we can build buildings. And when we pre-stress those steel rebar or larger steel members, we can build really tall buildings."
+
+"So I started just applying fabric and various textiles to see how the mycelium actually grows through it. When we add textiles, we get a lot closer — almost one-thirtieth the strength of concrete. Now there’s just a density problem.”
+
+Enter biomineralization. "That's really where my current research has been sitting. I found a protein called formate dehydrogenase (FDH) which essentially recycles energy, which causes precipitation of calcium carbonate and therefore crystallization."
+
+"Other biomineralization projects take a bacteria that has the protein of choice and grow it up in a substrate. But I'm working with two different organisms. Growing up a bacterium and a fungus together would be difficult, because they compete with each other for resources and require different conditions. So my plan is to grow them side by side in separate materials, purify out the protein, and then add that into the substrate."
+
+"Currently I'm working on cloning a new plasmid that incorporates the protein [FDH].”
+
+Grad school vs. community biology
+
+Brian also wrestled with the idea of going back to school to pursue this research in a university setting. He ultimately decided that he would commit to doing it through community biology.
+
+“I think, in academia, it's easy to lose touch with people's needs, with people's fears, with their desires for the built environment. I wish I had better words to describe what it means to me to do this at the community biology level.”
+
+Brian and Serena working in the lab.
+
+Some failures are worth having
+
+Brian talked about a couple of setbacks on his journey to practicing synthetic biology. 
+
+"For the mycelium one, I was going to do twenty-five, five-foot-long tubes of mycelium for the first GBS bioart exhibit, and I learned a valuable lesson: you can't just scale it up the way you can with wood. I learned a lot about what it means to work in a lab, what sterility means, what the organism needs. That was a very hard and expensive lesson to learn."
+
+"At first, I didn't know how to read a plasmid map. I didn't understand induction. I just knew this was a circular piece of DNA I could transform into a bacterium, and that bacterium would then produce the protein, which to me was magic."
+
+What followed was a stretch of failure. "I went through the transformation, the mini-preps, the growing-up process, the purification process, and I was like, 'Why isn't this working?' Then I looked at [the map of the genetic material] and realized there was no promoter in the plasmid."
+
+"That was a really eye-opening experience, realizing the vastness of what I didn't know. If I don't know why a protein isn't working the way I want it to, if I can't read a plasmid map, if I don't understand the machinery behind all of it, I won't be able to troubleshoot. So it really forced me to slow down and understand every piece of the plasmid map, understand the cloning process, and get better at all of these steps. That was the most eye-opening and transformative mistake."
+
+----------------------------------------
+
+ 
+
+Brian Houstle is one of the co-leads of the Genspace Biomaterial's Studio. Learn more this weekend at Source Materials: A Bioart Exhibit at Flux IV this Friday September 18 through Sunday September 20th.
+
+COMING UP AT GENSPACE
+
+Source Materials: A Bioart Exhibit
+Join us on September 18th for the opening reception of Source Material, a group BioArt Exhibition at Flux IV.…
+Eventbrite
+
+Pivot to Growth: Break into Biotech Capstone · Luma
+Join us to mix and mingle with industry professionals and explore opportunities in the rapidly growing NYC biotech sect…
+Casey Lardner
+
+First Thursdays at Genspace: RNA
+Monthly open house featuring notable members of our community! Join us for lighting talks followed by an hour of networ…
+Eventbrite
+
+Sunset Park Open Studios Genspace Lab Tours
+Get a free tour Genspace and learn about art created in a molecular biology lab.
+Eventbrite
+
+Genspace Open Lab
+Wondering what we’re up to? Come say hi and learn about community biology!
+Eventbrite
+
+COMMUNITY EVENTS • OPPORTUNITIES • JOBS
+
+----------------------------------------
+
+ 
+
+Community Events
+
+• 9/19-21 - Coney Island Makerfaire
+• 9/18-/20 - GBS BioArt Exhibit: Source Materials
+• 9/22 - Pioneer Works Science and Society: The Ocean Frontier
+• 9/23 Gotham Foundry Symposium: Regenerative Materials Across Industries
+• 9/24 - The New School Climate Desk Live: AI, Energy, and Our Fight for Democracy and a Healthy, Affordable Future
+• Science After Dark: Ask a Scientist, Hudson River Park
+• 9/25 - Finding your Math Roots, Simons Foundation
+• 9/25 - Pioneer Works: Floodlines
+
+Opportunities
+
+• Made to Matter: Biofabrication in Fashion, Genspace
+• Sky High Farm Fellowship Program
+• Protected Species Observer Certificate Course with Gotham Bat Conservancy
+• Ayatana's Biophilium Mycophilia: Mushroom School for Artists
+• Homeworld Academy: Fundamentals in Biotech Translation and Climate Impact
+• Quantitative Research Assistant, Glisten
+• Cientifico Latino Academy Call for Mentors
+• Rearc Institute Center for Planetary Pedagogies: 2026 Edition
+• Biodesign Challenge 2027
+• AAPS Strategic Communication for Participatory Science Practitioners Course
+
+Jobs
+
+• Lab Operations Specialist, Immunai
+• Associate Editor - Life Sciences, PLOS One
+• Program Associate, Bioquest, RTW Foundation
+• Program Director, Innovation Fellows Initiative, Cornell Tech (NYC)
+• Multiple Positions, Grow NYC
+• Office Coordinator | Office of University Life and Community Engagement, The Rockefeller University
+• Forest Resoration Site Coordinator, Natural Areas Conservancy
+• Multiple Positions, Raising Health Partners
+• Carbon Farm Planner Coordinator, NY Textile Lab
+• Senior Bioinformatics Programmer, NYU Grossman
+• Senior Advisor and Director, Workforce Development Board, Office of the Mayor
+• Multiple Positions, Bridge to Enter Advanced Mathematics
+• Multiple Positions, ExpandED
+• Multiple Positions, Streetlab
+
+Genspace © 2026 –
