@@ -8425,5 +8425,1774 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-23T07:19:10.817Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-19-makemake-presents-sensorium-world",
+    "title": "MAKEMAKE Presents: Sensorium World",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-19",
+    "description": "A part-dystopian-opera, part-technological-breakthrough work imagining a future where AI listens to human expression rather than controlling it, questioning what defines a voice and a person.",
+    "url": "https://www.nationalsawdust.org/event/visionintoart-in-residence-sensorium-world",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Climate & environmental art, ecology, speculative futures"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.613Z"
+  },
+  {
+    "id": "national-sawdust-2026-09-26-erik-hall-music-for-18-musicians-canto-o",
+    "title": "Erik Hall: Music for 18 Musicians & Canto Ostinato (Performance + Spatial Audio Installation)",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-09-26",
+    "time_start": "19:30",
+    "description": "Multi-instrumentalist Erik Hall performs his acclaimed solo re-imagining of Steve Reich's Music for 18 Musicians as a one-man multi-tracked rendition, presented as a spatial audio installation on National Sawdust's immersive Meyer Sound system.",
+    "url": "https://www.nationalsawdust.org/event/erik-hall-music-for-18-musicians-canto-ostinato-performance-spatial-audio-installation",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.607Z"
+  },
+  {
+    "id": "national-sawdust-2026-10-16-dvt-traveling-shoes-experience",
+    "title": "DVT: Traveling Shoes Experience",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-10-16",
+    "time_start": "19:30",
+    "description": "DVT — composer Damani Rhodes, vocalist VADIA, and poet Tongo Eisen-Martin — makes its NYC debut with a collision of jazz, poetry, and soul described as embodied and cathedral-like.",
+    "url": "https://www.nationalsawdust.org/event/dvt-traveling-shoes-experience",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.610Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-17-makemake-presents-wholly-unwinding-a-new",
+    "title": "MAKEMAKE Presents: Wholly Unwinding (A New Musical) - NYC Premiere",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-17",
+    "description": "Blending folk concert, musical, immersive ritual, and dance party, Wholly Unwinding transforms the audience into fellow travelers on a journey of radical self-discovery and embodied healing.",
+    "url": "https://www.nationalsawdust.org/event/visionintoart-in-residence-wholly-unwinding-the-canticle-of-cerebral-palsy-the-songs-of-my-scars-a-new-musical",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.613Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-18-makemake-presents-opera-praktikos-la-son",
+    "title": "MAKEMAKE Presents: Opera Praktikos' La Sonnambula",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-18",
+    "description": "Opera Praktikos reimagines Bellini & Romani's La Sonnambula with accessibility built in from the start, integrating spoken, sung, and signed languages into one expressive whole.",
+    "url": "https://www.nationalsawdust.org/event/opera-praktikos-presents-la-sonnambula",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Worldbuilding, speculative design, design fiction"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.613Z"
+  },
+  {
+    "id": "national-sawdust-2026-12-01-hannah-ishizaki-chiori-miyagawa-and-mark",
+    "title": "Hannah Ishizaki, Chiori Miyagawa, and Mark Campbell: A Thousand Generations",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-12-01",
+    "description": "A one-act chamber opera in 11 scenes for three vocalists, chamber ensemble, and electronics, based on the Japanese folk story 'Tsuru no Ongaeshi,' splitting the narrative between 15th-century Japan and the contemporary U.S. and Japan.",
+    "url": "https://www.nationalsawdust.org/event/hannah-ishizaki-chiori-miyagawa-and-mark-campbell-a-thousand-generations",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Art & technology, generative art, creative coding, new media, interactive installation"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.613Z"
+  },
+  {
+    "id": "national-sawdust-2026-12-11-inti-figgis-vizueta-s-music-for-transiti",
+    "title": "inti figgis-vizueta's Music for Transitions with Andrew Yee and Rothko String Quartet",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-12-11",
+    "description": "Composer inti figgis-vizueta presents Music for Transitions, exploring Indigenous heritage and trans identity through ecstatic soundscapes and group improvisation, with recurring themes of land, wind, rivers, and cosmology.",
+    "url": "https://www.nationalsawdust.org/event/inti-figgis-vizuetas-music-for-transitions-with-andrew-yee-and-rothko-string-quartet",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.615Z"
+  },
+  {
+    "id": "national-sawdust-2027-02-03-emily-wells-mirror-father-a-workshop-per",
+    "title": "Emily Wells - Mirror Father - A Workshop Performance",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2027-02-03",
+    "description": "A workshop performance of Emily Wells' opera-in-progress about a 'mirror father' living the life he might have lived had he come out decades earlier, and his 'phantom daughter,' exploring queerness, art, AIDS, and climate catastrophe.",
+    "url": "https://www.nationalsawdust.org/event/emily-wells-mirror-father-a-workshop-performance",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.616Z"
+  },
+  {
+    "id": "national-sawdust-2027-02-27-peni-candra-rini-s-jiwa-kala-with-shahza",
+    "title": "Peni Candra Rini's Jiwa Kala, with Shahzad Ismaily and Andy McGraw Presented by World Music Institute",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2027-02-27",
+    "description": "Renowned Javanese singer, composer, and gamelan master Peni Candra Rini blends Javanese Sufi poetry with contemporary music, joined by ethnomusicologist Andy McGraw and multi-instrumentalist Shahzad Ismaily.",
+    "url": "https://www.nationalsawdust.org/event/peni-candra-rinis-jiwa-kala-with-shahzad-ismaily-and-andy-mcgraw-presented-by-world-music-institute",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "world-music",
+      "gamelan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Indonesian/Southeast Asian culture, language exchange"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.616Z"
+  },
+  {
+    "id": "national-sawdust-2026-12-06-lpr-presents-s-carey",
+    "title": "LPR Presents: S. Carey",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-12-06",
+    "description": "Bon Iver drummer and solo artist S. Carey performs songs from Watercress, themed around nature and sustainability.",
+    "url": "https://www.nationalsawdust.org/event/lpr-presents-s-carey",
+    "format": "music",
+    "interest_score": 3.1,
+    "tags": [
+      "sustainability"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.614Z"
+  },
+  {
+    "id": "roulette-2026-09-24-the-scores-project-a-book-release-show-w",
+    "title": "The Scores Project: A Book Release Show w/ The Rise of the Novel",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-09-24",
+    "time_start": "20:00",
+    "description": "Scholars of experimental notation discuss their publication The Scores Project, followed by performances from members of The Rise of the Novel.",
+    "url": "https://roulette.org/event/the-scores-project-the-rise-of-the-novel/",
+    "price": "$25",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.639Z"
+  },
+  {
+    "id": "roulette-2026-10-03-firas-zreik-s-tarabesque-new-journeys-in",
+    "title": "Firas Zreik's Tarabesque: New Journeys in Arabic Music (RBA)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-03",
+    "time_start": "20:00",
+    "description": "Composer and master qanun player Firas Zreik marks the release of his new album with a jazz quartet, hybrid ensemble, and an Arab takht.",
+    "url": "https://roulette.org/event/firas-zreik-arabic-music-rba/",
+    "price": "$35",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.640Z"
+  },
+  {
+    "id": "roulette-2026-10-07-x-amendments-carla-kihlstedt-rafael-os-s",
+    "title": "X Amendments: Carla Kihlstedt, Rafael Osés, and Dither (Night 1)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-07",
+    "time_start": "20:00",
+    "description": "An improvised structure for an orchestra of voices, electric guitars, and an audience, using the Bill of Rights as its source material.",
+    "url": "https://roulette.org/event/x-amendments-carla-kihlstedt-rafael-oses-dither/",
+    "price": "$30",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.640Z"
+  },
+  {
+    "id": "roulette-2026-10-08-x-amendments-carla-kihlstedt-rafael-os-s",
+    "title": "X Amendments: Carla Kihlstedt, Rafael Osés, and Dither (Night 2)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-08",
+    "time_start": "20:00",
+    "description": "An improvised structure for an orchestra of voices, electric guitars, and an audience, using the Bill of Rights as its source material (second night).",
+    "url": "https://roulette.org/event/x-amendments-carla-kihlstedt-rafael-oses-dither-2/",
+    "price": "$30",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.640Z"
+  },
+  {
+    "id": "roulette-2026-09-29-bathed-in-sound-james-brandon-lewis-trio",
+    "title": "Bathed in Sound: James Brandon Lewis Trio // Trap Music Orchestra // Angelica Sanchez // Clinton Patterson, Sheela Bringi & Elden Kelly",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-09-29",
+    "time_start": "20:00",
+    "description": "Jazz Generations Initiative Continuum Fellow James Brandon Lewis presents a three-night residency featuring poets, musicians, and artists across generations.",
+    "url": "https://roulette.org/event/james-brandon-lewis-continuum/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.639Z"
+  },
+  {
+    "id": "roulette-2026-10-01-us-v-them-celebrating-silent-barn-w-davi",
+    "title": "US v. Them: Celebrating Silent Barn w/ David Longstreth, Haley Fohr, Mal Devisa, Mutual Benefit, and the Wordless Music String Quartet (Roulette Benefit)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-01",
+    "time_start": "20:00",
+    "description": "A two-night series organized around Ronen Givony's recent book, highlighting the Brooklyn music scene and DIY community of the early aughts.",
+    "url": "https://roulette.org/event/us-v-them-silent-barn-dave-longstreth-haley-fohr-wordless-music-string-quartet/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.639Z"
+  },
+  {
+    "id": "roulette-2026-10-02-us-v-them-the-fiery-furnaces-oneida-and-",
+    "title": "US v. Them: The Fiery Furnaces, Oneida, and Skeletons Big Band",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-02",
+    "time_start": "20:00",
+    "description": "A two-night series organized around Ronen Givony's recent book, highlighting the Brooklyn music scene and DIY community of the early aughts.",
+    "url": "https://roulette.org/event/us-v-them-the-fiery-furnaces-skeletons-big-band/",
+    "price": "$35",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.639Z"
+  },
+  {
+    "id": "roulette-2026-10-06-a-workshop-on-the-music-of-carla-kihlste",
+    "title": "A Workshop on the Music of Carla Kihlstedt",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-06",
+    "time_start": "19:00",
+    "description": "An interactive workshop exploring the ideas behind Carla Kihlstedt's most recent collaboration with Rafael Oses, X Amendments.",
+    "url": "https://roulette.org/event/workshop-carla-kihlstedt/",
+    "price": "$15",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.640Z"
+  },
+  {
+    "id": "metrograph-2026-09-25-this-long-century-presents-salom-lamas-w",
+    "title": "This Long Century Presents: Salomé Lamas (w/ Q&A)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-09-25",
+    "time_start": "19:15",
+    "description": "This Long Century presents a screening of filmmaker Salomé Lamas's 2025 film, followed by a Q&A with the filmmaker.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999005002",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.653Z"
+  },
+  {
+    "id": "metrograph-2026-09-27-ryuichi-sakamoto-opus-q-a-moderated-by-k",
+    "title": "Ryuichi Sakamoto | Opus (Q&A moderated by Kogonada)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-09-27",
+    "time_start": "17:15",
+    "description": "A screening of Ryuichi Sakamoto | Opus followed by a Q&A with cinematographer Bill Kirstein and producer Albert Tholen, moderated by filmmaker Kogonada.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999005011",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.654Z"
+  },
+  {
+    "id": "metrograph-2026-10-03-invisible-adversaries-introduced-by-lynn",
+    "title": "Invisible Adversaries (Introduced by Lynne Sachs)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-03",
+    "time_start": "16:45",
+    "description": "A screening of Valie Export's Invisible Adversaries, introduced by experimental filmmaker Lynne Sachs.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999005019",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.654Z"
+  },
+  {
+    "id": "metrograph-2026-10-17-zvenygora-with-original-score-and-live-m",
+    "title": "Zvenygora (with Original Score and Live Musical Accompaniment by medukha)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-17",
+    "time_start": "12:30",
+    "description": "A screening of Oleksandr Dovzhenko's 1928 avant-garde silent film Zvenygora with an original score and live musical accompaniment by medukha.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999005036",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.655Z"
+  },
+  {
+    "id": "metrograph-2026-09-26-eddington-q-a-with-ari-aster-and-darius-",
+    "title": "Eddington (Q&A with Ari Aster and Darius Khondji)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-09-26",
+    "time_start": "19:50",
+    "description": "A screening of Ari Aster's Eddington followed by a Q&A with director Ari Aster and cinematographer Darius Khondji.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999005008",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.653Z"
+  },
+  {
+    "id": "metrograph-2026-09-27-jollof-films-presents-faat-kin-post-scre",
+    "title": "Jollof Films Presents: Faat Kiné (Post-Screening Discussion)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-09-27",
+    "time_start": "15:00",
+    "description": "A screening of Ousmane Sembène's Faat Kiné followed by a post-screening discussion with Jollof Films.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999005010",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.654Z"
+  },
+  {
+    "id": "metrograph-2026-09-27-fireflies-press-presents-morvern-callar-",
+    "title": "Fireflies Press Presents: Morvern Callar (Introduced by Annabel Brady-Brown)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-09-27",
+    "time_start": "20:00",
+    "description": "A screening of Lynne Ramsay's Morvern Callar introduced by Fireflies Press co-publisher Annabel Brady-Brown.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999000422",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.654Z"
+  },
+  {
+    "id": "metrograph-2026-10-03-the-taking-of-pelham-one-two-three-intro",
+    "title": "The Taking of Pelham One Two Three (Introduced by Genevieve Yue and Erika Balsom, with Book Signing)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-03",
+    "time_start": "14:00",
+    "description": "A screening of The Taking of Pelham One Two Three introduced by film scholars Genevieve Yue and Erika Balsom, with a book signing following.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999000918",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.654Z"
+  },
+  {
+    "id": "metrograph-2026-10-03-sympathy-for-mr-vengeance-introduced-by-",
+    "title": "Sympathy for Mr. Vengeance (Introduced by LEENALCHI, Q&A with Jang Young Gyu)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-03",
+    "time_start": "16:45",
+    "description": "A screening of Park Chan-wook's Sympathy for Mr. Vengeance, introduced by LEENALCHI with a post-screening Q&A with composer Jang Young Gyu, moderated by Goran Topalovic.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004610",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.654Z"
+  },
+  {
+    "id": "metrograph-2026-10-10-earth-with-live-musical-accompaniment-",
+    "title": "Earth (with Live Musical Accompaniment)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-10",
+    "time_start": "18:30",
+    "description": "A screening of Oleksandr Dovzhenko's 1930 silent film Earth with live musical accompaniment by Fima Chupakhin (piano & synths) and Julian Kytasty (bandura & vocals).",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004546",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.654Z"
+  },
+  {
+    "id": "metrograph-2026-10-11-arsenal-with-live-musical-accompaniment-",
+    "title": "Arsenal (with Live Musical Accompaniment by Fima Chupakhin)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-11",
+    "time_start": "17:00",
+    "description": "A screening of Oleksandr Dovzhenko's 1929 silent film Arsenal with live musical accompaniment by Fima Chupakhin on piano & synths.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999005033",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.655Z"
+  },
+  {
+    "id": "metrograph-2026-10-16-paris-was-a-woman-q-a-with-greta-schille",
+    "title": "Paris Was a Woman (Q&A with Greta Schiller & Andrew Weiss, Book Signings)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-16",
+    "time_start": "18:40",
+    "description": "Screenings of Greta Schiller's documentary Paris Was a Woman run October 16-18, with Q&As and book signings with filmmakers Greta Schiller and Andrew Weiss.",
+    "url": "https://metrograph.com/film/?vista_film_id=9999003500",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Contemporary art (general)",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.655Z"
+  },
+  {
+    "id": "the-kitchen-2026-11-08-josiah-mcelheny-instrument-object",
+    "title": "Josiah McElheny: Instrument Object",
+    "venue_id": "the-kitchen",
+    "venue_name": "The Kitchen",
+    "date": "2026-11-08",
+    "description": "An exhibition by Josiah McElheny on view September 10 through November 8, exploring musical instruments as sculptural objects at the intersection of sound and visual art.",
+    "url": "https://thekitchen.org/on-view/instrument-object/",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.670Z"
+  },
+  {
+    "id": "the-kitchen-2026-10-21-instrument-object-reading-group",
+    "title": "Instrument Object: Reading Group",
+    "venue_id": "the-kitchen",
+    "venue_name": "The Kitchen",
+    "date": "2026-10-21",
+    "description": "A reading group running October 21 through November 4 held in conjunction with Josiah McElheny's Instrument Object exhibition.",
+    "url": "https://thekitchen.org/on-view/as-part-of-instrument-object-/",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [
+      "reading-group"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:28.671Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-24-photosynthetic-cities-blue-and-green-inf",
+    "title": "Photosynthetic Cities: Blue and Green Infrastructure for Resilient Urban Systems",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-24",
+    "time_start": "15:00",
+    "time_end": "19:30",
+    "description": "A talk on blue-green infrastructure strategies—wetlands, green roofs, and urban forestry—for building climate-resilient cities.",
+    "url": "https://calendar.aiany.org/2026/09/24/photosynthetic-cities-blue-and-green-infrastructure-for-resilient-urban-systems/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "infrastructure",
+      "green-infrastructure"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Architecture & urbanism",
+      "Climate & Environment",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.850Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-26-an-evening-with-liz-diller",
+    "title": "An Evening with Liz Diller",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-26",
+    "description": "A talk with architect Elizabeth Diller of Diller Scofidio + Renfro, whose interdisciplinary practice spans architecture, art, and technology.",
+    "url": "https://calendar.aiany.org/2026/09/26/an-evening-with-liz-diller/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Art & technology, generative art, creative coding, new media, interactive installation"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.852Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-23-aiany-architecture-cruise-climate-change",
+    "title": "AIANY Architecture Cruise: Climate Change, Architecture, and the Future of NYC",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-23",
+    "time_start": "14:45",
+    "time_end": "17:30",
+    "description": "A boat tour spotlighting NYC waterfront sites and buildings shaped by climate change and environmental justice concerns.",
+    "url": "https://calendar.aiany.org/2026/09/23/aiany-architecture-cruise-climate-change-architecture-and-the-future-of-nyc-5/",
+    "format": "tour",
+    "interest_score": 3.6,
+    "tags": [
+      "climate-change",
+      "environmental-justice"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Climate & environmental art, ecology, speculative futures",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.848Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-24-aiany-architecture-cruise-climate-change",
+    "title": "AIANY Architecture Cruise: Climate Change, Architecture, and the Future of NYC",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-24",
+    "time_start": "14:15",
+    "time_end": "17:00",
+    "description": "A boat tour spotlighting NYC waterfront sites and buildings shaped by climate change and environmental justice concerns.",
+    "url": "https://calendar.aiany.org/2026/09/24/aiany-architecture-cruise-climate-change-architecture-and-the-future-of-nyc-6/",
+    "format": "tour",
+    "interest_score": 3.6,
+    "tags": [
+      "climate-change",
+      "environmental-justice"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Climate & environmental art, ecology, speculative futures",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.849Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-25-aiany-architecture-cruise-climate-change",
+    "title": "AIANY Architecture Cruise: Climate Change, Architecture, and the Future of NYC",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-25",
+    "time_start": "14:15",
+    "time_end": "17:00",
+    "description": "A boat tour spotlighting NYC waterfront sites and buildings shaped by climate change and environmental justice concerns.",
+    "url": "https://calendar.aiany.org/2026/09/25/aiany-architecture-cruise-climate-change-architecture-and-the-future-of-nyc-7/",
+    "format": "tour",
+    "interest_score": 3.6,
+    "tags": [
+      "climate-change",
+      "environmental-justice"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Climate & environmental art, ecology, speculative futures",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.851Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-25-preparing-for-the-future-at-the-water-s-",
+    "title": "Preparing for the Future at the Water's Edge: Resiliency of Lower Manhattan",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-25",
+    "description": "A talk on resiliency planning for Lower Manhattan's waterfront in the face of climate change.",
+    "url": "https://calendar.aiany.org/2026/09/25/preparing-for-the-future-at-the-waters-edge-resiliency-of-lower-manhattan-2/",
+    "format": "talk",
+    "interest_score": 3.6,
+    "tags": [
+      "water",
+      "climate-change"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Architecture & urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.851Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-23-regenerative-design-embracing-a-new-old-",
+    "title": "Regenerative Design: Embracing a New-Old Mindset",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-23",
+    "time_start": "09:00",
+    "time_end": "11:00",
+    "description": "A continuing-education talk exploring regenerative design principles that blend traditional building wisdom with contemporary sustainability practice.",
+    "url": "https://calendar.aiany.org/2026/09/23/regenerative-design-embracing-a-new-old-mindset/",
+    "format": "talk",
+    "interest_score": 3.1,
+    "tags": [
+      "sustainability"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Climate & environmental art, ecology, speculative futures",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.848Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-26-walking-tour-contemporary-architecture-a",
+    "title": "Walking Tour: Contemporary Architecture and Historic Landmarks in NoHo",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-26",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A guided walking tour surveying contemporary buildings alongside historic landmarks in NoHo.",
+    "url": "https://calendar.aiany.org/2026/09/26/walking-tour-contemporary-architecture-and-historic-landmarks-in-noho-26/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.851Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-26-walking-tour-the-architecture-of-east-42",
+    "title": "Walking Tour: The Architecture of East 42nd Street",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-26",
+    "time_start": "13:30",
+    "time_end": "15:30",
+    "description": "A guided walking tour of the architecture along East 42nd Street.",
+    "url": "https://calendar.aiany.org/2026/09/26/walking-tour-the-architecture-of-east-42nd-street-10/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.851Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-27-brunch-build-competition-designing-housi",
+    "title": "Brunch & Build Competition: Designing Housing for 2035",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-27",
+    "description": "A design competition and brunch event challenging participants to envision housing solutions for 2035.",
+    "url": "https://calendar.aiany.org/2026/09/27/brunch-build-competition-designing-housing-for-2035/",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "housing"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.852Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-28-book-talk-out-there-new-architecture-acr",
+    "title": "Book Talk – Out There: New Architecture Across America",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-28",
+    "time_start": "17:30",
+    "time_end": "19:30",
+    "description": "Co-authors Cathleen McGuigan and Peter MacKeith join AIA Gold Medalist Marlon Blackwell to discuss their new book on architecture beyond major coastal cities.",
+    "url": "https://calendar.aiany.org/2026/09/28/book-talk-out-there-new-architecture-across-america/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.852Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-29-the-ai-driven-aec-practice-from-concept-",
+    "title": "The AI-Driven AEC Practice: From Concept to Construction",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-29",
+    "time_start": "10:30",
+    "time_end": "11:30",
+    "description": "A talk examining how artificial intelligence tools are transforming architecture, engineering, and construction workflows.",
+    "url": "https://calendar.aiany.org/2026/09/29/the-ai-driven-aec-practice-from-concept-to-construction/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "artificial-intelligence"
+    ],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Architecture & urbanism",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.852Z"
+  },
+  {
+    "id": "cooper-union-2026-09-24-the-diane-lewis-student-lecture-series-d",
+    "title": "The Diane Lewis Student Lecture Series | Dan Kershaw: Ephemeral Exhibitions and Impermanent Permanent Museum Design",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-09-24",
+    "time_start": "18:30",
+    "description": "Dan Kershaw discusses ephemeral exhibition design and the tension between impermanence and permanence in museum architecture.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/diane-lewis-student-lecture-series-dan-kershaw-ephemeral-exhibitions",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.877Z"
+  },
+  {
+    "id": "cooper-union-2026-10-06-screening-and-panel-discussion-maintenan",
+    "title": "Screening and Panel Discussion | Maintenance Artist",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-06",
+    "time_start": "18:30",
+    "description": "A screening and panel discussion on the practice and legacy of maintenance art, likely centered on the work of Mierle Laderman Ukeles.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.878Z"
+  },
+  {
+    "id": "cooper-union-2026-10-15-seeing-together-photography-through-lang",
+    "title": "Seeing Together: Photography Through Language and the Senses",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-15",
+    "time_start": "18:00",
+    "description": "A talk examining the intersections of photography, language, and sensory perception.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/seeing-together-photography-through-language-and-senses",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "perception",
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Neuroscience, AI & Cognitive Science",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.878Z"
+  },
+  {
+    "id": "printed-matter-2026-10-28-risolab-talks-vol-5-travess-smalley-kyle",
+    "title": "RisoLAB Talks vol. 5: Travess Smalley & Kyle Canyon in Conversation",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-28",
+    "description": "Digital and glitch artist Travess Smalley talks with Kyle Canyon about riso printing, digital tools, and image-making, moderated by Panayiotis Terzis.",
+    "url": "https://www.printedmatter.org/programs/events/2289",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.895Z"
+  },
+  {
+    "id": "printed-matter-2026-09-24-2026-ny-art-book-fair",
+    "title": "2026 NY Art Book Fair",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-24",
+    "description": "Printed Matter's flagship art book fair returns with 300+ exhibitors from 41 countries showcasing artists' books, zines, and independent publishing.",
+    "url": "https://www.printedmatter.org/programs/events/2284",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.893Z"
+  },
+  {
+    "id": "printed-matter-2026-09-27-five-cuts-in-five-acts-curated-by-justin",
+    "title": "Five Cuts in Five Acts — Curated by Justine Kurland",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-27",
+    "description": "A curated photography presentation featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, and Chen Xiangyun.",
+    "url": "https://www.printedmatter.org/programs/events/2290",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.894Z"
+  },
+  {
+    "id": "printed-matter-2026-09-27-bark-of-millions-book-signing-with-taylo",
+    "title": "Bark of Millions — Book Signing with Taylor Mac and Matt Ray",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-27",
+    "description": "A book signing with interdisciplinary performance artist Taylor Mac and composer Matt Ray.",
+    "url": "https://www.printedmatter.org/programs/events/2288",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.894Z"
+  },
+  {
+    "id": "printed-matter-2026-10-27-nina-katchadourian-s-seat-assignment-ele",
+    "title": "Nina Katchadourian's Seat Assignment: eleven years of making art on airplanes",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-27",
+    "description": "A talk with conceptual artist Nina Katchadourian on eleven years of her in-flight art project Seat Assignment.",
+    "url": "https://www.printedmatter.org/programs/events/2271",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "conceptual-art"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.895Z"
+  },
+  {
+    "id": "printed-matter-2026-11-05-the-radical-unpresent-gregory-sholette-i",
+    "title": "The Radical Unpresent — Gregory Sholette in conversation with Naeem Mohaiemen",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-05",
+    "description": "Artist and critic Gregory Sholette discusses political and institutional-critique art history with artist Naeem Mohaiemen.",
+    "url": "https://www.printedmatter.org/programs/events/2291",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.895Z"
+  },
+  {
+    "id": "printed-matter-2026-10-01-melissa-auf-der-maur-my-90s-rock-photogr",
+    "title": "Melissa Auf der Maur: My '90s Rock Photographs",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-01",
+    "description": "Musician-photographer Melissa Auf der Maur discusses her 1990s rock photography in conversation with Laia Garcia-Furtado.",
+    "url": "https://www.printedmatter.org/programs/events/2283",
+    "format": "talk",
+    "interest_score": 2.2,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.894Z"
+  },
+  {
+    "id": "printed-matter-2026-09-25-have-you-heard-the-art-market-is-down",
+    "title": "Have you heard? The art market is down",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-25",
+    "description": "Launch of a new zine by Derrick Adams presented offsite as part of NY Art Book Fair programming.",
+    "url": "https://www.printedmatter.org/programs/events/2294",
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.893Z"
+  },
+  {
+    "id": "printed-matter-2026-09-26-torbj-rn-r-dland-dim-revelations",
+    "title": "Torbjørn Rødland: Dim Revelations",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-26",
+    "description": "A book signing with photographer Torbjørn Rødland at the New York Art Book Fair.",
+    "url": "https://www.printedmatter.org/programs/events/2285",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.893Z"
+  },
+  {
+    "id": "printed-matter-2026-09-26-joseph-rovegno-030426-0526",
+    "title": "Joseph Rovegno: 030426 / 0526",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-26",
+    "description": "A book signing with photographer Joseph Rovegno at the New York Art Book Fair.",
+    "url": "https://www.printedmatter.org/programs/events/2293",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.894Z"
+  },
+  {
+    "id": "printed-matter-2026-09-26-bricolage-magazine-7-a-signing-with-tom-",
+    "title": "Bricolage Magazine #7: A Signing with Tom Sachs",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-26",
+    "description": "A signing for the seventh issue of Bricolage Magazine with artist Tom Sachs.",
+    "url": "https://www.printedmatter.org/programs/events/2292",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.894Z"
+  },
+  {
+    "id": "printed-matter-2026-10-07-mat-as-duville-monitor-yin-yang",
+    "title": "Matías Duville: Monitor Yin Yang",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-07",
+    "description": "A book launch and conversation with artist Matías Duville.",
+    "url": "https://www.printedmatter.org/programs/events/2277",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.894Z"
+  },
+  {
+    "id": "nyas-2026-10-13-future-forum-science-for-society",
+    "title": "FUTURE FORUM: Science for Society",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-10-13",
+    "description": "A hybrid forum exploring how science can better serve society.",
+    "url": "https://www.nyas.org/shaping-science/events/future-forum-science-for-society",
+    "price": "free for members",
+    "format": "conference",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.917Z"
+  },
+  {
+    "id": "nyas-2026-11-05-ai-tools-for-literature-review-writing-a",
+    "title": "AI Tools for Literature Review, Writing, and Research Productivity",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-11-05",
+    "description": "A virtual workshop on using AI tools to streamline literature review, writing, and research workflows.",
+    "url": "https://www.nyas.org/shaping-science/events/ai-tools-for-literature-review-writing-and-research-productivity",
+    "price": "free for members",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science, brain-computer interfaces"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.917Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-09-23-fashion-shows-on-film-an-annotated-scree",
+    "title": "Fashion Shows on Film: An Annotated Screening",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-09-23",
+    "description": "An annotated screening of three fashion-show films, live-scored by Makia Matsumura, with Goddesses in the Machine cocurator Michelle Finamore.",
+    "url": "https://www.bgc.bard.edu/events/1636/23-sep-2026-fashion-shows",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.932Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-08-gallery-tour-goddesses-in-the-machine",
+    "title": "Gallery Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-08",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
+    "url": "https://www.bgc.bard.edu/events/1648/08-oct-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.932Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-15-gallery-tour-goddesses-in-the-machine",
+    "title": "Gallery Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-15",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
+    "url": "https://www.bgc.bard.edu/events/1646/15-oct-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.932Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-22-gallery-tour-goddesses-in-the-machine",
+    "title": "Gallery Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-22",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
+    "url": "https://www.bgc.bard.edu/events/1649/22-oct-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.933Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-29-gallery-tour-goddesses-in-the-machine",
+    "title": "Gallery Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-29",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
+    "url": "https://www.bgc.bard.edu/events/1647/29-oct-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.933Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-11-05-gallery-tour-goddesses-in-the-machine",
+    "title": "Gallery Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-11-05",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
+    "url": "https://www.bgc.bard.edu/events/1645/05-nov-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.933Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-11-12-gallery-tour-goddesses-in-the-machine",
+    "title": "Gallery Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-11-12",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
+    "url": "https://www.bgc.bard.edu/events/1650/12-nov-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.933Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-11-19-gallery-tour-goddesses-in-the-machine",
+    "title": "Gallery Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-11-19",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
+    "url": "https://www.bgc.bard.edu/events/1651/19-nov-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.934Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-12-03-gallery-tour-goddesses-in-the-machine",
+    "title": "Gallery Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-12-03",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
+    "url": "https://www.bgc.bard.edu/events/1652/03-dec-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.934Z"
+  },
+  {
+    "id": "poetry-project-2026-09-23--the-only-show-like-this-a-celebration-o",
+    "title": "\"The Only Show Like This\": A Celebration of The Poetry Project at 60",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-09-23",
+    "time_start": "20:30",
+    "description": "A 60th-anniversary celebration of The Poetry Project featuring readings and performances by Benjamin Krusling, Brandon López, and Eileen Myles.",
+    "url": "https://www.poetryproject.org/events/the-only-show-like-this-60-years-of-the-poetry-project",
+    "price": "$20-25",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.950Z"
+  },
+  {
+    "id": "poetry-project-2026-09-29-fragmented-chronosthesia-lineage-communi",
+    "title": "Fragmented Chronosthesia: Lineage, Community, and the Legacy of Bob Flanagan",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-09-29",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A five-session workshop with Mae Howard (running through October 27) exploring lineage, community, and the legacy of performance artist Bob Flanagan.",
+    "url": "https://www.poetryproject.org/events/fragmented-chronosethesia-lineage-community-and-the-legacy-of-bob-flanagan-with-mae-howard",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.951Z"
+  },
+  {
+    "id": "poetry-project-2026-10-07-isaac-jarnot-stacy-szymaszek",
+    "title": "Isaac Jarnot + Stacy Szymaszek",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-10-07",
+    "time_start": "20:00",
+    "description": "A poetry reading featuring Isaac Jarnot and Stacy Szymaszek.",
+    "url": "https://www.poetryproject.org/events/isaac-jarnot-stacy-szymaszek",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:31.952Z"
+  },
+  {
+    "id": "public-records-2026-11-09-durations-triple-canopy-presents-civic-c",
+    "title": "DURATIONS: Triple Canopy presents Civic Crash Course with Chloë Bass, Jeremy Toussaint-Baptiste, Hal Foster",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-09",
+    "time_start": "18:00",
+    "description": "Part of the DURATIONS festival: arts/critical-theory publication Triple Canopy hosts a discussion with artists Chloë Bass and Jeremy Toussaint-Baptiste and critic Hal Foster.",
+    "url": "https://link.dice.fm/Ua4a0f349521",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & critical theory",
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.918Z"
+  },
+  {
+    "id": "public-records-2026-11-10-durations-william-basinski-muein",
+    "title": "DURATIONS: William Basinski, muein",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "description": "Part of the DURATIONS festival: a second night of ambient/tape-loop work from William Basinski.",
+    "url": "https://link.dice.fm/rb97ee1b56f3",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Experimental & electronic music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.918Z"
+  },
+  {
+    "id": "public-records-2026-11-11-durations-william-basinski-chantal-miche",
+    "title": "DURATIONS: William Basinski, Chantal Michelle",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-11",
+    "time_start": "19:00",
+    "description": "Part of the DURATIONS festival: a third night of ambient work from William Basinski.",
+    "url": "https://link.dice.fm/V1e99becf1b8",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Experimental & electronic music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.919Z"
+  },
+  {
+    "id": "public-records-2026-11-12-durations-acid-horizon-presents-civiliza",
+    "title": "DURATIONS: Acid Horizon presents Civilization Is Over with Emma Stamm, Stuart Kendall, essentialsalts",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-12",
+    "time_start": "18:00",
+    "description": "Part of the DURATIONS festival: the continental-philosophy collective Acid Horizon hosts a discussion on civilizational collapse.",
+    "url": "https://link.dice.fm/ee6fb19cbb45",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & critical theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.919Z"
+  },
+  {
+    "id": "public-records-2026-11-12-durations-ballet-buttechno-matana-robert",
+    "title": "DURATIONS: Ballet: buttechno, Matana Roberts, Klein, Significant Other",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-12",
+    "time_start": "19:00",
+    "description": "Part of the DURATIONS festival: experimental sound artists buttechno, Matana Roberts and Klein perform.",
+    "url": "https://link.dice.fm/Uf3b609e4a5b",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Experimental & electronic music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.919Z"
+  },
+  {
+    "id": "public-records-2026-11-13-durations-suzanne-ciani-courtney-bailey-",
+    "title": "DURATIONS: Suzanne Ciani, Courtney Bailey [Live]",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-13",
+    "time_start": "19:00",
+    "description": "Part of the DURATIONS festival: modular-synthesis pioneer Suzanne Ciani performs live.",
+    "url": "https://link.dice.fm/N27939e25678",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental & electronic music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.919Z"
+  },
+  {
+    "id": "public-records-2026-11-14-durations-jjjjjerome-ellis-fred-moten-br",
+    "title": "DURATIONS: JJJJJerome Ellis, Fred Moten & Brandon Lopez",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-14",
+    "time_start": "19:00",
+    "description": "Part of the DURATIONS festival: interdisciplinary sound/disability artist JJJJJerome Ellis performs alongside poet and critical theorist Fred Moten and bassist Brandon Lopez.",
+    "url": "https://link.dice.fm/q378bf53cceb",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental & electronic music",
+      "Philosophy & critical theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.920Z"
+  },
+  {
+    "id": "public-records-2026-09-25-world-music-institute-presents-laura-ita",
+    "title": "World Music Institute presents Laura Itandehui",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-09-25",
+    "time_start": "19:00",
+    "description": "World Music Institute-curated live performance by vocalist/composer Laura Itandehui in the Sound Room.",
+    "url": "https://link.dice.fm/Ve8754d59c86",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.909Z"
+  },
+  {
+    "id": "public-records-2026-09-26-offal-literary-salon-iii-with-special-gu",
+    "title": "offal literary salon iii with special guest megan milks",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-09-26",
+    "time_start": "18:30",
+    "description": "Literary salon and reading series, this edition featuring experimental fiction writer megan milks.",
+    "url": "https://link.dice.fm/Jf136786b16e",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art",
+      "Philosophy & critical theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.910Z"
+  },
+  {
+    "id": "franklin-furnace-2026-09-23-issue-project-room-franklin-furnace-back",
+    "title": "ISSUE Project Room & Franklin Furnace: “Back to the Present” Book Launch at 2026 Brooklyn Book Festival",
+    "venue_id": "franklin-furnace",
+    "venue_name": "Franklin Furnace",
+    "date": "2026-09-23",
+    "time_start": "20:00",
+    "description": "ISSUE Project Room and Franklin Furnace present an evening of performance and conversation marking Franklin Furnace's 50th anniversary and the release of the anthology 'Back to the Present: 50 Years of Free Expression with Franklin Furnace.'",
+    "url": "https://franklinfurnace.org/2026-brooklyn-book-festival-launch/",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art",
+      "Philosophy & critical theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.947Z"
+  },
+  {
+    "id": "rooftop-films-2026-10-13-jennifer-s-body",
+    "title": "Jennifer's Body",
+    "venue_id": "rooftop-films",
+    "venue_name": "Rooftop Films",
+    "date": "2026-10-13",
+    "description": "Screening of the cult horror-comedy 'Jennifer's Body,' presented by Rooftop Films.",
+    "url": "https://rooftopfilms.com/event/jennifers-body/",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.961Z"
+  },
+  {
+    "id": "fridman-gallery-2026-10-18-dindga-mccannon-yesterday-and-today",
+    "title": "Dindga McCannon: Yesterday and Today",
+    "venue_id": "fridman-gallery",
+    "venue_name": "Fridman Gallery",
+    "date": "2026-10-18",
+    "description": "Exhibition of new and historic work by Black feminist printmaker, quilter and painter Dindga McCannon, on view September 9 through October 18, 2026.",
+    "url": "https://fridmangallery.com/2026/07/26/exhibitions-dindga-mccannon-yesterday-and-today-09-09-10-15-2026/",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.976Z"
+  },
+  {
+    "id": "time-spans-2027-08-14-time-spans-festival-2027",
+    "title": "TIME:SPANS Festival 2027",
+    "venue_id": "time-spans",
+    "venue_name": "TIME:SPANS Festival",
+    "date": "2027-08-14",
+    "description": "Annual festival dedicated to twenty-first-century contemporary/experimental music, produced by the Earle Brown Music Foundation; full program and tickets to be announced.",
+    "url": "https://timespans.org/program/",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "experimental-music"
+    ],
+    "matched_categories": [
+      "Experimental & electronic music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:23:35.989Z"
   }
 ]

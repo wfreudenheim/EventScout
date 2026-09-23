@@ -147,7 +147,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T15:11:02.739Z"
+    "last_checked": "2026-09-23T07:23:28.667Z"
   },
   {
     "id": "film-forum",
@@ -271,7 +271,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T15:11:02.768Z"
+    "last_checked": "2026-09-23T07:23:28.636Z"
   },
   {
     "id": "issue-project-room",
@@ -329,7 +329,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T15:11:02.758Z"
+    "last_checked": "2026-09-23T07:23:28.650Z"
   },
   {
     "id": "knockdown-center",
@@ -559,7 +559,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T14:55:26.258Z"
+    "last_checked": "2026-09-23T07:23:28.681Z"
   },
   {
     "id": "bam",
@@ -903,7 +903,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T15:13:23.669Z"
+    "last_checked": "2026-09-23T07:23:31.873Z"
   },
   {
     "id": "bitforms",
@@ -1156,7 +1156,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:13:23.677Z"
+    "last_checked": "2026-09-23T07:23:31.890Z"
   },
   {
     "id": "printed-matter",
@@ -1181,7 +1181,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-09-15T14:55:26.381Z"
+    "last_checked": "2026-09-23T07:23:31.905Z"
   },
   {
     "id": "the-shed",
@@ -1309,7 +1309,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:13:23.686Z"
+    "last_checked": "2026-09-23T07:23:31.913Z"
   },
   {
     "id": "mcnally-jackson",
@@ -1652,7 +1652,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.412Z"
+    "last_checked": "2026-09-23T07:23:31.929Z"
   },
   {
     "id": "bard-graduate-center",
@@ -1677,7 +1677,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.642Z"
+    "last_checked": "2026-09-23T07:23:31.946Z"
   },
   {
     "id": "the-stone",
@@ -1869,7 +1869,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:13:23.696Z"
+    "last_checked": "2026-09-23T07:23:31.966Z"
   },
   {
     "id": "center-for-book-arts",
@@ -1892,7 +1892,8 @@
     "generated_scraper": null,
     "relevance_score": 3.5,
     "added_by": "manual",
-    "status": "active"
+    "status": "active",
+    "last_checked": "2026-09-23T07:23:31.977Z"
   },
   {
     "id": "franklin-furnace",
@@ -1916,7 +1917,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:14:57.189Z"
+    "last_checked": "2026-09-23T07:23:35.958Z"
   },
   {
     "id": "emily-harvey-foundation",
@@ -2173,7 +2174,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:14:57.179Z"
+    "last_checked": "2026-09-23T07:23:35.974Z"
   },
   {
     "id": "film-noir-cinema",
@@ -2385,7 +2386,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:14:57.147Z"
+    "last_checked": "2026-09-23T07:23:35.986Z"
   },
   {
     "id": "public-records",
@@ -2409,7 +2410,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:14:57.168Z"
+    "last_checked": "2026-09-23T07:23:35.943Z"
   },
   {
     "id": "nowadays",
@@ -2477,7 +2478,8 @@
     "generated_scraper": null,
     "relevance_score": 3.5,
     "added_by": "manual",
-    "status": "active"
+    "status": "active",
+    "last_checked": "2026-09-23T07:23:36.005Z"
   },
   {
     "id": "wave-farm",
