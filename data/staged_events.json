@@ -10765,5 +10765,778 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-23T07:27:17.969Z"
+  },
+  {
+    "id": "terraza-7-2026-09-28-rom-n-d-az-la-rumba-de-los-lunes",
+    "title": "Román Díaz & La Rumba de los Lunes",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-28",
+    "description": "Master percussionist Román Díaz leads Terraza 7's long-running Monday night Afro-Cuban rumba, a communal, embodied tradition of drumming, song, and dance.",
+    "url": "https://www.terraza7.com/detalles-y-registro/roman-diaz-la-rumba-de-los-lunes-38",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.809Z"
+  },
+  {
+    "id": "terraza-7-2026-09-30-shusmo-arabic-latin-funk",
+    "title": "SHUSMO | Arabic Latin Funk",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-30",
+    "description": "SHUSMO blends Arabic maqam melodies with Latin funk grooves in two live sets, an interdisciplinary fusion of Middle Eastern and Latin American musical traditions.",
+    "url": "https://www.terraza7.com/detalles-y-registro/shusmo-arabic-latin-funk-first-set",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "maqam"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.810Z"
+  },
+  {
+    "id": "terraza-7-2026-09-23-dan-neville-nonet-jazz-inspired-by-colom",
+    "title": "Dan Neville Nonet | Jazz Inspired by Colombia's Pacific Coast",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-23",
+    "description": "Open rehearsal and live sets from the Dan Neville Nonet, performing original jazz compositions inspired by the traditional music of Colombia's Pacific coast.",
+    "url": "https://www.terraza7.com/detalles-y-registro/dan-neville-nonet-jazz-inspired-by-colombias-pacific-coast-open-rehearsal-first-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "traditional-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.807Z"
+  },
+  {
+    "id": "terraza-7-2026-09-24-pasatono-trio-traditional-music-of-the-m",
+    "title": "Pasatono Trio | Traditional Music of the Mixteca, Oaxaca",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-24",
+    "description": "Pasatono Trio performs traditional music of the Mixteca region of Oaxaca, Mexico, across two live sets.",
+    "url": "https://www.terraza7.com/detalles-y-registro/pasatono-trio-traditional-music-of-the-mixteca-oaxaca-first-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "traditional-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.809Z"
+  },
+  {
+    "id": "terraza-7-2026-09-25-moneco-chicha-peruana",
+    "title": "MONECO | Chicha Peruana",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-25",
+    "description": "MONECO brings Peruvian chicha music to Terraza 7 for two live sets of psychedelic Andean cumbia.",
+    "url": "https://www.terraza7.com/detalles-y-registro/moneco-chicha-peruana-first-set-6",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "cumbia",
+      "andean"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.809Z"
+  },
+  {
+    "id": "terraza-7-2026-09-26-rebolu-afro-colombian-sounds-of-new-york",
+    "title": "Rebolu | Afro-Colombian Sounds of New York",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-26",
+    "description": "Rebolu performs Afro-Colombian music rooted in the sounds of the New York diaspora, across two live sets.",
+    "url": "https://www.terraza7.com/detalles-y-registro/rebolu-afro-colombian-sounds-of-new-york-first-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.809Z"
+  },
+  {
+    "id": "terraza-7-2026-09-29-los-vega-son-jarocho",
+    "title": "Los Vega | Son Jarocho",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-29",
+    "description": "Los Vega perform son jarocho, the traditional string and dance music of Veracruz, Mexico, in two live sets.",
+    "url": "https://www.terraza7.com/detalles-y-registro/los-vega-son-jarocho-first-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "son-jarocho"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.809Z"
+  },
+  {
+    "id": "terraza-7-2026-10-02-son-mujeres-salsa",
+    "title": "Son Mujeres | Salsa",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-02",
+    "description": "Son Mujeres, an all-women salsa ensemble, performs two live sets of Latin dance music.",
+    "url": "https://www.terraza7.com/detalles-y-registro/son-mujeres-salsa-first-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "salsa"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.810Z"
+  },
+  {
+    "id": "film-forum-2026-09-24-the-scout-sneak-preview-screening-and-q-",
+    "title": "THE SCOUT: Sneak Preview Screening and Q&A with Paula González-Nasser and Mimi Davila",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-09-24",
+    "time_start": "19:45",
+    "description": "Sneak preview screening of The Scout followed by a Q&A with filmmaker Paula González-Nasser and star Mimi Davila, co-presented by the Gotham Film & Media Institute.",
+    "url": "https://filmforum.org/events/event/the-scout-september-24",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.835Z"
+  },
+  {
+    "id": "film-forum-2026-09-25-the-scout-q-a-with-paula-gonz-lez-nasser",
+    "title": "THE SCOUT: Q&A with Paula González-Nasser and Mimi Davila",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-09-25",
+    "time_start": "18:30",
+    "description": "Screening of The Scout followed by a Q&A with filmmaker Paula González-Nasser and star Mimi Davila, co-presented by The Future of Film is Female.",
+    "url": "https://filmforum.org/events/event/the-scout-september-25",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.835Z"
+  },
+  {
+    "id": "film-forum-2026-09-25-unzipped-q-a-with-isaac-mizrahi-douglas-",
+    "title": "UNZIPPED: Q&A with Isaac Mizrahi, Douglas Keeve & Nina Santisi",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-09-25",
+    "time_start": "20:00",
+    "description": "Screening of Unzipped followed by a Q&A with subject Isaac Mizrahi, director Douglas Keeve, and executive producer Nina Santisi.",
+    "url": "https://filmforum.org/events/event/unzipped-september-25",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.836Z"
+  },
+  {
+    "id": "film-forum-2026-10-04-the-women",
+    "title": "The Women",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-04",
+    "time_start": "19:00",
+    "description": "A single screening of George Cukor's 1939 classic The Women.",
+    "url": "https://my.filmforum.org/the-women-illeana",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.836Z"
+  },
+  {
+    "id": "film-forum-2026-10-26-mikey-and-nicky",
+    "title": "Mikey and Nicky",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-26",
+    "time_start": "20:00",
+    "description": "A single screening of Elaine May's Mikey and Nicky.",
+    "url": "https://filmforum.org/film/mikey-and-nicky",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.836Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-09-24-inside-outside-working-collaborations-in",
+    "title": "Inside Outside: Working Collaborations in Public with Laurie Hawkinson",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-09-24",
+    "time_start": "18:30",
+    "description": "A discussion with architect Laurie Hawkinson on collaborative, site-specific work made for public space.",
+    "url": "https://www.arch.columbia.edu/events/4270-inside-outside-working-collaborations-in-public-with-laurie-hawkinson",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "public-space"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.851Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-09-25-the-library-is-open-30-after-concrete",
+    "title": "THE LIBRARY IS OPEN 30: After Concrete",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-09-25",
+    "time_start": "13:00",
+    "description": "The 30th installment of GSAPP's 'The Library Is Open' series, focused on concrete and its material and architectural legacies.",
+    "url": "https://www.arch.columbia.edu/events/4225-the-library-is-open-30-after-concrete",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.851Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-09-24-msred-lecture-david-lubin-clairmont-grou",
+    "title": "MSRED Lecture: David Lubin, Clairmont Group",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-09-24",
+    "time_start": "13:00",
+    "description": "A lecture in the MSRED series featuring David Lubin of the Clairmont Group, discussing real estate development.",
+    "url": "https://www.arch.columbia.edu/events/4293-msred-lecture-david-lubin-clairmont-group",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.851Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-09-29-tuesday-talks",
+    "title": "Tuesday Talks",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-09-29",
+    "time_start": "12:00",
+    "description": "GSAPP's recurring Tuesday Talks series featuring alumni speakers, held in person and virtually.",
+    "url": "https://www.arch.columbia.edu/events/4275-tuesday-talks",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.851Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-09-29-msred-lecture-marc-holliday-90-msred",
+    "title": "MSRED Lecture: Marc Holliday '90 MSRED",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-09-29",
+    "time_start": "15:00",
+    "description": "A lecture in the MSRED series featuring Columbia alumnus Marc Holliday.",
+    "url": "https://www.arch.columbia.edu/events/4294-msred-lecture-marc-holliday-90-msred",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.851Z"
+  },
+  {
+    "id": "whitney-2026-09-23-exhibition-tour-whitney-biennial-2026",
+    "title": "Exhibition Tour: Whitney Biennial 2026",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-23",
+    "time_start": "13:00",
+    "description": "A guided tour of the Whitney Biennial 2026 on Floor 6.",
+    "url": "https://whitney.org/events/tour-whitney-biennial-2026-floor6",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.865Z"
+  },
+  {
+    "id": "whitney-2026-09-25-exhibition-tour-whitney-biennial-2026",
+    "title": "Exhibition Tour: Whitney Biennial 2026",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-25",
+    "time_start": "13:00",
+    "description": "A guided tour of the Whitney Biennial 2026 on Floor 6.",
+    "url": "https://whitney.org/events/tour-whitney-biennial-2026-floor6",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.866Z"
+  },
+  {
+    "id": "whitney-2026-09-25-minnie-evans-draw-or-die",
+    "title": "Minnie Evans: Draw or Die",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-25",
+    "time_start": "18:00",
+    "description": "A film screening exploring the life and visionary work of self-taught artist Minnie Evans, shown as part of Free Friday Nights. Also screened at 7pm.",
+    "url": "https://whitney.org/events/minnie-evans-film-screening",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.866Z"
+  },
+  {
+    "id": "whitney-2026-09-25-15-minute-tour-highlights-of-the-whitney",
+    "title": "15-Minute Tour: Highlights of the Whitney Biennial 2026",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-25",
+    "time_start": "19:00",
+    "description": "A quick highlights tour of the Whitney Biennial 2026, part of Free Friday Nights programming. Also offered at 7:30pm.",
+    "url": "https://whitney.org/events/whitney-biennial-15-min-ffn-floor6",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.866Z"
+  },
+  {
+    "id": "whitney-2026-09-23-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-23",
+    "time_start": "12:00",
+    "description": "A guided tour of the exhibition \"Untitled\" (America) on Floor 7. Also offered at 3pm.",
+    "url": "https://whitney.org/events/untitled-america-exb-tour",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.865Z"
+  },
+  {
+    "id": "whitney-2026-09-24-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-24",
+    "time_start": "12:00",
+    "description": "A guided tour of the exhibition \"Untitled\" (America) on Floor 7. Also offered at 3pm.",
+    "url": "https://whitney.org/events/untitled-america-exb-tour",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.865Z"
+  },
+  {
+    "id": "whitney-2026-09-25-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-25",
+    "time_start": "12:00",
+    "description": "A guided tour of the exhibition \"Untitled\" (America) on Floor 7.",
+    "url": "https://whitney.org/events/untitled-america-exb-tour",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.865Z"
+  },
+  {
+    "id": "whitney-2026-09-25-free-friday-nights",
+    "title": "Free Friday Nights",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-25",
+    "time_start": "17:00",
+    "time_end": "22:00",
+    "description": "Free admission evening with extended hours, DJ sets, tours, and film screenings across the museum.",
+    "url": "https://whitney.org/visit/free-admission/free-friday-nights",
+    "price": "free",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.866Z"
+  },
+  {
+    "id": "whitney-2026-09-25-15-minute-tour-highlights-of-the-exhibit",
+    "title": "15-Minute Tour: Highlights of the Exhibition \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-25",
+    "time_start": "18:00",
+    "description": "A quick highlights tour of \"Untitled\" (America), part of Free Friday Nights programming. Also offered at 6:30pm.",
+    "url": "https://whitney.org/events/untitled-america-15min-ffn",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.866Z"
+  },
+  {
+    "id": "whitney-2026-09-25-dj-set-fkajazz",
+    "title": "DJ Set: FKAJAZZ",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-09-25",
+    "time_start": "18:00",
+    "time_end": "22:00",
+    "description": "A live DJ set by FKAJAZZ as part of Free Friday Nights.",
+    "url": "https://whitney.org/events/fkajazz-sept25",
+    "price": "free",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.866Z"
+  },
+  {
+    "id": "elsewhere-2026-09-23-dan-english-wendy-eisenberg-bella-litsa",
+    "title": "Dan English, Wendy Eisenberg, Bella Litsa",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-09-23",
+    "time_start": "19:00",
+    "description": "An evening of experimental and improvised music featuring guitarist-composer Wendy Eisenberg alongside Dan English and Bella Litsa.",
+    "url": "https://www.eventbrite.com/e/dan-english-wendy-eisenberg-bella-litsa-tickets-1989033008271",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.888Z"
+  },
+  {
+    "id": "elsewhere-2026-10-15-gilla-band-piss",
+    "title": "Gilla Band, Piss",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-15",
+    "time_start": "19:00",
+    "description": "Irish noise rock band Gilla Band perform live with Piss.",
+    "url": "https://www.eventbrite.com/e/gilla-band-piss-tickets-1990043090454",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "noise"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.895Z"
+  },
+  {
+    "id": "elsewhere-2026-09-24-elsewhere-presents-otto-benson-trans-pec",
+    "title": "Elsewhere Presents: Otto Benson @ Trans Pecos",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-09-24",
+    "time_start": "19:00",
+    "description": "Elsewhere-presented live show with electronic producer Otto Benson at Trans Pecos.",
+    "url": "https://www.eventbrite.com/e/elsewhere-presents-otto-benson-trans-pecos-tickets-1990573645358",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.888Z"
+  },
+  {
+    "id": "elsewhere-2026-09-25-takuya-nakamura-presents-cosmic-jungle",
+    "title": "Takuya Nakamura Presents: Cosmic Jungle",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-09-25",
+    "time_start": "22:30",
+    "description": "Trumpeter and producer Takuya Nakamura curates Cosmic Jungle, a late-night club set blending jazz and electronic textures.",
+    "url": "https://www.eventbrite.com/e/takuya-nakamura-presents-cosmic-jungle-tickets-1990664708731",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.889Z"
+  },
+  {
+    "id": "elsewhere-2026-09-26-elsewhere-presents-jam-city-market-hotel",
+    "title": "Elsewhere Presents: Jam City @ Market Hotel",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-09-26",
+    "time_start": "19:00",
+    "description": "Elsewhere presents experimental electronic producer Jam City performing live at Market Hotel.",
+    "url": "https://www.eventbrite.com/e/elsewhere-presents-jam-city-market-hotel-tickets-1996119515204",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.891Z"
+  },
+  {
+    "id": "elsewhere-2026-10-02-kiefer-shibo",
+    "title": "Kiefer, Shibo",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-02",
+    "time_start": "19:00",
+    "description": "Jazz-inflected electronic producer Kiefer performs live with Shibo.",
+    "url": "https://www.eventbrite.com/e/kiefer-shibo-tickets-1992080179442",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.893Z"
+  },
+  {
+    "id": "elsewhere-2026-10-04-disco-tehran-anniversary-party",
+    "title": "Disco Tehran Anniversary Party",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-04",
+    "time_start": "16:00",
+    "description": "An anniversary party for Disco Tehran, celebrating Iranian disco, funk, and dance music history.",
+    "url": "https://www.eventbrite.com/e/disco-tehran-anniversary-party-tickets-1995466938329",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.895Z"
+  },
+  {
+    "id": "elsewhere-2026-10-14-elsewhere-presents-chanel-beads-knockdow",
+    "title": "Elsewhere Presents: Chanel Beads @ Knockdown Center",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-14",
+    "time_start": "19:00",
+    "description": "Elsewhere presents experimental indie/shoegaze act Chanel Beads performing at Knockdown Center.",
+    "url": "https://www.eventbrite.com/e/elsewhere-presents-chanel-beads-knockdown-center-tickets-1990526398040",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.895Z"
+  },
+  {
+    "id": "elsewhere-2026-10-15-slow-magic-maxo-4evr",
+    "title": "Slow Magic, Maxo, 4evr",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-15",
+    "time_start": "19:00",
+    "description": "Electronic producer Slow Magic performs live with Maxo and 4evr.",
+    "url": "https://www.eventbrite.com/e/slow-magic-maxo-4evr-tickets-1985581729403",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.895Z"
+  },
+  {
+    "id": "elsewhere-2026-09-24-darby-miinds",
+    "title": "Darby, Miinds",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-09-24",
+    "time_start": "18:00",
+    "description": "A club night featuring sets from Darby and Miinds.",
+    "url": "https://www.eventbrite.com/e/darby-miinds-tickets-1991938553836",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.888Z"
+  },
+  {
+    "id": "elsewhere-2026-09-24-oakwood-camping-in-alaska-empty-parking-",
+    "title": "Oakwood, Camping in Alaska, Empty Parking Lot",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-09-24",
+    "time_start": "19:00",
+    "description": "A live indie rock bill featuring Oakwood, Camping in Alaska, and Empty Parking Lot.",
+    "url": "https://www.eventbrite.com/e/oakwood-camping-in-alaska-empty-parking-lot-tickets-1989844285824",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:30:05.888Z"
   }
 ]

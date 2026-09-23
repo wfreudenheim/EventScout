@@ -175,7 +175,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T15:20:13.913Z"
+    "last_checked": "2026-09-23T07:30:05.848Z"
   },
   {
     "id": "anthology-film-archives",
@@ -447,7 +447,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-07-24T17:45:47.752Z"
+    "last_checked": "2026-09-23T07:30:05.863Z"
   },
   {
     "id": "e-flux",
@@ -671,7 +671,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T15:20:13.924Z"
+    "last_checked": "2026-09-23T07:30:05.878Z"
   },
   {
     "id": "the-drawing-center",
@@ -1477,7 +1477,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:20:13.945Z",
+    "last_checked": "2026-09-23T07:30:05.906Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -1985,7 +1985,8 @@
     "generated_scraper": null,
     "relevance_score": 3,
     "added_by": "manual",
-    "status": "active"
+    "status": "active",
+    "last_checked": "2026-09-23T07:30:05.885Z"
   },
   {
     "id": "morus",
@@ -3515,7 +3516,8 @@
     "generated_scraper": null,
     "relevance_score": 3.5,
     "added_by": "manual",
-    "status": "active"
+    "status": "active",
+    "last_checked": "2026-09-23T07:30:05.832Z"
   },
   {
     "id": "lincoln-center-summer",

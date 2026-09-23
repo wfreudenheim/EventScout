@@ -3080,5 +3080,65 @@
     "events_found": 2,
     "events_new": 2,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "terraza-7",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:30:05.833Z",
+    "completed_at": "2026-09-23T07:30:05.833Z",
+    "events_found": 8,
+    "events_new": 8,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "film-forum",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:30:05.849Z",
+    "completed_at": "2026-09-23T07:30:05.849Z",
+    "events_found": 5,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "columbia-gsapp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:30:05.864Z",
+    "completed_at": "2026-09-23T07:30:05.864Z",
+    "events_found": 5,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "whitney",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:30:05.879Z",
+    "completed_at": "2026-09-23T07:30:05.879Z",
+    "events_found": 10,
+    "events_new": 10,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "city-reliquary",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:30:05.886Z",
+    "completed_at": "2026-09-23T07:30:05.886Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "elsewhere",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:30:05.907Z",
+    "completed_at": "2026-09-23T07:30:05.907Z",
+    "events_found": 12,
+    "events_new": 11,
+    "status": "completed"
   }
 ]
