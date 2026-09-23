@@ -4956,5 +4956,1099 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-09-15T15:21:32.903Z"
+  },
+  {
+    "id": "microscope-gallery-2026-10-17-frank-gillette-spectra-obscura-through-o",
+    "title": "Frank Gillette: Spectra Obscura (through Oct 17)",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-10-17",
+    "description": "Solo exhibition of new work by video art pioneer Frank Gillette, on view at Microscope Gallery through October 17. Opened September 10 with an evening reception.",
+    "url": "https://microscopegallery.com/frank-gillette-spectra-obscura/",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.498Z"
+  },
+  {
+    "id": "rockaway-film-festival-2026-09-26-the-adventures-of-prince-achmed-shadow-p",
+    "title": "The Adventures of Prince Achmed + Shadow Puppet Show",
+    "venue_id": "rockaway-film-festival",
+    "venue_name": "Rockaway Film Festival",
+    "date": "2026-09-26",
+    "time_start": "20:00",
+    "description": "A centennial screening of Lotte Reiniger's silhouette-animation classic The Adventures of Prince Achmed, with live original musical accompaniment by Order of the Illusive and a shadow puppet show by Broken Toys. Part of the Sound/Screen program.",
+    "url": "https://www.rockawayfilmfestival.org/events/the-adventures-of-prince-achmed",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Sound & Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.529Z"
+  },
+  {
+    "id": "rockaway-film-festival-2026-10-24-unless-something-goes-terribly-wrong",
+    "title": "Unless Something Goes Terribly Wrong",
+    "venue_id": "rockaway-film-festival",
+    "venue_name": "Rockaway Film Festival",
+    "date": "2026-10-24",
+    "time_start": "19:00",
+    "description": "A documentary screening following the crew of an aging wastewater treatment plant as America's infrastructure begins to fail.",
+    "url": "https://www.rockawayfilmfestival.org/events/unless-something-goes-terribly-wrong",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "infrastructure",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Climate & Environment",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.529Z"
+  },
+  {
+    "id": "rockaway-film-festival-2026-10-10-local-filmmakers-showcase-2026",
+    "title": "Local Filmmakers' Showcase 2026",
+    "venue_id": "rockaway-film-festival",
+    "venue_name": "Rockaway Film Festival",
+    "date": "2026-10-10",
+    "time_start": "17:00",
+    "description": "Rockaway Film Festival's annual celebration of new work by Rockaway-based filmmakers, featuring Kaia Abraham, Artie Brennan, Kiernan Richard Doyle, Kevin Gregory, Emma Hastil, Lazarus, Phil Rodriguez, Keith Roenke, Sahar Sedaghat, Allison Sheriff, and Barrett Lesly Shuler.",
+    "url": "https://www.rockawayfilmfestival.org/events/local-filmmakers-showcase-2026",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.529Z"
+  },
+  {
+    "id": "mono-no-aware-2026-12-02-mono-no-aware-xx-20th-anniversary-expand",
+    "title": "Mono No Aware XX: 20th Anniversary Expanded Cinema Arts Festival",
+    "venue_id": "mono-no-aware",
+    "venue_name": "Mono No Aware",
+    "date": "2026-12-02",
+    "description": "Mono No Aware's 20th anniversary Expanded Cinema Arts Festival, running December 2-13, 2026, celebrating experimental and expanded film practice; call for entries currently open. The Learning Lab closes for the year following the festival.",
+    "url": "http://www.mononoawarefilm.com/call-for-entries-mono-no-aware-xx-2026",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.544Z"
+  },
+  {
+    "id": "vera-list-center-2026-10-09-vlc-forum-2026-prize-presentation-and-co",
+    "title": "VLC Forum 2026: Prize Presentation and Conversation: Rosana Paulino with Diane Lima and Denise Ferreira da Silva",
+    "venue_id": "vera-list-center",
+    "venue_name": "Vera List Center for Art and Politics",
+    "date": "2026-10-09",
+    "description": "Presentation of the Jane Lombard Prize to artist Rosana Paulino, followed by a conversation with curator Diane Lima and philosopher Denise Ferreira da Silva on race, knowledge, and matter.",
+    "url": "https://veralistcenter.org/events/vlc-forum-2026-prize-presentation-and-conversation-rosana-paulino-with-diane-lima-and-denise-ferreira-da-silva",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.556Z"
+  },
+  {
+    "id": "vera-list-center-2026-10-09-vlc-forum-2026-black-feminist-study-grou",
+    "title": "VLC Forum 2026: Black Feminist Study Group",
+    "venue_id": "vera-list-center",
+    "venue_name": "Vera List Center for Art and Politics",
+    "date": "2026-10-09",
+    "description": "A multi-session study group convened as part of the Vera List Center's 2026 Forum, running October 9-31, engaging Black feminist theory and practice.",
+    "url": "https://veralistcenter.org/events/black-feminist-study-group",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.556Z"
+  },
+  {
+    "id": "vera-list-center-2026-10-10-vlc-forum-2026-conversations-with-the-20",
+    "title": "VLC Forum 2026: Conversations with the 2025–2027 Jane Lombard Fellows",
+    "venue_id": "vera-list-center",
+    "venue_name": "Vera List Center for Art and Politics",
+    "date": "2026-10-10",
+    "description": "A public conversation with the current cohort of Jane Lombard Fellows about their ongoing projects and research.",
+    "url": "https://veralistcenter.org/events/vlc-forum-2026-conversations-with-the-2025-2027-jane-lombard-fellows",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.561Z"
+  },
+  {
+    "id": "vera-list-center-2026-10-09-vlc-forum-2026-community-dinner-dream-fu",
+    "title": "VLC Forum 2026: Community Dinner: Dream Futures",
+    "venue_id": "vera-list-center",
+    "venue_name": "Vera List Center for Art and Politics",
+    "date": "2026-10-09",
+    "description": "A community dinner opening the Vera List Center's 2026 Forum, themed around dream futures and collective imagination.",
+    "url": "https://veralistcenter.org/events/vlc-forum-2026-community-dinner-dream-futures",
+    "price": "free",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:13.555Z"
+  },
+  {
+    "id": "blank-forms-2026-10-16-kou-records-at-blank-forms-fall-2026-sea",
+    "title": "Kou Records at Blank Forms—Fall 2026 Season",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-10-16",
+    "description": "A season-long series of concerts and events presented by Kou Records at Blank Forms' Brooklyn space, running October 16 through December 5, 2026.",
+    "url": "https://www.blankforms.org/events/kou-records-at-blank-forms-fall-2026-season",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.461Z"
+  },
+  {
+    "id": "bisr-2026-10-08-huey-p-newton-i-am-we-a-conversation-wit",
+    "title": "Huey P. Newton: I am We: A Conversation with Delio Vásquez",
+    "venue_id": "bisr",
+    "venue_name": "Brooklyn Institute for Social Research",
+    "date": "2026-10-08",
+    "time_start": "19:00",
+    "time_end": "20:30",
+    "description": "A talk exploring Huey P. Newton's political thought, Black Studies, Marxism, and social movements with Delio Vásquez.",
+    "url": "https://thebrooklyninstitute.com/items/events/huey-p-newton-i-am-we-a-conversation-with-delio-vasquez/",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.478Z"
+  },
+  {
+    "id": "data-society-2026-10-07-power-and-resistance-in-the-age-of-tech-",
+    "title": "Power and Resistance in the Age of Tech Oligarchy",
+    "venue_id": "data-society",
+    "venue_name": "Data & Society",
+    "date": "2026-10-07",
+    "description": "The authors of \"Muskism\" and \"Against Tech Oligarchy\" discuss the structural forces shaping tech and state power.",
+    "url": "https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.490Z"
+  },
+  {
+    "id": "culturehub-2026-09-25-livestream-maedeup-weaving-shin-yun-bok",
+    "title": "LIVESTREAM | Maedeup: Weaving Shin Yun-bok",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-09-25",
+    "description": "A live, non-verbal performance directed by Ji-Young Kim that reimagines Korean classical painting through contemporary performance.",
+    "url": "https://culturehub.org/events/maedeup-weaving-shin-yun-bok",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [
+      "painting"
+    ],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.507Z"
+  },
+  {
+    "id": "harvestworks-2026-11-01-in-other-forms",
+    "title": "In Other Forms",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-11-01",
+    "description": "A group exhibition at Harvestworks' digital media arts center running August 29 through November 1, 2026.",
+    "url": "https://www.harvestworks.org/event/in-other-forms/",
+    "format": "gallery",
+    "interest_score": 3.5,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.524Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-25-toney-w-merritt-pgm-1-psychodramas",
+    "title": "Toney W. Merritt Pgm 1: Psychodramas",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-25",
+    "time_start": "18:30",
+    "description": "Retrospective program of experimental films by Toney W. Merritt (also screening Sep 27).",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61927",
+    "format": "screening",
+    "interest_score": 3.8,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.544Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-26-toney-w-merritt-pgm-3-later-work",
+    "title": "Toney W. Merritt Pgm 3: Later Work",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-26",
+    "time_start": "16:00",
+    "description": "Retrospective program of later experimental films by Toney W. Merritt.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61933",
+    "format": "screening",
+    "interest_score": 3.8,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.544Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-23-no-other-land",
+    "title": "No Other Land",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-23",
+    "time_start": "18:30",
+    "description": "Repertory screening of the documentary No Other Land.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61960",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.543Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-23-valentin-nouja-m-pgm-2-re-telling",
+    "title": "Valentin Noujaïm Pgm 2: Re-Telling",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-23",
+    "time_start": "19:00",
+    "description": "Repertory program of experimental short films by artist Valentin Noujaïm.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61992",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.543Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-23-still-life-",
+    "title": "Still Life / 三峡好人",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-23",
+    "time_start": "21:00",
+    "description": "Repertory screening of Jia Zhangke's Still Life.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61969",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.543Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-24-in-vanda-s-room-no-quarto-da-vanda",
+    "title": "In Vanda's Room / No Quarto Da Vanda",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-24",
+    "time_start": "19:00",
+    "description": "Repertory screening of Pedro Costa's In Vanda's Room.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61963",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.543Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-25-screamplay",
+    "title": "Screamplay",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-25",
+    "time_start": "18:45",
+    "description": "Repertory run of the cult horror film Screamplay, screening multiple times daily through Sep 30.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61878",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.544Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-25-toney-w-merritt-pgm-2-vignettes-miniatur",
+    "title": "Toney W. Merritt Pgm 2: Vignettes / Miniatures",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-25",
+    "time_start": "20:30",
+    "description": "Retrospective program of experimental short films by Toney W. Merritt (also screening Sep 26).",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61930",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.544Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-27-bo-harwood-record-release-event-the-kill",
+    "title": "Bo Harwood Record Release Event: The Killing of a Chinese Bookie",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-27",
+    "time_start": "15:45",
+    "description": "A screening of John Cassavetes' The Killing of a Chinese Bookie paired with a record release event for Bo Harwood's film score.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-62140",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.544Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-24-narrow-rooms-jerker",
+    "title": "Narrow Rooms: Jerker",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-24",
+    "time_start": "19:30",
+    "description": "Repertory screening as part of the Narrow Rooms series.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61973",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.543Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-30-a-heart-as-willing-la-corazonada",
+    "title": "A Heart as Willing / La Corazonada",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-30",
+    "time_start": "19:00",
+    "description": "Repertory screening of the Latin American film A Heart as Willing / La Corazonada.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61977",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.544Z"
+  },
+  {
+    "id": "issue-project-room-2026-10-06-in-conversation-kim-brandt-isabella-thor",
+    "title": "In Conversation: Kim Brandt & Isabella Thorpe-Woods",
+    "venue_id": "issue-project-room",
+    "venue_name": "Issue Project Room",
+    "date": "2026-10-06",
+    "time_start": "12:00",
+    "description": "Choreographer Kim Brandt and Isabella Thorpe-Woods discuss never-before-released footage from Brandt's 2016 Pioneer Works commission Clear Night. Streaming online.",
+    "url": "https://issueprojectroom.org/event/conversation-kim-brandt-isabella-thorpe-woods",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.569Z"
+  },
+  {
+    "id": "issue-project-room-2026-10-24-liturgy",
+    "title": "Liturgy",
+    "venue_id": "issue-project-room",
+    "venue_name": "Issue Project Room",
+    "date": "2026-10-24",
+    "time_start": "20:00",
+    "description": "Haela Hunt-Hendrix presents a limited-capacity solo program for looped electric guitar, voice, electronics, and piano, including new compositions.",
+    "url": "https://issueprojectroom.org/event/liturgy",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:17.569Z"
+  },
+  {
+    "id": "e-flux-2026-09-24-planetary-afterimages-after-the-short-ce",
+    "title": "Planetary Afterimages: After The Short Century",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-09-24",
+    "time_start": "17:00",
+    "description": "A screening in the e-flux Screening Room engaging archival and artists' moving-image material addressing decolonization and its afterimages, in dialogue with critical/postcolonial theory. Ticketed via Eventbrite.",
+    "url": "https://www.e-flux.com/events/6783378/planetary-afterimages-after-the-short-century/",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.732Z"
+  },
+  {
+    "id": "e-flux-2026-09-23-bar-laika-presents-playback-0038-with-ny",
+    "title": "Bar Laika presents Playback 0038 with Nyksan",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-09-23",
+    "time_start": "19:00",
+    "description": "A DJ set in e-flux's ongoing Playback series at Bar Laika, e-flux's in-house bar and event space in New York.",
+    "url": "https://www.e-flux.com/events/6783389/bar-laika-presents-playback-0038-with-nyksan/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.730Z"
+  },
+  {
+    "id": "e-flux-2026-10-07-bar-laika-presents-playback-0039-with-to",
+    "title": "Bar Laika presents Playback 0039 with Tomin",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-07",
+    "time_start": "19:00",
+    "description": "A DJ set in e-flux's ongoing Playback series at Bar Laika.",
+    "url": "https://www.e-flux.com/events/6783386/bar-laika-presents-playback-0039-with-tomin/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.732Z"
+  },
+  {
+    "id": "e-flux-2026-10-21-bar-laika-presents-playback-0040-with-so",
+    "title": "Bar Laika presents Playback 0040 with Solpara",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-21",
+    "time_start": "19:00",
+    "description": "A DJ set in e-flux's ongoing Playback series at Bar Laika.",
+    "url": "https://www.e-flux.com/events/6783387/bar-laika-presents-playback-0040-with-solpara/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.732Z"
+  },
+  {
+    "id": "e-flux-2026-11-18-bar-laika-presents-playback-0041-with-ch",
+    "title": "Bar Laika presents Playback 0041 with Chantal Michelle",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-18",
+    "time_start": "19:00",
+    "description": "A DJ set in e-flux's ongoing Playback series at Bar Laika.",
+    "url": "https://www.e-flux.com/events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.733Z"
+  },
+  {
+    "id": "light-industry-2026-10-06-on-a-a-a-offresi",
+    "title": "On A.A.A. Offresi",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-10-06",
+    "description": "A lecture by film scholar Erika Balsom at Light Industry, part of the venue's ongoing series of talks on cinema history and theory.",
+    "url": "https://www.lightindustry.org/aaaoffresi",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.781Z"
+  },
+  {
+    "id": "light-industry-2026-10-05-bette-gordon-s-anybody-s-woman-dorothy-a",
+    "title": "Bette Gordon's Anybody's Woman + Dorothy Arzner's Merrily We Go to Hell",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-10-05",
+    "description": "A double-feature screening presented by The Machine That Kills Bad People, pairing two pre-Code Hollywood films by women directors, at Light Industry's microcinema.",
+    "url": "https://www.lightindustry.org/mtkbp",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.781Z"
+  },
+  {
+    "id": "light-industry-2026-10-18-love-is-strong-as-death-the-antioquian-c",
+    "title": "Love is Strong as Death: The Antioquian Cinema of Luis Alberto Álvarez and Víctor Gaviria",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-10-18",
+    "description": "A screening program on the Antioquian cinema of Colombian critic Luis Alberto Álvarez and filmmaker Víctor Gaviria, presented by the Theater of the Matters and Archipelago Books.",
+    "url": "https://www.lightindustry.org/theater-archipelago",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.782Z"
+  },
+  {
+    "id": "bitforms-2026-09-24-time-frames-siebren-versteeg",
+    "title": "TIME FRAMES: Siebren Versteeg",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-09-24",
+    "description": "An offsite exhibition (at St. John's University Art Gallery, presented in association with bitforms) of five live-feed video artworks by Siebren Versteeg that re-crop, mirror, and pixelate familiar places on flat-screen monitors within painted frames.",
+    "url": "https://sjuartgallery.org/Siebren-Versteeg",
+    "format": "opening",
+    "interest_score": 3.8,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.796Z"
+  },
+  {
+    "id": "bitforms-2026-09-25-shimmer-dreaming-the-posthuman",
+    "title": "Shimmer: Dreaming the Posthuman",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-09-25",
+    "description": "An offsite group exhibition at the Frist Art Museum (Nashville), featuring bitforms artist Marina Zurkow among 16 artists using digital animation, AR/VR, and AI to visualize posthuman entanglements of humanity, other species, and the earth.",
+    "url": "https://fristartmuseum.org/exhibition/shimmer-dreaming-the-posthuman/",
+    "format": "opening",
+    "interest_score": 3.8,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Climate & environmental art, ecology, speculative futures",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.796Z"
+  },
+  {
+    "id": "interference-archive-2026-09-23-screening-discussion-honoring-the-legacy",
+    "title": "Screening & Discussion Honoring the Legacy and Struggle of El Grito de Lares: FILIBERTO by Freddie Marrero Alfonso (2017)",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-09-23",
+    "time_start": "18:30",
+    "description": "A documentary screening honoring the 158th anniversary of El Grito de Lares, followed by a discussion with Adolfina BK, Diaspora Pa'lante Collective NYC/NJ, and JUPI BK on Puerto Rican colonial history and resistance.",
+    "url": "https://interferencearchive.org/event/filirberto-screening-discussion/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary",
+      "diaspora"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.816Z"
+  },
+  {
+    "id": "filmmakers-coop-2026-09-23-long-live-the-underground-celebrating-si",
+    "title": "Long Live the Underground!: Celebrating Six Decades of the Film-Makers' Cooperative and Millennium Film Workshop",
+    "venue_id": "filmmakers-coop",
+    "venue_name": "Film-Makers' Cooperative",
+    "date": "2026-09-23",
+    "time_start": "19:00",
+    "description": "A nine-program series at the Museum of Modern Art (Sept 23-Oct 8) celebrating the simultaneous 65th anniversary of the Film-Makers' Cooperative and 60th anniversary of Millennium Film Workshop, drawing on their shared community of experimental filmmakers and moving-image artists.",
+    "url": "https://film-makerscoop.com/screenings/long-live-the-underground-celebrating-six-decades-of-the-fil",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.848Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-09-27-milford-graves-full-mantis",
+    "title": "Milford Graves: Full Mantis",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-09-27",
+    "description": "A documentary screening at Maysles Documentary Center on percussionist, martial artist, and heart-cell researcher Milford Graves, whose interdisciplinary practice fused free jazz, biology, and healing.",
+    "url": "https://www.maysles.org/calendar/milford-graves-full-mantis-2026",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.861Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-09-24-free-joan-little",
+    "title": "Free Joan Little",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-09-24",
+    "description": "A documentary screening at Maysles Documentary Center on the 1970s Joan Little case and the movement it galvanized.",
+    "url": "https://www.maysles.org/calendar/free-joan-little-sept-2026",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.860Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-09-26-legacy-spirit-of-the-black-panthers",
+    "title": "Legacy: Spirit of the Black Panthers",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-09-26",
+    "description": "A documentary screening at Maysles Documentary Center on the history and legacy of the Black Panther Party.",
+    "url": "https://www.maysles.org/calendar/legacy-spirit-of-the-black-panthers",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.861Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-09-27-an-afternoon-with-ashanti-alston-in-conv",
+    "title": "An Afternoon with Ashanti Alston in Conversation with Joy James",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-09-27",
+    "description": "A free public conversation at Maysles Documentary Center between former Black Panther and anarchist organizer Ashanti Alston and political theorist Joy James.",
+    "url": "https://www.maysles.org/calendar/afternoon-with-ashani-alston",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.861Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-01-ming-of-harlem-twenty-one-stories-in-the",
+    "title": "Ming of Harlem: Twenty One Stories in the Air",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-01",
+    "description": "A documentary screening at Maysles Documentary Center on the true story of a Harlem man who secretly kept a tiger and alligator in his apartment.",
+    "url": "https://www.maysles.org/calendar/ming-of-harlem-twenty-one-stories-in-the-air",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:21.862Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-09-23-long-live-the-underground-at-moma",
+    "title": "Long Live The Underground! at MoMA",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-09-23",
+    "description": "A series celebrating six decades of the Film-makers' Cooperative and Millennium Film Workshop, presented at the Museum of Modern Art from September 23 through October 8, 2026.",
+    "url": "https://www.millenniumfilm.org/",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Experimental animation, video art, moving image, game engine cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.539Z"
+  },
+  {
+    "id": "japan-society-2026-10-08-midtown-cultural-alliance-open-house",
+    "title": "Midtown Cultural Alliance Open House",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-08",
+    "description": "The 3rd MCA Open House brings together four Midtown cultural institutions, including Japan Society, for ten days of free and ticketed programming: gallery exhibitions, performances, language classes, and workshops.",
+    "url": "https://japansociety.org/mca-third-open-house-at-japan-society/",
+    "price": "varies",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.553Z"
+  },
+  {
+    "id": "creative-time-2026-10-23-in-pursuit-of-life-liberty-and-happiness",
+    "title": "In Pursuit of Life, Liberty, and Happiness",
+    "venue_id": "creative-time",
+    "venue_name": "Creative Time",
+    "date": "2026-10-23",
+    "description": "Creative Time and the Brooklyn Museum present a program reimagining American democracy through socially engaged public art and performance.",
+    "url": "https://creativetime.org/projects/pursuit-life-liberty-happiness/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.563Z"
+  },
+  {
+    "id": "wonderville-2026-09-24-brooklyn-experimental-electronic-music-s",
+    "title": "Brooklyn Experimental Electronic Music September Artist Showcase",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-24",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A showcase of Brooklyn-based experimental and electronic music artists (BEEM) at Wonderville's arcade venue.",
+    "url": "https://www.wonderville.nyc/events/beem-9-24-26",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "electronic-music"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.574Z"
+  },
+  {
+    "id": "wonderville-2026-09-29-wonderville-s-last-tuesday-of-the-month-",
+    "title": "Wonderville's Last Tuesday of the month PLAYTEST",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-29",
+    "time_start": "19:00",
+    "time_end": "22:00",
+    "description": "Monthly open playtest night for indie/local game developers to test works-in-progress at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/playtest-9-29-26",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.575Z"
+  },
+  {
+    "id": "wonderville-2026-09-23-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-23",
+    "time_start": "20:00",
+    "description": "Open community play night for Killer Queen, the 10-player arcade cabinet game, at Wonderville's Brooklyn arcade.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-9-23-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.573Z"
+  },
+  {
+    "id": "wonderville-2026-09-26-the-magus-circle-launch-party-",
+    "title": "The Magus Circle Launch Party!",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-26",
+    "time_start": "14:30",
+    "time_end": "17:30",
+    "description": "Launch party for The Magus Circle at Wonderville's arcade, drawing on occult/tarot-adjacent community themes.",
+    "url": "https://www.wonderville.nyc/events/the-magus-circle-launch-party-9-26-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding, speculative design, design fiction"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.574Z"
+  },
+  {
+    "id": "wonderville-2026-09-28-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-28",
+    "time_start": "20:00",
+    "description": "A recurring live artist-run broadcast/TV event hosted at Wonderville's arcade venue.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-9-28-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.575Z"
+  },
+  {
+    "id": "wonderville-2026-09-30-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-30",
+    "time_start": "20:00",
+    "description": "Open community play night for Killer Queen, the 10-player arcade cabinet game, at Wonderville's Brooklyn arcade.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-9-30-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:16:22.576Z"
   }
 ]

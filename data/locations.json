@@ -208,7 +208,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T14:55:26.303Z"
+    "last_checked": "2026-09-23T07:16:17.558Z"
   },
   {
     "id": "spectacle-theater",
@@ -300,7 +300,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T14:55:26.222Z"
+    "last_checked": "2026-09-23T07:16:17.577Z"
   },
   {
     "id": "roulette",
@@ -472,7 +472,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T14:55:26.229Z"
+    "last_checked": "2026-09-23T07:16:21.773Z"
   },
   {
     "id": "artists-space",
@@ -614,7 +614,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T15:03:14.370Z"
+    "last_checked": "2026-09-23T07:16:21.792Z"
   },
   {
     "id": "union-docs",
@@ -932,7 +932,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T15:03:14.397Z"
+    "last_checked": "2026-09-23T07:16:21.808Z"
   },
   {
     "id": "microscope-gallery",
@@ -966,7 +966,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T14:59:55.156Z"
+    "last_checked": "2026-09-23T07:16:13.518Z"
   },
   {
     "id": "caveat",
@@ -1603,7 +1603,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.180Z"
+    "last_checked": "2026-09-23T07:16:13.596Z"
   },
   {
     "id": "rockefeller-university",
@@ -1820,7 +1820,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:05:00.445Z"
+    "last_checked": "2026-09-23T07:16:21.841Z"
   },
   {
     "id": "montez-press-radio",
@@ -2030,7 +2030,8 @@
     "generated_scraper": null,
     "relevance_score": 4.5,
     "added_by": "manual",
-    "status": "active"
+    "status": "active",
+    "last_checked": "2026-09-23T07:16:13.550Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2053,7 +2054,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:05:00.455Z"
+    "last_checked": "2026-09-23T07:16:21.856Z"
   },
   {
     "id": "maysles-documentary-center",
@@ -2077,7 +2078,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:05:00.480Z"
+    "last_checked": "2026-09-23T07:16:21.875Z"
   },
   {
     "id": "millennium-film-workshop",
@@ -2101,7 +2102,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:05:00.464Z"
+    "last_checked": "2026-09-23T07:16:22.549Z"
   },
   {
     "id": "rockaway-film-festival",
@@ -2125,7 +2126,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.318Z"
+    "last_checked": "2026-09-23T07:16:13.538Z"
   },
   {
     "id": "prismatic-ground",
@@ -2240,7 +2241,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.334Z"
+    "last_checked": "2026-09-23T07:16:22.561Z"
   },
   {
     "id": "asia-society",
@@ -2312,7 +2313,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:59:55.176Z"
+    "last_checked": "2026-09-23T07:16:17.468Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2544,7 +2545,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:01:41.905Z"
+    "last_checked": "2026-09-23T07:16:17.488Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2638,7 +2639,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.209Z"
+    "last_checked": "2026-09-23T07:16:17.504Z"
   },
   {
     "id": "n-plus-one",
@@ -2710,7 +2711,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:08:06.006Z"
+    "last_checked": "2026-09-23T07:16:22.570Z"
   },
   {
     "id": "canal-projects",
@@ -2876,7 +2877,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:01:41.914Z"
+    "last_checked": "2026-09-23T07:16:17.521Z"
   },
   {
     "id": "la-mama",
@@ -2923,7 +2924,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:01:41.923Z"
+    "last_checked": "2026-09-23T07:16:17.533Z"
   },
   {
     "id": "onassis-onx",
@@ -2946,7 +2947,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.236Z"
+    "last_checked": "2026-09-23T07:16:17.540Z"
   },
   {
     "id": "index-space",
@@ -3018,7 +3019,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:08:06.026Z"
+    "last_checked": "2026-09-23T07:16:22.593Z"
   },
   {
     "id": "nyu-game-center",

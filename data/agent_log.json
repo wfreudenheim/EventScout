@@ -1910,5 +1910,225 @@
     "events_found": 0,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "microscope-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:13.523Z",
+    "completed_at": "2026-09-23T07:16:13.523Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "rockaway-film-festival",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:13.542Z",
+    "completed_at": "2026-09-23T07:16:13.542Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "mono-no-aware",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:13.552Z",
+    "completed_at": "2026-09-23T07:16:13.552Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "vera-list-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:13.599Z",
+    "completed_at": "2026-09-23T07:16:13.599Z",
+    "events_found": 10,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "blank-forms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:17.472Z",
+    "completed_at": "2026-09-23T07:16:17.472Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bisr",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:17.489Z",
+    "completed_at": "2026-09-23T07:16:17.489Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "data-society",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:17.506Z",
+    "completed_at": "2026-09-23T07:16:17.506Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "culturehub",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:17.522Z",
+    "completed_at": "2026-09-23T07:16:17.522Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "harvestworks",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:17.534Z",
+    "completed_at": "2026-09-23T07:16:17.534Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "onassis-onx",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:17.541Z",
+    "completed_at": "2026-09-23T07:16:17.541Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "anthology-film-archives",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:17.564Z",
+    "completed_at": "2026-09-23T07:16:17.564Z",
+    "events_found": 11,
+    "events_new": 11,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "issue-project-room",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:17.578Z",
+    "completed_at": "2026-09-23T07:16:17.578Z",
+    "events_found": 5,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "e-flux",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:21.779Z",
+    "completed_at": "2026-09-23T07:16:21.779Z",
+    "events_found": 5,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "light-industry",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:21.793Z",
+    "completed_at": "2026-09-23T07:16:21.793Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bitforms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:21.812Z",
+    "completed_at": "2026-09-23T07:16:21.812Z",
+    "events_found": 2,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "interference-archive",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:21.844Z",
+    "completed_at": "2026-09-23T07:16:21.844Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "filmmakers-coop",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:21.857Z",
+    "completed_at": "2026-09-23T07:16:21.857Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "maysles-documentary-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:21.877Z",
+    "completed_at": "2026-09-23T07:16:21.877Z",
+    "events_found": 9,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "millennium-film-workshop",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:22.550Z",
+    "completed_at": "2026-09-23T07:16:22.550Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "japan-society",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:22.562Z",
+    "completed_at": "2026-09-23T07:16:22.562Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "creative-time",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:22.572Z",
+    "completed_at": "2026-09-23T07:16:22.572Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:16:22.594Z",
+    "completed_at": "2026-09-23T07:16:22.594Z",
+    "events_found": 7,
+    "events_new": 6,
+    "status": "completed"
   }
 ]
