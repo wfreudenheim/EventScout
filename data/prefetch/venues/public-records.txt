@@ -1,6 +1,6 @@
 VENUE:public-records | Public Records
 URL:https://publicrecords.nyc/
-FETCHED:2026-09-20T11:45:10.124Z
+FETCHED:2026-09-23T06:53:36.515Z
 
 PUBLIC RECORDS aims to create space that catalyzes disconnection from the material world and reconnection to nature, ourselves, and each other. We believe pleasure, responsibility, and action can and should coexist. We see sound as a universal language that opens new ways of seeing and being
 
@@ -71,18 +71,6 @@ Sunday: 10a–9p
 
 EVENT CALENDAR
 All, Club, Live, Etc. Durations [https://www.durations.world/]
-Sun 9.20
-Club, 3:00 pm,
-The Nursery
-The Nursery: Moxie, Sinéad Get tickets
-Get tickets
-[https://link.dice.fm/L094c1c27297]
-Tue 9.22
-Live, 7:00 pm,
-Sound Room
-Sister Midnight presents Gabriela Richardson, Broom Get tickets
-Get tickets
-[https://link.dice.fm/s22da3f1c8b6]
 Wed 9.23
 Etc, 7:00 pm,
 Sound Room
@@ -265,15 +253,15 @@ Get tickets
 Thu 10.15
 Club, Live, 8:00 pm,
 Sound Room
-Hearts & Diamonds: Midnight Magic [Live] with Three of Hearts [Rok One, Andi, Danny White] Get tickets
-Get tickets
-[https://link.dice.fm/N38ca3e9407f]
-Thu 10.15
-Club, Live, 8:00 pm,
-Sound Room
 Razor-N-Tape presents A Joyful Noise [Live], Special Guests Get tickets
 Get tickets
 [https://link.dice.fm/n2cf9cd6fd92]
+Thu 10.15
+Club, Live, 8:00 pm,
+Sound Room
+Hearts & Diamonds: Midnight Magic [Live] with Three of Hearts [Rok One, Andi, Danny White] Get tickets
+Get tickets
+[https://link.dice.fm/N38ca3e9407f]
 Fri 10.16
 Live, 7:00 pm,
 Sound Room
@@ -304,6 +292,12 @@ The Atrium
 The Atrium: Soul Summit All Day Long Get tickets
 Get tickets
 [https://link.dice.fm/t1530d7c71ff]
+Wed 10.21
+Live, 7:00 pm,
+Sound Room
+Louis Prince, Maximilian Gordon, Justin Strauss [DJ] Get tickets
+Get tickets
+[https://link.dice.fm/z33713e7053c]
 Thu 10.22
 Live, 7:00 pm,
 Sound Room
@@ -389,16 +383,16 @@ DURATIONS: Triple Canopy presents Civic Crash Course with Chloë Bass, Jeremy To
 Get tickets
 [https://link.dice.fm/Ua4a0f349521]
 Mon 11.9
-Festival, 7:00 pm
-DURATIONS Festival 2026 Get tickets
-Get tickets
-[https://link.dice.fm/B0381fb292fc]
-Mon 11.9
 Live, 7:00 pm,
 Sound Room
 DURATIONS: William Basinski, Cholla Get tickets
 Get tickets
 [https://link.dice.fm/e57306599f8c]
+Mon 11.9
+Festival, 7:00 pm
+DURATIONS Festival 2026 Get tickets
+Get tickets
+[https://link.dice.fm/B0381fb292fc]
 Tue 11.10
 Live, 7:00 pm,
 Sound Room

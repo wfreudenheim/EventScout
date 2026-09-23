@@ -1,6 +1,6 @@
 VENUE:recess-art | Recess
 URL:https://www.recessart.org/
-FETCHED:2026-09-20T11:45:11.065Z
+FETCHED:2026-09-23T06:53:38.108Z
 
 Skip to content
 Recess homepage [/]
@@ -8,7 +8,7 @@ Open main menu
 On View September 19 – Oct 24, 2026: The Khajistan Institute for Advanced Research and Necessary Development
 [https://www.recessart.org/projects/605-the-khajistan-institute-for-advanced-research-and-necessary-development]
 
-September 20, 2026
+September 23, 2026
 
 ARTISTS & YOUTH AS VISIONARIES IN AN ECOSYSTEM  OF CARE AND ACCOUNTABILITY
 
@@ -90,5 +90,5 @@ Shop [https://recessart.bigcartel.com/]
 
 EXPLORE THEMES
 
-Equity [/explore?theme=7] Abolition [/explore?theme=8] Environmental Justice [/explore?theme=19] Archival Work [/explore?theme=21] Queerness [/explore?theme=15] Care [/explore?theme=6] Assembly [/explore?program=3-assembly] Indigeneity [/explore?theme=20] Somatics [/explore?theme=13] Critical Writing [/explore?program=5-critical-writing] Disability Justice [/explore?theme=9] Economics [/explore?theme=11] Session [/explore?program=4-session] Gender [/explore?theme=12] Race [/explore?theme=16] Blackness [/explore?theme=10]
+Archival Work [/explore?theme=21] Economics [/explore?theme=11] Queerness [/explore?theme=15] Somatics [/explore?theme=13] Care [/explore?theme=6] Critical Writing [/explore?program=5-critical-writing] Indigeneity [/explore?theme=20] Disability Justice [/explore?theme=9] Assembly [/explore?program=3-assembly] Environmental Justice [/explore?theme=19] Gender [/explore?theme=12] Race [/explore?theme=16] Equity [/explore?theme=7] Abolition [/explore?theme=8] Blackness [/explore?theme=10] Session [/explore?program=4-session]
 Donate [https://www.recessart.org/donate]

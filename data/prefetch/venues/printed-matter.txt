@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-09-20T11:45:09.438Z
+FETCHED:2026-09-23T06:53:34.646Z
 
 PRINTED MATTER, INC.
 
@@ -179,16 +179,6 @@ September 25, 2026
 
 EventOffsite
 
-Joseph Rovegno: 030426 / 0526
-
-A Book Signing with Photographer Joseph Rovegno
-
-September 26, 2026
-
-[/programs/events/2293]
-
-EventOffsite
-
 Torbjørn Rødland: Dim Revelations
 
 Book Signing at New York Art Book Fair
@@ -199,13 +189,13 @@ September 26, 2026
 
 EventOffsite
 
-Five Cuts in Five Acts — Curated by Justine Kurland
+Joseph Rovegno: 030426 / 0526
 
-Featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, & Chen Xiangyun
+A Book Signing with Photographer Joseph Rovegno
 
-September 27, 2026
+September 26, 2026
 
-[/programs/events/2290]
+[/programs/events/2293]
 
 EventOffsite
 
@@ -214,9 +204,19 @@ A Signing with Tom Sachs
 
 The Seventh Issue of Bricolage Magazine. In Print Since ‘09
 
-September 27, 2026
+September 26, 2026
 
 [/programs/events/2292]
+
+EventOffsite
+
+Five Cuts in Five Acts — Curated by Justine Kurland
+
+Featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, & Chen Xiangyun
+
+September 27, 2026
+
+[/programs/events/2290]
 
 EventOffsite
 
@@ -245,6 +245,16 @@ Book Launch and Conversation
 October 7, 2026
 
 [/programs/events/2277]
+
+Event
+
+Positions by K8 Hardy
+
+Launch and Conversation
+
+October 8, 2026
+
+[/programs/events/2295]
 
 EventChelsea
 

@@ -1,6 +1,6 @@
 VENUE:artists-space | Artists Space
 URL:https://artistsspace.org/
-FETCHED:2026-09-20T11:45:08.103Z
+FETCHED:2026-09-23T06:53:32.659Z
 
 ARTISTS SPACE [https://artistsspace.org/home]
 
@@ -13,4 +13,4 @@ Ei Arakawa: Social Muscle Rehab (outdoor performance). Performance documentation
 11 Cortlandt Alley, New York
 Wednesday – Saturday
 Noon to 6pm
-https://artistsspace.org/sun:set
+https://artistsspace.org/sun:rise

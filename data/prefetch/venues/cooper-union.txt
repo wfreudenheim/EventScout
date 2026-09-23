@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-09-20T11:45:09.130Z
+FETCHED:2026-09-23T06:53:34.125Z
 
 /
 
@@ -14,20 +14,14 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/events-and-exhibitions/events/bernard-tschumi-circular
+/events-and-exhibitions/events/beyond-rubble-story-sanitation-and-recovery-post-911
 
-BERNARD TSCHUMI: CIRCULAR [/events-and-exhibitions/events/bernard-tschumi-circular]
+BEYOND THE RUBBLE: THE STORY OF SANITATION AND RECOVERY POST-9/11 [/events-and-exhibitions/events/beyond-rubble-story-sanitation-and-recovery-post-911]
 
-September 22, 2026
-6:30pm
+September 24, 2026
+6:00pm
 
-Event Details [/events-and-exhibitions/events/bernard-tschumi-circular]
- * /events-and-exhibitions/events/beyond-rubble-story-sanitation-and-recovery-post-911
-
-   BEYOND THE RUBBLE: THE STORY OF SANITATION AND RECOVERY POST-9/11 [/events-and-exhibitions/events/beyond-rubble-story-sanitation-and-recovery-post-911]
-
-   September 24, 2026
-   6:00pm
+Event Details [/events-and-exhibitions/events/beyond-rubble-story-sanitation-and-recovery-post-911]
  * /events-and-exhibitions/events/diane-lewis-student-lecture-series-dan-kershaw-ephemeral-exhibitions
 
    THE DIANE LEWIS STUDENT LECTURE SERIES | DAN KERSHAW: EPHEMERAL EXHIBITIONS AND IMPERMANENT PERMANENT MUSEUM DESIGN [/events-and-exhibitions/events/diane-lewis-student-lecture-series-dan-kershaw-ephemeral-exhibitions]
@@ -46,6 +40,12 @@ Event Details [/events-and-exhibitions/events/bernard-tschumi-circular]
 
    October 6, 2026
    6:30pm
+ * /events-and-exhibitions/events/seeing-together-photography-through-language-and-senses
+
+   SEEING TOGETHER: PHOTOGRAPHY THROUGH LANGUAGE AND THE SENSES [/events-and-exhibitions/events/seeing-together-photography-through-language-and-senses]
+
+   October 15, 2026
+   6:00pm
 
 ONGOING EXHIBITIONS
 

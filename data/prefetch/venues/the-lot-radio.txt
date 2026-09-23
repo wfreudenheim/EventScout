@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-09-20T11:45:16.162Z
+FETCHED:2026-09-23T06:53:43.908Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,67 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP09.20.2026
+TODAY’SLINEUP09.23.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+SWEET ABYSS WITH KIERNAN LAVEAUX PLAYS THE MUSIC OF JEAN-LOUIS HUHTA
+
+Kiernan Laveaux
+
+09.21.2026
+
+Techno, Electronica, Acid, Experimental Electronic, Calypso
+
+ * Play
+ * Detail [/shows/special-guests/2026-09-21-1400]
+ *
+
+/shows/special-guests/2026-09-21-1400
+
+BATU
+
+Batu
+
+09.21.2026
+
+Techno, Dubstep, Amapiano, Gqom, Dub
+
+ * Play
+ * Detail [/shows/special-guests/2026-09-21-1300]
+ *
+
+/shows/special-guests/2026-09-21-1300
+
+TARA LILY
+
+Tara Lily
+
+09.20.2026
+
+ * Play
+ * Detail [/shows/special-guests/2026-09-20-1400]
+ *
+
+/shows/special-guests/2026-09-20-1400
+
+NOTTE INFINITA
+
+Notte infinita
+
+09.18.2026
+
+Techno, Trance, Drum & Bass, Dubstep, IDM
+
+ * Play
+ * Detail [/shows/special-guests/2026-09-18-1500]
+ *
+
+/shows/special-guests/2026-09-18-1500
 
 OKO DJ
 
@@ -64,98 +118,48 @@ Electronica, Techno
 
 /shows/special-guests/2026-09-17-1000
 
-YUSHH
-
-Yushh
-
-09.14.2026
-
-Techno, Drum & Bass, Dubstep, Breaks, Experimental Electronic
-
- * Play
- * Detail [/shows/special-guests/2026-09-14-1700]
- *
-
-/shows/special-guests/2026-09-14-1700
-
-DJ MARIA.
-
-DJ MARIA.
-
-09.14.2026
-
- * Play
- * Detail [/shows/special-guests/2026-09-14-1400]
- *
-
-/shows/special-guests/2026-09-14-1400
-
-AN EVENING WITH DECIMUS
-
-09.13.2026
-
-Experimental, Ambient, Experimental Electronic
-
- * Play
- * Detail [/shows/special-guests/2026-09-13-1800]
- *
-
-/shows/special-guests/2026-09-13-1800
-
-MYKKI BLANCO
-
-Mykki Blanco
-
-09.12.2026
-
- * Play
- * Detail [/shows/special-guests/2026-09-12-1400]
- *
-
-/shows/special-guests/2026-09-12-1400
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * Dan Tager
+ * DJ Lita
    R
-   [/artists/dan-tager]
- * D. Tiffany
+   [/artists/lita]
+ * Eli (Soul Clap) Goldstein
    R
-   [/artists/d-tiffany]
- * Millz 'El Negro Mezclador'
+   [/artists/eli-(soul-clap)-goldstein]
+ * LISAS
    R
-   [/artists/millz-el-negro-mezclador]
- * Druggy Paul
+   [/artists/lisas]
+ * RAPRAVE
    R
-   [/artists/druggy-paul]
- * Ella Hussle
+   [/artists/raprave]
+ * Juan MacLean
    R
-   [/artists/ella-hussle]
- * b4
+   [/artists/juan-maclean]
+ * Abby Echiverri
    R
-   [/artists/b4]
- * Relaxer
+   [/artists/abby-echiverri]
+ * Kat Offline
    R
-   [/artists/relaxer]
- * Dull Tools
+   [/artists/kat-offline]
+ * FaltyDL
    R
-   [/artists/dull-tools]
- * BASSBEAR!!
+   [/artists/faltydl]
+ * Sanna
    R
-   [/artists/bassbear]
- * Lovie
+   [/artists/sanna]
+ * Maachew Bentley (063N13)
    R
-   [/artists/lovie]
- * James Bangura
+   [/artists/maachew-bentley-(063n13)]
+ * Sean Rowlands
    R
-   [/artists/james-bangura]
- * JADALAREIGN
+   [/artists/sean-rowland]
+ * Cyrus
    R
-   [/artists/jadalareign]
+   [/artists/cyrus]
 
 WE ARE THE LOT RADIO
 
@@ -168,25 +172,35 @@ About us [/about]
  * 12am — 10am
    RESTREAM
 
- * 10am — 12pm
-   Restream
+ * 10am — 11am
+   Stroom Presents: Unburdened Bones with La Zza Ro
+   Experimental Electronic, Ambient, Soundtrack, Experimental, Noise
+ * 11am — 12pm
+   Stroom Presents: Sergeant
+   Art Rock, Experimental Electronic, Post Punk, Krautrock
+ * 12pm — 1pm
+   Stroom presents Richard
+   Ambient, Indie, Post-Rock
+ * 1pm — 2pm
+   Stroom presents Ciro Vitiello
+   Ambient, Shoegaze, Post-Rock, Experimental
+ * 2pm — 4pm
+   Marvelito & DJ Dolla
+   Electronica, House, Hip Hop
+ * 4pm — 5pm
+   FaltyDL
 
- * 12pm — 2pm
-   Lise & Vito
-
- * 2pm — 3pm
-   Tara Lily
-
- * 3pm — 4pm
-   After-School Sessions with DJ RAQX
-
- * 4pm — 6pm
-   Warm Welcome with Naja + Henry Julier
-   Electronica, Downtempo, Techno
- * 6pm — 7pm
-   Eto Ano's I'm No Expert: D-Knox
-   House, Acid, Electro
- * 7pm — 12am
-   Restream
+ * 5pm — 6pm
+   Razor-N-Tape with JKriv
+   House, Disco, Global
+ * 7pm — 8pm
+   Miley serious
+   Techno
+ * 8pm — 10pm
+   Analog Soul invites Dane Garfield(Flammable/Seattle)
+   Drum & Bass, Hip Hop, Dancehall, Soul
+ * 10pm — 12am
+   GEMS with Rose Kourts and Twist Fire: Feroza
+   House, Dub
 
 THE LOT RADIO

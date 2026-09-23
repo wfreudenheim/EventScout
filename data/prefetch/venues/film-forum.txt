@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-09-20T11:45:13.316Z
+FETCHED:2026-09-23T06:53:40.405Z
 
 Skip to Content
 
@@ -16,7 +16,6 @@ SLIDESHOW
  * https://filmforum.org/film/barbara-forever
  * https://filmforum.org/film/filipinana
  * https://filmforum.org/film/late-fame
- * https://filmforum.org/film/the-cameraman-ffjr-2026-fall
  *
  * https://filmforum.org/film/the-scout
  * https://filmforum.org/film/unzipped-2026
@@ -40,78 +39,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
- * SUN
- * MON
- * TUE
  * WED
  * THU
  * FRI
  * SAT
-
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-THE CAMERAMAN [https://filmforum.org/film/the-cameraman-ffjr-2026-fall]
-11:00
-
-YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
-12:15(OC) 2:30 5:20 7:40
-
-MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-12:50 2:40 4:30 6:20
-
-KWAIDAN [https://filmforum.org/film/kwaidan-2026]
-12:50 6:50
-
-BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
-4:40
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-12:20 2:30 4:45 7:00
-
-LATE FAME [https://filmforum.org/film/late-fame]
-9:10
-
-Special Screening!WILD STYLE [https://filmforum.org/film/wild-style]
-8:10
-
-YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
-12:15 2:30 4:45 7:00(OC) 9:15
-
-MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-12:30 2:20 4:10 6:00 7:50
-
-KWAIDAN [https://filmforum.org/film/kwaidan-2026]
-12:40 6:50
-
-BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
-4:40
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-12:20 2:30 4:45 7:00
-
-LATE FAME [https://filmforum.org/film/late-fame]
-9:10
-
-YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
-12:15(OC) 2:30 6:00 8:20
-
-MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-12:30 2:20 4:10 7:50
-
-KWAIDAN [https://filmforum.org/film/kwaidan-2026]
-12:40 6:50
-
-BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
-4:40
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-12:20 2:30 4:45 7:00
-
-LATE FAME [https://filmforum.org/film/late-fame]
-9:10
-
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
-THE “EL” SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER [https://filmforum.org/film/stations-of-the-elevated-nyc-in-transit]
-6:00
+ * SUN
+ * MON
+ * TUE
 
 YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
 12:15 2:30 4:45 7:00 9:15
@@ -137,10 +71,10 @@ YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [
 MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
 12:30 2:20 4:10 6:00 7:50
 
-KWAIDAN [https://filmforum.org/film/kwaidan-2026]
+Ends Today!KWAIDAN [https://filmforum.org/film/kwaidan-2026]
 12:50
 
-BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
+Ends Today!BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
 4:40
 
 FILIPIÑANA [https://filmforum.org/film/filipinana]
@@ -152,9 +86,88 @@ Ends Today!LATE FAME [https://filmforum.org/film/late-fame]
 Sneak Preview!THE SCOUT [https://filmforum.org/film/the-scout]
 7:45
 
-Showtimes coming soon!
+Opens Today!THE SCOUT [https://filmforum.org/film/the-scout]
+12:15 2:20 4:25 6:30 9:10
 
-Showtimes coming soon!
+Opens Today!UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:30 2:15 4:00 6:00 8:00
+
+YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+12:15 2:30 4:45 7:00 9:15
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+1:00 3:15 7:50
+
+MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
+5:50
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+12:15(OC) 2:20 4:25 6:30 9:10
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:30 2:15 4:00 6:00 8:00
+
+YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+12:15 2:30(OC) 4:45 7:00 9:15
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+1:00 3:15 7:50
+
+MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
+5:50
+
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+FUNNY FACE [https://filmforum.org/film/funny-face-ffjr-2026]
+11:00
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+12:15(OC) 2:20 4:25 6:30 8:35
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+1:15 3:00 5:40 7:30
+
+YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+1:30 3:45(OC) 6:00 8:15
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+1:00 3:15 7:50
+
+MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
+5:50
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+12:15 2:20 4:25 6:30(OC) 8:35
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:30 2:15 4:00 9:30
+
+YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+12:15(OC) 2:30 4:45 7:00 9:15
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+1:00 3:15 7:50
+
+MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
+5:50
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+12:15(OC) 2:20 4:25 6:30 8:35
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:30 2:15 4:00 7:30 9:15
+
+YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+12:15 2:30 4:45 7:00(OC) 9:15
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+1:00 3:15 7:50
+
+MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
+5:50
+
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
+DUTCHMAN [https://filmforum.org/film/dutchman-nyc-in-transit]
+6:00
 
 Donate [https://donate.filmforum.org/give/]
 
@@ -174,23 +187,23 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION…
-Q&A WITH FILMMAKER NICK DAVIS & CO-WRITER JANE MENDELSOHN [https://filmforum.org/events/event/you-had-to-be-there-september-20]
+THE SCOUT
+SNEAK PREVIEW SCREENING AND Q&A WITH FILMMAKER PAULA GONZÁLEZ-NASSER AND STAR MIMI DAVILA, CO-PRESENTED BY THE GOTHAM FILM & MEDIA INSTITUTE [https://filmforum.org/events/event/the-scout-september-24]
 
-Sunday, September 20
-2:30
+Thursday, September 24
+7:45
 
-MY BROTHER’S WEDDING
-INTRODUCED BY DIRECTOR CHARLES BURNETT [https://filmforum.org/events/event/my-brothers-wedding-september-20]
+THE SCOUT
+Q&A WITH FILMMAKER PAULA GONZÁLEZ-NASSER AND STAR MIMI DAVILA, CO-PRESENTED BY THE FUTURE OF FILM IS FEMALE [https://filmforum.org/events/event/the-scout-september-25]
 
-Sunday, September 20
-4:30
+Friday, September 25
+6:30
 
-WILD STYLE
-INTRODUCED BY DIRECTOR CHARLIE AHEARN [https://filmforum.org/events/event/wild-style-september-20]
+UNZIPPED
+Q&A WITH SUBJECT ISAAC MIZRAHI, DIRECTOR DOUGLAS KEEVE & EXECUTIVE PRODUCER NINA SANTISI [https://filmforum.org/events/event/unzipped-september-25]
 
-Sunday, September 20
-8:10
+Friday, September 25
+8:00
 
 GET EMAIL NEWS
 
@@ -209,21 +222,17 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-THE CAMERAMAN [https://filmforum.org/film/the-cameraman-ffjr-2026-fall]
-11:00
-
 YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
-12:15(OC) 2:30 5:20 7:40
+12:15 2:30 4:45 7:00 9:15
 
 MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-12:50 2:40 4:30 6:20
+12:30 2:20 4:10 6:00 7:50
 
 KWAIDAN [https://filmforum.org/film/kwaidan-2026]
-12:50 6:50
+1:00 7:00
 
 BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
-4:40
+4:45
 
 FILIPIÑANA [https://filmforum.org/film/filipinana]
 12:20 2:30 4:45 7:00
@@ -231,18 +240,22 @@ FILIPIÑANA [https://filmforum.org/film/filipinana]
 LATE FAME [https://filmforum.org/film/late-fame]
 9:10
 
-Special Screening!WILD STYLE [https://filmforum.org/film/wild-style]
-8:10
-
 NOW PLAYING [https://filmforum.org/now_playing]
 
-https://filmforum.org/film/wild-style
-WILD STYLE [https://filmforum.org/film/wild-style]
+https://filmforum.org/series/nyc-in-transit#now-playing
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
 
-Sunday, September 20
-8:10
+THE “EL” SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER
+Tuesday, September 22
+6:00
 
-Buy Tickets [https://my.filmforum.org/wild-style-transit]
+Films in this Series THE “EL” SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER DUTCHMAN Charles Bronson in
+DEATH WISH John Cassavetes’
+GLORIA Al Pacino in
+CARLITO’S WAY Robert De Niro’s
+A BRONX TALE Samuel Fuller’s
+PICKUP ON SOUTH STREET Amir Naderi’s
+MANHATTAN BY NUMBERS
 https://filmforum.org/film/you-had-to-be-there
 YOU HAD TO BE THERE:
 HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
@@ -251,7 +264,7 @@ https://filmforum.org/film/my-brothers-wedding
 Charles Burnett’s
 MY BROTHER’S WEDDING [https://filmforum.org/film/my-brothers-wedding]
 
-Friday, September 18 – Thursday, September 24
+MUST END THURSDAY, OCTOBER 1
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/my-brothers-wedding] Watch Trailer [https://filmforum.org/film/my-brothers-wedding#trailer]
 https://filmforum.org/film/kwaidan-2026
@@ -259,13 +272,13 @@ Masaki Kobayashi’s
 KWAIDAN
 怪談 [https://filmforum.org/film/kwaidan-2026]
 
-HELD OVER THROUGH THURSDAY, SEPTEMBER 24
+MUST END THURSDAY, SEPTEMBER 24
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/kwaidan-directors-cut] Watch Trailer [https://filmforum.org/film/kwaidan-2026#trailer]
 https://filmforum.org/film/barbara-forever
 BARBARA FOREVER  [https://filmforum.org/film/barbara-forever]
 
-ENDS SOON
+MUST END THURSDAY, SEPTEMBER 24
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/barbara-forever] Watch Trailer [https://filmforum.org/film/barbara-forever#trailer]
 https://filmforum.org/film/filipinana
@@ -277,30 +290,14 @@ LATE FAME [https://filmforum.org/film/late-fame]
 MUST END THURSDAY, SEPTEMBER 24
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/late-fame] Watch Trailer [https://filmforum.org/film/late-fame#trailer]
-https://filmforum.org/series/nyc-in-transit#now-playing
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
-
-THE “EL” SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER
-Tuesday, September 22
-6:00
-
-Films in this Series Buster Keaton’s
-THE CAMERAMAN (1928) THE “EL” SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER DUTCHMAN Charles Bronson in
-DEATH WISH John Cassavetes’
-GLORIA Al Pacino in
-CARLITO’S WAY Robert De Niro’s
-A BRONX TALE Samuel Fuller’s
-PICKUP ON SOUTH STREET Amir Naderi’s
-MANHATTAN BY NUMBERS
 https://filmforum.org/series/film-forum-jr.-series-page#now-playing
 FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
 
-THE CAMERAMAN
-Sunday, September 20
+FUNNY FACE
+Sunday, September 27
 11:00
 
-Films in this Series Buster Keaton’s
-THE CAMERAMAN (1928) Audrey Hepburn & Fred Astaire in
+Films in this Series Audrey Hepburn & Fred Astaire in
 FUNNY FACE Lotte Reiniger’s
 THE ADVENTURES OF PRINCE ACHMED (1926) Rob Reiner’s
 THE PRINCESS BRIDE SPY KIDS Tim Burton’s

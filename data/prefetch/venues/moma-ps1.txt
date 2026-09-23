@@ -1,6 +1,6 @@
 VENUE:moma-ps1 | MoMA PS1
 URL:https://www.momaps1.org/en/calendar
-FETCHED:2026-09-20T11:45:07.787Z
+FETCHED:2026-09-23T06:53:31.160Z
 
 Skip to content
 EN [/en/calendar?save_locale=true] ES [/es/calendar?save_locale=true]
@@ -102,9 +102,8 @@ Close
 Close
 
 Change Date
-Today, Sun, Sep 20
-Open
-12–6 p.m.
+Today, Wed, Sep 23
+The building is closed today
 Expand All Collapse all
 MoMA PS1
 
@@ -178,7 +177,7 @@ OPENING NIGHT CELEBRATION
 
 [/en/events/843-printed-matter-s-2026-ny-art-book-fair]
 
-7–10 a.m.
+7–10 p.m.
 
 + Open Printed Matter’s 2026 NY Art Book Fair – Close Printed Matter’s 2026 NY Art Book Fair
 

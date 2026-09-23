@@ -1,13 +1,13 @@
 VENUE:metrograph | Metrograph
 URL:https://metrograph.com/nyc/
-FETCHED:2026-09-20T11:45:07.628Z
+FETCHED:2026-09-23T06:53:32.224Z
 
 Skip to the content
 https://metrograph.com/
 
 Sign in [https://metrograph.com/my-account/]
 Search for:
-Now time 2026-09-20 06:51:01 Now time local 2026-09-20 02:51:01 2026-09-20
+Now time 2026-09-22 21:41:56 Now time local 2026-09-22 17:41:56 2026-09-22
 
 Next Month [?date=2026-10-01]September 2026 [?date=2026-09-01]
 SMTWTFS
@@ -32,8 +32,8 @@ SMTWTFS
  * 17 [javascript:void(0);]
  * 18 [javascript:void(0);]
  * 19 [javascript:void(0);]
- * 20 [?date=2026-09-20]
- * 21 [?date=2026-09-21]
+ * 20 [javascript:void(0);]
+ * 21 [javascript:void(0);]
  * 22 [?date=2026-09-22]
  * 23 [?date=2026-09-23]
  * 24 [?date=2026-09-24]
@@ -85,14 +85,6 @@ SMTWTFS
 × Close [javascript:void(0);]
 View Calendar [javascript:void(0);]
 Today
-September
-20
-[javascript:void(0);]
-Monday
-September
-21
-[javascript:void(0);]
-Tuesday
 September
 22
 [javascript:void(0);]
@@ -204,139 +196,6 @@ Monday
 October
 19
 [javascript:void(0);]
-/film/?vista_film_id=9999000710
-
-GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER [/film/?vista_film_id=9999000710]
-
-Mamoru Oshii / 1995 / 83min / 4K DCP
-11:00am
-/film/?vista_film_id=9999001343
-
-THE LITTLE MERMAID [/film/?vista_film_id=9999001343]
-
-Ron Clements, John Musker / 1989 / 83min / 35mm
-11:00am [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999002034
-
-MEDEA (1969) [/film/?vista_film_id=9999002034]
-
-Pier Paolo Pasolini / 1969 / 110min / DCP
-12:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999002763
-
-KNOCK OFF [/film/?vista_film_id=9999002763]
-
-Tsui Hark / 1998 / 91min / 35mm
-1:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999004985
-
-WIVES (HUSTRUER) [/film/?vista_film_id=9999004985]
-
-Anja Breien / 1973 / 83min / DCP
-Q&A with Jane Gaines, Founder of the Columbia University’s Women Film Pioneers Project, moderated by FOFIF curator Brittany Shaw on Friday, September 11th
-3:00pm
-/film/?vista_film_id=9999003587
-
-TIME AND TIDE [/film/?vista_film_id=9999003587]
-
-Tsui Hark / 2000 / 113min / 35mm
-3:10pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999004989
-
-WIVES: TEN YEARS AFTER [/film/?vista_film_id=9999004989]
-
-Anja Breien / 1985 / 88min / DCP
-5:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999001293
-
-YI YI [/film/?vista_film_id=9999001293]
-
-Edward Yang / 2000 / 173min / DCP
-5:30pm
-/film/?vista_film_id=9999004991
-
-WIVES III [/film/?vista_film_id=9999004991]
-
-Anja Breien / 1996 / 76min / DCP
-7:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999004997
-
-STRAY DOGS [/film/?vista_film_id=9999004997]
-
-Tsai Ming-liang / 2013 / 135min / DCP
-8:45pm
-/film/?vista_film_id=9999005000
-
-SE7EN [/film/?vista_film_id=9999005000]
-
-David Fincher / 1995 / 127min / 35mm
-8:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999002246
-
-A BRIGHTER SUMMER DAY [/film/?vista_film_id=9999002246]
-
-Edward Yang / 1991 / 237min / DCP
-3:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999002021
-
-JASON AND THE ARGONAUTS [/film/?vista_film_id=9999002021]
-
-Don Chaffey / 1963 / 104min / 35mm
-3:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999004969
-
-DAYS AND NIGHTS IN THE FOREST [/film/?vista_film_id=9999004969]
-
-Satyajit Ray / 1970 / 115min / 4K DCP
-5:15pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999003126
-
-WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN [/film/?vista_film_id=9999003126]
-
-Pedro Almodóvar / 1988 / 88min / 35mm
-7:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999004982
-
-PEKING OPERA BLUES [/film/?vista_film_id=9999004982]
-
-Tsui Hark / 1986 / 104min / 4K DCP
-7:35pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999002255
-
-UNCUT GEMS [/film/?vista_film_id=9999002255]
-
-Josh Safdie, Benny Safdie / 2019 / 134min / 35mm
-9:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999001727
-
-DELICATESSEN [/film/?vista_film_id=9999001727]
-
-Jean-Pierre Jeunet, Marc Caro / 1991 / 99min / 4K DCP
-9:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999004050
-
-PETITE MAMAN [/film/?vista_film_id=9999004050]
-
-Céline Sciamma / 2021 / 73min / DCP
-2:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999003673
-
-LA HAINE [/film/?vista_film_id=9999003673]
-
-Matthieu Kassovitz / 1995 / 97min / DCP
-2:15pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999004934
-
-L'ARGENT [/film/?vista_film_id=9999004934]
-
-Robert Bresson / 1983 / 84min / DCP
-3:40pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999001996
-
-ORPHEUS [/film/?vista_film_id=9999001996]
-
-Jean Cocteau / 1950 / 95min / 35mm
-4:20pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 /film/?vista_film_id=9999004939
 
 WAKE IN FRIGHT [/film/?vista_film_id=9999004939]
@@ -587,17 +446,17 @@ PAPRIKA [/film/?vista_film_id=9999002029]
 
 Satoshi Kon / 2006 / 90min / 35mm
 11:20pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-/film/?vista_film_id=9999001343
-
-THE LITTLE MERMAID [/film/?vista_film_id=9999001343]
-
-Ron Clements, John Musker / 1989 / 83min / 35mm
-11:00am [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 /film/?vista_film_id=9999000006
 
 GOODBYE, DRAGON INN [/film/?vista_film_id=9999000006]
 
 Tsai Ming-liang / 2003 / 82min / DCP
+11:00am [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+/film/?vista_film_id=9999001343
+
+THE LITTLE MERMAID [/film/?vista_film_id=9999001343]
+
+Ron Clements, John Musker / 1989 / 83min / 35mm
 11:00am [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 /film/?vista_film_id=9999005004
 
@@ -1231,6 +1090,13 @@ PARIS WAS A WOMAN [/film/?vista_film_id=9999003500]
 Greta Schiller / 1996 / 75min / 4K DCP
 Q&A with filmmakers Greta Schiller & Andrew Weiss and book signings from October 16th-October 18th
 6:40pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+/film/?vista_film_id=9999005039
+
+ALMOST FAMOUS [/film/?vista_film_id=9999005039]
+
+Cameron Crowe / 2000 / 124min / 4K DCP
+Introduction by Jon Caramanica and Joe Coscarelli of “Popcast” on Friday, October 16th
+9:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 /film/?vista_film_id=9999000719
 
 THE TERMINATOR [/film/?vista_film_id=9999000719]
@@ -1264,6 +1130,13 @@ AEROGRAD [/film/?vista_film_id=9999005037]
 Oleksandr Dovzhenko / 1935 / 87min / 35mm
 35mm print courtesy of the Filmoteka Narodowa, Warsaw
 2:40pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+/film/?vista_film_id=9999003555
+
+THE INSIDER [/film/?vista_film_id=9999003555]
+
+Michael Mann / 1999 / 157min / 35mm
+Q&A with investigative journalist Lowell Bergman and Pulitzer Prize-winning reporter and podcast host Pablo Torre on Saturday, October 17th
+4:40pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 /film/?vista_film_id=9999005040
 
 STRESS IS THREE [/film/?vista_film_id=9999005040]
@@ -1276,6 +1149,13 @@ HONEYCOMB [/film/?vista_film_id=9999005041]
 
 Carlos Saura / 1969 / 102min / Digital
 6:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+/film/?vista_film_id=9999003486
+
+BROADCAST NEWS [/film/?vista_film_id=9999003486]
+
+James L. Brooks / 1987 / 133min / DCP
+Introduction by Michael Barbaro of "The Daily" on Saturday, October 17th
+8:20pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 /film/?vista_film_id=9999005042
 
 MEDEA (1988) [/film/?vista_film_id=9999005042]
@@ -1287,7 +1167,7 @@ Lars Von Trier / 1988 / 75min / Digital
 OLDBOY [/film/?vista_film_id=9999000490]
 
 Park Chan-wook / 2003 / 120min / 4K DCP
-10:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+11:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 /film/?vista_film_id=9999000718
 
 BLADE RUNNER: THE FINAL CUT [/film/?vista_film_id=9999000718]
@@ -1311,6 +1191,13 @@ Wolfgang Reitherman / 1970 / 78min / 35mm
 LITTLE WOMEN [/film/?vista_film_id=9999002231]
 
 Gillian Armstrong / 1994 / 115min / 4K DCP
+1:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+/film/?vista_film_id=9999001169
+
+ALL THE PRESIDENT'S MEN [/film/?vista_film_id=9999001169]
+
+Alan J. Pakula / 1976 / 138min / 4K DCP
+Q&A with Carl Bernstein and Maggie Haberman, White House correspondent for The New York Times, moderated by Natalie Kitroeff of “The Daily” on Sunday, October 18th
 1:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 /film/?vista_film_id=9999005043
 
@@ -1359,6 +1246,105 @@ NYC, NY
 
 COOKIE CONSENT
 
-We use cookies to improve your experience on our site. By using our site, you conse
+We use cookies to improve your experience on our site. By using our site, you consent to cookies.
+
+PreferencesRejectAccept All
+
+COOKIE PREFERENCES
+
+×
+
+Manage your cookie preferences below:
+
+Toggle EssentialEssential
+
+Essential cookies enable basic functions and are necessary for the proper function of the website.
+
+Name
+Description
+Duration
+Geolocation Config
+This cookie is used to store the consent settings based on the visitor's location.
+30 days
+Cookie Preferences
+This cookie is used to store the user's cookie consent preferences.
+30 days
+Toggle LoginLogin
+
+These cookies are used for managing login functionality on this website.
+
+Name
+Description
+Duration
+wordpress_test_cookie
+Used to determine if cookies are enabled.
+Session
+wordpress_logged_in
+Used to store logged-in users.
+Persistent
+wordpress_sec
+Used to track the user across multiple sessions.
+15 days
+Toggle WooCommerceWooCommerce
+
+WooCommerce is a customizable eCommerce platform for building online stores using WordPress.
+
+Name
+Description
+Duration
+wp_woocommerce_session_
+Contains a unique code for each customer so that it knows where to find the cart data in the database for each customer.
+2 days
+woocommerce_recently_viewed
+Powers the Recent Viewed Products widget
+session
+store_notice
+Allows customers to dismiss the Store Notice.
+session
+woocommerce_snooze_suggestions__
+Allows dashboard users to dismiss Marketplace suggestions, if enabled.
+2 days
+woocommerce_dismissed_suggestions__
+Count of suggestion dismissals, if enabled.
+1 month
+woocommerce_cart_hash
+Helps WooCommerce determine when cart contents/data changes.
+session
+woocommerce_items_in_cart
+Helps WooCommerce determine when cart contents/data changes.
+session
+Toggle StatisticsStatistics
+
+Statistics cookies collect information anonymously. This information helps us understand how visitors use our website.
+
+Toggle Google AnalyticsGoogle Analytics
+
+Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+
+Service URL: policies.google.com (opens in a new window) [https://policies.google.com/privacy]
+
+Name
+Description
+Duration
+_gid
+ID used to identify users for 24 hours after last activity
+24 hours
+_gat
+Used to monitor number of Google Analytics server requests when using Google Tag Manager
+1 minute
+_gac_
+Contains information related to marketing campaigns of the user. These are shared with Google AdWords / Google Ads when the Google Ads and Google Analytics accounts are linked together.
+90 days
+__utma
+ID used to identify users and sessions
+2 years after last activity
+__utmt
+Used to monitor number of Google Analytics server requests
+10 minutes
+__utmb
+Used to distinguish new sessions and visits. This cookie is set when the GA.js javascript library is loaded and there is no existing __utmb cookie. The cookie is updated every time data is sent to the Google Analytics server.
+30 minutes after last activity
+__utmc
+Used only with old Urchin versions of Google Analytics and not with GA.js. Was used to distin
 
 [truncated]

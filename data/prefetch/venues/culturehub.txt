@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-09-20T11:45:04.024Z
+FETCHED:2026-09-23T06:53:24.974Z
 
 CULTUREHUB [/]
 
@@ -23,14 +23,6 @@ EVENTS [/events]
 
 Events
 
-Sep 19
-[/events/grokaesthetic-workshop]
-grokaesthetic Workshop [/events/grokaesthetic-workshop]
-
-A hands-on workshop with notepat, Menu Band, and AC OS led by CultureHub Resident Artist Jeffrey Alan Scudder of Aesthetic Computer. RSVP → [/events/grokaesthetic-workshop]
-
-Read more → [/events/grokaesthetic-workshop]
-
 Sep 24
 [/events/notespatial-native-the-macneopolitan-trio]
 Note(s)pat(ial) Native & The MacNeoPolitan Trio [/events/notespatial-native-the-macneopolitan-trio]
@@ -47,6 +39,14 @@ A live, non-verbal performance that reimagines Korean classical painting through
 
 Read more → [/events/maedeup-weaving-shin-yun-bok]
 
+Sep 29
+[/events/garage-sale]
+Garage Sale [/events/garage-sale]
+
+Shop the CultureHub studio garage sale for used VR headsets, tablets, audio interfaces, lighting equipment, and more. Learn more → [/events/garage-sale]
+
+Read more → [/events/garage-sale]
+
 Oct 3
 [/events/sculpting-light-with-cyanotype]
 Sculpting Light with Cyanotype [/events/sculpting-light-with-cyanotype]
@@ -61,6 +61,15 @@ Read more → [/events/sculpting-light-with-cyanotype]
 READ [/read]
 
 ___LZSettings_N4IgpgdghgRgNmAMlAXgTxALgGZTgZzABoQ84BRAN0gBd8tcDiQBLGsAW3wEkIAlAPYB3LAGYSNWAhoBhAXACuHCPUwAmCVLA0A4gprsATljUAGEhwEwWCOYuWqArBas2weg2GOZzIOAKgAEwBBODgAeUMABSgAcwY8QhJ-IJjYsABlFhQwLAAWEiFDKAAHbnYuAHU2AAtEFggAawSmEnwBQxoMpQ4oQzRyzlUQCAEAWnbOkDaa4QyavrAAIX0aARUsEYF5xemQGFX1ngBjddCWWIgOWk3j2i89g4Mj7lOILJzN-F6wx8OVV7rOwdTbwKDHZokJ5rAFvDI0NAIL4ARwUizGMA6gQeJCCgRkUBoABU4jI4FB8IRhqMILkSKcwmBjjQWOsAKqGOCbQxgIJ7BkIZmsiBEtAlXKYACMEjYSMwID4vMCewR4oAclBrqD-PF6fJBSz1txlfKAGymNSOQJ5AAcYDUeVNkrAolEAE5TYE3Y5jqbTcc9tj8BcILc+gIFIQuSQakqvESwAAPGibFVJrrZCV+PrpPYlOKZTNYSWiDSsXrpYL4cXMviE1mbSUAOldon58iUEGqgRoNTEpl8sVWD0wjl8cBY+Bo3Arhc+o-Hk+ns-Ol2uEBT8oQ2BTbQnQaiXkEIilEnTq6uNy3YB3e3wsyERNlEpohgUzHvwiJNSUMGgNiwV93xmYRyETO5DBKTcgI-B9FSCABZDokAaZocESWDhCiQwWDuQC32YEpDAEQIFGZABFBRcMaAA1FgwCEchoHgMATUYJIQE-IQYinSI2RKU4OAaWIqFoYYFAEgQhIgXUQGuSRAkJKAogEYNDVDeUYDAfwhDGFkaCREgiJYXp+gQ7QgiUzYaTpTimXWRSzIsxTJGs9ZbOwGwjCwUBJHiTAIAUMJ6UJMBYg6DAAqCuAAF9cX0AQZGIkp8OAvwLhqGhMUTFoOKExNWLkDcrxgqF-AhY1NjdUxAlMU08jHX1zUcMBJQAdmwSVTDalVihUbAOi4HyQGIyR1OGlBhsoPB3ywXwFAgNhNmxeIYrizjjjwCVQByzBQGmxQJS6+bFs3EAAFIQHWyL9pmo6BxIBalvlS61pIAR82ONgbpAA7ZqlB6QCes7Xve7BsEITcdqmu65se07NhKHLrphw64aBhH5SRq71o6C4GmG3bbrRhd4eei6rpIH6-olMcyZBnG2kaBjCdR-6TvJlbKZAanYZ8enlrCnH1qgRbenU1QAG0AF0SB5PAlnKxpKs0pWxlEKA3TaqBHFNUsoFwQJHDam0YElNQAxioA
+
+/read/scribble-lizz-thabet
+How to Create and Live in the Worlds We Want: An Interview with Lizz Thabet [/read/scribble-lizz-thabet]
+
+Scribble
+
+August 25, 2026
+
+Read more → [/read/scribble-lizz-thabet]
 
 /read/scribble-spencer-chang
 Interview with Spencer Chang [/read/scribble-spencer-chang]
@@ -322,12 +331,3 @@ Andrea Kim [https://www.culturehub.org/andrea-kim]
 Feb 6, 2023
 
 Read more → [/read/somus-mask]
-
-/read/a-deepfake-revival
-A Deepfake Revival [/read/a-deepfake-revival]
-
-Sarah Sweeney [https://www.culturehub.org/sarah-sweeney]
-
-Jan 24, 2023
-
-Read more → [/read/a-deepfake-revival]

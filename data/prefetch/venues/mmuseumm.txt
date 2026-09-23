@@ -1,6 +1,6 @@
 VENUE:mmuseumm | Mmuseumm
 URL:https://www.mmuseumm.com/
-FETCHED:2026-09-20T11:45:09.564Z
+FETCHED:2026-09-23T06:53:35.809Z
 
 MM [/]
 
@@ -66,6 +66,9 @@ contact:
 info@mmuseumm.com
 press@mmuseumm.com
 submissions@mmuseumm.com
+
+Newsletter Block
+This newsletter signup form needs a storage option. Edit the block and enter a storage location via the Storage tab.
 
 Email Address
 Sign Up

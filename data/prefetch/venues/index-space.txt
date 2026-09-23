@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-09-20T11:45:11.111Z
+FETCHED:2026-09-23T06:53:38.185Z
 
 Index [/]
 
@@ -99,16 +99,6 @@ All EventsGreenpointChinatown
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
 
- * Look & Feel [/programming/look-feel-evt-iVtNFmberU8VSV7?view=list]
-
-   LOOK & FEEL
-
-   Thursday, Oct 1, 2026
-
-   Hosted by Ideate [https://luma.com/user/usr-wKl5uqUIs4TU1uO]
-
-   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
-
  * Creative Showcase Vol. 7 [/programming/creative-showcase-vol-7-evt-5dFnBBvuFxNdJSe?view=list]
 
    CREATIVE SHOWCASE VOL. 7
@@ -116,6 +106,16 @@ All EventsGreenpointChinatown
    Tuesday, Oct 13, 2026
 
    Hosted by Katie Ehrlich [https://luma.com/user/usr-Qj0OCgMA8ybG8On]
+
+   Presented by Index Chinatown
+
+ * Boardwalk Studies [/programming/boardwalk-studies-evt-t3w34gVMOrCz2Vp?view=list]
+
+   BOARDWALK STUDIES
+
+   Sunday, Oct 18, 2026
+
+   Hosted by SUZIE [https://luma.com/user/usr-K5G4CcsW0zzXHjC]
 
    Presented by Index Chinatown
 

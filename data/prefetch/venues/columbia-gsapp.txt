@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-09-20T11:45:12.264Z
+FETCHED:2026-09-23T06:53:39.676Z
 
 /
  * The School
@@ -850,8 +850,8 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=12&month=9&time_range=week&year=2026 /events?day=28&month=9&time_range=week&year=2026
-Sep 20 – Sep 27
+/events?day=15&month=9&time_range=week&year=2026 /events?day=1&month=10&time_range=week&year=2026
+Sep 23 – Sep 30
 Week
 [/events?time_range=week]
 Month
@@ -892,3 +892,23 @@ Virtual
 GSAPP Admissions Info Session
 
 [/events/4302-gsapp-admissions-info-session]
+
+Tue, Sep 29    12pm
+
+Tuesday Talks
+
+Alumni
+
+New York, Virtual
+
+[/events/4275-tuesday-talks]
+
+Tue, Sep 29    3pm
+
+MSRED Lecture: Marc Holliday ‘90 MSRED
+
+Lecture
+
+New York
+
+[/events/4294-msred-lecture-marc-holliday-90-msred]
