@@ -10194,5 +10194,576 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-23T07:23:35.989Z"
+  },
+  {
+    "id": "n-plus-one-2026-10-16-the-municipal-sublime",
+    "title": "The Municipal Sublime",
+    "venue_id": "n-plus-one",
+    "venue_name": "n+1 Magazine",
+    "date": "2026-10-16",
+    "description": "A talk presented as part of Archtober, New York's architecture and design month.",
+    "url": "https://www.nplusonemag.com/online-only/events/the-municipal-sublime/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.955Z"
+  },
+  {
+    "id": "n-plus-one-2026-09-23-issue-54-reading-and-celebration",
+    "title": "Issue 54 Reading and Celebration",
+    "venue_id": "n-plus-one",
+    "venue_name": "n+1 Magazine",
+    "date": "2026-09-23",
+    "description": "n+1 celebrates the launch of Issue 54, Power Play, with a reading and party in Greenpoint, Brooklyn.",
+    "url": "https://www.nplusonemag.com/online-only/events/issue-54-reading-and-celebration/",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.953Z"
+  },
+  {
+    "id": "n-plus-one-2026-10-10-laura-kolbe-and-patricia-lockwood-in-con",
+    "title": "Laura Kolbe and Patricia Lockwood in conversation",
+    "venue_id": "n-plus-one",
+    "venue_name": "n+1 Magazine",
+    "date": "2026-10-10",
+    "description": "Poets Laura Kolbe and Patricia Lockwood discuss their work in a live conversation in Greenpoint.",
+    "url": "https://www.nplusonemag.com/online-only/events/laura-kolbe-and-patricia-lockwood-in-conversation/",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.955Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-07-film-series-blackhole-cinematheque",
+    "title": "Film Series | Blackhole Cinematheque",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-07",
+    "time_start": "19:00",
+    "description": "A screening from the experimental, underground Blackhole Cinematheque film series.",
+    "url": "https://swissinstitute.net/programs/film-series-blackhole-cinematheque",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.982Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-14-new-york-axiomatic-circle",
+    "title": "New York Axiomatic Circle",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-14",
+    "time_start": "19:00",
+    "description": "A recurring discussion circle exploring axiomatic and theoretical frameworks in philosophy and science.",
+    "url": "https://swissinstitute.net/programs/new-york-axiomatic-circle-1",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.982Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-21-new-york-axiomatic-circle",
+    "title": "New York Axiomatic Circle",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-21",
+    "time_start": "19:00",
+    "description": "A recurring discussion circle exploring axiomatic and theoretical frameworks in philosophy and science.",
+    "url": "https://swissinstitute.net/programs/new-york-axiomatic-circle-2",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.983Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-28-new-york-axiomatic-circle",
+    "title": "New York Axiomatic Circle",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-28",
+    "time_start": "19:00",
+    "description": "A recurring discussion circle exploring axiomatic and theoretical frameworks in philosophy and science.",
+    "url": "https://swissinstitute.net/programs/new-york-axiomatic-circle",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.983Z"
+  },
+  {
+    "id": "swiss-institute-2026-11-11-film-series-marching-with-the-kasama",
+    "title": "Film Series | Marching with the Kasama",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-11-11",
+    "time_start": "19:00",
+    "description": "A film screening exploring the Kasama movement, part of Swiss Institute's ongoing film series.",
+    "url": "https://swissinstitute.net/programs/film-series-marching-with-the-kasama",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Indonesian/Southeast Asian culture, language exchange"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.983Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-03-concert-jamira-estrada-neverdie",
+    "title": "Concert | Jamira Estrada & Neverdie",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-03",
+    "time_start": "19:00",
+    "description": "A live music performance featuring Jamira Estrada and Neverdie.",
+    "url": "https://swissinstitute.net/programs/concert-jamira-estrada-neverdie",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.982Z"
+  },
+  {
+    "id": "swiss-institute-2026-11-04-film-series-filmclub-populaire",
+    "title": "Film Series | Filmclub Populaire",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-11-04",
+    "time_start": "19:00",
+    "description": "A screening from the Filmclub Populaire film series.",
+    "url": "https://swissinstitute.net/programs/film-series-filmclub-populaire",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.983Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-03-book-launch-15-years-of-zweikommasieben-",
+    "title": "Book Launch | 15 Years of Zweikommasieben: Magazine Release Issue #31",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-03",
+    "time_start": "19:00",
+    "description": "Launch celebration for issue #31 of the Swiss art and culture magazine Zweikommasieben, marking its 15th anniversary.",
+    "url": "https://swissinstitute.net/programs/book-launch-5-years-of-zweikommasieben-magazine-release-issue-31",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:11.982Z"
+  },
+  {
+    "id": "movement-research-2026-09-28-mr-judson-oda-brekke-andrea-mu-iz-mona-n",
+    "title": "MR@Judson: Oda Brekke, Andrea Muñiz, Mona Namér",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-09-28",
+    "description": "Performance program at MR@Judson featuring works by Oda Brekke, Andrea Muñiz, and Mona Namér, presented as part of Movement Research's ongoing artist series at Judson Church.",
+    "url": "https://movementresearch.org/events/1468/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.171Z"
+  },
+  {
+    "id": "movement-research-2026-09-29-studies-project-root-work-mapping-our-bl",
+    "title": "Studies Project: Root Work – Mapping Our Black Dance Lineage",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-09-29",
+    "description": "A studies project led by Black Dance Change Makers exploring and mapping the lineage of Black dance through discussion and embodied research.",
+    "url": "https://movementresearch.org/events/1450/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.175Z"
+  },
+  {
+    "id": "danspace-project-2026-10-15-sreelakshmy-govardhanan-the-journey-of-k",
+    "title": "Sreelakshmy Govardhanan: The Journey of Kuchipudi: From Yakshaganam to the Solo",
+    "venue_id": "danspace-project",
+    "venue_name": "Danspace Project",
+    "date": "2026-10-15",
+    "description": "A solo performance tracing the historical journey of the Indian classical dance form Kuchipudi from its origins in Yakshaganam storytelling to its solo form.",
+    "url": "https://danspaceproject.org/calendar/fw2026-govardhanan/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.199Z"
+  },
+  {
+    "id": "green-wood-2026-10-04-meet-your-green-neighbors",
+    "title": "Meet Your Green Neighbors",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-04",
+    "time_start": "11:00",
+    "time_end": "12:30",
+    "description": "A guided exploration of Green-Wood's landscape and history, with rare access to the Catacombs.",
+    "url": "https://www.green-wood.com/event/meet-your-green-neighbors-11/",
+    "format": "walk",
+    "interest_score": 3.1,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.215Z"
+  },
+  {
+    "id": "green-wood-2026-09-27-birding-in-peace",
+    "title": "Birding in Peace",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-09-27",
+    "time_start": "06:30",
+    "time_end": "08:00",
+    "description": "An early morning walking tour offering exclusive access to observe the birds of Green-Wood before the gates open to the public.",
+    "url": "https://www.green-wood.com/event/birding-in-peace-32/2026-09-27/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.214Z"
+  },
+  {
+    "id": "green-wood-2026-10-03-dinosaurs-in-action-green-wood-s-birds-o",
+    "title": "Dinosaurs in Action: Green-Wood's Birds of Prey",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-03",
+    "time_start": "10:15",
+    "time_end": "11:45",
+    "description": "A guided walk observing birds of prey at Green-Wood, highlighting their hunting, nesting, and flying behaviors.",
+    "url": "https://www.green-wood.com/event/dinosaurs-in-action-green-woods-birds-of-prey/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.214Z"
+  },
+  {
+    "id": "green-wood-2026-10-04-birding-in-peace",
+    "title": "Birding in Peace",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-04",
+    "time_start": "06:30",
+    "time_end": "08:00",
+    "description": "An early morning walking tour offering exclusive access to observe the birds of Green-Wood before the gates open to the public.",
+    "url": "https://www.green-wood.com/event/birding-in-peace-32/2026-10-04/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.214Z"
+  },
+  {
+    "id": "green-wood-2026-10-07-birding-in-peace",
+    "title": "Birding in Peace",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-07",
+    "time_start": "06:30",
+    "time_end": "08:00",
+    "description": "An early morning walking tour offering exclusive access to observe the birds of Green-Wood before the gates open to the public.",
+    "url": "https://www.green-wood.com/event/birding-in-peace-32/2026-10-07/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.215Z"
+  },
+  {
+    "id": "green-wood-2026-10-09-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-09",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "An after-dark walking tour through Green-Wood's history, legends, and secrets, including access to the Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-09/1/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.215Z"
+  },
+  {
+    "id": "green-wood-2026-10-09-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-09",
+    "time_start": "18:30",
+    "time_end": "20:30",
+    "description": "An after-dark walking tour through Green-Wood's history, legends, and secrets, including access to the Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-49/2026-10-09/2/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.215Z"
+  },
+  {
+    "id": "drom-2026-09-26-girl-edm-dance-party-",
+    "title": "Girl EDM [Dance Party]",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-09-26",
+    "time_start": "23:00",
+    "description": "A hyperpop, garage, trance, and electronic dance party celebrating the women artists carrying electronic music forward right now.",
+    "url": "https://dromnyc.com/event/girl-edm-dance-party/",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "electronic-music"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.233Z"
+  },
+  {
+    "id": "drom-2026-09-24-serkan-tumer",
+    "title": "Serkan Tumer",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-09-24",
+    "time_start": "18:30",
+    "description": "An intimate live performance by Serkan Tumer, sharing songs with unique stories.",
+    "url": "https://dromnyc.com/event/serkan-tumer-sep-24-2026/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.233Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-09-24-pahua-live-in-concert",
+    "title": "Pahua Live in Concert",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-09-24",
+    "description": "Mexico City-based artist Pahua brings her electrifying blend of cumbia, Afrobeat, folktronica, and global bass to Flushing Town Hall, with a pre-show talk and dance floor.",
+    "url": "https://www.flushingtownhall.org/show-details/pahua",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "cumbia",
+      "afrobeat"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.251Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-03-global-mashup-greece-meets-garifuna",
+    "title": "Global Mashup: Greece Meets Garifuna",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-03",
+    "time_start": "19:00",
+    "description": "Kelepoúri's Smyrneiko rebetika and Gogo Norales's Garifuna paranda collide for the first time in a high-energy mashup night, with dance lessons followed by performances.",
+    "url": "https://www.flushingtownhall.org/show-details/global-mashup-greece-meets-garifuna",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.251Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-06-archtober-film-screening",
+    "title": "Archtober Film Screening",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-06",
+    "description": "A screening presented as part of the Architecture & Design Film Festival, celebrating the creative spirit that drives architecture and design.",
+    "url": "https://www.flushingtownhall.org/show-details/archtober-film-screening",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space",
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.251Z"
+  },
+  {
+    "id": "morus-2026-09-24-spyborg-the-14th-museum-of-reclaimed-urb",
+    "title": "SPYBORG: The 14th Museum of Reclaimed Urban Space Film Festival",
+    "venue_id": "morus",
+    "venue_name": "Museum of Reclaimed Urban Space",
+    "date": "2026-09-24",
+    "description": "The 14th annual MoRUS Film Festival returns with \"Spyborg,\" interrogating the culture and reality of surveillance through film. Programming runs September 24-26 across different community gardens and parks on the Lower East Side.",
+    "url": "https://morusnyc.org/spyborg-the-14th-museum-of-reclaimed-urban-space-film-festival/",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.944Z"
+  },
+  {
+    "id": "the-brick-2026-10-19-brickflix-and-hoff-s-horrorfest-present-",
+    "title": "BrickFlix and Hoff's HorrorFest Present Francis Ford Coppola's \"Dementia 13\"",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-10-19",
+    "time_start": "19:30",
+    "description": "Live comedy and horror film screening series returns with Francis Ford Coppola's 1963 slasher \"Dementia 13,\" featuring a live performance by Alyse Dreamhouse. Doors at 7pm, screening and performance at 7:30pm.",
+    "url": "https://www.bricktheater.com/event/brickflix-and-hoffs-horrorfest-present-francis-ford-coppolas-dementia-13/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.969Z"
+  },
+  {
+    "id": "the-brick-2026-09-23-the-wreck-of-the-unbelievable",
+    "title": "The Wreck of the Unbelievable",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-09-23",
+    "description": "A play by Sleth: art-world megastar Damien Hirst has died scandalously, leaving behind preserved animals, a diamond skull, and a secret boyfriend; an assistant curator races to get his story first. Running Sept 17-26 at The Brick Theater, 90 minutes.",
+    "url": "https://www.bricktheater.com/event/the-wreck-of-the-unbelievable/2026-09-23/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:27:17.969Z"
   }
 ]
