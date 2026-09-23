@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:18:51.804Z"
+    "last_checked": "2026-09-23T07:19:10.827Z"
   },
   {
     "id": "new-museum",
@@ -3071,7 +3071,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.278Z"
+    "last_checked": "2026-09-23T07:19:10.798Z"
   },
   {
     "id": "movement-research",
@@ -3411,7 +3411,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.404Z"
+    "last_checked": "2026-09-23T07:19:10.813Z"
   },
   {
     "id": "celebrate-brooklyn",

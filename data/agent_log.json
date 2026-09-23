@@ -2770,5 +2770,35 @@
     "events_found": 4,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "abrons-arts-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:19:10.799Z",
+    "completed_at": "2026-09-23T07:19:10.799Z",
+    "events_found": 7,
+    "events_new": 7,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "summerstage",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:19:10.814Z",
+    "completed_at": "2026-09-23T07:19:10.814Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "moma-ps1",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-23T07:19:10.828Z",
+    "completed_at": "2026-09-23T07:19:10.828Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
   }
 ]

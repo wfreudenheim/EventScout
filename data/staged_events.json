@@ -8227,5 +8227,203 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-09-23T07:18:51.824Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-10-22-kinstillatory-mappings-in-light-and-dark",
+    "title": "Kinstillatory Mappings in Light and Dark Matter",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-10-22",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Emily Johnson and Kai Recollet present an embodied, site-specific work exploring cosmology, land, and matter through movement and installation.",
+    "url": "https://abronsartscenter.org/programs/kinstillatory-mappings-in-light-and-dark-matter-2026g",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.772Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-09-29-from-yesterday-to-tomorrow-baked-fresh-d",
+    "title": "From Yesterday to Tomorrow: Baked Fresh Daily",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-09-29",
+    "time_start": "19:00",
+    "description": "A new performance work presented at Abrons Arts Center as part of its interdisciplinary performance season.",
+    "url": "https://abronsartscenter.org/programs/yesterday-tomorrow-doughnut",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.772Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-10-02-broadway-does-punk",
+    "title": "Broadway Does Punk",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-10-02",
+    "description": "A performance blending Broadway theatrical tradition with punk music and attitude, staged at Abrons Arts Center.",
+    "url": "https://abronsartscenter.org/programs/broadway-punk",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.772Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-10-17-fall-festival-2026",
+    "title": "Fall Festival 2026",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-10-17",
+    "time_start": "12:00",
+    "time_end": "16:00",
+    "description": "Abrons Arts Center's annual fall festival, a daytime celebration of the center's artists and community programming.",
+    "url": "https://abronsartscenter.org/programs/fall-festival-2026",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.772Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-11-05-en-par-bola-conversations-on-tragedy",
+    "title": "En Parábola/Conversations on Tragedy",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-11-05",
+    "description": "Natalia Lassalle-Morillo presents an interdisciplinary work at Abrons Arts Center running through December 20.",
+    "url": "https://abronsartscenter.org/programs/enparabola",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.773Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-11-12-daily-diversions-world-premiere-",
+    "title": "Daily Diversions (World Premiere)",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-11-12",
+    "time_start": "19:30",
+    "description": "Cherrie Yu premieres a new performance work at Abrons Arts Center, running November 12–14.",
+    "url": "https://abronsartscenter.org/programs/dailydiversions",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.774Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-10-24-shadow-of-the-unhinged",
+    "title": "Shadow of the Unhinged",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-10-24",
+    "description": "Four Seas Players present a theatrical production running through November 1 at Abrons Arts Center.",
+    "url": "https://abronsartscenter.org/programs/fourseas-Fall2026",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.773Z"
+  },
+  {
+    "id": "summerstage-2027-05-29-odd-mob",
+    "title": "Odd Mob",
+    "venue_id": "summerstage",
+    "venue_name": "SummerStage (City Parks Foundation)",
+    "date": "2027-05-29",
+    "time_start": "17:30",
+    "time_end": "22:00",
+    "description": "Genre-defying Australian producer and DJ Odd Mob plays a free SummerStage show in Manhattan.",
+    "url": "https://cityparksfoundation.org/events/odd-mob/",
+    "price": "free",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.802Z"
+  },
+  {
+    "id": "moma-ps1-2026-09-24-printed-matter-s-2026-ny-art-book-fair",
+    "title": "Printed Matter's 2026 NY Art Book Fair",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-09-24",
+    "time_start": "12:00",
+    "time_end": "18:00",
+    "description": "The world's leading fair for artists' books returns to MoMA PS1, convening independent publishers, artists, antiquarian booksellers, and zine collectives from around the globe, running September 24-27.",
+    "url": "https://www.momaps1.org/en/events/841-printed-matter-s-2026-ny-art-book-fair",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.817Z"
+  },
+  {
+    "id": "moma-ps1-2026-09-24-printed-matter-s-2026-ny-art-book-fair-o",
+    "title": "Printed Matter's 2026 NY Art Book Fair: Opening Night Celebration",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-09-24",
+    "time_start": "19:00",
+    "time_end": "22:00",
+    "description": "Opening night party for the NY Art Book Fair at MoMA PS1, featuring musical performances by SHYBOI and A.B.E.L.A. and a limited-edition artwork by Sarah Yukiko.",
+    "url": "https://www.momaps1.org/en/events/843-printed-matter-s-2026-ny-art-book-fair",
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-23T07:19:10.817Z"
   }
 ]
