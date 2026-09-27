@@ -10506,5 +10506,220 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:27:17.429Z"
+  },
+  {
+    "id": "white-columns-2026-10-24-mieko-meguro-works-new-york-2009-2026-th",
+    "title": "Mieko Meguro: Works, New York, 2009-2026 (through Oct 24)",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-10-24",
+    "description": "Survey exhibition of Mieko Meguro's paintings and drawings made in New York between 2009 and 2026, on view at White Columns.",
+    "url": "https://whitecolumns.org/exhibitions/mieko-meguro/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.336Z"
+  },
+  {
+    "id": "white-columns-2026-10-24-eric-spencer-words-on-my-mind-through-oc",
+    "title": "Eric Spencer: Words on my Mind (through Oct 24)",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-10-24",
+    "description": "Exhibition of new work by Eric Spencer at White Columns.",
+    "url": "https://whitecolumns.org/exhibitions/eric-spencer/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.337Z"
+  },
+  {
+    "id": "white-columns-2026-10-24-juliette-collet-bobbie-cadet-in-the-cour",
+    "title": "Juliette Collet: Bobbie Cadet in the Court of the Ladybugs (through Oct 24)",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-10-24",
+    "description": "Exhibition of new work by Juliette Collet at White Columns.",
+    "url": "https://whitecolumns.org/exhibitions/juliette-collet/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.338Z"
+  },
+  {
+    "id": "participant-inc-2026-10-25-tyler-cala-williams-elastic-synapse-thro",
+    "title": "Tyler Cala Williams: Elastic Synapse (through Oct 25)",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-10-25",
+    "description": "Solo exhibition curated by Executive Care featuring work by Tyler Cala Williams, including pieces made with Blender, Photoshop, and found photographs, at Participant Inc.",
+    "url": "https://participantinc.org/seasons/season-25/tyler-cala-williams-elastic-synapse",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "blender"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Experimental Animation & Moving Image",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.362Z"
+  },
+  {
+    "id": "recess-art-2026-10-24-the-khajistan-institute-for-advanced-res",
+    "title": "The Khajistan Institute for Advanced Research and Necessary Development (through Oct 24)",
+    "venue_id": "recess-art",
+    "venue_name": "Recess",
+    "date": "2026-10-24",
+    "description": "On-view installation at Recess presenting a fictional research institute — a speculative worldbuilding project exploring invented histories and institutions.",
+    "url": "https://www.recessart.org/projects/605-the-khajistan-institute-for-advanced-research-and-necessary-development",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "installation",
+      "worldbuilding"
+    ],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.385Z"
+  },
+  {
+    "id": "amant-2027-02-14-sentient-earth-through-feb-14-2027-",
+    "title": "Sentient Earth (through Feb 14, 2027)",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2027-02-14",
+    "description": "Group exhibition at Amant exploring ecological sentience and the environment; free and on view through mid-February 2027 (note: closing date is well beyond the usual look-ahead window, flagged as a long-running show).",
+    "url": "https://www.amant.org/exhibitions/360-sentient-earth",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.404Z"
+  },
+  {
+    "id": "amant-2026-11-29-matthew-lutz-kinoy-the-mud-room-itineran",
+    "title": "Matthew Lutz Kinoy: The Mud Room — Itinerant Artists, Folk Spectacles, and Painted Walls (through Nov 29)",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-11-29",
+    "description": "Exhibition by Matthew Lutz Kinoy at Amant centered on itinerant artists, folk spectacles, and painted walls; free.",
+    "url": "https://www.amant.org/exhibitions/393-the-mud-room-itinerant-artists-folk-spectacles-and-painted-walls",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.405Z"
+  },
+  {
+    "id": "la-mama-2026-10-01-queer-new-york-international-arts-festiv",
+    "title": "Queer New York International Arts Festival (QNYIA)",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-10-01",
+    "description": "Multi-week festival of queer experimental performance, theatre, and arts programming at La MaMa, running October 1–11.",
+    "url": "http://lamama.org/queer-new-york-festival/",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.432Z"
+  },
+  {
+    "id": "index-space-2026-10-22-look-feel",
+    "title": "Look & Feel",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-10-22",
+    "description": "Community design/aesthetics-themed program at Index Greenpoint, hosted by Rahmi Halaby.",
+    "url": "https://www.index-space.org/programming/look-feel-evt-iVtNFmberU8VSV7?view=list",
+    "format": "other",
+    "interest_score": 2.8,
+    "tags": [
+      "aesthetics"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.456Z"
+  },
+  {
+    "id": "index-space-2026-10-27-vibecoding-101",
+    "title": "Vibecoding 101",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-10-27",
+    "description": "Introductory workshop on \"vibecoding\" (AI-assisted coding) at Index Chinatown, hosted by Bill Roberts.",
+    "url": "https://www.index-space.org/programming/vibecoding-101-evt-uDJEA0FMU1Ga7zy?view=list",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.457Z"
+  },
+  {
+    "id": "movement-research-2026-09-28-morning-class-with-marguerite-hemmings",
+    "title": "Morning Class with Marguerite Hemmings",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-09-28",
+    "description": "Ongoing morning movement/dance class at Movement Research led by Marguerite Hemmings, running Sept 28–Oct 9.",
+    "url": "https://movementresearch.org/classes/3066/",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:31:28.471Z"
   }
 ]

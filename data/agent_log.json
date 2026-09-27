@@ -3820,5 +3820,85 @@
     "events_found": 12,
     "events_new": 5,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "white-columns",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:31:28.358Z",
+    "completed_at": "2026-09-27T07:31:28.358Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "participant-inc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:31:28.381Z",
+    "completed_at": "2026-09-27T07:31:28.381Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:31:28.402Z",
+    "completed_at": "2026-09-27T07:31:28.402Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "amant",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:31:28.430Z",
+    "completed_at": "2026-09-27T07:31:28.430Z",
+    "events_found": 2,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "la-mama",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:31:28.450Z",
+    "completed_at": "2026-09-27T07:31:28.450Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:31:28.468Z",
+    "completed_at": "2026-09-27T07:31:28.468Z",
+    "events_found": 2,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "movement-research",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:31:28.481Z",
+    "completed_at": "2026-09-27T07:31:28.481Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:31:28.488Z",
+    "completed_at": "2026-09-27T07:31:28.488Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
   }
 ]
