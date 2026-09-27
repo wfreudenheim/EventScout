@@ -8875,5 +8875,659 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:20:32.415Z"
+  },
+  {
+    "id": "la-mama-2026-09-27-maedeup-weaving-shin-yun-bok",
+    "title": "MAEDEUP: Weaving Shin Yun-Bok",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-09-27",
+    "description": "A live, non-verbal performance by Seoul Institute of the Arts that reimagines Korean classical painting through contemporary performance. Final performance of a run that began September 24.",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [
+      "painting"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.423Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-27-toney-w-merritt-retrospective-program-1-",
+    "title": "Toney W. Merritt Retrospective: Program 1 (Psychodramas)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-27",
+    "time_start": "19:00",
+    "description": "First-ever extensive East Coast retrospective of Bay Area experimental filmmaker Toney W. Merritt; Program 1 (Psychodramas: Masked Figures/Multiple Identities) screens with Merritt in person for a Q&A moderated by David Sherman.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.449Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-27-bo-harwood-record-release-the-killing-of",
+    "title": "Bo Harwood Record Release: The Killing of a Chinese Bookie (35mm)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-27",
+    "time_start": "15:45",
+    "description": "35mm screening of Cassavetes' The Killing of a Chinese Bookie marking the release of a new LP of composer Bo Harwood's music from Cassavetes' films.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.449Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-01-combat-breathing-vol-ii-a-symposium-on-a",
+    "title": "Combat Breathing Vol. II: A Symposium on Aesthetics and Politics",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-01",
+    "description": "Multi-site platform of screenings, discussions and workshops (Oct 1-8) exploring Third Cinema and anti-colonial film traditions, curated by KJ Abudu and Adam HajYahia.",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "aesthetics"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.450Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-02-avatars-of-the-whore",
+    "title": "Avatars of the Whore",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-02",
+    "description": "Guest-programmed by Ayanna Dozier, this film series (Oct 2-13) examines depictions of sex work across club, dungeon, street and bayou settings.",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.450Z"
+  },
+  {
+    "id": "drom-2026-09-29-riki-rose",
+    "title": "Riki Rose",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-09-29",
+    "time_start": "18:30",
+    "description": "Riki Rose, raised in Williamsburg's Satmar Hasidic community, performs music shaped by Yiddish culture and tradition.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.463Z"
+  },
+  {
+    "id": "drom-2026-09-27-vocal-gumbo",
+    "title": "Vocal Gumbo",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-09-27",
+    "time_start": "18:30",
+    "description": "Vocal Gumbo and The Village Trip join forces for an evening celebrating the human voice with a diverse lineup of vocalists.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.463Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-09-27-everyday-royalty-an-exhibition-of-artist",
+    "title": "Everyday Royalty: An Exhibition of Artists Across Henry Street Settlement",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-09-27",
+    "description": "Group exhibition of photography, collage, painting, sewing and embroidery by participants from Henry Street's Older Adult Center and Community Consultation Center, on view through October 18.",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2.5,
+    "tags": [
+      "painting",
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.493Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-10-the-adventures-of-prince-achmed-35mm-100",
+    "title": "The Adventures of Prince Achmed (35mm), 100th Anniversary",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-10",
+    "time_start": "13:00",
+    "description": "Lotte Reiniger's 1926 silhouette-animation feature screens in 35mm with live musical accompaniment by Charlie Judkins, preceded by a lecture from animation historian Whitney Grace.",
+    "price": "free (MoMI members)",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.508Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-02-inland-empire",
+    "title": "Inland Empire",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-02",
+    "time_start": "18:30",
+    "description": "David Lynch's surreal final feature, starring Laura Dern as an actress descending into Hollywood's underbelly.",
+    "price": "free (MoMI members)",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.508Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-11-two-films-maudits-with-j-hoberman",
+    "title": "Two \"Films Maudits\" with J. Hoberman",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-11",
+    "description": "Critic J. Hoberman presents a double feature of Richard Kelly's Southland Tales and Michael Powell's Peeping Tom, both critically reappraised cult films, followed by a book signing.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.508Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-04-life-masks-in-cinema",
+    "title": "Life Masks in Cinema",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-04",
+    "time_start": "13:00",
+    "description": "Pop culture historian Mike Drake presents on the history and craft of life masks in film, part of the free Open Worlds series.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.507Z"
+  },
+  {
+    "id": "sculpture-center-2026-09-27-cevdet-erek-americas",
+    "title": "Cevdet Erek: Americas",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-09-27",
+    "description": "Site-responsive sonic installations by architect-musician Cevdet Erek, developed over a decade across Mexico City, Chicago, San Francisco, São Paulo, and The Hague, plus a new SculptureCenter commission; on view through Dec 28.",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.519Z"
+  },
+  {
+    "id": "sculpture-center-2026-09-27-yining-fei-feral-sediment",
+    "title": "Yining Fei: Feral Sediment",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-09-27",
+    "description": "Ceramic sculptures in the form of deer viscera, drawn from fieldwork on the rewilding of the milu (Père David's deer), reimagining the interiority of a domesticated body; on view through Dec 28.",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "rewilding"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.520Z"
+  },
+  {
+    "id": "sculpture-center-2026-09-27-aziz-hazara-coming-home",
+    "title": "Aziz Hazara: Coming Home",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-09-27",
+    "description": "Installation gathering discarded American military waste from Bagram Airfield, sourced through Afghan scrap dealers and brokers, addressing the aftermath of the U.S. withdrawal; on view through Dec 28.",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.519Z"
+  },
+  {
+    "id": "printed-matter-2026-09-27-bark-of-millions-book-signing-with-taylo",
+    "title": "Bark of Millions Book Signing with Taylor Mac & Matt Ray",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-27",
+    "time_start": "13:00",
+    "description": "Signing for the box-set companion to Taylor Mac and Matt Ray's four-hour rock opera celebrating queerness, featuring lyrics and lead sheets for 55 original songs.",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.536Z"
+  },
+  {
+    "id": "printed-matter-2026-09-27-five-cuts-in-five-acts-zine-signing",
+    "title": "Five Cuts in Five Acts Zine Signing",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-27",
+    "time_start": "15:00",
+    "description": "Signing for a collection of five zines curated by Justine Kurland, featuring Keisha Scarville, Genesis Baez, Mayita Mendez, Chen Xiangyun and Tammy Rae Carland, exploring collage as a speculative disruption of archives and power.",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.536Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-01-possible-love-nyff64-main-slate-",
+    "title": "Possible Love (NYFF64 Main Slate)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-01",
+    "time_start": "13:30",
+    "description": "Lee Chang-dong's Silver Lion-winning drama about two couples from different social strata, centered on a laid-off factory worker and his wife who become subjects of a documentary; South Korea's submission for the Academy Awards.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.552Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-02-cameron-winter-at-carnegie-hall-35mm-",
+    "title": "Cameron Winter at Carnegie Hall (35mm)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-02",
+    "time_start": "11:45",
+    "description": "NYFF64 screening of a 35mm concert film documenting musician Cameron Winter's Carnegie Hall performance.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.552Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-07-bitter-christmas-with-q-a-",
+    "title": "Bitter Christmas (with Q&A)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-07",
+    "time_start": "15:15",
+    "description": "Pedro Almodóvar's latest film screens as part of NYFF64, followed by a Q&A.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.553Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-16-the-devils-35mm-",
+    "title": "The Devils (35mm)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-16",
+    "description": "Ken Russell's long-suppressed adaptation of Aldous Huxley's novel, restored and uncensored, screens for one week as part of NYFF64 Revivals.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.553Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-23-fatherland",
+    "title": "Fatherland",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-23",
+    "description": "Paweł Pawlikowski's Cannes Best Director-winning film follows novelist Thomas Mann and his daughter Erika Mann on a postwar road trip across Germany; Poland's Academy Awards submission, part of NYFF64 Main Slate.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.554Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-27-misty-green-nyff64-with-q-a-",
+    "title": "Misty Green (NYFF64, with Q&A)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-27",
+    "time_start": "11:30",
+    "description": "New York Film Festival screening followed by a Q&A.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.552Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-27-a-long-winter-nyff64-with-q-a-",
+    "title": "A Long Winter (NYFF64, with Q&A)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-27",
+    "time_start": "21:15",
+    "description": "New York Film Festival screening followed by a Q&A, with a second Q&A screening Monday, Sept 28 at 3:15pm.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.552Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-03-behemoth-dolby-atmos-",
+    "title": "Behemoth! (Dolby Atmos)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-03",
+    "time_start": "12:00",
+    "description": "NYFF64 screening in Dolby Atmos, with a second screening Tuesday, Oct 6 at 11:45am.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.553Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-06-a-statement",
+    "title": "A Statement",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-06",
+    "time_start": "15:45",
+    "description": "NYFF64 screening.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.553Z"
+  },
+  {
+    "id": "nitehawk-2026-10-01-the-history-of-concrete-q-a-with-john-wi",
+    "title": "The History of Concrete (Q&A with John Wilson)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-01",
+    "time_start": "18:30",
+    "description": "John Wilson's first feature explores the material that holds New York City together before branching into wide-ranging tangents on public housing and beyond; the Thursday show is followed by a Q&A with Wilson.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "housing"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.566Z"
+  },
+  {
+    "id": "nitehawk-2026-10-15-brooklyn-horror-film-festival",
+    "title": "Brooklyn Horror Film Festival",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-15",
+    "description": "Eight days of horror premieres, Q&As, 35mm screenings and parties, including the Leviathan Award for The Adams Family and the Culture Shock: Black Horror and Slayed: LGBTQ+ Horror strands.",
+    "format": "festival",
+    "interest_score": 2.5,
+    "tags": [
+      "film-festival",
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.565Z"
+  },
+  {
+    "id": "nitehawk-2026-09-29-the-heart-of-the-beast",
+    "title": "The Heart of the Beast",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-09-29",
+    "time_start": "15:30",
+    "description": "A documentary love story between a man and his dog, screening as part of Nitehawk's Adults with Infants series.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.566Z"
+  },
+  {
+    "id": "nitehawk-2026-10-01-digger",
+    "title": "Digger",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-01",
+    "description": "Tom Cruise stars in the latest film from director Alejandro G. Iñárritu, opening at both Nitehawk locations.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.567Z"
+  },
+  {
+    "id": "union-docs-2026-09-27-narcisa-hirsch-graffiti-film-political-g",
+    "title": "Narcisa Hirsch: Graffiti, Film & Political Gesture",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-09-27",
+    "time_start": "19:30",
+    "description": "Filmmaker Jessica Sarah Rinland presents performance, reading, and a selection of films by pioneering Argentine experimental filmmaker Narcisa Hirsch, tracing her graffiti and political interventions made under Argentina's 1976-83 military dictatorship; in conversation with Julián D'Angiolillo.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.577Z"
+  },
+  {
+    "id": "union-docs-2026-10-01-fall-of-freedom-under-pressure-how-to-do",
+    "title": "Fall of Freedom — Under Pressure: How to Document \"Unprecedented Times\"",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-10-01",
+    "time_start": "19:30",
+    "description": "Filmmakers Laura Poitras and Rachel Lauren Mueller join Radiolab creator Jad Abumrad to discuss the ethics and practicalities of political documentary-making today, drawing on their film They're Here about ICE's occupation of Minneapolis.",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.577Z"
+  },
+  {
+    "id": "wendys-subway-2026-10-07-gerund-violence-book-launch",
+    "title": "Gerund Violence Book Launch",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-10-07",
+    "time_start": "19:00",
+    "description": "Book launch for Claudia Pagès Rabal's Gerund Violence, an interdisciplinary work spanning writing, choreography and moving image that examines language, law, time, and territory across the Iberian Peninsula and Mediterranean; with Zoey Kira Lubitz and the Center for Experimental Lectures.",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:21:55.599Z"
+  },
+  {
+    "id": "n-plus-one-2026-10-01-last-year-in-end-times-cinema-a-conversa",
+    "title": "Last Year in End Times Cinema: A Conversation with A. S. Hamrah",
+    "venue_id": "n-plus-one",
+    "venue_name": "n+1 Magazine",
+    "date": "2026-10-01",
+    "time_start": "19:00",
+    "description": "n+1 film critic A. S. Hamrah discusses the latest in 'end times cinema' with contributor Will Tavlin and coeditor Lisa Borst.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:22:13.575Z"
   }
 ]

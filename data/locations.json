@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:20:32.379Z"
+    "last_checked": "2026-09-27T07:21:55.460Z"
   },
   {
     "id": "spectacle-theater",
@@ -531,7 +531,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Correct URL is /events/ not /exhibitions. /exhibitions/ also has show listings.",
-    "last_checked": "2026-09-15T14:55:26.250Z"
+    "last_checked": "2026-09-27T07:21:55.532Z"
   },
   {
     "id": "the-kitchen",
@@ -645,7 +645,7 @@
     "scrape_tier": 2,
     "structured_source": null,
     "generated_scraper": "scrapers/union-docs.ts",
-    "last_checked": "2026-09-27T06:52:00.104Z"
+    "last_checked": "2026-09-27T07:21:55.596Z"
   },
   {
     "id": "whitney",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:19:53.632Z"
+    "last_checked": "2026-09-27T07:21:55.562Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:18:51.650Z"
+    "last_checked": "2026-09-27T07:21:55.517Z"
   },
   {
     "id": "moma",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-09-23T07:23:31.905Z"
+    "last_checked": "2026-09-27T07:21:55.543Z"
   },
   {
     "id": "the-shed",
@@ -1773,7 +1773,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.265Z"
+    "last_checked": "2026-09-27T07:21:55.607Z"
   },
   {
     "id": "cybernetics-library",
@@ -2222,7 +2222,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.865Z"
+    "last_checked": "2026-09-27T07:21:55.574Z"
   },
   {
     "id": "japan-society",
@@ -2672,7 +2672,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:27:11.976Z"
+    "last_checked": "2026-09-27T07:22:13.589Z"
   },
   {
     "id": "the-drift",
@@ -2909,7 +2909,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.611Z"
+    "last_checked": "2026-09-27T07:21:55.445Z"
   },
   {
     "id": "harvestworks",
@@ -3052,7 +3052,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.696Z"
+    "last_checked": "2026-09-27T07:21:55.549Z"
   },
   {
     "id": "abrons-arts-center",
@@ -3076,7 +3076,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:19:10.798Z"
+    "last_checked": "2026-09-27T07:21:55.504Z"
   },
   {
     "id": "movement-research",
@@ -3388,7 +3388,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:27:17.248Z"
+    "last_checked": "2026-09-27T07:21:55.490Z"
   },
   {
     "id": "summerstage",
