@@ -8639,5 +8639,241 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:19:58.240Z"
+  },
+  {
+    "id": "onassis-onx-2026-10-04-what-remains",
+    "title": "What Remains",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-10-04",
+    "description": "Group exhibition in which abandoned theaters are given a speculative digital afterlife, a sculpture attempts to translate itself into code, and ice forms, melts, and becomes language — technology treated as a material and cultural force. On view Sept 25 - Oct 4, 2026 at Onassis ONX's new downtown Manhattan space.",
+    "url": "https://www.onx.studio/onx-programming/what-remains",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.334Z"
+  },
+  {
+    "id": "world-music-institute-2027-02-04-dakhabrakha",
+    "title": "DakhaBrakha",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-02-04",
+    "time_start": "20:00",
+    "description": "Ukrainian 'ethno-chaos' quartet DakhaBrakha blends folk vocals with experimental, avant-garde arrangements at Webster Hall. (Further-out booking noted for planning ahead.)",
+    "url": "https://worldmusicinstitute.org/dakhabrakha-at-webster-hall/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.351Z"
+  },
+  {
+    "id": "world-music-institute-2027-02-27-peni-candra-rini-s-jiwa-kala-",
+    "title": "Peni Candra Rini's 'Jiwa Kala'",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-02-27",
+    "time_start": "20:00",
+    "description": "Indonesian gamelan vocalist and composer Peni Candra Rini presents 'Jiwa Kala' at National Sawdust. (Further-out booking noted for planning ahead.)",
+    "url": "https://worldmusicinstitute.org/peni-candra-rini-jiwa-kala/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "indonesian",
+      "gamelan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.351Z"
+  },
+  {
+    "id": "world-music-institute-2027-03-19-sona-jobarteh",
+    "title": "Sona Jobarteh",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-03-19",
+    "time_start": "20:00",
+    "description": "Sona Jobarteh, the first professional female kora player from a West African griot lineage, performs at Sony Hall. (Further-out booking noted for planning ahead.)",
+    "url": "https://worldmusicinstitute.org/sonajobartehsonyhall/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "griot",
+      "kora"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.351Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-27-toney-w-merritt-pgm-1-psychodramas",
+    "title": "Toney W. Merritt Pgm 1: Psychodramas",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-27",
+    "time_start": "19:00",
+    "description": "A program of experimental short films by Toney W. Merritt grouped under 'Psychodramas', part of a multi-program retrospective at Anthology Film Archives.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61928",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.370Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-27-screamplay",
+    "title": "Screamplay",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-27",
+    "time_start": "16:30",
+    "description": "Repertory screenings of the cult 1985 horror-comedy meta-film Screamplay, playing multiple times daily at Anthology Film Archives through Sept 30, 2026.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61883",
+    "format": "screening",
+    "interest_score": 2.5,
+    "tags": [
+      "repertory-screening",
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.370Z"
+  },
+  {
+    "id": "e-flux-2026-10-22-tim-altenhof-breathing-space-the-archite",
+    "title": "Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-22",
+    "time_start": "19:00",
+    "description": "A talk/launch by architect Tim Altenhof on pneumatic (air-based) architectural structures and their cultural and material implications, held at e-flux.",
+    "url": "https://www.e-flux.com/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.390Z"
+  },
+  {
+    "id": "light-industry-2026-10-13-alfred-e-green-s-four-faces-west-andr-de",
+    "title": "Alfred E. Green's Four Faces West + André de Toth's Ramrod",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-10-13",
+    "description": "A double bill of classic Westerns presented by Narrow Margin at Light Industry.",
+    "url": "https://www.lightindustry.org/narrow-westerns",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.402Z"
+  },
+  {
+    "id": "bitforms-2026-12-20-lajun-mcmillian-child-ren-of-the-bloom",
+    "title": "LaJuné McMillian: Child/ren of the Bloom",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-12-20",
+    "description": "An interactive, multidisciplinary installation exploring the threshold between land and sea and the body's return to its origins, developed from research on phytoplankton, algal blooms, and bioluminescence during a 2026 OceanX residency. On view Sept 12 - Dec 20, 2026 at Pioneer Works, Brooklyn (bitforms-affiliated artist).",
+    "url": "https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.415Z"
+  },
+  {
+    "id": "bitforms-2026-09-24-time-frames-siebren-versteeg",
+    "title": "TIME FRAMES: Siebren Versteeg",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-09-24",
+    "description": "Siebren Versteeg presents five live-feed video artworks that transform familiar places through re-cropping, mirroring, pixelation, and digital manipulation, installed on flat-screen monitors in painted frames. On view Sept 24, 2026 through Spring 2027 at St. John's University Art Gallery, Jamaica, NY (bitforms-affiliated artist).",
+    "url": "https://sjuartgallery.org/Siebren-Versteeg",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.415Z"
+  },
+  {
+    "id": "bitforms-2026-10-17-jennifer-kevin-mccoy-relensing",
+    "title": "Jennifer & Kevin McCoy: ReLensing",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-10-17",
+    "description": "New media artists Jennifer & Kevin McCoy present ReLensing, on view Sept 10 - Oct 17, 2026 at bitforms gallery, New York.",
+    "url": "https://www.bitforms.art/exhibition/relensing",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "new-media",
+      "media-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:20:32.415Z"
   }
 ]

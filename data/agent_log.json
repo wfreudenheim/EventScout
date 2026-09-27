@@ -3430,5 +3430,75 @@
     "events_found": 1,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "onassis-onx",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:20:32.345Z",
+    "completed_at": "2026-09-27T07:20:32.345Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "world-music-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:20:32.368Z",
+    "completed_at": "2026-09-27T07:20:32.368Z",
+    "events_found": 12,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "anthology-film-archives",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:20:32.380Z",
+    "completed_at": "2026-09-27T07:20:32.380Z",
+    "events_found": 4,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "issue-project-room",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:20:32.388Z",
+    "completed_at": "2026-09-27T07:20:32.388Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "e-flux",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:20:32.399Z",
+    "completed_at": "2026-09-27T07:20:32.399Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "light-industry",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:20:32.413Z",
+    "completed_at": "2026-09-27T07:20:32.413Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bitforms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:20:32.425Z",
+    "completed_at": "2026-09-27T07:20:32.425Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
   }
 ]

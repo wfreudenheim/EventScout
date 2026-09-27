@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:18:51.621Z"
+    "last_checked": "2026-09-27T07:20:32.379Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:16:17.577Z"
+    "last_checked": "2026-09-27T07:20:32.387Z"
   },
   {
     "id": "roulette",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:18:51.849Z"
+    "last_checked": "2026-09-27T07:20:32.398Z"
   },
   {
     "id": "artists-space",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:16:21.792Z"
+    "last_checked": "2026-09-27T07:20:32.412Z"
   },
   {
     "id": "union-docs",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:16:21.808Z"
+    "last_checked": "2026-09-27T07:20:32.423Z"
   },
   {
     "id": "microscope-gallery",
@@ -2956,7 +2956,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:19:53.679Z"
+    "last_checked": "2026-09-27T07:20:32.344Z"
   },
   {
     "id": "index-space",
@@ -3311,7 +3311,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:19:53.649Z"
+    "last_checked": "2026-09-27T07:20:32.367Z"
   },
   {
     "id": "barbes",
