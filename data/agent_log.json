@@ -3660,5 +3660,65 @@
     "events_found": 7,
     "events_new": 1,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "architectural-league",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:25:50.288Z",
+    "completed_at": "2026-09-27T07:25:50.288Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyas",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:25:50.307Z",
+    "completed_at": "2026-09-27T07:25:50.307Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bard-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:25:50.330Z",
+    "completed_at": "2026-09-27T07:25:50.330Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "poetry-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:25:50.348Z",
+    "completed_at": "2026-09-27T07:25:50.348Z",
+    "events_found": 6,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-book-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:25:50.364Z",
+    "completed_at": "2026-09-27T07:25:50.364Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "rooftop-films",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:25:50.377Z",
+    "completed_at": "2026-09-27T07:25:50.377Z",
+    "events_found": 4,
+    "events_new": 3,
+    "status": "completed"
   }
 ]

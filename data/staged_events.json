@@ -9629,5 +9629,144 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:23:26.215Z"
+  },
+  {
+    "id": "architectural-league-2027-01-14-after-hours-distance-edition-tatiana-bil",
+    "title": "After Hours—Distance Edition: Tatiana Bilbao Estudio",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2027-01-14",
+    "description": "A virtual studio visit in which Tatiana Bilbao ESTUDIO guides League members through their firm's Mexico City office. Further out than the 8-week window, flagged as a notable virtual studio visit with a prominent architect.",
+    "url": "https://archleague.org/event/after-hours-distance-edition-tatiana-bilbao-estudio/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:25:50.272Z"
+  },
+  {
+    "id": "nyas-2026-10-29-fire-after-fire-the-global-wildfire-chal",
+    "title": "Fire After Fire: The Global Wildfire Challenge and the Hidden Risks of Recovery",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-10-29",
+    "description": "A virtual talk examining the growing global wildfire crisis and the often-overlooked risks communities face during post-fire recovery.",
+    "url": "https://www.nyas.org/shaping-science/events/fire-after-fire-the-global-wildfire-challenge-and-the-hidden-risks-of-recovery",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:25:50.291Z"
+  },
+  {
+    "id": "poetry-project-2026-10-14-litmus-press-25th-anniversary-celebratio",
+    "title": "Litmus Press 25th Anniversary Celebration & Benefit",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-10-14",
+    "time_start": "20:00",
+    "description": "A celebration and benefit marking Litmus Press's 25th anniversary, featuring readings from press-affiliated poets.",
+    "url": "https://www.poetryproject.org/events/litmus-press-celebration",
+    "price": "$25",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:25:50.335Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-10-01-letterpress-ii-introduction-to-typograph",
+    "title": "Letterpress II: Introduction to Typography on Press",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-10-01",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "An in-person, multi-session letterpress workshop (Thursdays October 1–29) with Rhonda Khalifeh on typography and press work.",
+    "url": "https://shop.centerforbookarts.org/products/26flp200i",
+    "price": "$525 + $25 materials fee",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:25:50.351Z"
+  },
+  {
+    "id": "rooftop-films-2026-10-02-rooftop-treasure-hunt",
+    "title": "Rooftop Treasure Hunt",
+    "venue_id": "rooftop-films",
+    "venue_name": "Rooftop Films",
+    "date": "2026-10-02",
+    "time_start": "18:00",
+    "description": "A multi-day (Oct 2–4) citywide puzzle hunt celebrating Rooftop Films' 30-year history, with a $5,000 grand prize for the winning team.",
+    "url": "https://rooftopfilms.com/event/rooftop-treasure-hunt/",
+    "price": "free",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:25:50.366Z"
+  },
+  {
+    "id": "rooftop-films-2026-10-03-outdoor-cinema-at-socrates-jean-michel-b",
+    "title": "Outdoor Cinema at Socrates: Jean-Michel Basquiat",
+    "venue_id": "rooftop-films",
+    "venue_name": "Rooftop Films",
+    "date": "2026-10-03",
+    "time_start": "18:00",
+    "description": "An outdoor screening of a feature film about artist Jean-Michel Basquiat, presented at Socrates Sculpture Park.",
+    "url": "https://rooftopfilms.com/event/outdoor-cinema-at-socrates-jean-michel-basquiat/",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:25:50.366Z"
+  },
+  {
+    "id": "rooftop-films-2026-10-08-practical-magic",
+    "title": "Practical Magic",
+    "venue_id": "rooftop-films",
+    "venue_name": "Rooftop Films",
+    "date": "2026-10-08",
+    "time_start": "18:00",
+    "description": "An outdoor screening of \"Practical Magic,\" the witch-sisters cult classic, at Pier 57 in Chelsea.",
+    "url": "https://rooftopfilms.com/event/practical-magic/",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:25:50.366Z"
   }
 ]
