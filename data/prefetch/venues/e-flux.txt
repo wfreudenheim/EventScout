@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-09-23T06:53:26.422Z
+FETCHED:2026-09-27T06:52:04.715Z
 
 Subscribe
 
@@ -37,20 +37,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783389/bar-laika-presents-playback-0038-with-nyksan/
-
-Current & Upcoming
-Bar Laika presents Playback 0038 with Nyksan [/events/6783389/bar-laika-presents-playback-0038-with-nyksan/]
-September 23, 2026, 7pm
-Bar Laika by e-flux
-
-/events/6783378/planetary-afterimages-after-the-short-century/
-
-Current & Upcoming
-Planetary Afterimages: After The Short Century [/events/6783378/planetary-afterimages-after-the-short-century/]
-September 24, 2026, 5pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/planetary-afterimages-after-the-short-century-tickets-1998622341224]
 /events/6783386/bar-laika-presents-playback-0039-with-tomin/
 
 Current & Upcoming
@@ -65,6 +51,13 @@ Bar Laika presents Playback 0040 with Solpara [/events/6783387/bar-laika-present
 October 21, 2026, 7pm
 Bar Laika by e-flux
 
+/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/
+
+Current & Upcoming
+Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings [/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/]
+October 22, 2026, 7pm
+e-flux
+RSVP [https://www.eventbrite.com/e/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings-tickets-2002310373227]
 /events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/
 
 Current & Upcoming
@@ -95,23 +88,6 @@ Filter
 Done
 Current & Upcoming
 In-person
-/events/6783389/bar-laika-presents-playback-0038-with-nyksan/
-
-Bar Laika presents Playback 0038 with Nyksan
-
-[/events/6783389/bar-laika-presents-playback-0038-with-nyksan/]
-September 23, 2026, 7pm
-Bar Laika by e-flux
-In-person, Screenings, Talks
-/events/6783378/planetary-afterimages-after-the-short-century/
-
-Planetary Afterimages: After The Short Century
-
-[/events/6783378/planetary-afterimages-after-the-short-century/]
-September 24, 2026, 5pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/planetary-afterimages-after-the-short-century-tickets-1998622341224]
-In-person
 /events/6783386/bar-laika-presents-playback-0039-with-tomin/
 
 Bar Laika presents Playback 0039 with Tomin
@@ -127,6 +103,15 @@ Bar Laika presents Playback 0040 with Solpara
 [/events/6783387/bar-laika-presents-playback-0040-with-solpara/]
 October 21, 2026, 7pm
 Bar Laika by e-flux
+In-person, Launches
+/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/
+
+Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings
+
+[/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/]
+October 22, 2026, 7pm
+e-flux
+RSVP [https://www.eventbrite.com/e/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings-tickets-2002310373227]
 In-person
 /events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/
 
@@ -137,6 +122,22 @@ November 18, 2026, 7pm
 Bar Laika by e-flux
 Archive
 
+In-person, Screenings, Talks
+/events/6783378/planetary-afterimages-after-the-short-century/
+
+Planetary Afterimages: After The Short Century
+
+[/events/6783378/planetary-afterimages-after-the-short-century/]
+September 24, 2026, 5pm
+e-flux Screening Room
+In-person
+/events/6783389/bar-laika-presents-playback-0038-with-nyksan/
+
+Bar Laika presents Playback 0038 with Nyksan
+
+[/events/6783389/bar-laika-presents-playback-0038-with-nyksan/]
+September 23, 2026, 7pm
+Bar Laika by e-flux
 /events/6783374/art-and-theory-today-readings-from-the-index/
 
 Art and Theory Today: Readings from the Index
@@ -152,23 +153,9 @@ Rehearsal Behavior. II: Yvonne Rainer
 [/events/6783381/rehearsal-behavior-ii-yvonne-rainer/]
 September 19, 2026, 3pm
 e-flux Screening Room
-Screenings, In-person
-/events/6783382/rehearsal-behavior-i-chantal-akerman-and-shirley-clarke/
-
-Rehearsal Behavior. I: Chantal Akerman and Shirley Clarke
-
-[/events/6783382/rehearsal-behavior-i-chantal-akerman-and-shirley-clarke/]
-September 17, 2026, 7pm
-e-flux Screening Room
-In-person
-/events/6783380/bar-laika-presents-playback-0037-with-midgar-records/
-
-Bar Laika presents Playback 0037 with Midgar Records
-
-[/events/6783380/bar-laika-presents-playback-0037-with-midgar-records/]
-September 16, 2026, 7pm
-Bar Laika by e-flux
 Load more
 Advertisement
-/ads/redirect/6747214
-/ads/redirect/6747214
+
+/ads/redirect/6747197
+
+/ads/redirect/6747197

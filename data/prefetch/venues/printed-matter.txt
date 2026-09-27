@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-09-23T06:53:34.646Z
+FETCHED:2026-09-27T06:52:12.050Z
 
 PRINTED MATTER, INC.
 
@@ -168,48 +168,6 @@ September 24 - 27, 2026
 
 EventOffsite
 
-Have you heard?
-The art market is down
-
-A new zine with Derrick Adams
-
-September 25, 2026
-
-[/programs/events/2294]
-
-EventOffsite
-
-Torbjørn Rødland: Dim Revelations
-
-Book Signing at New York Art Book Fair
-
-September 26, 2026
-
-[/programs/events/2285]
-
-EventOffsite
-
-Joseph Rovegno: 030426 / 0526
-
-A Book Signing with Photographer Joseph Rovegno
-
-September 26, 2026
-
-[/programs/events/2293]
-
-EventOffsite
-
-Bricolage Magazine #7
-A Signing with Tom Sachs
-
-The Seventh Issue of Bricolage Magazine. In Print Since ‘09
-
-September 26, 2026
-
-[/programs/events/2292]
-
-EventOffsite
-
 Five Cuts in Five Acts — Curated by Justine Kurland
 
 Featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, & Chen Xiangyun
@@ -225,6 +183,16 @@ Bark of Millions — Book Signing with Taylor Mac and Matt Ray
 September 27, 2026
 
 [/programs/events/2288]
+
+EventOffsite
+
+Love Always
+
+Signing with Nontsikelelo Mutiti and Paul John
+
+September 27, 2026
+
+[/programs/events/2297]
 
 EventChelsea
 
@@ -290,45 +258,47 @@ November 5, 2026
 
 [/programs/events/2291]
 
-EventChelsea
+EventOffsite
 
-Nicole L. Woods, Performing Chance: The Art of Alison Knowles In/Out of Fluxus — In conversation with Saisha Grayson
+Bricolage Magazine #7
+A Signing with Tom Sachs
 
-Launch + conversation
+The Seventh Issue of Bricolage Magazine. In Print Since ‘09
 
-September 16, 2026
+September 26, 2026
 
-[/programs/events/2270]
+[/programs/events/2292]
 
-EventChelsea
+EventOffsite
 
-Inside-Out: Standing in a Threshold by Tamar Halpern
+Joseph Rovegno: 030426 / 0526
 
-Conversation and release event
+A Book Signing with Photographer Joseph Rovegno
 
-September 15, 2026
+September 26, 2026
 
-[/programs/events/2279]
+[/programs/events/2293]
 
-EventFair
+EventOffsite
 
-On Fairs, with Cairo Art Book Fair, Hardcore CDMX Art Book Fair, Singapore Art Book Fair, and BAZAR Art Books in Tehran. Moderated by the Printed Matter Fairs Team
+Torbjørn Rødland: Dim Revelations
 
-One of two programs in the lead-up to NYABF 2026
+Book Signing at New York Art Book Fair
 
-September 12, 2026
+September 26, 2026
 
-[/programs/events/2282]
+[/programs/events/2285]
 
-EventFair
+EventOffsite
 
-On Collecting, with Xena Brar, Isabella Burley, Daylon Orr, and David Senior. Moderated by Craig Mathis
+Have you heard?
+The art market is down
 
-One of two programs in the lead-up to NYABF 2026
+A new zine with Derrick Adams
 
-September 11, 2026
+September 25, 2026
 
-[/programs/events/2281]
+[/programs/events/2294]
 
 See all events [/programs/2-events]
 

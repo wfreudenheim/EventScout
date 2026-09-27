@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-09-23T06:53:39.676Z
+FETCHED:2026-09-27T06:52:17.503Z
 
 /
  * The School
@@ -850,48 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=15&month=9&time_range=week&year=2026 /events?day=1&month=10&time_range=week&year=2026
-Sep 23 – Sep 30
+/events?day=19&month=9&time_range=week&year=2026 /events?day=5&month=10&time_range=week&year=2026
+Sep 27 – Oct 4
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Thu, Sep 24    1pm
-
-MSRED Lecture: David Lubin, Clairmont Group
-
-Lecture
-
-New York
-
-[/events/4293-msred-lecture-david-lubin-clairmont-group]
-
-Thu, Sep 24    6:30pm
-
-Inside Outside: Working Collaborations in Public with Laurie Hawkinson
-
-Discussion
-
-[/events/4270-inside-outside-working-collaborations-in-public-with-laurie-hawkinson]
-
-Fri, Sep 25    1pm
-
-THE LIBRARY IS OPEN 30: After Concrete
-
-Library is Open
-
-[/events/4225-the-library-is-open-30-after-concrete]
-
-Fri, Sep 25    4pm
-
-Virtual
-
-GSAPP Admissions Info Session
-
-[/events/4302-gsapp-admissions-info-session]
 
 Tue, Sep 29    12pm
 
@@ -912,3 +878,31 @@ Lecture
 New York
 
 [/events/4294-msred-lecture-marc-holliday-90-msred]
+
+Thu, Oct 1    9:30am
+
+3 Things I Wish I Knew About Professional Portfolio Preparation with Nika Mo ‘18 MSAAD and Huanyu Chen '18 MSAUD
+
+Career Services
+
+New York
+
+[/events/3965-3-things-i-wish-i-knew-about-professional-portfolio-preparation-with-nika-mo-18-msaad-and-huanyu-chen-18-msaud]
+
+Thu, Oct 1    1pm
+
+MSRED Lecture: Jon Kully, Left Lane
+
+Lecture
+
+New York
+
+[/events/4295-msred-lecture-jon-kully-left-lane]
+
+Fri, Oct 2    1:30pm
+
+2026 FITCH COLLOQUIUM: Preserving Independence: Architecture and Heritage in Western Africa
+
+Conference
+
+[/events/4219-2026-fitch-colloquium-preserving-independence-architecture-and-heritage-in-western-africa]

@@ -11538,5 +11538,30 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-23T07:30:05.888Z"
+  },
+  {
+    "id": "union-docs-2026-10-01-fall-of-freedom-under-pressure-how-to-do",
+    "title": "Fall of Freedom — Under Pressure: How to Document <br> “Unprecedented Times”",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-10-01",
+    "time_start": "19:30",
+    "time_end": "19:30",
+    "description": "<p>How do documentary makers continue to work critically, responsibly, and safely in a rapidly shifting political landscape, and one that is increasingly threatening to those organizing and documenting on the ground?</p>\\n",
+    "url": "https://uniondocs.org/event/fall-of-freedom-under-pressure-how-to-document-unprecedented-times-2026-10-01/",
+    "price": "$10",
+    "format": "other",
+    "interest_score": 2.9,
+    "tags": [
+      "landscape",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Film & Cinema"
+    ],
+    "source_agent": "tier2-scraper",
+    "status": "staged",
+    "discovered_at": "2026-09-27T06:52:00.096Z"
   }
 ]

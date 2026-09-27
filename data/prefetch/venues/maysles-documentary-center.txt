@@ -1,6 +1,6 @@
 VENUE:maysles-documentary-center | Maysles Documentary Center
 URL:https://www.maysles.org/
-FETCHED:2026-09-23T06:53:27.543Z
+FETCHED:2026-09-27T06:52:06.084Z
 
 /
 
@@ -42,36 +42,6 @@ UPCOMING EVENTS
 
 Featured
 
-Sep 23
-[/calendar/home-to-maysles-albies-afterparty]
-September 23, 2026
-
-After AL: An Albies After Party and Film Celebration [/calendar/home-to-maysles-albies-afterparty]
-September 23, 2026
-
-Read more → [/calendar/home-to-maysles-albies-afterparty]
-September 23, 2026
-
-Sep 24
-[/calendar/free-joan-little-sept-2026]
-September 24, 2026
-
-FREE JOAN LITTLE [/calendar/free-joan-little-sept-2026]
-September 24, 2026
-
-Read more → [/calendar/free-joan-little-sept-2026]
-September 24, 2026
-
-Sep 25
-[/calendar/rediscovering-fanon-2026]
-September 25, 2026
-
-REDISCOVERING FANON [/calendar/rediscovering-fanon-2026]
-September 25, 2026
-
-Read more → [/calendar/rediscovering-fanon-2026]
-September 25, 2026
-
 Sep 26
 [/calendar/a-panther-in-africa]
 September 26, 2026
@@ -86,7 +56,7 @@ Sep 26
 [/calendar/legacy-spirit-of-the-black-panthers]
 September 26, 2026
 
-LEGACY SPIRIT OF THE BLACK PANTHERS [/calendar/legacy-spirit-of-the-black-panthers]
+POSTPONED! LEGACY SPIRIT OF THE BLACK PANTHERS [/calendar/legacy-spirit-of-the-black-panthers]
 September 26, 2026
 
 Read more → [/calendar/legacy-spirit-of-the-black-panthers]
@@ -111,6 +81,16 @@ September 27, 2026
 
 Read more → [/calendar/afternoon-with-ashani-alston]
 September 27, 2026
+
+Sep 28
+[/calendar/legacy-spirit-of-the-black-panthers-postponed]
+September 28, 2026
+
+LEGACY SPIRIT OF THE BLACK PANTHERS [/calendar/legacy-spirit-of-the-black-panthers-postponed]
+September 28, 2026
+
+Read more → [/calendar/legacy-spirit-of-the-black-panthers-postponed]
+September 28, 2026
 
 Sep 29
 [/calendar/a-home-worth-fighting-for]
@@ -141,6 +121,26 @@ October 2, 2026
 
 Read more → [/calendar/365-days-of-marching-the-amadou-diallo-story]
 October 2, 2026
+
+Oct 3
+[/calendar/power]
+October 3, 2026
+
+POWER + THE NEW BLACK PANTHERS (Short) [/calendar/power]
+October 3, 2026
+
+Read more → [/calendar/power]
+October 3, 2026
+
+Oct 3
+[/calendar/the-skyjackers-tale]
+October 3, 2026
+
+THE SKYJACKER'S TALE [/calendar/the-skyjackers-tale]
+October 3, 2026
+
+Read more → [/calendar/the-skyjackers-tale]
+October 3, 2026
 
 Maysles Documentary Center is a Harlem-based nonprofit organization committed to community, education, and documentary film. We use filmmaking to amplify and expand under-represented artists and narratives, while empowering young filmmakers in creative self-expression, communicating ideas, and advocating needs.
 

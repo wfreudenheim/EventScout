@@ -1,6 +1,6 @@
 VENUE:whitney | Whitney Museum of American Art
 URL:https://whitney.org/events
-FETCHED:2026-09-23T06:53:40.006Z
+FETCHED:2026-09-27T06:52:17.507Z
 
 Skip to main content
 /
@@ -83,11 +83,11 @@ TODAY’S EVENTS
 
  * 3 pm
 
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
 
    Floor 7
 
-   [/events/untitled-america-exb-tour]
+   [/events/closer-look-untitled-america]
    Tours [/events?tags%5B%5D=free_tours]
 
 View more
@@ -96,11 +96,11 @@ View more
 
 ALL UPCOMING EVENTS
 
- * SEPT 23
+ * SEPT 27
 
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Wednesday, September 23, 2026
+   Sunday, September 27, 2026
    12 pm
 
    [/events/untitled-america-exb-tour]
@@ -110,7 +110,7 @@ ALL UPCOMING EVENTS
 
    EXHIBITION TOUR: WHITNEY BIENNIAL 2026
 
-   Wednesday, September 23, 2026
+   Sunday, September 27, 2026
    1 pm
 
    [/events/tour-whitney-biennial-2026-floor6]
@@ -118,19 +118,49 @@ ALL UPCOMING EVENTS
 
  *  
 
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+
+   Sunday, September 27, 2026
+   3 pm
+
+   [/events/closer-look-untitled-america]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ * SEPT 28
+
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+
+   Monday, September 28, 2026
+   12 pm
+
+   [/events/closer-look-untitled-america]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Monday, September 28, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Wednesday, September 23, 2026
+   Monday, September 28, 2026
    3 pm
 
    [/events/untitled-america-exb-tour]
    Tours [/events?tags%5B%5D=free_tours]
 
- * SEPT 24
+ * SEPT 30
 
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Thursday, September 24, 2026
+   Wednesday, September 30, 2026
    12 pm
 
    [/events/untitled-america-exb-tour]
@@ -138,19 +168,29 @@ ALL UPCOMING EVENTS
 
  *  
 
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Wednesday, September 30, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Thursday, September 24, 2026
+   Wednesday, September 30, 2026
    3 pm
 
    [/events/untitled-america-exb-tour]
    Tours [/events?tags%5B%5D=free_tours]
 
- * SEPT 25
+ * OCT 1
 
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Friday, September 25, 2026
+   Thursday, October 1, 2026
    12 pm
 
    [/events/untitled-america-exb-tour]
@@ -158,22 +198,49 @@ ALL UPCOMING EVENTS
 
  *  
 
-   LEARN TO SEE LIKE NEW: ROY LICHTENSTEIN’S PERCEPTION
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
 
-   Friday, September 25, 2026
-   12–1 pm
+   Thursday, October 1, 2026
+   2 pm
 
-   [/events/learn-to-see-lichtenstein]
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
 
-   Open to all Members
+ *  
 
-   Members [/events?tags%5B%5D=member_events]
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Thursday, October 1, 2026
+   3 pm
+
+   [/events/untitled-america-exb-tour]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EDUCATOR OPEN HOUSE
+
+   Thursday, October 1, 2026
+   4–7:30 pm
+
+   [/events/educator-open-house]
+   Teens [/events?tags%5B%5D=teen_events] Schools and Educators [/events?tags%5B%5D=Schools_and_Educators] Access [/events?tags%5B%5D=access_programs] Tours [/events?tags%5B%5D=free_tours]
+
+ * OCT 2
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Friday, October 2, 2026
+   12 pm
+
+   [/events/untitled-america-exb-tour]
+   Tours [/events?tags%5B%5D=free_tours]
 
  *  
 
    EXHIBITION TOUR: WHITNEY BIENNIAL 2026
 
-   Friday, September 25, 2026
+   Friday, October 2, 2026
    1 pm
 
    [/events/tour-whitney-biennial-2026-floor6]
@@ -181,85 +248,15 @@ ALL UPCOMING EVENTS
 
  *  
 
-   FREE FRIDAY NIGHTS
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
 
-   Friday, September 25, 2026
-   5–10 pm
+   Friday, October 2, 2026
+   2 pm
 
-   [/visit/free-admission/free-friday-nights]
-   Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   15-MINUTE TOUR: HIGHLIGHTS OF THE EXHIBITION “UNTITLED” (AMERICA)
-
-   Friday, September 25, 2026
-   6 pm
-
-   [/events/untitled-america-15min-ffn]
+   [/events/minnie-evans-tour]
    Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
 
- *  
-
-   DJ SET: FKAJAZZ
-
-   Friday, September 25, 2026
-   6–10 pm
-
-   [/events/fkajazz-sept25]
-   Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   MINNIE EVANS: DRAW OR DIE
-
-   Friday, September 25, 2026
-   6 pm
-
-   [/events/minnie-evans-film-screening]
-   Films [/events?tags%5B%5D=film_and_video_screenings] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   15-MINUTE TOUR: HIGHLIGHTS OF THE EXHIBITION “UNTITLED” (AMERICA)
-
-   Friday, September 25, 2026
-   6:30 pm
-
-   [/events/untitled-america-15min-ffn]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   MINNIE EVANS: DRAW OR DIE
-
-   Friday, September 25, 2026
-   7 pm
-
-   [/events/minnie-evans-film-screening]
-   Films [/events?tags%5B%5D=film_and_video_screenings] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   15-MINUTE TOUR: HIGHLIGHTS OF THE WHITNEY BIENNIAL 2026
-
-   Friday, September 25, 2026
-   7 pm
-
-   [/events/whitney-biennial-15-min-ffn-floor6]
-   Biennial 2026 [/events?tags%5B%5D=biennial_2026] Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   15-MINUTE TOUR: HIGHLIGHTS OF THE WHITNEY BIENNIAL 2026
-
-   Friday, September 25, 2026
-   7:30 pm
-
-   [/events/whitney-biennial-15-min-ffn-floor6]
-   Biennial 2026 [/events?tags%5B%5D=biennial_2026] Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
-385 events
+344 events
 
 ON THE HOUR
 

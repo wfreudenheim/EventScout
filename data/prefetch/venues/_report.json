@@ -1,17 +1,18 @@
 {
-  "fetched_at": "2026-09-23T06:53:51.031Z",
+  "fetched_at": "2026-09-27T06:52:22.877Z",
   "total": 134,
-  "ok": 93,
+  "ok": 100,
   "empty": 9,
   "http": 18,
-  "error": 14,
+  "error": 7,
   "venues": [
     {
       "id": "aaww",
       "name": "Asian American Writers' Workshop",
       "url": "https://aaww.org/",
-      "status": "error",
-      "note": "fetch failed"
+      "status": "ok",
+      "http": 200,
+      "chars": 9051
     },
     {
       "id": "abrons-arts-center",
@@ -19,7 +20,7 @@
       "url": "https://abronsartscenter.org/",
       "status": "ok",
       "http": 200,
-      "chars": 1442
+      "chars": 1647
     },
     {
       "id": "amant",
@@ -52,7 +53,7 @@
       "url": "https://archleague.org/events/",
       "status": "ok",
       "http": 200,
-      "chars": 6170
+      "chars": 5583
     },
     {
       "id": "artists-space",
@@ -116,7 +117,7 @@
       "url": "https://www.bgc.bard.edu/events",
       "status": "ok",
       "http": 200,
-      "chars": 5187
+      "chars": 4683
     },
     {
       "id": "bisr",
@@ -124,7 +125,7 @@
       "url": "https://thebrooklyninstitute.com/",
       "status": "ok",
       "http": 200,
-      "chars": 19324
+      "chars": 19132
     },
     {
       "id": "bitforms",
@@ -140,7 +141,7 @@
       "url": "https://blankforms.org/",
       "status": "ok",
       "http": 200,
-      "chars": 4617
+      "chars": 4865
     },
     {
       "id": "brooklyn-raga-massive",
@@ -165,7 +166,7 @@
       "url": "https://bryantpark.org/activities/picnic-performances",
       "status": "ok",
       "http": 200,
-      "chars": 10647
+      "chars": 13774
     },
     {
       "id": "canal-projects",
@@ -196,7 +197,7 @@
       "url": "https://calendar.aiany.org/",
       "status": "ok",
       "http": 200,
-      "chars": 11797
+      "chars": 10859
     },
     {
       "id": "center-for-book-arts",
@@ -228,7 +229,7 @@
       "url": "https://www.arch.columbia.edu/events",
       "status": "ok",
       "http": 200,
-      "chars": 13499
+      "chars": 13574
     },
     {
       "id": "columbia-heyman",
@@ -267,7 +268,7 @@
       "url": "https://cooper.edu/events",
       "status": "ok",
       "http": 200,
-      "chars": 3032
+      "chars": 3328
     },
     {
       "id": "creative-time",
@@ -283,7 +284,7 @@
       "url": "https://www.culturehub.org/",
       "status": "ok",
       "http": 200,
-      "chars": 8343
+      "chars": 7896
     },
     {
       "id": "cuny-graduate-center",
@@ -307,7 +308,7 @@
       "url": "https://danspaceproject.org/",
       "status": "ok",
       "http": 200,
-      "chars": 3811
+      "chars": 3736
     },
     {
       "id": "data-society",
@@ -315,7 +316,7 @@
       "url": "https://datasociety.net/",
       "status": "ok",
       "http": 200,
-      "chars": 17120
+      "chars": 17311
     },
     {
       "id": "do-not-research",
@@ -331,7 +332,7 @@
       "url": "https://dromnyc.com/",
       "status": "ok",
       "http": 200,
-      "chars": 5194
+      "chars": 5574
     },
     {
       "id": "e-flux",
@@ -339,7 +340,7 @@
       "url": "https://www.e-flux.com/live",
       "status": "ok",
       "http": 200,
-      "chars": 5488
+      "chars": 5084
     },
     {
       "id": "electronic-arts-intermix",
@@ -355,7 +356,7 @@
       "url": "https://www.elsewhere.club/events",
       "status": "ok",
       "http": 200,
-      "chars": 7518
+      "chars": 7806
     },
     {
       "id": "emily-harvey-foundation",
@@ -380,7 +381,7 @@
       "url": "https://eyebeam.org/",
       "status": "ok",
       "http": 200,
-      "chars": 1600
+      "chars": 1778
     },
     {
       "id": "film-at-lincoln-center",
@@ -396,7 +397,7 @@
       "url": "https://filmforum.org/now-playing",
       "status": "ok",
       "http": 200,
-      "chars": 14206
+      "chars": 12680
     },
     {
       "id": "film-noir-cinema",
@@ -421,7 +422,7 @@
       "url": "https://www.flushingtownhall.org/",
       "status": "ok",
       "http": 200,
-      "chars": 6041
+      "chars": 6121
     },
     {
       "id": "franklin-furnace",
@@ -453,7 +454,7 @@
       "url": "https://www.green-wood.com/events/",
       "status": "ok",
       "http": 200,
-      "chars": 5470
+      "chars": 5525
     },
     {
       "id": "guggenheim",
@@ -478,7 +479,7 @@
       "url": "https://www.helixcenter.org/",
       "status": "ok",
       "http": 200,
-      "chars": 4069
+      "chars": 4518
     },
     {
       "id": "housing-works",
@@ -486,7 +487,7 @@
       "url": "https://www.housingworks.org/events",
       "status": "ok",
       "http": 200,
-      "chars": 3163
+      "chars": 3160
     },
     {
       "id": "index-space",
@@ -494,7 +495,7 @@
       "url": "https://www.index-space.org/",
       "status": "ok",
       "http": 200,
-      "chars": 10142
+      "chars": 9913
     },
     {
       "id": "interference-archive",
@@ -502,7 +503,7 @@
       "url": "https://interferencearchive.org/",
       "status": "ok",
       "http": 200,
-      "chars": 8205
+      "chars": 8216
     },
     {
       "id": "issue-project-room",
@@ -510,7 +511,7 @@
       "url": "https://issueprojectroom.org/events",
       "status": "ok",
       "http": 200,
-      "chars": 8548
+      "chars": 7858
     },
     {
       "id": "jack-arts",
@@ -518,7 +519,7 @@
       "url": "https://www.jackny.org/",
       "status": "ok",
       "http": 200,
-      "chars": 454
+      "chars": 513
     },
     {
       "id": "jalopy-theatre",
@@ -534,7 +535,7 @@
       "url": "https://japansociety.org/",
       "status": "ok",
       "http": 200,
-      "chars": 10980
+      "chars": 11724
     },
     {
       "id": "knockdown-center",
@@ -548,8 +549,9 @@
       "id": "la-mama",
       "name": "La MaMa",
       "url": "https://www.lamama.org/",
-      "status": "error",
-      "note": "fetch failed"
+      "status": "ok",
+      "http": 200,
+      "chars": 10786
     },
     {
       "id": "light-industry",
@@ -573,7 +575,7 @@
       "url": "https://www.maysles.org/",
       "status": "ok",
       "http": 200,
-      "chars": 4641
+      "chars": 4596
     },
     {
       "id": "mcnally-jackson",
@@ -629,7 +631,7 @@
       "url": "https://www.momaps1.org/calendar",
       "status": "ok",
       "http": 200,
-      "chars": 6988
+      "chars": 5701
     },
     {
       "id": "mono-no-aware",
@@ -686,7 +688,7 @@
       "url": "https://www.nplusonemag.com/",
       "status": "ok",
       "http": 200,
-      "chars": 13045
+      "chars": 13214
     },
     {
       "id": "national-sawdust",
@@ -727,7 +729,7 @@
       "url": "https://www.nyas.org/events/",
       "status": "ok",
       "http": 200,
-      "chars": 8127
+      "chars": 8352
     },
     {
       "id": "nypl-live",
@@ -759,14 +761,15 @@
       "url": "https://gamecenter.nyu.edu/",
       "status": "ok",
       "http": 200,
-      "chars": 4025
+      "chars": 3805
     },
     {
       "id": "nyu-itp",
       "name": "NYU ITP / IMA",
       "url": "https://tisch.nyu.edu/itp/events",
-      "status": "error",
-      "note": "fetch failed"
+      "status": "ok",
+      "http": 200,
+      "chars": 6227
     },
     {
       "id": "onassis-onx",
@@ -798,7 +801,7 @@
       "url": "https://www.poetryproject.org/",
       "status": "ok",
       "http": 200,
-      "chars": 1483
+      "chars": 1336
     },
     {
       "id": "printed-matter",
@@ -806,7 +809,7 @@
       "url": "https://www.printedmatter.org/programs",
       "status": "ok",
       "http": 200,
-      "chars": 12333
+      "chars": 11626
     },
     {
       "id": "prismatic-ground",
@@ -822,7 +825,7 @@
       "url": "https://publicrecords.nyc/",
       "status": "ok",
       "http": 200,
-      "chars": 20962
+      "chars": 20069
     },
     {
       "id": "recess-art",
@@ -830,7 +833,7 @@
       "url": "https://www.recessart.org/",
       "status": "ok",
       "http": 200,
-      "chars": 2792
+      "chars": 2837
     },
     {
       "id": "rhizome",
@@ -846,7 +849,7 @@
       "url": "https://www.rockawayfilmfestival.org/",
       "status": "ok",
       "http": 200,
-      "chars": 2877
+      "chars": 3397
     },
     {
       "id": "rockefeller-university",
@@ -862,7 +865,7 @@
       "url": "https://rooftopfilms.com/",
       "status": "ok",
       "http": 200,
-      "chars": 4048
+      "chars": 3917
     },
     {
       "id": "roulette",
@@ -870,14 +873,15 @@
       "url": "https://roulette.org/calendar/",
       "status": "ok",
       "http": 200,
-      "chars": 4809
+      "chars": 4907
     },
     {
       "id": "sculpture-center",
       "name": "SculptureCenter",
       "url": "https://www.sculpture-center.org/events/",
-      "status": "error",
-      "note": "fetch failed"
+      "status": "ok",
+      "http": 200,
+      "chars": 40973
     },
     {
       "id": "secret-science-club",
@@ -890,15 +894,17 @@
       "id": "sfpc",
       "name": "School for Poetic Computation",
       "url": "https://sfpc.study",
-      "status": "error",
-      "note": "fetch failed"
+      "status": "ok",
+      "http": 200,
+      "chars": 2609
     },
     {
       "id": "simons-foundation",
       "name": "Simons Foundation",
       "url": "https://www.simonsfoundation.org/events",
-      "status": "error",
-      "note": "This operation was aborted"
+      "status": "ok",
+      "http": 200,
+      "chars": 3607
     },
     {
       "id": "spectacle-theater",
@@ -921,7 +927,7 @@
       "url": "https://cityparksfoundation.org/summerstage/",
       "status": "ok",
       "http": 200,
-      "chars": 12181
+      "chars": 11776
     },
     {
       "id": "swiss-institute",
@@ -937,7 +943,7 @@
       "url": "https://terraza7.com/",
       "status": "ok",
       "http": 200,
-      "chars": 7618
+      "chars": 6701
     },
     {
       "id": "the-brick",
@@ -945,7 +951,7 @@
       "url": "https://www.bricktheater.com/",
       "status": "ok",
       "http": 200,
-      "chars": 6106
+      "chars": 5347
     },
     {
       "id": "the-drawing-center",
@@ -953,7 +959,7 @@
       "url": "https://drawingcenter.org/exhibitions",
       "status": "ok",
       "http": 200,
-      "chars": 1731
+      "chars": 1243
     },
     {
       "id": "the-drift",
@@ -977,7 +983,7 @@
       "url": "https://www.thelotradio.com/",
       "status": "ok",
       "http": 200,
-      "chars": 3291
+      "chars": 3274
     },
     {
       "id": "the-new-school",
@@ -1048,7 +1054,7 @@
       "url": "https://whitecolumns.org/",
       "status": "ok",
       "http": 200,
-      "chars": 4444
+      "chars": 3546
     },
     {
       "id": "whitney",
@@ -1056,7 +1062,7 @@
       "url": "https://whitney.org/events",
       "status": "ok",
       "http": 200,
-      "chars": 5282
+      "chars": 5108
     },
     {
       "id": "wonderville",
@@ -1064,14 +1070,15 @@
       "url": "https://www.wonderville.nyc/",
       "status": "ok",
       "http": 200,
-      "chars": 7758
+      "chars": 7849
     },
     {
       "id": "world-music-institute",
       "name": "World Music Institute",
       "url": "https://www.worldmusicinstitute.org/upcoming-events/",
-      "status": "error",
-      "note": "fetch failed"
+      "status": "ok",
+      "http": 200,
+      "chars": 3348
     }
   ]
 }

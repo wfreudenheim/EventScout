@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-09-23T06:53:24.974Z
+FETCHED:2026-09-27T06:52:02.988Z
 
 CULTUREHUB [/]
 
@@ -22,14 +22,6 @@ MEET THE ARTISTS [/residency#residency-resident-artists-anchor]
 EVENTS [/events]
 
 Events
-
-Sep 24
-[/events/notespatial-native-the-macneopolitan-trio]
-Note(s)pat(ial) Native & The MacNeoPolitan Trio [/events/notespatial-native-the-macneopolitan-trio]
-
-A live performance by CultureHub Resident Artist Jeffrey Alan Scudder of two new pieces, one on machines pulled back from e-waste and one on machines bought new. RSVP → [/events/notespatial-native-the-macneopolitan-trio]
-
-Read more → [/events/notespatial-native-the-macneopolitan-trio]
 
 Sep 25
 [/events/maedeup-weaving-shin-yun-bok]

@@ -1,6 +1,6 @@
 VENUE:data-society | Data & Society
 URL:https://datasociety.net/
-FETCHED:2026-09-23T06:53:24.873Z
+FETCHED:2026-09-27T06:52:02.725Z
 
 Skip to main content
 Search Search
@@ -84,6 +84,31 @@ Our research shows that data centers represent a lightning rod issue for broad, 
 
 September 21, 2026
 Report
+https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society
+
+WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
+
+[https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society]
+Join us to explore how AI's role in classrooms is being shaped in New York City and beyond.
+ * education [/news-events/?subject=education]
+ * artificial intelligence [/news-events/?subject=artificial-intelligence]
+ * educational technology [/news-events/?subject=educational-technology]
+ * * young people [/news-events/?subject=young-people]
+
+September 28, 2026
+Event
+https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/
+
+POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
+
+[https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/]
+Join the authors of "Muskism" and "Against Tech Oligarchy" to discuss the structural forces shaping tech and state power.
+ * labor [/news-events/?subject=labor]
+ * Silicon Valley [/news-events/?subject=silicon-valley]
+ * technology industry [/news-events/?subject=technology-industry]
+
+October 7, 2026
+Event
 https://datasociety.net/research-library/our-new-research-and-policy-collection-governing-ai-agents/
 
 OUR NEW RESEARCH AND POLICY COLLECTION: GOVERNING AI AGENTS
@@ -97,29 +122,6 @@ However novel OpenAI agents’ hack of Hugging Face may be, it would be a mistak
 
 September 10, 2026
 Points
-https://www.eventbrite.com/e/how-data-center-fights-are-renewing-local-power-across-the-us-tickets-1998454143139
-
-HOW DATA CENTER FIGHTS ARE RENEWING LOCAL POWER ACROSS THE US
-
-[https://www.eventbrite.com/e/how-data-center-fights-are-renewing-local-power-across-the-us-tickets-1998454143139 ]
-On September 22 in NYC, join us for a discussion exploring the impact of data centers across the country.
- * data center [/news-events/?subject=data-center]
- * artificial intelligence [/news-events/?subject=artificial-intelligence]
-
-September 22, 2026
-Event
-https://datasociety.net/news-events/protecting-democracys-data/
-
-PROTECTING DEMOCRACY’S DATA
-
-[https://datasociety.net/news-events/protecting-democracys-data/]
-Join us as professor, researcher, and Data & Society founder danah boyd discusses her new book and its implications with historian and author Dan…
- * census data [/news-events/?subject=census-data]
- * datafication [/news-events/?subject=datafication]
- * democracy [/news-events/?subject=democracy]
-
-September 23, 2026
-Event
 
 ----------------------------------------
 
@@ -283,20 +285,6 @@ Explore full library [https://datasociety.net/research-library/] View Curated Co
 NEWS AND EVENTS
 
 All News and Events [https://datasociety.net/news-events/]
-October 7, 2026
-
-POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
-
-[https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/]
-Join the authors of "Muskism" and "Against Tech Oligarchy" to discuss the structural forces shaping tech and state power.
-https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/
-https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/
-
-POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
-
-[https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/]
-Join the authors of "Muskism" and "Against Tech Oligarchy" to discuss the structural forces shaping tech and state power.
-October 7, 2026
 Congressional letter
 September 17, 2026
 
@@ -368,6 +356,27 @@ DEEPFAKES ARE WRECKING INFLUENCERS’ CREDIBILITY, ONE FAKE AD AT A TIME
 The Guardian
 September 14, 2026
 Press
+Article
+September 8, 2026
+
+AFTER THE DATA CENTERS
+
+[https://dissentmagazine.org/article/ai-data-center-backlash/]
+Brian J. Chen discusses why a “grander ambition” is needed to ensure that current “techlash” does not fizzle out in order to substantially challenge the growth of AI…
+ * data center [/research-library/?subject=data-center]
+
+https://dissentmagazine.org/article/ai-data-center-backlash/
+https://dissentmagazine.org/article/ai-data-center-backlash/
+
+AFTER THE DATA CENTERS
+
+[https://dissentmagazine.org/article/ai-data-center-backlash/]
+Brian J. Chen discusses why a “grander ambition” is needed to ensure that current “techlash” does not fizzle out in order to substantially challenge…
+ * data center [/research-library/?subject=data-center]
+
+Dissent Magazine
+September 8, 2026
+Article
 Previous Next
 
 JOIN US AND DONATE TODAY

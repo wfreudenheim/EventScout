@@ -3140,5 +3140,15 @@
     "events_found": 12,
     "events_new": 11,
     "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-09-27T06:52:00.104Z",
+    "completed_at": "2026-09-27T06:52:00.104Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
   }
 ]

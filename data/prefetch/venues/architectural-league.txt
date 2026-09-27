@@ -1,34 +1,10 @@
 VENUE:architectural-league | Architectural League of New York
 URL:https://archleague.org/events/
-FETCHED:2026-09-23T06:53:34.239Z
+FETCHED:2026-09-27T06:52:11.383Z
 
 /
 
 UPCOMING EVENTS
-
-https://archleague.org/event/architecture-planning-and-international-law-building-postcarbon-futures/
-
-SEPTEMBER 23, 2026
-
-ARCHITECTURE, PLANNING, AND INTERNATIONAL LAW: BUILDING POSTCARBON FUTURES
-
-[https://archleague.org/event/architecture-planning-and-international-law-building-postcarbon-futures/]
-
-For Climate Week NYC, built environment and climate policy experts spotlight works of climate justice around the world and draw a roadmap for the future of our cities, landscapes, and communities.
-
-At Capacity Architecture, Planning, and International Law
-
-https://archleague.org/event/student-program-2026/
-
-SEPTEMBER 26, 2026
-
-STUDENT PROGRAM 2026
-
-[https://archleague.org/event/student-program-2026/]
-
-A one-day program for architecture students, offering career insights from leading design professionals and studios.
-
-Student Program
 
 https://archleague.org/event/gp27-info-session/
 
@@ -101,6 +77,30 @@ In this virtual studio visit, Tatiana Bilbao ESTUDIO will guide League members t
 After Hours
 
 PAST EVENTS
+
+https://archleague.org/event/student-program-2026/
+
+SEPTEMBER 26, 2026
+
+STUDENT PROGRAM 2026
+
+[https://archleague.org/event/student-program-2026/]
+
+A one-day program for architecture students, offering career insights from leading design professionals and studios.
+
+Student Program
+
+https://archleague.org/event/architecture-planning-and-international-law-building-postcarbon-futures/
+
+SEPTEMBER 23, 2026
+
+ARCHITECTURE, PLANNING, AND INTERNATIONAL LAW: BUILDING POSTCARBON FUTURES
+
+[https://archleague.org/event/architecture-planning-and-international-law-building-postcarbon-futures/]
+
+For Climate Week NYC, built environment and climate policy experts spotlight works of climate justice around the world and draw a roadmap for the future of our cities, landscapes, and communities.
+
+Architecture, Planning, and International Law
 
 https://archleague.org/event/after-hours-solid-objectives-idenburg-liu-so-il/
 
@@ -195,25 +195,3 @@ AFTER HOURS: PENTAGRAM
 League members are invited to the New York office of the multi-disciplinary design studio for a behind-the-scenes look at ongoing work.
 
 After Hours
-
-https://archleague.org/event/bldus-g3arquitectos/
-
-MARCH 26, 2026
-
-B L D U S AND G3ARQUITECTOS
-
-[https://archleague.org/event/bldus-g3arquitectos/]
-
-Part of the 2026 Emerging Voices lecture series.
-
-Emerging Voices
-
-https://archleague.org/event/sign-and-line-on-site/
-
-MARCH 24, 2026
-
-SIGN AND LINE, ON SITE
-
-[https://archleague.org/event/sign-and-line-on-site/]
-
-Eric Arneson and Nahal Sohbati of Topophyla and Gabriel Castro-Andrade present The Red Line, a site access strategy that uses bold and simple components to enhance safety and orderliness on construction sites.

@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-09-23T06:53:34.125Z
+FETCHED:2026-09-27T06:52:11.599Z
 
 /
 
@@ -14,25 +14,21 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/events-and-exhibitions/events/beyond-rubble-story-sanitation-and-recovery-post-911
+/events-and-exhibitions/events/shakespeare-and-verdis-macbeth-discussion-and-performance
 
-BEYOND THE RUBBLE: THE STORY OF SANITATION AND RECOVERY POST-9/11 [/events-and-exhibitions/events/beyond-rubble-story-sanitation-and-recovery-post-911]
+SHAKESPEARE AND VERDI’S MACBETH: DISCUSSION AND PERFORMANCE [/events-and-exhibitions/events/shakespeare-and-verdis-macbeth-discussion-and-performance]
 
-September 24, 2026
-6:00pm
+September 28, 2026
+7:00pm
 
-Event Details [/events-and-exhibitions/events/beyond-rubble-story-sanitation-and-recovery-post-911]
- * /events-and-exhibitions/events/diane-lewis-student-lecture-series-dan-kershaw-ephemeral-exhibitions
+An evening of Shakespearean comparison featuring discussion and performances of MacBeth
 
-   THE DIANE LEWIS STUDENT LECTURE SERIES | DAN KERSHAW: EPHEMERAL EXHIBITIONS AND IMPERMANENT PERMANENT MUSEUM DESIGN [/events-and-exhibitions/events/diane-lewis-student-lecture-series-dan-kershaw-ephemeral-exhibitions]
+Event Details [/events-and-exhibitions/events/shakespeare-and-verdis-macbeth-discussion-and-performance]
+ * /events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing
 
-   September 24, 2026
-   6:30pm
- * /events-and-exhibitions/events/shakespeare-and-verdis-macbeth-discussion-and-performance
+   THE DIANE LEWIS STUDENT LECTURE SERIES | GUILLAUME OTHENIN-GIRARD: DRAWING INTO PLACE [/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing]
 
-   SHAKESPEARE AND VERDI’S MACBETH: DISCUSSION AND PERFORMANCE [/events-and-exhibitions/events/shakespeare-and-verdis-macbeth-discussion-and-performance]
-
-   September 28, 2026
+   September 29, 2026
    7:00pm
  * /events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist
 
@@ -40,12 +36,18 @@ Event Details [/events-and-exhibitions/events/beyond-rubble-story-sanitation-and
 
    October 6, 2026
    6:30pm
- * /events-and-exhibitions/events/seeing-together-photography-through-language-and-senses
+ * /events-and-exhibitions/events/visiting-lecture-hh-malin-heyman-james-hamilton-cutting-together
 
-   SEEING TOGETHER: PHOTOGRAPHY THROUGH LANGUAGE AND THE SENSES [/events-and-exhibitions/events/seeing-together-photography-through-language-and-senses]
+   VISITING LECTURE | AT-HH, MALIN HEYMAN + JAMES HAMILTON: CUTTING TOGETHER APART — APPROACHES TO BUILDING [/events-and-exhibitions/events/visiting-lecture-hh-malin-heyman-james-hamilton-cutting-together]
 
-   October 15, 2026
-   6:00pm
+   October 8, 2026
+   6:30pm
+ * /architecture/events/exhibition-panel-discussion-primers-handmade-utopia
+
+   EXHIBITION PANEL DISCUSSION | PRIMERS FOR A HANDMADE UTOPIA [/architecture/events/exhibition-panel-discussion-primers-handmade-utopia]
+
+   October 13, 2026
+   6:30pm
 
 ONGOING EXHIBITIONS
 
@@ -59,6 +61,14 @@ ONGOING EXHIBITIONS
    GUILD & GREYSHKUL [/events-and-exhibitions/exhibitions/guild-greyshkul]
 
    September 16, 2026 to October 31, 2026
+
+UPCOMING EXHIBITIONS
+
+ * /architecture/exhibitions/primers-handmade-utopia
+
+   PRIMERS FOR A HANDMADE UTOPIA [/architecture/exhibitions/primers-handmade-utopia]
+
+   October 08, 2026 to October 29, 2026
 
  * Founded by inventor, industrialist and philanthropist Peter Cooper in 1859, The Cooper Union for the Advancement of Science and Art offers education in art, architecture and engineering, as well as courses in the humanities and social sciences.
 

@@ -1,6 +1,6 @@
 VENUE:issue-project-room | Issue Project Room
 URL:https://issueprojectroom.org/events
-FETCHED:2026-09-23T06:53:25.868Z
+FETCHED:2026-09-27T06:52:03.936Z
 
 /
 https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue-project-room/ https://www.instagram.com/issueprojectroom https://soundcloud.com/issueprojectroom
@@ -22,16 +22,6 @@ https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue
 
 UPCOMING EVENTS
 
-/event/back-present-50-years-free-expression-franklin-furnace /event/back-present-50-years-free-expression-franklin-furnace
-
-BACK TO THE PRESENT: 50 YEARS OF FREE EXPRESSION WITH FRANKLIN FURNACE [/event/back-present-50-years-free-expression-franklin-furnace]
-
-Wednesday, September 23, 2026 - 8:00 pm
-22 Boerum Place, Brooklyn 11201
-
-In partnership with Franklin Furnace as part of their 50th anniversary commemoration and November release of "Back to the Present: 50 Years of Free Expression with Franklin Furnace" ISSUE presents an evening of performance and conversation.
-
-More [/event/back-present-50-years-free-expression-franklin-furnace] Tickets [https://issueprojectroom.ticketspice.com/back-to-the-present-50-years-of-free-expression-with-franklin-furnace]
 /event/sergei-tcherepnin /event/sergei-tcherepnin
 
 SERGEI TCHEREPNIN [/event/sergei-tcherepnin]
@@ -102,6 +92,16 @@ PAST EVENTS
  * 2004 [/events/archive/2004]
  * 2003 [/events/archive/2003]
 
+/event/back-present-50-years-free-expression-franklin-furnace /event/back-present-50-years-free-expression-franklin-furnace
+
+BACK TO THE PRESENT: 50 YEARS OF FREE EXPRESSION WITH FRANKLIN FURNACE [/event/back-present-50-years-free-expression-franklin-furnace]
+
+Wed 23 Sep, 2026, 8pm
+22 Boerum Place, Brooklyn 11201
+
+In partnership with Franklin Furnace as part of their 50th anniversary commemoration and November release of "Back to the Present: 50 Years of Free Expression with Franklin Furnace" ISSUE presents an evening of performance and conversation.
+
+More [/event/back-present-50-years-free-expression-franklin-furnace]
 /event/eden-girma-i-hope-i-wont-make-any-mistakes /event/eden-girma-i-hope-i-wont-make-any-mistakes
 
 Artists-In-Residence 2026
@@ -181,14 +181,4 @@ Wed 17 Jun, 2026, 8pm
 ISSUE presents the premiere of three audiovisual compositions by Matt Mottel (2010 AIR). These works bring Mottel’s distinct artistic sensibility into dialogue with formative figures in his life and in New York’s avant-garde, tracing a lineage that is both deeply personal and central to ISSUE’s history.
 
 More [/event/matt-mottel-image-seed]
-/event/james-ilgenfritz-joe-mcphee-ac-diamond /event/james-ilgenfritz-joe-mcphee-ac-diamond
-
-JAMES ILGENFRITZ WITH JOE MCPHEE & AC DIAMOND [/event/james-ilgenfritz-joe-mcphee-ac-diamond]
-
-Sat 13 Jun, 2026, 8pm
-22 Boerum Place, Brooklyn 11201
-
-Bassist and composer James Ilgenfritz (2011 AIR) returns to ISSUE, joined by Joe McPhee and AC Diamond for their first performance as a trio. This event marks a new shared context for three artists deeply invested in improvisation as a mode of inquiry. 
-
-More [/event/james-ilgenfritz-joe-mcphee-ac-diamond]
  * Load More [?page=1]

@@ -1,6 +1,6 @@
 VENUE:jack-arts | JACK
 URL:https://www.jackny.org/
-FETCHED:2026-09-23T06:53:38.693Z
+FETCHED:2026-09-27T06:52:16.096Z
 
 0
 [/cart]
@@ -23,14 +23,20 @@ Open Menu Close Menu
  
  
 
-THIS SUMMER AT JACK
+THIS FALL AT JACK
 
-/ghetto-hors-doeuvres-2026
+/treyalam-alivingaltar
 
-AUG 6-8
+NOV 12-15
+
+/carahagan-minetokeep
+
+NOV 20-22
 
 Slide 1 Slide 1 (current slide)
 
-what's on this summer [/summer-2026-season]
+Slide 2 Slide 2 (current slide)
+
+what's on this fall [/fall-2026-season]
 
 support JACK

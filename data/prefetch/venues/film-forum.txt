@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-09-23T06:53:40.405Z
+FETCHED:2026-09-27T06:52:17.708Z
 
 Skip to Content
 
@@ -10,16 +10,13 @@ FILM FORUM [https://filmforum.org/]
 
 SLIDESHOW
 
- * https://filmforum.org/film/you-had-to-be-there
- * https://filmforum.org/film/my-brothers-wedding
- * https://filmforum.org/film/kwaidan-2026
- * https://filmforum.org/film/barbara-forever
- * https://filmforum.org/film/filipinana
- * https://filmforum.org/film/late-fame
- *
  * https://filmforum.org/film/the-scout
  * https://filmforum.org/film/unzipped-2026
+ * https://filmforum.org/film/you-had-to-be-there
+ * https://filmforum.org/film/my-brothers-wedding
+ * https://filmforum.org/film/filipinana
  * https://filmforum.org/film/funny-face-ffjr-2026
+ *
  * https://filmforum.org/film/the-adventures-of-prince-achmed-ffjr-2026
  * https://filmforum.org/film/the-princess-bride-ffjr-2026
 
@@ -39,82 +36,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
+ * SUN
+ * MON
+ * TUE
  * WED
  * THU
  * FRI
  * SAT
- * SUN
- * MON
- * TUE
-
-YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
-12:15 2:30 4:45 7:00 9:15
-
-MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-12:30 2:20 4:10 6:00 7:50
-
-KWAIDAN [https://filmforum.org/film/kwaidan-2026]
-1:00 7:00
-
-BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
-4:45
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-12:20 2:30 4:45 7:00
-
-LATE FAME [https://filmforum.org/film/late-fame]
-9:10
-
-YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
-12:15 2:30 4:45 7:00 9:15
-
-MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-12:30 2:20 4:10 6:00 7:50
-
-Ends Today!KWAIDAN [https://filmforum.org/film/kwaidan-2026]
-12:50
-
-Ends Today!BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
-4:40
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-12:20 2:30
-
-Ends Today!LATE FAME [https://filmforum.org/film/late-fame]
-8:30
-
-Sneak Preview!THE SCOUT [https://filmforum.org/film/the-scout]
-7:45
-
-Opens Today!THE SCOUT [https://filmforum.org/film/the-scout]
-12:15 2:20 4:25 6:30 9:10
-
-Opens Today!UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:30 2:15 4:00 6:00 8:00
-
-YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
-12:15 2:30 4:45 7:00 9:15
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-1:00 3:15 7:50
-
-MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-5:50
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-12:15(OC) 2:20 4:25 6:30 9:10
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:30 2:15 4:00 6:00 8:00
-
-YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
-12:15 2:30(OC) 4:45 7:00 9:15
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-1:00 3:15 7:50
-
-MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-5:50
 
 FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
 FUNNY FACE [https://filmforum.org/film/funny-face-ffjr-2026]
@@ -169,6 +97,40 @@ NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
 DUTCHMAN [https://filmforum.org/film/dutchman-nyc-in-transit]
 6:00
 
+THE SCOUT [https://filmforum.org/film/the-scout]
+12:15 2:20 4:25 6:30 8:35
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:30 2:15 4:00 5:45 7:30 9:15
+
+YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+12:15 2:30 4:45 7:00 9:15
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+1:00 3:15 7:50
+
+MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
+5:50
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+12:15 2:20 4:25 6:30 8:35
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:30 2:15 4:00 5:45 7:30 9:15
+
+YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+12:15 2:30 4:45 7:00 9:15
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+1:00 3:15 7:50
+
+Ends Today!MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
+5:50
+
+Showtimes coming soon!
+
+Showtimes coming soon!
+
 Donate [https://donate.filmforum.org/give/]
 
 SUPPORT OUR NONPROFIT CINEMA
@@ -187,23 +149,23 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-THE SCOUT
-SNEAK PREVIEW SCREENING AND Q&A WITH FILMMAKER PAULA GONZÁLEZ-NASSER AND STAR MIMI DAVILA, CO-PRESENTED BY THE GOTHAM FILM & MEDIA INSTITUTE [https://filmforum.org/events/event/the-scout-september-24]
-
-Thursday, September 24
-7:45
-
-THE SCOUT
-Q&A WITH FILMMAKER PAULA GONZÁLEZ-NASSER AND STAR MIMI DAVILA, CO-PRESENTED BY THE FUTURE OF FILM IS FEMALE [https://filmforum.org/events/event/the-scout-september-25]
-
-Friday, September 25
-6:30
-
 UNZIPPED
-Q&A WITH SUBJECT ISAAC MIZRAHI, DIRECTOR DOUGLAS KEEVE & EXECUTIVE PRODUCER NINA SANTISI [https://filmforum.org/events/event/unzipped-september-25]
+Q&A WITH SUBJECT ISAAC MIZRAHI, DIRECTOR DOUGLAS KEEVE & EXECUTIVE PRODUCER NINA SANTISI [https://filmforum.org/events/event/unzipped-september-27]
 
-Friday, September 25
-8:00
+Sunday, September 27
+3:00
+
+ASHES AND DIAMONDS
+INTRODUCED BY BOGDAN KLICH, CHARGÉ D’AFFAIRES AD INTERIM OF THE REPUBLIC OF POLAND TO THE U.S., AND JAKUB SWIETLIK, DIRECTOR OF POLISH CULTURAL INSTITUTE NEW YORK [https://filmforum.org/events/event/ashes-and-diamonds-october-2]
+
+Friday, October 2
+6:50
+
+THE WOMEN (1939)
+POST-FILM CONVERSATION WITH AUTHOR AND ACTRESS ILLEANA DOUGLAS AND FILM FORUM REPERTORY ARTISTIC DIRECTOR BRUCE GOLDSTEIN [https://filmforum.org/events/event/the-women-october-4]
+
+Sunday, October 4
+7:00
 
 GET EMAIL NEWS
 
@@ -222,40 +184,37 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
-YOU HAD TO BE THERE: HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
-12:15 2:30 4:45 7:00 9:15
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+FUNNY FACE [https://filmforum.org/film/funny-face-ffjr-2026]
+11:00
 
-MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
-12:30 2:20 4:10 6:00 7:50
+THE SCOUT [https://filmforum.org/film/the-scout]
+12:15(OC) 2:20 4:25 6:30 8:35
 
-KWAIDAN [https://filmforum.org/film/kwaidan-2026]
-1:00 7:00
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+1:15 3:00 5:40 7:30
 
-BARBARA FOREVER [https://filmforum.org/film/barbara-forever]
-4:45
+YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+1:30 3:45(OC) 6:00 8:15
 
 FILIPIÑANA [https://filmforum.org/film/filipinana]
-12:20 2:30 4:45 7:00
+1:00 3:15 7:50
 
-LATE FAME [https://filmforum.org/film/late-fame]
-9:10
+MY BROTHER'S WEDDING [https://filmforum.org/film/my-brothers-wedding]
+5:50
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
-https://filmforum.org/series/nyc-in-transit#now-playing
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
+https://filmforum.org/film/the-scout
+THE SCOUT [https://filmforum.org/film/the-scout]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/the-scout] Watch Trailer [https://filmforum.org/film/the-scout#trailer]
+https://filmforum.org/film/unzipped-2026
+Isaac Mizrahi in
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
 
-THE “EL” SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER
-Tuesday, September 22
-6:00
+Friday, September 25 – Thursday, October 1
 
-Films in this Series THE “EL” SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER DUTCHMAN Charles Bronson in
-DEATH WISH John Cassavetes’
-GLORIA Al Pacino in
-CARLITO’S WAY Robert De Niro’s
-A BRONX TALE Samuel Fuller’s
-PICKUP ON SOUTH STREET Amir Naderi’s
-MANHATTAN BY NUMBERS
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer [https://filmforum.org/film/unzipped-2026#trailer]
 https://filmforum.org/film/you-had-to-be-there
 YOU HAD TO BE THERE:
 HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
@@ -267,29 +226,9 @@ MY BROTHER’S WEDDING [https://filmforum.org/film/my-brothers-wedding]
 MUST END THURSDAY, OCTOBER 1
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/my-brothers-wedding] Watch Trailer [https://filmforum.org/film/my-brothers-wedding#trailer]
-https://filmforum.org/film/kwaidan-2026
-Masaki Kobayashi’s
-KWAIDAN
-怪談 [https://filmforum.org/film/kwaidan-2026]
-
-MUST END THURSDAY, SEPTEMBER 24
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/kwaidan-directors-cut] Watch Trailer [https://filmforum.org/film/kwaidan-2026#trailer]
-https://filmforum.org/film/barbara-forever
-BARBARA FOREVER  [https://filmforum.org/film/barbara-forever]
-
-MUST END THURSDAY, SEPTEMBER 24
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/barbara-forever] Watch Trailer [https://filmforum.org/film/barbara-forever#trailer]
 https://filmforum.org/film/filipinana
 FILIPIÑANA [https://filmforum.org/film/filipinana]
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/filipinana] Watch Trailer [https://filmforum.org/film/filipinana#trailer]
-https://filmforum.org/film/late-fame
-LATE FAME [https://filmforum.org/film/late-fame]
-
-MUST END THURSDAY, SEPTEMBER 24
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/late-fame] Watch Trailer [https://filmforum.org/film/late-fame#trailer]
 https://filmforum.org/series/film-forum-jr.-series-page#now-playing
 FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
 
@@ -308,24 +247,23 @@ LITTLE FUGITIVE Walt Disney’s
 PINOCCHIO Ingrid Bergman & Bing Crosby in
 THE BELLS OF ST. MARY’S Nancy Meyers’
 THE PARENT TRAP
+https://filmforum.org/series/nyc-in-transit#now-playing
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
+
+DUTCHMAN
+Tuesday, September 29
+6:00
+
+Films in this Series DUTCHMAN Charles Bronson in
+DEATH WISH John Cassavetes’
+GLORIA Al Pacino in
+CARLITO’S WAY Robert De Niro’s
+A BRONX TALE Samuel Fuller’s
+PICKUP ON SOUTH STREET Amir Naderi’s
+MANHATTAN BY NUMBERS
 
 COMING SOON [https://filmforum.org/coming_soon]
 
-https://filmforum.org/film/the-scout
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-
-Opens Friday, September 25
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/the-scout] Watch Trailer [ https://filmforum.org/film/the-scout#trailer ]
-https://filmforum.org/film/unzipped-2026
-
-ISAAC MIZRAHI IN
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-
-Friday, September 25 – Thursday, October 1
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer [ https://filmforum.org/film/unzipped-2026#trailer ]
 https://filmforum.org/series/andrzej-wajda-100
 
 ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
@@ -333,7 +271,7 @@ ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 Friday, October 2 – Thursday, October 22
 
 Films in this Series A GENERATION KANAŁ ASHES AND DIAMONDS LOTNA INNOCENT SORCERERS THE WEDDING ROUGH TREATMENT (WITHOUT ANESTHESIA) EVERYTHING FOR SALE KATYŃ KORCZAK DANTON MAN OF MARBLE MAN OF IRON WALESA: MAN OF HOPE THE PROMISED LAND AFTERIMAGE THE BIRCH WOOD THE MAIDS OF WILKO THE CONDUCTOR LANDSCAPE AFTER BATTLE SIBERIAN LADY MACBETH SAMSON THE ASHES A CHRONICLE OF AMOROUS ACCIDENTS SWEET RUSH
-
+Watch Trailer [ https://filmforum.org/series/andrzej-wajda-100#trailer ]
 https://filmforum.org/film/the-women
 
 GEORGE CUKOR’S
@@ -350,7 +288,7 @@ PART II – EXILE [https://filmforum.org/film/my-undesirable-friends-part-ii-exi
 
 Opens Friday, October 9
 
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/my-undesirable-friends-part-2]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/my-undesirable-friends-part-2] Watch Trailer [ https://filmforum.org/film/my-undesirable-friends-part-ii-exile#trailer ]
 https://filmforum.org/film/once-upon-a-time-in-harlem
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
@@ -365,6 +303,12 @@ FATHERLAND [https://filmforum.org/film/fatherland]
 Opens Friday, October 23
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/fatherland-pawel] Watch Trailer [ https://filmforum.org/film/fatherland#trailer ]
+https://filmforum.org/series/william-greaves-100
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+
+Friday, October 23 – Thursday, October 29
+
 https://filmforum.org/film/mikey-and-nicky
 
 ELAINE MAY’S
@@ -378,6 +322,14 @@ https://filmforum.org/film/threeasfour-full-circle
 THREEASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
 
 Opens Friday, November 13
+
+https://filmforum.org/film/all-of-a-sudden
+
+ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
+
+Opens Wednesday, November 25
+
+Watch Trailer [ https://filmforum.org/film/all-of-a-sudden#trailer ]
 
 NEWS AND OFFERS
 
