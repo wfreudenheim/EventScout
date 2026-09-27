@@ -7878,5 +7878,766 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:18:46.957Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-09-28-new-social-environment-carroll-dunham-an",
+    "title": "New Social Environment: Carroll Dunham and Lynne Tillman",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-09-28",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Artist Carroll Dunham joins novelist and cultural critic Lynne Tillman for an in-person conversation at the Rail's office, on the occasion of Carroll Dunham / Paintings at Matthew Brown Gallery. Doors at 6pm.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.558Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-09-29-new-social-environment-sable-elyse-smith",
+    "title": "New Social Environment: Sable Elyse Smith: Clockwork",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-09-29",
+    "time_start": "13:00",
+    "description": "Artist Sable Elyse Smith joins Rail contributor Amber Jamilla Musser for a Zoom conversation on the occasion of Clockwork, on view at FLAG Art Foundation.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.558Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-09-30-new-social-environment-giorgio-griffa-pa",
+    "title": "New Social Environment: Giorgio Griffa: Paths in the Forest",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-09-30",
+    "time_start": "13:00",
+    "description": "Curator Robert Wiesenberger and artist Kamrooz Aram join curator Matilde Guidelli-Guidi for a Zoom conversation on Giorgio Griffa: Paths in the Forest, on view at the Clark Art Institute.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.558Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-10-01-new-social-environment-aesthetic-confess",
+    "title": "New Social Environment: Aesthetic Confessions: Julia Dippelhofer and Michael Nevin",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-10-01",
+    "time_start": "13:00",
+    "description": "The Journal Gallery co-founders Julia Dippelhofer and Michael Nevin join Rail ArtSeen Editor Andrew Woolbright for a Zoom conversation on the story and work of The Journal Gallery.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.558Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-10-02-october-issue-launch-party-at-david-zwir",
+    "title": "October Issue Launch Party at David Zwirner",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-10-02",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "The Brooklyn Rail celebrates the launch of its October issue at David Zwirner, on the occasion of Nate Lowman's exhibition Hanging Out and Natalia Gierowska's Critics Page essay. The evening features remarks from Gierowska and the Rail's publisher, with refreshments provided.",
+    "price": "free",
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.556Z"
+  },
+  {
+    "id": "triple-canopy-2026-11-05-nobody-s-dummy-sophie-becker-sarah-kessl",
+    "title": "Nobody's Dummy: Sophie Becker & Sarah Kessler",
+    "venue_id": "triple-canopy",
+    "venue_name": "Triple Canopy",
+    "date": "2026-11-05",
+    "time_start": "19:00",
+    "description": "Triple Canopy and Electronic Arts Intermix present ventriloquist Sophie Becker and media scholar Sarah Rebecca Kessler in conversation on the uncanny history of ventriloquism, from minstrelsy and false prophets to TikTok lip-syncers, on the occasion of Kessler's book Out of Sync. The event includes screenings of ventriloquism-related films and videos from EAI's catalogue. Doors at 6:30pm.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Art & Technology",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.582Z"
+  },
+  {
+    "id": "barbes-2026-10-02-las-rubias-del-norte",
+    "title": "Las Rubias del Norte",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-02",
+    "time_start": "20:00",
+    "description": "Boleros, Peruvian waltzes, Guajiras, French Yéyé, cowboy tunes, and Bollywood classics with Allyssa Lamb (vocals/keys), Emily Hurst (vocals), Taylor Begren-Chrisman (bass), Olivier Conan (cuatro), Greg Stare (percussion), and Giancarlo Vulcano (guitar).",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.596Z"
+  },
+  {
+    "id": "barbes-2026-10-03-falsa-sufi-music",
+    "title": "Falsa - Sufi Music",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-03",
+    "time_start": "20:00",
+    "description": "Singer Umer Piracha plays contemporary arrangements of 14th-century Sufi music with Roshni Samlal (tabla), Siddharth Ashokkumar (violin), Tom Deis (harmonium), and Paul Arendt (Spanish guitar).",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "tabla"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.597Z"
+  },
+  {
+    "id": "barbes-2026-10-04-giancarlo-vulcano-s-radio-hour",
+    "title": "Giancarlo Vulcano's Radio Hour",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-04",
+    "time_start": "18:00",
+    "description": "Composer and guitarist Giancarlo Vulcano creates live scores for narratives from various sources, read live.",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.598Z"
+  },
+  {
+    "id": "barbes-2026-10-04-daisy-castro",
+    "title": "Daisy Castro",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-04",
+    "time_start": "22:00",
+    "description": "Virtuoso violinist Daisy Castro hopscotches between Gypsy jazz, Arabic, and Balkan music.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "balkan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.598Z"
+  },
+  {
+    "id": "barbes-2026-09-29-eleonore-biezunski-friends",
+    "title": "Eleonore Biezunski & Friends",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-09-29",
+    "time_start": "19:00",
+    "description": "Klezmer, Yiddish song, and improvisation with Eléonore Biezunski (violin, vocals), Christina Crowder (accordion), Lori Goldston (cello), and Eleonore Weill (recorders, flutes, piano, vocals, hurdy gurdy).",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "improvisation",
+      "klezmer"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.595Z"
+  },
+  {
+    "id": "barbes-2026-10-02-big-lazy",
+    "title": "Big Lazy",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-02",
+    "time_start": "22:00",
+    "description": "Stephen Ulrich's noir guitar trio with Andrew Hall (bass) and Yayo Serka (drums).",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "noir"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.596Z"
+  },
+  {
+    "id": "barbes-2026-09-28-dana-lyn-kyle-sanna",
+    "title": "Dana Lyn & Kyle Sanna",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-09-28",
+    "time_start": "19:00",
+    "description": "Violinist Dana Lyn and guitarist Kyle Sanna take on the Irish repertoire, aided by frequent special guests.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.595Z"
+  },
+  {
+    "id": "barbes-2026-09-28-tropical-vortex-presents-a-b-e-l-a",
+    "title": "Tropical Vortex Presents: A.B.E.L.A",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-09-28",
+    "time_start": "21:00",
+    "description": "Asociación de Bateristas Electrónicos de Latinoamerica performs, with resident DJs Adrian is Hungry and Sonido Chichadelico.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.595Z"
+  },
+  {
+    "id": "barbes-2026-09-29-slavic-soul-party",
+    "title": "Slavic Soul Party",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-09-29",
+    "time_start": "21:00",
+    "description": "Weekly brass bacchanalia at barbès, described by the venue as running \"forever.\"",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.596Z"
+  },
+  {
+    "id": "barbes-2026-09-30-mamady-kouyate-s-mandingo-ambassadors",
+    "title": "Mamady Kouyate's Mandingo Ambassadors",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-09-30",
+    "time_start": "22:00",
+    "description": "Guinea's 1970s funk sound from one of the masters of the legendary Syliphone label.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.596Z"
+  },
+  {
+    "id": "japan-society-2026-10-26-selected-shorts-a-portrait-of-an-author-",
+    "title": "Selected Shorts: A Portrait of an Author on Fire",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-26",
+    "time_start": "19:00",
+    "description": "Live readings by celebrated actors of fiction by visionary East Asian writers.",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.610Z"
+  },
+  {
+    "id": "japan-society-2026-10-08-grotesqqque-u-s-premiere-",
+    "title": "GROTESQQQUE (U.S. Premiere)",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-08",
+    "time_start": "19:00",
+    "description": "U.S. premiere of GROTESQQQUE, an anime anthology film from director Atsushi Nishigori (DARLING in the FRANXX, Evangelion 3.0+1.0) and studio CloverWorks, blending three stories with a soundtrack from 35 artists spanning technopop, rock, rap, and classical. Introduced by Nishigori; presented with Aniplex and CloverWorks.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.610Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-28-iron-boy-q-a-with-chlo-aubert-and-c-line",
+    "title": "Iron Boy: Q&A with Chloé Aubert and Céline Vanlint",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-28",
+    "time_start": "12:00",
+    "description": "Q&A with animation director Chloé Aubert and producer Céline Vanlint following Iron Boy, Louis Clichy's hand-painted, 1980s-set coming-of-age animated tale that won the Un Certain Regard Special Jury Prize at Cannes.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.624Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-28-pelechian-project-program-1",
+    "title": "Pelechian Project Program 1",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-28",
+    "time_start": "12:15",
+    "description": "Short films restored under the supervision of 88-year-old Artavazd Pelechian, blurring the line between documentary essay and poetic avant-garde cinema.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary",
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.624Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-30-talk-jacqueline-lentzou-marine-atlan",
+    "title": "Talk: Jacqueline Lentzou & Marine Atlan",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-30",
+    "time_start": "14:15",
+    "description": "Directors Jacqueline Lentzou (A Day in the Life of Jo: Chapter Phaedra) and Marine Atlan (La Gradiva) discuss their attunement to the frequencies of youth and idiosyncratic experiments with narrative.",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.624Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-30-joy-of-joys-extended-q-a-with-jonathan-g",
+    "title": "Joy of Joys: Extended Q&A with Jonathan Glazer, Mica Levi, and Rich Clarke",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-30",
+    "time_start": "18:00",
+    "description": "Extended Q&A following this documentary from director Jonathan Glazer (The Zone of Interest), shot partly by London schoolkids, capturing the recording of a War Child Records charity album at Abbey Road.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.624Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-01-the-loneliest-man-in-town-north-american",
+    "title": "The Loneliest Man in Town (North American Premiere)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-01",
+    "time_start": "21:15",
+    "description": "A poignant portrait of Al Cook, Austria's preeminent blues musician, who discovers he must evacuate his beloved apartment ahead of its demolition.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.625Z"
+  },
+  {
+    "id": "world-music-institute-2026-10-17-wu-fei-abigail-washburn",
+    "title": "Wu Fei & Abigail Washburn",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-10-17",
+    "time_start": "19:30",
+    "description": "WMI Collaboration Series presents the ten-year artistic partnership between guzheng master Wu Fei and Grammy Award-winning banjo player and singer Abigail Washburn, at DROM. Doors 6:30pm.",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.641Z"
+  },
+  {
+    "id": "world-music-institute-2026-10-01-somi",
+    "title": "Somi",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-10-01",
+    "time_start": "20:00",
+    "description": "WMI Women's Voices Series presents Somi, an acclaimed vocalist, composer, actor, playwright, scholar, and activist whose work blends African traditions, jazz, and social consciousness. Doors 6pm at Sony Hall.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "consciousness"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.641Z"
+  },
+  {
+    "id": "world-music-institute-2026-10-22-lucibela",
+    "title": "Lucibela",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-10-22",
+    "description": "World Music Institute presents a performance by Lucibela at Joe's Pub.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.641Z"
+  },
+  {
+    "id": "world-music-institute-2026-10-29-leenalchi",
+    "title": "Leenalchi",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-10-29",
+    "description": "World Music Institute presents a performance by Leenalchi at Pioneer Works.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.642Z"
+  },
+  {
+    "id": "world-music-institute-2026-11-05-niladri-kumaar",
+    "title": "Niladri Kumaar",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-11-05",
+    "description": "World Music Institute presents a performance by Niladri Kumaar at Adler Hall.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.642Z"
+  },
+  {
+    "id": "world-music-institute-2026-11-08-farah-siraj-miel-y-lim-n-",
+    "title": "Farah Siraj: 'Miel y Limón'",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-11-08",
+    "description": "World Music Institute presents Farah Siraj's 'Miel y Limón' at Drom.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.642Z"
+  },
+  {
+    "id": "world-music-institute-2026-11-13-bia-ferreira",
+    "title": "Bia Ferreira",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-11-13",
+    "description": "World Music Institute presents a performance by Bia Ferreira at nublu.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.642Z"
+  },
+  {
+    "id": "world-music-institute-2026-11-18-agadez-queendoms-",
+    "title": "Agadez: 'Queendoms'",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-11-18",
+    "description": "World Music Institute presents Agadez's 'Queendoms' at Drom.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.642Z"
+  },
+  {
+    "id": "world-music-institute-2026-12-06-laura-itandehui-rescheduled-",
+    "title": "Laura Itandehui (rescheduled)",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-12-06",
+    "description": "WMI Next Gen Series performance at Public Records, rescheduled from its original September 25 date due to circumstances beyond the venue's control; original tickets remain valid.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.641Z"
+  },
+  {
+    "id": "onassis-onx-2026-09-27-what-remains",
+    "title": "What Remains",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-09-27",
+    "time_start": "13:00",
+    "time_end": "19:00",
+    "description": "Group exhibition at Onassis ONX bringing together seven artists whose practices move between physical and digital worlds, including Ugo Arsac's U.S. debut of Katabasis (winner, Best Immersive Work, 2026 Cannes Film Festival), Jiabao Li's Cryoscape (an AI-linked ice printer whose melting forms are translated into haiku), and Ashley Zelinskie's Reverse Abstraction, a generative sculpture running a live scanning/encoding recursion loop. On view daily 1-7pm through October 4.",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "sculpture",
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment",
+      "Games & Interactive",
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:53.671Z"
+  },
+  {
+    "id": "interference-archive-2026-09-30-an-unbreakable-human-thread",
+    "title": "An Unbreakable Human Thread",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-09-30",
+    "description": "Exhibition on the colonial history of Puerto Rico and the United States as an ongoing project of temporal looping and redress, on view at Interference Archive through September 30, 2026.",
+    "url": "https://interferencearchive.org/exhibition/an-unbreakable-human-thread/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:58.194Z"
+  },
+  {
+    "id": "filmmakers-coop-2026-10-08-long-live-the-underground-celebrating-si",
+    "title": "Long Live the Underground!: Celebrating Six Decades of the Film-Makers' Cooperative and Millennium Film Workshop",
+    "venue_id": "filmmakers-coop",
+    "venue_name": "Film-Makers' Cooperative",
+    "date": "2026-10-08",
+    "description": "MoMA series (running Sept 23 - Oct 8, 2026) marking the simultaneous 65th anniversary of the Film-Makers' Cooperative and 60th anniversary of Millennium Film Workshop, with nine programs of experimental films and video art drawn from their shared community of moving-image artists.",
+    "url": "https://film-makerscoop.com/screenings/long-live-the-underground-celebrating-six-decades-of-the-fil",
+    "format": "festival",
+    "interest_score": 4.3,
+    "tags": [
+      "experimental-film",
+      "video-art"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:58.213Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-10-08-long-live-the-underground-celebrating-si",
+    "title": "Long Live the Underground!: Celebrating Six Decades of the Film-Makers' Cooperative and Millennium Film Workshop",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-10-08",
+    "description": "MoMA series (running Sept 22 - Oct 8, 2026) marking the simultaneous 60th anniversary of Millennium Film Workshop and 65th anniversary of the Film-Makers' Cooperative, with nine programs of experimental film and video art.",
+    "url": "https://www.millenniumfilm.org",
+    "format": "festival",
+    "interest_score": 4.3,
+    "tags": [
+      "experimental-film",
+      "video-art"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:58.226Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-09-28-legacy-spirit-of-the-black-panthers",
+    "title": "Legacy Spirit of the Black Panthers",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-09-28",
+    "description": "Documentary screening on the legacy of the Black Panther Party (rescheduled from an earlier postponed date).",
+    "url": "https://www.maysles.org/calendar/legacy-spirit-of-the-black-panthers-postponed",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:58.239Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-03-power-the-new-black-panthers-short-",
+    "title": "Power + The New Black Panthers (Short)",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-03",
+    "description": "Documentary short screening on Black Panther Party history and legacy.",
+    "url": "https://www.maysles.org/calendar/power",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:58.240Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-03-the-skyjacker-s-tale",
+    "title": "The Skyjacker's Tale",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-03",
+    "description": "Documentary recounting a 1972 hijacking tied to the history of racial injustice in the U.S. Virgin Islands.",
+    "url": "https://www.maysles.org/calendar/the-skyjackers-tale",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:19:58.240Z"
   }
 ]
