@@ -3630,5 +3630,35 @@
     "events_found": 1,
     "events_new": 1,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "creative-time",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:23:26.171Z",
+    "completed_at": "2026-09-27T07:23:26.171Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:23:26.210Z",
+    "completed_at": "2026-09-27T07:23:26.210Z",
+    "events_found": 7,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "abrons-arts-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:23:26.233Z",
+    "completed_at": "2026-09-27T07:23:26.233Z",
+    "events_found": 7,
+    "events_new": 1,
+    "status": "completed"
   }
 ]

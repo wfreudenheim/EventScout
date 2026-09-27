@@ -9529,5 +9529,105 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-09-27T07:22:13.575Z"
+  },
+  {
+    "id": "wonderville-2026-09-28-the-fort90-broadcast-system-presents-the",
+    "title": "THE FORT90 BROADCAST SYSTEM presents THE FORT90 FILM CLUB: \"FUN CITY CINEMA\" volume 6, part 2",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-28",
+    "time_start": "20:00",
+    "description": "Curated repertory film club screening as part of an ongoing series exploring NYC-centric cinema at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-9-28-26",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:23:26.177Z"
+  },
+  {
+    "id": "wonderville-2026-09-27-i-love-nature-album-release-show",
+    "title": "I love nature! Album Release Show",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-27",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "Live album release concert at Wonderville's Brooklyn arcade bar.",
+    "url": "https://www.wonderville.nyc/events/i-love-nature-album-release-show-9-27-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:23:26.177Z"
+  },
+  {
+    "id": "wonderville-2026-10-02-jurassic-panic-rock-show",
+    "title": "JURASSIC PANIC ROCK SHOW",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-02",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "description": "Live rock music show at Wonderville arcade bar.",
+    "url": "https://www.wonderville.nyc/events/jurassic-panic-rock-show-10-2-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:23:26.179Z"
+  },
+  {
+    "id": "wonderville-2026-10-04-super-type-high-score-competition",
+    "title": "SUPER-TYPE High Score Competition",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-04",
+    "time_start": "14:30",
+    "time_end": "17:00",
+    "description": "Competitive high-score event for the indie arcade game SUPER-TYPE at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/super-type-high-score-competition-10-4-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:23:26.179Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-11-19-kinstillatory-mappings-in-light-and-dark",
+    "title": "Kinstillatory Mappings in Light and Dark Matter | Activating the Decolonization Rider",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A companion discursive program to Emily Johnson's Kinstillatory Mappings, with Leomary Rodriguez, engaging decolonial frameworks around the performance work.",
+    "url": "https://abronsartscenter.org/programs/kinstillatory-decolonizationrider",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:23:26.215Z"
   }
 ]
