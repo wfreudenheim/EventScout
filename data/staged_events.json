@@ -11162,5 +11162,169 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:32:18.102Z"
+  },
+  {
+    "id": "public-records-2026-10-30-shungu-faith-in-the-unknown-live-film-sc",
+    "title": "Shungu – FAITH IN THE UNKNOWN Live Film & Score",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-30",
+    "time_start": "19:00",
+    "description": "Live scored screening pairing film with an original live musical performance.",
+    "url": "https://link.dice.fm/Nf5461b24901",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:34:14.690Z"
+  },
+  {
+    "id": "public-records-2026-11-09-durations-festival-2026",
+    "title": "DURATIONS Festival 2026",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "Opening of the multi-day DURATIONS Festival at Public Records, spanning experimental music, talks, and interdisciplinary programming through November 15.",
+    "url": "https://link.dice.fm/B0381fb292fc",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [
+      "experimental-music"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:34:14.691Z"
+  },
+  {
+    "id": "public-records-2026-11-11-durations-breadtree-farms-presents-remem",
+    "title": "DURATIONS: Breadtree Farms presents Remember, We Are Born In The Garden with Meredith Graves",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-11",
+    "time_start": "18:00",
+    "description": "DURATIONS Festival talk on ecology and land/food systems presented by Breadtree Farms with musician/writer Meredith Graves.",
+    "url": "https://link.dice.fm/ta4226949b96",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "ecology"
+    ],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:34:14.691Z"
+  },
+  {
+    "id": "public-records-2026-10-12-the-central-park-five-album-release-pres",
+    "title": "THE CENTRAL PARK FIVE Album Release presented by Long Beach Opera",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-12",
+    "time_start": "19:00",
+    "description": "Album release event for an opera based on the Central Park Five case, presented by Long Beach Opera.",
+    "url": "https://link.dice.fm/k2659c7340d2",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:34:14.687Z"
+  },
+  {
+    "id": "public-records-2026-10-14-clarissa-bitar-vinyl-listening-party-wit",
+    "title": "Clarissa Bitar Vinyl Listening Party with Trans Music Archive, MIRA MIRA",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-14",
+    "time_start": "19:00",
+    "description": "Vinyl listening party centered on oud player Clarissa Bitar's work with the Trans Music Archive, an archival project of trans and Arabic-diaspora music.",
+    "url": "https://link.dice.fm/ob53ab09884d",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "diaspora",
+      "oud",
+      "diaspora-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:34:14.688Z"
+  },
+  {
+    "id": "helix-center-2026-10-24-the-play-s-the-thing",
+    "title": "The Play's the Thing",
+    "venue_id": "helix-center",
+    "venue_name": "The Helix Center",
+    "date": "2026-10-24",
+    "description": "Free interdisciplinary roundtable exploring the creation and production of plays, from writing and directing to performing and reviewing.",
+    "url": "https://www.helixcenter.org/roundtables/the-plays-the-thing/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:34:14.723Z"
+  },
+  {
+    "id": "n-plus-one-2026-10-01-last-year-in-end-times-cinema-a-s-hamrah",
+    "title": "Last Year in End Times Cinema: A. S. Hamrah in conversation",
+    "venue_id": "n-plus-one",
+    "venue_name": "n+1 Magazine",
+    "date": "2026-10-01",
+    "description": "Film critic A. S. Hamrah discusses his film criticism, hosted by n+1.",
+    "url": "https://www.nplusonemag.com/online-only/events/last-year-in-end-times-cinema/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:34:14.736Z"
+  },
+  {
+    "id": "swiss-institute-2026-11-14-si-offsite-rafa-skoczek-kino-drift",
+    "title": "SI Offsite | Rafał Skoczek: Kino Drift",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-11-14",
+    "description": "Exhibition (offsite) running Sept 23-Nov 14, 2026; opening reception already passed, date given is closing date. Title suggests a film/cinema-related visual art focus.",
+    "url": "https://swissinstitute.net/exhibitions/si-offsite-rafał-skoczek-kino-drift",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:34:14.752Z"
   }
 ]

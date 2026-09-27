@@ -3960,5 +3960,65 @@
     "events_found": 11,
     "events_new": 10,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "fridman-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:34:14.679Z",
+    "completed_at": "2026-09-27T07:34:14.679Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:34:14.714Z",
+    "completed_at": "2026-09-27T07:34:14.714Z",
+    "events_found": 12,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "time-spans",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:34:14.721Z",
+    "completed_at": "2026-09-27T07:34:14.721Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "helix-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:34:14.735Z",
+    "completed_at": "2026-09-27T07:34:14.735Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "n-plus-one",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:34:14.749Z",
+    "completed_at": "2026-09-27T07:34:14.749Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "swiss-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:34:14.764Z",
+    "completed_at": "2026-09-27T07:34:14.764Z",
+    "events_found": 9,
+    "events_new": 1,
+    "status": "completed"
   }
 ]
