@@ -3780,5 +3780,45 @@
     "events_found": 12,
     "events_new": 6,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "national-sawdust",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:27:17.402Z",
+    "completed_at": "2026-09-27T07:27:17.402Z",
+    "events_found": 12,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "summerstage",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:27:17.411Z",
+    "completed_at": "2026-09-27T07:27:17.411Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "moma-ps1",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:27:17.425Z",
+    "completed_at": "2026-09-27T07:27:17.425Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "metrograph",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-27T07:27:17.440Z",
+    "completed_at": "2026-09-27T07:27:17.440Z",
+    "events_found": 12,
+    "events_new": 5,
+    "status": "completed"
   }
 ]

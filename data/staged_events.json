@@ -10211,5 +10211,300 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:26:19.663Z"
+  },
+  {
+    "id": "national-sawdust-2026-10-11-lau-noah-s-a-decade-of-miracles-a-folk-o",
+    "title": "Lau Noah's \"A Decade of Miracles\" - A Folk Opera in Defense of Human Art",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-10-11",
+    "time_start": "19:30",
+    "description": "Lau Noah previews a project on oral tradition — music created, passed on, and remembered by ear rather than written down — combining a short film, early listening session, and live performance in defense of human artistic creation.",
+    "url": "https://nationalsawdust.org/event/lau-noahs-a-decade-of-miracles---a-folk-opera-in-defense-of-human-art",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Philosophy & Critical Theory",
+      "Sound & Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.376Z"
+  },
+  {
+    "id": "national-sawdust-2026-09-27-francesca-anderegg-and-erika-ribeiro-ima",
+    "title": "Francesca Anderegg and Erika Ribeiro: Images of Brazil",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-09-27",
+    "time_start": "19:30",
+    "description": "Violinist Francesca Anderegg and pianist Erika Ribeiro perform a decade-long exploration of Brazilian music, accompanied by the photography of Brazilian photographer Aline Müller.",
+    "url": "https://nationalsawdust.org/event/francesca-anderegg-and-erika-ribeiro-images-of-brazil",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.371Z"
+  },
+  {
+    "id": "national-sawdust-2026-10-06-october-community-listening-happy-hour-w",
+    "title": "October Community Listening Happy Hour with Paola Prestini",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-10-06",
+    "time_start": "18:30",
+    "description": "National Sawdust co-founder Paola Prestini hosts a listening and talkback hour featuring music from her projects \"Sensorium Ex\" and \"Primero Sueño,\" with discounted drinks and mingling.",
+    "url": "https://nationalsawdust.org/event/october-community-listening-happy-hour-with-paola-prestini",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.375Z"
+  },
+  {
+    "id": "national-sawdust-2026-10-07-lpr-presents-grammy-winning-arkai-w-surp",
+    "title": "LPR Presents: Grammy-Winning ARKAI w/ Surprise Guest Lindsey Stirling",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-10-07",
+    "time_start": "19:30",
+    "description": "Genre-defying, GRAMMY-winning electroacoustic string duo ARKAI bridges the classical and the contemporary, weaving cinematic soundscapes into epic performances.",
+    "url": "https://nationalsawdust.org/event/lpr-presents-arkai",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "electroacoustic"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.375Z"
+  },
+  {
+    "id": "national-sawdust-2026-10-09-raaginder-be-coming-usa-tour",
+    "title": "Raaginder Be:coming USA Tour",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-10-09",
+    "time_start": "19:30",
+    "description": "Violinist, composer, and songwriter Raaginder blends Indian classical music with R&B, pop, and hip hop textures.",
+    "url": "https://nationalsawdust.org/event/raaginder-be-coming-usa-tour",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.376Z"
+  },
+  {
+    "id": "national-sawdust-2026-10-13-alune-wade-family-affair-faiith",
+    "title": "Alune Wade & Family Affair / Faiith",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-10-13",
+    "time_start": "20:00",
+    "description": "Senegalese bassist and composer Alune Wade presents Family Affair, a collaboration with New Orleans's Neighborhood Story Project rooted in Afro-Atlantic memory, released alongside a documentary film and companion book.",
+    "url": "https://nationalsawdust.org/event/alune-wade-family-affair-faiith-presented-by-the-jazz-generations-initiative",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.376Z"
+  },
+  {
+    "id": "moma-ps1-2026-09-24-printed-matter-s-2026-ny-art-book-fair",
+    "title": "Printed Matter's 2026 NY Art Book Fair",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-09-24",
+    "description": "NYABF convenes hundreds of independent publishers, artists, antiquarian booksellers, zine collectives, and distributors at MoMA PS1 for four days (Sept 24-27, 2026), celebrating 50 years of experimental artistic practices in NYC's cultural landscape.",
+    "url": "https://www.momaps1.org/en/events/841-printed-matter-s-2026-ny-art-book-fair",
+    "format": "festival",
+    "interest_score": 3.1,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Art & Technology",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.413Z"
+  },
+  {
+    "id": "moma-ps1-2027-02-08-homeroom-artists-against-the-bomb",
+    "title": "Homeroom: Artists Against the Bomb",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2027-02-08",
+    "description": "An international artistic campaign (AATB) supporting the abolition of nuclear weapons presents posters, design, film, photography, literature, music, sculpture, and ephemera calling for collective action. On view now, closing Feb 8, 2027.",
+    "url": "https://www.momaps1.org/en/programs/838-homeroom-artists-against-the-bomb",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "sculpture",
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.413Z"
+  },
+  {
+    "id": "moma-ps1-2027-02-08-teresa-margolles-en-el-lugar-de-los-hech",
+    "title": "Teresa Margolles: En el Lugar de los Hechos (At the Scene)",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2027-02-08",
+    "description": "Forensic pathologist-trained artist Teresa Margolles examines transnational violence and the US-Mexico border through site-responsive interventions and a radical rethinking of the memorial. On view now, closing Feb 8, 2027.",
+    "url": "https://www.momaps1.org/en/programs/760-teresa-margolles",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.413Z"
+  },
+  {
+    "id": "metrograph-2026-10-10-earth",
+    "title": "Earth",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-10",
+    "time_start": "18:30",
+    "description": "Oleksandr Dovzhenko's 1930 Ukrainian silent classic Earth screens with live musical accompaniment by pianist/synth player Fima Chupakhin and bandura player Julian Kytasty.",
+    "url": "https://metrograph.com/film/9999004546-earth/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.429Z"
+  },
+  {
+    "id": "metrograph-2026-10-11-arsenal",
+    "title": "Arsenal",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-11",
+    "time_start": "17:00",
+    "description": "Oleksandr Dovzhenko's 1929 Ukrainian silent film Arsenal screens with live musical accompaniment by Fima Chupakhin (piano & synths) and percussionist Fabio Rojas.",
+    "url": "https://metrograph.com/film/9999005033-arsenal/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.429Z"
+  },
+  {
+    "id": "metrograph-2026-10-17-zvenyhora",
+    "title": "Zvenyhora",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-17",
+    "time_start": "12:30",
+    "description": "Oleksandr Dovzhenko's 1928 Ukrainian silent film Zvenyhora screens with an original score performed live by the group medukha.",
+    "url": "https://metrograph.com/film/9999005036-zvenygora/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.429Z"
+  },
+  {
+    "id": "metrograph-2026-10-03-the-wailing",
+    "title": "The Wailing",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-03",
+    "time_start": "19:50",
+    "description": "Na Hong-jin's 2016 horror film screens with an introduction by composer Jang Young Gyu.",
+    "url": "https://metrograph.com/film/9999003989-the-wailing/",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.428Z"
+  },
+  {
+    "id": "metrograph-2026-10-17-the-insider",
+    "title": "The Insider",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-17",
+    "time_start": "16:40",
+    "description": "Michael Mann's 1999 film The Insider screens with a Q&A featuring investigative journalist Lowell Bergman and Pulitzer Prize-winning reporter Pablo Torre.",
+    "url": "https://metrograph.com/film/9999003555-the-insider/",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:27:17.429Z"
   }
 ]

@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:19:10.827Z"
+    "last_checked": "2026-09-27T07:27:17.424Z"
   },
   {
     "id": "new-museum",
@@ -148,7 +148,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:23:28.667Z"
+    "last_checked": "2026-09-27T07:27:17.439Z"
   },
   {
     "id": "film-forum",
@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:23:28.636Z"
+    "last_checked": "2026-09-27T07:27:17.401Z"
   },
   {
     "id": "issue-project-room",
@@ -3417,7 +3417,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:19:10.813Z"
+    "last_checked": "2026-09-27T07:27:17.409Z"
   },
   {
     "id": "celebrate-brooklyn",
