@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:30:05.848Z"
+    "last_checked": "2026-09-27T07:32:18.117Z"
   },
   {
     "id": "anthology-film-archives",
@@ -3167,7 +3167,8 @@
     "generated_scraper": null,
     "relevance_score": 3.5,
     "added_by": "manual",
-    "status": "active"
+    "status": "active",
+    "last_checked": "2026-09-27T07:32:18.032Z"
   },
   {
     "id": "the-brick",
@@ -3239,7 +3240,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:27:17.230Z"
+    "last_checked": "2026-09-27T07:32:18.050Z"
   },
   {
     "id": "canyon",
@@ -3388,7 +3389,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:21:55.490Z"
+    "last_checked": "2026-09-27T07:32:18.073Z"
   },
   {
     "id": "summerstage",
@@ -3469,7 +3470,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:27:17.261Z"
+    "last_checked": "2026-09-27T07:32:18.081Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3518,7 +3519,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:30:05.832Z"
+    "last_checked": "2026-09-27T07:32:18.098Z"
   },
   {
     "id": "lincoln-center-summer",

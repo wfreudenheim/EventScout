@@ -10721,5 +10721,446 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:31:28.471Z"
+  },
+  {
+    "id": "jack-arts-2026-11-12-a-living-altar",
+    "title": "A Living Altar",
+    "venue_id": "jack-arts",
+    "venue_name": "JACK",
+    "date": "2026-11-12",
+    "description": "Trey Alam presents a new experimental performance work at JACK, part of the fall 2026 season, running November 12-15.",
+    "url": "https://www.jackny.org/treyalam-alivingaltar",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.011Z"
+  },
+  {
+    "id": "jack-arts-2026-11-20-mine-to-keep",
+    "title": "Mine to Keep",
+    "venue_id": "jack-arts",
+    "venue_name": "JACK",
+    "date": "2026-11-20",
+    "description": "Cara Hagan presents a new experimental performance work at JACK, part of the fall 2026 season, running November 20-22.",
+    "url": "https://www.jackny.org/carahagan-minetokeep",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.013Z"
+  },
+  {
+    "id": "green-wood-2026-10-17-secrets-in-stone",
+    "title": "Secrets in Stone",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-17",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "description": "A crowd-favorite walking tour decoding the symbols, carvings and hidden stories embedded in Green-Wood's Victorian-era monuments.",
+    "url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-10-17/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.040Z"
+  },
+  {
+    "id": "green-wood-2026-10-04-green-wood-s-greatest-hits",
+    "title": "Green-Wood's Greatest Hits",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-04",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "description": "A walking tour covering Green-Wood's most notable sites, monuments and stories.",
+    "url": "https://www.green-wood.com/event/green-woods-greatest-hits-14/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.040Z"
+  },
+  {
+    "id": "green-wood-2026-10-11-green-wood-s-greatest-hits",
+    "title": "Green-Wood's Greatest Hits",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-11",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "description": "A walking tour covering Green-Wood's most notable sites, monuments and stories.",
+    "url": "https://www.green-wood.com/event/green-woods-greatest-hits-15/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.040Z"
+  },
+  {
+    "id": "green-wood-2026-10-11-catch-the-colors-fall-at-green-wood",
+    "title": "Catch the Colors: Fall at Green-Wood",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-11",
+    "time_start": "14:00",
+    "time_end": "16:00",
+    "description": "A seasonal walking tour through Green-Wood as its thousands of trees turn to fall color.",
+    "url": "https://www.green-wood.com/event/catch-the-colors-fall-at-green-wood-2/2026-10-11/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.040Z"
+  },
+  {
+    "id": "drom-2026-09-28-queen-of-the-violin-and-friends-live-",
+    "title": "Queen of the Violin and Friends: Live!",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-09-28",
+    "time_start": "19:00",
+    "description": "Violinist, recording artist and bandleader Kersten Stevens brings her forthcoming live album to DROM for a one-night performance.",
+    "url": "https://dromnyc.com/event/kersten-stevens-queen-of-the-violin/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.057Z"
+  },
+  {
+    "id": "drom-2026-09-30-the-devil-i-knew-album-release-modern-so",
+    "title": "The Devil I Knew Album Release & Modern Songbook Society Scholarship Fundraiser",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-09-30",
+    "time_start": "18:30",
+    "description": "Grammy-winning jazz vocalist, pianist, composer and arranger Nicole Zuraitis celebrates her album release at DROM, with proceeds supporting a scholarship reception.",
+    "url": "https://dromnyc.com/event/its-the-devil-i-knew-album-release-modern-songbook-society-scholarship-fundraiser-reception/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.057Z"
+  },
+  {
+    "id": "drom-2026-10-30-nevermore-goth-rave-halloween-edition",
+    "title": "Nevermore [Goth Rave] Halloween Edition",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-30",
+    "time_start": "23:00",
+    "description": "VampireFreaks and GBH present a goth rave Halloween edition at DROM with DJs Jet, Swabby and guests.",
+    "url": "https://dromnyc.com/event/nevermore-goth-rave-halloween-edition-2/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.057Z"
+  },
+  {
+    "id": "terraza-7-2026-09-27-sofia-tosello-yuri-juarez-south-american",
+    "title": "Sofia Tosello & Yuri Juarez | South American Roots & Jazz",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-27",
+    "description": "A two-set performance of South American roots music and jazz at Terraza 7.",
+    "url": "https://www.terraza7.com/detalles-y-registro/sofia-tosello-yuri-juarez-south-american-roots-jazz-first-set-2",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.084Z"
+  },
+  {
+    "id": "terraza-7-2026-09-28-roman-diaz-la-rumba-de-los-lunes",
+    "title": "Roman Diaz & La Rumba de los Lunes",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-28",
+    "description": "Cuban rumba tradition led by Roman Diaz at Terraza 7's long-running Monday rumba series.",
+    "url": "https://www.terraza7.com/detalles-y-registro/roman-diaz-la-rumba-de-los-lunes-38",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.085Z"
+  },
+  {
+    "id": "terraza-7-2026-10-04-max-pollak-friends-the-rumbatap-jam-sess",
+    "title": "Max Pollak & Friends - The RumbaTap Jam Session",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-04",
+    "description": "Max Pollak's RumbaTap jam session fuses Afro-Cuban rumba with tap dance percussion at Terraza 7.",
+    "url": "https://www.terraza7.com/detalles-y-registro/max-pollak-friends-the-rumbatap-jam-session-9",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.085Z"
+  },
+  {
+    "id": "terraza-7-2026-10-13-las-guaracheras-salsa",
+    "title": "Las Guaracheras | Salsa",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-13",
+    "description": "A two-set salsa performance by Las Guaracheras at Terraza 7.",
+    "url": "https://www.terraza7.com/detalles-y-registro/las-guaracheras-salsa-first-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "salsa"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.085Z"
+  },
+  {
+    "id": "film-forum-2026-10-23-william-greaves-100",
+    "title": "William Greaves 100",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-23",
+    "description": "A retrospective (Oct 23-29) marking the centennial of pioneering experimental documentarian William Greaves.",
+    "url": "https://filmforum.org/series/william-greaves-100",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.102Z"
+  },
+  {
+    "id": "film-forum-2026-09-27-unzipped-q-a-with-isaac-mizrahi-douglas-",
+    "title": "Unzipped: Q&A with Isaac Mizrahi, Douglas Keeve & Nina Santisi",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-09-27",
+    "time_start": "15:00",
+    "description": "A post-screening Q&A with Unzipped subject Isaac Mizrahi, director Douglas Keeve, and executive producer Nina Santisi.",
+    "url": "https://filmforum.org/events/event/unzipped-september-27",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.101Z"
+  },
+  {
+    "id": "film-forum-2026-09-29-dutchman-nyc-in-transit-series-",
+    "title": "Dutchman (NYC in Transit series)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-09-29",
+    "time_start": "18:00",
+    "description": "A screening of Dutchman as part of Film Forum's NYC in Transit repertory series.",
+    "url": "https://filmforum.org/film/dutchman-nyc-in-transit",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.101Z"
+  },
+  {
+    "id": "film-forum-2026-10-02-ashes-and-diamonds",
+    "title": "Ashes and Diamonds",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-02",
+    "time_start": "18:50",
+    "description": "A screening of the Polish classic Ashes and Diamonds, introduced by Bogdan Klich, Charge d'Affaires ad interim of the Republic of Poland to the U.S., and Jakub Swietlik, Director of the Polish Cultural Institute New York.",
+    "url": "https://filmforum.org/events/event/ashes-and-diamonds-october-2",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.101Z"
+  },
+  {
+    "id": "film-forum-2026-10-02-andrzej-wajda-100",
+    "title": "Andrzej Wajda 100",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-02",
+    "description": "A month-long retrospective (Oct 2-22) marking the centennial of director Andrzej Wajda, spanning his classic Polish films including A Generation, Kanal, Ashes and Diamonds, Man of Marble and more.",
+    "url": "https://filmforum.org/series/andrzej-wajda-100",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.102Z"
+  },
+  {
+    "id": "film-forum-2026-10-04-the-women-1939-",
+    "title": "The Women (1939)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-04",
+    "time_start": "19:00",
+    "description": "A screening of George Cukor's The Women, followed by a conversation with author and actress Illeana Douglas and Film Forum Repertory Artistic Director Bruce Goldstein.",
+    "url": "https://filmforum.org/events/event/the-women-october-4",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.102Z"
+  },
+  {
+    "id": "film-forum-2026-10-09-my-undesirable-friends-part-ii-exile",
+    "title": "My Undesirable Friends: Part II - Exile",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-09",
+    "description": "Opening of the documentary's second part, following journalists in exile.",
+    "url": "https://filmforum.org/film/my-undesirable-friends-part-ii-exile",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.102Z"
+  },
+  {
+    "id": "film-forum-2026-10-16-once-upon-a-time-in-harlem",
+    "title": "Once Upon a Time in Harlem",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-16",
+    "description": "Opening of a documentary exploring Harlem's history and culture.",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.102Z"
+  },
+  {
+    "id": "film-forum-2026-11-13-threeasfour-full-circle",
+    "title": "ThreeAsFour: Full Circle",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-13",
+    "description": "Opening of a documentary about the fashion design collective ThreeAsFour. Further out than the immediate 8-week window but worth noting.",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.102Z"
+  },
+  {
+    "id": "film-forum-2026-10-23-fatherland",
+    "title": "Fatherland",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-23",
+    "description": "Opening of the drama Fatherland at Film Forum.",
+    "url": "https://filmforum.org/film/fatherland",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:32:18.102Z"
   }
 ]
