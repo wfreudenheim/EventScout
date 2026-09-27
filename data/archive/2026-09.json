@@ -142,6 +142,44 @@
     "discovered_at": "2026-08-09T17:47:44.966Z"
   },
   {
+    "id": "printed-matter-2026-09-09-gordon-matta-clark-contemporary-commissi",
+    "title": "Gordon Matta-Clark — Contemporary Commissions",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-09",
+    "description": "A new commissioned project from Jessica Vaughn responding to Gordon Matta-Clark's work, on view September 9 through November 29, 2026.",
+    "url": "https://www.printedmatter.org/programs/events/2280",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:26:19.663Z"
+  },
+  {
+    "id": "printed-matter-2026-09-09-new-openings-against-old-surfaces-on-gor",
+    "title": "New Openings Against Old Surfaces: On Gordon Matta-Clark's Walls Paper",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-09",
+    "description": "Exhibition on view September 9 through November 29, 2026, examining Gordon Matta-Clark's printed 'Walls Paper' works and their intersections of architecture and art.",
+    "url": "https://www.printedmatter.org/programs/events/2276",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:26:19.662Z"
+  },
+  {
     "id": "national-sawdust-2026-09-10-eli-fola-the-healing-scapes",
     "title": "Eli Fola: The Healing Scapes",
     "venue_id": "national-sawdust",
@@ -752,6 +790,24 @@
     "source_agent": "aggregator:web-sweep",
     "status": "archived",
     "discovered_at": "2026-09-15T15:05:00.458Z"
+  },
+  {
+    "id": "cooper-union-2026-09-16-guild-greyshkul",
+    "title": "Guild & Greyshkul",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-09-16",
+    "description": "Exhibition on view at Cooper Union, September 16 through October 31, 2026.",
+    "url": "https://cooper.edu/events-and-exhibitions/exhibitions/guild-greyshkul",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:26:19.621Z"
   },
   {
     "id": "anthology-film-archives-2026-09-16-jackie-raynal-presents-hotel-new-york",
