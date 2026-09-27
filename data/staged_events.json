@@ -9768,5 +9768,448 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:25:50.366Z"
+  },
+  {
+    "id": "roulette-2026-10-09-find-your-own-voice-james-brandon-lewis-",
+    "title": "Find Your Own Voice: James Brandon Lewis and Anne Waldman // Oliver Lake and Josh Werner // Tuesday Taylor and Melanie Dyer // Taylor Pace and Kokayi",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-09",
+    "time_start": "20:00",
+    "description": "Jazz Generations Initiative Continuum Fellow presents a three-night residency featuring poets, musicians, and artists across generations.",
+    "url": "https://roulette.org/event/james-brandon-lewis-taylor-pace-tuesday-taylor/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.588Z"
+  },
+  {
+    "id": "roulette-2026-10-06-carla-kihlstedt-rafael-os-s-a-workshop-o",
+    "title": "Carla Kihlstedt & Rafael Osés: A Workshop on the Process Behind X Amendments",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-06",
+    "time_start": "19:00",
+    "description": "An interactive workshop exploring the ideas behind the artist's most recent collaboration with Rafael Osés, X Amendments.",
+    "url": "https://roulette.org/event/workshop-carla-kihlstedt/",
+    "price": "$15",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.588Z"
+  },
+  {
+    "id": "cooper-union-2026-10-08-primers-for-a-handmade-utopia",
+    "title": "Primers for a Handmade Utopia",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-08",
+    "description": "Exhibition on view October 8 through 29, 2026, accompanying a panel discussion of the same name at Cooper Union's architecture school.",
+    "url": "https://cooper.edu/architecture/exhibitions/primers-handmade-utopia",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.621Z"
+  },
+  {
+    "id": "cooper-union-2026-10-13-exhibition-panel-discussion-primers-for-",
+    "title": "Exhibition Panel Discussion | Primers for a Handmade Utopia",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-13",
+    "time_start": "18:30",
+    "description": "A panel discussion accompanying the exhibition Primers for a Handmade Utopia, exploring speculative and handmade approaches to architecture.",
+    "url": "https://cooper.edu/architecture/events/exhibition-panel-discussion-primers-handmade-utopia",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.621Z"
+  },
+  {
+    "id": "cooper-union-2026-09-29-the-diane-lewis-student-lecture-series-g",
+    "title": "The Diane Lewis Student Lecture Series | Guillaume Othenin-Girard: Drawing into Place",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-09-29",
+    "time_start": "19:00",
+    "description": "A lecture in Cooper Union's Diane Lewis Student Lecture Series on architectural drawing and site.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.619Z"
+  },
+  {
+    "id": "cooper-union-2026-10-08-visiting-lecture-at-hh-malin-heyman-jame",
+    "title": "Visiting Lecture | AT-HH, Malin Heyman + James Hamilton: Cutting Together Apart — Approaches to Building",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-08",
+    "time_start": "18:30",
+    "description": "A visiting lecture on architectural practice and approaches to building, presented by AT-HH's Malin Heyman and James Hamilton.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/visiting-lecture-hh-malin-heyman-james-hamilton-cutting-together",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.621Z"
+  },
+  {
+    "id": "cooper-union-2026-09-16-guild-greyshkul",
+    "title": "Guild & Greyshkul",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-09-16",
+    "description": "Exhibition on view at Cooper Union, September 16 through October 31, 2026.",
+    "url": "https://cooper.edu/events-and-exhibitions/exhibitions/guild-greyshkul",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.621Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-27-archtober-x-data-vandals-newsstand-activ",
+    "title": "Archtober x Data Vandals: Newsstand Activation Unveiling",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-27",
+    "time_start": "15:00",
+    "time_end": "18:00",
+    "description": "Archtober and Data Vandals celebrate the unveiling of the festival's newsstand activation at the 51st Street 6 Train subway station, a site-specific installation.",
+    "url": "https://calendar.aiany.org/2026/09/27/archtober-x-data-vandals-newsstand-activation-unveiling/",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Architecture & Urbanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.645Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-02-radical-optimism-exploring-the-next-gene",
+    "title": "Radical Optimism: Exploring the Next Generation of Urban Infrastructure",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-02",
+    "time_start": "09:00",
+    "time_end": "17:00",
+    "description": "A day-long symposium on the future of urban infrastructure, jointly presented with ASLANY and APANY/Metro.",
+    "url": "https://calendar.aiany.org/2026/10/02/radical-optimism-exploring-the-next-generation-of-urban-infrastructure/",
+    "format": "conference",
+    "interest_score": 3,
+    "tags": [
+      "infrastructure"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.646Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-30-book-talk-restoration-by-carol-davis",
+    "title": "Book Talk: Restoration by Carol Davis",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-30",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Writer, archivist, and architecture researcher Carol Davis discusses her debut novel Restoration, in conversation with another author.",
+    "url": "https://calendar.aiany.org/2026/09/30/book-talk-restoration-by-carol-davis/",
+    "format": "talk",
+    "interest_score": 2.1,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.646Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-04-building-of-the-day-orchard-beach-pavili",
+    "title": "Building of the Day: Orchard Beach Pavilion Restoration",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-04",
+    "time_start": "13:00",
+    "time_end": "14:00",
+    "description": "A guided architectural tour of the restored Orchard Beach Pavilion.",
+    "url": "https://calendar.aiany.org/2026/10/04/building-of-the-day-orchard-beach-pavilion-restoration/",
+    "format": "tour",
+    "interest_score": 2.1,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.647Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-01-building-of-the-day-new-museum",
+    "title": "Building of the Day: New Museum",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-01",
+    "time_start": "14:00",
+    "time_end": "16:00",
+    "description": "A guided architectural tour of the New Museum building.",
+    "url": "https://calendar.aiany.org/2026/10/01/building-of-the-day-new-museum/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.646Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-02-building-of-the-day-shirley-chisholm-rec",
+    "title": "Building of the Day: Shirley Chisholm Recreation Center",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-02",
+    "time_start": "14:00",
+    "time_end": "15:00",
+    "description": "A guided architectural tour of the Shirley Chisholm Recreation Center.",
+    "url": "https://calendar.aiany.org/2026/10/02/building-of-the-day-shirley-chisholm-recreation-center/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.646Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-03-walking-tour-aia-presidents-shaping-the-",
+    "title": "Walking Tour: AIA Presidents Shaping the Lower Manhattan Skyline",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-03",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A walking tour exploring how past AIA New York presidents shaped the Lower Manhattan skyline.",
+    "url": "https://calendar.aiany.org/2026/10/03/walking-tour-aia-presidents-shaping-the-lower-manhattan-skyline-3/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.647Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-03-building-of-the-day-the-future-perfect",
+    "title": "Building of the Day: The Future Perfect",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-03",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "description": "A guided architectural tour of the Future Perfect design showroom building.",
+    "url": "https://calendar.aiany.org/2026/10/03/building-of-the-day-the-future-perfect/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.647Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-04-new-date-walking-tour-contemporary-archi",
+    "title": "New Date - Walking Tour: Contemporary Architecture and Historic Landmarks in NoHo",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-04",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A walking tour pairing contemporary architecture with historic landmarks in NoHo.",
+    "url": "https://calendar.aiany.org/2026/10/04/new-date-walking-tour-contemporary-architecture-and-historic-landmarks-in-noho/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.647Z"
+  },
+  {
+    "id": "printed-matter-2026-09-09-new-openings-against-old-surfaces-on-gor",
+    "title": "New Openings Against Old Surfaces: On Gordon Matta-Clark's Walls Paper",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-09",
+    "description": "Exhibition on view September 9 through November 29, 2026, examining Gordon Matta-Clark's printed 'Walls Paper' works and their intersections of architecture and art.",
+    "url": "https://www.printedmatter.org/programs/events/2276",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.662Z"
+  },
+  {
+    "id": "printed-matter-2026-10-20-roaming-a-flushing-mall-rong-xin-book-ta",
+    "title": "Roaming A Flushing Mall: Rong Xin Book Talk",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-20",
+    "description": "Artist Rong Xin discusses their book on roaming a Flushing mall, engaging with diaspora and Asian American life in NYC.",
+    "url": "https://www.printedmatter.org/programs/events/2287",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "diaspora",
+      "asian-american"
+    ],
+    "matched_categories": [
+      "Language & Culture",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.663Z"
+  },
+  {
+    "id": "printed-matter-2026-09-09-gordon-matta-clark-contemporary-commissi",
+    "title": "Gordon Matta-Clark — Contemporary Commissions",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-09",
+    "description": "A new commissioned project from Jessica Vaughn responding to Gordon Matta-Clark's work, on view September 9 through November 29, 2026.",
+    "url": "https://www.printedmatter.org/programs/events/2280",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.663Z"
+  },
+  {
+    "id": "printed-matter-2026-09-24-2026-ny-art-book-fair",
+    "title": "2026 NY Art Book Fair",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-24",
+    "description": "Printed Matter's flagship festival for artists' books and independent publishing, with 300+ exhibitors from 41 countries; running September 24–27, 2026.",
+    "url": "https://www.printedmatter.org/programs/events/2284",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.663Z"
+  },
+  {
+    "id": "printed-matter-2026-10-08-positions-by-k8-hardy",
+    "title": "Positions by K8 Hardy",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-08",
+    "description": "Launch and conversation for K8 Hardy's new publication Positions.",
+    "url": "https://www.printedmatter.org/programs/events/2295",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.663Z"
+  },
+  {
+    "id": "printed-matter-2026-09-27-love-always-signing-with-nontsikelelo-mu",
+    "title": "Love Always — Signing with Nontsikelelo Mutiti and Paul John",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-09-27",
+    "description": "An offsite book signing with artists Nontsikelelo Mutiti and Paul John.",
+    "url": "https://www.printedmatter.org/programs/events/2297",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:26:19.663Z"
   }
 ]
