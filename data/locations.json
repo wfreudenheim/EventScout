@@ -114,7 +114,8 @@
     "status": "active",
     "scrape_tier": 3,
     "structured_source": null,
-    "generated_scraper": null
+    "generated_scraper": null,
+    "last_checked": "2026-09-27T07:18:42.452Z"
   },
   {
     "id": "metrograph",
@@ -389,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T14:59:55.129Z"
+    "last_checked": "2026-09-27T07:18:42.465Z"
   },
   {
     "id": "the-new-school",
@@ -966,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:16:13.518Z"
+    "last_checked": "2026-09-27T07:18:42.471Z"
   },
   {
     "id": "caveat",
@@ -1604,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.811Z"
+    "last_checked": "2026-09-27T07:18:42.520Z"
   },
   {
     "id": "rockefeller-university",
@@ -2035,7 +2036,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:16:13.550Z"
+    "last_checked": "2026-09-27T07:18:42.527Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2130,7 +2131,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:16:13.538Z"
+    "last_checked": "2026-09-27T07:18:46.897Z"
   },
   {
     "id": "prismatic-ground",
@@ -2295,7 +2296,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:59:55.184Z"
+    "last_checked": "2026-09-27T07:18:46.905Z"
   },
   {
     "id": "blank-forms",
@@ -2319,7 +2320,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.712Z"
+    "last_checked": "2026-09-27T07:18:46.914Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2552,7 +2553,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:16:17.488Z"
+    "last_checked": "2026-09-27T07:18:46.927Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2647,7 +2648,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.632Z"
+    "last_checked": "2026-09-27T07:18:46.947Z"
   },
   {
     "id": "n-plus-one",
@@ -2885,7 +2886,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:16:17.521Z"
+    "last_checked": "2026-09-27T07:18:46.953Z"
   },
   {
     "id": "la-mama",
@@ -2932,7 +2933,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:16:17.533Z"
+    "last_checked": "2026-09-27T07:18:46.981Z"
   },
   {
     "id": "onassis-onx",

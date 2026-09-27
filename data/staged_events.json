@@ -7773,5 +7773,110 @@
     "source_agent": "tier2-scraper",
     "status": "staged",
     "discovered_at": "2026-09-27T06:52:00.096Z"
+  },
+  {
+    "id": "eyebeam-2026-10-05-artificial-inquiries-a-live-worldbuildin",
+    "title": "Artificial Inquiries: A Live Worldbuilding Game with More&More",
+    "venue_id": "eyebeam",
+    "venue_name": "Eyebeam",
+    "date": "2026-10-05",
+    "time_start": "19:00",
+    "description": "A live, participatory worldbuilding game hosted at Eyebeam with the collective More&More, part of Eyebeam's ongoing public program exploring agency and technology.",
+    "url": "https://eyebeam.org/articles/artificial-inquiries",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "worldbuilding"
+    ],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Games & Interactive",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:18:42.431Z"
+  },
+  {
+    "id": "vera-list-center-2026-10-10-vlc-forum-2026-chus-mart-nez-what-should",
+    "title": "VLC Forum 2026: Chus Martínez. What Should We Do With Intelligence? What Forms of Intelligence Are Still Producing the Social?",
+    "venue_id": "vera-list-center",
+    "venue_name": "Vera List Center for Art and Politics",
+    "date": "2026-10-10",
+    "description": "Keynote lecture by curator/theorist Chus Martínez interrogating forms of intelligence and the social, part of the VLC Forum 2026.",
+    "url": "https://veralistcenter.org/events/vlc-forum-2026-chus-martinez-keynote-lecture",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:18:42.479Z"
+  },
+  {
+    "id": "rockaway-film-festival-2026-10-03-the-adventures-of-prince-achmed-shadow-p",
+    "title": "The Adventures of Prince Achmed + Shadow Puppet Show",
+    "venue_id": "rockaway-film-festival",
+    "venue_name": "Rockaway Film Festival",
+    "date": "2026-10-03",
+    "time_start": "19:00",
+    "description": "A centennial screening of one of animation's great classics with live, original musical accompaniment by Order of the Illusive and a shadow puppet show by Broken Toys.",
+    "url": "https://www.rockawayfilmfestival.org/events/the-adventures-of-prince-achmed",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:18:46.861Z"
+  },
+  {
+    "id": "rockaway-film-festival-2026-10-02-beach-sessions-presents-dance-cinema",
+    "title": "Beach Sessions Presents: Dance + Cinema",
+    "venue_id": "rockaway-film-festival",
+    "venue_name": "Rockaway Film Festival",
+    "date": "2026-10-02",
+    "time_start": "20:00",
+    "description": "A collection of dance scenes serving as references for Alexa West's work, including her latest commission for Beach Sessions, \"Amusement.\"",
+    "url": "https://www.rockawayfilmfestival.org/events/beach-sessions-presents-dance-cinema",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:18:46.858Z"
+  },
+  {
+    "id": "harvestworks-2026-09-27-javier-bustos-testu-collective",
+    "title": "Javier Bustos + Testu Collective",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-09-27",
+    "description": "A live performance at Harvestworks' digital media arts center.",
+    "url": "https://www.harvestworks.org/event/performance-javier-bustos-testu-collective/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-27T07:18:46.957Z"
   }
 ]
