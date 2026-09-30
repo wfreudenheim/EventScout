@@ -4030,5 +4030,65 @@
     "events_found": 1,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "vera-list-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:14:16.925Z",
+    "completed_at": "2026-09-30T07:14:16.925Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "lincoln-center-summer",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:14:16.948Z",
+    "completed_at": "2026-09-30T07:14:16.948Z",
+    "events_found": 5,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nitehawk",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:14:16.971Z",
+    "completed_at": "2026-09-30T07:14:16.971Z",
+    "events_found": 4,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "asia-society",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:14:16.994Z",
+    "completed_at": "2026-09-30T07:14:16.994Z",
+    "events_found": 5,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "moma",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:14:17.014Z",
+    "completed_at": "2026-09-30T07:14:17.014Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wendys-subway",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:14:17.035Z",
+    "completed_at": "2026-09-30T07:14:17.035Z",
+    "events_found": 5,
+    "events_new": 5,
+    "status": "completed"
   }
 ]

@@ -1108,7 +1108,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.343Z",
+    "last_checked": "2026-09-30T07:14:17.012Z",
     "scrape_notes": "Sweep 2026-07: now 403s via WebFetch too (worked in March). | Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
   },
   {
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:18:42.520Z"
+    "last_checked": "2026-09-30T07:14:16.923Z"
   },
   {
     "id": "rockefeller-university",
@@ -1773,7 +1773,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:21:55.607Z"
+    "last_checked": "2026-09-30T07:14:17.033Z"
   },
   {
     "id": "cybernetics-library",
@@ -2222,7 +2222,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:21:55.574Z"
+    "last_checked": "2026-09-30T07:14:16.968Z"
   },
   {
     "id": "japan-society",
@@ -2272,7 +2272,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.875Z"
+    "last_checked": "2026-09-30T07:14:16.992Z"
   },
   {
     "id": "aaww",
@@ -3544,7 +3544,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.821Z"
+    "last_checked": "2026-09-30T07:14:16.946Z"
   },
   {
     "id": "bryant-park-picnics",
