@@ -4390,5 +4390,55 @@
     "events_found": 11,
     "events_new": 3,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bard-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:28:56.150Z",
+    "completed_at": "2026-09-30T07:28:56.150Z",
+    "events_found": 9,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "poetry-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:28:56.164Z",
+    "completed_at": "2026-09-30T07:28:56.164Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-book-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:28:56.189Z",
+    "completed_at": "2026-09-30T07:28:56.189Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "fridman-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:28:56.203Z",
+    "completed_at": "2026-09-30T07:28:56.203Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:28:56.237Z",
+    "completed_at": "2026-09-30T07:28:56.237Z",
+    "events_found": 12,
+    "events_new": 4,
+    "status": "completed"
   }
 ]

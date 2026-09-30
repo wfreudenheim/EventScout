@@ -10307,5 +10307,183 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:28:04.839Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-07-louis-xiv-s-savonnerie-carpets-stages-of",
+    "title": "Louis XIV's Savonnerie Carpets: \"Stages of Power\" Revisited",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-07",
+    "description": "A Françoise and Georges Selz Lecture on Eighteenth- and Nineteenth-Century French Decorative Arts and Culture by Wolf Burchard (The Metropolitan Museum of Art).",
+    "url": "https://www.bgc.bard.edu/events/1638/07-oct-2026-louis-xivs",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.114Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-11-04-listen-to-your-earrings-remaking-ethnolo",
+    "title": "Listen to Your Earrings: Remaking Ethnological Jewelry",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-11-04",
+    "description": "A lecture by Henrietta Lidchi (Ethnological Museum of Berlin and the Museum of Asian Art) on remaking and reinterpreting ethnological jewelry.",
+    "url": "https://www.bgc.bard.edu/events/1642/04-nov-2026-listen-to",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.115Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-11-11-detours-constellations-and-failure-resea",
+    "title": "Detours, Constellations, and Failure: Researching Design History",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-11-11",
+    "description": "An Alumni Spotlight Lecture by Antonio Sánchez-Gómez (Parsons School of Design, the New School).",
+    "url": "https://www.bgc.bard.edu/events/1644/11-nov-2026-detours-constellations",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.116Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-10-06-intro-to-pamphlet-stitch",
+    "title": "Intro to Pamphlet Stitch",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-10-06",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "An in-person bookbinding workshop on the pamphlet stitch technique, taught by Efrat Hakimi.",
+    "url": "https://shop.centerforbookarts.org/products/26fbb111i",
+    "price": "$105 + $25 materials fee",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.169Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-10-09-letter-box-the-geometry-of-loss",
+    "title": "Letter Box: The Geometry of Loss",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-10-09",
+    "time_start": "19:00",
+    "description": "A book launch event for the artist's book \"Letter Box: The Geometry of Loss.\"",
+    "url": "https://shop.centerforbookarts.org/products/letter-box-the-geometry-of-loss-1",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.169Z"
+  },
+  {
+    "id": "public-records-2026-12-06-world-music-institute-presents-laura-ita",
+    "title": "World Music Institute presents Laura Itandehui",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-06",
+    "time_start": "19:00",
+    "description": "A concert presented by the World Music Institute featuring Laura Itandehui, in the Sound Room.",
+    "url": "https://link.dice.fm/Ve8754d59c86",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.211Z"
+  },
+  {
+    "id": "public-records-2026-10-14-new-amsterdam-presents-charlotte-greve-w",
+    "title": "New Amsterdam presents Charlotte Greve – Waterbodies & Kaoru Watanabe – The Arch Release Show",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-14",
+    "time_start": "19:00",
+    "description": "An album release show from new-music label New Amsterdam featuring Charlotte Greve's water-themed \"Waterbodies\" and Kaoru Watanabe's \"The Arch,\" in the Sound Room.",
+    "url": "https://link.dice.fm/Q9c808f101ff",
+    "format": "music",
+    "interest_score": 3.1,
+    "tags": [
+      "water"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.208Z"
+  },
+  {
+    "id": "public-records-2026-10-17-prymek-sage-loren-connors",
+    "title": "Prymek & Sage, Loren Connors",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-17",
+    "time_start": "19:00",
+    "description": "Live performance in the Sound Room featuring experimental guitarist Loren Connors alongside Prymek & Sage.",
+    "url": "https://link.dice.fm/c369ede225b5",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.208Z"
+  },
+  {
+    "id": "public-records-2026-10-22-nate-mercereau-fantastic-thoughts-with-s",
+    "title": "Nate Mercereau – Fantastic Thoughts with special guests, Carlos Niño [DJ Set]",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-22",
+    "time_start": "19:00",
+    "description": "Live experimental/ambient performance by Nate Mercereau with a DJ set from Carlos Niño, in the Sound Room.",
+    "url": "https://link.dice.fm/Nb27a51d9049",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:56.209Z"
   }
 ]
