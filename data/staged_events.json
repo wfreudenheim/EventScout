@@ -10749,5 +10749,81 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:33:44.804Z"
+  },
+  {
+    "id": "la-mama-2026-10-05-poetry-electric-jazzetry-2-0-horn-hughes",
+    "title": "Poetry Electric | Jazzetry 2.0 – Horn & Hughes",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-10-05",
+    "description": "A poetry-and-live-jazz performance pairing spoken word with jazz musicians at La MaMa.",
+    "url": "https://lamama.org/poetry-electric-jazzetry-2-0-horn-hughes/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:13.303Z"
+  },
+  {
+    "id": "index-space-2026-10-06-creative-technology-show-and-tell",
+    "title": "Creative Technology Show and Tell",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-10-06",
+    "description": "Community demo night at Index Chinatown where members show and discuss creative-technology projects, hosted by Rubiat Fusigboye.",
+    "url": "https://www.index-space.org/programming/creative-technology-show-and-tell-evt-kmsgDjNoyBQyTNn?view=list",
+    "format": "talk",
+    "interest_score": 3.5,
+    "tags": [
+      "creative-technology"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:13.343Z"
+  },
+  {
+    "id": "index-space-2026-10-13-creative-showcase-vol-7",
+    "title": "Creative Showcase Vol. 7",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-10-13",
+    "description": "Community showcase of creative work at Index Chinatown, hosted by Katie Ehrlich.",
+    "url": "https://www.index-space.org/programming/creative-showcase-vol-7-evt-5dFnBBvuFxNdJSe?view=list",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:13.343Z"
+  },
+  {
+    "id": "movement-research-2026-10-05-movement-research-at-the-judson-church-o",
+    "title": "Movement Research at the Judson Church | Oct 5, 2026",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-10-05",
+    "description": "Shared evening of new dance works by NOVA, Alexis Robbins/kamrDANCE, Jon Kinzel, and Tom Tsai at Judson Church, part of Movement Research's long-running showcase series.",
+    "url": "https://movementresearch.org/events/1469/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:13.377Z"
   }
 ]

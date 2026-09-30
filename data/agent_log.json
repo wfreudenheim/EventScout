@@ -4560,5 +4560,75 @@
     "events_found": 3,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "amant",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:13.293Z",
+    "completed_at": "2026-09-30T07:34:13.293Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "la-mama",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:13.339Z",
+    "completed_at": "2026-09-30T07:34:13.339Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:13.372Z",
+    "completed_at": "2026-09-30T07:34:13.372Z",
+    "events_found": 2,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "movement-research",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:13.398Z",
+    "completed_at": "2026-09-30T07:34:13.398Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:13.423Z",
+    "completed_at": "2026-09-30T07:34:13.423Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "jack-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:13.436Z",
+    "completed_at": "2026-09-30T07:34:13.436Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "green-wood",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:13.453Z",
+    "completed_at": "2026-09-30T07:34:13.453Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
   }
 ]
