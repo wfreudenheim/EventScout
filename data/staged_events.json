@@ -9615,5 +9615,86 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-09-30T07:14:17.018Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-18-trop-c-est-trop-enough-is-enough-mulika",
+    "title": "TROP C'EST TROP (ENOUGH IS ENOUGH) + MULIKA",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-18",
+    "description": "A double feature of African cinema pairing \"Trop c'est trop\" with the Kenyan speculative short \"Mulika,\" about a girl who can conjure light amid rural witch-hunting and superstition.",
+    "url": "https://www.maysles.org/calendar/trop-cest-trop-enough-is-enough-mulika",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:19:57.033Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-10-let-them-be-seen",
+    "title": "LET THEM BE SEEN",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-10",
+    "description": "Documentary screening centered on visibility and representation.",
+    "url": "https://www.maysles.org/calendar/let-them-be-seen",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:19:57.033Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-19-m-tisses-cinq-femmes-contre-un-crime-d-e",
+    "title": "MÉTISSES: CINQ FEMMES CONTRE UN CRIME D'ETAT",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-19",
+    "description": "French-language documentary screening following five mixed-race women confronting a crime of state.",
+    "url": "https://www.maysles.org/calendar/metisses-cinq-femmes-contre-un-crime-detat",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:19:57.034Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-04-t-v-transvestite",
+    "title": "T.V. TRANSVESTITE",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-04",
+    "description": "Documentary screening exploring television, performance, and gender identity.",
+    "url": "https://www.maysles.org/calendar/tv-transvestite",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:19:57.033Z"
   }
 ]

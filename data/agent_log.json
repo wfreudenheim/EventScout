@@ -4190,5 +4190,25 @@
     "events_found": 1,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "maysles-documentary-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:19:57.102Z",
+    "completed_at": "2026-09-30T07:19:57.102Z",
+    "events_found": 8,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "japan-society",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:19:57.125Z",
+    "completed_at": "2026-09-30T07:19:57.125Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
   }
 ]
