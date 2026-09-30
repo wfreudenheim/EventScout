@@ -10730,5 +10730,24 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:33:19.502Z"
+  },
+  {
+    "id": "participant-inc-2026-11-06-gabrielle-civil-black-weirdo-school-psyc",
+    "title": "Gabrielle Civil, Black Weirdo School Psychic Defense Club",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-11-06",
+    "time_start": "19:00",
+    "description": "Performance by Gabrielle Civil, curated by Shameekia Shantel Johnson.",
+    "url": "https://participantinc.org/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:44.804Z"
   }
 ]

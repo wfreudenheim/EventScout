@@ -4500,5 +4500,65 @@
     "events_found": 1,
     "events_new": 1,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "helix-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:33:44.741Z",
+    "completed_at": "2026-09-30T07:33:44.741Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "n-plus-one",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:33:44.756Z",
+    "completed_at": "2026-09-30T07:33:44.756Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "swiss-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:33:44.786Z",
+    "completed_at": "2026-09-30T07:33:44.786Z",
+    "events_found": 6,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "white-columns",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:33:44.800Z",
+    "completed_at": "2026-09-30T07:33:44.800Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "participant-inc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:33:44.822Z",
+    "completed_at": "2026-09-30T07:33:44.822Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:33:44.840Z",
+    "completed_at": "2026-09-30T07:33:44.841Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
   }
 ]
