@@ -1,6 +1,6 @@
 VENUE:data-society | Data & Society
 URL:https://datasociety.net/
-FETCHED:2026-09-27T06:52:02.725Z
+FETCHED:2026-09-30T06:57:22.321Z
 
 Skip to main content
 Search Search
@@ -89,26 +89,25 @@ https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-ou
 WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
 
 [https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society]
-Join us to explore how AI's role in classrooms is being shaped in New York City and beyond.
- * education [/news-events/?subject=education]
- * artificial intelligence [/news-events/?subject=artificial-intelligence]
- * educational technology [/news-events/?subject=educational-technology]
- * * young people [/news-events/?subject=young-people]
+We explore how AI's role in classrooms is being shaped in New York City and beyond.
+ * education [/research-library/?subject=education]
+ * artificial intelligence [/research-library/?subject=artificial-intelligence]
+ * educational technology [/research-library/?subject=educational-technology]
+ * * young people [/research-library/?subject=young-people]
 
-September 28, 2026
+September 10, 2026
 Event
-https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/
+https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/
 
 POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
 
-[https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/]
+[https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/]
 Join the authors of "Muskism" and "Against Tech Oligarchy" to discuss the structural forces shaping tech and state power.
- * labor [/news-events/?subject=labor]
- * Silicon Valley [/news-events/?subject=silicon-valley]
- * technology industry [/news-events/?subject=technology-industry]
+ * labor [/research-library/?subject=labor]
+ * Silicon Valley [/research-library/?subject=silicon-valley]
+ * technology industry [/research-library/?subject=technology-industry]
 
-October 7, 2026
-Event
+September 14, 2026
 https://datasociety.net/research-library/our-new-research-and-policy-collection-governing-ai-agents/
 
 OUR NEW RESEARCH AND POLICY COLLECTION: GOVERNING AI AGENTS

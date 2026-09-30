@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-09-27T06:52:15.727Z
+FETCHED:2026-09-30T06:57:37.806Z
 
 Index [/]
 
@@ -69,13 +69,23 @@ Learn More [/nodes]
 
 FILTER
 All EventsGreenpointChinatown
- * Poetry & Produce [/programming/poetry-produce-evt-gclXsUhDEajie3F?view=list]
+ * Creative Technology Show and Tell [/programming/creative-technology-show-and-tell-evt-kmsgDjNoyBQyTNn?view=list]
+
+   CREATIVE TECHNOLOGY SHOW AND TELL
+
+   Tuesday, Oct 6, 2026
+
+   Hosted by Rubiat Fusigboye [https://luma.com/user/usr-UAESXCpdD4th7L5]
+
+   Presented by Index Chinatown
+
+ * Poetry & Produce [/programming/poetry-produce-evt-ky2WkK0N6H4zxy5?view=list]
 
    POETRY & PRODUCE
 
-   Sunday, Sep 27, 2026
+   Sunday, Oct 11, 2026
 
-   Hosted by kyle [https://luma.com/user/usr-zlEmdFk9q13WEBr]
+   Hosted by Index [https://luma.com/user/usr-LvASHhwrum7Bp3P]
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
 
@@ -108,16 +118,6 @@ All EventsGreenpointChinatown
    Hosted by Rahmi Halaby [https://luma.com/user/usr-a60WBT7PoLX4sYz]
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
-
- * Vibecoding 101 [/programming/vibecoding-101-evt-uDJEA0FMU1Ga7zy?view=list]
-
-   VIBECODING 101
-
-   Tuesday, Oct 27, 2026
-
-   Hosted by Bill Roberts [https://luma.com/user/usr-QVBlnuX4RAoHstw]
-
-   Presented by Index Chinatown
 
 Show More [/programming]
 

@@ -1,6 +1,6 @@
 VENUE:elsewhere | Elsewhere
 URL:https://www.elsewhere.club/events
-FETCHED:2026-09-27T06:52:18.444Z
+FETCHED:2026-09-30T06:57:42.588Z
 
 CALENDAR
 
@@ -44,51 +44,6 @@ Genre
  * Metal
  * Other
 
-Sat, Sep 26
-
-MINA, LOSTBOYJAY, LOSING STEREO, BENEATH X ELECTROSOL [/events/1989404671927]
- * CLUB
- * FULL VENUE
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/mina-lostboyjay-losing-stereo-beneath-x-electrosol-tickets-1989404671927]
-
-Sun, Sep 27
-
-R&B AND RIBS [/events/1986571943159]
- * CLUB
- * THE ROOFTOP
-
-4:00 PM
-Buy Tickets [https://www.eventbrite.com/e/rb-and-ribs-tickets-1986571943159]
-
-Sun, Sep 27
-
-HOT FLASH HEAT WAVE, BLEARY EYED, HIGH. [/events/1990663437930]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/hot-flash-heat-wave-bleary-eyed-high-tickets-1990663437930]
-
-Mon, Sep 28
-
-FRIENDLY FIRES [/events/1994216873351]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/friendly-fires-tickets-1994216873351]
-
-Tue, Sep 29
-
-SQUIRREL FLOWER, DARI BAY [/events/1989095807104]
- * LIVE
- * THE ROOFTOP
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/squirrel-flower-dari-bay-tickets-1989095807104]
-
 Wed, Sep 30
 
 ROCKETSHIP, LIGHTHEADED [/events/1986025639149]
@@ -100,21 +55,21 @@ Buy Tickets [https://www.eventbrite.com/e/rocketship-lightheaded-tickets-1986025
 
 Thu, Oct 1
 
-THE JUNGLE GIANTS, MORNING SILK [/events/1989683092691]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/the-jungle-giants-morning-silk-tickets-1989683092691]
-
-Thu, Oct 1
-
 IMPROVEMENT MOVEMENT, THE POINT. [/events/1993540973717]
  * LIVE
  * THE ROOFTOP
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/improvement-movement-the-point-tickets-1993540973717]
+
+Thu, Oct 1
+
+THE JUNGLE GIANTS, MORNING SILK [/events/1989683092691]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/the-jungle-giants-morning-silk-tickets-1989683092691]
 
 Thu, Oct 1
 
@@ -190,6 +145,15 @@ Buy Tickets [https://www.eventbrite.com/e/tim-atlas-harrison-lipton-tickets-1990
 
 Sat, Oct 3
 
+ELSEWHERE X H0L0: NOT WITHOUT FRIENDS: LUKE ALESSI, WILLIAM KISS + MORE [/events/2002303753427]
+ * CLUB
+ * H0L0
+
+10:00 PM
+Buy Tickets [https://www.eventbrite.com/e/elsewhere-x-h0l0-not-without-friends-luke-alessi-william-kiss-more-tickets-2002303753427]
+
+Sat, Oct 3
+
 RIRIA, JUBILEE, SHAKING B2B CLEARCAST, ĀNDRRA: TOOLA, B HILLS, IZ:AK [/events/1992773659660]
  * CLUB
  * FULL VENUE
@@ -224,6 +188,15 @@ COOTIE CATCHER, TAL CASTLE [/events/1994570047705]
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/cootie-catcher-tal-castle-tickets-1994570047705]
 
+Sun, Oct 4
+
+NINAJIRACHI AFTER PARTY W/ 2CHARM, CUTE BOYS, GIRL_IRL, IZZY CAMINA + MORE [/events/2002310270921]
+ * CLUB
+ * FULL VENUE
+
+10:30 PM
+Buy Tickets [https://www.eventbrite.com/e/ninajirachi-after-party-w-2charm-cute-boys-girl-irl-izzy-camina-more-tickets-2002310270921]
+
 Wed, Oct 14
 
 ELSEWHERE PRESENTS: CHANEL BEADS @ KNOCKDOWN CENTER [/presents/1990526398040]
@@ -235,21 +208,12 @@ Buy Tickets [https://www.eventbrite.com/e/elsewhere-presents-chanel-beads-knockd
 
 Wed, Oct 14
 
-MADI DIAZ [/events/1998250978468]
+MADI DIAZ, TASHA [/events/1998250978468]
  * LIVE
  * ZONE ONE
 
 7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/madi-diaz-tickets-1998250978468]
-
-Thu, Oct 15
-
-GILLA BAND, PISS [/events/1990043090454]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/gilla-band-piss-tickets-1990043090454]
+Buy Tickets [https://www.eventbrite.com/e/madi-diaz-tasha-tickets-1998250978468]
 
 Thu, Oct 15
 
@@ -259,6 +223,15 @@ SLOW MAGIC, MAXO, 4EVR [/events/1985581729403]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/slow-magic-maxo-4evr-tickets-1985581729403]
+
+Thu, Oct 15
+
+GILLA BAND, PISS [/events/1990043090454]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/gilla-band-piss-tickets-1990043090454]
 
 Fri, Oct 16
 
@@ -280,12 +253,12 @@ Buy Tickets [https://www.eventbrite.com/e/dj-dave-arushi-jain-char-stiles-autumn
 
 Fri, Oct 16
 
-MARSOLO, JACK MARLOW [/events/1996375604173]
+MARSOLO, JACK MARLOW, NATALIA ROTH, BLAISE BRACIC, CUTBACK! + FRIENDS [/events/1996375604173]
  * CLUB
  * FULL VENUE
 
 10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/marsolo-jack-marlow-tickets-1996375604173]
+Buy Tickets [https://www.eventbrite.com/e/marsolo-jack-marlow-natalia-roth-blaise-bracic-cutback-friends-tickets-1996375604173]
 
 Sat, Oct 17
 
@@ -367,3 +340,30 @@ ELSEWHERE PRESENTS: AK’CHAMEL @ MARKET HOTEL (W/ ECOLOGY HOMESTONES) [/present
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/elsewhere-presents-akchamel-market-hotel-w-ecology-homestones-tickets-1991242313362]
+
+Thu, Oct 29
+
+PAN ARCADIA X COOKING CLASS X NO STUPID QUESTIONS [/events/2000284855850]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/pan-arcadia-x-cooking-class-x-no-stupid-questions-tickets-2000284855850]
+
+Thu, Oct 29
+
+THE HAILS, THE OCHO [/events/1992166767429]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/the-hails-the-ocho-tickets-1992166767429]
+
+Thu, Oct 29
+
+OUT & ABT - HALLOWEEN EDITION [/events/1996989228540]
+ * CLUB
+ * FULL VENUE
+
+10:30 PM
+Buy Tickets [https://www.eventbrite.com/e/out-abt-halloween-edition-tickets-1996989228540]

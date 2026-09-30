@@ -1,13 +1,13 @@
 VENUE:metrograph | Metrograph
 URL:https://metrograph.com/nyc/
-FETCHED:2026-09-27T06:52:10.377Z
+FETCHED:2026-09-30T06:57:29.016Z
 
 Skip to the content
 https://metrograph.com/
 
 Sign in [https://metrograph.com/my-account/]
 Search for:
-Now time 2026-09-27 05:55:03 Now time local 2026-09-27 01:55:03 2026-09-27
+Now time 2026-09-30 06:34:38 Now time local 2026-09-30 02:34:38 2026-09-30
 
 Next Month [?date=2026-10-01]September 2026 [?date=2026-09-01]
 SMTWTFS
@@ -39,9 +39,9 @@ SMTWTFS
  * 24 [javascript:void(0);]
  * 25 [javascript:void(0);]
  * 26 [javascript:void(0);]
- * 27 [?date=2026-09-27]
- * 28 [?date=2026-09-28]
- * 29 [?date=2026-09-29]
+ * 27 [javascript:void(0);]
+ * 28 [javascript:void(0);]
+ * 29 [javascript:void(0);]
  * 30 [?date=2026-09-30]
 
 Previous Month [?date=2026-09-01]Next Month [?date=2026-11-01]October 2026 [?date=2026-10-01]
@@ -125,18 +125,6 @@ SMTWTFS
 × Close [javascript:void(0);]
 View Calendar [javascript:void(0);]
 Today
-September
-27
-[javascript:void(0);]
-Monday
-September
-28
-[javascript:void(0);]
-Tuesday
-September
-29
-[javascript:void(0);]
-Wednesday
 September
 30
 [javascript:void(0);]
@@ -272,162 +260,6 @@ Monday
 November
 2
 [javascript:void(0);]
-https://metrograph.com/film/9999000006-goodbye-dragon-inn/
-
-GOODBYE, DRAGON INN [https://metrograph.com/film/9999000006-goodbye-dragon-inn/]
-
-Tsai Ming-liang / 2003 / 82min / DCP
-11:00am [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999001343-the-little-mermaid/
-
-THE LITTLE MERMAID [https://metrograph.com/film/9999001343-the-little-mermaid/]
-
-Ron Clements, John Musker / 1989 / 83min / 35mm
-11:00am [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999005004-a-better-tomorrow-iii-love-and-death-in-saigon/
-
-A BETTER TOMORROW III: LOVE AND DEATH IN SAIGON [https://metrograph.com/film/9999005004-a-better-tomorrow-iii-love-and-death-in-saigon/]
-
-Tsui Hark / 1989 / 105min / 4K DCP
-12:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999005009-pushing-hands/
-
-PUSHING HANDS [https://metrograph.com/film/9999005009-pushing-hands/]
-
-Ang Lee / 1991 / 105min / DCP
-12:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999005010-jollof-films-presents-faat-kine/
-
-JOLLOF FILMS PRESENTS: FAAT KINÉ [https://metrograph.com/film/9999005010-jollof-films-presents-faat-kine/]
-
-Ousmane Sembène / 2001 / 120min / Digital
-Post-screening discussion with Jollof Films on Sunday, September 27th
-3:00pm
-https://metrograph.com/film/9999000475-the-wedding-banquet/
-
-THE WEDDING BANQUET [https://metrograph.com/film/9999000475-the-wedding-banquet/]
-
-Ang Lee / 1993 / 106min / 35mm
-3:00pm
-https://metrograph.com/film/9999005011-ryuichi-sakamoto-opus/
-
-RYUICHI SAKAMOTO | OPUS [https://metrograph.com/film/9999005011-ryuichi-sakamoto-opus/]
-
-Neo Sora / 2023 / 103min / DCP
-Q&A with cinematographer Bill Kirstein and producer Albert Tholen moderated by filmmaker Kogonada on Sunday, September 27th
-5:15pm
-https://metrograph.com/film/9999005012-story-of-mother/
-
-STORY OF MOTHER [https://metrograph.com/film/9999005012-story-of-mother/]
-
-Sung Tsun-Shou / 1973 / 98min / DCP
-6:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999003243-ryuichi-sakamoto-coda/
-
-RYUICHI SAKAMOTO: CODA [https://metrograph.com/film/9999003243-ryuichi-sakamoto-coda/]
-
-Stephen Nomura Schible / 2017 / 100min / DCP
-8:00pm
-https://metrograph.com/film/9999000422-fireflies-press-presents-morvern-callar/
-
-FIREFLIES PRESS PRESENTS: MORVERN CALLAR [https://metrograph.com/film/9999000422-fireflies-press-presents-morvern-callar/]
-
-Lynne Ramsay / 2002 / 97min / 35mm
-Introduction by Fireflies Press co-publisher, Annabel Brady-Brown on Sunday, September 27th
-8:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999002042-oedipus-rex/
-
-OEDIPUS REX [https://metrograph.com/film/9999002042-oedipus-rex/]
-
-Pier Paolo Pasolini / 1967 / 104min / DCP
-10:00pm
-https://metrograph.com/film/9999002029-paprika/
-
-PAPRIKA [https://metrograph.com/film/9999002029-paprika/]
-
-Satoshi Kon / 2006 / 90min / 35mm
-10:15pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999002034-medea-1969/
-
-MEDEA (1969) [https://metrograph.com/film/9999002034-medea-1969/]
-
-Pier Paolo Pasolini / 1969 / 110min / DCP
-3:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999000356-brazil/
-
-BRAZIL [https://metrograph.com/film/9999000356-brazil/]
-
-Terry Gilliam / 1985 / 142min / 4K DCP
-4:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999003126-women-on-the-verge-of-a-nervous-breakdown/
-
-WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN [https://metrograph.com/film/9999003126-women-on-the-verge-of-a-nervous-breakdown/]
-
-Pedro Almodóvar / 1988 / 88min / 35mm
-6:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999004998-notes-toward-an-african-orestes/
-
-NOTES TOWARD AN AFRICAN ORESTES [https://metrograph.com/film/9999004998-notes-toward-an-african-orestes/]
-
-Pier Paolo Pasolini / 1970 / 65min / DCP
-6:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999002970-the-warriors/
-
-THE WARRIORS [https://metrograph.com/film/9999002970-the-warriors/]
-
-Walter Hill / 1979 / 93min / 35mm
-8:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999005006-tokyo-melody/
-
-TOKYO MELODY [https://metrograph.com/film/9999005006-tokyo-melody/]
-
-Elizabeth Lennard / 1985 / 62min / DCP
-Introduction by composer Paul Grimstad on Saturday, September 26th
-8:15pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999004975-der-fan/
-
-DER FAN [https://metrograph.com/film/9999004975-der-fan/]
-
-Eckhart Schmidt / 1982 / 92min / 4K DCP
-Introduction by filmmaker Jacqueline Castel on Friday, August 28th
-9:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999000710-ghost-in-the-shell-30th-anniversary-remaster/
-
-GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER [https://metrograph.com/film/9999000710-ghost-in-the-shell-30th-anniversary-remaster/]
-
-Mamoru Oshii / 1995 / 83min / 4K DCP
-10:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999002246-a-brighter-summer-day/
-
-A BRIGHTER SUMMER DAY [https://metrograph.com/film/9999002246-a-brighter-summer-day/]
-
-Edward Yang / 1991 / 237min / DCP
-3:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999003314-stealing-beauty/
-
-STEALING BEAUTY [https://metrograph.com/film/9999003314-stealing-beauty/]
-
-Bernardo Bertolucci / 1996 / 118min / 35mm
-4:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999005007-ryuichi-sakamoto-diaries/
-
-RYUICHI SAKAMOTO: DIARIES [https://metrograph.com/film/9999005007-ryuichi-sakamoto-diaries/]
-
-Takeo Omori / 2025 / 96min / 4K DCP
-U.S. premiere
-8:10pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999003673-la-haine/
-
-LA HAINE [https://metrograph.com/film/9999003673-la-haine/]
-
-Matthieu Kassovitz / 1995 / 97min / DCP
-10:15pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999001554-the-night-is-short-walk-on-girl/
-
-THE NIGHT IS SHORT, WALK ON GIRL [https://metrograph.com/film/9999001554-the-night-is-short-walk-on-girl/]
-
-Masaaki Yuasa / 2019 / 93min / DCP
-10:20pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 https://metrograph.com/film/9999002965-solaris/
 
 SOLARIS [https://metrograph.com/film/9999002965-solaris/]
@@ -481,7 +313,13 @@ https://metrograph.com/film/9999004990-black-orpheus/
 BLACK ORPHEUS [https://metrograph.com/film/9999004990-black-orpheus/]
 
 Marcel Camus / 1959 / 107min / 35mm
-7:25pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+7:25pm
+https://metrograph.com/film/9999000710-ghost-in-the-shell-30th-anniversary-remaster/
+
+GHOST IN THE SHELL: 30TH ANNIVERSARY REMASTER [https://metrograph.com/film/9999000710-ghost-in-the-shell-30th-anniversary-remaster/]
+
+Mamoru Oshii / 1995 / 83min / 4K DCP
+7:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 https://metrograph.com/film/9999003325-fallen-angels/
 
 FALLEN ANGELS [https://metrograph.com/film/9999003325-fallen-angels/]
@@ -542,7 +380,7 @@ https://metrograph.com/film/9999003243-ryuichi-sakamoto-coda/
 RYUICHI SAKAMOTO: CODA [https://metrograph.com/film/9999003243-ryuichi-sakamoto-coda/]
 
 Stephen Nomura Schible / 2017 / 100min / DCP
-8:25pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+8:25pm
 https://metrograph.com/film/9999003912-train-to-busan/
 
 TRAIN TO BUSAN [https://metrograph.com/film/9999003912-train-to-busan/]
@@ -555,17 +393,17 @@ ALIEN: RESURRECTION [https://metrograph.com/film/9999001729-alien-resurrection/]
 
 Jean-Pierre Jeunet / 1997 / 109min / 35mm
 10:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
-https://metrograph.com/film/9999005009-pushing-hands/
-
-PUSHING HANDS [https://metrograph.com/film/9999005009-pushing-hands/]
-
-Ang Lee / 1991 / 105min / DCP
-12:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 https://metrograph.com/film/9999001733-the-beach/
 
 THE BEACH [https://metrograph.com/film/9999001733-the-beach/]
 
 Danny Boyle / 2000 / 119min / 35mm
+12:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005009-pushing-hands/
+
+PUSHING HANDS [https://metrograph.com/film/9999005009-pushing-hands/]
+
+Ang Lee / 1991 / 105min / DCP
 12:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 https://metrograph.com/film/9999001734-amour/
 
@@ -593,13 +431,13 @@ INVISIBLE ADVERSARIES [https://metrograph.com/film/9999005019-invisible-adversar
 
 Valie Export / 1977 / 110min / DCP
 Introduction by filmmaker Lynne Sachs on Saturday, October 3rd
-4:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+4:45pm
 https://metrograph.com/film/9999002034-medea-1969/
 
 MEDEA (1969) [https://metrograph.com/film/9999002034-medea-1969/]
 
 Pier Paolo Pasolini / 1969 / 110min / DCP
-7:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+7:00pm
 https://metrograph.com/film/9999003989-the-wailing/
 
 THE WAILING [https://metrograph.com/film/9999003989-the-wailing/]
@@ -854,6 +692,12 @@ PAPRIKA [https://metrograph.com/film/9999002029-paprika/]
 
 Satoshi Kon / 2006 / 90min / 35mm
 7:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005022-valie-export-shorts-program/
+
+VALIE EXPORT SHORTS PROGRAM [https://metrograph.com/film/9999005022-valie-export-shorts-program/]
+
+Valie Export / 1973 / 56min / DCP
+8:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 https://metrograph.com/film/9999004610-sympathy-for-mr-vengeance/
 
 SYMPATHY FOR MR. VENGEANCE [https://metrograph.com/film/9999004610-sympathy-for-mr-vengeance/]
@@ -1090,7 +934,7 @@ https://metrograph.com/film/9999003500-paris-was-a-woman/
 PARIS WAS A WOMAN [https://metrograph.com/film/9999003500-paris-was-a-woman/]
 
 Greta Schiller / 1996 / 75min / 4K DCP
-Q&A with filmmakers Greta Schiller & Andrew Weiss and book signings from October 16th-October 18th
+Q&A with filmmakers Greta Schiller & Andrew Weiss from October 16th-October 18th
 6:40pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 https://metrograph.com/film/9999005039-almost-famous/
 
@@ -1123,7 +967,7 @@ https://metrograph.com/film/9999003500-paris-was-a-woman/
 PARIS WAS A WOMAN [https://metrograph.com/film/9999003500-paris-was-a-woman/]
 
 Greta Schiller / 1996 / 75min / 4K DCP
-Q&A with filmmakers Greta Schiller & Andrew Weiss and book signings from October 16th-October 18th
+Q&A with filmmakers Greta Schiller & Andrew Weiss from October 16th-October 18th
 2:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 https://metrograph.com/film/9999005037-aerograd/
 
@@ -1153,6 +997,157 @@ Carlos Saura / 1969 / 102min / Digital
 6:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
 https://metrograph.com/film/9999003486-broadcast-news/
 
-BROADCAST NEWS [htt
+BROADCAST NEWS [https://metrograph.com/film/9999003486-broadcast-news/]
+
+James L. Brooks / 1987 / 133min / DCP
+Introduction by Michael Barbaro of "The Daily" on Saturday, October 17th
+8:20pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005042-medea-1988/
+
+MEDEA (1988) [https://metrograph.com/film/9999005042-medea-1988/]
+
+Lars Von Trier / 1988 / 75min / Digital
+9:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999000490-oldboy/
+
+OLDBOY [https://metrograph.com/film/9999000490-oldboy/]
+
+Park Chan-wook / 2003 / 120min / 4K DCP
+11:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999000718-blade-runner-the-final-cut/
+
+BLADE RUNNER: THE FINAL CUT [https://metrograph.com/film/9999000718-blade-runner-the-final-cut/]
+
+Ridley Scott / 1982 / 117min / DCP
+11:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005045-autumn-sonata/
+
+AUTUMN SONATA [https://metrograph.com/film/9999005045-autumn-sonata/]
+
+Ingmar Bergman / 1978 / 93min / DCP
+11:00am [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999001577-the-aristocats/
+
+THE ARISTOCATS [https://metrograph.com/film/9999001577-the-aristocats/]
+
+Wolfgang Reitherman / 1970 / 78min / 35mm
+11:15am [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999002231-little-women/
+
+LITTLE WOMEN [https://metrograph.com/film/9999002231-little-women/]
+
+Gillian Armstrong / 1994 / 115min / 4K DCP
+1:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999001169-all-the-presidents-men/
+
+ALL THE PRESIDENT'S MEN [https://metrograph.com/film/9999001169-all-the-presidents-men/]
+
+Alan J. Pakula / 1976 / 138min / 4K DCP
+Q&A with Carl Bernstein and Maggie Haberman, White House correspondent for The New York Times, moderated by Natalie Kitroeff of “The Daily” on Sunday, October 18th
+1:00pm
+https://metrograph.com/film/9999005043-art-cinema-for-tots-how-to-play-a-film/
+
+ART CINEMA FOR TOTS: HOW TO PLAY A FILM [https://metrograph.com/film/9999005043-art-cinema-for-tots-how-to-play-a-film/]
+
+Multiple Dirs / 2011 / 44min / DCP
+3:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005044-reality-bites/
+
+REALITY BITES [https://metrograph.com/film/9999005044-reality-bites/]
+
+Ben Stiller / 1994 / 99min / 35mm
+4:35pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999003500-paris-was-a-woman/
+
+PARIS WAS A WOMAN [https://metrograph.com/film/9999003500-paris-was-a-woman/]
+
+Greta Schiller / 1996 / 75min / 4K DCP
+Q&A with filmmakers Greta Schiller & Andrew Weiss from October 16th-October 18th
+6:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005035-ivan/
+
+IVAN [https://metrograph.com/film/9999005035-ivan/]
+
+Oleksandr Dovzhenko / 1932 / 86min / 35mm
+35mm print courtesy of Austrian Filmmuseum, Vienna
+6:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999004431-once-upon-a-time-in-china/
+
+ONCE UPON A TIME IN CHINA [https://metrograph.com/film/9999004431-once-upon-a-time-in-china/]
+
+Tsui Hark / 1991 / 134min / DCP
+8:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005038-poem-of-the-sea/
+
+POEM OF THE SEA [https://metrograph.com/film/9999005038-poem-of-the-sea/]
+
+Yulia Solntseva / 1958 / 105min / 35mm
+35mm SovScope print courtesy of Austrian Filmmuseum, Vienna
+8:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999000341-tron/
+
+TRON [https://metrograph.com/film/9999000341-tron/]
+
+Stephen Lisberger / 1982 / 96min / 4K DCP
+1:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999002242-brief-encounter/
+
+BRIEF ENCOUNTER [https://metrograph.com/film/9999002242-brief-encounter/]
+
+David Lean / 1945 / 87min / 35mm
+1:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999000490-oldboy/
+
+OLDBOY [https://metrograph.com/film/9999000490-oldboy/]
+
+Park Chan-wook / 2003 / 120min / 4K DCP
+3:45pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999000668-strangers-on-a-train/
+
+STRANGERS ON A TRAIN [https://metrograph.com/film/9999000668-strangers-on-a-train/]
+
+Alfred Hitchcock / 1951 / 101min / 35mm
+3:50pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005047-virgina/
+
+VIRGINA [https://metrograph.com/film/9999005047-virgina/]
+
+Srđan Karanović / 1991 / 102min / DCP
+Introduction and post-screening discussion by Jenni Olson on Friday, October 23rd Introduction by Jenni Olson on Saturday, October 24th
+6:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999000610-all-that-heaven-allows/
+
+ALL THAT HEAVEN ALLOWS [https://metrograph.com/film/9999000610-all-that-heaven-allows/]
+
+Douglas Sirk / 1955 / 89min / 35mm
+6:15pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005039-almost-famous/
+
+ALMOST FAMOUS [https://metrograph.com/film/9999005039-almost-famous/]
+
+Cameron Crowe / 2000 / 124min / 4K DCP
+Introduction by Jon Caramanica and Joe Coscarelli of “Popcast” on Friday, October 16th
+8:25pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999001984-night-on-earth/
+
+NIGHT ON EARTH [https://metrograph.com/film/9999001984-night-on-earth/]
+
+Jim Jarmusch / 1991 / 129min / 35mm
+8:30pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005049-rushmore/
+
+RUSHMORE [https://metrograph.com/film/9999005049-rushmore/]
+
+Wes Anderson / 1998 / 93min / DCP
+11:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999005048-the-hound-of-the-baskervilles/
+
+THE HOUND OF THE BASKERVILLES [https://metrograph.com/film/9999005048-the-hound-of-the-baskervilles/]
+
+Terence Fisher / 1959 / 87min / DCP
+11:00pm [https://t.metrograph.com/Ticketing/visSelectTickets.aspx]
+https://metrograph.com/film/9999001577-the-aristocats/
+
+THE ARISTOCATS [https://metr
 
 [truncated]

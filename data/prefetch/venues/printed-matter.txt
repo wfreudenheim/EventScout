@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-09-27T06:52:12.050Z
+FETCHED:2026-09-30T06:57:32.948Z
 
 PRINTED MATTER, INC.
 
@@ -156,44 +156,6 @@ September 9 - November 29, 2026
 
 [/programs/events/2280]
 
-AnnouncementEventFair
-
-2026 NY Art Book Fair
-
-300+ exhibitors, 41 countries, tickets, programs, and more
-
-September 24 - 27, 2026
-
-[/programs/events/2284]
-
-EventOffsite
-
-Five Cuts in Five Acts — Curated by Justine Kurland
-
-Featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, & Chen Xiangyun
-
-September 27, 2026
-
-[/programs/events/2290]
-
-EventOffsite
-
-Bark of Millions — Book Signing with Taylor Mac and Matt Ray
-
-September 27, 2026
-
-[/programs/events/2288]
-
-EventOffsite
-
-Love Always
-
-Signing with Nontsikelelo Mutiti and Paul John
-
-September 27, 2026
-
-[/programs/events/2297]
-
 EventChelsea
 
 Melissa Auf der Maur: My ’90s Rock Photographs
@@ -223,6 +185,16 @@ Launch and Conversation
 October 8, 2026
 
 [/programs/events/2295]
+
+EventChelsea
+
+Insider Trading II
+
+Panel with Eli Rosenbloom, Miyako Bellizzi, Yusuf Hassan, and Steff Yotka
+
+October 14, 2026
+
+[/programs/events/2331]
 
 EventChelsea
 
@@ -260,45 +232,41 @@ November 5, 2026
 
 EventOffsite
 
-Bricolage Magazine #7
-A Signing with Tom Sachs
+Five Cuts in Five Acts — Curated by Justine Kurland
 
-The Seventh Issue of Bricolage Magazine. In Print Since ‘09
+Featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, & Chen Xiangyun
 
-September 26, 2026
+September 27, 2026
 
-[/programs/events/2292]
-
-EventOffsite
-
-Joseph Rovegno: 030426 / 0526
-
-A Book Signing with Photographer Joseph Rovegno
-
-September 26, 2026
-
-[/programs/events/2293]
+[/programs/events/2290]
 
 EventOffsite
 
-Torbjørn Rødland: Dim Revelations
+Bark of Millions — Book Signing with Taylor Mac and Matt Ray
 
-Book Signing at New York Art Book Fair
+September 27, 2026
 
-September 26, 2026
+[/programs/events/2288]
 
-[/programs/events/2285]
+AnnouncementEventFair
+
+2026 NY Art Book Fair
+
+300+ exhibitors, 41 countries, tickets, programs, and more
+
+September 24 - 27, 2026
+
+[/programs/events/2284]
 
 EventOffsite
 
-Have you heard?
-The art market is down
+Love Always
 
-A new zine with Derrick Adams
+Signing with Nontsikelelo Mutiti and Paul John
 
-September 25, 2026
+September 27, 2026
 
-[/programs/events/2294]
+[/programs/events/2297]
 
 See all events [/programs/2-events]
 

@@ -1,6 +1,6 @@
 VENUE:bitforms | bitforms gallery
 URL:https://www.bitforms.art/
-FETCHED:2026-09-27T06:52:05.801Z
+FETCHED:2026-09-30T06:57:24.814Z
 
 /Menu
 
@@ -18,7 +18,7 @@ Details [/exhibition/relensing]
 
 /exhibition/interference-the-interactive-art-of-daniel-rozin
 
-current
+previous
 
 Daniel RozinInterference: The Interactive Art of Daniel Rozin [/exhibition/interference-the-interactive-art-of-daniel-rozin]
 

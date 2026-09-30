@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-09-27T06:52:17.503Z
+FETCHED:2026-09-30T06:57:40.222Z
 
 /
  * The School
@@ -850,34 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=19&month=9&time_range=week&year=2026 /events?day=5&month=10&time_range=week&year=2026
-Sep 27 – Oct 4
+/events?day=22&month=9&time_range=week&year=2026 /events?day=8&month=10&time_range=week&year=2026
+Sep 30 – Oct 7
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Tue, Sep 29    12pm
-
-Tuesday Talks
-
-Alumni
-
-New York, Virtual
-
-[/events/4275-tuesday-talks]
-
-Tue, Sep 29    3pm
-
-MSRED Lecture: Marc Holliday ‘90 MSRED
-
-Lecture
-
-New York
-
-[/events/4294-msred-lecture-marc-holliday-90-msred]
 
 Thu, Oct 1    9:30am
 
@@ -906,3 +886,25 @@ Fri, Oct 2    1:30pm
 Conference
 
 [/events/4219-2026-fitch-colloquium-preserving-independence-architecture-and-heritage-in-western-africa]
+
+Mon, Oct 5    6:30pm
+
+THE DETLEF MERTINS LECTURE ON THE HISTORIES OF MODERNITY: Fatina Abreek-Zub
+
+Lecture
+
+[/events/4222-the-detlef-mertins-lecture-on-the-histories-of-modernity-fatina-abreek-zub]
+
+Tue, Oct 6    9am
+
+Virtual
+
+GSAPP Admissions Info Session
+
+[/events/4303-gsapp-admissions-info-session]
+
+Wed, Oct 7    6:30pm
+
+Anarchitecture After Everything: A Trans Manifesto
+
+[/events/4221-anarchitecture-after-everything-a-trans-manifesto]

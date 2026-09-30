@@ -1,6 +1,6 @@
 VENUE:n-plus-one | n+1 Magazine
 URL:https://www.nplusonemag.com/
-FETCHED:2026-09-27T06:52:15.104Z
+FETCHED:2026-09-30T06:57:36.860Z
 
 https://www.nplusonemag.com/subscribe/?affid=hero
 https://www.nplusonemag.com/magazine/issue-54 Current Issue
@@ -124,6 +124,12 @@ Issue 54 Power Play
  * Dushko Petrovich Córdova
 
 [https://www.nplusonemag.com/issue-54/reviews/orange-era/]
+card-default flavor-home-flow type-online-only term-gooooaaal format-with_image tax-online-only featured-
+GOOOOAAAL
+ * Away Game
+ * Liv Veazey
+
+[https://www.nplusonemag.com/online-only/gooooaaal/away-game/]
 card-default flavor-home-flow type-online-only term-online-only format-pullquote tax-online-only featured-
 
 How many other writers can truly be said to have invented a form?
@@ -151,12 +157,6 @@ Last Year in End Times Cinema
  * A. S. Hamrah in conversation
 
 [https://www.nplusonemag.com/online-only/events/last-year-in-end-times-cinema/]
-card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
-Online Only
- * The Hi-Neighbor! Mayor
- * Dennis M. Hogan
-
-[https://www.nplusonemag.com/online-only/online-only/the-hi-neighbor-mayor/]
 
 BOOKSTORE [http://shop.nplusonemag.com/]
 
@@ -186,6 +186,12 @@ $25.00
 
 [https://shop.nplusonemag.com/products/the-twentieth-anniversary-tote]
 Browse the Shop [http://shop.nplusonemag.com/]
+card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
+Online Only
+ * The Hi-Neighbor! Mayor
+ * Dennis M. Hogan
+
+[https://www.nplusonemag.com/online-only/online-only/the-hi-neighbor-mayor/]
 card-event flavor-home-flow type-online-only term-events format-pullquote tax-online-only featured-
 
 Laura Kolbe and Patricia Lockwood in conversation
@@ -195,15 +201,6 @@ Laura Kolbe and Patricia Lockwood in conversation
  * Poetry in Greenpoint
 
 [https://www.nplusonemag.com/online-only/events/laura-kolbe-and-patricia-lockwood-in-conversation/]
-card-event flavor-home-flow type-online-only term-events format-pullquote tax-online-only featured-
-
-Issue 54 Reading and Celebration
-
- * SEP 23
-   2026
- * Join n+1 in Greenpoint
-
-[https://www.nplusonemag.com/online-only/events/issue-54-reading-and-celebration/]
 
 WATER WORLD
 

@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-09-27T06:52:19.365Z
+FETCHED:2026-09-30T06:57:44.110Z
 
 THE LOT RADIO [/]
 
@@ -14,7 +14,7 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP09.27.2026
+TODAY’SLINEUP09.30.2026
 
 STAFFPICKS
 
@@ -22,101 +22,101 @@ A mix of our beloved residents and special guests — Our favorite shows handpic
 
 All sessions [/the-index]
 
-DANIEL AVERY
+SUMMER SCHOOL RADIO WITH LOVIE
 
-Daniel Avery
+Lovie
 
-09.22.2026
+09.29.2026
 
-Techno, Ambient, Electronica, Acid
-
- * Play
- * Detail [/shows/special-guests/2026-09-22-1600]
- *
-
-/shows/special-guests/2026-09-22-1600
-
-SWEET ABYSS WITH KIERNAN LAVEAUX PLAYS THE MUSIC OF JEAN-LOUIS HUHTA
-
-Kiernan Laveaux
-
-09.21.2026
-
-Techno, Electronica, Acid, Experimental Electronic, Calypso
+Ambient, Spoken Word, Jazz, Soul, Rnb
 
  * Play
- * Detail [/shows/sweet-abyss/2026-09-21-1400]
+ * Detail [/shows/summer-school-radio/2026-09-29-1000]
  *
 
-/shows/sweet-abyss/2026-09-21-1400
+/shows/summer-school-radio/2026-09-29-1000
 
-BATU
+GIRL ULTRA
 
-Batu
+Girl Ultra
 
-09.21.2026
+09.28.2026
 
-Techno, Dubstep, Amapiano, Gqom, Dub
+House, Techno, Alternative Pop, UK Garage, Rnb
 
  * Play
- * Detail [/shows/special-guests/2026-09-21-1300]
+ * Detail [/shows/special-guests/2026-09-28-1700]
  *
 
-/shows/special-guests/2026-09-21-1300
+/shows/special-guests/2026-09-28-1700
 
-TARA LILY
+SHONKY
 
-Tara Lily
+Shonky
 
-09.20.2026
+09.28.2026
+
+House
 
  * Play
- * Detail [/shows/special-guests/2026-09-20-1400]
+ * Detail [/shows/special-guests/2026-09-28-1200]
  *
 
-/shows/special-guests/2026-09-20-1400
+/shows/special-guests/2026-09-28-1200
 
-NOTTE INFINITA
+ASL PRINCESS X BOBBY BEETHOVEN X DOULA
 
-Notte infinita
+ASL Princess, Doula, Bobby Beethoven
 
-09.18.2026
-
-Techno, Trance, Drum & Bass, Dubstep, IDM
+09.27.2026
 
  * Play
- * Detail [/shows/special-guests/2026-09-18-1500]
+ * Detail [/shows/special-guests/2026-09-27-2200]
  *
 
-/shows/special-guests/2026-09-18-1500
+/shows/special-guests/2026-09-27-2200
 
-OKO DJ
+JENNIFER LOVELESS
 
-OKO DJ
+Jennifer Loveless
 
-09.17.2026
+09.26.2026
 
-alternative, House, Acid, Trance, Experimental Electronic
+Downtempo, Ambient, Electronica, Trip Hop, House
 
  * Play
- * Detail [/shows/special-guests/2026-09-17-1600]
+ * Detail [/shows/special-guests/2026-09-26-1700]
  *
 
-/shows/special-guests/2026-09-17-1600
+/shows/special-guests/2026-09-26-1700
 
-MOOPIE
+COLOMBIAN DRONE MAFIA
 
-Moopie
+Colombian Drone Mafia
 
-09.17.2026
+09.26.2026
 
-Electronica
+Ambient, Techno, Dubstep, IDM, Dub
 
  * Play
- * Detail [/shows/special-guests/2026-09-17-1300]
+ * Detail [/shows/special-guests/2026-09-26-1500]
  *
 
-/shows/special-guests/2026-09-17-1300
+/shows/special-guests/2026-09-26-1500
+
+FUTURE SOUND OF NATURE CLIMATE WEEK SPECIAL
+
+Eli Goldstein
+
+09.25.2026
+
+Electronica, Ambient, New Age, House, Funk
+
+ * Play
+ * Detail [/shows/special-guests/2026-09-25-1300]
+ *
+
+/shows/special-guests/2026-09-25-1300
 
 FEATUREDRESIDENTS
 
@@ -124,42 +124,42 @@ Get to know our Residents — Whose contributions keep our radio fresh and excit
 
 All artists [/artists]
 
- * Maachew Bentley (063N13)
+ * Felipe from BK
    R
-   [/artists/maachew-bentley-(063n13)]
- * succubass
-   R
-   [/artists/succubass]
- * Boston Chery
-   R
-   [/artists/boston-chery]
- * b4
-   R
-   [/artists/b4]
- * Dj Haram
-   R
-   [/artists/dj-haram]
+   [/artists/felipe-from-bk]
  * dj cowriiie
    R
    [/artists/dj-cowriiie]
- * Sodomahigomorra
+ * Sabrout
    R
-   [/artists/sodomahigamorra]
- * Love Injection
+   [/artists/sabrout]
+ * Raymond Schwab
    R
-   [/artists/love-injection]
- * Timo Ellis
+   [/artists/raymond-schwab]
+ * Marco Weibel
    R
-   [/artists/timo-ellis]
- * Ben Hixon
+   [/artists/marco-weibel]
+ * Honey Bun
    R
-   [/artists/ben-hixon]
- * Escaflowne
+   [/artists/honey-bun]
+ * True Panther
    R
-   [/artists/escaflowne]
- * Amelia Holt
+   [/artists/true-panther]
+ * Vicki Siolos
    R
-   [/artists/amelia-holt]
+   [/artists/vicki-siolos]
+ * Sean Rowlands
+   R
+   [/artists/sean-rowland]
+ * Nabihah Iqbal
+   R
+   [/artists/nabihah-iqbal]
+ * Crystal Peñalosa
+   R
+   [/artists/crystal-penalosa]
+ * James Bangura
+   R
+   [/artists/james-bangura]
 
 WE ARE THE LOT RADIO
 
@@ -172,40 +172,35 @@ About us [/about]
  * 12am — 10am
    RESTREAM
 
- * 10am — 11am
-   BRIGHT PATTERNS with Vicki Siolos
+ * 10am — 12pm
+   SECOND HAND LOVE with FATIK
 
- * 11am — 12pm
-   Selective Listening with Alyssa Stowers
-   New Age
- * 12pm — 1pm
-   (R_R_)
-
- * 1pm — 2pm
-   Auntie.ism with DJ Auntie Spice
+ * 12pm — 2pm
+   Disco Tehran
 
  * 2pm — 3pm
-   Human Pitch with Simisea: Smith & Mighty special
-   Trip Hop, Electronica, Downtempo, Dub
+   FIRST HAND SMOKE with Hyas
+
  * 3pm — 4pm
-   Swimming with Kfeelz
-   Leftfield, Ambient, Jazz, New Wave, Punk
+   FIRST HAND SMOKE with Jamira Estrada
+
  * 4pm — 6pm
-   456 Dub Street invites Jah Wise, King James and Bobby Bobylon
-   Dub
+   Spliff Break with Wawa
+
  * 6pm — 7pm
-   Andy Martin
+   The 8th Path Records invites KidCrayola
 
  * 7pm — 8pm
-   Carl Luis
-   Dub, Reggae, Dancehall
+   Concrete Jungle #2 with Honey Bun
+   Jungle
  * 8pm — 9pm
-   SYNTHICIDE invites Mannie Petty
-   Trance, House
+   The DJ Shannon Show With Flemish.Fetish
+   House, Techno, Electro
  * 9pm — 10pm
-   Sorry Records with S'aint Panic and Nick Boyd
-   Techno, House, Acid, Alternative Club, Rock
+   Monkey Jar with S.Maria
+
  * 10pm — 12am
-   ASL PRINCESS X BOBBY BEETHOVEN X DOULA
+   show invites kels
+   Ambient, House, Hip Hop, Disco
 
 THE LOT RADIO

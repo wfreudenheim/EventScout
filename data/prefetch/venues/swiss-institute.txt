@@ -1,6 +1,6 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-09-27T06:52:15.582Z
+FETCHED:2026-09-30T06:57:37.371Z
 
 * Exhibitions [/exhibitions]
     * Current [/exhibitions]
@@ -77,13 +77,6 @@ Wed Sep 23—Sat Nov 14 2026
 [https://swissinstitute.net/exhibitions/si-offsite-rafał-skoczek-kino-drift]
 Programs
 
-CONCERT | FOR THE AUTONOMOUS COMMUNITY OF PROSFYGIKA
-
-Sat Sep 26 2026, 8:00pm
-
-[https://swissinstitute.net/programs/concert-for-the-autonomous-community-of-prosfygika]
-Programs
-
 CONCERT | JAMIRA ESTRADA & NEVERDIE
 
 Sat Oct 3 2026, 7:00pm
@@ -145,12 +138,6 @@ FILM SERIES | MARCHING WITH THE KASAMA
 Wed Nov 11 2026, 7:00pm
 
 [https://swissinstitute.net/programs/film-series-marching-with-the-kasama]
-
-CONCERT | FOR THE AUTONOMOUS COMMUNITY OF PROSFYGIKA
-
-Sat Sep 26 2026, 8:00pm
-
-[https://swissinstitute.net/programs/concert-for-the-autonomous-community-of-prosfygika]
 
 CONCERT | JAMIRA ESTRADA & NEVERDIE
 

@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-09-27T06:52:02.988Z
+FETCHED:2026-09-30T06:57:22.464Z
 
 CULTUREHUB [/]
 
@@ -22,14 +22,6 @@ MEET THE ARTISTS [/residency#residency-resident-artists-anchor]
 EVENTS [/events]
 
 Events
-
-Sep 25
-[/events/maedeup-weaving-shin-yun-bok]
-LIVESTREAM | Maedeup: Weaving Shin Yun-bok [/events/maedeup-weaving-shin-yun-bok]
-
-A live, non-verbal performance that reimagines Korean classical painting through contemporary performance directed by Ji-Young Kim. RSVP → [https://culturehub.org/events/maedeup-weaving-shin-yun-bok]
-
-Read more → [/events/maedeup-weaving-shin-yun-bok]
 
 Sep 29
 [/events/garage-sale]

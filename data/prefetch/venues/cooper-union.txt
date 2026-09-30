@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-09-27T06:52:11.599Z
+FETCHED:2026-09-30T06:57:32.370Z
 
 /
 
@@ -14,22 +14,16 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/events-and-exhibitions/events/shakespeare-and-verdis-macbeth-discussion-and-performance
+/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing
 
-SHAKESPEARE AND VERDI’S MACBETH: DISCUSSION AND PERFORMANCE [/events-and-exhibitions/events/shakespeare-and-verdis-macbeth-discussion-and-performance]
+THE DIANE LEWIS STUDENT LECTURE SERIES | GUILLAUME OTHENIN-GIRARD: DRAWING INTO PLACE [/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing]
 
-September 28, 2026
+September 29, 2026
 7:00pm
 
-An evening of Shakespearean comparison featuring discussion and performances of MacBeth
+Guillaume Othenin-Girard will present his work in a public lecture. 
 
-Event Details [/events-and-exhibitions/events/shakespeare-and-verdis-macbeth-discussion-and-performance]
- * /events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing
-
-   THE DIANE LEWIS STUDENT LECTURE SERIES | GUILLAUME OTHENIN-GIRARD: DRAWING INTO PLACE [/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing]
-
-   September 29, 2026
-   7:00pm
+Event Details [/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing]
  * /events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist
 
    SCREENING AND PANEL DISCUSSION | MAINTENANCE ARTIST [/events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist]
@@ -48,14 +42,15 @@ Event Details [/events-and-exhibitions/events/shakespeare-and-verdis-macbeth-dis
 
    October 13, 2026
    6:30pm
+ * /events-and-exhibitions/events/seeing-together-photography-through-language-and-senses
+
+   SEEING TOGETHER: PHOTOGRAPHY THROUGH LANGUAGE AND THE SENSES [/events-and-exhibitions/events/seeing-together-photography-through-language-and-senses]
+
+   October 15, 2026
+   6:00pm
 
 ONGOING EXHIBITIONS
 
- * /architecture/exhibitions/what-else-could-it-mean
-
-   WHAT ELSE COULD IT MEAN? [/architecture/exhibitions/what-else-could-it-mean]
-
-   September 03, 2026 to September 27, 2026
  * /events-and-exhibitions/exhibitions/guild-greyshkul
 
    GUILD & GREYSHKUL [/events-and-exhibitions/exhibitions/guild-greyshkul]
