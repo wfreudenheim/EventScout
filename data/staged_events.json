@@ -10825,5 +10825,127 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:34:13.377Z"
+  },
+  {
+    "id": "elsewhere-2026-10-16-dj-dave-arushi-jain-char-stiles-autumnat",
+    "title": "DJ_Dave, Arushi Jain, Char Stiles, Autumnatic, Computer Art LLC, Jewelssea",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-16",
+    "time_start": "19:00",
+    "description": "Interdisciplinary live showcase across The Hall and Zone One pairing modular-synth/raga-inflected musician Arushi Jain with live-coded visual artist Char Stiles and generative-art act Computer Art LLC, alongside DJ_Dave, Autumnatic, and Jewelssea.",
+    "url": "https://www.eventbrite.com/e/dj-dave-arushi-jain-char-stiles-autumnatic-computer-art-llc-jewelssea-tickets-1994581808883",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "raga"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Sound & Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:36.886Z"
+  },
+  {
+    "id": "elsewhere-2026-10-03-perreito",
+    "title": "PERREITO",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-03",
+    "time_start": "18:00",
+    "description": "Reggaeton/Latin party night on The Rooftop.",
+    "url": "https://www.eventbrite.com/e/perreito-tickets-2002080779506",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:36.884Z"
+  },
+  {
+    "id": "elsewhere-2026-10-16-mirchi-halla-krithi-maiya",
+    "title": "Mirchi: Halla, Krithi, Maiya",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-16",
+    "time_start": "18:00",
+    "description": "South Asian-flavored club night on The Rooftop with DJ sets from Halla, Krithi, and Maiya.",
+    "url": "https://www.eventbrite.com/e/mirchi-halla-krithi-maiya-tickets-2000209760237",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:36.886Z"
+  },
+  {
+    "id": "elsewhere-2026-10-17-tye-turner-zabaan-presents-club-chutiya-",
+    "title": "Tye Turner + Zabaan Presents Club Chutiya: Sri, Ana.gha, Lilla, Yuvi",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-17",
+    "time_start": "22:30",
+    "description": "South Asian diaspora club night hosted by Zabaan, full venue, with Sri, Ana.gha, Lilla, and Yuvi.",
+    "url": "https://www.eventbrite.com/e/tye-turner-zabaan-presents-club-chutiya-sri-anagha-lilla-yuvi-tickets-1998244334596",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "Language & Culture",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:36.886Z"
+  },
+  {
+    "id": "city-reliquary-2026-10-02-author-talk-the-great-american-retro-roa",
+    "title": "Author Talk: The Great American Retro Road Trip by Rolando Pujol",
+    "venue_id": "city-reliquary",
+    "venue_name": "City Reliquary",
+    "date": "2026-10-02",
+    "description": "Author talk with Rolando Pujol on his book about classic American roadside attractions and retro road-trip culture, hosted at City Reliquary.",
+    "url": "https://www.cityreliquary.org/friday-october-2nd-author-talk-the-great-american-retro-road-trip-by-rolando-pujol/",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:36.925Z"
+  },
+  {
+    "id": "the-brick-2026-10-01-im-dunkeln-sieht-man-besser",
+    "title": "Im Dunkeln sieht man besser",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-10-01",
+    "description": "The Brick and LOCAL GRANDMA present Leonie Bell's play about the living and undead cohabiting in a small town, running 70 minutes, October 1-18.",
+    "url": "https://www.bricktheater.com/event/im-dunkeln-sieht-man-besser/2026-10-01/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:34:36.944Z"
   }
 ]

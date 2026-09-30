@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-09-15T15:20:13.936Z"
+    "last_checked": "2026-09-30T07:34:36.973Z"
   },
   {
     "id": "do-not-research",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:30:05.906Z",
+    "last_checked": "2026-09-30T07:34:36.918Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -1987,7 +1987,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:30:05.885Z"
+    "last_checked": "2026-09-30T07:34:36.939Z"
   },
   {
     "id": "morus",
@@ -3191,7 +3191,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:27:17.984Z"
+    "last_checked": "2026-09-30T07:34:36.963Z"
   },
   {
     "id": "morbid-anatomy",

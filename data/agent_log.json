@@ -4630,5 +4630,45 @@
     "events_found": 4,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "elsewhere",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:36.920Z",
+    "completed_at": "2026-09-30T07:34:36.920Z",
+    "events_found": 5,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "city-reliquary",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:36.941Z",
+    "completed_at": "2026-09-30T07:34:36.941Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-brick",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:36.964Z",
+    "completed_at": "2026-09-30T07:34:36.964Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-drawing-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:34:36.976Z",
+    "completed_at": "2026-09-30T07:34:36.976Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
   }
 ]
