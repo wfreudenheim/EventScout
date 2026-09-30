@@ -10039,5 +10039,105 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:24:11.724Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-05-book-talk-francis-k-r-spirits-out-of-tre",
+    "title": "Book Talk: Francis Kéré, Spirits Out of Trees",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-05",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Pritzker Prize-winning architect Francis Kéré in conversation with Cathy and Peter Halstead, moderated by Nora Lawrence, celebrating his new book Spirits Out of Trees (Park Books) on his community-rooted, material-conscious design practice.",
+    "url": "https://calendar.aiany.org/2026/10/05/book-talk-francis-k%c3%a9r%c3%a9-spirits-out-of-trees/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:27:02.821Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-06-nowicki-s-unbuilt-chandigarh-an-ecology-",
+    "title": "Nowicki's Unbuilt Chandigarh: An Ecology of Everyday Life",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-06",
+    "time_start": "17:30",
+    "time_end": "19:30",
+    "description": "A talk held as part of the Humanist Modernity exhibition, examining Maciej and Stanisława Nowicki's unbuilt plan for Chandigarh through the lens of everyday ecology.",
+    "url": "https://calendar.aiany.org/2026/10/06/nowickis-unbuilt-chandigarh-an-ecology-of-everyday-life/",
+    "format": "talk",
+    "interest_score": 3.1,
+    "tags": [
+      "ecology"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:27:02.822Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-03-tour-of-princeton-university-contemporar",
+    "title": "Tour of Princeton University: Contemporary Interventions in a Historic Campus",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-03",
+    "time_start": "10:00",
+    "time_end": "15:00",
+    "description": "A guided tour of Princeton University examining how contemporary architectural interventions engage a historic campus.",
+    "url": "https://calendar.aiany.org/2026/10/03/tour-of-princeton-university-contemporary-interventions-in-a-historic-campus/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:27:02.820Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-03-exclusive-tour-of-the-amateur-comedy-clu",
+    "title": "Exclusive Tour of The Amateur Comedy Club and Sniffen Court",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-03",
+    "description": "A rare guided tour of the Amateur Comedy Club and the historic Sniffen Court mews.",
+    "url": "https://calendar.aiany.org/2026/10/03/exclusive-tour-of-the-amateur-comedy-club-and-sniffen-court/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:27:02.821Z"
+  },
+  {
+    "id": "printed-matter-2026-10-14-insider-trading-ii",
+    "title": "Insider Trading II",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-14",
+    "description": "A panel discussion with Eli Rosenbloom, Miyako Bellizzi, Yusuf Hassan, and Steff Yotka.",
+    "url": "https://www.printedmatter.org/programs/events/2331",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:27:02.908Z"
   }
 ]

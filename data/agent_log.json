@@ -4310,5 +4310,55 @@
     "events_found": 1,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-kitchen",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:27:02.809Z",
+    "completed_at": "2026-09-30T07:27:02.809Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-architecture",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:27:02.867Z",
+    "completed_at": "2026-09-30T07:27:02.867Z",
+    "events_found": 12,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "cooper-union",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:27:02.899Z",
+    "completed_at": "2026-09-30T07:27:02.899Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "printed-matter",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:27:02.959Z",
+    "completed_at": "2026-09-30T07:27:02.959Z",
+    "events_found": 8,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyas",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:27:02.982Z",
+    "completed_at": "2026-09-30T07:27:02.982Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
   }
 ]

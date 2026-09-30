@@ -560,7 +560,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:26:19.616Z"
+    "last_checked": "2026-09-30T07:27:02.806Z"
   },
   {
     "id": "bam",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:26:19.658Z"
+    "last_checked": "2026-09-30T07:27:02.865Z"
   },
   {
     "id": "bitforms",
@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:26:19.633Z"
+    "last_checked": "2026-09-30T07:27:02.892Z"
   },
   {
     "id": "printed-matter",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-09-27T07:26:19.673Z"
+    "last_checked": "2026-09-30T07:27:02.956Z"
   },
   {
     "id": "the-shed",
@@ -1653,7 +1653,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:25:50.306Z"
+    "last_checked": "2026-09-30T07:27:02.979Z"
   },
   {
     "id": "bard-graduate-center",
