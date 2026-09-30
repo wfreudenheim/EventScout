@@ -4280,5 +4280,35 @@
     "events_found": 1,
     "events_new": 1,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:24:11.762Z",
+    "completed_at": "2026-09-30T07:24:11.762Z",
+    "events_found": 12,
+    "events_new": 7,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "abrons-arts-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:24:11.781Z",
+    "completed_at": "2026-09-30T07:24:11.781Z",
+    "events_found": 7,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "summerstage",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:24:11.808Z",
+    "completed_at": "2026-09-30T07:24:11.809Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
   }
 ]

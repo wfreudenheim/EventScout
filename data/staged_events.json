@@ -9901,5 +9901,143 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:20:43.345Z"
+  },
+  {
+    "id": "wonderville-2026-10-09-vgm-jazz-night",
+    "title": "VGM Jazz Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-09",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "description": "Live jazz interpretations of video game music, blending arcade culture with live musical performance.",
+    "url": "https://www.wonderville.nyc/events/vgm-jazz-night-10-9-26",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:24:11.724Z"
+  },
+  {
+    "id": "wonderville-2026-10-01-red-parry-nyc-vs-wonderville",
+    "title": "Red Parry NYC vs. Wonderville",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-01",
+    "time_start": "19:00",
+    "description": "A fighting-game community showdown pitting Red Parry NYC against Wonderville regulars.",
+    "url": "https://www.wonderville.nyc/events/red-parry-10-1-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:24:11.722Z"
+  },
+  {
+    "id": "wonderville-2026-10-03-kq-wonderville-monthly-byot-bring-your-o",
+    "title": "KQ Wonderville Monthly BYOT (Bring Your Own Team)!",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-03",
+    "time_start": "14:00",
+    "time_end": "18:00",
+    "description": "Monthly Killer Queen team tournament where players bring their own squads to compete.",
+    "url": "https://www.wonderville.nyc/events/kq-monthly-byot-10-3-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:24:11.722Z"
+  },
+  {
+    "id": "wonderville-2026-10-03-ape-escape-takeover",
+    "title": "Ape Escape Takeover",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-03",
+    "time_start": "20:00",
+    "description": "A themed arcade takeover night centered on the Ape Escape game community.",
+    "url": "https://www.wonderville.nyc/events/ape-escape-takeover-10-3-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:24:11.722Z"
+  },
+  {
+    "id": "wonderville-2026-10-04-reaper-madness-wondercab-launch-party",
+    "title": "REAPER MADNESS Wondercab Launch Party",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-04",
+    "time_start": "20:00",
+    "time_end": "23:30",
+    "description": "Launch party for a new Wondercab arcade cabinet featuring the game Reaper Madness.",
+    "url": "https://www.wonderville.nyc/events/reaper-madness-wondercab-launch-party-10-4-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:24:11.723Z"
+  },
+  {
+    "id": "wonderville-2026-10-06-rhythm-dance-games-night",
+    "title": "Rhythm & Dance Games Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-06",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A night dedicated to rhythm and dance arcade games at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/rhythm-dance-games-night-10-6-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:24:11.723Z"
+  },
+  {
+    "id": "wonderville-2026-10-07-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-07",
+    "time_start": "20:00",
+    "description": "Open hive night for Killer Queen, Wonderville's multiplayer arcade cabinet game, welcoming players to drop in and play.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-10-7-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:24:11.724Z"
   }
 ]
