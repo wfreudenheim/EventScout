@@ -10139,5 +10139,173 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:27:02.908Z"
+  },
+  {
+    "id": "roulette-2026-10-07-x-amendments-carla-kihlstedt-rafael-os-s",
+    "title": "X Amendments: Carla Kihlstedt, Rafael Osés, Holland Andrews, Gelsey Bell, Anaïs Maviel, Kalyn Harewood, and Dither (Night 1)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-07",
+    "time_start": "20:00",
+    "description": "An improvised structure for an orchestra of voices, electric guitars, and an audience, using the Bill of Rights as its source material.",
+    "url": "https://roulette.org/event/x-amendments-carla-kihlstedt-rafael-oses-dither/",
+    "price": "$30",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:04.697Z"
+  },
+  {
+    "id": "roulette-2026-10-08-x-amendments-carla-kihlstedt-rafael-os-s",
+    "title": "X Amendments: Carla Kihlstedt, Rafael Osés, Holland Andrews, Gelsey Bell, Anaïs Maviel, Kalyn Harewood, and Dither (Night 2)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-08",
+    "time_start": "20:00",
+    "description": "An improvised structure for an orchestra of voices, electric guitars, and an audience, using the Bill of Rights as its source material.",
+    "url": "https://roulette.org/event/x-amendments-carla-kihlstedt-rafael-oses-dither-2/",
+    "price": "$30",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:04.697Z"
+  },
+  {
+    "id": "roulette-2026-10-14-contemporary-east-ikue-mori-and-reggie-n",
+    "title": "Contemporary East: Ikue Mori and Reggie Nicholson",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-14",
+    "time_start": "20:00",
+    "description": "Contemporary East presents an evening of improvisational music rooted in Eastern aesthetics.",
+    "url": "https://roulette.org/event/contemporary-east-ikue-mori-charmaine-lee-nava-dunkelman-reggie-nicholson/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "aesthetics"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:04.697Z"
+  },
+  {
+    "id": "roulette-2026-10-15-art-of-solo-james-brandon-lewis-nicole-m",
+    "title": "Art of Solo: James Brandon Lewis, Nicole Mitchell, Janel Leppin, Jenna Camille, Kalia Vandever, Val Jeanty, Shara Lunon, and Alexis Marcelo",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-15",
+    "time_start": "20:00",
+    "description": "Jazz Generations Initiative Continuum Fellow presents a three-night residency featuring poets, musicians, and artists across generations, this night in solo form.",
+    "url": "https://roulette.org/event/james-brandon-lewis-art-of-solo/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:04.697Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-14-murmrr-presents-numero-group-23rd-annive",
+    "title": "Murmrr Presents Numero Group - 23rd Anniversary Celebration w/ Laraaji, The Album Leaf, Shira Small",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-14",
+    "time_start": "19:30",
+    "description": "A night of live music spanning the Numero-verse catalog to commemorate Numero Group's 23rd anniversary, featuring ambient/drone pioneer Laraaji.",
+    "url": "https://www.nationalsawdust.org/event/murmrr-presents-numero-group-23rd-anniversary-celebration-w-laraaji-the-album-leaf-shira-small-11-14-26",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "ambient",
+      "drone"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:04.769Z"
+  },
+  {
+    "id": "metrograph-2026-10-17-zvenygora",
+    "title": "Zvenygora",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-17",
+    "time_start": "12:30",
+    "description": "Oleksandr Dovzhenko's 1928 silent film screens with an original score and live musical accompaniment by the band medukha.",
+    "url": "https://metrograph.com/film/9999005036-zvenygora/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:04.836Z"
+  },
+  {
+    "id": "metrograph-2026-10-18-all-the-president-s-men",
+    "title": "All the President's Men",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-18",
+    "time_start": "13:00",
+    "description": "Alan J. Pakula's 1976 Watergate classic screens with a Q&A featuring Carl Bernstein and Maggie Haberman, moderated by Natalie Kitroeff of 'The Daily.'",
+    "url": "https://metrograph.com/film/9999001169-all-the-presidents-men/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:04.838Z"
+  },
+  {
+    "id": "metrograph-2026-10-23-virgina",
+    "title": "Virgina",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-23",
+    "time_start": "18:00",
+    "description": "Srđan Karanović's 1991 film screens with an introduction and post-screening discussion by film historian Jenni Olson.",
+    "url": "https://metrograph.com/film/9999005047-virgina/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:28:04.839Z"
   }
 ]

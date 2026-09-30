@@ -4360,5 +4360,35 @@
     "events_found": 1,
     "events_new": 0,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:28:04.756Z",
+    "completed_at": "2026-09-30T07:28:04.756Z",
+    "events_found": 10,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "national-sawdust",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:28:04.824Z",
+    "completed_at": "2026-09-30T07:28:04.824Z",
+    "events_found": 12,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "metrograph",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:28:04.870Z",
+    "completed_at": "2026-09-30T07:28:04.870Z",
+    "events_found": 11,
+    "events_new": 3,
+    "status": "completed"
   }
 ]

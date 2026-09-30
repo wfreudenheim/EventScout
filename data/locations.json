@@ -148,7 +148,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:27:17.439Z"
+    "last_checked": "2026-09-30T07:28:04.866Z"
   },
   {
     "id": "film-forum",
@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:27:17.401Z"
+    "last_checked": "2026-09-30T07:28:04.820Z"
   },
   {
     "id": "issue-project-room",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:26:19.607Z"
+    "last_checked": "2026-09-30T07:28:04.754Z"
   },
   {
     "id": "knockdown-center",
