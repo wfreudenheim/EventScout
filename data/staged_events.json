@@ -9696,5 +9696,210 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:19:57.033Z"
+  },
+  {
+    "id": "world-music-institute-2027-01-23-caama-o-ameixeiras",
+    "title": "Caamaño&Ameixeiras",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-01-23",
+    "time_start": "19:00",
+    "description": "Galician folk duo Caamaño&Ameixeiras perform traditional music of northwestern Spain at Joe's Pub.",
+    "url": "https://worldmusicinstitute.org/caamanoameixeiras/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "traditional-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.111Z"
+  },
+  {
+    "id": "world-music-institute-2027-01-28-tribute-to-sabri-khan-by-kamal-sabri",
+    "title": "Tribute to Sabri Khan by Kamal Sabri",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-01-28",
+    "time_start": "20:00",
+    "description": "Sarangi player Kamal Sabri leads a tribute concert honoring his father, the late Hindustani classical maestro Ustad Sabri Khan, at Kaufman Music Center.",
+    "url": "https://worldmusicinstitute.org/peace-through-music/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "hindustani"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.112Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-30-screamplay",
+    "title": "Screamplay",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-30",
+    "time_start": "18:45",
+    "description": "Repertory screening of the cult indie horror-mystery Screamplay at Anthology Film Archives, with an additional 9:00 PM showing.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61890",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening",
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.181Z"
+  },
+  {
+    "id": "issue-project-room-2026-11-07-roc-o-s-nchez-caminos",
+    "title": "Rocío Sánchez: Caminos",
+    "venue_id": "issue-project-room",
+    "venue_name": "Issue Project Room",
+    "date": "2026-11-07",
+    "time_start": "20:00",
+    "description": "Developed during her ISSUE residency, Caminos is a framework for musical ideas built through improvisation, extended technique, and lighting design, with collaborators che ali, Nava Dunkelman, and Henry Fraser.",
+    "url": "https://issueprojectroom.org/event/rocio-sanchez-caminos",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.231Z"
+  },
+  {
+    "id": "issue-project-room-2026-11-19-webb-crawford-that-passed-away-this-also",
+    "title": "Webb Crawford: That Passed Away, This Also May",
+    "venue_id": "issue-project-room",
+    "venue_name": "Issue Project Room",
+    "date": "2026-11-19",
+    "time_start": "20:00",
+    "description": "Luthier Webb Crawford's culminating residency commission features the organistrum played in trio with a self-built electric duochord with wheel, alongside collaborators Emma Mistele and Sam Boston.",
+    "url": "https://issueprojectroom.org/event/webb-crawford-passed-away-also-may",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.231Z"
+  },
+  {
+    "id": "issue-project-room-2026-11-13-eden-girma-dreamclub-radi0",
+    "title": "Eden Girma: DREAMCLUB_RADI0",
+    "venue_id": "issue-project-room",
+    "venue_name": "Issue Project Room",
+    "date": "2026-11-13",
+    "time_start": "20:00",
+    "description": "Eden Girma presents DREAMCLUB_RADI0, an extra-dimensional radio program performance staged at MITU580.",
+    "url": "https://issueprojectroom.org/event/eden-girma-dreamclubradi0",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.231Z"
+  },
+  {
+    "id": "e-flux-2026-10-15-charles-mudede-exit-envy-blm-maga-and-th",
+    "title": "Charles Mudede, \"Exit Envy: BLM, MAGA, and the Continuing Crisis of Longevity\"",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-15",
+    "time_start": "19:00",
+    "description": "Writer and critic Charles Mudede delivers a talk on envy, politics, and the crisis of longevity at e-flux.",
+    "url": "https://www.e-flux.com/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.259Z"
+  },
+  {
+    "id": "light-industry-2026-10-13-four-faces-west-ramrod",
+    "title": "Four Faces West + Ramrod",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-10-13",
+    "description": "Double feature of Alfred E. Green's Four Faces West and André de Toth's Ramrod, presented by Narrow Margin.",
+    "url": "https://www.lightindustry.org/narrow-westerns",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.301Z"
+  },
+  {
+    "id": "bitforms-2027-03-01-siebren-versteeg-time-frames",
+    "title": "Siebren Versteeg: TIME FRAMES",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2027-03-01",
+    "description": "Siebren Versteeg presents five live-feed video artworks that transform familiar places through re-cropping, mirroring, and pixelation, installed in flat-screen vitrines at St. John's University Art Gallery, Queens (on view through Spring 2027).",
+    "url": "https://sjuartgallery.org/Siebren-Versteeg",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.327Z"
+  },
+  {
+    "id": "pioneer-works-2026-12-20-lajun-mcmillian-child-ren-of-the-bloom",
+    "title": "LaJuné McMillian: Child/ren of the Bloom",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-12-20",
+    "description": "An interactive, multidisciplinary installation exploring the threshold between land and sea and the body's return to its origins, developed from research on phytoplankton, algal blooms, and bioluminescence during McMillian's OceanX residency at Pioneer Works, Brooklyn (through Dec 20, 2026).",
+    "url": "https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:20:43.345Z"
   }
 ]

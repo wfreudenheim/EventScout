@@ -31,7 +31,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.676Z",
+    "last_checked": "2026-09-30T07:20:43.372Z",
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
     "generated_scraper": null
@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:21:55.460Z"
+    "last_checked": "2026-09-30T07:20:43.223Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:20:32.387Z"
+    "last_checked": "2026-09-30T07:20:43.254Z"
   },
   {
     "id": "roulette",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:20:32.398Z"
+    "last_checked": "2026-09-30T07:20:43.295Z"
   },
   {
     "id": "artists-space",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:20:32.412Z"
+    "last_checked": "2026-09-30T07:20:43.320Z"
   },
   {
     "id": "union-docs",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:20:32.423Z"
+    "last_checked": "2026-09-30T07:20:43.340Z"
   },
   {
     "id": "microscope-gallery",
@@ -3312,7 +3312,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:20:32.367Z"
+    "last_checked": "2026-09-30T07:20:43.175Z"
   },
   {
     "id": "barbes",
