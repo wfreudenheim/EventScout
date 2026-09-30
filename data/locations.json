@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:32:18.117Z"
+    "last_checked": "2026-09-30T07:33:19.476Z"
   },
   {
     "id": "anthology-film-archives",
@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:30:05.863Z"
+    "last_checked": "2026-09-30T07:33:19.443Z"
   },
   {
     "id": "e-flux",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:30:05.878Z"
+    "last_checked": "2026-09-30T07:33:19.518Z"
   },
   {
     "id": "the-drawing-center",
@@ -3389,7 +3389,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:32:18.073Z"
+    "last_checked": "2026-09-30T07:33:19.318Z"
   },
   {
     "id": "summerstage",
@@ -3470,7 +3470,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:32:18.081Z"
+    "last_checked": "2026-09-30T07:33:19.347Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3519,7 +3519,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:32:18.098Z"
+    "last_checked": "2026-09-30T07:33:19.412Z"
   },
   {
     "id": "lincoln-center-summer",

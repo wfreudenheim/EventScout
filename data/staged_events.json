@@ -10485,5 +10485,250 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:28:56.209Z"
+  },
+  {
+    "id": "drom-2026-10-01-flamenco-jazz-jam",
+    "title": "FLAMENCO JAZZ JAM",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-01",
+    "time_start": "18:30",
+    "description": "A live jam blending the raw power of Flamenco with jazz improvisation, featuring deep grooves and spontaneous solos.",
+    "url": "https://dromnyc.com/event/flamenco-jazz-jam-4/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "improvisation",
+      "flamenco"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.270Z"
+  },
+  {
+    "id": "drom-2026-10-03-son-mujeres-orquesta",
+    "title": "SON MUJERES ORQUESTA",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-03",
+    "time_start": "19:00",
+    "description": "The all-women SON MUJERES orchestra, founded in Cali, Colombia in 2018 under director Mónica Castro Torres, brings Afro-Colombian and salsa rhythms to DROM.",
+    "url": "https://dromnyc.com/event/son-mujeres-orquesta/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "salsa"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.271Z"
+  },
+  {
+    "id": "drom-2026-10-02-pale-ramon-w-lily-desmond-and-katherine-",
+    "title": "PALE RAMON W/ LILY DESMOND AND KATHERINE JEAN",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-02",
+    "time_start": "18:30",
+    "description": "TJO (Tara Jane O'Neil)'s intimate ambient-infused folk and Pale Ramon's indie chamber pop/psychedelic sound share a bill with Lily Desmond and Katherine Jean.",
+    "url": "https://dromnyc.com/event/tjo-pale-ramon-and-lily-desmond/",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.271Z"
+  },
+  {
+    "id": "drom-2026-10-03-disco-turco",
+    "title": "DISCO TURCO",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-03",
+    "time_start": "22:00",
+    "description": "DROM's recurring party fusing Turkish disco with global dance grooves.",
+    "url": "https://dromnyc.com/event/disco-turco-14/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.271Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-14-monthly-jazz-jam-celebrating-thelonious-",
+    "title": "MONTHLY JAZZ JAM: CELEBRATING THELONIOUS MONK AND THE BEBOP PIONEERS",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-14",
+    "description": "An open jazz jam led by Carol Sudhalter celebrating Thelonious Monk's birthday and Bebop pioneers Charlie Parker, Dizzy Gillespie, Max Roach, and Miles Davis. Musicians of all levels welcome.",
+    "url": "https://www.flushingtownhall.org/show-details/monthly-jazz-jam-celebrating-thelonious-monk-and-the-bebop-pioneers",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.327Z"
+  },
+  {
+    "id": "terraza-7-2026-10-22-dan-neville-nonet-jazz-inspired-by-colom",
+    "title": "Dan Neville Nonet | Jazz Inspired by Colombia's Pacific Coast",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-22",
+    "description": "Dan Neville's nonet performs original jazz compositions inspired by the traditional music of Colombia's Pacific Coast.",
+    "url": "https://www.terraza7.com/detalles-y-registro/dan-neville-nonet-jazz-inspired-by-colombias-pacific-coast-first-set-8",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "traditional-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.355Z"
+  },
+  {
+    "id": "terraza-7-2026-10-05-terraza-big-band-symphonic-journeys",
+    "title": "Terraza Big Band | Symphonic Journeys",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-05",
+    "description": "Terraza 7's resident big band performs a symphonic jazz program.",
+    "url": "https://www.terraza7.com/detalles-y-registro/terraza-big-band-symphonic-journeys-7",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.355Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-02-2026-fitch-colloquium-preserving-indepen",
+    "title": "2026 FITCH COLLOQUIUM: Preserving Independence: Architecture and Heritage in Western Africa",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-02",
+    "time_start": "13:30",
+    "description": "This year's Fitch Colloquium examines architectural preservation and cultural heritage in Western Africa through the lens of independence movements, bridging architecture, history, and postcolonial cultural politics.",
+    "url": "https://www.arch.columbia.edu/events/4219-2026-fitch-colloquium-preserving-independence-architecture-and-heritage-in-western-africa",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [
+      "preservation"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.422Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-07-anarchitecture-after-everything-a-trans-",
+    "title": "Anarchitecture After Everything: A Trans Manifesto",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-07",
+    "time_start": "18:30",
+    "description": "A lecture-manifesto exploring 'anarchitecture' through a trans and queer critical-theory lens, bridging architectural theory, gender politics, and speculative critique.",
+    "url": "https://www.arch.columbia.edu/events/4221-anarchitecture-after-everything-a-trans-manifesto",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.423Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-05-the-detlef-mertins-lecture-on-the-histor",
+    "title": "THE DETLEF MERTINS LECTURE ON THE HISTORIES OF MODERNITY: Fatina Abreek-Zub",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-05",
+    "time_start": "18:30",
+    "description": "Fatina Abreek-Zub delivers this year's Detlef Mertins Lecture, part of a series examining the histories of architectural modernity.",
+    "url": "https://www.arch.columbia.edu/events/4222-the-detlef-mertins-lecture-on-the-histories-of-modernity-fatina-abreek-zub",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.423Z"
+  },
+  {
+    "id": "film-forum-2026-10-29-the-harder-they-come",
+    "title": "The Harder They Come",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-29",
+    "time_start": "20:20",
+    "description": "A repertory screening of Perry Henzell's 1972 Jamaican classic 'The Harder They Come,' famous for its landmark reggae soundtrack.",
+    "url": "https://filmforum.org/film/the-harder-they-come",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening",
+      "reggae"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.458Z"
+  },
+  {
+    "id": "whitney-2026-10-02-exhibition-tour-whitney-biennial-2026",
+    "title": "Exhibition Tour: Whitney Biennial 2026",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-02",
+    "time_start": "13:00",
+    "description": "A guided tour of the Whitney Biennial 2026, the museum's flagship survey of contemporary American art.",
+    "url": "https://whitney.org/events/tour-whitney-biennial-2026-floor6",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-09-30T07:33:19.502Z"
   }
 ]
