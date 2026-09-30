@@ -115,7 +115,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:18:42.452Z"
+    "last_checked": "2026-09-30T07:17:47.055Z"
   },
   {
     "id": "metrograph",
@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:18:42.465Z"
+    "last_checked": "2026-09-30T07:17:47.094Z"
   },
   {
     "id": "the-new-school",
@@ -2036,7 +2036,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:18:42.527Z"
+    "last_checked": "2026-09-30T07:17:47.130Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2131,7 +2131,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:19:53.668Z"
+    "last_checked": "2026-09-30T07:17:47.185Z"
   },
   {
     "id": "prismatic-ground",
@@ -2296,7 +2296,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:18:46.905Z"
+    "last_checked": "2026-09-30T07:18:01.515Z"
   },
   {
     "id": "blank-forms",
@@ -2320,7 +2320,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:18:46.914Z"
+    "last_checked": "2026-09-30T07:18:01.542Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2553,7 +2553,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:18:46.927Z"
+    "last_checked": "2026-09-30T07:18:01.559Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2886,7 +2886,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:18:46.953Z"
+    "last_checked": "2026-09-30T07:18:01.592Z"
   },
   {
     "id": "la-mama",
@@ -2933,7 +2933,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:18:46.981Z"
+    "last_checked": "2026-09-30T07:18:01.620Z"
   },
   {
     "id": "onassis-onx",
@@ -2956,7 +2956,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:20:32.344Z"
+    "last_checked": "2026-09-30T07:18:01.636Z"
   },
   {
     "id": "index-space",

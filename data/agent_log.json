@@ -4090,5 +4090,105 @@
     "events_found": 5,
     "events_new": 5,
     "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "eyebeam",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:17:47.066Z",
+    "completed_at": "2026-09-30T07:17:47.066Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyu-itp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:17:47.104Z",
+    "completed_at": "2026-09-30T07:17:47.104Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "mono-no-aware",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:17:47.133Z",
+    "completed_at": "2026-09-30T07:17:47.133Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "rockaway-film-festival",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:17:47.188Z",
+    "completed_at": "2026-09-30T07:17:47.188Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "aaww",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:18:01.525Z",
+    "completed_at": "2026-09-30T07:18:01.525Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "blank-forms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:18:01.545Z",
+    "completed_at": "2026-09-30T07:18:01.545Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bisr",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:18:01.561Z",
+    "completed_at": "2026-09-30T07:18:01.561Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "culturehub",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:18:01.602Z",
+    "completed_at": "2026-09-30T07:18:01.602Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "harvestworks",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:18:01.623Z",
+    "completed_at": "2026-09-30T07:18:01.623Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "onassis-onx",
+    "scrape_tier_used": 3,
+    "started_at": "2026-09-30T07:18:01.639Z",
+    "completed_at": "2026-09-30T07:18:01.639Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
   }
 ]
