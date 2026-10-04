@@ -8468,5 +8468,413 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-04T07:18:42.007Z"
+  },
+  {
+    "id": "metrograph-2026-10-10-earth-live-musical-accompaniment-",
+    "title": "EARTH (Live Musical Accompaniment)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-10",
+    "time_start": "18:30",
+    "description": "Oleksandr Dovzhenko's 1930 Soviet silent film Earth screens with live musical accompaniment by Fima Chupakhin (piano & synths) and Julian Kytasty (bandura & vocals).",
+    "url": "https://metrograph.com/film/9999004546-earth/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "experimental music/sound art",
+      "film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:08.255Z"
+  },
+  {
+    "id": "metrograph-2026-10-11-arsenal-live-musical-accompaniment-",
+    "title": "ARSENAL (Live Musical Accompaniment)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-11",
+    "time_start": "17:00",
+    "description": "Dovzhenko's 1929 silent film Arsenal screens with live musical accompaniment by Fima Chupakhin (piano & synths) and Fabio Rojas (percussion).",
+    "url": "https://metrograph.com/film/9999005033-arsenal/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "experimental music/sound art",
+      "film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:08.257Z"
+  },
+  {
+    "id": "metrograph-2026-10-17-zvenygora-live-musical-accompaniment-",
+    "title": "ZVENYGORA (Live Musical Accompaniment)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-17",
+    "time_start": "12:30",
+    "description": "Dovzhenko's 1928 silent film Zvenigora screens with an original score and live musical accompaniment by the ensemble medukha.",
+    "url": "https://metrograph.com/film/9999005036-zvenygora/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "experimental music/sound art",
+      "film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:08.257Z"
+  },
+  {
+    "id": "metrograph-2026-10-23-virgina-with-introduction-and-discussion",
+    "title": "Virgina (with Introduction and Discussion)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-23",
+    "time_start": "18:00",
+    "description": "Srđan Karanović's 1991 Yugoslav film screens with an introduction and post-screening discussion by film historian Jenni Olson, with a repeat introduction on October 24.",
+    "url": "https://metrograph.com/film/9999005047-virgina/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:08.260Z"
+  },
+  {
+    "id": "metrograph-2026-10-16-paris-was-a-woman-with-filmmaker-q-a-",
+    "title": "Paris Was a Woman (with Filmmaker Q&A)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-16",
+    "time_start": "18:40",
+    "description": "Greta Schiller's 1996 documentary on the women artists and writers of 1920s Paris screens with a Q&A featuring filmmakers Greta Schiller and Andrew Weiss, running October 16-18.",
+    "url": "https://metrograph.com/film/9999003500-paris-was-a-woman/",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:08.258Z"
+  },
+  {
+    "id": "metrograph-2026-10-17-broadcast-news-with-introduction-",
+    "title": "Broadcast News (with Introduction)",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-17",
+    "time_start": "20:20",
+    "description": "James L. Brooks' 1987 newsroom satire screens with an introduction by Michael Barbaro of The New York Times' \"The Daily.\"",
+    "url": "https://metrograph.com/film/9999003486-broadcast-news/",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:08.258Z"
+  },
+  {
+    "id": "national-sawdust-2026-10-30-eleanor-alberga-the-string-quartet-cycle",
+    "title": "Eleanor Alberga: The String Quartet Cycle with Support from Solaris",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-10-30",
+    "time_start": "19:30",
+    "description": "U.S. premiere cycle of composer Eleanor Alberga's Three String Quartets and the world premiere of her Second Piano Quintet, performed with the composer at piano.",
+    "url": "https://www.nationalsawdust.org/event/eleanor-alberga-the-string-quartet-cycle",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental music/sound art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:08.310Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-07-beyond-code-designing-for-resilience-ris",
+    "title": "Beyond Code: Designing for Resilience, Risk, and the Future Standard of Care",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-07",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A professional-development talk on designing buildings for resilience and risk, addressing emerging standards of care in the face of climate-related hazards.",
+    "url": "https://calendar.aiany.org/2026/10/07/beyond-code-designing-for-resilience-risk-and-the-future-standard-of-care/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Climate & environmental art, ecology, speculative futures"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.019Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-06-j-max-bond-jr-lecture-portrait-unveiling",
+    "title": "J. Max Bond Jr. Lecture | Portrait Unveiling",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-06",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A lecture and portrait unveiling honoring architect J. Max Bond Jr., presented as a networking and professional-development program.",
+    "url": "https://calendar.aiany.org/2026/10/06/j-max-bond-jr-lecture-portrait-unveiling/",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.017Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-07-building-of-the-day-calvary-baptist-chur",
+    "title": "Building of the Day: Calvary Baptist Church",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-07",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "description": "A guided architectural tour of Calvary Baptist Church, part of AIANY's Building of the Day series.",
+    "url": "https://calendar.aiany.org/2026/10/07/building-of-the-day-calvary-baptist-church/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.019Z"
+  },
+  {
+    "id": "cooper-union-2026-10-31-guild-greyshkul",
+    "title": "Guild & Greyshkul",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-31",
+    "description": "Ongoing exhibition at Cooper Union, on view September 16 through October 31.",
+    "url": "https://cooper.edu/events-and-exhibitions/exhibitions/guild-greyshkul",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.080Z"
+  },
+  {
+    "id": "printed-matter-2026-11-29-new-openings-against-old-surfaces-on-gor",
+    "title": "New Openings Against Old Surfaces: On Gordon Matta-Clark's Walls Paper",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-29",
+    "description": "An exhibition examining Gordon Matta-Clark's Walls Paper work, on view September 9 through November 29; Matta-Clark's site-specific building interventions bridge art and architecture.",
+    "url": "https://www.printedmatter.org/programs/events/2276",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.101Z"
+  },
+  {
+    "id": "printed-matter-2026-11-29-gordon-matta-clark-contemporary-commissi",
+    "title": "Gordon Matta-Clark — Contemporary Commissions",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-29",
+    "description": "A new project from artist Jessica Vaughn responding to Gordon Matta-Clark's legacy, on view September 9 through November 29.",
+    "url": "https://www.printedmatter.org/programs/events/2280",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.102Z"
+  },
+  {
+    "id": "nyas-2026-11-18-scientific-publishing-at-the-edge-trust-",
+    "title": "Scientific Publishing at the Edge: Trust and Authority in the Age of AI and Open Access",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-11-18",
+    "description": "A virtual discussion on how AI and open-access models are reshaping trust and authority in scientific publishing.",
+    "url": "https://www.nyas.org/shaping-science/events/scientific-publishing-at-the-edge-trust-and-authority-in-the-age-of-ai-and-open-access",
+    "price": "free for members",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.789Z"
+  },
+  {
+    "id": "nyas-2027-05-05-trust-in-science-and-medicine",
+    "title": "Trust in Science and Medicine",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-05-05",
+    "description": "A hybrid NYAS event exploring the erosion of, and strategies for rebuilding, public trust in science and medicine.",
+    "url": "https://www.nyas.org/shaping-science/events/trust-in-science-and-medicine",
+    "price": "free for members",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.789Z"
+  },
+  {
+    "id": "poetry-project-2026-09-29-fragmented-chronosthesia-lineage-communi",
+    "title": "Fragmented Chronosthesia: Lineage, Community, and the Legacy of Bob Flanagan; Five-Session Workshop with Mae Howard",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-09-29",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A five-session workshop (running through October 27) exploring lineage, community, and embodied legacy through the work of performance artist Bob Flanagan.",
+    "url": "https://www.poetryproject.org/events/fragmented-chronosethesia-lineage-community-and-the-legacy-of-bob-flanagan-with-mae-howard",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.829Z"
+  },
+  {
+    "id": "public-records-2026-11-09-durations-triple-canopy-presents-civic-c",
+    "title": "DURATIONS: Triple Canopy presents Civic Crash Course with Chloe Bass, Jeremy Toussaint-Baptiste, Hal Foster",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-09",
+    "time_start": "18:00",
+    "description": "A DURATIONS Festival talk presented by art/theory publication Triple Canopy, featuring critical theorist Hal Foster alongside artists Chloe Bass and Jeremy Toussaint-Baptiste.",
+    "url": "https://link.dice.fm/Ua4a0f349521",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.865Z"
+  },
+  {
+    "id": "public-records-2026-11-12-durations-ballet-buttechno-matana-robert",
+    "title": "DURATIONS: Ballet: buttechno, Matana Roberts & Lesley Mok, Klein, Significant Other",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-12",
+    "time_start": "19:00",
+    "description": "A DURATIONS Festival night of experimental sound featuring Matana Roberts, Klein, and buttechno.",
+    "url": "https://link.dice.fm/Uf3b609e4a5b",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.866Z"
+  },
+  {
+    "id": "public-records-2026-11-14-durations-dj-sprinkles-g-naone-abby-echi",
+    "title": "DURATIONS: DJ Sprinkles, [g] / Naone, Abby Echiverri / Eden Aurelius",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-14",
+    "time_start": "23:00",
+    "description": "A DURATIONS Festival club night headlined by DJ Sprinkles (Terre Thaemlitz), known for critically engaged house music.",
+    "url": "https://link.dice.fm/Ye298e3c1c37",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.867Z"
+  },
+  {
+    "id": "public-records-2026-11-15-durations-kara-lis-coverdale-molina-pave",
+    "title": "DURATIONS: Kara-Lis Coverdale, Molina, Pavel Milyakov",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-15",
+    "time_start": "18:00",
+    "description": "A DURATIONS Festival closing performance with ambient composer Kara-Lis Coverdale and experimental producer Pavel Milyakov (Buttechno).",
+    "url": "https://link.dice.fm/Refaffbf2140",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:25:09.868Z"
   }
 ]
