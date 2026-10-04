@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "venue-agent",
-    "target_id": "architectural-league",
-    "scrape_tier_used": 3,
-    "started_at": "2026-03-27T02:46:22.254Z",
-    "completed_at": "2026-03-27T02:46:22.254Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "venue-agent",
     "target_id": "moma",
     "scrape_tier_used": 3,
     "started_at": "2026-03-27T02:46:23.325Z",
@@ -4999,6 +4989,16 @@
     "completed_at": "2026-10-04T07:29:28.627Z",
     "events_found": 3,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-brick",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-04T07:29:58.905Z",
+    "completed_at": "2026-10-04T07:29:58.905Z",
+    "events_found": 2,
+    "events_new": 0,
     "status": "completed"
   }
 ]
