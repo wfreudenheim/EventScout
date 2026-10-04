@@ -1,6 +1,6 @@
 # Event Scout · Week of Sun, Oct 4
 
-88 events scoring 3+ from Sun, Oct 4 to Sun, Oct 11.
+89 events scoring 3+ from Sun, Oct 4 to Sun, Oct 11.
 
 ## Top picks
 
@@ -181,6 +181,9 @@
 - **6:30pm** — [Visiting Lecture | AT-HH, Malin Heyman + James Hamilton: Cutting Together Apart — Approaches to Building](https://cooper.edu/events-and-exhibitions/events/visiting-lecture-hh-malin-heyman-james-hamilton-cutting-together) (3)  
   Cooper Union · East Village  
   A visiting lecture on architectural practice and approaches to building, presented by AT-HH's Malin Heyman and James Hamilton.
+- **7:30pm** — [We’re Sick to Death of All This Nonsense: divas de mas muertas](https://uniondocs.org/event/were-sick-to-death-of-all-this-nonsense-divas-de-mas-muertas/) (3.8)  
+  UnionDocs · Ridgewood · $10  
+  <p>A series that merges live words, sounds and moving images. This time focusing on "divas de mas muertas."</p>\n
 - **8pm** — [X Amendments: Carla Kihlstedt, Rafael Osés, and Dither (Night 2)](https://roulette.org/event/x-amendments-carla-kihlstedt-rafael-oses-dither-2/) (4)  
   Roulette · Boerum Hill · $30  
   An improvised structure for an orchestra of voices, electric guitars, and an audience, using the Bill of Rights as its source material (second night).
