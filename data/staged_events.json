@@ -8336,5 +8336,137 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-30T07:34:36.886Z"
+  },
+  {
+    "id": "electronic-arts-intermix-2027-01-03-overexposed-art-technology-and-the-body",
+    "title": "Overexposed: Art, Technology, and the Body",
+    "venue_id": "electronic-arts-intermix",
+    "venue_name": "Electronic Arts Intermix",
+    "date": "2027-01-03",
+    "description": "Group exhibition at the Museum of the Moving Image featuring experimental video artists Peggy Ahwesh, Barbara Hammer, and Leslie Thornton, exploring art, technology, and the body; running March 14, 2026 through January 3, 2027.",
+    "url": "https://movingimage.org/event/overexposed/",
+    "format": "gallery",
+    "interest_score": 4.3,
+    "tags": [
+      "video-art",
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:18:40.025Z"
+  },
+  {
+    "id": "harvestworks-2026-08-29-in-other-forms",
+    "title": "In Other Forms",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-08-29",
+    "description": "A group exhibition at Harvestworks exploring new and emerging technologies in contemporary artistic practice, on view August 29 through November 1, 2026.",
+    "url": "https://www.harvestworks.org/event/in-other-forms/",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "contemporary-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:18:40.686Z"
+  },
+  {
+    "id": "bitforms-2026-09-12-lajun-mcmillian-child-ren-of-the-bloom",
+    "title": "LaJuné McMillian: Child/ren of the Bloom",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-09-12",
+    "description": "An interactive, multidisciplinary installation at Pioneer Works (through December 20, 2026) exploring the threshold between land and sea, drawing on research into phytoplankton, algal blooms, and bioluminescence from McMillian's OceanX artist residency.",
+    "url": "https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:18:41.353Z"
+  },
+  {
+    "id": "bitforms-2026-09-24-time-frames-siebren-versteeg",
+    "title": "Time Frames: Siebren Versteeg",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-09-24",
+    "description": "Siebren Versteeg presents five live-feed video artworks at St. John's University's art gallery in Jamaica, Queens (through spring 2027), using re-cropping, mirroring, and pixelation to transform familiar places, with frames fabricated in collaboration with artist April Childers.",
+    "url": "https://sjuartgallery.org/Siebren-Versteeg",
+    "format": "gallery",
+    "interest_score": 3.8,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:18:41.353Z"
+  },
+  {
+    "id": "bitforms-2026-09-10-jennifer-kevin-mccoy-relensing",
+    "title": "Jennifer & Kevin McCoy: ReLensing",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-09-10",
+    "description": "Jennifer and Kevin McCoy's exhibition ReLensing, on view at bitforms gallery in New York through October 17, 2026, continues the duo's work in media art and database-driven narrative.",
+    "url": "https://www.bitforms.art/exhibition/relensing",
+    "format": "gallery",
+    "interest_score": 3.5,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:18:41.353Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-19-m-tisses-cinq-femmes-contre-un-crime-d-t",
+    "title": "Métisses: Cinq Femmes Contre un Crime d'État",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-19",
+    "description": "Documentary screening of \"Métisses: Cinq Femmes Contre un Crime d'État,\" exploring mixed-race identity and state violence, presented by Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/metisses-cinq-femmes-contre-un-crime-detat",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:18:42.007Z"
   }
 ]
