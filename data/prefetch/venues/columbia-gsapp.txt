@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-09-30T06:57:40.222Z
+FETCHED:2026-10-04T08:35:22.391Z
 
 /
  * The School
@@ -850,42 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=22&month=9&time_range=week&year=2026 /events?day=8&month=10&time_range=week&year=2026
-Sep 30 – Oct 7
+/events?day=26&month=9&time_range=week&year=2026 /events?day=12&month=10&time_range=week&year=2026
+Oct 4 – Oct 11
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Thu, Oct 1    9:30am
-
-3 Things I Wish I Knew About Professional Portfolio Preparation with Nika Mo ‘18 MSAAD and Huanyu Chen '18 MSAUD
-
-Career Services
-
-New York
-
-[/events/3965-3-things-i-wish-i-knew-about-professional-portfolio-preparation-with-nika-mo-18-msaad-and-huanyu-chen-18-msaud]
-
-Thu, Oct 1    1pm
-
-MSRED Lecture: Jon Kully, Left Lane
-
-Lecture
-
-New York
-
-[/events/4295-msred-lecture-jon-kully-left-lane]
-
-Fri, Oct 2    1:30pm
-
-2026 FITCH COLLOQUIUM: Preserving Independence: Architecture and Heritage in Western Africa
-
-Conference
-
-[/events/4219-2026-fitch-colloquium-preserving-independence-architecture-and-heritage-in-western-africa]
 
 Mon, Oct 5    6:30pm
 
@@ -908,3 +880,21 @@ Wed, Oct 7    6:30pm
 Anarchitecture After Everything: A Trans Manifesto
 
 [/events/4221-anarchitecture-after-everything-a-trans-manifesto]
+
+Thu, Oct 8    6pm
+
+Marcos Zotes ‘12 MSAAD: Bathing in Extreme Landscapes
+
+Alumni
+
+New York
+
+[/events/4310-marcos-zotes-12-msaad-bathing-in-extreme-landscapes]
+
+Fri, Oct 9    1pm
+
+THE LIBRARY IS OPEN 31: Dear Mazie,: Sanctuary, Speculation, and Sky
+
+Library is Open
+
+[/events/4271-the-library-is-open-31-dear-mazie-sanctuary-speculation-and-sky]

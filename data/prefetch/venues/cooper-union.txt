@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-09-30T06:57:32.370Z
+FETCHED:2026-10-04T08:35:18.852Z
 
 /
 
@@ -14,22 +14,16 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing
+/events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist
 
-THE DIANE LEWIS STUDENT LECTURE SERIES | GUILLAUME OTHENIN-GIRARD: DRAWING INTO PLACE [/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing]
+SCREENING AND PANEL DISCUSSION | MAINTENANCE ARTIST [/events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist]
 
-September 29, 2026
-7:00pm
+October 6, 2026
+6:30pm
 
-Guillaume Othenin-Girard will present his work in a public lecture. 
+Screening of Maintenance Artist, a feature documentary about the work of Mierle Laderman Ukeles followed by a discussion with Tom Finkelpearl, Toby Perl Freilich moderated by Diana Agrest. 
 
-Event Details [/events-and-exhibitions/events/diane-lewis-student-lecture-series-guillaume-othenin-girard-drawing]
- * /events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist
-
-   SCREENING AND PANEL DISCUSSION | MAINTENANCE ARTIST [/events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist]
-
-   October 6, 2026
-   6:30pm
+Event Details [/events-and-exhibitions/events/screening-and-panel-discussion-maintenance-artist]
  * /events-and-exhibitions/events/visiting-lecture-hh-malin-heyman-james-hamilton-cutting-together
 
    VISITING LECTURE | AT-HH, MALIN HEYMAN + JAMES HAMILTON: CUTTING TOGETHER APART — APPROACHES TO BUILDING [/events-and-exhibitions/events/visiting-lecture-hh-malin-heyman-james-hamilton-cutting-together]
@@ -48,6 +42,12 @@ Event Details [/events-and-exhibitions/events/diane-lewis-student-lecture-series
 
    October 15, 2026
    6:00pm
+ * /events-and-exhibitions/events/kelly-walters-open-flat-file
+
+   KELLY WALTERS FOR OPEN FLAT FILE [/events-and-exhibitions/events/kelly-walters-open-flat-file]
+
+   October 15, 2026
+   6:30pm
 
 ONGOING EXHIBITIONS
 

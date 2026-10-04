@@ -9036,5 +9036,28 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-04T07:29:28.608Z"
+  },
+  {
+    "id": "union-docs-2026-10-08-we-re-sick-to-death-of-all-this-nonsense",
+    "title": "We’re Sick to Death of All This Nonsense: divas de mas muertas",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-10-08",
+    "time_start": "19:30",
+    "time_end": "19:30",
+    "description": "<p>A series that merges live words, sounds and moving images. This time focusing on \"divas de mas muertas.\"</p>\\n",
+    "url": "https://uniondocs.org/event/were-sick-to-death-of-all-this-nonsense-divas-de-mas-muertas/",
+    "price": "$10",
+    "format": "music",
+    "interest_score": 3.8,
+    "tags": [
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "tier2-scraper",
+    "status": "staged",
+    "discovered_at": "2026-10-04T08:35:09.672Z"
   }
 ]

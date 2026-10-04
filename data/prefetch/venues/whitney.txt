@@ -1,6 +1,6 @@
 VENUE:whitney | Whitney Museum of American Art
 URL:https://whitney.org/events
-FETCHED:2026-09-30T06:57:40.002Z
+FETCHED:2026-10-04T08:35:23.137Z
 
 Skip to main content
 /
@@ -72,6 +72,15 @@ TODAY’S EVENTS
    [/events/untitled-america-exb-tour]
    Tours [/events?tags%5B%5D=free_tours]
 
+ * 1 pm
+
+   EXHIBITION TOUR: WHITNEY BIENNIAL 2026
+
+   Floor 6
+
+   [/events/tour-whitney-biennial-2026-floor6]
+   Tours [/events?tags%5B%5D=free_tours] Biennial 2026 [/events?tags%5B%5D=biennial_2026]
+
  * 2 pm
 
    EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
@@ -83,11 +92,11 @@ TODAY’S EVENTS
 
  * 3 pm
 
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
 
    Floor 7
 
-   [/events/untitled-america-exb-tour]
+   [/events/closer-look-untitled-america]
    Tours [/events?tags%5B%5D=free_tours]
 
 View more
@@ -96,81 +105,11 @@ View more
 
 ALL UPCOMING EVENTS
 
- * SEPT 30
+ * OCT 4
 
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Wednesday, September 30, 2026
-   12 pm
-
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Wednesday, September 30, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Wednesday, September 30, 2026
-   3 pm
-
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
-
- * OCT 1
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Thursday, October 1, 2026
-   12 pm
-
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Thursday, October 1, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Thursday, October 1, 2026
-   3 pm
-
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EDUCATOR OPEN HOUSE
-
-   Thursday, October 1, 2026
-   4–7:30 pm
-
-   [/events/educator-open-house]
-   Teens [/events?tags%5B%5D=teen_events] Schools and Educators [/events?tags%5B%5D=Schools_and_Educators] Access [/events?tags%5B%5D=access_programs] Tours [/events?tags%5B%5D=free_tours]
-
- * OCT 2
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Friday, October 2, 2026
+   Sunday, October 4, 2026
    12 pm
 
    [/events/untitled-america-exb-tour]
@@ -180,7 +119,7 @@ ALL UPCOMING EVENTS
 
    EXHIBITION TOUR: WHITNEY BIENNIAL 2026
 
-   Friday, October 2, 2026
+   Sunday, October 4, 2026
    1 pm
 
    [/events/tour-whitney-biennial-2026-floor6]
@@ -190,7 +129,7 @@ ALL UPCOMING EVENTS
 
    EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
 
-   Friday, October 2, 2026
+   Sunday, October 4, 2026
    2 pm
 
    [/events/minnie-evans-tour]
@@ -198,65 +137,144 @@ ALL UPCOMING EVENTS
 
  *  
 
-   FREE FRIDAY NIGHTS
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
 
-   Friday, October 2, 2026
-   5–10 pm
+   Sunday, October 4, 2026
+   3 pm
 
-   [/visit/free-admission/free-friday-nights]
-   Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+   [/events/closer-look-untitled-america]
+   Tours [/events?tags%5B%5D=free_tours]
 
- *  
+ * OCT 5
 
-   ART + YOU
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
 
-   Friday, October 2, 2026
-   5:30–6:30 pm
+   Monday, October 5, 2026
+   12 pm
 
-   [/events/art-and-you-oct2]
-   Discussions & workshops [/events?tags%5B%5D=discussions_and_workshops] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   CHAMPIONS FOR THE ARTS: YOUR VOICE. YOUR COMMUNITY. YOUR FUTURE.
-
-   Friday, October 2, 2026
-   6–8 pm
-
-   [/events/champions-for-arts]
-   Talks & readings [/events?tags%5B%5D=talks_and_readings] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Teens [/events?tags%5B%5D=teen_events]
+   [/events/closer-look-untitled-america]
+   Tours [/events?tags%5B%5D=free_tours]
 
  *  
 
-   DJ SETS: SEAN AUGUSTINE MARCH AND WILLIE NEDROW
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
 
-   Friday, October 2, 2026
-   6–10 pm
+   Monday, October 5, 2026
+   2 pm
 
-   [/events/dj-sean-augustine-willie-nedrow]
-   Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   15-MINUTE TOUR: HIGHLIGHTS OF THE EXHIBITION “UNTITLED” (AMERICA)
-
-   Friday, October 2, 2026
-   6 pm
-
-   [/events/untitled-america-15min-ffn]
+   [/events/minnie-evans-tour]
    Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
 
  *  
 
-   FREE FRIDAY NIGHTS ARTMAKING
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Friday, October 2, 2026
-   6:30–9:30 pm
+   Monday, October 5, 2026
+   3 pm
 
-   [/events/ffn-artmaking-oct2]
-   Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+   [/events/untitled-america-exb-tour]
+   Tours [/events?tags%5B%5D=free_tours]
 
-342 events
+ *  
+
+   LEARN TO SEE LIKE NEW: ROY LICHTENSTEIN’S PERCEPTION
+
+   Monday, October 5, 2026
+   6–7 pm
+
+   [/events/learn-to-see-lichtenstein]
+
+   Open to all Members
+
+   Members [/events?tags%5B%5D=member_events]
+
+ * OCT 7
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Wednesday, October 7, 2026
+   12 pm
+
+   [/events/untitled-america-exb-tour]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Wednesday, October 7, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Wednesday, October 7, 2026
+   3 pm
+
+   [/events/untitled-america-exb-tour]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   PREVIEW NIGHT OPENING RECEPTION FOR ROY LICHTENSTEIN: LIKE NEW
+
+   Wednesday, October 7, 2026
+   7 pm
+
+   [/events/lichtenstein-preview-opening]
+
+   Open to Circle, Fellow, Sponsor, Benefactor, and Contemporaries Patron members
+
+   Members [/events?tags%5B%5D=member_events]
+
+ * OCT 8
+
+   MEMBER PREVIEW DAYS FOR ROY LICHTENSTEIN: LIKE NEW
+
+   Thursday, October 8, 2026
+   10:30 am–6 pm
+
+   [/events/lichtenstein-member-preview-days]
+
+   Open to all members
+
+   Members [/events?tags%5B%5D=member_events]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Thursday, October 8, 2026
+   12 pm
+
+   [/events/untitled-america-exb-tour]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Thursday, October 8, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Thursday, October 8, 2026
+   3 pm
+
+   [/events/untitled-america-exb-tour]
+   Tours [/events?tags%5B%5D=free_tours]
+
+320 events
 
 ON THE HOUR
 

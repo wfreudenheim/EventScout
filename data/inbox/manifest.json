@@ -4886,5 +4886,461 @@
     "date": "2026-09-30T06:10:28.000Z",
     "file": "data/inbox/611-romanian-art-week-presents-2026-edition.html",
     "processed": true
+  },
+  {
+    "uid": 612,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "Free November Programs",
+    "date": "2026-09-30T07:03:19.000Z",
+    "file": "data/inbox/612-free-november-programs.html",
+    "processed": false
+  },
+  {
+    "uid": 613,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "Out Now: Our October 2026 Issue",
+    "date": "2026-09-30T12:03:47.000Z",
+    "file": "data/inbox/613-out-now-our-october-2026-issue.html",
+    "processed": false
+  },
+  {
+    "uid": 614,
+    "from": "\"Guggenheim New York\" <guggenheim@emails.guggenheim.org>",
+    "subject": "Plan a visit",
+    "date": "2026-09-30T13:04:04.000Z",
+    "file": "data/inbox/614-plan-a-visit.html",
+    "processed": false
+  },
+  {
+    "uid": 615,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Funeral Siniestro",
+    "date": "2026-09-30T13:27:12.000Z",
+    "file": "data/inbox/615-funeral-siniestro.html",
+    "processed": false
+  },
+  {
+    "uid": 616,
+    "from": "\"New York Film Festival\" <noreply@filmlinc.org>",
+    "subject": "Behemoth! Tickets Released + Godzilla Minus Zero + La Gradiva and A Day in the Life of Jo Directors in Conversation + More!",
+    "date": "2026-09-30T13:28:55.000Z",
+    "file": "data/inbox/616-behemoth-tickets-released-godzilla-minus-zero-la-g.html",
+    "processed": false
+  },
+  {
+    "uid": 617,
+    "from": "\"Swiss Institute / Contemporary Art\" <info@swissinstitute.net>",
+    "subject": "Upcoming | Concert: Jamira Estrada & Neverdie | Launch: zweikommasieben Issue #31  | Film Series: Blackhole Cinematheque",
+    "date": "2026-09-30T15:01:15.000Z",
+    "file": "data/inbox/617-upcoming-concert-jamira-estrada-neverdie-launch-zw.html",
+    "processed": false
+  },
+  {
+    "uid": 618,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Witness a whimsical menagerie of Japanese gods and beasts!",
+    "date": "2026-09-30T15:07:42.000Z",
+    "file": "data/inbox/618-witness-a-whimsical-menagerie-of-japanese-gods-and.html",
+    "processed": false
+  },
+  {
+    "uid": 619,
+    "from": "\"La MaMa\" <programs@lamama.org>",
+    "subject": "Upcoming Shows this October",
+    "date": "2026-09-30T13:15:55.000Z",
+    "file": "data/inbox/619-upcoming-shows-this-october.html",
+    "processed": false
+  },
+  {
+    "uid": 620,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Read an excerpt from THE BRIGHTNESS by Chad Harbach",
+    "date": "2026-09-30T16:19:04.000Z",
+    "file": "data/inbox/620-read-an-excerpt-from-the-brightness-by-chad-harbac.html",
+    "processed": false
+  },
+  {
+    "uid": 621,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: Avatars of the Whore; Combat Breathing; Members Only: TWILIGHT ZONE on 16mm; SCREAMPLAY; and Lost & Found",
+    "date": "2026-09-30T16:32:11.000Z",
+    "file": "data/inbox/621-this-week-at-afa-avatars-of-the-whore-combat-breat.html",
+    "processed": false
+  },
+  {
+    "uid": 622,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "October Events at Printed Matter",
+    "date": "2026-09-30T16:55:49.000Z",
+    "file": "data/inbox/622-october-events-at-printed-matter.html",
+    "processed": false
+  },
+  {
+    "uid": 623,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Heart of Glass presents Mark Storor: Close to Home.",
+    "date": "2026-09-30T17:11:27.000Z",
+    "file": "data/inbox/623-heart-of-glass-presents-mark-storor-close-to-home.html",
+    "processed": false
+  },
+  {
+    "uid": 624,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "Screen Slate Recommends Free Screenings with Zoe Kazan at the Paris",
+    "date": "2026-09-30T18:03:40.000Z",
+    "file": "data/inbox/624-screen-slate-recommends-free-screenings-with-zoe-k.html",
+    "processed": false
+  },
+  {
+    "uid": 625,
+    "from": "\"McNally Jackson Books\" <jack.kyono@mcnallyjackson.com>",
+    "subject": "Every New Yorker Should Join This Book Club",
+    "date": "2026-09-30T19:03:50.000Z",
+    "file": "data/inbox/625-every-new-yorker-should-join-this-book-club.html",
+    "processed": false
+  },
+  {
+    "uid": 626,
+    "from": "\"Drom\" <office@dromnyc.com>",
+    "subject": "This Week at DROM:",
+    "date": "2026-09-30T19:23:30.000Z",
+    "file": "data/inbox/626-this-week-at-drom.html",
+    "processed": false
+  },
+  {
+    "uid": 627,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Join us for our Fall Festival!",
+    "date": "2026-09-30T20:00:47.000Z",
+    "file": "data/inbox/627-join-us-for-our-fall-festival.html",
+    "processed": false
+  },
+  {
+    "uid": 628,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "Handcrafted Horrors series opens, Phone-Free Fridays, free yoga, and more",
+    "date": "2026-09-30T20:32:09.000Z",
+    "file": "data/inbox/628-handcrafted-horrors-series-opens-phone-free-friday.html",
+    "processed": false
+  },
+  {
+    "uid": 629,
+    "from": "\"Asia Society NY\" <reply@e.asiasociety.org>",
+    "subject": "An evening of love, light, and laughter with Grammy-winning artist Chandrika Tandon",
+    "date": "2026-09-30T21:01:08.000Z",
+    "file": "data/inbox/629-an-evening-of-love-light-and-laughter-with-grammy-.html",
+    "processed": false
+  },
+  {
+    "uid": 630,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "Wendy's Subway is seeking an Editorial Fellow!",
+    "date": "2026-09-30T21:45:24.000Z",
+    "file": "data/inbox/630-wendy-s-subway-is-seeking-an-editorial-fellow.html",
+    "processed": false
+  },
+  {
+    "uid": 631,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Experience Week Two of NYFF64 + Minotaur w. Q&As & More New Releases on Sale",
+    "date": "2026-10-01T12:02:29.000Z",
+    "file": "data/inbox/631-experience-week-two-of-nyff64-minotaur-w-q-as-more.html",
+    "processed": false
+  },
+  {
+    "uid": 632,
+    "from": "\"New York Film Festival\" <noreply@filmlinc.org>",
+    "subject": "Film Editing and Marcel Dzama Free Talks, $15 Rush Tickets + More",
+    "date": "2026-10-01T13:50:28.000Z",
+    "file": "data/inbox/632-film-editing-and-marcel-dzama-free-talks-15-rush-t.html",
+    "processed": false
+  },
+  {
+    "uid": 633,
+    "from": "\"Verso Books\" <verso@versobooks.com>",
+    "subject": "📚 Our new edition of Walter Rodney's How Europe Underdeveloped Africa features a foreword from Angela Davis and a newly corrected manuscript 📚",
+    "date": "2026-10-01T14:16:18.000Z",
+    "file": "data/inbox/633-our-new-edition-of-walter-rodney-s-how-europe-unde.html",
+    "processed": false
+  },
+  {
+    "uid": 634,
+    "from": "\"NYU Center for Data Science\" <cds-communications@nyu.edu>",
+    "subject": "Laure Zanna launches the NYU Earth Systems Institute,  Qihan Wang forces AI to forget, and more!",
+    "date": "2026-10-01T15:00:54.000Z",
+    "file": "data/inbox/634-laure-zanna-launches-the-nyu-earth-systems-institu.html",
+    "processed": false
+  },
+  {
+    "uid": 635,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "Thank You for Joining Us at NYABF 2026!",
+    "date": "2026-10-01T15:06:45.000Z",
+    "file": "data/inbox/635-thank-you-for-joining-us-at-nyabf-2026.html",
+    "processed": false
+  },
+  {
+    "uid": 636,
+    "from": "\"World Music Institute\" <info@worldmusicinstitute.org>",
+    "subject": "Last chance to see Somi tonight in NYC",
+    "date": "2026-10-01T15:48:26.000Z",
+    "file": "data/inbox/636-last-chance-to-see-somi-tonight-in-nyc.html",
+    "processed": false
+  },
+  {
+    "uid": 637,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "MoMA’s biggest month yet",
+    "date": "2026-10-01T15:55:05.000Z",
+    "file": "data/inbox/637-moma-s-biggest-month-yet.html",
+    "processed": false
+  },
+  {
+    "uid": 638,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Begotten",
+    "date": "2026-10-01T16:00:15.000Z",
+    "file": "data/inbox/638-begotten.html",
+    "processed": false
+  },
+  {
+    "uid": 639,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Tickets Are Live: See Mieko Kawakami at Japan Society! 📚",
+    "date": "2026-10-01T16:09:48.000Z",
+    "file": "data/inbox/639-tickets-are-live-see-mieko-kawakami-at-japan-socie.html",
+    "processed": false
+  },
+  {
+    "uid": 640,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-10-01T16:12:21.000Z",
+    "file": "data/inbox/640-this-week-at-barbes.html",
+    "processed": false
+  },
+  {
+    "uid": 641,
+    "from": "\"Nitehawk Cinema\" <newsletter@nitehawkcinema.com>",
+    "subject": "Digging Edition",
+    "date": "2026-10-01T17:03:24.000Z",
+    "file": "data/inbox/641-digging-edition.html",
+    "processed": false
+  },
+  {
+    "uid": 642,
+    "from": "\"UnionDocs\" <info@uniondocs.org>",
+    "subject": "Charlie Shackleton & David Osit for Zodiac Killer Project. Caroline Déodat & Yasmina Price trace the enduring imaginaries of colonialism and empire. Plus a few left for Laura Poitras, Rachel Lauren Mueller & Jad Abumrad tonight!",
+    "date": "2026-10-01T18:07:16.000Z",
+    "file": "data/inbox/642-charlie-shackleton-david-osit-for-zodiac-killer-pr.html",
+    "processed": false
+  },
+  {
+    "uid": 643,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "London: A Conversation on Boris Lurie, October 6",
+    "date": "2026-10-01T18:32:10.000Z",
+    "file": "data/inbox/643-london-a-conversation-on-boris-lurie-october-6.html",
+    "processed": false
+  },
+  {
+    "uid": 644,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "This weekend: Beach Sessions Presents + The Adventures of Prince Achmed with Live Score and Shadow Puppet Show",
+    "date": "2026-10-01T18:55:10.000Z",
+    "file": "data/inbox/644-this-weekend-beach-sessions-presents-the-adventure.html",
+    "processed": false
+  },
+  {
+    "uid": 645,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "Announcing our 2026 Symposium lineup",
+    "date": "2026-10-01T19:02:31.000Z",
+    "file": "data/inbox/645-announcing-our-2026-symposium-lineup.html",
+    "processed": false
+  },
+  {
+    "uid": 646,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "American Scoundrel: Roy Cohn Biography Discussion - Video 🎥",
+    "date": "2026-10-01T19:19:37.000Z",
+    "file": "data/inbox/646-american-scoundrel-roy-cohn-biography-discussion-v.html",
+    "processed": false
+  },
+  {
+    "uid": 647,
+    "from": "\"Data & Society\" <info@datasociety.net>",
+    "subject": "Why we’re turning a worker lens on the AI economy, what it takes to make AI seem inevitable, the humanism driving the anti-AI movement",
+    "date": "2026-10-01T19:53:28.000Z",
+    "file": "data/inbox/647-why-we-re-turning-a-worker-lens-on-the-ai-economy-.html",
+    "processed": false
+  },
+  {
+    "uid": 648,
+    "from": "\"NYPL Connect\" <enews@email.nypl.org>",
+    "subject": "Banned Books Week at NYPL: Instant e-book access, giveaways, a banned books fashion show, teaching resources, and more",
+    "date": "2026-10-01T19:35:55.000Z",
+    "file": "data/inbox/648-banned-books-week-at-nypl-instant-e-book-access-gi.html",
+    "processed": false
+  },
+  {
+    "uid": 649,
+    "from": "\"Asia Society Museum\" <reply@e.asiasociety.org>",
+    "subject": "What’s happening at Asia Society Museum and beyond in October",
+    "date": "2026-10-01T21:01:11.000Z",
+    "file": "data/inbox/649-what-s-happening-at-asia-society-museum-and-beyond.html",
+    "processed": false
+  },
+  {
+    "uid": 650,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "A New Convening from Creative Time × Brooklyn Museum | October 23",
+    "date": "2026-10-01T23:09:12.000Z",
+    "file": "data/inbox/650-a-new-convening-from-creative-time-brooklyn-museum.html",
+    "processed": false
+  },
+  {
+    "uid": 651,
+    "from": "\"n+1\" <subs@nplusonemag.com>",
+    "subject": "An extra issue of n+1, totally free",
+    "date": "2026-10-01T23:32:45.000Z",
+    "file": "data/inbox/651-an-extra-issue-of-n-1-totally-free.html",
+    "processed": false
+  },
+  {
+    "uid": 652,
+    "from": "\"McNally Jackson Books\" <yvonne@mcnallyjackson.com>",
+    "subject": "What Rhymes with Pterodactyl? Ask Author Raj Haldar! Seaport McNally Jackson on Sat., Oct. 3rd at Noon. All ages welcome!",
+    "date": "2026-10-02T03:45:14.000Z",
+    "file": "data/inbox/652-what-rhymes-with-pterodactyl-ask-author-raj-haldar.html",
+    "processed": false
+  },
+  {
+    "uid": 653,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Nine Moons Over a Cotton Field. Łódź and Central Asia at Central Museum of Textiles in Lodz",
+    "date": "2026-10-02T06:10:15.000Z",
+    "file": "data/inbox/653-nine-moons-over-a-cotton-field-d-and-central-asia-.html",
+    "processed": false
+  },
+  {
+    "uid": 654,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "31st Artecinema Festival",
+    "date": "2026-10-02T13:14:08.000Z",
+    "file": "data/inbox/654-31st-artecinema-festival.html",
+    "processed": false
+  },
+  {
+    "uid": 655,
+    "from": "\"New York Film Festival\" <noreply@filmlinc.org>",
+    "subject": "NYFF64 Week One Recap + BAM Tickets Available + More",
+    "date": "2026-10-02T13:42:02.000Z",
+    "file": "data/inbox/655-nyff64-week-one-recap-bam-tickets-available-more.html",
+    "processed": false
+  },
+  {
+    "uid": 656,
+    "from": "\"Wave Farm + WGXC 90.7-FM\" <info@wavefarm.org>",
+    "subject": "Wave Farm News October 2026",
+    "date": "2026-10-02T14:05:09.000Z",
+    "file": "data/inbox/656-wave-farm-news-october-2026.html",
+    "processed": false
+  },
+  {
+    "uid": 657,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "You Have a Seat for The Zora Project Salon, Oct 26!",
+    "date": "2026-10-02T14:51:01.000Z",
+    "file": "data/inbox/657-you-have-a-seat-for-the-zora-project-salon-oct-26.html",
+    "processed": false
+  },
+  {
+    "uid": 658,
+    "from": "\"Swiss Institute / Contemporary Art\" <info@swissinstitute.net>",
+    "subject": "Incoming Artist-in-Residence | Víctor J. González Ortiz",
+    "date": "2026-10-02T15:26:15.000Z",
+    "file": "data/inbox/658-incoming-artist-in-residence-v-ctor-j-gonz-lez-ort.html",
+    "processed": false
+  },
+  {
+    "uid": 659,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Klute",
+    "date": "2026-10-02T16:05:42.000Z",
+    "file": "data/inbox/659-klute.html",
+    "processed": false
+  },
+  {
+    "uid": 660,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "Handcrafted Horrors kicks off spooky season with classic Carnival of Souls on Saturday",
+    "date": "2026-10-02T16:59:30.000Z",
+    "file": "data/inbox/660-handcrafted-horrors-kicks-off-spooky-season-with-c.html",
+    "processed": false
+  },
+  {
+    "uid": 661,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "🖼️ Anna Gregor, Emma Amos, Christopher K. Ho and more… up next on the New Social Environment!",
+    "date": "2026-10-02T17:02:44.000Z",
+    "file": "data/inbox/661-anna-gregor-emma-amos-christopher-k-ho-and-more-up.html",
+    "processed": false
+  },
+  {
+    "uid": 662,
+    "from": "\"Bard Graduate Center\" <news@bgc.bard.edu>",
+    "subject": "What’s Happening at BGC: Royal Carpets, \"Goddesses\" of the Silent Screen & More",
+    "date": "2026-10-02T17:29:17.000Z",
+    "file": "data/inbox/662-what-s-happening-at-bgc-royal-carpets-goddesses-of.html",
+    "processed": false
+  },
+  {
+    "uid": 663,
+    "from": "\"Rhizome News\" <info@rhizome.org>",
+    "subject": "Apply to be the Amsterdam City Fellow!",
+    "date": "2026-10-02T17:56:21.000Z",
+    "file": "data/inbox/663-apply-to-be-the-amsterdam-city-fellow.html",
+    "processed": false
+  },
+  {
+    "uid": 664,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Join us on 10/16 to celebrate New York's underloved public buildings",
+    "date": "2026-10-02T19:31:31.000Z",
+    "file": "data/inbox/664-join-us-on-10-16-to-celebrate-new-york-s-underlove.html",
+    "processed": false
+  },
+  {
+    "uid": 665,
+    "from": "\"Amant\" <amant@amant.org>",
+    "subject": "October at Amant",
+    "date": "2026-10-02T22:49:37.000Z",
+    "file": "data/inbox/665-october-at-amant.html",
+    "processed": false
+  },
+  {
+    "uid": 666,
+    "from": "\"New York Film Festival\" <noreply@filmlinc.org>",
+    "subject": "Thank an NYFF64 Volunteer Today!",
+    "date": "2026-10-03T12:18:36.000Z",
+    "file": "data/inbox/666-thank-an-nyff64-volunteer-today.html",
+    "processed": false
+  },
+  {
+    "uid": 667,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Saul Ostrow on Taryn Simon’s “Father Country I Do Love You” at the Guggenheim Museum, New York",
+    "date": "2026-10-03T14:10:22.000Z",
+    "file": "data/inbox/667-review-saul-ostrow-on-taryn-simon-s-father-country.html",
+    "processed": false
+  },
+  {
+    "uid": 668,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Fucktoys + Annapurna Sriram Interview",
+    "date": "2026-10-03T18:44:41.000Z",
+    "file": "data/inbox/668-fucktoys-annapurna-sriram-interview.html",
+    "processed": false
   }
 ]

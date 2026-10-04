@@ -1,6 +1,6 @@
 VENUE:n-plus-one | n+1 Magazine
 URL:https://www.nplusonemag.com/
-FETCHED:2026-09-30T06:57:36.860Z
+FETCHED:2026-10-04T08:35:21.117Z
 
 https://www.nplusonemag.com/subscribe/?affid=hero
 https://www.nplusonemag.com/magazine/issue-54 Current Issue
@@ -120,10 +120,16 @@ Issue 54 Power Play
 [https://www.nplusonemag.com/issue-54/fiction-drama/adventures-in-capitalism/]
 card-default flavor-home-hero type-magazine term-issue-54 format-with_image tax-issue featured-
 Issue 54 Power Play
- * Orange Era
- * Dushko Petrovich Córdova
+ * The Parties
+ * Chad Harbach
 
-[https://www.nplusonemag.com/issue-54/reviews/orange-era/]
+[https://www.nplusonemag.com/issue-54/fiction-drama/the-parties/]
+card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
+Online Only
+ * Last Week in End Times Cinema
+ * A. S. Hamrah, Will Tavlin
+
+[https://www.nplusonemag.com/online-only/online-only/last-week-in-end-times-cinema-2/]
 card-default flavor-home-flow type-online-only term-gooooaaal format-with_image tax-online-only featured-
 GOOOOAAAL
  * Away Game
@@ -148,15 +154,6 @@ The Municipal Sublime
  * Archtober in New York
 
 [https://www.nplusonemag.com/online-only/events/the-municipal-sublime/]
-card-event flavor-home-flow type-online-only term-events format-pullquote tax-online-only featured-
-
-Last Year in End Times Cinema
-
- * OCT 01
-   2026
- * A. S. Hamrah in conversation
-
-[https://www.nplusonemag.com/online-only/events/last-year-in-end-times-cinema/]
 
 BOOKSTORE [http://shop.nplusonemag.com/]
 

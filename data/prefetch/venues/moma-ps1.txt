@@ -1,6 +1,6 @@
 VENUE:moma-ps1 | MoMA PS1
 URL:https://www.momaps1.org/en/calendar
-FETCHED:2026-09-30T06:57:29.821Z
+FETCHED:2026-10-04T08:35:16.808Z
 
 Skip to content
 EN [/en/calendar?save_locale=true] ES [/es/calendar?save_locale=true]
@@ -102,8 +102,9 @@ Close
 Close
 
 Change Date
-Today, Wed, Sep 30
-The building is closed today
+Today, Sun, Oct 4
+Open
+12–6 p.m.
 Expand All Collapse all
 MoMA PS1
 
@@ -149,76 +150,130 @@ Trained as a forensic pathologist and a photographer, Margolles has created work
 
 More Info [/en/programs/760-teresa-margolles]
 
-August [/en/calendar?month=20260831] September 2026 October
+Oct 17
+Open
+10 a.m.–6 p.m.
+Event
 
-[/en/calendar?month=20261001]
-September 2026
+HALLOWEEN FAMILY DAY
+
+[/en/events/845-halloween-family-day]
+
+10 a.m.–3 p.m.
+
++ Open Halloween Family Day – Close Halloween Family Day
+
+Get in the spirit and stop by for free, all-ages Halloween activities led by artists. Carve a pumpkin, create your own costume, or catch a spooky short film, plus wander through the galleries to see the exhibitions on view.
+
+Reserve Tickets [https://www.eventbrite.com/e/halloween-family-day-tickets-2002175577048] More Info [/en/events/845-halloween-family-day]
+
+Workshop
+
+PUMPKIN CARVING
+
+[/en/events/878-pumpkin-carving]
+
+10:30 a.m.–2:30 p.m.
+
++ Open Pumpkin Carving – Close Pumpkin Carving
+
+Learn detailed carving techniques with artist Danielle De Jesus [https://www.momaps1.org/en/programs/1-life-between-buildings]. Bring your own designs, rework a classic motif, or dream up one from your imagination! Registration includes pumpkins while supplies last—or bring your own.
+
+RSVP [https://www.eventbrite.com/e/pumpkin-carving-tickets-2002175769624] to secure your spot.
+
+Reserve Tickets [https://www.eventbrite.com/e/pumpkin-carving-tickets-2002175769624] More Info [/en/events/878-pumpkin-carving]
+
+Oct 22
+Open
+12–6 p.m.
+Music
+
+SCHOOL NITE
+
+ISABELLA LOVESTORY, B0YG1RL, ALI RQ
+
+[/en/events/844-school-nite]
+
+Thursday, October 22, 2026
+7–11 p.m.
+
++ Open School Nite – Close School Nite
+
+School Nite is MoMA PS1’s new, after-hours music series amplifying the next generation of sound. Rising digital, internet-based, and underground acts take over our former schoolhouse with live performances. Across genres and disciplines, the series spotlights rising talent and the scenes shaping culture in real time, with after-hours gallery access to MoMA PS1’s exhibitions and a cash bar.
+
+Reserve Tickets [https://www.eventbrite.com/e/school-nite-isabella-lovestory-b0yg1rl-ali-rq-dj-tickets-2001094465414] More Info [/en/events/844-school-nite]
+
+September [/en/calendar?month=20260930] October 2026 November
+
+[/en/calendar?month=20261101]
+October 2026
 Previous month Next month
 S M T W T F S
 Choose a Date
 1
-[/en/calendar?day=20260901]
+[/en/calendar?day=20261001]
 2
-[/en/calendar?day=20260902]
+[/en/calendar?day=20261002]
 3
-[/en/calendar?day=20260903]
+[/en/calendar?day=20261003]
 4
-[/en/calendar?day=20260904]
+[/en/calendar?day=20261004]
 5
-[/en/calendar?day=20260905]
+[/en/calendar?day=20261005]
 6
-[/en/calendar?day=20260906]
+[/en/calendar?day=20261006]
 7
-[/en/calendar?day=20260907]
+[/en/calendar?day=20261007]
 8
-[/en/calendar?day=20260908]
+[/en/calendar?day=20261008]
 9
-[/en/calendar?day=20260909]
+[/en/calendar?day=20261009]
 10
-
-[/en/calendar?day=20260910]
+[/en/calendar?day=20261010]
 11
-[/en/calendar?day=20260911]
+[/en/calendar?day=20261011]
 12
-
-[/en/calendar?day=20260912]
+[/en/calendar?day=20261012]
 13
-[/en/calendar?day=20260913]
+[/en/calendar?day=20261013]
 14
-[/en/calendar?day=20260914]
+[/en/calendar?day=20261014]
 15
-[/en/calendar?day=20260915]
+[/en/calendar?day=20261015]
 16
-[/en/calendar?day=20260916]
+[/en/calendar?day=20261016]
 17
-[/en/calendar?day=20260917]
-18
-[/en/calendar?day=20260918]
-19
-[/en/calendar?day=20260919]
-20
-[/en/calendar?day=20260920]
-21
-[/en/calendar?day=20260921]
-22
-[/en/calendar?day=20260922]
-23
-[/en/calendar?day=20260923]
-24
 
-[/en/calendar?day=20260924]
+[/en/calendar?day=20261017]
+18
+[/en/calendar?day=20261018]
+19
+[/en/calendar?day=20261019]
+20
+[/en/calendar?day=20261020]
+21
+[/en/calendar?day=20261021]
+22
+
+[/en/calendar?day=20261022]
+23
+[/en/calendar?day=20261023]
+24
+[/en/calendar?day=20261024]
 25
-[/en/calendar?day=20260925]
+[/en/calendar?day=20261025]
 26
-[/en/calendar?day=20260926]
+[/en/calendar?day=20261026]
 27
-[/en/calendar?day=20260927]
+[/en/calendar?day=20261027]
 28
-[/en/calendar?day=20260928]
+[/en/calendar?day=20261028]
 29
-[/en/calendar?day=20260929]
+[/en/calendar?day=20261029]
 30
-[/en/calendar?day=20260930]
+[/en/calendar?day=20261030]
+31
+[/en/calendar?day=20261031]
 Building closed on Tuesday and Wednesday
 
 Plan Your Visit [/en/visit]

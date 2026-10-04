@@ -1,0 +1,47 @@
+UID:634 | 2026-10-01 | "NYU Center for Data Science" <cds-communications@nyu.edu> | Laure Zanna launches the NYU Earth Systems Institute,  Qihan Wang forces AI to forget, and more!
+
+Cutting-edge climate models produce useful data but currently run on...
+
+THE CDS MONTHLY RESEARCH FEATURE
+
+OCTOBER 2026
+
+CLIMATE DATA FOR EVERYONE: NYU LAUNCHES THE EARTH SYSTEMS INSTITUTE
+
+Cutting-edge climate models produce useful data but currently run on supercomputers. The NYU Earth Systems Institute, which CDS Keller Professor of Applied Mathematics and Data Science Laure Zanna leads, is built on the idea that projections of a changing planet can be produced faster and on ordinary hardware, then handed to anyone with a question to ask. NYU launched the Institute on June 8 as part of its science and technology initiative, drawing together researchers who had been working on environmental problems in separate corners of the university. Its two co-deputy directors come from different schools: Donald F. Othmer Associate Professor of Chemical Engineering Miguel Modestino, who directs Tandon’s Sustainable Engineering Initiative, and Chair of the Department of Environmental Studies and CDS-affiliated Associate Professor of Environmental Studies Sonali McDermid.
+
+Continue Reading “Climate Data for Everyone...”
+
+FORCING AI TO FORGET: CONSTRAINING MEMORY IMPROVES HUMAN SIMULATION
+
+Have you ever talked to an AI model and found the response so long and complex that you were unable to remember any of it? The model has no idea, because it remembers everything it says perfectly, and that perfect recall limits its ability to imagine how hard it might be for humans to remember certain things. In “Simulating Human Memory with Language Models,” CDS researchers show that intentionally limiting a language model’s memory creates more human-like, and therefore helpful, user simulators.
+
+Continue Reading “Forcing AI to Forget...”
+
+TO IMITATE A CROWD, A MODEL HAS TO WATCH THE WHOLE CROWD: LEARNING UNDER COMMON SHOCK
+
+When a political figure posts something market-moving, every trader feels it in the same instant, and the models researchers use to imitate crowds like that mostly pretend the shared jolt never happens. CDS PhD student Grégoire Lambrecht and his adviser, Mathieu Laurière, Assistant Professor of Mathematics and Data Science at NYU Shanghai, built the first framework for learning to copy a large population’s behavior when a shock hits all of its members at once.
+
+Continue Reading “To Imitate a Crowd, A Model Has To...”
+
+FALL 2027 MS & PHD APPLICATIONS ARE NOW OPEN
+
+The Fall 2027 applications for the CDS MS and PhD programs are open. Join us for an upcoming admissions information session on Zoom:
+
+Register for PhD Info Session: Wednesday, October 14, 9:30–11:30 a.m. ET
+
+Register for MS Info Session: Monday, October 26, 10:00–11:00 a.m. ET
+
+Apply / Learn More About CDS MS & PhD Programs
+
+ 
+
+To learn more about our research, please visit the CDS Research Overview page.
+
+Visit the CDS Blog
+
+Contact Email: cds-communications@nyu.edu
+
+Copyright (C) 2026 Center for Data Science. All rights reserved.
+
+60 5th Avenue, 7th Floor, New York, NY 10011

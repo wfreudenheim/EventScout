@@ -1,6 +1,6 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-09-30T06:57:37.371Z
+FETCHED:2026-10-04T08:35:21.224Z
 
 * Exhibitions [/exhibitions]
     * Current [/exhibitions]
@@ -56,7 +56,7 @@ SWISS INSTITUTE
 
 SI OFFSITE | RAFAŁ SKOCZEK: KINO DRIFT
 
-Opening Reception: Wed Sep 23, 6:00–8:00pm
+Presented at WSA, 161 Water Street, 7th Floor, New York, NY 10038
 
 Wed Sep 23—Sat Nov 14 2026
 
@@ -70,25 +70,11 @@ Exhibitions
 
 SI OFFSITE | RAFAŁ SKOCZEK: KINO DRIFT
 
-Opening Reception: Wed Sep 23, 6:00–8:00pm
+Presented at WSA, 161 Water Street, 7th Floor, New York, NY 10038
 
 Wed Sep 23—Sat Nov 14 2026
 
 [https://swissinstitute.net/exhibitions/si-offsite-rafał-skoczek-kino-drift]
-Programs
-
-CONCERT | JAMIRA ESTRADA & NEVERDIE
-
-Sat Oct 3 2026, 7:00pm
-
-[https://swissinstitute.net/programs/concert-jamira-estrada-neverdie]
-Programs
-
-BOOK LAUNCH | 15 YEARS OF ZWEIKOMMASIEBEN: MAGAZINE RELEASE ISSUE #31
-
-Sat Oct 3 2026, 7:00pm
-
-[https://swissinstitute.net/programs/book-launch-5-years-of-zweikommasieben-magazine-release-issue-31]
 Programs
 
 FILM SERIES | BLACKHOLE CINEMATHEQUE
@@ -139,18 +125,6 @@ Wed Nov 11 2026, 7:00pm
 
 [https://swissinstitute.net/programs/film-series-marching-with-the-kasama]
 
-CONCERT | JAMIRA ESTRADA & NEVERDIE
-
-Sat Oct 3 2026, 7:00pm
-
-[https://swissinstitute.net/programs/concert-jamira-estrada-neverdie]
-
-BOOK LAUNCH | 15 YEARS OF ZWEIKOMMASIEBEN: MAGAZINE RELEASE ISSUE #31
-
-Sat Oct 3 2026, 7:00pm
-
-[https://swissinstitute.net/programs/book-launch-5-years-of-zweikommasieben-magazine-release-issue-31]
-
 FILM SERIES | BLACKHOLE CINEMATHEQUE
 
 Wed Oct 7 2026, 7:00pm
@@ -190,11 +164,11 @@ Residencies
 
 CURRENT ARTIST-IN-RESIDENCE
 
-Jeanne Tara
+Víctor J. González Ortiz
 
-Jul–Sep 2026
+Oct–Dec 2026
 
-[https://swissinstitute.net/residencies/jeanne-tara]
+[https://swissinstitute.net/residencies/victor-j-gonzalez-ortiz]
 
 FAMILIES
 
@@ -215,15 +189,6 @@ SCHOOLS & UNIVERSITIES
 COMMUNITY
 
 [https://swissinstitute.net/education/community]
-Education & Community
-
-APPLICATION NOW LIVE!
-
-Teen Council In-Residence with Visual AIDS, Oct 2026–May 2027
-
-Apply by Fri Sept 18 2026
-
-[https://swissinstitute.net/education/swiss-institute-teen-council-sitc]
 Education & Community
 
 PUBLIC ART FAMILY GUIDE

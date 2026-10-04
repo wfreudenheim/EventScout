@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "venue-agent",
-    "target_id": "moma",
-    "scrape_tier_used": 3,
-    "started_at": "2026-03-27T02:46:23.325Z",
-    "completed_at": "2026-03-27T02:46:23.325Z",
-    "events_found": 11,
-    "events_new": 11,
-    "status": "completed"
-  },
-  {
-    "agent_type": "venue-agent",
     "target_id": "verso-books",
     "scrape_tier_used": 3,
     "started_at": "2026-03-27T02:46:25.001Z",
@@ -4999,6 +4989,16 @@
     "completed_at": "2026-10-04T07:29:58.905Z",
     "events_found": 2,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-10-04T08:35:09.683Z",
+    "completed_at": "2026-10-04T08:35:09.683Z",
+    "events_found": 1,
+    "events_new": 1,
     "status": "completed"
   }
 ]

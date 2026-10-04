@@ -1,6 +1,6 @@
 VENUE:anthology-film-archives | Anthology Film Archives
 URL:https://www.anthologyfilmarchives.org/film_screenings/calendar
-FETCHED:2026-09-30T06:57:23.634Z
+FETCHED:2026-10-04T08:35:13.038Z
 
 ANTHOLOGY FILM ARCHIVES
 
@@ -31,220 +31,252 @@ ANTHOLOGY FILM ARCHIVES
  * Mailing List [/contact/mailing-list]
  * Directions [/contact/directions]
 
-FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-30]
+FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-04]
 
-September 2026
+October 2026
 QUARTERLY PDF [/AFA_456_2013Cal_complete.pdf?v=1] | RSS [/rss] Filter by Program Essential Cinema Premieres/Revivals Retrospectives Series Special Screenings AFA Preservations New Filmmakers
 
 Sunday Monday Tuesday Wednesday Thursday Friday Saturday
 1
-2
  * 6:30 PM
-   UNIONDOCS PRESENTS: WELFARE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61981]
+   COMBAT BREATHING: INSURGENT POIESIS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62105]
+ * 6:45 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=10&year=2026#showing-61892]
+ * 9:00 PM
+   SCREAMPLAY [/film_screenings/calendar?view=list&month=10&year=2026#showing-61893]
+
+2
+ * 6:45 PM
+   ALANIS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62082]
+ * 7:00 PM
+   COMBAT BREATHING: THE TIME BENEATH THE CONCRETE [/film_screenings/calendar?view=list&month=10&year=2026#showing-62107]
+ * 9:00 PM
+   MOMMY IS COMING [/film_screenings/calendar?view=list&month=10&year=2026#showing-62085]
 
 3
+ * 4:00 PM
+   COMBAT BREATHING: PERPETUAL RECURRENCES, PART 1: CINÉ-GUERRILLAS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62109]
+ * 4:45 PM
+   KAMA SUTRA: A TALE OF LOVE [/film_screenings/calendar?view=list&month=10&year=2026#showing-62089]
+ * 6:30 PM
+   COMBAT BREATHING: PERPETUAL RECURRENCES, PART 2: TESTAMENT [/film_screenings/calendar?view=list&month=10&year=2026#showing-62111]
  * 7:30 PM
-   MIX NYC PRESENTS: EARLY INTERIORITY: VINTAGE TRANS CINEMA [/film_screenings/calendar?view=list&month=09&year=2026#showing-62008]
- * 9:30 PM
-   MIX NYC PRESENTS: EARLY INTERIORITY: VINTAGE TRANS CINEMA (encore screening) [/film_screenings/calendar?view=list&month=09&year=2026#showing-62138]
+   FUCKTOYS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62092]
+ * 8:30 PM
+   COMBAT BREATHING: PERPETUAL RECURRENCES, PART 3: PERPETUAL RECURRENCES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62113]
 
 4
- * 6:45 PM
-   WHAT GODMILOW TAUGHT [/film_screenings/calendar?view=list&month=09&year=2026#showing-61936]
- * 8:45 PM
-   WHAT FAROCKI TAUGHT + SCUM MANIFESTO [/film_screenings/calendar?view=list&month=09&year=2026#showing-61939]
+ * 4:00 PM
+   AVATARS: THE DOMINATRIX SLEEPS TONIGHT [/film_screenings/calendar?view=list&month=10&year=2026#showing-62094]
+ * 4:15 PM
+   COMBAT BREATHING: POSTSCRIPTS OF MODERNITY, PART 1 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62115]
+ * 6:15 PM
+   MY NAME AIN’T SUZIE / FA GAI SI DOI [/film_screenings/calendar?view=list&month=10&year=2026#showing-62097]
+ * 6:30 PM
+   COMBAT BREATHING: POSTSCRIPTS OF MODERNITY, PART 2: AMUSSU [/film_screenings/calendar?view=list&month=10&year=2026#showing-62117]
+ * 9:00 PM
+   SEDUCTION: THE CRUEL WOMAN [/film_screenings/calendar?view=list&month=10&year=2026#showing-62100]
 
 5
- * 6:00 PM
-   WHAT GODMILOW TAUGHT [/film_screenings/calendar?view=list&month=09&year=2026#showing-61937]
- * 8:00 PM
-   ROY COHN/JACK SMITH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61941]
+ * 6:45 PM
+   MOMMY IS COMING [/film_screenings/calendar?view=list&month=10&year=2026#showing-62086]
+ * 7:00 PM
+   AFA MEMBERS ONLY: TWILIGHT ZONE ON 16MM [/film_screenings/calendar?view=list&month=10&year=2026#showing-61996]
+ * 8:45 PM
+   ALANIS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62083]
 
 6
- * 4:00 PM
-   THE LITTLE DEATHS / LAS MUERTES CHIQUITAS [/film_screenings/calendar?view=list&month=09&year=2026#showing-61943]
- * 5:15 PM
-   EC: ZVENIGORA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61903]
- * 7:30 PM
-   EC: ARSENAL [/film_screenings/calendar?view=list&month=09&year=2026#showing-61904]
+ * 6:30 PM
+   COMBAT BREATHING: LABORING IMAGES, PART 1 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62119]
+ * 6:45 PM
+   MOMMY IS COMING [/film_screenings/calendar?view=list&month=10&year=2026#showing-62087]
+ * 8:15 PM
+   COMBAT BREATHING: LABORING IMAGES, PART 2: SICILIA! [/film_screenings/calendar?view=list&month=10&year=2026#showing-62121]
+ * 8:30 PM
+   KAMA SUTRA: A TALE OF LOVE [/film_screenings/calendar?view=list&month=10&year=2026#showing-62090]
 
 7
+ * 6:30 PM
+   MY NAME AIN’T SUZIE / FA GAI SI DOI [/film_screenings/calendar?view=list&month=10&year=2026#showing-62098]
+ * 7:30 PM
+   THE SECRET LIFE OF…ANTHOLOGY FILM ARCHIVES [/film_screenings/calendar?view=list&month=10&year=2026#showing-61997]
+ * 9:00 PM
+   SEDUCTION: THE CRUEL WOMAN [/film_screenings/calendar?view=list&month=10&year=2026#showing-62101]
+
 8
- * 7:00 PM
-   TRUE NORTH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61985]
+ * 6:30 PM
+   COMBAT BREATHING: READ MY DESIRE, PART 1 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62123]
+ * 7:30 PM
+   VIKA KIRCHENBAUER PGM 1 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62071]
+ * 8:15 PM
+   COMBAT BREATHING: READ MY DESIRE, PART 2 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62125]
 
 9
- * 6:45 PM
-   TEACH OUR CHILDREN + INSIDE WOMEN INSIDE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61857]
- * 7:15 PM
-   EC: EARTH / ZEMLYA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61905]
- * 8:30 PM
-   FROM SPIKES TO SPINDLES + FEI TIEN, GODDESS IN FLIGHT [/film_screenings/calendar?view=list&month=09&year=2026#showing-61860]
+ * 7:00 PM
+   VACANCES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62127]
+ * 7:30 PM
+   VIKA KIRCHENBAUER PGM 2 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62075]
 
 10
- * 6:30 PM
-   EC: THE PARSON’S WIDOW [/film_screenings/calendar?view=list&month=09&year=2026#showing-61906]
- * 6:45 PM
-   TO LOVE, HONOR, AND OBEY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61863]
- * 8:30 PM
-   NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRICA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61865]
- * 8:45 PM
-   EC: MICHAEL [/film_screenings/calendar?view=list&month=09&year=2026#showing-61907]
+ * 5:30 PM
+   VACANCES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62128]
+ * 7:30 PM
+   PLAYING WITH FIRE: AN ECOSEXUAL EMERGENCY [/film_screenings/calendar?view=list&month=10&year=2026#showing-62078]
+ * 8:00 PM
+   VACANCES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62129]
 
 11
- * 6:45 PM
-   WHO KILLED VINCENT CHIN? [/film_screenings/calendar?view=list&month=09&year=2026#showing-61873]
- * 7:30 PM
-   EC: THE PASSION OF JOAN OF ARC [/film_screenings/calendar?view=list&month=09&year=2026#showing-61908]
- * 9:00 PM
-   TEACH OUR CHILDREN + INSIDE WOMEN INSIDE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61858]
+ * 3:00 PM
+   WOMEN IN ANIMATION PGM 1: ANIMATED ANIMALS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62065]
+ * 4:00 PM
+   PLAYING WITH FIRE: AN ECOSEXUAL EMERGENCY [/film_screenings/calendar?view=list&month=10&year=2026#showing-62079]
+ * 5:30 PM
+   VACANCES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62130]
+ * 6:15 PM
+   VIKA KIRCHENBAUER PGM 1 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62073]
+ * 8:00 PM
+   VACANCES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62131]
+ * 8:15 PM
+   VIKA KIRCHENBAUER PGM 2 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62076]
 
 12
- * 4:45 PM
-   NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRICA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61866]
- * 6:00 PM
-   EC: VAMPYR [/film_screenings/calendar?view=list&month=09&year=2026#showing-61909]
- * 7:00 PM
-   HA HA SHANGHAI [/film_screenings/calendar?view=list&month=09&year=2026#showing-61876]
- * 8:00 PM
-   EC: DAY OF WRATH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61910]
-
 13
- * 5:00 PM
-   EC: ORDET [/film_screenings/calendar?view=list&month=09&year=2026#showing-61913]
  * 6:30 PM
-   FROM SPIKES TO SPINDLES + FEI TIEN, GODDESS IN FLIGHT [/film_screenings/calendar?view=list&month=09&year=2026#showing-61861]
- * 8:00 PM
-   EC: GERTRUD [/film_screenings/calendar?view=list&month=09&year=2026#showing-61914]
- * 8:30 PM
-   WHO KILLED VINCENT CHIN? [/film_screenings/calendar?view=list&month=09&year=2026#showing-61874]
+   VACANCES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62132]
+ * 7:00 PM
+   AVATARS: THE DOMINATRIX SLEEPS TONIGHT [/film_screenings/calendar?view=list&month=10&year=2026#showing-62095]
+ * 9:00 PM
+   VACANCES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62133]
+ * 9:15 PM
+   SEDUCTION: THE CRUEL WOMAN [/film_screenings/calendar?view=list&month=10&year=2026#showing-62102]
 
 14
+ * 7:00 PM
+   WOMEN IN ANIMATION PGM 2: ON BEING A WOMAN [/film_screenings/calendar?view=list&month=10&year=2026#showing-62067]
+
 15
  * 7:00 PM
-   DEUX FOIS [/film_screenings/calendar?view=list&month=09&year=2026#showing-61896]
- * 9:00 PM
-   EC: DAY OF WRATH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61911]
+   WOMEN IN ANIMATION PGM 3: SUNFLOWER LANE [/film_screenings/calendar?view=list&month=10&year=2026#showing-62069]
+ * 7:30 PM
+   NARROW ROOMS: LES FANTÔMES DU HARD + FISTULE [/film_screenings/calendar?view=list&month=10&year=2026#showing-61975]
 
 16
- * 6:30 PM
-   MY LAST INTERVIEW WITH ÉRIC ROHMER + GOUGNETTE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61898]
- * 7:30 PM
-   EC: DAY OF WRATH [/film_screenings/calendar?view=list&month=09&year=2026#showing-61912]
- * 8:30 PM
-   HOTEL NEW YORK [/film_screenings/calendar?view=list&month=09&year=2026#showing-61900]
+ * 6:45 PM
+   MULTI-MEDIA RESOURCE CENTER PGM 1: CONFESSIONS AND SEX HISTORIES [/film_screenings/calendar?view=list&month=10&year=2026#showing-62011]
+ * 8:45 PM
+   MULTI-MEDIA RESOURCE CENTER PGM 2: ACTIVE PARTNERS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62013]
 
 17
- * 7:00 PM
-   PERMANENT VACATION [/film_screenings/calendar?view=list&month=09&year=2026#showing-61902]
- * 7:30 PM
-   GO GO GO SLOW (book release event!) [/film_screenings/calendar?view=list&month=09&year=2026#showing-61983]
+ * 5:30 PM
+   EC: STRIKE [/film_screenings/calendar?view=list&month=10&year=2026#showing-61915]
+ * 5:45 PM
+   MULTI-MEDIA RESOURCE CENTER PGM 3: GAY LIBERATION ON 16MM [/film_screenings/calendar?view=list&month=10&year=2026#showing-62015]
+ * 8:00 PM
+   EC: BATTLESHIP POTEMKIN [/film_screenings/calendar?view=list&month=10&year=2026#showing-61916]
+ * 8:30 PM
+   MULTI-MEDIA RESOURCE CENTER PGM 4: WOMEN’S LIB [/film_screenings/calendar?view=list&month=10&year=2026#showing-62017]
 
 18
- * 7:00 PM
-   WORK IN PROGRESS / EN CONSTRUCCIÓN [/film_screenings/calendar?view=list&month=09&year=2026#showing-61955]
+ * 4:45 PM
+   EC: OLD AND NEW [/film_screenings/calendar?view=list&month=10&year=2026#showing-61917]
+ * 5:45 PM
+   MULTI-MEDIA RESOURCE CENTER PGM 5: BROUGHTON EC+ [/film_screenings/calendar?view=list&month=10&year=2026#showing-62019]
  * 7:30 PM
-   THE GLORIA OF YOUR IMAGINATION [/film_screenings/calendar?view=list&month=09&year=2026#showing-61946]
+   EC: OCTOBER [/film_screenings/calendar?view=list&month=10&year=2026#showing-61918]
+ * 8:00 PM
+   MULTI-MEDIA RESOURCE CENTER PGM 6: EROTIC FANTASY [/film_screenings/calendar?view=list&month=10&year=2026#showing-62021]
 
 19
- * 5:15 PM
-   THE GLORIA OF YOUR IMAGINATION [/film_screenings/calendar?view=list&month=09&year=2026#showing-61947]
- * 5:30 PM
-   MEISHI STREET [/film_screenings/calendar?view=list&month=09&year=2026#showing-61957]
- * 8:00 PM
-   NO OTHER LAND [/film_screenings/calendar?view=list&month=09&year=2026#showing-61959]
- * 8:15 PM
-   WHEN IT WAS BLUE [/film_screenings/calendar?view=list&month=09&year=2026#showing-61950]
+ * 7:00 PM
+   MULTI-MEDIA RESOURCE CENTER PGM 7: PATTERN FILMS, PART 1 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62023]
 
 20
- * 4:15 PM
-   IN VANDA’S ROOM / NO QUARTO DA VANDA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61962]
- * 5:15 PM
-   JENNIFER REEVES SHORT FILM PGM [/film_screenings/calendar?view=list&month=09&year=2026#showing-61952]
- * 7:45 PM
-   THE GLORIA OF YOUR IMAGINATION [/film_screenings/calendar?view=list&month=09&year=2026#showing-61948]
- * 8:00 PM
-   DEMOLITION / CHAIQIAN / 拆·迁 [/film_screenings/calendar?view=list&month=09&year=2026#showing-61965]
+ * 7:00 PM
+   MULTI-MEDIA RESOURCE CENTER PGM 8: PATTERN FILMS, PART 2 [/film_screenings/calendar?view=list&month=10&year=2026#showing-62025]
 
 21
  * 7:00 PM
-   STILL LIFE / 三峡好人 [/film_screenings/calendar?view=list&month=09&year=2026#showing-61968]
+   EC: IVAN THE TERRIBLE: PARTS 1 & 2 [/film_screenings/calendar?view=list&month=10&year=2026#showing-61919]
 
 22
- * 6:30 PM
-   RUBBLE ON SCREEN: SHORT FILM PGM [/film_screenings/calendar?view=list&month=09&year=2026#showing-61971]
  * 7:00 PM
-   VALENTIN NOUJAÏM PGM 1: VEILED STRUGGLES [/film_screenings/calendar?view=list&month=09&year=2026#showing-61990]
- * 8:30 PM
-   DEMOLITION / CHAIQIAN / 拆·迁 [/film_screenings/calendar?view=list&month=09&year=2026#showing-61966]
+   ROSALYN DREXLER: WHO DOES SHE THINK SHE IS? [/film_screenings/calendar?view=list&month=10&year=2026#showing-61994]
 
 23
- * 6:30 PM
-   NO OTHER LAND [/film_screenings/calendar?view=list&month=09&year=2026#showing-61960]
- * 7:00 PM
-   VALENTIN NOUJAÏM PGM 2: RE-TELLING [/film_screenings/calendar?view=list&month=09&year=2026#showing-61992]
- * 9:00 PM
-   STILL LIFE / 三峡好人 [/film_screenings/calendar?view=list&month=09&year=2026#showing-61969]
+ * 7:30 PM
+   THE TOXIC AVENGER [/film_screenings/calendar?view=list&month=10&year=2026#showing-62028]
 
 24
+ * 4:45 PM
+   THE BATTLE OF LOVE’S RETURN [/film_screenings/calendar?view=list&month=10&year=2026#showing-62031]
+ * 6:00 PM
+   FUGS FILM! [/film_screenings/calendar?view=list&month=10&year=2026#showing-62000]
  * 7:00 PM
-   IN VANDA’S ROOM / NO QUARTO DA VANDA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61963]
- * 7:30 PM
-   NARROW ROOMS: JERKER [/film_screenings/calendar?view=list&month=09&year=2026#showing-61973]
+   WAITRESS! [/film_screenings/calendar?view=list&month=10&year=2026#showing-62033]
+ * 8:30 PM
+   OUTRIDER [/film_screenings/calendar?view=list&month=10&year=2026#showing-62002]
+ * 9:30 PM
+   CLASS OF NUKE ‘EM HIGH [/film_screenings/calendar?view=list&month=10&year=2026#showing-62035]
 
 25
+ * 4:00 PM
+   TROMA’S WAR [/film_screenings/calendar?view=list&month=10&year=2026#showing-62038]
+ * 5:30 PM
+   IN THE MOMENT: WORLD POETRY DUELS AND IMPROVISATIONS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62004]
  * 6:30 PM
-   TONEY W. MERRITT PGM 1: PSYCHODRAMAS [/film_screenings/calendar?view=list&month=09&year=2026#showing-61927]
- * 6:45 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61878]
- * 8:30 PM
-   TONEY W. MERRITT PGM 2: VIGNETTES / MINIATURES [/film_screenings/calendar?view=list&month=09&year=2026#showing-61930]
+   SGT. KABUKIMAN NYPD [/film_screenings/calendar?view=list&month=10&year=2026#showing-62040]
+ * 7:30 PM
+   AZUL [/film_screenings/calendar?view=list&month=10&year=2026#showing-62006]
  * 9:00 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61879]
+   DEF BY TEMPTATION [/film_screenings/calendar?view=list&month=10&year=2026#showing-62043]
 
 26
- * 4:00 PM
-   TONEY W. MERRITT PGM 3: LATER WORK [/film_screenings/calendar?view=list&month=09&year=2026#showing-61933]
- * 4:30 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61882]
- * 6:00 PM
-   TONEY W. MERRITT PGM 2: VIGNETTES / MINIATURES [/film_screenings/calendar?view=list&month=09&year=2026#showing-61931]
- * 6:45 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61880]
+ * 6:30 PM
+   CANNIBAL! THE MUSICAL [/film_screenings/calendar?view=list&month=10&year=2026#showing-62046]
  * 9:00 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61881]
+   MOTHER’S DAY [/film_screenings/calendar?view=list&month=10&year=2026#showing-62049]
 
 27
- * 3:45 PM
-   BO HARWOOD RECORD RELEASE EVENT: THE KILLING OF A CHINESE BOOKIE [/film_screenings/calendar?view=list&month=09&year=2026#showing-62140]
- * 4:30 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61883]
  * 6:45 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61884]
- * 7:00 PM
-   TONEY W. MERRITT PGM 1: PSYCHODRAMAS [/film_screenings/calendar?view=list&month=09&year=2026#showing-61928]
- * 9:00 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61885]
+   TROMEO AND JULIET [/film_screenings/calendar?view=list&month=10&year=2026#showing-62051]
+ * 9:15 PM
+   BUGGED! [/film_screenings/calendar?view=list&month=10&year=2026#showing-62054]
 
 28
- * 6:45 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61886]
- * 9:00 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61887]
+ * 6:30 PM
+   CITIZEN TOXIE: THE TOXIC AVENGER IV [/film_screenings/calendar?view=list&month=10&year=2026#showing-62056]
+ * 7:00 PM
+   EL GUARDIÁN [/film_screenings/calendar?view=list&month=10&year=2026#showing-61979]
+ * 9:15 PM
+   #SHAKESPEARE’S SHITSTORM [/film_screenings/calendar?view=list&month=10&year=2026#showing-62059]
 
 29
- * 6:45 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61888]
- * 9:00 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61889]
+ * 7:00 PM
+   EC: THE FALL OF THE HOUSE OF USHER [/film_screenings/calendar?view=list&month=10&year=2026#showing-61920]
+ * 7:30 PM
+   TERROR FIRMER [/film_screenings/calendar?view=list&month=10&year=2026#showing-62061]
 
 30
- * 6:45 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61890]
+ * 6:30 PM
+   EC: NANOOK OF THE NORTH [/film_screenings/calendar?view=list&month=10&year=2026#showing-61921]
  * 7:00 PM
-   A HEART AS WILLING / LA CORAZONADA [/film_screenings/calendar?view=list&month=09&year=2026#showing-61977]
- * 9:00 PM
-   SCREAMPLAY [/film_screenings/calendar?view=list&month=09&year=2026#showing-61891]
+   CLASS OF NUKE ‘EM HIGH [/film_screenings/calendar?view=list&month=10&year=2026#showing-62036]
+ * 8:45 PM
+   EC: MAN OF ARAN [/film_screenings/calendar?view=list&month=10&year=2026#showing-61922]
+ * 9:15 PM
+   THE TOXIC AVENGER [/film_screenings/calendar?view=list&month=10&year=2026#showing-62029]
+
+31
+ * 4:00 PM
+   SGT. KABUKIMAN NYPD [/film_screenings/calendar?view=list&month=10&year=2026#showing-62041]
+ * 5:30 PM
+   EC: HOLLIS FRAMPTON [/film_screenings/calendar?view=list&month=10&year=2026#showing-61923]
+ * 6:45 PM
+   DEF BY TEMPTATION [/film_screenings/calendar?view=list&month=10&year=2026#showing-62044]
+ * 8:00 PM
+   EC: FRANJU / GENET [/film_screenings/calendar?view=list&month=10&year=2026#showing-61924]
+ * 9:15 PM
+   CANNIBAL! THE MUSICAL [/film_screenings/calendar?view=list&month=10&year=2026#showing-62047]
 
 NEW VISITOR CINEPHILES RESEARCHERS MORE
  * About [/about]

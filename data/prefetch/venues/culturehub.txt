@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-09-30T06:57:22.464Z
+FETCHED:2026-10-04T08:35:12.002Z
 
 CULTUREHUB [/]
 
@@ -23,14 +23,6 @@ EVENTS [/events]
 
 Events
 
-Sep 29
-[/events/garage-sale]
-Garage Sale [/events/garage-sale]
-
-Shop the CultureHub studio garage sale for used VR headsets, tablets, audio interfaces, lighting equipment, and more. Learn more → [/events/garage-sale]
-
-Read more → [/events/garage-sale]
-
 Oct 3
 [/events/sculpting-light-with-cyanotype]
 Sculpting Light with Cyanotype [/events/sculpting-light-with-cyanotype]
@@ -38,6 +30,14 @@ Sculpting Light with Cyanotype [/events/sculpting-light-with-cyanotype]
 A workshop with artist Ella Barnes that introduces an experimental approach to camera-less photography. Register [https://pools.events/t/gc-_hetl/]→ [https://culturehub.org/events/signal-and-story]
 
 Read more → [/events/sculpting-light-with-cyanotype]
+
+Oct 21
+[/events/expanded-cinema]
+Expanded Cinema: Working with the Materiality of Film and Image [/events/expanded-cinema]
+
+An introduction to expanded cinema and experimental approaches to the moving image with Lívia Sá. Register → [/events/expanded-cinema]
+
+Read more → [/events/expanded-cinema]
 
  
  

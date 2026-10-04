@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-09-30T06:57:32.948Z
+FETCHED:2026-10-04T08:35:19.005Z
 
 PRINTED MATTER, INC.
 
@@ -158,16 +158,6 @@ September 9 - November 29, 2026
 
 EventChelsea
 
-Melissa Auf der Maur: My ’90s Rock Photographs
-
-In conversation with Laia Garcia-Furtado
-
-October 1, 2026
-
-[/programs/events/2283]
-
-EventChelsea
-
 Matías Duville: Monitor Yin Yang
 
 Book Launch and Conversation
@@ -176,7 +166,7 @@ October 7, 2026
 
 [/programs/events/2277]
 
-Event
+EventChelsea
 
 Positions by K8 Hardy
 
@@ -222,7 +212,7 @@ October 28, 2026
 
 [/programs/events/2289]
 
-Event
+EventChelsea
 
 The Radical Unpresent — Gregory Sholette in conversation with Naeem Mohaiemen
 
@@ -230,15 +220,15 @@ November 5, 2026
 
 [/programs/events/2291]
 
-EventOffsite
+EventChelsea
 
-Five Cuts in Five Acts — Curated by Justine Kurland
+Melissa Auf der Maur: My ’90s Rock Photographs
 
-Featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, & Chen Xiangyun
+In conversation with Laia Garcia-Furtado
 
-September 27, 2026
+October 1, 2026
 
-[/programs/events/2290]
+[/programs/events/2283]
 
 EventOffsite
 
@@ -260,13 +250,13 @@ September 24 - 27, 2026
 
 EventOffsite
 
-Love Always
+Five Cuts in Five Acts — Curated by Justine Kurland
 
-Signing with Nontsikelelo Mutiti and Paul John
+Featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, & Chen Xiangyun
 
 September 27, 2026
 
-[/programs/events/2297]
+[/programs/events/2290]
 
 See all events [/programs/2-events]
 

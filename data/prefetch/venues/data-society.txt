@@ -1,6 +1,6 @@
 VENUE:data-society | Data & Society
 URL:https://datasociety.net/
-FETCHED:2026-09-30T06:57:22.321Z
+FETCHED:2026-10-04T08:35:11.765Z
 
 Skip to main content
 Search Search
@@ -72,6 +72,23 @@ Read more [https://datasociety.net/research-library/generative-ais-labor-impacts
 
 THE LATEST FROM DATA & SOCIETY
 
+https://datasociety.net/research-library/why-we-are-turning-a-worker-lens-on-the-ai-economy/
+
+WHY WE ARE TURNING A WORKER LENS ON THE AI ECONOMY
+
+[https://datasociety.net/research-library/why-we-are-turning-a-worker-lens-on-the-ai-economy/]
+It is critical to focus on the reality of how AI is playing out for workers: to interrogate in real time how AI is actually impacting them…
+ * labor [/research-library/?subject=labor]
+ * artificial intelligence [/research-library/?subject=artificial-intelligence]
+ * care industry [/research-library/?subject=care-industry]
+ * * economic justice [/research-library/?subject=economic-justice]
+   * economy [/research-library/?subject=economy]
+   * future of work [/research-library/?subject=future-of-work]
+   * home care services [/research-library/?subject=home-care-services]
+   * invisible labor [/research-library/?subject=invisible-labor]
+
+September 30, 2026
+Points
 https://datasociety.net/research-library/the-ai-factory-data-centers-power-and-resistance-in-late-industrial-pennsylvania/
 
 THE AI FACTORY: DATA CENTERS, POWER, AND RESISTANCE IN LATE INDUSTRIAL PENNSYLVANIA
@@ -84,30 +101,18 @@ Our research shows that data centers represent a lightning rod issue for broad, 
 
 September 21, 2026
 Report
-https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society
-
-WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
-
-[https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society]
-We explore how AI's role in classrooms is being shaped in New York City and beyond.
- * education [/research-library/?subject=education]
- * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * educational technology [/research-library/?subject=educational-technology]
- * * young people [/research-library/?subject=young-people]
-
-September 10, 2026
-Event
-https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/
+https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/
 
 POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
 
-[https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/]
+[https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/]
 Join the authors of "Muskism" and "Against Tech Oligarchy" to discuss the structural forces shaping tech and state power.
- * labor [/research-library/?subject=labor]
- * Silicon Valley [/research-library/?subject=silicon-valley]
- * technology industry [/research-library/?subject=technology-industry]
+ * labor [/news-events/?subject=labor]
+ * Silicon Valley [/news-events/?subject=silicon-valley]
+ * technology industry [/news-events/?subject=technology-industry]
 
-September 14, 2026
+October 7, 2026
+Event
 https://datasociety.net/research-library/our-new-research-and-policy-collection-governing-ai-agents/
 
 OUR NEW RESEARCH AND POLICY COLLECTION: GOVERNING AI AGENTS
@@ -245,6 +250,15 @@ See more [https://datasociety.net/public-tech-leadership-collaborative/]
 
 Read more about Public Technology Leadership Collaborative
 
+WORKER LENS ON THE AI ECONOMY
+
+Mapping the impacts of AI technologies on workers across industries, and identifying opportunities to expand their power.
+See more [https://datasociety.net/worker-lens-on-the-ai-economy/]
+
+----------------------------------------
+
+Read more about Worker Lens on the AI Economy
+
 EVENTS
 
 Featuring conversations that challenge the power and purpose of data-centric technologies and explore how they can advance the public interest.  
@@ -284,6 +298,40 @@ Explore full library [https://datasociety.net/research-library/] View Curated Co
 NEWS AND EVENTS
 
 All News and Events [https://datasociety.net/news-events/]
+News
+September 30, 2026
+
+NEW PROJECT FROM DATA & SOCIETY WILL TURN A WORKER LENS ON THE AI ECONOMY
+
+[https://datasociety.net/news-events/new-project-from-data-society-will-turn-a-worker-lens-on-the-ai-economy/]
+This timely, ambitious new program will identify and address the impacts of AI technologies on workers across five industries.
+ * artificial intelligence [/news-events/?subject=artificial-intelligence]
+ * care industry [/news-events/?subject=care-industry]
+ * economic justice [/news-events/?subject=economic-justice]
+ * * economy [/news-events/?subject=economy]
+   * future of work [/news-events/?subject=future-of-work]
+   * home care services [/news-events/?subject=home-care-services]
+   * invisible labor [/news-events/?subject=invisible-labor]
+   * labor [/news-events/?subject=labor]
+
+https://datasociety.net/news-events/new-project-from-data-society-will-turn-a-worker-lens-on-the-ai-economy/
+https://datasociety.net/news-events/new-project-from-data-society-will-turn-a-worker-lens-on-the-ai-economy/
+
+NEW PROJECT FROM DATA & SOCIETY WILL TURN A WORKER LENS ON THE AI ECONOMY
+
+[https://datasociety.net/news-events/new-project-from-data-society-will-turn-a-worker-lens-on-the-ai-economy/]
+This timely, ambitious new program will identify and address the impacts of AI technologies on workers across five industries.
+ * labor [/news-events/?subject=labor]
+ * artificial intelligence [/news-events/?subject=artificial-intelligence]
+ * care industry [/news-events/?subject=care-industry]
+ * * economic justice [/news-events/?subject=economic-justice]
+   * economy [/news-events/?subject=economy]
+   * future of work [/news-events/?subject=future-of-work]
+   * home care services [/news-events/?subject=home-care-services]
+   * invisible labor [/news-events/?subject=invisible-labor]
+
+September 30, 2026
+News
 Congressional letter
 September 17, 2026
 
@@ -307,54 +355,31 @@ Recent incidents concerning rogue AI agents committing cyberattacks have catalyz
 September 17, 2026
 Congressional letter
 Event
-July 28, 2026
+September 10, 2026
 
-THE LIMITS OF HUMAN OVERSIGHT IN THE AGE OF AI AGENTS
+WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
 
-[https://datasociety.net/research-library/the-limits-of-human-oversight-in-the-age-of-ai-agents/]
-Ranjit Singh, Samir Passi, Margaret Mitchell, and Madeleine Claire Elish discuss what builders and deployers must do to make oversight of AI agents meaningful.
- * AI agents [/research-library/?subject=ai-agents]
+[https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society]
+We explore how AI's role in classrooms is being shaped in New York City and beyond.
  * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
+ * education [/research-library/?subject=education]
+ * educational technology [/research-library/?subject=educational-technology]
+ * * young people [/research-library/?subject=young-people]
 
-https://datasociety.net/research-library/the-limits-of-human-oversight-in-the-age-of-ai-agents/
-https://datasociety.net/research-library/the-limits-of-human-oversight-in-the-age-of-ai-agents/
+https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society
+https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society
 
-THE LIMITS OF HUMAN OVERSIGHT IN THE AGE OF AI AGENTS
+WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
 
-[https://datasociety.net/research-library/the-limits-of-human-oversight-in-the-age-of-ai-agents/]
-Ranjit Singh, Samir Passi, Margaret Mitchell, and Madeleine Claire Elish discuss what builders and deployers must do to make oversight of AI agents…
- * AI agents [/research-library/?subject=ai-agents]
+[https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society]
+We explore how AI's role in classrooms is being shaped in New York City and beyond.
+ * education [/research-library/?subject=education]
  * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
+ * educational technology [/research-library/?subject=educational-technology]
+ * * young people [/research-library/?subject=young-people]
 
-July 28, 2026
+September 10, 2026
 Event
-Press
-September 14, 2026
-
-DEEPFAKES ARE WRECKING INFLUENCERS’ CREDIBILITY, ONE FAKE AD AT A TIME
-
-[https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility]
-“The reality is that platforms make a lot of money off scams,” Alice Marwick tells The Guardian.
- * accountability [/research-library/?subject=accountability]
- * influencers [/research-library/?subject=influencers]
- * scams [/research-library/?subject=scams]
-
-https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility
-https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility
-
-DEEPFAKES ARE WRECKING INFLUENCERS’ CREDIBILITY, ONE FAKE AD AT A TIME
-
-[https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility]
-“The reality is that platforms make a lot of money off scams,” Alice Marwick tells The Guardian.
- * scams [/research-library/?subject=scams]
- * accountability [/research-library/?subject=accountability]
- * influencers [/research-library/?subject=influencers]
-
-The Guardian
-September 14, 2026
-Press
 Article
 September 8, 2026
 

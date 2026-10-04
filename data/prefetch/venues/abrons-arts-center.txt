@@ -1,6 +1,6 @@
 VENUE:abrons-arts-center | Abrons Arts Center
 URL:https://abronsartscenter.org/
-FETCHED:2026-09-30T06:57:31.403Z
+FETCHED:2026-10-04T08:35:17.304Z
 
 Skip to Content
 
@@ -52,12 +52,6 @@ ALL EVENTS
 
 View All [/events]
 
-BROADWAY DOES PUNK
-
-OCTOBER 2–3, 2026
-
-[/programs/broadway-punk]
-
 FALL FESTIVAL 2026
 
 OCTOBER 17, 2026, 12–4PM
@@ -104,3 +98,9 @@ LIVE! ON GRAND: AUDITIONS 2026
 DECEMBER 4–5, 2026
 
 [/programs/live-on-grand-auditions2026]
+
+LIVE! ON GRAND: AN LES TALENT SHOW 2026
+
+DECEMBER 11–12, 2026
+
+[/programs/live-on-grand-an-les-talent-show2026]
