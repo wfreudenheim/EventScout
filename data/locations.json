@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-30T07:33:19.476Z"
+    "last_checked": "2026-10-04T07:29:27.940Z"
   },
   {
     "id": "anthology-film-archives",
@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-30T07:33:19.443Z"
+    "last_checked": "2026-10-04T07:29:27.950Z"
   },
   {
     "id": "e-flux",
@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-09-30T07:34:36.973Z"
+    "last_checked": "2026-10-04T07:29:28.600Z"
   },
   {
     "id": "do-not-research",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:34:36.918Z",
+    "last_checked": "2026-10-04T07:29:28.625Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -2483,7 +2483,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:34:14.720Z"
+    "last_checked": "2026-10-04T07:29:26.595Z"
   },
   {
     "id": "wave-farm",
@@ -2624,7 +2624,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:33:44.737Z"
+    "last_checked": "2026-10-04T07:29:26.606Z"
   },
   {
     "id": "data-society",
@@ -2673,7 +2673,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:33:44.754Z"
+    "last_checked": "2026-10-04T07:29:26.614Z"
   },
   {
     "id": "the-drift",
@@ -2768,7 +2768,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:33:44.782Z"
+    "last_checked": "2026-10-04T07:29:26.630Z"
   },
   {
     "id": "white-columns",
@@ -2791,7 +2791,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:33:44.797Z"
+    "last_checked": "2026-10-04T07:29:26.639Z"
   },
   {
     "id": "participant-inc",
@@ -2815,7 +2815,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:33:44.820Z"
+    "last_checked": "2026-10-04T07:29:26.655Z"
   },
   {
     "id": "recess-art",
@@ -2839,7 +2839,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:33:44.838Z"
+    "last_checked": "2026-10-04T07:29:27.266Z"
   },
   {
     "id": "amant",
@@ -2910,7 +2910,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:34:13.336Z"
+    "last_checked": "2026-10-04T07:29:27.289Z"
   },
   {
     "id": "harvestworks",
@@ -2981,7 +2981,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:34:13.370Z"
+    "last_checked": "2026-10-04T07:29:27.298Z"
   },
   {
     "id": "babycastles",
@@ -3100,7 +3100,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:34:13.395Z"
+    "last_checked": "2026-10-04T07:29:27.306Z"
   },
   {
     "id": "danspace-project",
@@ -3123,7 +3123,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:34:13.420Z"
+    "last_checked": "2026-10-04T07:29:27.315Z"
   },
   {
     "id": "chocolate-factory",
@@ -3169,7 +3169,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:34:13.434Z"
+    "last_checked": "2026-10-04T07:29:27.325Z"
   },
   {
     "id": "the-brick",
@@ -3471,7 +3471,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:33:19.347Z"
+    "last_checked": "2026-10-04T07:29:27.912Z"
   },
   {
     "id": "brooklyn-raga-massive",

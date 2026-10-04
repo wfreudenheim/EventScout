@@ -8876,5 +8876,165 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-04T07:25:09.868Z"
+  },
+  {
+    "id": "time-spans-2027-08-14-time-spans-2027-festival",
+    "title": "TIME:SPANS 2027 Festival",
+    "venue_id": "time-spans",
+    "venue_name": "TIME:SPANS Festival",
+    "date": "2027-08-14",
+    "description": "Annual festival dedicated to the presentation of 21st-century music, produced by the Earle Brown Music Foundation; program and ticket sales to be announced soon. Runs August 14-28, 2027.",
+    "url": "https://timespans.org/program/",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:29:26.579Z"
+  },
+  {
+    "id": "participant-inc-2026-12-19-the-janiken-dansen-show-starring-claywom",
+    "title": "The Janiken Dansen Show, starring Claywoman, Erin Markey, and more",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-12-19",
+    "time_start": "19:00",
+    "description": "A night of experimental downtown performance and cabaret starring Claywoman, Erin Markey, and others at Participant Inc.",
+    "url": "https://participantinc.org/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:29:26.643Z"
+  },
+  {
+    "id": "participant-inc-2026-12-20-the-janiken-dansen-show-starring-claywom",
+    "title": "The Janiken Dansen Show, starring Claywoman, Erin Markey, and more",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-12-20",
+    "time_start": "19:00",
+    "description": "A night of experimental downtown performance and cabaret starring Claywoman, Erin Markey, and others at Participant Inc.",
+    "url": "https://participantinc.org/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:29:26.644Z"
+  },
+  {
+    "id": "participant-inc-2026-11-18-tom-cole-chimes-a-monologue-with-harriet",
+    "title": "Tom Cole, \"Chimes: A Monologue\" with Harriet Clark",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-11-18",
+    "time_start": "19:00",
+    "description": "A reading and conversation featuring Tom Cole's monologue \"Chimes,\" with Harriet Clark, at Participant Inc.",
+    "url": "https://participantinc.org/",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:29:26.643Z"
+  },
+  {
+    "id": "recess-art-2026-10-03-khajistan-portal-test-day-one",
+    "title": "Khajistan Portal Test: Day One",
+    "venue_id": "recess-art",
+    "venue_name": "Recess",
+    "date": "2026-10-03",
+    "time_start": "13:00",
+    "time_end": "16:00",
+    "description": "An interactive event inviting visitors to test a 'portal' within The Khajistan Institute for Advanced Research and Necessary Development, Recess's speculative parafictional institute exhibition exploring surveillance, biotech, and transnational worldbuilding.",
+    "url": "https://www.recessart.org/events/607-khajistan-portal-test-day-one",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "worldbuilding"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Worldbuilding, speculative design, design fiction",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:29:27.252Z"
+  },
+  {
+    "id": "la-mama-2026-10-01-queer-new-york-international-arts-festiv",
+    "title": "Queer New York International Arts Festival {QNYIA}",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-10-01",
+    "description": "La MaMa's annual international queer performance festival, running October 1–11, 2026, presenting experimental theater and performance works by queer artists from around the world.",
+    "url": "http://lamama.org/queer-new-york-festival/",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:29:27.273Z"
+  },
+  {
+    "id": "film-forum-2026-10-30-citizen-ruth",
+    "title": "CITIZEN RUTH",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-30",
+    "description": "New theatrical run opens at Film Forum: Alexander Payne's 1996 satire CITIZEN RUTH, running through November 5.",
+    "url": "https://filmforum.org/film/citizen-ruth",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:29:27.922Z"
+  },
+  {
+    "id": "elsewhere-2026-10-28-elsewhere-presents-ak-chamel-market-hote",
+    "title": "Elsewhere Presents: Ak'chamel @ Market Hotel (w/ Ecology Homestones)",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-28",
+    "time_start": "19:00",
+    "description": "Elsewhere-presented show at Market Hotel featuring ritualistic experimental noise duo Ak'chamel, the Giver of Illness, with ecology-themed support act Ecology Homestones.",
+    "url": "https://www.elsewhere.club/presents/1991242313362",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "ecology",
+      "noise"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Climate & Environment",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-04T07:29:28.608Z"
   }
 ]
