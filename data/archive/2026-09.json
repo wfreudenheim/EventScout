@@ -8716,5 +8716,552 @@
     "source_agent": "aggregator:web-sweep",
     "status": "archived",
     "discovered_at": "2026-09-23T07:16:22.575Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-30-a-heart-as-willing-la-corazonada",
+    "title": "A Heart as Willing / La Corazonada",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-30",
+    "time_start": "19:00",
+    "description": "Repertory screening of the Latin American film A Heart as Willing / La Corazonada.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61977",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:16:17.544Z"
+  },
+  {
+    "id": "interference-archive-2026-09-30-an-unbreakable-human-thread",
+    "title": "An Unbreakable Human Thread",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-09-30",
+    "description": "Exhibition on the colonial history of Puerto Rico and the United States as an ongoing project of temporal looping and redress, on view at Interference Archive through September 30, 2026.",
+    "url": "https://interferencearchive.org/exhibition/an-unbreakable-human-thread/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:19:58.194Z"
+  },
+  {
+    "id": "center-for-architecture-2026-09-30-book-talk-restoration-by-carol-davis",
+    "title": "Book Talk: Restoration by Carol Davis",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-09-30",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Writer, archivist, and architecture researcher Carol Davis discusses her debut novel Restoration, in conversation with another author.",
+    "url": "https://calendar.aiany.org/2026/09/30/book-talk-restoration-by-carol-davis/",
+    "format": "talk",
+    "interest_score": 2.1,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:26:19.646Z"
+  },
+  {
+    "id": "interference-archive-2026-09-30-collections-work-party",
+    "title": "Collections Work Party",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-09-30",
+    "time_start": "18:30",
+    "description": "Hands-on processing session with Interference Archive's collections working group — organizing donations, cataloging, updating the online catalog. No experience necessary. Also Oct 28. 314 7th St, Brooklyn.",
+    "url": "https://interferencearchive.org/event/collections-work-party-21/",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-15T15:05:00.437Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-30-crosscuts-jacqueline-lentzou-and-marine-",
+    "title": "Crosscuts: Jacqueline Lentzou and Marine Atlan (NYFF64)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-30",
+    "time_start": "14:15",
+    "description": "A double bill of two audacious coming-of-age films: Marine Atlan's Cannes Critics' Week winner La Gradiva and Jacqueline Lentzou's A Day in the Life of Jo: Chapter Phaedra, at NYFF64.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.581Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-09-30-giorgio-griffa-paths-in-the-forest-the-n",
+    "title": "Giorgio Griffa: Paths in the Forest (The New Social Environment)",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-09-30",
+    "time_start": "13:00",
+    "description": "Curator Robert Wiesenberger and artist Kamrooz Aram join curator Matilde Guidelli-Guidi on Zoom to discuss 'Giorgio Griffa: Paths in the Forest' at the Clark Art Institute.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.649Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-30-godzilla-minus-zero-dolby-atmos-",
+    "title": "Godzilla Minus Zero (Dolby Atmos)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-30",
+    "time_start": "12:30",
+    "description": "NYFF64 limited-ticket screening of Godzilla Minus Zero presented in Dolby Atmos.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.579Z"
+  },
+  {
+    "id": "nitehawk-2026-09-30-jinsei",
+    "title": "Jinsei",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-09-30",
+    "description": "Written, directed, edited and entirely hand-drawn by newcomer Ryuya Suzuki, an anime tour-de-force screening as part of Anime After Dark.",
+    "url": "https://nitehawkcinema.com/",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-30T07:14:16.951Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-30-joy-of-joys-with-q-a",
+    "title": "Joy of Joys with Q&A",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-30",
+    "time_start": "18:00",
+    "description": "NYFF64 limited-ticket screening followed by a Q&A.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.579Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-30-joy-of-joys-extended-q-a-with-jonathan-g",
+    "title": "Joy of Joys: Extended Q&A with Jonathan Glazer, Mica Levi, and Rich Clarke",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-30",
+    "time_start": "18:00",
+    "description": "Extended Q&A following this documentary from director Jonathan Glazer (The Zone of Interest), shot partly by London schoolkids, capturing the recording of a War Child Records charity album at Abbey Road.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:19:53.624Z"
+  },
+  {
+    "id": "wonderville-2026-09-30-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-09-30",
+    "time_start": "20:00",
+    "description": "Open community play night for Killer Queen, the 10-player arcade cabinet game, at Wonderville's Brooklyn arcade.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-9-30-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:16:22.576Z"
+  },
+  {
+    "id": "poetry-project-2026-09-30-kyle-carrero-lopez-terrance-hayes",
+    "title": "Kyle Carrero Lopez + Terrance Hayes",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-09-30",
+    "time_start": "20:00",
+    "description": "Poetry reading at The Poetry Project, St. Mark's Church.",
+    "url": "https://www.poetryproject.org/events/kyle-carrero-lopez-terrance-hayes",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-15T15:13:23.689Z"
+  },
+  {
+    "id": "roulette-2026-09-30-larry-ochs-safe-havens-nate-wooley-s-mut",
+    "title": "Larry Ochs Safe Havens // Nate Wooley's Mutual Aid Music",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-09-30",
+    "time_start": "20:00",
+    "description": "Two ensembles create collective sound-worlds deeply rooted in the spirit of improvisation.",
+    "url": "https://roulette.org/event/nate-wooley-larry-ochs/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "experimental_music",
+      "Sound & Music"
+    ],
+    "source_agent": "tier3-claude",
+    "status": "archived",
+    "discovered_at": "2026-07-24T17:33:23.583Z"
+  },
+  {
+    "id": "barbes-2026-09-30-mamady-kouyate-s-mandingo-ambassadors",
+    "title": "Mamady Kouyate's Mandingo Ambassadors",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-09-30",
+    "time_start": "22:00",
+    "description": "Guinea's 1970s funk sound from one of the masters of the legendary Syliphone label.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:19:53.596Z"
+  },
+  {
+    "id": "roulette-2026-09-30-nate-wooley-s-mutual-aid-music-larry-och",
+    "title": "Nate Wooley's Mutual Aid Music // Larry Ochs Safe Havens",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-09-30",
+    "time_start": "20:00",
+    "description": "Two ensembles create collective sound-worlds rooted in the spirit of improvisation. Roulette.",
+    "url": "https://roulette.org/event/nate-wooley-larry-ochs/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Experimental Music & Sound",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-15T15:11:02.752Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-09-30-new-social-environment-1384-giorgio-grif",
+    "title": "New Social Environment #1384: Giorgio Griffa: Paths in the Forest",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-09-30",
+    "time_start": "13:00",
+    "description": "Curator Robert Wiesenberger and artist Kamrooz Aram discuss Giorgio Griffa: Paths in the Forest, on view at the Clark Art Institute, with curator Matilde Guidelli-Guidi.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.651Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-09-30-new-social-environment-giorgio-griffa-pa",
+    "title": "New Social Environment: Giorgio Griffa: Paths in the Forest",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-09-30",
+    "time_start": "13:00",
+    "description": "Curator Robert Wiesenberger and artist Kamrooz Aram join curator Matilde Guidelli-Guidi for a Zoom conversation on Giorgio Griffa: Paths in the Forest, on view at the Clark Art Institute.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:19:53.558Z"
+  },
+  {
+    "id": "cuny-graduate-center-2026-09-30-oscar-winning-short-film-two-people-exch",
+    "title": "Oscar-Winning Short Film, Two People Exchanging Saliva: Screening and Discussion",
+    "venue_id": "cuny-graduate-center",
+    "venue_name": "CUNY Graduate Center",
+    "date": "2026-09-30",
+    "time_start": "18:30",
+    "description": "Screening of the Academy Award-winning short by Natalie Musteata and Alexandre Singh, a satirical dystopian French-language film about repression, desire and surveillance, followed by a conversation with the filmmakers and CUNY faculty.",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Philosophy & critical theory",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.459Z"
+  },
+  {
+    "id": "cuny-graduate-center-2026-09-30-oscar-winning-short-film-two-people-exch",
+    "title": "Oscar-Winning Short Film, Two People Exchanging Saliva: Screening and Discussion",
+    "venue_id": "cuny-graduate-center",
+    "venue_name": "CUNY Graduate Center",
+    "date": "2026-09-30",
+    "time_start": "18:30",
+    "description": "A screening of the Academy Award-winning short film about repression, desire, and surveillance in a dystopian Paris, followed by a discussion with filmmakers Natalie Musteata and Alexandre Singh, and scholars Claire Bishop and Elizabeth Alsop.",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.459Z"
+  },
+  {
+    "id": "nyc-resistor-2026-09-30-pot-switch-build-a-6-voice-oscillator-sy",
+    "title": "Pot & Switch: Build a 6-voice oscillator synth from salvaged components",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-09-30",
+    "description": "A TWO-DAY workshop for building your own analog synthesizer in a small box or tin. E-waste gives each synth its own unique sound and style.",
+    "url": "https://www.eventbrite.com/e/pot-switch-build-a-6-voice-oscillator-synth-from-salvaged-components-tickets-1999714453762",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [
+      "synthesizer"
+    ],
+    "matched_categories": [
+      "Experimental Music & Sound",
+      "Hackerspaces & Creative Tech",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "archived",
+    "discovered_at": "2026-09-15T14:57:19.801Z"
+  },
+  {
+    "id": "columbia-science-society-2026-09-30-scott-knowles-the-united-states-of-disas",
+    "title": "Scott Knowles: The United States of Disaster: Disaster Science in America Since 2001",
+    "venue_id": "columbia-science-society",
+    "venue_name": "Columbia Center for Science and Society",
+    "date": "2026-09-30",
+    "time_start": "18:00",
+    "time_end": "19:30",
+    "description": "Scott Knowles traces the era of reaction-based federal disaster science funding launched after 9/11 and compounded by Hurricane Katrina.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.847Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-09-30-screamplay",
+    "title": "Screamplay",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-09-30",
+    "time_start": "18:45",
+    "description": "Repertory screening of the cult indie horror-mystery Screamplay at Anthology Film Archives, with an additional 9:00 PM showing.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61890",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening",
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-30T07:20:43.181Z"
+  },
+  {
+    "id": "terraza-7-2026-09-30-shusmo-arabic-latin-funk",
+    "title": "SHUSMO | Arabic Latin Funk",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-09-30",
+    "description": "SHUSMO blends Arabic maqam melodies with Latin funk grooves in two live sets, an interdisciplinary fusion of Middle Eastern and Latin American musical traditions.",
+    "url": "https://www.terraza7.com/detalles-y-registro/shusmo-arabic-latin-funk-first-set",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "maqam"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:30:05.810Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-09-30-talk-jacqueline-lentzou-marine-atlan",
+    "title": "Talk: Jacqueline Lentzou & Marine Atlan",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-09-30",
+    "time_start": "14:15",
+    "description": "Directors Jacqueline Lentzou (A Day in the Life of Jo: Chapter Phaedra) and Marine Atlan (La Gradiva) discuss their attunement to the frequencies of youth and idiosyncratic experiments with narrative.",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:19:53.624Z"
+  },
+  {
+    "id": "drom-2026-09-30-the-devil-i-knew-album-release-modern-so",
+    "title": "The Devil I Knew Album Release & Modern Songbook Society Scholarship Fundraiser",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-09-30",
+    "time_start": "18:30",
+    "description": "Grammy-winning jazz vocalist, pianist, composer and arranger Nicole Zuraitis celebrates her album release at DROM, with proceeds supporting a scholarship reception.",
+    "url": "https://dromnyc.com/event/its-the-devil-i-knew-album-release-modern-songbook-society-scholarship-fundraiser-reception/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:32:18.057Z"
+  },
+  {
+    "id": "amant-2026-09-30-the-infinity-speech-with-adelaide-cioni-",
+    "title": "The Infinity Speech with Adelaide Cioni (For Your Reference)",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-09-30",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "Performance lecture built around questions that may not have answers, moving between logic and nonsense — infinity, patterns, translation, the human condition. Opens Amant's Fall 2026 For Your Reference resident series. Géza, 306 Maujer.",
+    "url": "https://www.amant.org",
+    "price": "free",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [
+      "translation"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-15T14:55:26.268Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-09-30-victorian-hairwork-and-nineteenth-centur",
+    "title": "Victorian Hairwork and Nineteenth-Century Mourning Practice",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-09-30",
+    "time_start": "18:00",
+    "description": "Lecture by Karen Bachmann (FIT, Pratt) on hairwork and mourning material culture. BGC Lecture Hall.",
+    "url": "https://www.bgc.bard.edu",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2.5,
+    "tags": [
+      "material-culture"
+    ],
+    "matched_categories": [
+      "Science & Technology Studies",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-15T14:55:26.183Z"
   }
 ]
