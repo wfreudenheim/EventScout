@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "venue-agent",
-    "target_id": "verso-books",
-    "scrape_tier_used": 3,
-    "started_at": "2026-03-27T02:46:25.001Z",
-    "completed_at": "2026-03-27T02:46:25.001Z",
-    "events_found": 2,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "venue-agent",
     "target_id": "genspace",
     "scrape_tier_used": 3,
     "started_at": "2026-03-27T02:50:37.958Z",
@@ -4998,6 +4988,16 @@
     "started_at": "2026-10-04T08:35:09.683Z",
     "completed_at": "2026-10-04T08:35:09.683Z",
     "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-10-07T06:57:37.373Z",
+    "completed_at": "2026-10-07T06:57:37.373Z",
+    "events_found": 2,
     "events_new": 1,
     "status": "completed"
   }

@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-10-04T08:35:14.150Z
+FETCHED:2026-10-07T06:57:42.648Z
 
 Subscribe
 
@@ -222,6 +222,7 @@ Bar Laika by e-flux
 Archive
 
 In-person, Screenings, Talks
+Documentation
 /events/6783378/planetary-afterimages-after-the-short-century/
 
 Planetary Afterimages: After The Short Century
@@ -254,5 +255,5 @@ September 19, 2026, 3pm
 e-flux Screening Room
 Load more
 Advertisement
-/ads/redirect/6747214
-/ads/redirect/6747214
+/ads/redirect/6747213
+/ads/redirect/6747213

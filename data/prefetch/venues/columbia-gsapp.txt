@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-10-04T08:35:22.391Z
+FETCHED:2026-10-07T06:57:55.105Z
 
 /
  * The School
@@ -850,8 +850,8 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=26&month=9&time_range=week&year=2026 /events?day=12&month=10&time_range=week&year=2026
-Oct 4 – Oct 11
+/events?day=29&month=9&time_range=week&year=2026 /events?day=15&month=10&time_range=week&year=2026
+Oct 7 – Oct 14
 Week
 [/events?time_range=week]
 Month
@@ -859,23 +859,15 @@ Month
 Semester
 [/events?time_range=semester]
 
-Mon, Oct 5    6:30pm
+Today at 1pm
 
-THE DETLEF MERTINS LECTURE ON THE HISTORIES OF MODERNITY: Fatina Abreek-Zub
+Shuyi Yin: From Plot to Bit: How Records Shape Preservation
 
-Lecture
+Preservation Lecture Series
 
-[/events/4222-the-detlef-mertins-lecture-on-the-histories-of-modernity-fatina-abreek-zub]
+[/events/4286-shuyi-yin-from-plot-to-bit-how-records-shape-preservation]
 
-Tue, Oct 6    9am
-
-Virtual
-
-GSAPP Admissions Info Session
-
-[/events/4303-gsapp-admissions-info-session]
-
-Wed, Oct 7    6:30pm
+Today at 6:30pm
 
 Anarchitecture After Everything: A Trans Manifesto
 
@@ -898,3 +890,39 @@ THE LIBRARY IS OPEN 31: Dear Mazie,: Sanctuary, Speculation, and Sky
 Library is Open
 
 [/events/4271-the-library-is-open-31-dear-mazie-sanctuary-speculation-and-sky]
+
+Mon, Oct 12    6:30pm
+
+Works 1: The High Line
+
+Lecture
+
+[/events/4223-works-1-the-high-line]
+
+Tue, Oct 13    9am
+
+Tuesday Talks
+
+Alumni
+
+New York, Virtual
+
+[/events/4276-tuesday-talks]
+
+Tue, Oct 13    11am
+
+Virtual
+
+GSAPP Admissions Info Session
+
+[/events/4304-gsapp-admissions-info-session]
+
+Tue, Oct 13    1:30pm
+
+The Lecture in Planning Series (LiPS) Panel
+
+Lecture
+
+New York
+
+[/events/4343-the-lecture-in-planning-series-li-ps-panel]

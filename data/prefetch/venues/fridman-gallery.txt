@@ -1,6 +1,6 @@
 VENUE:fridman-gallery | Fridman Gallery
 URL:https://fridmangallery.com/
-FETCHED:2026-10-04T08:35:19.789Z
+FETCHED:2026-10-07T06:57:51.234Z
 
 FRIDMAN GALLERY [https://fridmangallery.com]
 
@@ -46,14 +46,14 @@ Save
 
 Subtotal $0.00
 Shipping, taxes, and discounts calculated at checkout.
-View my cart
+View cart
 [https://fridmangallery.com/cart/]
 Go to checkout
 [https://fridmangallery.com/checkout/]
 
-Your cart is currently empty!
+Your shopping cart is empty
 
-Start shopping
+Return to shop
 [https://fridmangallery.com/shop/]
 
 Loading Comments...

@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-10-04T08:35:12.002Z
+FETCHED:2026-10-07T06:57:41.015Z
 
 CULTUREHUB [/]
 
@@ -23,14 +23,6 @@ EVENTS [/events]
 
 Events
 
-Oct 3
-[/events/sculpting-light-with-cyanotype]
-Sculpting Light with Cyanotype [/events/sculpting-light-with-cyanotype]
-
-A workshop with artist Ella Barnes that introduces an experimental approach to camera-less photography. Register [https://pools.events/t/gc-_hetl/]→ [https://culturehub.org/events/signal-and-story]
-
-Read more → [/events/sculpting-light-with-cyanotype]
-
 Oct 21
 [/events/expanded-cinema]
 Expanded Cinema: Working with the Materiality of Film and Image [/events/expanded-cinema]
@@ -38,6 +30,14 @@ Expanded Cinema: Working with the Materiality of Film and Image [/events/expande
 An introduction to expanded cinema and experimental approaches to the moving image with Lívia Sá. Register → [/events/expanded-cinema]
 
 Read more → [/events/expanded-cinema]
+
+Oct 27
+[/events/a-room-of-our-own]
+a [room] of our own [/events/a-room-of-our-own]
+
+A workshop with Viola He using the Terminal and the command line to navigate and create on a shared computer. Register → [/events/a-rom-of-our-own]
+
+Read more → [/events/a-room-of-our-own]
 
  
  

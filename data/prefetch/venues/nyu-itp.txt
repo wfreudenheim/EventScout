@@ -1,6 +1,6 @@
 VENUE:nyu-itp | NYU ITP / IMA
 URL:https://tisch.nyu.edu/itp/events
-FETCHED:2026-10-04T08:35:10.529Z
+FETCHED:2026-10-07T06:57:38.686Z
 
 Skip to Navigation skip to main content
 
@@ -51,16 +51,16 @@ View All Weekly [/itp/events/_jcr_content/search.view-week-all]
  * Week [./?type=week]
  * All [./?type=all]
 
-Previous [./?type=all&date=2026-09-25] Next [./?type=all&date=2026-12-20]
+Previous [./?type=all&date=2026-09-29] Next [./?type=all&date=2026-12-20]
 
-FRIDAY, OCT. 2 2026
+TUESDAY, OCT. 6 2026
 
 Event Search Form
 Event Title Event Type All Event Types Conference Recruitment Academic Hackathon IMA Low Res Open Houses Show Speaker Workshop Search Search Event
 
-Previous [./?type=all&date=2026-09-25] Next [./?type=all&date=2026-12-20]
+Previous [./?type=all&date=2026-09-29] Next [./?type=all&date=2026-12-20]
 
-FRIDAY, OCT. 2 2026
+TUESDAY, OCT. 6 2026
 
 FRIDAY, DEC. 18, 2026
 

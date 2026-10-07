@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-10-04T08:35:26.210Z
+FETCHED:2026-10-07T06:57:58.257Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,69 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP10.04.2026
+TODAY’SLINEUP10.07.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+MAFALDA
+
+Mafalda
+
+10.03.2026
+
+Jazz, Downtempo, Soul, Experimental
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-03-1900]
+ *
+
+/shows/special-guests/2026-10-03-1900
+
+UNKNOWN - UNTITLED
+
+unknown - untitled
+
+10.03.2026
+
+Experimental Electronic, Techno, UK Garage, Breaks
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-03-1600]
+ *
+
+/shows/special-guests/2026-10-03-1600
+
+ELI VERVEINE
+
+Eli Verveine
+
+10.03.2026
+
+House, Techno
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-03-1500]
+ *
+
+/shows/special-guests/2026-10-03-1500
+
+DAN GHENACIA
+
+Dan Ghenacia
+
+10.02.2026
+
+House
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-02-1800]
+ *
+
+/shows/special-guests/2026-10-02-1800
 
 SUMMER SCHOOL RADIO WITH LOVIE
 
@@ -64,60 +120,6 @@ House
 
 /shows/special-guests/2026-09-28-1200
 
-ASL PRINCESS X BOBBY BEETHOVEN X DOULA
-
-ASL Princess, Doula, Bobby Beethoven
-
-09.27.2026
-
- * Play
- * Detail [/shows/special-guests/2026-09-27-2200]
- *
-
-/shows/special-guests/2026-09-27-2200
-
-JENNIFER LOVELESS
-
-Jennifer Loveless
-
-09.26.2026
-
-Downtempo, Ambient, Electronica, Trip Hop, House
-
- * Play
- * Detail [/shows/special-guests/2026-09-26-1700]
- *
-
-/shows/special-guests/2026-09-26-1700
-
-COLOMBIAN DRONE MAFIA
-
-Colombian Drone Mafia
-
-09.26.2026
-
-Ambient, Techno, Dubstep, IDM, Dub
-
- * Play
- * Detail [/shows/special-guests/2026-09-26-1500]
- *
-
-/shows/special-guests/2026-09-26-1500
-
-FUTURE SOUND OF NATURE CLIMATE WEEK SPECIAL
-
-Eli Goldstein
-
-09.25.2026
-
-Electronica, Ambient, New Age, House, Funk
-
- * Play
- * Detail [/shows/special-guests/2026-09-25-1300]
- *
-
-/shows/special-guests/2026-09-25-1300
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
@@ -127,39 +129,39 @@ All artists [/artists]
  * Andi
    R
    [/artists/andi]
- * Amourette
+ * Vito
    R
-   [/artists/amourette]
- * Kristine Barilli
+   [/artists/vito]
+ * Timo Ellis
    R
-   [/artists/kristine-barilli]
- * Max In The World
+   [/artists/timo-ellis]
+ * Dave Stringer Hughes
    R
-   [/artists/max-in-the-world]
- * Dull Tools
+   [/artists/dave-stringer-hughes]
+ * Millz 'El Negro Mezclador'
    R
-   [/artists/dull-tools]
- * True Panther
+   [/artists/millz-el-negro-mezclador]
+ * YOUNGBLOODS
    R
-   [/artists/true-panther]
- * Ryan Schreiber
+   [/artists/youngbloods]
+ * Ben Hixon
    R
-   [/artists/ryan-schreiber]
- * Yibing
+   [/artists/ben-hixon]
+ * Nazuk
    R
-   [/artists/yibing]
- * DJ Shannon
+   [/artists/nazuk]
+ * RAPRAVE
    R
-   [/artists/dj-shannon]
- * Planet B
+   [/artists/raprave]
+ * Joy Guidry
    R
-   [/artists/planet-b]
- * Russell E. L. Butler
+   [/artists/joy-guidry]
+ * LISAS
    R
-   [/artists/russell-e-l-butler]
- * Heathered Pearls
+   [/artists/lisas]
+ * Model/Actriz
    R
-   [/artists/heathered-pearls]
+   [/artists/model/actriz]
 
 WE ARE THE LOT RADIO
 
@@ -173,37 +175,27 @@ About us [/about]
    RESTREAM
 
  * 10am — 12pm
-   misc. with DJ Tara
+   Oblique Slice with Will Shore
 
- * 12pm — 2pm
-   Think Outside The Kiosk from New York City to Brussels
-   Electronica, Ambient, House, Rap, Jazz
- * 2pm — 3pm
-   Special Instructions with Ella Hussle
+ * 12pm — 1pm
+   ETHERNET invites Franki Chan
+
+ * 1pm — 3pm
+   House of Diggs with Dee Diggs b2b Ashley Younniä
 
  * 3pm — 4pm
-   Titonton Duvanté (Residual Recordings)
+   Supernova Vibes with TheStamma & Runkus
 
- * 4pm — 5pm
-   Three6sashia
-   Lo-fi, Spoken Word
- * 5pm — 6pm
-   Gbar
-   on 10/18House, Techno, Acid, Trance
- * 6pm — 7pm
-   NIGHT MIMOSA with Ted McGrath
+ * 4pm — 6pm
+   Nothing in Moderation with DJ Voices
 
- * 7pm — 8pm
-   Palestine Forever with GENG PTP b2b Dis Fig
-   Experimental Electronic, Ambient, Downtempo, Trip Hop, IDM
- * 8pm — 9pm
-   Softgel Sunday
+ * 6pm — 8pm
+   Magic City with Jubilee
 
- * 9pm — 10pm
-   Ritual Signal with Kamran Sadeghi
+ * 8pm — 10pm
+   PART TIME PUNK WITH J. RUSS
 
- * 10pm — 12am
-   Club Moment
-   House, Techno
+ * 10pm — 11pm
+   Nathalie Duchene
 
 THE LOT RADIO

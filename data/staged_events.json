@@ -9059,5 +9059,28 @@
     "source_agent": "tier2-scraper",
     "status": "staged",
     "discovered_at": "2026-10-04T08:35:09.672Z"
+  },
+  {
+    "id": "union-docs-2026-10-22-the-lost-season",
+    "title": "The Lost Season",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-10-22",
+    "time_start": "19:30",
+    "time_end": "19:30",
+    "description": "<p>Explore the uncanny terrain between documentary and speculative fiction. </p>\\n",
+    "url": "https://uniondocs.org/event/the-lost-season-2026-10-22/",
+    "price": "$10",
+    "format": "other",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "tier2-scraper",
+    "status": "staged",
+    "discovered_at": "2026-10-07T06:57:37.299Z"
   }
 ]

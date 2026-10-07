@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-10-04T08:35:21.290Z
+FETCHED:2026-10-07T06:57:53.087Z
 
 Index [/]
 
@@ -69,23 +69,13 @@ Learn More [/nodes]
 
 FILTER
 All EventsGreenpointChinatown
- * Creative Technology Show and Tell [/programming/creative-technology-show-and-tell-evt-kmsgDjNoyBQyTNn?view=list]
-
-   CREATIVE TECHNOLOGY SHOW AND TELL
-
-   Tuesday, Oct 6, 2026
-
-   Hosted by Rubiat Fusigboye [https://luma.com/user/usr-UAESXCpdD4th7L5]
-
-   Presented by Index Chinatown
-
  * Poetry & Produce [/programming/poetry-produce-evt-ky2WkK0N6H4zxy5?view=list]
 
    POETRY & PRODUCE
 
    Sunday, Oct 11, 2026
 
-   Hosted by Index [https://luma.com/user/usr-LvASHhwrum7Bp3P]
+   Hosted by kyle [https://luma.com/user/usr-zlEmdFk9q13WEBr]
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
 
@@ -115,7 +105,17 @@ All EventsGreenpointChinatown
 
    Sunday, Oct 18, 2026
 
-   Hosted by Sam Heckle [https://luma.com/user/usr-35TJkIML0HkfElC]
+   Hosted by sam [https://luma.com/user/usr-6kDe3yTTC0jc2lU]
+
+   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
+
+ * Look & Feel [/programming/look-feel-evt-iVtNFmberU8VSV7?view=list]
+
+   LOOK & FEEL
+
+   Thursday, Oct 22, 2026
+
+   Hosted by Rahmi Halaby [https://luma.com/user/usr-a60WBT7PoLX4sYz]
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
 

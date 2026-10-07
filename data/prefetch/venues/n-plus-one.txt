@@ -1,6 +1,6 @@
 VENUE:n-plus-one | n+1 Magazine
 URL:https://www.nplusonemag.com/
-FETCHED:2026-10-04T08:35:21.117Z
+FETCHED:2026-10-07T06:57:52.509Z
 
 https://www.nplusonemag.com/subscribe/?affid=hero
 https://www.nplusonemag.com/magazine/issue-54 Current Issue
@@ -126,6 +126,12 @@ Issue 54 Power Play
 [https://www.nplusonemag.com/issue-54/fiction-drama/the-parties/]
 card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
 Online Only
+ * EV Listening
+ * William Harris
+
+[https://www.nplusonemag.com/online-only/online-only/ev-listening/]
+card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
+Online Only
  * Last Week in End Times Cinema
  * A. S. Hamrah, Will Tavlin
 
@@ -145,15 +151,6 @@ Online Only
  * Grace Glass
 
 [https://www.nplusonemag.com/online-only/online-only/the-freedom-of-the-weasel/]
-card-event flavor-home-flow type-online-only term-events format-pullquote tax-online-only featured-
-
-The Municipal Sublime
-
- * OCT 16
-   2026
- * Archtober in New York
-
-[https://www.nplusonemag.com/online-only/events/the-municipal-sublime/]
 
 BOOKSTORE [http://shop.nplusonemag.com/]
 
@@ -183,21 +180,21 @@ $25.00
 
 [https://shop.nplusonemag.com/products/the-twentieth-anniversary-tote]
 Browse the Shop [http://shop.nplusonemag.com/]
+card-event flavor-home-flow type-online-only term-events format-pullquote tax-online-only featured-
+
+The Municipal Sublime
+
+ * OCT 16
+   2026
+ * Archtober in New York
+
+[https://www.nplusonemag.com/online-only/events/the-municipal-sublime/]
 card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
 Online Only
  * The Hi-Neighbor! Mayor
  * Dennis M. Hogan
 
 [https://www.nplusonemag.com/online-only/online-only/the-hi-neighbor-mayor/]
-card-event flavor-home-flow type-online-only term-events format-pullquote tax-online-only featured-
-
-Laura Kolbe and Patricia Lockwood in conversation
-
- * OCT 10
-   2026
- * Poetry in Greenpoint
-
-[https://www.nplusonemag.com/online-only/events/laura-kolbe-and-patricia-lockwood-in-conversation/]
 
 WATER WORLD
 

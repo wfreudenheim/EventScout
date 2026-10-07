@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-10-04T08:35:23.627Z
+FETCHED:2026-10-07T06:57:55.523Z
 
 Skip to Content
 
@@ -15,7 +15,6 @@ SLIDESHOW
  * https://filmforum.org/film/unzipped-2026
  * https://filmforum.org/film/you-had-to-be-there
  * https://filmforum.org/film/filipinana
- * https://filmforum.org/film/the-adventures-of-prince-achmed-ffjr-2026
  *
  * https://filmforum.org/film/my-undesirable-friends-part-ii-exile
  * https://filmforum.org/film/the-princess-bride-ffjr-2026
@@ -59,104 +58,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
- * SUN
- * MON
- * TUE
  * WED
  * THU
  * FRI
  * SAT
-
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-THE ADVENTURES OF PRINCE ACHMED [https://filmforum.org/film/the-adventures-of-prince-achmed-ffjr-2026]
-11:00
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:30 2:15 4:00 5:45 7:30 9:15
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-12:15(OC) 2:20 4:25 6:30 8:35
-
-YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
-1:00(OC) 6:10
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-3:45 8:25
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-A GENERATION [https://filmforum.org/film/a-generation-wajda-100]
-12:40
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-KANAŁ [https://filmforum.org/film/kanal-wajda-100]
-2:40
-
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.]
-ASHES AND DIAMONDS [https://filmforum.org/film/ashes-and-diamonds-wajda-100]
-4:50
-
-THE WOMEN [https://filmforum.org/film/the-women]
-7:00
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:30 2:15 4:00 5:45 7:30 9:15
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-12:15 2:20 4:25 6:30(OC) 8:35
-
-YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
-1:00(OC) 6:10
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-3:45 8:25
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-ASHES AND DIAMONDS [https://filmforum.org/film/ashes-and-diamonds-wajda-100]
-12:30
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-LOTNA [https://filmforum.org/film/lotna-wajda-100]
-2:40
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE WEDDING [https://filmforum.org/film/the-wedding-wajda-100]
-6:00
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-ROUGH TREATMENT (WITHOUT ANESTHESIA) [https://filmforum.org/film/rough-treatment-without-anesthesia-wajda-100]
-8:10
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:30 2:15 4:00 5:45 7:30 9:15
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-12:15(OC) 2:20 4:25 6:30 8:35
-
-YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
-1:00 6:10(OC)
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-3:45 8:25
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-KANAŁ [https://filmforum.org/film/kanal-wajda-100]
-12:15
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-EVERYTHING FOR SALE [https://filmforum.org/film/everything-for-sale-wajda-100]
-2:20
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-INNOCENT SORCERERS [https://filmforum.org/film/innocent-sorcerers-wajda-100]
-4:30
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-KATYŃ [https://filmforum.org/film/katyn-wajda-100]
-8:35
-
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
-DEATH WISH [https://filmforum.org/film/death-wish-nyc-in-transit]
-6:30
+ * SUN
+ * MON
+ * TUE
 
 UNZIPPED [https://filmforum.org/film/unzipped-2026]
 12:30 2:15 4:00 5:45 7:30 9:15
@@ -192,7 +100,7 @@ UNZIPPED [https://filmforum.org/film/unzipped-2026]
 THE SCOUT [https://filmforum.org/film/the-scout]
 12:15 2:20 4:25 6:30 8:35
 
-YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
+Ends Today!YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
 1:00 6:10
 
 FILIPIÑANA [https://filmforum.org/film/filipinana]
@@ -214,9 +122,149 @@ ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 KORCZAK [https://filmforum.org/film/korczak-wajda-100]
 8:00
 
-Showtimes coming soon!
+Opens Today!MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:15 7:15
 
-Showtimes coming soon!
+Opens Today!MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+4:00
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:50 2:40 4:30 6:20 8:10
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+1:00 6:00
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+3:20 8:10
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+KORCZAK [https://filmforum.org/film/korczak-wajda-100]
+1:00
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+DANTON [https://filmforum.org/film/danton-wajda-100]
+3:30
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+MAN OF MARBLE [https://filmforum.org/film/man-of-marble-wajda-100]
+6:30
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:15 7:35
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+4:00
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:50 2:40(OC) 4:30 6:20 8:10
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+1:00(OC) 6:00
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+3:20 8:10
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+MAN OF MARBLE [https://filmforum.org/film/man-of-marble-wajda-100]
+1:00
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+MAN OF IRON [https://filmforum.org/film/man-of-iron-wajda-100]
+4:15
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+WALESA: MAN OF HOPE [https://filmforum.org/film/walesa-man-of-hope-wajda-100]
+7:20
+
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+THE PRINCESS BRIDE [https://filmforum.org/film/the-princess-bride-ffjr-2026]
+11:00 11:05
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:15 7:35
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+4:00
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:50 2:40 4:30(OC) 6:20 8:10
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+1:15(OC) 6:15
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+3:35 8:25
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+MAN OF MARBLE [https://filmforum.org/film/man-of-marble-wajda-100]
+1:10
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+THE PROMISED LAND [https://filmforum.org/film/the-promised-land-wajda-100]
+4:20
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+EVERYTHING FOR SALE [https://filmforum.org/film/everything-for-sale-wajda-100]
+7:40
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+1:00 6:30
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:50 2:40(OC) 4:30 6:20 8:10
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+1:00 6:00(OC)
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+3:20 8:10
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+A GENERATION [https://filmforum.org/film/a-generation-wajda-100]
+12:20
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+KANAŁ [https://filmforum.org/film/kanal-wajda-100]
+2:20
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+ASHES AND DIAMONDS [https://filmforum.org/film/ashes-and-diamonds-wajda-100]
+4:30
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+AFTERIMAGE [https://filmforum.org/film/afterimage-wajda-100]
+6:40
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+LOTNA [https://filmforum.org/film/lotna-wajda-100]
+8:50
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+4:00 7:20
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:50 2:40 4:30 6:20 8:10(OC)
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+1:00 6:00
+
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+3:20 8:10
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+THE PROMISED LAND [https://filmforum.org/film/the-promised-land-wajda-100]
+1:00
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+KORCZAK [https://filmforum.org/film/korczak-wajda-100]
+4:30
+
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
+GLORIA [https://filmforum.org/film/gloria-nyc-in-transit]
+7:00
 
 Donate [https://donate.filmforum.org/give/]
 
@@ -236,12 +284,6 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-THE WOMEN (1939)
-POST-FILM CONVERSATION WITH AUTHOR AND ACTRESS ILLEANA DOUGLAS AND FILM FORUM REPERTORY ARTISTIC DIRECTOR BRUCE GOLDSTEIN [https://filmforum.org/events/event/the-women-october-4]
-
-Sunday, October 4
-7:00
-
 MY UNDESIRABLE FRIENDS:
 PART II – EXILE
 INTRODUCTION BY FILMMAKER JULIA LOKTEV [https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-october-9]
@@ -256,6 +298,14 @@ Q&A WITH FILMMAKER JULIA LOKTEV AND SUBJECTS IRINA DOLININA, KSENIA MIRONOVA, & 
 
 Chapters 4-5
 Saturday, October 10
+4:00
+
+MY UNDESIRABLE FRIENDS:
+PART II – EXILE
+Q&A WITH FILMMAKER JULIA LOKTEV AND SUBJECTS KSENIA MIRONOVA & VALERIA RATNIKOVA [https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-october-11]
+
+Chapters 4-5
+Sunday, October 11
 4:00
 
 GET EMAIL NEWS
@@ -273,94 +323,36 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-THE ADVENTURES OF PRINCE ACHMED [https://filmforum.org/film/the-adventures-of-prince-achmed-ffjr-2026]
-11:00
-
 UNZIPPED [https://filmforum.org/film/unzipped-2026]
 12:30 2:15 4:00 5:45 7:30 9:15
 
 THE SCOUT [https://filmforum.org/film/the-scout]
-12:15(OC) 2:20 4:25 6:30 8:35
+12:15 2:20 4:25 6:30 8:35
 
 YOU HAD TO BE THERE [https://filmforum.org/film/you-had-to-be-there]
-1:00(OC) 6:10
+1:00 6:10
 
 FILIPIÑANA [https://filmforum.org/film/filipinana]
 3:45 8:25
 
 ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-A GENERATION [https://filmforum.org/film/a-generation-wajda-100]
-12:40
+ROUGH TREATMENT (WITHOUT ANESTHESIA) [https://filmforum.org/film/rough-treatment-without-anesthesia-wajda-100]
+1:00
 
 ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-KANAŁ [https://filmforum.org/film/kanal-wajda-100]
-2:40
+KORCZAK [https://filmforum.org/film/korczak-wajda-100]
+3:40
 
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.]
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+DANTON [https://filmforum.org/film/danton-wajda-100]
+6:10
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 ASHES AND DIAMONDS [https://filmforum.org/film/ashes-and-diamonds-wajda-100]
-4:50
-
-THE WOMEN [https://filmforum.org/film/the-women]
-7:00
+9:00
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
-https://filmforum.org/film/the-women
-George Cukor’s
-THE WOMEN [https://filmforum.org/film/the-women]
-
-Sunday, October 4
-7:00
-
-Buy Tickets [https://my.filmforum.org/the-women-illeana]
-https://filmforum.org/series/andrzej-wajda-100#now-playing
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100#now-playing]
-
-Friday, October 2 – Thursday, October 22
-
-Films in this Series A GENERATION KANAŁ ASHES AND DIAMONDS LOTNA INNOCENT SORCERERS THE WEDDING ROUGH TREATMENT (WITHOUT ANESTHESIA) EVERYTHING FOR SALE KATYŃ KORCZAK DANTON MAN OF MARBLE MAN OF IRON WALESA: MAN OF HOPE THE PROMISED LAND AFTERIMAGE THE BIRCH WOOD THE MAIDS OF WILKO THE CONDUCTOR LANDSCAPE AFTER BATTLE SIBERIAN LADY MACBETH SAMSON THE ASHES A CHRONICLE OF AMOROUS ACCIDENTS SWEET RUSH
-Watch Trailer [https://filmforum.org/series/andrzej-wajda-100#trailer]
-https://filmforum.org/film/the-scout
-THE SCOUT [https://filmforum.org/film/the-scout]
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/the-scout] Watch Trailer [https://filmforum.org/film/the-scout#trailer]
-https://filmforum.org/film/unzipped-2026
-Isaac Mizrahi in
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-
-HELD OVER THROUGH THURSDAY, OCTOBER 8
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer [https://filmforum.org/film/unzipped-2026#trailer]
-https://filmforum.org/film/you-had-to-be-there
-YOU HAD TO BE THERE:
-HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
-
-ENDS SOON
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/you-had-to-be-there] Watch Trailer [https://filmforum.org/film/you-had-to-be-there#trailer]
-https://filmforum.org/film/filipinana
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-
-ENDS SOON
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/filipinana] Watch Trailer [https://filmforum.org/film/filipinana#trailer]
-https://filmforum.org/series/film-forum-jr.-series-page#now-playing
-FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
-
-THE ADVENTURES OF PRINCE ACHMED
-Sunday, October 4
-11:00
-
-Films in this Series Lotte Reiniger’s
-THE ADVENTURES OF PRINCE ACHMED (1926) Rob Reiner’s
-THE PRINCESS BRIDE SPY KIDS Tim Burton’s
-CORPSE BRIDE Pixar’s
-COCO The Red Balloon Danny Kaye in
-THE COURT JESTER Morris Engel & Ruth Orkin’s
-LITTLE FUGITIVE Walt Disney’s
-PINOCCHIO Ingrid Bergman & Bing Crosby in
-THE BELLS OF ST. MARY’S Nancy Meyers’
-THE PARENT TRAP
 https://filmforum.org/series/nyc-in-transit#now-playing
 NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
 
@@ -375,6 +367,55 @@ CARLITO’S WAY Robert De Niro’s
 A BRONX TALE Samuel Fuller’s
 PICKUP ON SOUTH STREET Amir Naderi’s
 MANHATTAN BY NUMBERS
+https://filmforum.org/series/andrzej-wajda-100#now-playing
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100#now-playing]
+
+Friday, October 2 – Thursday, October 22
+
+Films in this Series KANAŁ EVERYTHING FOR SALE INNOCENT SORCERERS KATYŃ ROUGH TREATMENT (WITHOUT ANESTHESIA) KORCZAK DANTON ASHES AND DIAMONDS THE WEDDING LOTNA MAN OF MARBLE MAN OF IRON WALESA: MAN OF HOPE THE PROMISED LAND A GENERATION AFTERIMAGE THE BIRCH WOOD THE MAIDS OF WILKO THE CONDUCTOR LANDSCAPE AFTER BATTLE SIBERIAN LADY MACBETH SAMSON THE ASHES A CHRONICLE OF AMOROUS ACCIDENTS SWEET RUSH
+Watch Trailer [https://filmforum.org/series/andrzej-wajda-100#trailer]
+https://filmforum.org/film/the-scout
+THE SCOUT [https://filmforum.org/film/the-scout]
+
+ENDS SOON
+
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/the-scout] Watch Trailer [https://filmforum.org/film/the-scout#trailer]
+https://filmforum.org/film/unzipped-2026
+Isaac Mizrahi in
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+
+HELD OVER THROUGH THURSDAY, OCTOBER 15
+
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer [https://filmforum.org/film/unzipped-2026#trailer]
+https://filmforum.org/film/you-had-to-be-there
+YOU HAD TO BE THERE:
+HOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION… [https://filmforum.org/film/you-had-to-be-there]
+
+MUST END THURSDAY, OCTOBER 8
+
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/you-had-to-be-there] Watch Trailer [https://filmforum.org/film/you-had-to-be-there#trailer]
+https://filmforum.org/film/filipinana
+FILIPIÑANA [https://filmforum.org/film/filipinana]
+
+MUST END THURSDAY, OCTOBER 15
+
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/filipinana] Watch Trailer [https://filmforum.org/film/filipinana#trailer]
+https://filmforum.org/series/film-forum-jr.-series-page#now-playing
+FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
+
+THE PRINCESS BRIDE
+Sunday, October 11
+11:00   11:05
+
+Films in this Series Rob Reiner’s
+THE PRINCESS BRIDE SPY KIDS Tim Burton’s
+CORPSE BRIDE Pixar’s
+COCO The Red Balloon Danny Kaye in
+THE COURT JESTER Morris Engel & Ruth Orkin’s
+LITTLE FUGITIVE Walt Disney’s
+PINOCCHIO Ingrid Bergman & Bing Crosby in
+THE BELLS OF ST. MARY’S Nancy Meyers’
+THE PARENT TRAP
 
 COMING SOON [https://filmforum.org/coming_soon]
 
@@ -406,6 +447,23 @@ WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
 
 Friday, October 23 – Thursday, October 29
 
+Films in this Series SYMBIOPSYCHOTAXIPLASM: TAKE ONE NATIONTIME FROM THESE ROOTS
+and BLACK POWER IN AMERICA: MYTH… OR REALITY? LOST BOUNDARIES PROFILE OF A PROBLEM DRINKER, PUTTING IT STRAIGHT,
+and SMOKE AND WEATHER SOULS OF SIN STILL A BROTHER:
+INSIDE THE NEGRO MIDDLE CLASS
+and IN THE COMPANY OF MEN THE FIRST WORLD FESTIVAL OF NEGRO ARTS,
+FROM THESE ROOTS,
+and WEALTH OF A NATION MIRACLE IN HARLEM THE COLORED HARVEST,
+BLOOD AND FIRE,
+and EMERGENCY WARD RALPH BUNCHE: AN AMERICAN ODYSSEY SYMBIOPSYCHOTAXIPLASM: TAKE 2½ IN THE COMPANY OF MEN
+and WEALTH OF A NATION YOU’VE GOT A NUMBER
+and THE DEEP NORTH VOICE OF LA RAZA
+and THE FIRST WORLD FESTIVAL OF NEGRO ARTS FREDERICK DOUGLASS:
+AN AMERICAN LIFE
+and BOOKER T. WASHINGTON:
+THE LIFE AND THE LEGACY WHERE DREAMS COME TRUE
+and SPACE FOR WOMEN
+
 https://filmforum.org/film/mikey-and-nicky
 
 ELAINE MAY’S
@@ -414,6 +472,7 @@ MIKEY AND NICKY [https://filmforum.org/film/mikey-and-nicky]
 Monday, October 26
 8:00
 
+Buy Tickets [https://my.filmforum.org/mikey-and-nicky-book]
 https://filmforum.org/film/the-harder-they-come
 
 PERRY HENZELL’S
@@ -422,6 +481,7 @@ THE HARDER THEY COME [https://filmforum.org/film/the-harder-they-come]
 Thursday, October 29
 8:20
 
+Buy Tickets [https://my.filmforum.org/the-harder-they-come]
 https://filmforum.org/film/citizen-ruth
 
 ALEXANDER PAYNE’S
