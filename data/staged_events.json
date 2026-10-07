@@ -11188,5 +11188,67 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:32:03.588Z"
+  },
+  {
+    "id": "helix-center-2026-11-07-the-problem-of-the-inner-self",
+    "title": "The Problem of the Inner Self",
+    "venue_id": "helix-center",
+    "venue_name": "The Helix Center",
+    "date": "2026-11-07",
+    "description": "Free roundtable asking whether there is an \"inner self,\" approaching human interiority not as an obstacle but as a complex of questions at the limits of religion, philosophy, literature, and technology.",
+    "url": "https://www.helixcenter.org/roundtables/the-problem-of-the-inner-self/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:36:04.599Z"
+  },
+  {
+    "id": "participant-inc-2026-11-13-deny-defend-depose-a-new-short-film-by-s",
+    "title": "Deny, Defend, Depose: A New Short Film by Stanya Kahn",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-11-13",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "Premiere screening of a new short film by artist Stanya Kahn.",
+    "url": "https://participantinc.org/seasons/season-25/deny-defend-depose-br-a-new-short-film-by-stanya-kahn",
+    "format": "screening",
+    "interest_score": 3.5,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:36:04.624Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-26-regift-an-evening-with-rirkrit-tiravanij",
+    "title": "Regift | An Evening with Rirkrit Tiravanija, Amy Sillman, John Miller, and Catherine Czudej",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-26",
+    "time_start": "19:00",
+    "description": "Artist conversation and program evening with Rirkrit Tiravanija, Amy Sillman, John Miller, and Catherine Czudej, part of Swiss Institute's Regift program.",
+    "url": "https://swissinstitute.net/programs/regift-lottery",
+    "format": "talk",
+    "interest_score": 3.5,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:36:04.650Z"
   }
 ]
