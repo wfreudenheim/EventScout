@@ -11520,5 +11520,440 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:36:31.752Z"
+  },
+  {
+    "id": "green-wood-2026-10-10-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-10",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "An after-dark walking tour through Green-Wood's history, legends, and secrets, including rare access to the normally locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-51/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.299Z"
+  },
+  {
+    "id": "green-wood-2026-10-10-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-10",
+    "time_start": "18:30",
+    "time_end": "20:30",
+    "description": "An after-dark walking tour through Green-Wood's history, legends, and secrets, including rare access to the normally locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-54/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.299Z"
+  },
+  {
+    "id": "green-wood-2026-10-16-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-16",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "An after-dark walking tour through Green-Wood's history, legends, and secrets, including rare access to the normally locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-55/2026-10-16/1/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.300Z"
+  },
+  {
+    "id": "green-wood-2026-10-16-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-16",
+    "time_start": "18:30",
+    "time_end": "20:30",
+    "description": "An after-dark walking tour through Green-Wood's history, legends, and secrets, including rare access to the normally locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-55/2026-10-16/2/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.300Z"
+  },
+  {
+    "id": "drom-2026-10-09-la-sista",
+    "title": "La Sista",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-09",
+    "time_start": "21:00",
+    "description": "Puerto Rican reggaeton singer La Sista (Maidel Amador Canales), from Loíza, Puerto Rico, performs live with her family's musical roots.",
+    "url": "https://dromnyc.com/event/la-sista/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.337Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-21-mapping-queens-building-artist-run-space",
+    "title": "Mapping Queens: Building Artist-Run Spaces",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-21",
+    "description": "Part of the Queens Cultural Mapping Initiative, this panel discusses what inspired artists to create their own spaces, the realities of sustaining artist-led initiatives, and visions for the future of artist-run spaces in Queens.",
+    "url": "https://www.flushingtownhall.org/show-details/mapping-queens-building-artist-run-spaces",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.361Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-12-portraits-of-america-exhibition",
+    "title": "Portraits of America Exhibition",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-12",
+    "description": "A group photography exhibition bringing together portraits of individuals whose distinct histories and cultural backgrounds reflect the evolving idea of American identity. Runs through November 10, 2026.",
+    "url": "https://www.flushingtownhall.org/show-details/portraits-of-america-exhibition",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.361Z"
+  },
+  {
+    "id": "terraza-7-2026-10-11-maryam-pagi-ke-malam-film-screening-film",
+    "title": "Maryam Pagi ke Malam / Film Screening & Filmmaker Q&A",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-11",
+    "description": "A screening of the film 'Maryam Pagi ke Malam' followed by a Q&A with the filmmaker.",
+    "url": "https://www.terraza7.com/detalles-y-registro/maryam-pagi-ke-malam-film-screening-filmmaker-q-a",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.386Z"
+  },
+  {
+    "id": "terraza-7-2026-10-08-the-pedro-giraudo-quartet-contemporary-t",
+    "title": "The Pedro Giraudo Quartet — Contemporary Tango | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-08",
+    "description": "A live performance of contemporary tango by the Pedro Giraudo Quartet.",
+    "url": "https://www.terraza7.com/detalles-y-registro/the-pedro-giraudo-quartet-contemporary-tango-first-set-8",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.385Z"
+  },
+  {
+    "id": "terraza-7-2026-10-08-the-pedro-giraudo-quartet-contemporary-t",
+    "title": "The Pedro Giraudo Quartet — Contemporary Tango | Second Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-08",
+    "description": "A live performance of contemporary tango by the Pedro Giraudo Quartet.",
+    "url": "https://www.terraza7.com/detalles-y-registro/the-pedro-giraudo-quartet-contemporary-tango-second-set-8",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.385Z"
+  },
+  {
+    "id": "terraza-7-2026-10-10-cruzando-ensue-os-across-borders-musical",
+    "title": "Cruzando Ensueños | Across Borders | Musical Monologue",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-10",
+    "description": "A musical monologue performance, 'Across Borders,' blending storytelling and live music.",
+    "url": "https://www.terraza7.com/detalles-y-registro/cruzando-ensuenos-across-borders-musical-monologue",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.385Z"
+  },
+  {
+    "id": "terraza-7-2026-10-10-guachinangos-new-york-sounds-of-son-jaro",
+    "title": "Guachinangos – New York Sounds of Son Jarocho | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-10",
+    "description": "A live performance of son jarocho, the traditional folk music of Veracruz, Mexico, reimagined in New York.",
+    "url": "https://www.terraza7.com/detalles-y-registro/guachinangos-new-york-sounds-of-son-jarocho-first-set-12",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "son-jarocho"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.386Z"
+  },
+  {
+    "id": "terraza-7-2026-10-10-guachinangos-new-york-sounds-of-son-jaro",
+    "title": "Guachinangos – New York Sounds of Son Jarocho | Second Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-10",
+    "description": "A live performance of son jarocho, the traditional folk music of Veracruz, Mexico, reimagined in New York.",
+    "url": "https://www.terraza7.com/detalles-y-registro/guachinangos-new-york-sounds-of-son-jarocho-second-set-10",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "son-jarocho"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.386Z"
+  },
+  {
+    "id": "terraza-7-2026-10-11-eunmi-lee-jazz-orchestra-crosswinds-puls",
+    "title": "Eunmi Lee Jazz Orchestra | Crosswinds | Pulse in Harmony",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-11",
+    "description": "The Eunmi Lee Jazz Orchestra performs 'Crosswinds: Pulse in Harmony.'",
+    "url": "https://www.terraza7.com/detalles-y-registro/eunmi-lee-jazz-orchestra-crosswinds-pulse-in-harmony",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.386Z"
+  },
+  {
+    "id": "film-forum-2026-10-10-my-undesirable-friends-part-ii-exile-cha",
+    "title": "My Undesirable Friends: Part II – Exile (Chapters 4-5, Q&A with Julia Loktev and Subjects)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-10",
+    "time_start": "16:00",
+    "description": "A documentary screening of 'My Undesirable Friends: Part II – Exile,' Chapters 4-5, followed by a Q&A with filmmaker Julia Loktev and subjects Irina Dolinina, Ksenia Mironova, and Valeria Ratnikova.",
+    "url": "https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-october-10",
+    "price": "$18 ($12 members)",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.403Z"
+  },
+  {
+    "id": "film-forum-2026-10-11-my-undesirable-friends-part-ii-exile-cha",
+    "title": "My Undesirable Friends: Part II – Exile (Chapters 4-5, Q&A with Julia Loktev and Subjects)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-11",
+    "time_start": "16:00",
+    "description": "A documentary screening of 'My Undesirable Friends: Part II – Exile,' Chapters 4-5, followed by a Q&A with filmmaker Julia Loktev and subjects Ksenia Mironova and Valeria Ratnikova.",
+    "url": "https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-october-11",
+    "price": "$18 ($12 members)",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.403Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-09-the-library-is-open-31-dear-mazie-sanctu",
+    "title": "THE LIBRARY IS OPEN 31: Dear Mazie,: Sanctuary, Speculation, and Sky",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-09",
+    "time_start": "13:00",
+    "description": "A talk in The Library Is Open series exploring sanctuary, speculation, and the sky.",
+    "url": "https://www.arch.columbia.edu/events/4271-the-library-is-open-31-dear-mazie-sanctuary-speculation-and-sky",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.420Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-12-works-1-the-high-line",
+    "title": "Works 1: The High Line",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-12",
+    "time_start": "18:30",
+    "description": "A lecture examining the design, history, and urban impact of New York's High Line.",
+    "url": "https://www.arch.columbia.edu/events/4223-works-1-the-high-line",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.421Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-07-shuyi-yin-from-plot-to-bit-how-records-s",
+    "title": "Shuyi Yin: From Plot to Bit: How Records Shape Preservation",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-07",
+    "time_start": "13:00",
+    "description": "A Preservation Lecture Series talk on how records and documentation shape the practice of historic preservation.",
+    "url": "https://www.arch.columbia.edu/events/4286-shuyi-yin-from-plot-to-bit-how-records-shape-preservation",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "preservation"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.420Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-08-marcos-zotes-12-msaad-bathing-in-extreme",
+    "title": "Marcos Zotes '12 MSAAD: Bathing in Extreme Landscapes",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-08",
+    "time_start": "18:00",
+    "description": "A GSAPP alumni talk by Marcos Zotes exploring architecture, ritual, and bathing practices in extreme landscapes.",
+    "url": "https://www.arch.columbia.edu/events/4310-marcos-zotes-12-msaad-bathing-in-extreme-landscapes",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.420Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-13-the-lecture-in-planning-series-lips-pane",
+    "title": "The Lecture in Planning Series (LiPS) Panel",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-13",
+    "time_start": "13:30",
+    "description": "A panel discussion as part of GSAPP's Lecture in Planning Series.",
+    "url": "https://www.arch.columbia.edu/events/4343-the-lecture-in-planning-series-li-ps-panel",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.421Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-13-tuesday-talks",
+    "title": "Tuesday Talks",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-13",
+    "time_start": "09:00",
+    "description": "A GSAPP alumni talk series held in New York and virtually.",
+    "url": "https://www.arch.columbia.edu/events/4276-tuesday-talks",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:22.421Z"
   }
 ]
