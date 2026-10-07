@@ -7832,5 +7832,768 @@
     "source_agent": "tier2-scraper",
     "status": "staged",
     "discovered_at": "2026-10-07T06:57:37.299Z"
+  },
+  {
+    "id": "rockaway-film-festival-2026-10-15-the-sound-of-music",
+    "title": "The Sound of Music",
+    "venue_id": "rockaway-film-festival",
+    "venue_name": "Rockaway Film Festival",
+    "date": "2026-10-15",
+    "time_start": "12:00",
+    "description": "Repertory screening of the classic Richard Rodgers musical, celebrating the composer's Rockaway roots.",
+    "url": "https://www.rockawayfilmfestival.org/events/the-sound-of-music",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:38.610Z"
+  },
+  {
+    "id": "public-records-2026-11-10-hurricane-in-the-fog-machine",
+    "title": "Hurricane in the Fog Machine",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "description": "Jesús Hilario-Reyes & Benjamin Krusling with Mira Dayal discuss sirens, emergency signals, transmission, and transcendence — on the street and in the club. Part of the Triple Canopy Symposium, presented with Durations.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.923Z"
+  },
+  {
+    "id": "roulette-2026-11-14-speaking-without-tongues",
+    "title": "Speaking Without Tongues",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-14",
+    "time_start": "13:00",
+    "description": "Cooper Jacoby, Christopher Kulendran Thomas & Maya Man with Mira Dayal, a conversation with three artists who use AI voice technologies to mimic, memorialize, or manipulate human speech. Part of the Triple Canopy Symposium.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.951Z"
+  },
+  {
+    "id": "roulette-2026-11-14-technomisoginary",
+    "title": "Technomisoginary",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-14",
+    "time_start": "15:00",
+    "description": "Sophie Lewis & Kalindi Vora with Rachel Ossip on how misogyny shapes current technologies, and how we might reimagine a future in which human life flourishes. Part of the Triple Canopy Symposium.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.951Z"
+  },
+  {
+    "id": "roulette-2026-11-15-an-evening-with-terre-thaemlitz-ciar-n-f",
+    "title": "An Evening with Terre Thaemlitz & Ciarán Finlayson",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-15",
+    "time_start": "20:00",
+    "description": "The U.S. premiere of a solo live piano work by composer and critic Terre Thaemlitz, followed by a conversation. Part of the Triple Canopy Symposium, presented with Durations.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.952Z"
+  },
+  {
+    "id": "roulette-2026-11-13-every-a-side-has-a-b-side",
+    "title": "Every A-Side Has a B-Side",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-13",
+    "time_start": "20:00",
+    "description": "An evening of performances considering the value of liveness and the spectre of commodification, featuring Ralph Lemon, Sol Cabrini, Taja Cheek (L'Rain), Jonathan González, Nile Harris, yuniya edi kwon & T. Lax. Part of the Triple Canopy Symposium.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.951Z"
+  },
+  {
+    "id": "roulette-2026-11-14-bets-in-a-burning-house",
+    "title": "Bets in a Burning House",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-14",
+    "time_start": "17:00",
+    "description": "David Hill, Ayesha A. Siddiqi & Jacob Silverman with Ha Duong on the history and rise of prediction markets, and the costs of borrowing from the future. Part of the Triple Canopy Symposium.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.952Z"
+  },
+  {
+    "id": "roulette-2026-11-14-ghosted-too",
+    "title": "Ghosted, Too",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-14",
+    "time_start": "20:00",
+    "description": "Morgan Bassichis delivers a lecture on performance as necromancy. Part of the Triple Canopy Symposium.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.952Z"
+  },
+  {
+    "id": "asia-society-2026-10-17-we-the-people-of-india-a-conversation-wi",
+    "title": "We, the People of India: A Conversation with T.M. Krishna",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-17",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Acclaimed Karnatik musician, author, and public intellectual T.M. Krishna explores the historical, cultural, and philosophical contexts of India's national symbols — the flag, anthem, emblem, motto, and Preamble.",
+    "url": "https://asiasociety.org",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.981Z"
+  },
+  {
+    "id": "asia-society-2026-10-08-asia-society-museum-salon-series-arathi-",
+    "title": "Asia Society Museum Salon Series: Arathi Menon in Conversation with Xiaohan Du",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-08",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Asia Society Curator Xiaohan Du and Arathi Menon explore the museum's Rockefeller Collection as a record of artistic exchange across Asia, tracing how ideas and visual traditions traveled across regions.",
+    "url": "https://asiasociety.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.980Z"
+  },
+  {
+    "id": "creative-time-2026-10-23-in-pursuit-of-life-liberty-and-happiness",
+    "title": "In Pursuit of Life, Liberty, and Happiness: Reimagining American Democracy",
+    "venue_id": "creative-time",
+    "venue_name": "Creative Time",
+    "date": "2026-10-23",
+    "description": "Creative Time and the Brooklyn Museum bring together artists, activists, and scholars — including American Artist, Tega Brain, Sky Hopinka, Chelsea Manning, and Jackie Wang — for a day of critical dialogue through conversations, presentations, poetry, and performance on migration, reproductive justice, mass criminalization, and climate change.",
+    "url": "https://creativetime.org",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [
+      "climate-change"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:46.999Z"
+  },
+  {
+    "id": "wave-farm-2026-10-24-qiujiang-levi-lu-artist-talk-live-broadc",
+    "title": "Qiujiang Levi Lu: Artist Talk Live Broadcast",
+    "venue_id": "wave-farm",
+    "venue_name": "Wave Farm",
+    "date": "2026-10-24",
+    "time_start": "14:00",
+    "time_end": "15:00",
+    "description": "Wave Farm's inaugural Spatial Artist-in-Residence Qiujiang Levi Lu discusses work exploring the body as a site of sonic transformation through custom electroacoustic instruments, feedback systems, and cyborg-like bodily augmentations.",
+    "url": "https://wavefarm.org",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "artist-talk",
+      "electroacoustic"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.020Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-10-07-the-gift-emma-amos-with-friends",
+    "title": "The Gift: Emma Amos with Friends",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-10-07",
+    "time_start": "13:00",
+    "description": "Curators Rhea L. Combs and Emily Liebert join Rail contributor Chenoa Baker for a conversation on the occasion of 'The Gift: Emma Amos with Friends' on view at the Cleveland Museum of Art.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.033Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-10-08-thucydides-fever-dream",
+    "title": "Thucydides Fever Dream",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-10-08",
+    "time_start": "13:00",
+    "description": "Artists Ziyang Wu, Cloris Dong, and curator Xin Wang join curator Calvin Wang for a conversation on the occasion of 'Thucydides Fever Dream' on view at Hill Art Foundation.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.033Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-10-13-christopher-k-ho-waterloo-",
+    "title": "Christopher K. Ho: Waterloo!",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-10-13",
+    "time_start": "13:00",
+    "description": "Artist Christopher K. Ho joins Rail Artseen editor Amanda Gluibizzi for a conversation on the occasion of 'Waterloo!' on view at Ellie Rines Gallery.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.034Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-10-14-maia-ruth-lee-double-vision",
+    "title": "Maia Ruth Lee: Double Vision",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-10-14",
+    "time_start": "13:00",
+    "description": "Artist Maia Ruth Lee joins Rail contributor Simon Wu for a conversation on the occasion of 'Double Vision' on view at Tina Kim Gallery.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.034Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-10-15-anthea-hamilton-comfort-zones",
+    "title": "Anthea Hamilton: Comfort Zones",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-10-15",
+    "time_start": "13:00",
+    "description": "Artist Anthea Hamilton joins curator and Rail contributor Julia Trotta for a conversation on the occasion of 'Comfort Zones' on view at Salon 94.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.034Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-16-the-municipal-sublime",
+    "title": "The Municipal Sublime",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-16",
+    "time_start": "18:00",
+    "description": "n+1 coeditor Mark Krotov moderates a conversation with artist Cheyenne Julien and writers/critics Samuel Medina, Mariana Mogilevich, and Lucas Vaqueiro on New York's underloved and undernoticed civic monuments. Part of the Center for Architecture's Archtober programming.",
+    "url": "https://n-plus-one-magazine.com",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.057Z"
+  },
+  {
+    "id": "amant-2026-10-29-gary-zhexi-zhang-performance-lecture",
+    "title": "Gary Zhexi Zhang: Performance Lecture",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-10-29",
+    "description": "Amant resident artist Gary Zhexi Zhang's performance lecture centers on his experiments with autonomous actors staged within a self-directing game engine.",
+    "url": "https://amant.org",
+    "price": "free",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "game-engine"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.071Z"
+  },
+  {
+    "id": "amant-2026-10-14-a-darkling-ring-of-unresolved-shadows-wi",
+    "title": "A Darkling Ring of Unresolved Shadows with Paul Maheke",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-10-14",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "Artist in residence Paul Maheke presents an evening combining live reading, sound, and moving image exploring interdependency in relation to death, moving between science fiction, diary notes, and personal observations.",
+    "url": "https://amant.org",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Sound & Music",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.071Z"
+  },
+  {
+    "id": "amant-2026-10-09-de-la-fourche-au-four-la-fourchette-brok",
+    "title": "De la Fourche au Four à la Fourchette, Broke the Plate: A Cuisine Performance",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-10-09",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A cuisine performance with Matthew Lutz-Kinoy, Natsuko Uchino, Chelsea Culprit, Dena Yago, and others in collaboration with Zoli Kitchen, celebrating Lutz-Kinoy's exhibition 'The Mud Room' and tracing a trajectory from agricultural labor to the kiln to the domestic sphere.",
+    "url": "https://amant.org",
+    "price": "free",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.071Z"
+  },
+  {
+    "id": "amant-2026-10-16-open-house-new-york-weekend-at-amant",
+    "title": "Open House New York Weekend at Amant",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-10-16",
+    "description": "Amant joins Open House New York Weekend with special guided tours in collaboration with GRT Architects of its current exhibitions and the architecture of Zoli restaurant. Runs through October 18.",
+    "url": "https://amant.org",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.071Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-08-sixteen-moments-of-my-life",
+    "title": "Sixteen Moments of My Life",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-08",
+    "time_start": "18:30",
+    "description": "Albert Serra's mesmerizing concert film starring Ingrid Caven, shot in Paris in 2025. Part of the 64th New York Film Festival, with a Q&A with Albert Serra.",
+    "url": "https://filmlinc.org",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.090Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-08-red-rocks",
+    "title": "Red Rocks",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-08",
+    "time_start": "21:00",
+    "description": "Bruno Dumont's drama of danger, purity, and freedom, in which a group of children enact a pre-adolescent Romeo and Juliet in a coastal French Riviera town. Part of the 64th New York Film Festival.",
+    "url": "https://filmlinc.org",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.090Z"
+  },
+  {
+    "id": "e-flux-2026-10-10-under-the-red-sky-p-nar-renci-s-art-of-r",
+    "title": "Under the Red Sky: Pınar Öğrenci's Art of Responding",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-10",
+    "time_start": "15:00",
+    "description": "A retrospective screening tracing the history of Pınar Öğrenci's cinematic production, attesting to her sustained commitment to issues of displacement, migration, survival, and resistance, followed by an in-person conversation between Öğrenci and novelist Maaza Mengiste.",
+    "url": "https://www.e-flux.com",
+    "price": "$12 general / $10 student",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.104Z"
+  },
+  {
+    "id": "e-flux-2026-10-08-tcb-the-toni-cade-bambara-school-of-orga",
+    "title": "TCB – The Toni Cade Bambara School of Organizing",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-08",
+    "time_start": "18:00",
+    "description": "A screening of the documentary directed by Louis Massiah and Monica Henriquez, reconstructing the life of Toni Cade Bambara through a series of classes in cultural organizing, presented by the African Film Institute.",
+    "url": "https://www.e-flux.com",
+    "price": "$12 general / $10 student",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:19:47.104Z"
+  },
+  {
+    "id": "culturehub-2026-10-21-expanded-cinema-working-with-the-materia",
+    "title": "Expanded Cinema: Working with the Materiality of Film and Image",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-10-21",
+    "description": "A workshop introducing expanded cinema and experimental approaches to the moving image, led by Lívia Sá at CultureHub.",
+    "url": "https://www.culturehub.org/events/expanded-cinema",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:29.186Z"
+  },
+  {
+    "id": "culturehub-2026-10-27-a-room-of-our-own",
+    "title": "a [room] of our own",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-10-27",
+    "description": "A workshop with Viola He using the Terminal and the command line to navigate and create on a shared computer, presented by CultureHub.",
+    "url": "https://www.culturehub.org/events/a-room-of-our-own",
+    "format": "workshop",
+    "interest_score": 2.5,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:29.186Z"
+  },
+  {
+    "id": "onassis-onx-2026-10-13-outland-game-night",
+    "title": "Outland Game Night",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-10-13",
+    "description": "First public edition of Outland Game Night, featuring game designers Lawra Suits Clark and Cosmo D playing through sections of games-in-progress while discussing worldbuilding, narrative, and mechanics. Organized by Brian Droitcour and Sean Kennedy at Onassis ONX.",
+    "url": "https://www.onx.studio/onx-programming/outland-game-night",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "game-design",
+      "worldbuilding"
+    ],
+    "matched_categories": [
+      "Games & Interactive",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:29.220Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-22-tantalum-ndjimu-deep-cobalt-mikuba-cobal",
+    "title": "Tantalum + Ndjimu: Deep Cobalt + Mikuba: Cobalt",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-22",
+    "description": "Documentary program at Maysles Documentary Center examining cobalt and tantalum mining and the human and environmental cost of the global tech supply chain, likely centered on the Democratic Republic of Congo.",
+    "url": "https://www.maysles.org/calendar/mikuba-cobalt-tantalum-ndjimu-deep-cobalt",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Science & Technology Studies / History of Science",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:35.534Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-23-rumba-royale",
+    "title": "Rumba Royale",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-23",
+    "description": "Documentary screening at Maysles Documentary Center celebrating Congolese rumba music and its royal/cultural legacy.",
+    "url": "https://www.maysles.org/calendar/rumba-royale",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:35.534Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-09-standing-on-the-corner-unseen-nuyorican-",
+    "title": "Standing on the Corner: Unseen Nuyorican Pictures",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-09",
+    "description": "Documentary screening at Maysles Documentary Center exploring unseen photography and footage of Nuyorican (New York Puerto Rican) community life and culture.",
+    "url": "https://www.maysles.org/calendar/standing-on-the-corner-unseen-nuyorican-pictures",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "photography",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:35.533Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-20-what-we-said-to-brussels-airlines-direct",
+    "title": "What We Said to Brussels Airlines + Director's Notes + Sometimes It Was Beautiful",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-20",
+    "description": "Triple-bill documentary screening at Maysles Documentary Center touching on Belgian-Congolese colonial history and personal/political memory.",
+    "url": "https://www.maysles.org/calendar/what-we-said-to-brussels-airlines-directors-notes-sometimes-it-was-beautiful",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:35.534Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-21-joy-boy-taxi-moto",
+    "title": "Joy Boy + Taxi Moto",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-21",
+    "description": "Documentary double-feature at Maysles Documentary Center following everyday urban life and labor, part of the venue's international documentary series.",
+    "url": "https://www.maysles.org/calendar/joy-boy-taxi-moto",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:35.534Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-24-congo-boy-closing-night-reception",
+    "title": "Congo Boy + Closing Night Reception",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-24",
+    "description": "Closing night of Maysles Documentary Center's documentary series, featuring the film Congo Boy followed by a reception.",
+    "url": "https://www.maysles.org/calendar/congo-boy-closing-night",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:35.534Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-26-black-zombie",
+    "title": "Black Zombie",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-26",
+    "description": "Documentary screening at Maysles Documentary Center, likely exploring zombie mythology's roots in colonial history and folklore.",
+    "url": "https://www.maysles.org/calendar/black-zombie",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:35.534Z"
+  },
+  {
+    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
+    "title": "Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-06",
+    "description": "Exhibition on Japanese modernist painter Gen'ichirō Inokuma's two decades in mid-century New York, examining his deep connections across the NYC art world and his design work for Japan Society. On view October 6, 2026 through January 10, 2027.",
+    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:20:35.560Z"
   }
 ]

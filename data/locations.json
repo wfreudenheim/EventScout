@@ -91,7 +91,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-03-26T20:59:31.095Z"
+    "last_checked": "2026-10-07T07:19:47.014Z"
   },
   {
     "id": "eyebeam",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:25:08.302Z"
+    "last_checked": "2026-10-07T07:19:46.962Z"
   },
   {
     "id": "knockdown-center",
@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:18:39.971Z"
+    "last_checked": "2026-10-07T07:19:38.546Z"
   },
   {
     "id": "the-new-school",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:18:41.329Z"
+    "last_checked": "2026-10-07T07:19:47.113Z"
   },
   {
     "id": "artists-space",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:25:09.071Z"
+    "last_checked": "2026-10-07T07:19:47.067Z"
   },
   {
     "id": "bitforms",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:18:39.990Z"
+    "last_checked": "2026-10-07T07:19:38.567Z"
   },
   {
     "id": "caveat",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:21:55.562Z"
+    "last_checked": "2026-10-07T07:19:47.099Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:40.020Z"
+    "last_checked": "2026-10-07T07:19:38.586Z"
   },
   {
     "id": "rockefeller-university",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:25:09.824Z"
+    "last_checked": "2026-10-07T07:19:47.053Z"
   },
   {
     "id": "the-stone",
@@ -1823,7 +1823,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:19:58.210Z"
+    "last_checked": "2026-10-07T07:20:35.506Z"
   },
   {
     "id": "montez-press-radio",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:40.056Z"
+    "last_checked": "2026-10-07T07:19:38.597Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2060,7 +2060,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:19:58.222Z"
+    "last_checked": "2026-10-07T07:20:35.517Z"
   },
   {
     "id": "maysles-documentary-center",
@@ -2084,7 +2084,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:42.032Z"
+    "last_checked": "2026-10-07T07:20:35.553Z"
   },
   {
     "id": "millennium-film-workshop",
@@ -2108,7 +2108,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:42.044Z"
+    "last_checked": "2026-10-07T07:20:35.528Z"
   },
   {
     "id": "rockaway-film-festival",
@@ -2132,7 +2132,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:40.651Z"
+    "last_checked": "2026-10-07T07:19:46.912Z"
   },
   {
     "id": "prismatic-ground",
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:42.052Z"
+    "last_checked": "2026-10-07T07:20:35.571Z"
   },
   {
     "id": "asia-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:14:16.992Z"
+    "last_checked": "2026-10-07T07:19:46.995Z"
   },
   {
     "id": "aaww",
@@ -2297,7 +2297,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:40.662Z"
+    "last_checked": "2026-10-07T07:20:29.151Z"
   },
   {
     "id": "blank-forms",
@@ -2321,7 +2321,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:40.671Z"
+    "last_checked": "2026-10-07T07:20:29.216Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:25:09.879Z"
+    "last_checked": "2026-10-07T07:19:46.947Z"
   },
   {
     "id": "nowadays",
@@ -2507,7 +2507,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T14:55:26.373Z"
+    "last_checked": "2026-10-07T07:19:47.029Z"
   },
   {
     "id": "the-lot-radio",
@@ -2554,7 +2554,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:40.679Z"
+    "last_checked": "2026-10-07T07:20:29.172Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:19:53.577Z"
+    "last_checked": "2026-10-07T07:19:47.045Z"
   },
   {
     "id": "nypl-live",
@@ -2649,7 +2649,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:18:46.947Z"
+    "last_checked": "2026-10-07T07:20:29.181Z"
   },
   {
     "id": "n-plus-one",
@@ -2721,7 +2721,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:23:26.168Z"
+    "last_checked": "2026-10-07T07:20:35.580Z"
   },
   {
     "id": "canal-projects",
@@ -2863,7 +2863,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:34:13.289Z"
+    "last_checked": "2026-10-07T07:19:47.084Z"
   },
   {
     "id": "culturehub",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:18:01.592Z"
+    "last_checked": "2026-10-07T07:20:29.197Z"
   },
   {
     "id": "la-mama",
@@ -2934,7 +2934,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:18:40.701Z"
+    "last_checked": "2026-10-07T07:20:29.206Z"
   },
   {
     "id": "onassis-onx",
@@ -2957,7 +2957,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:18:01.636Z"
+    "last_checked": "2026-10-07T07:20:29.235Z"
   },
   {
     "id": "index-space",
