@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "dustin-yellin-s-studio",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:47:44.979Z",
-    "completed_at": "2026-08-09T17:47:44.979Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "lectures-on-tap-prospect-park-south",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:47:44.986Z",
-    "completed_at": "2026-08-09T17:47:44.986Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "316-ten-eyck",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:47:44.994Z",
-    "completed_at": "2026-08-09T17:47:44.994Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "vera-list-center",
     "scrape_tier_used": 3,
     "started_at": "2026-09-15T14:55:26.181Z",
@@ -4997,6 +4967,36 @@
     "completed_at": "2026-10-07T07:23:52.454Z",
     "events_found": 3,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:27:54.239Z",
+    "completed_at": "2026-10-07T07:27:54.239Z",
+    "events_found": 8,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "abrons-arts-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:27:54.250Z",
+    "completed_at": "2026-10-07T07:27:54.250Z",
+    "events_found": 6,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "summerstage",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:27:54.259Z",
+    "completed_at": "2026-10-07T07:27:54.259Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]

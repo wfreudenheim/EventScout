@@ -10457,5 +10457,107 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:23:52.440Z"
+  },
+  {
+    "id": "wonderville-2026-10-15-wordhack-feat-ingrid-burrington-case-jer",
+    "title": "WordHack feat. Ingrid Burrington, Case Jernigan and Grayson Earle",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-15",
+    "time_start": "19:00",
+    "time_end": "22:00",
+    "description": "WordHack, the long-running reading and talk series on language, code, and technology, returns to Wonderville with artist-writer Ingrid Burrington alongside Case Jernigan and Grayson Earle.",
+    "url": "https://www.wonderville.nyc/events/wordhack-10-15-26",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Hackerspaces & Creative Tech",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:27:54.213Z"
+  },
+  {
+    "id": "wonderville-2026-10-08-the-merrick-henry-hero-extravaganza",
+    "title": "The Merrick Henry Hero Extravaganza",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-08",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "description": "A themed variety night at Wonderville spotlighting performer Merrick Henry in a hero-themed show.",
+    "url": "https://www.wonderville.nyc/events/the-merrick-henry-hero-extravaganza-10-8-26",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:27:54.210Z"
+  },
+  {
+    "id": "wonderville-2026-10-11-a-sonic-the-hedgehog-variety-show-",
+    "title": "A Sonic the Hedgehog Variety Show!",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-11",
+    "time_start": "14:30",
+    "time_end": "18:00",
+    "description": "A Sonic the Hedgehog-themed variety show featuring performances and games at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/a-sonic-the-hedgehog-variety-show-10-11-26",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:27:54.211Z"
+  },
+  {
+    "id": "wonderville-2026-10-11-disasterpiece-movie-night",
+    "title": "Disasterpiece Movie Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-11",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "description": "A movie screening night themed around game composer Disasterpiece, held at Wonderville's arcade.",
+    "url": "https://www.wonderville.nyc/events/disasterpiece-movie-night-10-11-26",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:27:54.211Z"
+  },
+  {
+    "id": "wonderville-2026-10-12-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-12",
+    "time_start": "20:00",
+    "description": "A live broadcast-style variety show staged at Wonderville under the FORT90 Broadcast System banner.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-10-12-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:27:54.212Z"
   }
 ]
