@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "rhizome",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.351Z",
-    "completed_at": "2026-09-15T14:55:26.351Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "brooklyn-raga-massive",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.358Z",
-    "completed_at": "2026-09-15T14:55:26.358Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "swiss-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.367Z",
-    "completed_at": "2026-09-15T14:55:26.367Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "wave-farm",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.374Z",
-    "completed_at": "2026-09-15T14:55:26.374Z",
-    "events_found": 2,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "printed-matter",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.382Z",
-    "completed_at": "2026-09-15T14:55:26.382Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "the-shed",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.390Z",
-    "completed_at": "2026-09-15T14:55:26.390Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "la-mama",
     "scrape_tier_used": 3,
     "started_at": "2026-09-15T14:55:26.397Z",
@@ -4996,6 +4936,66 @@
     "started_at": "2026-10-07T07:36:04.693Z",
     "completed_at": "2026-10-07T07:36:04.693Z",
     "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:36:31.679Z",
+    "completed_at": "2026-10-07T07:36:31.679Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "la-mama",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:36:31.704Z",
+    "completed_at": "2026-10-07T07:36:31.704Z",
+    "events_found": 7,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:36:31.728Z",
+    "completed_at": "2026-10-07T07:36:31.728Z",
+    "events_found": 5,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "movement-research",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:36:31.747Z",
+    "completed_at": "2026-10-07T07:36:31.747Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:36:31.769Z",
+    "completed_at": "2026-10-07T07:36:31.769Z",
+    "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "jack-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:36:31.780Z",
+    "completed_at": "2026-10-07T07:36:31.780Z",
+    "events_found": 2,
     "events_new": 0,
     "status": "completed"
   }
