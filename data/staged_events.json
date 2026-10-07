@@ -8595,5 +8595,916 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:20:35.560Z"
+  },
+  {
+    "id": "issue-project-room-2026-11-07-caminos",
+    "title": "Caminos",
+    "venue_id": "issue-project-room",
+    "venue_name": "Issue Project Room",
+    "date": "2026-11-07",
+    "description": "rocío sánchez's culminating 2026 AIR residency commission: improvisation, extended technique, and lighting design with che ali (violin), Nava Dunkelman (percussion), and Henry Fraser (double bass).",
+    "url": "https://issueprojectroom.org",
+    "price": "free",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.641Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-07-blackhole-cinematheque-film-series",
+    "title": "Blackhole Cinematheque: Film Series",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-07",
+    "time_start": "19:00",
+    "description": "Weekly screening series drawing on the 'Towards a Third Cinema' manifesto; first program features works by Blackhole Cinematheque, an Oakland community microcinema and archive, part of Rafał Skoczek's exhibition.",
+    "url": "https://swissinstitute.net",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.698Z"
+  },
+  {
+    "id": "japan-society-2026-10-14-reich90",
+    "title": "REICH90",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-14",
+    "description": "North American touring concert of the Steve Reich Project; percussionist Kuniko Kato leads Japan's top emerging percussionists celebrating Reich's 90th birthday.",
+    "url": "https://japansociety.org",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.722Z"
+  },
+  {
+    "id": "japan-society-2026-10-09-gen-ichir-inokuma-s-nyc-salon-free-first",
+    "title": "Gen'ichirō Inokuma's NYC Salon: Free First Friday",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-09",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "description": "Free gallery night for the newly opened exhibition of Gen'ichirō Inokuma's NYC-era paintings.",
+    "url": "https://japansociety.org",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.722Z"
+  },
+  {
+    "id": "japan-society-2027-01-14-yoroboshi",
+    "title": "Yoroboshi",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2027-01-14",
+    "description": "North American premiere of Satoko Ichihara's provocative contemporary puppet theater refashioning a centuries-old Japanese legend; part of the Under the Radar festival. Runs through Jan 16, 2027.",
+    "url": "https://japansociety.org",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.722Z"
+  },
+  {
+    "id": "la-mama-2026-10-10-once-upon-tomorrow-qnyia-",
+    "title": "Once Upon Tomorrow (QNYIA)",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-10-10",
+    "description": "Performance program exploring speculative futures, part of the Queer New York International Arts Festival. Runs through Oct 11.",
+    "url": "https://lamama.org",
+    "format": "performance",
+    "interest_score": 3.1,
+    "tags": [
+      "speculative-futures"
+    ],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.751Z"
+  },
+  {
+    "id": "la-mama-2026-10-08-el-p-blico",
+    "title": "El Público",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-10-08",
+    "description": "As part of FUERZAFEST: Federico García Lorca's radical, boundary-challenging play The Public, performed in Spanish, directed by Mario Colón. Runs through Oct 10.",
+    "url": "https://lamama.org",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.751Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-10-playing-with-fire-an-ecosexual-emergency",
+    "title": "Playing with Fire: An Ecosexual Emergency (NYC Premiere)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-10",
+    "description": "Annie Sprinkle & Beth Stephens present the NYC premiere of the third film in their climate crisis trilogy, in person; part of The Cinema of Gender Transgression. Also screens Oct 11.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.772Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-11-women-in-animation",
+    "title": "Women in Animation",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-11",
+    "description": "Series chronicling women's contributions to animation history, including the earliest-known hand-drawn animated film directed by a woman. Runs through Oct 13.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 3.8,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.774Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-08-read-my-desire-parts-1-2-",
+    "title": "Read My Desire (Parts 1 & 2)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-08",
+    "time_start": "18:30",
+    "description": "Experimental shorts program on desire and liberation struggles, drawing on philosopher Joan Copjec; works by Marlon Riggs, Valentin Noujaïm, Peng Zuqiang, Jumana Manna and others; part of Combat Breathing.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.772Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-08-the-cinema-of-gender-transgression-vika-",
+    "title": "The Cinema of Gender Transgression (Vika Kirchenbauer retrospective)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-08",
+    "description": "Berlin-based multidisciplinary artist Vika Kirchenbauer in person for a retrospective exploring labor, performance, language and art history. Runs through Oct 12.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.773Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-09-vacances",
+    "title": "Vacances",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-09",
+    "description": "Victoria Hely-Hutchinson's documentary portrait of her Austro-Hungarian grandmother's family, filmed over a decade in Provence; filmmaker in person. Runs through Oct 13.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.773Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-07-my-name-ain-t-suzie",
+    "title": "My Name Ain't Suzie",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-07",
+    "time_start": "18:30",
+    "description": "Angie Chen's rebuke to The World of Suzie Wong, following a courtesan across three decades in Hong Kong's Wan Chai district; part of Avatars of the Whore.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.771Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-07-seduction-the-cruel-woman",
+    "title": "Seduction: The Cruel Woman",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-07",
+    "time_start": "21:00",
+    "description": "Monika Treut & Elfi Mikesch's Sade-inspired tale of a dominatrix-gallerist and the spectator's complicity; part of Avatars of the Whore. Also screens Oct 13.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.771Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-23-possible-love",
+    "title": "Possible Love",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-23",
+    "description": "Lee Chang-dong's NYFF64 Main Slate selection on economic precarity, documentary ethics, and two colliding marriages; South Korea's Oscar entry.",
+    "url": "https://filmlinc.org",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.797Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-11-20-minotaur",
+    "title": "Minotaur",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-11-20",
+    "description": "Andrey Zvyagintsev's Cannes Grand Prix-winning tale of personal and governmental corruption. NYFF64 Main Slate, with director Q&As at 3:00pm and 6:30pm.",
+    "url": "https://filmlinc.org",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "director-q&a"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.798Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-09-14th",
+    "title": "14th",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-09",
+    "time_start": "20:45",
+    "description": "NYFF64 screening introduced by Ava DuVernay.",
+    "url": "https://filmlinc.org",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.797Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-11-13-bitter-christmas",
+    "title": "Bitter Christmas",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-11-13",
+    "description": "Pedro Almodóvar's NYFF64 Main Slate film about an actress writing a script inspired by the lives around her.",
+    "url": "https://filmlinc.org",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.798Z"
+  },
+  {
+    "id": "printed-matter-2026-10-27-nina-katchadourian-seat-assignment",
+    "title": "Nina Katchadourian: Seat Assignment",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-27",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Interdisciplinary artist Nina Katchadourian discusses her eleven-year project making art during flights using only onboard materials.",
+    "url": "https://printedmatter.org",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.822Z"
+  },
+  {
+    "id": "mcnally-jackson-2026-10-15-to-god",
+    "title": "TO GOD",
+    "venue_id": "mcnally-jackson",
+    "venue_name": "McNally Jackson",
+    "date": "2026-10-15",
+    "time_start": "19:00",
+    "description": "Esther Yi presents her second book, a daring fiction collection about alienation, sex, and spiritual inquiry, in conversation with Katy Waldman.",
+    "url": "https://mcnallyjackson.com",
+    "price": "$5",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.837Z"
+  },
+  {
+    "id": "mcnally-jackson-2026-10-26-fair-ones",
+    "title": "FAIR ONES",
+    "venue_id": "mcnally-jackson",
+    "venue_name": "McNally Jackson",
+    "date": "2026-10-26",
+    "time_start": "19:00",
+    "description": "Lydia Millet presents her new novel on family and midlife friendships, in conversation with Jenny Offill.",
+    "url": "https://mcnallyjackson.com",
+    "price": "$5",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.837Z"
+  },
+  {
+    "id": "drom-2026-10-17-wu-fei-and-abigail-washburn",
+    "title": "Wu Fei and Abigail Washburn",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-17",
+    "time_start": "18:30",
+    "description": "Guzheng virtuoso Wu Fei and Grammy-winning banjoist Abigail Washburn's cross-cultural duo project, produced by Béla Fleck, weaving Appalachian and Xinjiang traditions. WMI Collaboration Series.",
+    "url": "https://dromnyc.com",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.858Z"
+  },
+  {
+    "id": "drom-2026-10-09-aggeliki-from-jazz-to-hijaz",
+    "title": "Aggeliki: From Jazz to Hijaz",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-09",
+    "time_start": "19:00",
+    "description": "A musical journey weaving Greek tradition with jazz and sounds from around the world.",
+    "url": "https://dromnyc.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.857Z"
+  },
+  {
+    "id": "drom-2026-10-11-elis-lovri-",
+    "title": "Elis Lovrić",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-11",
+    "time_start": "19:00",
+    "description": "Acoustic folk and theater performance; Lovrić sings in the rare Istrian dialect of Croatia.",
+    "url": "https://dromnyc.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.857Z"
+  },
+  {
+    "id": "drom-2026-10-15-armadi-tsayn",
+    "title": "Armadi Tsayn",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-15",
+    "time_start": "18:30",
+    "description": "Boston-based trio blending Western Armenian folk, Middle Eastern melodies, jazz, and rock.",
+    "url": "https://dromnyc.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.857Z"
+  },
+  {
+    "id": "drom-2026-11-08-farah-siraj-miel-y-l-mon-",
+    "title": "Farah Siraj 'Miel y Límon'",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-08",
+    "description": "World Music Institute concert blending Jordanian and Latin musical traditions.",
+    "url": "https://worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.858Z"
+  },
+  {
+    "id": "drom-2026-10-15-las-guaracheras",
+    "title": "Las Guaracheras",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-15",
+    "time_start": "20:00",
+    "description": "All-female Colombian sextet performing son and guaracha.",
+    "url": "https://dromnyc.com",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.857Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-10-internet-walk",
+    "title": "Internet Walk",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-10",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "description": "Ingrid Burrington, author of Networks of New York, leads a free walking tour around Astoria focused on the tangible infrastructure of the networked world, with a prior book signing.",
+    "url": "https://movingimage.org",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 4,
+    "tags": [
+      "infrastructure"
+    ],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science",
+      "Architecture & Urbanism",
+      "Hackerspaces & Creative Tech",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.881Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-10-in-the-mouth-of-madness-35mm-",
+    "title": "In the Mouth of Madness (35mm)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-10",
+    "time_start": "15:30",
+    "description": "John Carpenter's metacinematic, Lovecraft-inspired horror starring Sam Neill; part of Handcrafted Horrors.",
+    "url": "https://movingimage.org",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.881Z"
+  },
+  {
+    "id": "bam-2026-10-08-double-freedom",
+    "title": "Double Freedom",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-10-08",
+    "time_start": "18:00",
+    "description": "Lisandro Alonso's contemplative sequel to La Libertad, following woodcutter Misael as he takes in his unstable sister. NYFF64 screening at BAM.",
+    "url": "https://filmlinc.org",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.904Z"
+  },
+  {
+    "id": "joe-s-pub-2026-10-22-lucibela",
+    "title": "Lucibela",
+    "venue_id": "joe-s-pub",
+    "venue_name": "Joe's Pub",
+    "date": "2026-10-22",
+    "time_start": "18:30",
+    "description": "Cape Verdean singer with a rich, expressive vocal style. WMI Women's Voices Series.",
+    "url": "https://worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.921Z"
+  },
+  {
+    "id": "pioneer-works-2026-10-29-leenalchi",
+    "title": "Leenalchi",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-10-29",
+    "time_start": "19:00",
+    "description": "Seoul alternative band blending Korea's pansori tradition with bass-forward grooves and striking visuals. WMI Next Gen Series.",
+    "url": "https://worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "pansori"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.956Z"
+  },
+  {
+    "id": "adler-hall-2026-11-05-niladri-kumaar",
+    "title": "Niladri Kumaar",
+    "venue_id": "adler-hall",
+    "venue_name": "Adler Hall",
+    "date": "2026-11-05",
+    "description": "World Music Institute concert.",
+    "url": "https://worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:33.975Z"
+  },
+  {
+    "id": "kaufman-music-center-2027-01-28-tribute-to-sabri-khan-by-kamal-sabri",
+    "title": "Tribute to Sabri Khan by Kamal Sabri",
+    "venue_id": "kaufman-music-center",
+    "venue_name": "Kaufman Music Center",
+    "date": "2027-01-28",
+    "description": "'Peace Through Music' tribute concert for legendary sarangi exponent Ustad Sabri Khan, performed by his son Kamal Sabri.",
+    "url": "https://worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.006Z"
+  },
+  {
+    "id": "moma-2026-10-27-member-evening-it-s-alive-",
+    "title": "Member Evening: It's Alive!",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-10-27",
+    "time_start": "18:30",
+    "time_end": "21:30",
+    "description": "Halloween member evening with a DJ set, animation art-making activities, and after-hours museum access.",
+    "url": "https://moma.org",
+    "format": "other",
+    "interest_score": 3.8,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.019Z"
+  },
+  {
+    "id": "moma-2026-10-25-brancusi-the-artist-and-his-studio",
+    "title": "Brancusi: The Artist and His Studio",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-10-25",
+    "description": "Rarely lent sculptures from Constantin Brancusi's Paris atelier, in New York for the first time in decades, alongside photographs, films, and tools. Member previews Oct 22-24.",
+    "url": "https://moma.org",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.019Z"
+  },
+  {
+    "id": "guggenheim-2026-10-08-curious-about-the-building-architecture-",
+    "title": "Curious about the Building? (Architecture Tour)",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-08",
+    "time_start": "14:00",
+    "description": "Daily 30-minute guided tour exploring the Guggenheim's architecture, led by museum educators, in celebration of the building's 65th anniversary. Offered every day at 2pm.",
+    "url": "https://guggenheim.org",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.031Z"
+  },
+  {
+    "id": "barbes-2026-10-07-the-andy-statman-trio",
+    "title": "The Andy Statman Trio",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-07",
+    "time_start": "20:00",
+    "description": "Klezmer/jazz trio led by clarinetist and mandolin player Andy Statman with Larry Eagle and Jim Whitney.",
+    "url": "https://barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "klezmer"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.050Z"
+  },
+  {
+    "id": "barbes-2026-10-07-mandingo-ambassadors",
+    "title": "Mandingo Ambassadors",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-07",
+    "time_start": "22:00",
+    "description": "Mamady Kouyate leads this Guinean 70s funk group, the sound of the legendary Syliphone label.",
+    "url": "https://barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.050Z"
+  },
+  {
+    "id": "barbes-2026-10-09-meshuganah-mambo",
+    "title": "Meshuganah Mambo",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-09",
+    "time_start": "20:00",
+    "description": "Abe Pollack plays classics and original compositions inspired by bachelor-pad records and borscht-belt-flavored mambos.",
+    "url": "https://barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.050Z"
+  },
+  {
+    "id": "barbes-2026-10-09-rana-santacruz",
+    "title": "Rana Santacruz",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-09",
+    "time_start": "22:00",
+    "description": "\"Mexican Bluegrass and Irish Mariachi\" fusion.",
+    "url": "https://barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "mariachi"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.050Z"
+  },
+  {
+    "id": "barbes-2026-10-10-s-ndb-th",
+    "title": "SØÜNDBÄTH",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-10",
+    "time_start": "18:00",
+    "description": "Ambient sound bath project by Sam Day Harmet and Steve La Rosa using maracas, shakers, New Age cassettes, and electronics.",
+    "url": "https://barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.050Z"
+  },
+  {
+    "id": "barbes-2026-10-10-simon-hanes-tsons-of-tsunami",
+    "title": "Simon Hanes' Tsons of Tsunami",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-10",
+    "time_start": "20:00",
+    "description": "Forward-thinking avant-surf group featuring vibes, baritone guitar, French horn and other non-surf instruments.",
+    "url": "https://barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.050Z"
+  },
+  {
+    "id": "barbes-2026-10-11-ben-monder-theo-bleckmann",
+    "title": "Ben Monder / Theo Bleckmann",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-11",
+    "time_start": "18:00",
+    "description": "Experimental jazz guitar and vocal duo performance.",
+    "url": "https://barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.050Z"
+  },
+  {
+    "id": "union-docs-2026-10-18-showgirls-of-pakistan",
+    "title": "Showgirls of Pakistan",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-10-18",
+    "time_start": "19:30",
+    "description": "Documentary following three mujra dancers in Pakistan as they dodge state censors and violence to vie for stardom, with Saad Khan and Joey Chriqui.",
+    "url": "https://uniondocs.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Language & Culture",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.063Z"
+  },
+  {
+    "id": "union-docs-2026-11-13-camera-ministry-lens-based-encounters",
+    "title": "Camera Ministry: Lens-based Encounters",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-11-13",
+    "description": "A workshop exploring lens-based storytelling as a practice of presence, connection and encounter, with Khalik Allah, Shevaun Mizrahi and Jamil GS. Runs through Nov 15.",
+    "url": "https://uniondocs.org",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:22:34.063Z"
   }
 ]

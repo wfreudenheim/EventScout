@@ -31,7 +31,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:20:43.372Z",
+    "last_checked": "2026-10-07T07:22:33.971Z",
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
     "generated_scraper": null
@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-30T07:20:43.223Z"
+    "last_checked": "2026-10-07T07:22:33.791Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:18:41.320Z"
+    "last_checked": "2026-10-07T07:22:33.686Z"
   },
   {
     "id": "roulette",
@@ -591,7 +591,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:26:19.642Z"
+    "last_checked": "2026-10-07T07:22:33.914Z"
   },
   {
     "id": "light-industry",
@@ -645,7 +645,7 @@
     "scrape_tier": 2,
     "structured_source": null,
     "generated_scraper": "scrapers/union-docs.ts",
-    "last_checked": "2026-10-07T06:57:37.372Z"
+    "last_checked": "2026-10-07T07:22:34.072Z"
   },
   {
     "id": "whitney",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:19:47.099Z"
+    "last_checked": "2026-10-07T07:22:33.818Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:21:55.517Z"
+    "last_checked": "2026-10-07T07:22:33.891Z"
   },
   {
     "id": "moma",
@@ -1108,7 +1108,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:14:17.012Z",
+    "last_checked": "2026-10-07T07:22:34.028Z",
     "scrape_notes": "Sweep 2026-07: now 403s via WebFetch too (worked in March). | Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
   },
   {
@@ -1133,7 +1133,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: /calendar 404s, no obvious replacement (JS nav). WebFetch root and locate events path during sweep.",
-    "last_checked": "2026-09-23T07:18:51.841Z"
+    "last_checked": "2026-10-07T07:22:34.044Z"
   },
   {
     "id": "cooper-union",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-10-04T07:25:09.151Z"
+    "last_checked": "2026-10-07T07:22:33.833Z"
   },
   {
     "id": "the-shed",
@@ -1334,7 +1334,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-03-27T02:50:49.143Z",
+    "last_checked": "2026-10-07T07:22:33.851Z",
     "scrape_notes": "Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
   },
   {
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:35.571Z"
+    "last_checked": "2026-10-07T07:22:33.746Z"
   },
   {
     "id": "asia-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:19:46.995Z"
+    "last_checked": "2026-10-07T07:22:33.901Z"
   },
   {
     "id": "aaww",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:19:46.947Z"
+    "last_checked": "2026-10-07T07:22:33.999Z"
   },
   {
     "id": "nowadays",
@@ -2768,7 +2768,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:29:26.630Z"
+    "last_checked": "2026-10-07T07:22:33.715Z"
   },
   {
     "id": "white-columns",
@@ -2910,7 +2910,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:29:27.289Z"
+    "last_checked": "2026-10-07T07:22:33.763Z"
   },
   {
     "id": "harvestworks",
@@ -3337,7 +3337,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:19:53.606Z"
+    "last_checked": "2026-10-07T07:22:34.059Z"
   },
   {
     "id": "jalopy-theatre",
@@ -3390,7 +3390,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:33:19.318Z"
+    "last_checked": "2026-10-07T07:22:33.877Z"
   },
   {
     "id": "summerstage",
@@ -3598,7 +3598,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-07-27T15:32:29.511Z"
+    "last_checked": "2026-10-07T07:22:33.984Z"
   },
   {
     "id": "the-sultan-room",
@@ -3640,7 +3640,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-07-27T15:32:29.530Z"
+    "last_checked": "2026-10-07T07:22:33.950Z"
   },
   {
     "id": "nublu",
@@ -3654,7 +3654,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-07-27T15:32:29.536Z"
+    "last_checked": "2026-10-07T07:22:33.991Z"
   },
   {
     "id": "kaufman-music-center",
@@ -3668,7 +3668,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-07-27T15:32:29.542Z"
+    "last_checked": "2026-10-07T07:22:34.016Z"
   },
   {
     "id": "webster-hall",
