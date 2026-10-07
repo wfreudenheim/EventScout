@@ -1,186 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "drom",
-    "scrape_tier_used": 3,
-    "started_at": "2026-07-29T11:58:51.161Z",
-    "completed_at": "2026-07-29T11:58:51.161Z",
-    "events_found": 4,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "film-at-lincoln-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-07-29T11:58:51.169Z",
-    "completed_at": "2026-07-29T11:58:51.169Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "issue-project-room",
-    "scrape_tier_used": 3,
-    "started_at": "2026-07-29T11:58:51.175Z",
-    "completed_at": "2026-07-29T11:58:51.175Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "union-docs",
-    "scrape_tier_used": 3,
-    "started_at": "2026-07-29T11:58:51.180Z",
-    "completed_at": "2026-07-29T11:58:51.180Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "asia-art-archive-in-america",
-    "scrape_tier_used": 3,
-    "started_at": "2026-07-29T11:58:51.186Z",
-    "completed_at": "2026-07-29T11:58:51.186Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "rockaway-film-festival",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:46:03.814Z",
-    "completed_at": "2026-08-09T17:46:03.814Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "anthology-film-archives",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:46:03.822Z",
-    "completed_at": "2026-08-09T17:46:03.822Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "museum-of-moving-image",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:46:03.829Z",
-    "completed_at": "2026-08-09T17:46:03.829Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "triple-canopy",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:46:03.836Z",
-    "completed_at": "2026-08-09T17:46:03.836Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "rhizome",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:46:03.843Z",
-    "completed_at": "2026-08-09T17:46:03.843Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "bard-graduate-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:46:03.849Z",
-    "completed_at": "2026-08-09T17:46:03.849Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "barbes",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:46:03.864Z",
-    "completed_at": "2026-08-09T17:46:03.864Z",
-    "events_found": 5,
-    "events_new": 5,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "snug-harbor-cultural-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:46:03.871Z",
-    "completed_at": "2026-08-09T17:46:03.871Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "venue-agent",
-    "target_id": "union-docs",
-    "scrape_tier_used": 2,
-    "started_at": "2026-08-09T17:46:17.775Z",
-    "completed_at": "2026-08-09T17:46:17.775Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "pioneer-works",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:47:44.939Z",
-    "completed_at": "2026-08-09T17:47:44.939Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyc-resistor",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:47:44.947Z",
-    "completed_at": "2026-08-09T17:47:44.947Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "caveat",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:47:44.962Z",
-    "completed_at": "2026-08-09T17:47:44.962Z",
-    "events_found": 2,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "union-docs",
-    "scrape_tier_used": 3,
-    "started_at": "2026-08-09T17:47:44.972Z",
-    "completed_at": "2026-08-09T17:47:44.972Z",
-    "events_found": 10,
-    "events_new": 8,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "dustin-yellin-s-studio",
     "scrape_tier_used": 3,
     "started_at": "2026-08-09T17:47:44.979Z",
@@ -4997,6 +4817,186 @@
     "completed_at": "2026-10-07T07:22:34.074Z",
     "events_found": 3,
     "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bard-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.120Z",
+    "completed_at": "2026-10-07T07:23:05.120Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "film-at-lincoln-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.144Z",
+    "completed_at": "2026-10-07T07:23:05.144Z",
+    "events_found": 4,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-new-school",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.164Z",
+    "completed_at": "2026-10-07T07:23:05.164Z",
+    "events_found": 9,
+    "events_new": 9,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nitehawk",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.180Z",
+    "completed_at": "2026-10-07T07:23:05.180Z",
+    "events_found": 7,
+    "events_new": 7,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "guggenheim",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.194Z",
+    "completed_at": "2026-10-07T07:23:05.194Z",
+    "events_found": 5,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyu-game-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.209Z",
+    "completed_at": "2026-10-07T07:23:05.209Z",
+    "events_found": 2,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "asia-society",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.224Z",
+    "completed_at": "2026-10-07T07:23:05.224Z",
+    "events_found": 8,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "brooklyn-rail",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.233Z",
+    "completed_at": "2026-10-07T07:23:05.233Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-architecture",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.242Z",
+    "completed_at": "2026-10-07T07:23:05.242Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "cuny-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.257Z",
+    "completed_at": "2026-10-07T07:23:05.257Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "issue-project-room",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.265Z",
+    "completed_at": "2026-10-07T07:23:05.265Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.273Z",
+    "completed_at": "2026-10-07T07:23:05.273Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:05.281Z",
+    "completed_at": "2026-10-07T07:23:05.281Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "anthology-film-archives",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:52.396Z",
+    "completed_at": "2026-10-07T07:23:52.396Z",
+    "events_found": 12,
+    "events_new": 9,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "issue-project-room",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:52.407Z",
+    "completed_at": "2026-10-07T07:23:52.407Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "e-flux",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:52.427Z",
+    "completed_at": "2026-10-07T07:23:52.427Z",
+    "events_found": 10,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "light-industry",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:52.437Z",
+    "completed_at": "2026-10-07T07:23:52.437Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bitforms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:23:52.454Z",
+    "completed_at": "2026-10-07T07:23:52.454Z",
+    "events_found": 3,
+    "events_new": 1,
     "status": "completed"
   }
 ]

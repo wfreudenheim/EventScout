@@ -9506,5 +9506,956 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-07T07:22:34.063Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-07-goddesses-in-the-machine-fashion-in-amer",
+    "title": "Goddesses in the Machine: Fashion in American Silent Film",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-07",
+    "description": "Exhibition tracing fashion, photography and painting through American silent film, featured in ELLE, The New Yorker, and Vogue. Open through January 3.",
+    "url": "https://www.bgc.bard.edu",
+    "format": "gallery",
+    "interest_score": 2.6,
+    "tags": [
+      "painting",
+      "photography",
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.102Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-08-gallery-tours-goddesses-in-the-machine",
+    "title": "Gallery Tours: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-08",
+    "time_start": "12:30",
+    "time_end": "13:15",
+    "description": "Weekly docent-led tour of the Goddesses in the Machine exhibition on fashion in American silent film, led by a BGC gallery educator.",
+    "url": "https://www.bgc.bard.edu",
+    "format": "tour",
+    "interest_score": 2.1,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.104Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-07-free-talk-valeska-grisebach",
+    "title": "Free Talk: Valeska Grisebach",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-07",
+    "time_start": "18:00",
+    "description": "NYFF64 director Valeska Grisebach discusses her Main Slate selection The Dreamed Adventure, her improvisatory process and work with actors.",
+    "url": "https://www.filmlinc.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.123Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-09-closing-night-14th-intro-w-ava-duvernay-",
+    "title": "Closing Night: 14th (intro w. Ava DuVernay)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-09",
+    "time_start": "20:45",
+    "description": "Ava DuVernay's sequel to her 2016 documentary 13th, detailing systematic attacks on the 14th Amendment; NYFF64 closing-night film with an introduction by the director.",
+    "url": "https://www.filmlinc.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.123Z"
+  },
+  {
+    "id": "the-new-school-2026-10-09-vlc-forum-2026-matter-of-intelligence",
+    "title": "VLC Forum 2026: Matter of Intelligence",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-09",
+    "description": "Two-day convening of artists, curators, writers, scholars and technologists exploring the forms intelligence can take across species, systems and societies through art and critical inquiry. In-person at The New School and live-streamed.",
+    "url": "https://www.veralistcenter.org",
+    "price": "free",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.148Z"
+  },
+  {
+    "id": "the-new-school-2026-10-09-prize-presentation-and-conversation",
+    "title": "Prize Presentation and Conversation",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-09",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Award ceremony for Rosana Paulino's Jane Lombard Prize, followed by a conversation with the artist, philosopher Denise Ferreira da Silva and curator Diane Lima on Black feminist approaches to art and knowledge.",
+    "url": "https://www.veralistcenter.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.149Z"
+  },
+  {
+    "id": "the-new-school-2026-10-10-keynote-lecture-chus-mart-nez",
+    "title": "Keynote Lecture: Chus Martínez",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-10",
+    "time_start": "11:00",
+    "time_end": "12:00",
+    "description": "Curator Chus Martínez delivers the VLC Forum keynote, asking what forms of intelligence are still capable of generating cultural trust.",
+    "url": "https://www.veralistcenter.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.151Z"
+  },
+  {
+    "id": "the-new-school-2026-10-10-jenna-sutela-elvia-wilk-in-conversation",
+    "title": "Jenna Sutela & Elvia Wilk in Conversation",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-10",
+    "time_start": "12:00",
+    "time_end": "13:00",
+    "description": "Artist Jenna Sutela discusses her project nimiia cétiï, which brings together biological organisms and neural networks to imagine new forms of language.",
+    "url": "https://www.veralistcenter.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "neural-networks"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.151Z"
+  },
+  {
+    "id": "the-new-school-2026-10-10-stephanie-dinkins-neta-bomani-in-convers",
+    "title": "Stephanie Dinkins & Neta Bomani in Conversation",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-10",
+    "time_start": "14:00",
+    "time_end": "15:00",
+    "description": "Artist Stephanie Dinkins revisits her landmark project Conversations with Bina48, discussing her ongoing exchange with the social robot and more-than-human knowledge.",
+    "url": "https://www.veralistcenter.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.151Z"
+  },
+  {
+    "id": "the-new-school-2026-10-10-jason-edward-lewis-mashinka-hakopian-in-",
+    "title": "Jason Edward Lewis & Mashinka Hakopian in Conversation",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-10",
+    "time_start": "15:00",
+    "time_end": "16:00",
+    "description": "A discussion of Abundant Intelligences, an Indigenous-led AI research program, asking what becomes possible when AI is designed for human and non-human kin alike.",
+    "url": "https://www.veralistcenter.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.151Z"
+  },
+  {
+    "id": "the-new-school-2026-10-09-vlc-community-dinner-dream-futures",
+    "title": "VLC Community Dinner: Dream Futures",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-09",
+    "time_start": "20:00",
+    "time_end": "22:00",
+    "description": "Community dinner exploring dreaming, divining and futuretelling, featuring a performance by Oglála Lakȟóta artist Kite and provocations by Stephanie Dinkins.",
+    "url": "https://www.veralistcenter.org",
+    "price": "free",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.150Z"
+  },
+  {
+    "id": "the-new-school-2026-10-10-artree-nepal-with-prabal-gurung",
+    "title": "ArTree Nepal with Prabal Gurung",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-10",
+    "time_start": "16:00",
+    "time_end": "17:00",
+    "description": "ArTree Nepal members discuss Tika Chhedna Angana, a project centering Indigenous tattooing practices and embodied knowledge in Nepal.",
+    "url": "https://www.veralistcenter.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.151Z"
+  },
+  {
+    "id": "columbia-science-society-2026-10-28-the-tin-centuries-technology-and-statecr",
+    "title": "The Tin Centuries: Technology and Statecraft in Qing China",
+    "venue_id": "columbia-science-society",
+    "venue_name": "Columbia Center for Science and Society",
+    "date": "2026-10-28",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Book launch and conversation on how a mundane metal bound miners and officials to global capitalism and an emerging technocratic state in early modern China.",
+    "url": "https://scienceandsociety.columbia.edu",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.151Z"
+  },
+  {
+    "id": "nitehawk-2026-10-07-scream-of-my-blood-a-gogol-bordello-stor",
+    "title": "Scream of My Blood: A Gogol Bordello Story (w/ Q&A)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-07",
+    "description": "Documentary portrait of Eugene Hütz, founder of Gogol Bordello, followed by a Q&A with Hütz and the directors.",
+    "url": "https://nitehawkcinema.com",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.166Z"
+  },
+  {
+    "id": "nitehawk-2026-10-08-a-brooklyn-dream-w-q-a-",
+    "title": "A Brooklyn Dream (w/ Q&A)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-08",
+    "description": "Characters jump off the screen as the story comes alive in the theater itself, followed by a Q&A with writer/director Kaves.",
+    "url": "https://nitehawkcinema.com",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.167Z"
+  },
+  {
+    "id": "nitehawk-2026-10-12-urgh-a-music-war-35mm-",
+    "title": "Urgh! A Music War (35mm)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-12",
+    "description": "80s music documentary screened on 35mm with the hosts of the Professors of Urgh podcast and special guest Hugo Burnham of Gang of Four.",
+    "url": "https://nitehawkcinema.com",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.167Z"
+  },
+  {
+    "id": "nitehawk-2026-10-07-attack-the-block-35mm-",
+    "title": "Attack the Block (35mm)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-07",
+    "description": "5th anniversary screening of Adventures in Black Cinema, featuring John Boyega's big-screen debut on 35mm.",
+    "url": "https://nitehawkcinema.com",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.166Z"
+  },
+  {
+    "id": "nitehawk-2026-10-09-the-social-reckoning",
+    "title": "The Social Reckoning",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-09",
+    "description": "Aaron Sorkin's companion piece to The Social Network, opening at both Nitehawk locations.",
+    "url": "https://nitehawkcinema.com",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.167Z"
+  },
+  {
+    "id": "nitehawk-2026-10-09-other-mommy",
+    "title": "Other Mommy",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-09",
+    "description": "An 8-year-old girl encounters a sinister entity that looks and sounds just like her mother.",
+    "url": "https://nitehawkcinema.com",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.167Z"
+  },
+  {
+    "id": "nitehawk-2026-10-28-the-craft-w-drag-pre-show-",
+    "title": "The Craft (w/ drag pre-show)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-28",
+    "description": "Miss Malice Presents gets witchy with a drag pre-show ahead of a screening of The Craft.",
+    "url": "https://nitehawkcinema.com",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.167Z"
+  },
+  {
+    "id": "guggenheim-2026-10-07-caf-rebay-x-patrick-rosal",
+    "title": "Café Rebay x Patrick Rosal",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-07",
+    "time_start": "10:30",
+    "time_end": "17:00",
+    "description": "Public project designed for Café Rebay in which Guggenheim Poet-in-Residence Patrick Rosal poses questions on the topic of water and invites visitors to respond.",
+    "url": "https://www.guggenheim.org",
+    "price": "free with admission",
+    "format": "reading",
+    "interest_score": 3.1,
+    "tags": [
+      "water"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.183Z"
+  },
+  {
+    "id": "guggenheim-2026-10-10-architecture-tours",
+    "title": "Architecture Tours",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-10",
+    "time_start": "11:30",
+    "time_end": "12:30",
+    "description": "Hour-long guided tour of the Guggenheim's Frank Lloyd Wright building, offered Saturdays and Sundays as part of Archtober.",
+    "url": "https://www.guggenheim.org",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.183Z"
+  },
+  {
+    "id": "guggenheim-2026-10-15-late-shift",
+    "title": "Late Shift",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-15",
+    "time_start": "18:30",
+    "description": "Guggenheim's monthly after-hours series, with the museum's spiral staying open late; this month featuring psychedelic, Latin-inspired sounds from Arushi Jain and Debit.",
+    "url": "https://www.guggenheim.org",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.183Z"
+  },
+  {
+    "id": "guggenheim-2026-10-12-works-process-minnesota-opera-the-many-d",
+    "title": "Works & Process: Minnesota Opera - The Many Deaths of Laila Starr",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-12",
+    "time_start": "19:00",
+    "time_end": "20:15",
+    "description": "Opera adaptation of BOOM! Studios' acclaimed comic The Many Deaths of Laila Starr, composed by Kamala Sankaram with libretto by Minita Gandhi.",
+    "url": "https://www.guggenheim.org",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.183Z"
+  },
+  {
+    "id": "guggenheim-2026-10-18-works-process-washington-national-opera-",
+    "title": "Works & Process: Washington National Opera - O'Keeffe: Kiss the Sky",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-18",
+    "time_start": "19:00",
+    "time_end": "20:15",
+    "description": "Behind-the-scenes look at an opera-ballet tracing Georgia O'Keeffe's journey, ahead of its Spring 2027 world premiere.",
+    "url": "https://www.guggenheim.org",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.183Z"
+  },
+  {
+    "id": "nyu-game-center-2026-10-08-playtest-thursday-ny-games-week-special-",
+    "title": "Playtest Thursday: NY Games Week Special Edition",
+    "venue_id": "nyu-game-center",
+    "venue_name": "NYU Game Center",
+    "date": "2026-10-08",
+    "time_start": "17:30",
+    "time_end": "19:30",
+    "description": "Special edition playtest night in partnership with GameMaker Community of NY/NJ, part of the inaugural New York Games Week, with free snacks and industry guests.",
+    "url": "https://gamecenter.nyu.edu",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.198Z"
+  },
+  {
+    "id": "nyu-game-center-2026-10-15-playtest-thursday",
+    "title": "Playtest Thursday",
+    "venue_id": "nyu-game-center",
+    "venue_name": "NYU Game Center",
+    "date": "2026-10-15",
+    "time_start": "17:30",
+    "time_end": "19:30",
+    "description": "Weekly open playtest night for NYC indie game developers and curious visitors.",
+    "url": "https://gamecenter.nyu.edu",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.198Z"
+  },
+  {
+    "id": "asia-society-2026-10-25-after-dreaming",
+    "title": "After Dreaming",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-25",
+    "time_start": "14:15",
+    "time_end": "16:30",
+    "description": "Christine Haroutounian's surreal directorial debut explores a patriarchal society inseparable from war, followed by a Q&A with the director.",
+    "url": "https://asiasociety.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.212Z"
+  },
+  {
+    "id": "asia-society-2026-10-23-hello-it-s-me",
+    "title": "Hello, It's Me",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-23",
+    "time_start": "18:30",
+    "time_end": "20:45",
+    "description": "The first Armenian film to screen at Cannes (1966), a fictionalized biography of physicist Artem Alikhanyan, part of the Our Century: Spiraling Paths Through Armenian Cinema series.",
+    "url": "https://asiasociety.org",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.211Z"
+  },
+  {
+    "id": "asia-society-2026-10-24-calendar-lebbeus-thaddeus",
+    "title": "Calendar + Lebbeus/Thaddeus",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-24",
+    "time_start": "12:30",
+    "time_end": "14:15",
+    "description": "Atom Egoyan's Calendar follows a photographer documenting Armenian churches after independence from the Soviet Union, preceded by Arby Ovanessian's Lebbeus/Thaddeus.",
+    "url": "https://asiasociety.org",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.212Z"
+  },
+  {
+    "id": "asia-society-2026-10-28-our-hearts-burned-for-home-book-talk-wit",
+    "title": "Our Hearts Burned for Home: Book Talk with Emily Feng and Michael Forsythe",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-28",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "NPR's Emily Feng discusses her reportage tracing Uyghurs who fled China's surveillance state only to end up in the Syrian Civil War, with the New York Times' Michael Forsythe.",
+    "url": "https://asiasociety.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.212Z"
+  },
+  {
+    "id": "asia-society-2026-10-31-film-screening-retribution",
+    "title": "Film Screening: Retribution",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-31",
+    "time_start": "18:30",
+    "time_end": "20:15",
+    "description": "Kiyoshi Kurosawa's ghost story follows a detective haunted by a murder victim as an earthquake threatens the city.",
+    "url": "https://asiasociety.org",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.212Z"
+  },
+  {
+    "id": "cuny-graduate-center-2026-10-14-ai-and-the-future-of-education",
+    "title": "AI and the Future of Education",
+    "venue_id": "cuny-graduate-center",
+    "venue_name": "CUNY Graduate Center",
+    "date": "2026-10-14",
+    "time_start": "18:30",
+    "description": "A panel of experts weighs in on how AI is changing education from K-12 through college, and how schools can prepare students for a transformed workplace.",
+    "url": "https://www.gc.cuny.edu",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:05.244Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-08-vika-kirchenbauer-pgm-1",
+    "title": "Vika Kirchenbauer Pgm 1",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-08",
+    "time_start": "19:30",
+    "description": "First program of work by contemporary experimental video and moving-image artist Vika Kirchenbauer.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62071",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.364Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-09-vika-kirchenbauer-pgm-2",
+    "title": "Vika Kirchenbauer Pgm 2",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-09",
+    "time_start": "19:30",
+    "description": "Second program of work by experimental video/moving-image artist Vika Kirchenbauer.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62075",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.364Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-14-women-in-animation-pgm-2-on-being-a-woma",
+    "title": "Women in Animation Pgm 2: On Being a Woman",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-14",
+    "time_start": "19:00",
+    "description": "Second program in the Women in Animation series, centered on experiences of womanhood.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62067",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.365Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-15-women-in-animation-pgm-3-sunflower-lane",
+    "title": "Women in Animation Pgm 3: Sunflower Lane",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-15",
+    "time_start": "19:00",
+    "description": "Third program in the Women in Animation series.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62069",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.365Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-19-multi-media-resource-center-pgm-7-patter",
+    "title": "Multi-Media Resource Center Pgm 7: Pattern Films, Part 1",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-19",
+    "time_start": "19:00",
+    "description": "Archival program of abstract, structural 'pattern films.'",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62023",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.367Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-20-multi-media-resource-center-pgm-8-patter",
+    "title": "Multi-Media Resource Center Pgm 8: Pattern Films, Part 2",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-20",
+    "time_start": "19:00",
+    "description": "Second program of abstract 'pattern films' from the Multi-Media Resource Center series.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62025",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.367Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-31-ec-hollis-frampton",
+    "title": "EC: Hollis Frampton",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-31",
+    "time_start": "17:30",
+    "description": "Essential Cinema program devoted to Hollis Frampton, a foundational figure of structural/experimental American cinema.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61923",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.371Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-16-multi-media-resource-center-pgm-1-confes",
+    "title": "Multi-Media Resource Center Pgm 1: Confessions and Sex Histories",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-16",
+    "time_start": "18:45",
+    "description": "Archival program from the Multi-Media Resource Center, an educational/experimental film collective.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62011",
+    "format": "screening",
+    "interest_score": 3.8,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.366Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-08-combat-breathing-read-my-desire-part-1",
+    "title": "Combat Breathing: Read My Desire, Part 1",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-08",
+    "time_start": "18:30",
+    "description": "Installment of the 'Combat Breathing' retrospective, a series exploring anti-colonial and insurgent image-making.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62123",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.364Z"
+  },
+  {
+    "id": "e-flux-2026-10-20-incomputable-earth-technology-and-the-an",
+    "title": "Incomputable Earth: Technology and the Anthropocene Hypothesis",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-20",
+    "time_start": "19:00",
+    "description": "A public program exploring how technology, planetary systems, and the Anthropocene hypothesis reframe questions of computability, ecology, and critical theory.",
+    "url": "https://www.e-flux.com/events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [
+      "ecology",
+      "anthropocene",
+      "critical-theory"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Philosophy & Critical Theory",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.412Z"
+  },
+  {
+    "id": "e-flux-2026-10-13-film-at-a-distance-on-artavazd-peleshyan",
+    "title": "Film at a Distance: On Artavazd Peleshyan",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-13",
+    "time_start": "19:00",
+    "description": "A talk and screening devoted to Armenian filmmaker Artavazd Peleshyan, celebrated for his 'distance montage' technique of experimental documentary cinema.",
+    "url": "https://www.e-flux.com/events/6783395/film-at-a-distance-on-artavazd-peleshyan/",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.411Z"
+  },
+  {
+    "id": "e-flux-2026-10-15-sometimes-it-was-beautiful",
+    "title": "Sometimes It Was Beautiful",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-15",
+    "time_start": "18:00",
+    "description": "The African Film Institute presents a screening of Sometimes It Was Beautiful at the Logan Center for the Arts.",
+    "url": "https://www.e-flux.com/events/6783396/sometimes-it-was-beautiful/",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.412Z"
+  },
+  {
+    "id": "bitforms-2027-04-01-time-frames-siebren-versteeg",
+    "title": "TIME FRAMES: Siebren Versteeg",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2027-04-01",
+    "description": "Siebren Versteeg presents five live-feed video artworks that re-crop, mirror, and pixelate familiar places, installed in flat-screen vitrines along a St. John's University gallery corridor (Jamaica, Queens). On view through Spring 2027; nominal date used here.",
+    "url": "https://sjuartgallery.org/Siebren-Versteeg",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:23:52.440Z"
   }
 ]

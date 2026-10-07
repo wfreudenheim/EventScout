@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:22:33.791Z"
+    "last_checked": "2026-10-07T07:23:52.394Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:22:33.686Z"
+    "last_checked": "2026-10-07T07:23:52.405Z"
   },
   {
     "id": "roulette",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:19:46.962Z"
+    "last_checked": "2026-10-07T07:23:05.280Z"
   },
   {
     "id": "knockdown-center",
@@ -419,7 +419,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:18:51.660Z"
+    "last_checked": "2026-10-07T07:23:05.162Z"
   },
   {
     "id": "columbia-gsapp",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:19:47.113Z"
+    "last_checked": "2026-10-07T07:23:52.424Z"
   },
   {
     "id": "artists-space",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:18:41.342Z"
+    "last_checked": "2026-10-07T07:23:52.435Z"
   },
   {
     "id": "union-docs",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:19:47.067Z"
+    "last_checked": "2026-10-07T07:23:05.240Z"
   },
   {
     "id": "bitforms",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:18:41.363Z"
+    "last_checked": "2026-10-07T07:23:52.453Z"
   },
   {
     "id": "microscope-gallery",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:22:33.818Z"
+    "last_checked": "2026-10-07T07:23:05.142Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1133,7 +1133,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: /calendar 404s, no obvious replacement (JS nav). WebFetch root and locate events path during sweep.",
-    "last_checked": "2026-10-07T07:22:34.044Z"
+    "last_checked": "2026-10-07T07:23:05.193Z"
   },
   {
     "id": "cooper-union",
@@ -1503,7 +1503,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.595Z"
+    "last_checked": "2026-10-07T07:23:05.254Z"
   },
   {
     "id": "columbia-soa-lenfest",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:19:47.053Z"
+    "last_checked": "2026-10-07T07:23:05.118Z"
   },
   {
     "id": "the-stone",
@@ -2223,7 +2223,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:14:16.968Z"
+    "last_checked": "2026-10-07T07:23:05.179Z"
   },
   {
     "id": "japan-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:22:33.901Z"
+    "last_checked": "2026-10-07T07:23:05.223Z"
   },
   {
     "id": "aaww",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:22:33.999Z"
+    "last_checked": "2026-10-07T07:23:05.271Z"
   },
   {
     "id": "nowadays",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:19:47.045Z"
+    "last_checked": "2026-10-07T07:23:05.231Z"
   },
   {
     "id": "nypl-live",
@@ -3053,7 +3053,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:21:55.549Z"
+    "last_checked": "2026-10-07T07:23:05.207Z"
   },
   {
     "id": "abrons-arts-center",
