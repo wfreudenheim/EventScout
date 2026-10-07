@@ -10559,5 +10559,302 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:27:54.212Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-08-eating-through-streetscapes-food-frontag",
+    "title": "Eating Through Streetscapes: Food, Frontage, and Public Space in NYC",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-08",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A talk on how food vendors, storefronts, and frontage shape public space and street life in NYC.",
+    "url": "https://calendar.aiany.org/2026/10/08/eating-through-streetscapes-food-frontage-and-public-space-in-nyc/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "public-space"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.292Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-10-walking-tour-the-rise-of-the-skyscraper-",
+    "title": "Walking Tour: The Rise of the Skyscraper in Downtown New York",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-10",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "description": "A mixed-reality walking tour tracing the evolution of the skyscraper through downtown New York using augmented overlays.",
+    "url": "https://calendar.aiany.org/2026/10/10/walking-tour-the-rise-of-the-skyscraper-in-downtown-new-york-3/",
+    "format": "walk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.295Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-11-archtober-x-data-vandals-architecture-de",
+    "title": "Archtober x Data Vandals: Architecture & Design Film Festival (ADFF) Short Films",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-11",
+    "time_start": "14:00",
+    "time_end": "18:00",
+    "description": "A short-film screening at a newsstand takeover, presented in partnership with the Architecture & Design Film Festival as part of Archtober.",
+    "url": "https://calendar.aiany.org/2026/10/11/archtober-x-data-vandals-architecture-design-film-festival-adff-short-films/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "film-festival",
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.295Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-09-not-a-worry-in-site-inherited-forms-and-",
+    "title": "Not a Worry in Site: Inherited Forms and Contemporary Navajo Design",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-09",
+    "time_start": "13:00",
+    "time_end": "14:00",
+    "description": "A talk on Navajo architecture as something carried forward through land, movement, and lived practice rather than preserved as static form.",
+    "url": "https://calendar.aiany.org/2026/10/09/not-a-worry-in-site-inherited-forms-and-contemporary-navajo-design/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.293Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-09-walking-tour-madison-avenue-high-fashion",
+    "title": "Walking Tour: Madison Avenue, High Fashion, and Historic Preservation",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-09",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "description": "A walking tour exploring the intersection of high-fashion retail and historic preservation along Madison Avenue.",
+    "url": "https://calendar.aiany.org/2026/10/09/walking-tour-madison-avenue-high-fashion-and-historic-preservation-46/",
+    "format": "walk",
+    "interest_score": 3,
+    "tags": [
+      "preservation"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.293Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-09-exhibition-tour-of-humanist-modernity-ma",
+    "title": "Exhibition Tour of Humanist Modernity: Maciej and Stanisława Nowicki",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-09",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Guided tour of the exhibition on architects Maciej and Stanisława Nowicki and their humanist approach to modernism.",
+    "url": "https://calendar.aiany.org/2026/10/09/exhibition-tour-of-humanist-modernity-maciej-and-stanis%c5%82awa-nowicki/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [
+      "modernism"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.295Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-10-building-of-the-day-storm-king",
+    "title": "Building of the Day: Storm King",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-10",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "Guided tour centered on Storm King Art Center, the outdoor sculpture park.",
+    "url": "https://calendar.aiany.org/2026/10/10/building-of-the-day-storm-king/",
+    "price": "sold out",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.295Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-11-walking-tour-two-squares-union-to-madiso",
+    "title": "Walking Tour: Two Squares (Union to Madison)",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-11",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A walking tour tracing political and economic forces captured in NYC's urban texture from 14th to 26th Street.",
+    "url": "https://calendar.aiany.org/2026/10/11/walking-tour-two-squares-union-to-madison-7/",
+    "format": "walk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.295Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-13-being-a-good-relative-architecture-throu",
+    "title": "Being a Good Relative: Architecture Through Wahkohtowin",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-13",
+    "time_start": "13:00",
+    "time_end": "14:00",
+    "description": "A conversation with Reanna McKay, a Nihithaw artist, writer, and architect, on architecture through the Indigenous principle of Wahkohtowin.",
+    "url": "https://calendar.aiany.org/2026/10/13/being-a-good-relative-architecture-through-wahkohtowin/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.296Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-13-shelter-and-reconstruction-after-earthqu",
+    "title": "Shelter and Reconstruction After Earthquakes in Türkiye and Japan",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-13",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A talk exploring the critical period between emergency shelter and permanent reconstruction following major earthquakes in Türkiye and Japan.",
+    "url": "https://calendar.aiany.org/2026/10/13/shelter-and-reconstruction-after-earthquakes-in-t%c3%bcrkiye-and-japan/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.296Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-14-building-of-the-day-studio-museum",
+    "title": "Building of the Day: Studio Museum",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-14",
+    "time_start": "12:00",
+    "time_end": "13:00",
+    "description": "Guided tour of the new Studio Museum in Harlem building, designed by Adjaye Associates with Corgan as executive architect.",
+    "url": "https://calendar.aiany.org/2026/10/14/building-of-the-day-studio-museum/",
+    "price": "sold out",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.296Z"
+  },
+  {
+    "id": "cooper-union-2026-10-20-history-theory-panel-fascism-antifascism",
+    "title": "History/Theory Panel | Fascism / Antifascism",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-20",
+    "time_start": "18:30",
+    "description": "A panel examining historical and theoretical dimensions of fascism and antifascism.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/historytheory-panel-fascism-antifascism",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.314Z"
+  },
+  {
+    "id": "cooper-union-2026-10-15-kelly-walters-for-open-flat-file",
+    "title": "Kelly Walters for Open Flat File",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-15",
+    "time_start": "18:30",
+    "description": "Designer/artist Kelly Walters presents work as part of Cooper Union's Open Flat File program.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/kelly-walters-open-flat-file",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.314Z"
+  },
+  {
+    "id": "nyas-2026-11-04-fire-after-fire-the-global-wildfire-chal",
+    "title": "Fire After Fire: The Global Wildfire Challenge and the Hidden Risks of Recovery",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-11-04",
+    "description": "A virtual talk on the global wildfire crisis and the hidden risks of post-fire recovery and rebuilding.",
+    "url": "https://www.nyas.org/shaping-science/events/fire-after-fire-the-global-wildfire-challenge-and-the-hidden-risks-of-recovery",
+    "price": "free for members",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:29:48.352Z"
   }
 ]

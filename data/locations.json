@@ -560,7 +560,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:25:08.988Z"
+    "last_checked": "2026-10-07T07:29:48.285Z"
   },
   {
     "id": "bam",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:23:05.240Z"
+    "last_checked": "2026-10-07T07:29:48.309Z"
   },
   {
     "id": "bitforms",
@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:25:09.091Z"
+    "last_checked": "2026-10-07T07:29:48.328Z"
   },
   {
     "id": "printed-matter",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-10-07T07:22:33.833Z"
+    "last_checked": "2026-10-07T07:29:48.338Z"
   },
   {
     "id": "the-shed",
@@ -1310,7 +1310,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:25:09.160Z"
+    "last_checked": "2026-10-07T07:29:48.348Z"
   },
   {
     "id": "mcnally-jackson",
@@ -1653,7 +1653,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:25:09.808Z"
+    "last_checked": "2026-10-07T07:29:48.365Z"
   },
   {
     "id": "bard-graduate-center",
