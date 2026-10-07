@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-30T07:33:19.518Z"
+    "last_checked": "2026-10-07T07:37:43.065Z"
   },
   {
     "id": "the-drawing-center",
@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-10-04T07:29:28.600Z"
+    "last_checked": "2026-10-07T07:37:43.077Z"
   },
   {
     "id": "do-not-research",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:29:28.625Z",
+    "last_checked": "2026-10-07T07:37:43.103Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -3192,7 +3192,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:29:58.902Z"
+    "last_checked": "2026-10-07T07:37:43.125Z"
   },
   {
     "id": "morbid-anatomy",

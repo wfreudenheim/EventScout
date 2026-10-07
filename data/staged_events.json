@@ -11955,5 +11955,202 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:37:22.421Z"
+  },
+  {
+    "id": "whitney-2026-10-09-exhibition-tour-whitney-biennial-2026",
+    "title": "Exhibition Tour: Whitney Biennial 2026",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-09",
+    "time_start": "13:00",
+    "description": "Guided walkthrough of the 2026 Whitney Biennial on Floor 6, surveying new contemporary art.",
+    "url": "https://whitney.org/events/tour-whitney-biennial-2026-floor6",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [
+      "contemporary-art"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.041Z"
+  },
+  {
+    "id": "whitney-2026-10-07-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-07",
+    "time_start": "12:00",
+    "description": "Docent-led tour of the \"Untitled\" (America) exhibition on Floor 7 of the Whitney.",
+    "url": "https://whitney.org/events/untitled-america-exb-tour",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.038Z"
+  },
+  {
+    "id": "whitney-2026-10-07-exhibition-tour-the-lost-world-the-art-o",
+    "title": "Exhibition Tour: The Lost World: The Art of Minnie Evans",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-07",
+    "time_start": "14:00",
+    "description": "Guided tour exploring visionary folk artist Minnie Evans' exhibition on Floor 8.",
+    "url": "https://whitney.org/events/minnie-evans-tour",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.041Z"
+  },
+  {
+    "id": "elsewhere-2026-10-30-guerilla-toss-ben-katzman-s-degreaser",
+    "title": "Guerilla Toss, Ben Katzman's Degreaser",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-30",
+    "time_start": "19:00",
+    "description": "Experimental art-punk/noise-pop band Guerilla Toss performs in Zone One with Ben Katzman's Degreaser.",
+    "url": "https://www.elsewhere.club/events/2001020403894",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "noise"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.086Z"
+  },
+  {
+    "id": "elsewhere-2026-11-05-deerhoof-mercy-my-trio",
+    "title": "Deerhoof, Mercy, My Trio",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-05",
+    "time_start": "19:00",
+    "description": "Long-running experimental rock band Deerhoof performs in The Hall with Mercy and My Trio.",
+    "url": "https://www.elsewhere.club/events/1992954959934",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.087Z"
+  },
+  {
+    "id": "elsewhere-2026-11-07-ami-taf-ra-kamasi-washington",
+    "title": "Ami Taf Ra + Kamasi Washington",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-07",
+    "time_start": "19:00",
+    "description": "Acclaimed spiritual-jazz saxophonist Kamasi Washington performs in The Hall with Ami Taf Ra.",
+    "url": "https://www.elsewhere.club/events/2000207327962",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.087Z"
+  },
+  {
+    "id": "elsewhere-2026-10-14-madi-diaz-tasha",
+    "title": "Madi Diaz, Tasha",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-14",
+    "time_start": "19:00",
+    "description": "Live performance by singer-songwriter Madi Diaz with support from Tasha, in Zone One.",
+    "url": "https://www.elsewhere.club/events/1998250978468",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.082Z"
+  },
+  {
+    "id": "elsewhere-2026-10-23-ilykimchi",
+    "title": "Ilykimchi",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-23",
+    "time_start": "19:00",
+    "description": "Live set from experimental pop/electronic artist Ilykimchi in Zone One.",
+    "url": "https://www.elsewhere.club/events/1997157401550",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.084Z"
+  },
+  {
+    "id": "the-brick-2026-10-08-im-dunkeln-sieht-man-besser",
+    "title": "Im Dunkeln sieht man besser",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-10-08",
+    "description": "Leonie Bell's dark cabaret-comedy \"Im Dunkeln sieht man besser\" (You Can See Better in the Dark), running Oct 1-18 at The Brick: a birthday-girl cabaret, an undead local's scheduling crisis, and an accountant-turned-producer who decides to haunt a ghost from her past, in a town where the living and undead cohabitate.",
+    "url": "https://www.bricktheater.com/event/im-dunkeln-sieht-man-besser/2026-10-08/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.107Z"
+  },
+  {
+    "id": "the-brick-2026-12-03-letters-from-tyra",
+    "title": "Letters from Tyra",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-12-03",
+    "description": "Derek Smith's \"revenge dream ballet\" blending song, dance, and scene work: a shifting hour of alt-comedy theater performed solo after a collaborator's departure, running Dec 3-20.",
+    "url": "https://www.bricktheater.com/event/letters-from-tyra/2026-12-03/",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:37:43.108Z"
   }
 ]

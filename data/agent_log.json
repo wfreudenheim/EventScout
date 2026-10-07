@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "n-plus-one",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:42.165Z",
-    "completed_at": "2026-09-15T14:55:42.165Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "venue-agent",
-    "target_id": "union-docs",
-    "scrape_tier_used": 2,
-    "started_at": "2026-09-15T14:56:46.758Z",
-    "completed_at": "2026-09-15T14:56:46.758Z",
-    "events_found": 0,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "pioneer-works",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:57:18.571Z",
-    "completed_at": "2026-09-15T14:57:18.571Z",
-    "events_found": 12,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyc-resistor",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:57:19.817Z",
-    "completed_at": "2026-09-15T14:57:19.817Z",
-    "events_found": 7,
-    "events_new": 7,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "nyu-itp",
     "scrape_tier_used": 3,
     "started_at": "2026-09-15T14:57:19.826Z",
@@ -4997,6 +4957,46 @@
     "completed_at": "2026-10-07T07:37:22.434Z",
     "events_found": 7,
     "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "whitney",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:37:43.068Z",
+    "completed_at": "2026-10-07T07:37:43.068Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-drawing-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:37:43.079Z",
+    "completed_at": "2026-10-07T07:37:43.079Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "elsewhere",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:37:43.105Z",
+    "completed_at": "2026-10-07T07:37:43.105Z",
+    "events_found": 12,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-brick",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:37:43.127Z",
+    "completed_at": "2026-10-07T07:37:43.127Z",
+    "events_found": 4,
+    "events_new": 2,
     "status": "completed"
   }
 ]
