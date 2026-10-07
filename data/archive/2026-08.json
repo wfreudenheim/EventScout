@@ -1232,6 +1232,28 @@
     "discovered_at": "2026-08-09T17:47:44.974Z"
   },
   {
+    "id": "harvestworks-2026-08-29-in-other-forms",
+    "title": "In Other Forms",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-08-29",
+    "description": "A group exhibition at Harvestworks exploring new and emerging technologies in contemporary artistic practice, on view August 29 through November 1, 2026.",
+    "url": "https://www.harvestworks.org/event/in-other-forms/",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "contemporary-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-04T07:18:40.686Z"
+  },
+  {
     "id": "national-sawdust-2026-08-31-keir-gogwilt-the-zarabanda-variations",
     "title": "Keir GoGwilt: The Zarabanda Variations",
     "venue_id": "national-sawdust",

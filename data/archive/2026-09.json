@@ -224,6 +224,28 @@
     "discovered_at": "2026-08-09T17:47:44.966Z"
   },
   {
+    "id": "bitforms-2026-09-10-jennifer-kevin-mccoy-relensing",
+    "title": "Jennifer & Kevin McCoy: ReLensing",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-09-10",
+    "description": "Jennifer and Kevin McCoy's exhibition ReLensing, on view at bitforms gallery in New York through October 17, 2026, continues the duo's work in media art and database-driven narrative.",
+    "url": "https://www.bitforms.art/exhibition/relensing",
+    "format": "gallery",
+    "interest_score": 3.5,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-04T07:18:41.353Z"
+  },
+  {
     "id": "film-forum-2026-09-11-kwaidan-kobayashi-4k-",
     "title": "Kwaidan (Kobayashi, 4K)",
     "venue_id": "film-forum",
@@ -323,6 +345,28 @@
     "source_agent": "tier3-claude",
     "status": "archived",
     "discovered_at": "2026-07-24T17:33:24.932Z"
+  },
+  {
+    "id": "bitforms-2026-09-12-lajun-mcmillian-child-ren-of-the-bloom",
+    "title": "LaJuné McMillian: Child/ren of the Bloom",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-09-12",
+    "description": "An interactive, multidisciplinary installation at Pioneer Works (through December 20, 2026) exploring the threshold between land and sea, drawing on research into phytoplankton, algal blooms, and bioluminescence from McMillian's OceanX artist residency.",
+    "url": "https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-04T07:18:41.353Z"
   },
   {
     "id": "issue-project-room-2026-09-12-no-neck-blues-band",
