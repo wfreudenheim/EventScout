@@ -8578,25 +8578,6 @@
     "discovered_at": "2026-10-07T07:20:35.534Z"
   },
   {
-    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
-    "title": "Gen'ichirō Inokuma's NYC Salon",
-    "venue_id": "japan-society",
-    "venue_name": "Japan Society",
-    "date": "2026-10-06",
-    "description": "Exhibition on Japanese modernist painter Gen'ichirō Inokuma's two decades in mid-century New York, examining his deep connections across the NYC art world and his design work for Japan Society. On view October 6, 2026 through January 10, 2027.",
-    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
-    "price": "varies",
-    "format": "gallery",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:20:35.560Z"
-  },
-  {
     "id": "issue-project-room-2026-11-07-caminos",
     "title": "Caminos",
     "venue_id": "issue-project-room",
@@ -11294,24 +11275,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:36:31.645Z"
-  },
-  {
-    "id": "la-mama-2026-10-01-queer-new-york-international-arts-festiv",
-    "title": "Queer New York International Arts Festival (QNYIA)",
-    "venue_id": "la-mama",
-    "venue_name": "La MaMa",
-    "date": "2026-10-01",
-    "description": "Multi-day international festival of queer performance, theater, and interdisciplinary work presented across La MaMa's venues; running Oct 1-11, 2026, with several individual shows continuing after Oct 7.",
-    "url": "https://lamama.org/queer-new-york-festival/",
-    "format": "festival",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:36:31.683Z"
   },
   {
     "id": "la-mama-2026-10-08-only-under-qnyia-",

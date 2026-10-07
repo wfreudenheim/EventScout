@@ -2860,6 +2860,25 @@
     "discovered_at": "2026-09-23T07:18:14.872Z"
   },
   {
+    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
+    "title": "Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-06",
+    "description": "Exhibition on Japanese modernist painter Gen'ichirō Inokuma's two decades in mid-century New York, examining his deep connections across the NYC art world and his design work for Japan Society. On view October 6, 2026 through January 10, 2027.",
+    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-07T07:20:35.560Z"
+  },
+  {
     "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon-exhibition",
     "title": "Gen'ichirō Inokuma's NYC Salon — Exhibition Opening",
     "venue_id": "japan-society",
