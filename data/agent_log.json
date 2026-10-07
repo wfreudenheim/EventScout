@@ -1,116 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "issue-project-room",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.223Z",
-    "completed_at": "2026-09-15T14:55:26.223Z",
-    "events_found": 5,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "e-flux",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.231Z",
-    "completed_at": "2026-09-15T14:55:26.231Z",
-    "events_found": 4,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "onassis-onx",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.237Z",
-    "completed_at": "2026-09-15T14:55:26.237Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "pioneer-works",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.244Z",
-    "completed_at": "2026-09-15T14:55:26.244Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "sculpture-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.251Z",
-    "completed_at": "2026-09-15T14:55:26.251Z",
-    "events_found": 2,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "the-kitchen",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.259Z",
-    "completed_at": "2026-09-15T14:55:26.259Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "wendys-subway",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.266Z",
-    "completed_at": "2026-09-15T14:55:26.266Z",
-    "events_found": 4,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "amant",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.273Z",
-    "completed_at": "2026-09-15T14:55:26.273Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "abrons-arts-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.279Z",
-    "completed_at": "2026-09-15T14:55:26.279Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "museum-of-moving-image",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.287Z",
-    "completed_at": "2026-09-15T14:55:26.287Z",
-    "events_found": 9,
-    "events_new": 9,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "film-at-lincoln-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-15T14:55:26.296Z",
-    "completed_at": "2026-09-15T14:55:26.296Z",
-    "events_found": 12,
-    "events_new": 12,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "anthology-film-archives",
     "scrape_tier_used": 3,
     "started_at": "2026-09-15T14:55:26.304Z",
@@ -4997,6 +4887,116 @@
     "completed_at": "2026-10-07T07:29:48.366Z",
     "events_found": 5,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bard-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:31:57.325Z",
+    "completed_at": "2026-10-07T07:31:57.325Z",
+    "events_found": 12,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "poetry-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:31:57.346Z",
+    "completed_at": "2026-10-07T07:31:57.346Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-book-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:31:57.364Z",
+    "completed_at": "2026-10-07T07:31:57.364Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "franklin-furnace",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:31:57.380Z",
+    "completed_at": "2026-10-07T07:31:57.380Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "rooftop-films",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:31:57.389Z",
+    "completed_at": "2026-10-07T07:31:57.389Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "fridman-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:31:57.400Z",
+    "completed_at": "2026-10-07T07:31:57.400Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:31:57.420Z",
+    "completed_at": "2026-10-07T07:31:57.420Z",
+    "events_found": 12,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "moma-ps1",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:32:03.502Z",
+    "completed_at": "2026-10-07T07:32:03.502Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "metrograph",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:32:03.547Z",
+    "completed_at": "2026-10-07T07:32:03.547Z",
+    "events_found": 12,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "national-sawdust",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:32:03.582Z",
+    "completed_at": "2026-10-07T07:32:03.582Z",
+    "events_found": 12,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-07T07:32:03.611Z",
+    "completed_at": "2026-10-07T07:32:03.611Z",
+    "events_found": 10,
+    "events_new": 5,
     "status": "completed"
   }
 ]

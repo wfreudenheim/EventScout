@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-27T07:27:17.424Z"
+    "last_checked": "2026-10-07T07:32:03.500Z"
   },
   {
     "id": "new-museum",
@@ -148,7 +148,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:25:08.288Z"
+    "last_checked": "2026-10-07T07:32:03.545Z"
   },
   {
     "id": "film-forum",
@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-04T07:25:08.329Z"
+    "last_checked": "2026-10-07T07:32:03.579Z"
   },
   {
     "id": "issue-project-room",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:23:05.280Z"
+    "last_checked": "2026-10-07T07:32:03.609Z"
   },
   {
     "id": "knockdown-center",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:23:05.118Z"
+    "last_checked": "2026-10-07T07:31:57.323Z"
   },
   {
     "id": "the-stone",
@@ -1871,7 +1871,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:25:09.839Z"
+    "last_checked": "2026-10-07T07:31:57.344Z"
   },
   {
     "id": "center-for-book-arts",
@@ -1895,7 +1895,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:25:09.848Z"
+    "last_checked": "2026-10-07T07:31:57.363Z"
   },
   {
     "id": "franklin-furnace",
@@ -1919,7 +1919,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:23:35.958Z"
+    "last_checked": "2026-10-07T07:31:57.379Z"
   },
   {
     "id": "emily-harvey-foundation",
@@ -2178,7 +2178,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-27T07:25:50.376Z"
+    "last_checked": "2026-10-07T07:31:57.388Z"
   },
   {
     "id": "film-noir-cinema",
@@ -2390,7 +2390,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-04T07:25:09.856Z"
+    "last_checked": "2026-10-07T07:31:57.398Z"
   },
   {
     "id": "public-records",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:23:05.271Z"
+    "last_checked": "2026-10-07T07:31:57.418Z"
   },
   {
     "id": "nowadays",

@@ -10856,5 +10856,337 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:29:48.352Z"
+  },
+  {
+    "id": "poetry-project-2026-10-19-rena-anakwe-muyassar-kurdi",
+    "title": "Rena Anakwe + Muyassar Kurdi",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-10-19",
+    "time_start": "20:00",
+    "description": "A joint reading/performance pairing sound and multimedia artist Rena Anakwe with poet-performer Muyassar Kurdi.",
+    "url": "https://www.poetryproject.org/events/rena-anakwe-muyassar-kurdi",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 3.5,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:31:57.329Z"
+  },
+  {
+    "id": "poetry-project-2026-10-16--and-in-this-heart-which-has-neither-had",
+    "title": "“And in This Heart, Which Has Neither Had a Cause Nor the Lack of One”: On Translation, Craft, and Necessity",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-10-16",
+    "time_start": "20:00",
+    "description": "A program on translation, craft, and necessity hosted by The Poetry Project.",
+    "url": "https://www.poetryproject.org/events/on-translation-craft-and-necessity",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [
+      "translation"
+    ],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:31:57.329Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-10-07-the-illegible-book",
+    "title": "The Illegible Book",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-10-07",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "description": "A virtual course on book art criticism and theory with Shirin Salehi, exploring illegibility in artists' books; runs Wednesdays October 7 through 28.",
+    "url": "https://shop.centerforbookarts.org/products/26fat000vb",
+    "price": "$190",
+    "format": "workshop",
+    "interest_score": 2.2,
+    "tags": [
+      "art-criticism"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:31:57.349Z"
+  },
+  {
+    "id": "franklin-furnace-2026-12-10-past-present-future-xii-2026-27-ff-fund-",
+    "title": "Past, Present & Future XII: 2026-27 FF Fund Recipients Celebration",
+    "venue_id": "franklin-furnace",
+    "venue_name": "Franklin Furnace",
+    "date": "2026-12-10",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "A celebration of thirteen avant-garde artists receiving Franklin Furnace's 2026-27 Fund grants, held at Franklin Furnace's new LIC office.",
+    "url": "https://franklinfurnace.org/past-present-future-xii/",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:31:57.367Z"
+  },
+  {
+    "id": "moma-ps1-2026-10-22-school-nite-isabella-lovestory-b0yg1rl-a",
+    "title": "School Nite: Isabella Lovestory, B0yg1rl, Ali RQ",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-10-22",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "MoMA PS1's after-hours music series amplifying digital, internet-based, and underground acts, with after-hours gallery access and a cash bar.",
+    "url": "https://www.momaps1.org/en/events/844-school-nite",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.484Z"
+  },
+  {
+    "id": "metrograph-2026-10-10-brief-encounter",
+    "title": "Brief Encounter",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-10",
+    "time_start": "12:00",
+    "description": "David Lean's 1945 romance, introduced by Genevieve Yue as part of Metrograph's repertory programming.",
+    "url": "https://metrograph.com/film/9999002242-brief-encounter/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.506Z"
+  },
+  {
+    "id": "metrograph-2026-10-10-trains-children-dreams-a-shorts-program",
+    "title": "Trains, Children & Dreams: A Shorts Program",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-10",
+    "time_start": "13:45",
+    "description": "A shorts program introduced by Genevieve Yue, part of Metrograph's repertory film series.",
+    "url": "https://metrograph.com/film/9999005027-trains-children-dreams-a-shorts-program/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.506Z"
+  },
+  {
+    "id": "metrograph-2026-10-10-the-enchanted-desna",
+    "title": "The Enchanted Desna",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-10",
+    "time_start": "20:25",
+    "description": "Yulia Solntseva's 1964 Ukrainian film, introduced by series curator Anri Vartan as part of Metrograph's Dovzhenko retrospective.",
+    "url": "https://metrograph.com/film/9999005029-the-enchanted-desna/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.507Z"
+  },
+  {
+    "id": "metrograph-2026-10-11-shchors",
+    "title": "Shchors",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-11",
+    "time_start": "19:10",
+    "description": "Oleksandr Dovzhenko and Yulia Solntseva's 1939 Soviet-Ukrainian epic, introduced by programmer Edo Choi.",
+    "url": "https://metrograph.com/film/9999005034-shchors/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.507Z"
+  },
+  {
+    "id": "metrograph-2026-10-17-aerograd",
+    "title": "Aerograd",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-10-17",
+    "time_start": "14:40",
+    "description": "Oleksandr Dovzhenko's 1935 film, introduced by programmer Edo Choi as part of the Dovzhenko retrospective.",
+    "url": "https://metrograph.com/film/9999005037-aerograd/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.508Z"
+  },
+  {
+    "id": "national-sawdust-2026-12-05-handel-hendrix-with-dither-r-b-schlather",
+    "title": "Handel + Hendrix with Dither, R.B. Schlather, and Ruckus",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-12-05",
+    "time_start": "19:30",
+    "description": "Marking the Handel Hendrix House museum's 25th anniversary, electric guitar quartet Dither opens with new commissions channeling Hendrix, followed by a chamber-scale staging of Handel's final opera Deidamia.",
+    "url": "https://www.nationalsawdust.org/event/handel-hendrix-with-dither-r-b-schlather-and-ruckus-12-5-26",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.559Z"
+  },
+  {
+    "id": "roulette-2026-10-23-trouble-x-diamond-terrifier-emanate-cren",
+    "title": "Trouble x Diamond Terrifier: Emanate / Crenellate with Antenes, Luke Stewart, Patrick Higgins, Dome Theater, and DJ Sets by R. Gamble & Heidi Sabertooth",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-23",
+    "time_start": "20:00",
+    "description": "A one-night, multi-channel video installation for site-specific performance.",
+    "url": "https://roulette.org/event/trouble-emanate-crenellate-sam-hillmer-laura-paris/",
+    "price": "$15",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.588Z"
+  },
+  {
+    "id": "roulette-2026-10-16-max-zt-kunal-gunjal-and-amit-kavthekar-s",
+    "title": "Max ZT, Kunal Gunjal, and Amit Kavthekar: Strings of Soul (RBA)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-16",
+    "time_start": "20:00",
+    "description": "A musical journey combining Western jazz, ambient music, American folk, and traditional Indian classical music.",
+    "url": "https://roulette.org/event/max-zt-kunal-gunjal-and-amit-kavthekar-strings-of-soul/",
+    "price": "$35",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.588Z"
+  },
+  {
+    "id": "roulette-2026-10-19-marc-ribot-quartet-hurry-red-telephone-a",
+    "title": "Marc Ribot Quartet: Hurry Red Telephone (Album Release)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-19",
+    "time_start": "20:00",
+    "description": "Marc Ribot Quartet celebrates the release of their new record Hurry Red Telephone.",
+    "url": "https://roulette.org/event/marc-ribot-quartet-hurry-red-telephone/",
+    "price": "$30",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.588Z"
+  },
+  {
+    "id": "roulette-2026-10-20-contemporaneous-recap-and-mantra-present",
+    "title": "Contemporaneous, Recap, and Mantra Present: Seeing in the Dark",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-20",
+    "time_start": "20:00",
+    "description": "Three transformative works by Brendon Randall-Myers, Lila Meretzky, and Paul Pinto offer different ways to light our path through darkness.",
+    "url": "https://roulette.org/event/contemporaneous-mantra-percussion-recap-percussion-seeing-in-the-dark/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.588Z"
+  },
+  {
+    "id": "roulette-2026-10-22-interpretations-ursel-schlicht-critical-",
+    "title": "Interpretations: Ursel Schlicht // Critical Response",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-22",
+    "time_start": "20:00",
+    "description": "The Interpretations series returns with sets by pianist Ursel Schlicht and Jason Kao Hwang's jazz trio.",
+    "url": "https://roulette.org/event/interpretations-ursel-schlicht-critical-response/",
+    "price": "$20",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-07T07:32:03.588Z"
   }
 ]
