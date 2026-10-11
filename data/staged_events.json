@@ -10260,5 +10260,324 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-11T07:25:38.793Z"
+  },
+  {
+    "id": "harvestworks-2026-10-18-curator-led-dialogue-eriola-pira-with-an",
+    "title": "Curator-Led Dialogue: Eriola Pira with Angela Ferraiolo",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-10-18",
+    "description": "A curator-led conversation between Eriola Pira and artist Angela Ferraiolo at Harvestworks' digital media arts center.",
+    "url": "https://www.harvestworks.org/event/curator-led-dialogue-eriola-pira-with-angela-ferraiolo/",
+    "format": "talk",
+    "interest_score": 3.5,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:44.823Z"
+  },
+  {
+    "id": "harvestworks-2026-10-23-mugic-family-user-meeting",
+    "title": "MUGIC Family User meeting",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-10-23",
+    "description": "A user meetup and workshop for owners of the MUGIC wearable motion-sensor device, held at Harvestworks.",
+    "url": "https://www.harvestworks.org/event/mugic-family-user-meeting/",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:44.823Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-11-vika-kirchenbauer-pgm-1",
+    "title": "Vika Kirchenbauer PGM 1",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-11",
+    "time_start": "18:15",
+    "description": "First program in a showcase of experimental video works by artist and filmmaker Vika Kirchenbauer, whose moving-image practice engages surveillance, desire, and technology.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62073",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:52.419Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-11-vika-kirchenbauer-pgm-2",
+    "title": "Vika Kirchenbauer PGM 2",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-11",
+    "time_start": "20:15",
+    "description": "Second program of experimental video works by Vika Kirchenbauer, continuing her exploration of technology, identity, and the moving image.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62076",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:52.419Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-11-vacances",
+    "title": "Vacances",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-11",
+    "time_start": "17:30",
+    "description": "A repertory screening of the film Vacances, presented across multiple dates at Anthology Film Archives.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62130",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:52.419Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-13-avatars-the-dominatrix-sleeps-tonight",
+    "title": "Avatars: The Dominatrix Sleeps Tonight",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-13",
+    "time_start": "19:00",
+    "description": "A repertory screening of the erotic drama Avatars: The Dominatrix Sleeps Tonight.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62095",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:52.420Z"
+  },
+  {
+    "id": "bitforms-2027-01-03-shimmer-dreaming-the-posthuman",
+    "title": "Shimmer: Dreaming the Posthuman",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2027-01-03",
+    "description": "On view through January 3, 2027 at the Frist Art Museum: 16 artists, including bitforms-affiliated Marina Zurkow, use digital animation, AR/VR, and AI to visualize posthuman relationships between humans, other species, and the earth.",
+    "url": "https://fristartmuseum.org/exhibition/shimmer-dreaming-the-posthuman/",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Art & Technology",
+      "Climate & Environment",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:52.482Z"
+  },
+  {
+    "id": "bitforms-2026-12-13-amor-mu-oz-claudia-hart-maya-man-dear-da",
+    "title": "Amor Muñoz, Claudia Hart & Maya Man: Dear Data",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-12-13",
+    "description": "On view through December 13, 2026: a group exhibition of generative and data-driven art by Amor Muñoz, Claudia Hart, and Maya Man.",
+    "url": "https://www.bitforms.art/exhibition/dear-data",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:52.482Z"
+  },
+  {
+    "id": "bitforms-2027-04-11-rafael-lozano-hemmer-look-alive",
+    "title": "Rafael Lozano-Hemmer: Look Alive",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2027-04-11",
+    "description": "On view through April 11, 2027 at Georgetown University Art Galleries: responsive, participatory installations by Rafael Lozano-Hemmer exploring art, architecture, performance, and technology, including the premiere of Pulse Map.",
+    "url": "https://guartgalleries.org/exhibitions/46-rafael-lozano-hemmer-look-alive/",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:52.483Z"
+  },
+  {
+    "id": "bitforms-2027-05-01-deconstructing-landscape",
+    "title": "Deconstructing Landscape",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2027-05-01",
+    "description": "On view through May 1, 2027 at bitforms' New Mexico location: a group exhibition exploring landscape through contemporary media.",
+    "url": "https://www.bitforms.art/exhibition/deconstructing-landscape",
+    "format": "gallery",
+    "interest_score": 3.1,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:52.482Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-10-12-vjoltron",
+    "title": "VJOLTRON",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-10-12",
+    "time_start": "20:00",
+    "description": "October A/V lineup of live audiovisual sets (Vampire Exec, Marble Lobe, IMMA) at Millennium Film Workshop, blending experimental visuals with live electronic sound.",
+    "url": "https://www.millenniumfilm.org",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:58.545Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-10-27-female-fun-friction-film-by-babeth-mondi",
+    "title": "Female Fun & Friction: Film by Babeth Mondini VanLoo",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-10-27",
+    "time_start": "19:30",
+    "description": "Screening of rare 1970s underground films by Babeth Mondini VanLoo at Millennium Film Workshop.",
+    "url": "https://www.millenniumfilm.org",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:58.545Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-10-13-bodega-all-inside-aquarium-exhibition-fi",
+    "title": "BODEGA: All Inside Aquarium (Exhibition, final viewing days)",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-10-13",
+    "time_start": "16:00",
+    "time_end": "20:00",
+    "description": "Final days of the BODEGA: All Inside Aquarium exhibition at Millennium Film Workshop, on view with daily visiting hours after its reception and screening events earlier in the run.",
+    "url": "https://www.millenniumfilm.org",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:58.545Z"
+  },
+  {
+    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
+    "title": "Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-06",
+    "description": "Gallery exhibition on Gen'ichirō Inokuma's decades in mid-century New York and his ties to the American avant-garde (Jasper Johns, Rothko, Rauschenberg, Noguchi, Cage, Cunningham, and others); on view at Japan Society through January 10, 2027.",
+    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:58.565Z"
+  },
+  {
+    "id": "japan-society-2026-10-18-kojiki-de-creation",
+    "title": "Kojiki de Creation",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-18",
+    "description": "World premiere of a puppet theater production dramatizing Japan's origin story (the Kojiki), running October 15-18, 2026 at Japan Society.",
+    "url": "https://www.instagram.com/reel/DeRrYqoAQ9S/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:58.565Z"
+  },
+  {
+    "id": "japan-society-2026-10-18-midtown-cultural-alliance-open-house",
+    "title": "Midtown Cultural Alliance Open House",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-18",
+    "description": "Self-guided open house across Midtown Cultural Alliance member institutions including Japan Society, running October 8 through 18, 2026.",
+    "url": "https://japansociety.org/mca-third-open-house-at-japan-society/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:26:58.565Z"
   }
 ]

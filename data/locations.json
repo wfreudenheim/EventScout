@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-11T07:25:38.563Z"
+    "last_checked": "2026-10-11T07:26:52.440Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:23:52.405Z"
+    "last_checked": "2026-10-11T07:26:52.450Z"
   },
   {
     "id": "roulette",
@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:19:38.546Z"
+    "last_checked": "2026-10-11T07:26:38.332Z"
   },
   {
     "id": "the-new-school",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:23:52.424Z"
+    "last_checked": "2026-10-11T07:26:52.468Z"
   },
   {
     "id": "artists-space",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:23:52.435Z"
+    "last_checked": "2026-10-11T07:26:52.478Z"
   },
   {
     "id": "union-docs",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:23:52.453Z"
+    "last_checked": "2026-10-11T07:26:52.496Z"
   },
   {
     "id": "microscope-gallery",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:19:38.567Z"
+    "last_checked": "2026-10-11T07:26:38.371Z"
   },
   {
     "id": "caveat",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:19:38.586Z"
+    "last_checked": "2026-10-11T07:26:38.360Z"
   },
   {
     "id": "rockefeller-university",
@@ -1823,7 +1823,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:35.506Z"
+    "last_checked": "2026-10-11T07:26:58.589Z"
   },
   {
     "id": "montez-press-radio",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:19:38.597Z"
+    "last_checked": "2026-10-11T07:26:38.382Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2084,7 +2084,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:35.553Z"
+    "last_checked": "2026-10-11T07:26:58.540Z"
   },
   {
     "id": "millennium-film-workshop",
@@ -2108,7 +2108,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:35.528Z"
+    "last_checked": "2026-10-11T07:26:58.558Z"
   },
   {
     "id": "rockaway-film-festival",
@@ -2132,7 +2132,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:19:46.912Z"
+    "last_checked": "2026-10-11T07:26:44.777Z"
   },
   {
     "id": "prismatic-ground",
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:22:33.746Z"
+    "last_checked": "2026-10-11T07:26:58.577Z"
   },
   {
     "id": "asia-society",
@@ -2297,7 +2297,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:29.151Z"
+    "last_checked": "2026-10-11T07:26:44.789Z"
   },
   {
     "id": "blank-forms",
@@ -2321,7 +2321,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:29.216Z"
+    "last_checked": "2026-10-11T07:26:44.800Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2554,7 +2554,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:29.172Z"
+    "last_checked": "2026-10-11T07:26:44.809Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:29.197Z"
+    "last_checked": "2026-10-11T07:26:44.819Z"
   },
   {
     "id": "la-mama",
@@ -2934,7 +2934,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:20:29.206Z"
+    "last_checked": "2026-10-11T07:26:44.843Z"
   },
   {
     "id": "onassis-onx",
@@ -2957,7 +2957,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:25:38.679Z"
+    "last_checked": "2026-10-11T07:26:52.389Z"
   },
   {
     "id": "index-space",
@@ -3313,7 +3313,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:25:38.749Z"
+    "last_checked": "2026-10-11T07:26:52.414Z"
   },
   {
     "id": "barbes",
