@@ -11351,5 +11351,486 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-11T07:36:12.781Z"
+  },
+  {
+    "id": "white-columns-2026-10-24-closing-party-zine-launch-love-letter-bl",
+    "title": "Closing Party + Zine Launch: Love Letter Blank (Mieko Meguro)",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-10-24",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "Closing celebration and zine launch for Mieko Meguro's exhibition \"Works, New York, 2009-2026\" at White Columns.",
+    "url": "https://whitecolumns.org/exhibitions/mieko-meguro/",
+    "price": null,
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:21.095Z"
+  },
+  {
+    "id": "participant-inc-2026-12-19-the-janiken-dansen-show-with-special-gue",
+    "title": "The Janiken Dansen Show, with special guest Claywoman",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-12-19",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Variety performance show starring Claywoman, Erin Markey, and additional guests at Participant Inc.",
+    "url": "https://participantinc.org/seasons/season-25/the-janiken-dansen-show-with-special-guestclaywoman",
+    "price": null,
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:21.118Z"
+  },
+  {
+    "id": "index-space-2026-10-24-workshop-on-workshops",
+    "title": "Workshop on Workshops",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-10-24",
+    "time_start": null,
+    "time_end": null,
+    "description": "Meta-workshop exploring how to design and facilitate workshops, hosted at Index Greenpoint.",
+    "url": "https://www.index-space.org/programming/workshop-on-workshops-evt-8FBMZuCN71VMK3N?view=list",
+    "price": null,
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:21.164Z"
+  },
+  {
+    "id": "drom-2026-10-13-g-mercin-ku-lar-ft-kaan-sekban-ay-e-bal-",
+    "title": "Gömercin Kuşları ft. Kaan Sekban & Ayşe Balıbey",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-13",
+    "time_start": "19:00",
+    "description": "Turkish ensemble Gömercin Kuşları takes the Drom stage with a special performance born from a twenty-year friendship between Kaan Sekban and Ayşe Balıbey.",
+    "url": "https://dromnyc.com/event/gomercin-kuslari-ft-kaan-sekban-ayse-balibey/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.158Z"
+  },
+  {
+    "id": "terraza-7-2026-10-12-rom-n-d-az-la-rumba-de-los-lunes",
+    "title": "Román Díaz & La Rumba de los Lunes",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-12",
+    "time_start": "19:00",
+    "description": "Afro-Cuban percussionist Román Díaz leads his weekly Monday rumba session, La Rumba de los Lunes.",
+    "url": "https://www.terraza7.com/detalles-y-registro/roman-diaz-la-rumba-de-los-lunes-39",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.186Z"
+  },
+  {
+    "id": "terraza-7-2026-10-14-eric-stern-s-cuban-jazz-project",
+    "title": "Eric Stern's Cuban Jazz Project",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-14",
+    "time_start": "19:00",
+    "description": "Eric Stern leads his Cuban Jazz Project in an evening of Cuban-inflected jazz.",
+    "url": "https://www.terraza7.com/detalles-y-registro/eric-sterns-cuban-jazz-project-first-set-13",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.187Z"
+  },
+  {
+    "id": "film-forum-2026-10-11-the-promised-land-introduced-by-columbia",
+    "title": "The Promised Land — Introduced by Columbia University Film Professor Annette Insdorf",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-11",
+    "time_start": "16:20",
+    "description": "A screening of Andrzej Wajda's The Promised Land as part of the Andrzej Wajda 100 retrospective, introduced by Columbia University film professor Annette Insdorf.",
+    "url": "https://filmforum.org/events/event/the-promised-land-october-11",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.205Z"
+  },
+  {
+    "id": "film-forum-2026-10-11-my-undesirable-friends-part-ii-exile-q-a",
+    "title": "My Undesirable Friends: Part II – Exile — Q&A with Filmmaker Julia Loktev and Subjects Ksenia Mironova & Valeria Ratnikova",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-11",
+    "time_start": "16:00",
+    "description": "A screening of Chapters 4-5 of Julia Loktev's documentary series on exiled Russian journalists, followed by a Q&A with the filmmaker and subjects Ksenia Mironova and Valeria Ratnikova.",
+    "url": "https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-october-11",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.205Z"
+  },
+  {
+    "id": "film-forum-2026-10-13-gloria-post-film-conversation-with-co-st",
+    "title": "Gloria — Post-Film Conversation with Co-Star John Adames",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-13",
+    "time_start": "19:00",
+    "description": "A screening of John Cassavetes' Gloria as part of the NYC in Transit series, followed by a conversation with co-star John Adames.",
+    "url": "https://filmforum.org/events/event/gloria-october-13",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.205Z"
+  },
+  {
+    "id": "film-forum-2026-11-16-silent-lubitsch",
+    "title": "Silent Lubitsch",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-16",
+    "description": "A repertory series of Ernst Lubitsch's silent films, screening on Mondays beginning November 16.",
+    "url": "https://filmforum.org/series/silent-lubitsch",
+    "price": "$18",
+    "format": "festival",
+    "interest_score": 2.1,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.206Z"
+  },
+  {
+    "id": "whitney-2026-10-11-15-minute-tour-highlights-of-the-whitney",
+    "title": "15-Minute Tour: Highlights of the Whitney Biennial 2026",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-11",
+    "time_start": "13:00",
+    "description": "A brief guided highlights tour of the Whitney Biennial 2026.",
+    "url": "https://whitney.org/events/whitney-biennial-15-min-fss-floor6",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.226Z"
+  },
+  {
+    "id": "whitney-2026-10-11-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-11",
+    "time_start": "12:00",
+    "description": "A guided tour of the exhibition 'Untitled' (America), offered as part of Free Second Sundays.",
+    "url": "https://whitney.org/events/untitled-america-exb-tour-fss",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.226Z"
+  },
+  {
+    "id": "whitney-2026-10-11-double-take-intergenerational-dialogue",
+    "title": "Double Take: Intergenerational Dialogue",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-11",
+    "time_start": "13:00",
+    "time_end": "13:45",
+    "description": "An intergenerational dialogue and gallery tour pairing teens with adult visitors to discuss works on view.",
+    "url": "https://whitney.org/events/double-take-oct11",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.226Z"
+  },
+  {
+    "id": "whitney-2026-10-11-15-minute-tour-the-lost-world-the-art-of",
+    "title": "15-Minute Tour: The Lost World: The Art of Minnie Evans",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-11",
+    "time_start": "14:00",
+    "description": "A brief guided tour of The Lost World: The Art of Minnie Evans, highlighting the visionary self-taught artist's work.",
+    "url": "https://whitney.org/events/minnie-evans-15-min-tours",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.226Z"
+  },
+  {
+    "id": "whitney-2026-10-11-a-closer-look-guided-close-looking-throu",
+    "title": "A Closer Look: Guided Close-Looking Through Dialogue",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-11",
+    "time_start": "15:00",
+    "description": "A guided close-looking session using dialogue-based discussion of works in 'Untitled' (America).",
+    "url": "https://whitney.org/events/closer-look-untitled-america-fss",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.226Z"
+  },
+  {
+    "id": "whitney-2026-10-12-a-closer-look-guided-close-looking-throu",
+    "title": "A Closer Look: Guided Close-Looking Through Dialogue",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-12",
+    "time_start": "12:00",
+    "description": "A guided close-looking session using dialogue-based discussion of works in 'Untitled' (America).",
+    "url": "https://whitney.org/events/closer-look-untitled-america",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.226Z"
+  },
+  {
+    "id": "whitney-2026-10-12-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-12",
+    "time_start": "13:00",
+    "description": "A guided tour of the exhibition 'Untitled' (America).",
+    "url": "https://whitney.org/events/untitled-america-exh-tour-2026",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.227Z"
+  },
+  {
+    "id": "whitney-2026-10-12-exhibition-tour-the-lost-world-the-art-o",
+    "title": "Exhibition Tour: The Lost World: The Art of Minnie Evans",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-12",
+    "time_start": "14:00",
+    "description": "A guided tour of The Lost World: The Art of Minnie Evans, an exhibition of the visionary self-taught artist's work.",
+    "url": "https://whitney.org/events/minnie-evans-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.227Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-13-opening-reception-for-portraits-of-ameri",
+    "title": "Opening Reception for Portraits of America Exhibition",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-13",
+    "description": "An opening reception with the participating artists and curator for the Portraits of America photography exhibition.",
+    "url": "https://www.flushingtownhall.org/show-details/opening-reception-for-portraits-of-america-exhibition",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:27.245Z"
+  },
+  {
+    "id": "elsewhere-2026-10-28-julio-torres-presents-the-cursed-amulet-",
+    "title": "Julio Torres Presents: The Cursed Amulet III",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-28",
+    "time_start": "21:00",
+    "description": "Comedian/artist Julio Torres hosts a surreal, absurdist variety show full of speculative and fantastical bits, the third installment of The Cursed Amulet.",
+    "url": "https://www.elsewhere.club/events/2002969188762",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:34.903Z"
+  },
+  {
+    "id": "elsewhere-2026-10-17-tye-turner-goldie-harris-hanti-zabaan-pr",
+    "title": "Tye Turner, Goldie Harris, Hanti + Zabaan Presents Club Chutiya",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-17",
+    "time_start": "22:30",
+    "description": "South Asian diaspora club night 'Club Chutiya' presented by Zabaan, with DJs Tye Turner, Goldie Harris, and Hanti.",
+    "url": "https://www.elsewhere.club/events/1998244334596",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "Language & Culture",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:34.902Z"
+  },
+  {
+    "id": "elsewhere-2026-10-24-10-years-of-crucast-harriet-jaxxon-ivy-s",
+    "title": "10 Years of Crucast: Harriet Jaxxon, [IVY], Skepsis, Voltage, Oomfrave",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-24",
+    "time_start": "22:30",
+    "description": "Full-venue drum & bass / dubstep rave celebrating 10 years of the Crucast label.",
+    "url": "https://www.elsewhere.club/events/1996989624725",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:34.903Z"
+  },
+  {
+    "id": "elsewhere-2026-10-30-elsewhere-presents-the-hellp-dj-set-99-s",
+    "title": "Elsewhere Presents: The Hellp (DJ Set) @ 99 Scott",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-10-30",
+    "time_start": "22:00",
+    "description": "Elsewhere-presented DJ set from hyperpop/electronic act The Hellp at 99 Scott.",
+    "url": "https://www.elsewhere.club/presents/2000656207573",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:34.905Z"
+  },
+  {
+    "id": "the-brick-2026-10-18-im-dunkeln-sieht-man-besser",
+    "title": "Im Dunkeln sieht man besser",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-10-18",
+    "description": "The Brick presents Im Dunkeln sieht man besser (\"you can see better in the dark\") by Leonie Bell with LOCAL GRANDMA, a cabaret-inflected play set in a town where the living and undead cohabitate. Running October 1-18, 2026; this entry marks the final weekend still ahead.",
+    "url": "https://www.bricktheater.com/event/im-dunkeln-sieht-man-besser/2026-10-11/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-11T07:42:34.937Z"
   }
 ]

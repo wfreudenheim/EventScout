@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:37:22.416Z"
+    "last_checked": "2026-10-11T07:42:27.221Z"
   },
   {
     "id": "anthology-film-archives",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:37:43.065Z"
+    "last_checked": "2026-10-11T07:42:27.240Z"
   },
   {
     "id": "the-drawing-center",
@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-10-07T07:37:43.077Z"
+    "last_checked": "2026-10-11T07:42:34.890Z"
   },
   {
     "id": "do-not-research",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:37:43.103Z",
+    "last_checked": "2026-10-11T07:42:34.932Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -2673,7 +2673,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:36:04.684Z"
+    "last_checked": "2026-10-11T07:42:21.084Z"
   },
   {
     "id": "the-drift",
@@ -2791,7 +2791,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:36:04.676Z"
+    "last_checked": "2026-10-11T07:42:21.113Z"
   },
   {
     "id": "participant-inc",
@@ -2815,7 +2815,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:36:04.644Z"
+    "last_checked": "2026-10-11T07:42:21.145Z"
   },
   {
     "id": "recess-art",
@@ -2839,7 +2839,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:36:31.677Z"
+    "last_checked": "2026-10-11T07:42:21.158Z"
   },
   {
     "id": "amant",
@@ -2981,7 +2981,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:36:31.726Z"
+    "last_checked": "2026-10-11T07:42:21.177Z"
   },
   {
     "id": "babycastles",
@@ -3100,7 +3100,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:36:31.746Z"
+    "last_checked": "2026-10-11T07:42:21.189Z"
   },
   {
     "id": "danspace-project",
@@ -3123,7 +3123,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:36:31.767Z"
+    "last_checked": "2026-10-11T07:42:21.199Z"
   },
   {
     "id": "chocolate-factory",
@@ -3192,7 +3192,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:37:43.125Z"
+    "last_checked": "2026-10-11T07:42:34.952Z"
   },
   {
     "id": "morbid-anatomy",
@@ -3241,7 +3241,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:37:22.326Z"
+    "last_checked": "2026-10-11T07:42:27.151Z"
   },
   {
     "id": "canyon",
@@ -3390,7 +3390,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:25:38.728Z"
+    "last_checked": "2026-10-11T07:42:27.181Z"
   },
   {
     "id": "summerstage",
@@ -3471,7 +3471,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:37:22.381Z"
+    "last_checked": "2026-10-11T07:42:27.257Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3520,7 +3520,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:37:22.399Z"
+    "last_checked": "2026-10-11T07:42:27.199Z"
   },
   {
     "id": "lincoln-center-summer",
