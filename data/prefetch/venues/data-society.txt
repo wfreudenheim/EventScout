@@ -1,6 +1,6 @@
 VENUE:data-society | Data & Society
 URL:https://datasociety.net/
-FETCHED:2026-10-07T06:57:40.765Z
+FETCHED:2026-10-11T06:55:33.141Z
 
 Skip to main content
 Search Search
@@ -101,18 +101,17 @@ Our research shows that data centers represent a lightning rod issue for broad, 
 
 September 21, 2026
 Report
-https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/
+https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/
 
 POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
 
-[https://datasociety.net/news-events/power-and-resistance-in-the-age-of-tech-oligarchy/]
-Join the authors of "Muskism" and "Against Tech Oligarchy" to discuss the structural forces shaping tech and state power.
- * labor [/news-events/?subject=labor]
- * Silicon Valley [/news-events/?subject=silicon-valley]
- * technology industry [/news-events/?subject=technology-industry]
+[https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/]
+The authors of "Muskism" and "Against Tech Oligarchy" discuss the structural forces shaping tech and state power.
+ * labor [/research-library/?subject=labor]
+ * Silicon Valley [/research-library/?subject=silicon-valley]
+ * technology industry [/research-library/?subject=technology-industry]
 
-October 7, 2026
-Event
+September 14, 2026
 https://datasociety.net/research-library/our-new-research-and-policy-collection-governing-ai-agents/
 
 OUR NEW RESEARCH AND POLICY COLLECTION: GOVERNING AI AGENTS
@@ -298,6 +297,38 @@ Explore full library [https://datasociety.net/research-library/] View Curated Co
 NEWS AND EVENTS
 
 All News and Events [https://datasociety.net/news-events/]
+Testimony
+October 9, 2026
+
+TESTIMONY TO NY CITY COUNCIL HEARING: EXAMINING THE RISKS POSED BY AI
+
+[https://datasociety.net/research-library/testimony-to-the-nyc-council-hearing-on-examining-the-risks-posed-by-ai/]
+Policy Director Brian J. Chen urges the City Council to protect New Yorkers from the dangerous and reckless corporate practices currently being perpetrated by leading AI companies.
+ * AI agents [/research-library/?subject=ai-agents]
+ * artificial intelligence [/research-library/?subject=artificial-intelligence]
+ * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
+ * * government regulation [/research-library/?subject=government-regulation]
+   * New York City [/research-library/?subject=new-york-city]
+   * technology governance [/research-library/?subject=technology-governance]
+   * technology industry [/research-library/?subject=technology-industry]
+
+https://datasociety.net/research-library/testimony-to-the-nyc-council-hearing-on-examining-the-risks-posed-by-ai/
+https://datasociety.net/research-library/testimony-to-the-nyc-council-hearing-on-examining-the-risks-posed-by-ai/
+
+TESTIMONY TO NY CITY COUNCIL HEARING: EXAMINING THE RISKS POSED BY AI
+
+[https://datasociety.net/research-library/testimony-to-the-nyc-council-hearing-on-examining-the-risks-posed-by-ai/]
+Policy Director Brian J. Chen urges the City Council to protect New Yorkers from the dangerous and reckless corporate practices currently being…
+ * artificial intelligence [/research-library/?subject=artificial-intelligence]
+ * AI agents [/research-library/?subject=ai-agents]
+ * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
+ * * government regulation [/research-library/?subject=government-regulation]
+   * New York City [/research-library/?subject=new-york-city]
+   * technology governance [/research-library/?subject=technology-governance]
+   * technology industry [/research-library/?subject=technology-industry]
+
+October 9, 2026
+Testimony
 News
 September 30, 2026
 
@@ -359,19 +390,19 @@ September 10, 2026
 
 WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
 
-[https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society]
+[https://www.youtube.com/watch]
 We explore how AI's role in classrooms is being shaped in New York City and beyond.
  * artificial intelligence [/research-library/?subject=artificial-intelligence]
  * education [/research-library/?subject=education]
  * educational technology [/research-library/?subject=educational-technology]
  * * young people [/research-library/?subject=young-people]
 
-https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society
-https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society
+https://www.youtube.com/watch?v=UOs5Q-jpwWc&xstg=CAMSEBUJ_b-oH-PhF0yjBgbwzzE%3D
+https://www.youtube.com/watch?v=UOs5Q-jpwWc&xstg=CAMSEBUJ_b-oH-PhF0yjBgbwzzE%3D
 
 WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
 
-[https://www.nypl.org/events/programs/2026/09/28/who-gets-decide-how-ai-enters-our-schools-data-society]
+[https://www.youtube.com/watch]
 We explore how AI's role in classrooms is being shaped in New York City and beyond.
  * education [/research-library/?subject=education]
  * artificial intelligence [/research-library/?subject=artificial-intelligence]
@@ -380,27 +411,6 @@ We explore how AI's role in classrooms is being shaped in New York City and beyo
 
 September 10, 2026
 Event
-Article
-September 8, 2026
-
-AFTER THE DATA CENTERS
-
-[https://dissentmagazine.org/article/ai-data-center-backlash/]
-Brian J. Chen discusses why a “grander ambition” is needed to ensure that current “techlash” does not fizzle out in order to substantially challenge the growth of AI…
- * data center [/research-library/?subject=data-center]
-
-https://dissentmagazine.org/article/ai-data-center-backlash/
-https://dissentmagazine.org/article/ai-data-center-backlash/
-
-AFTER THE DATA CENTERS
-
-[https://dissentmagazine.org/article/ai-data-center-backlash/]
-Brian J. Chen discusses why a “grander ambition” is needed to ensure that current “techlash” does not fizzle out in order to substantially challenge…
- * data center [/research-library/?subject=data-center]
-
-Dissent Magazine
-September 8, 2026
-Article
 Previous Next
 
 JOIN US AND DONATE TODAY

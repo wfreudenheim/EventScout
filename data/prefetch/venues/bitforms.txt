@@ -1,6 +1,6 @@
 VENUE:bitforms | bitforms gallery
 URL:https://www.bitforms.art/
-FETCHED:2026-10-07T06:57:43.328Z
+FETCHED:2026-10-11T06:55:35.128Z
 
 /Menu
 
@@ -16,17 +16,17 @@ New York City
 
 Details [/exhibition/relensing]
 
-/exhibition/interference-the-interactive-art-of-daniel-rozin
+/exhibition/dear-data
 
-previous
+current
 
-Daniel RozinInterference: The Interactive Art of Daniel Rozin [/exhibition/interference-the-interactive-art-of-daniel-rozin]
+Amor Muñoz, Claudia Hart & Maya ManDear Data [/exhibition/dear-data]
 
-April 15 – September 27, 2026
+October 2 – December 13, 2026
 
-Kansas
+Opening Reception: Friday, October 2, 2026 5:00 – 8:00 PM
 
-Details [/exhibition/interference-the-interactive-art-of-daniel-rozin]
+Details [/exhibition/dear-data]
 
 /exhibition/deconstructing-landscape
 
@@ -42,9 +42,9 @@ Details [/exhibition/deconstructing-landscape]
 
 https://fristartmuseum.org/exhibition/shimmer-dreaming-the-posthuman/?mc_cid=cd9d9cc53e&mc_eid=UNIQIDCURRENT: OFFSITE
 
-Shimmer: Dreaming the Posthuman [https://fristartmuseum.org/exhibition/shimmer-dreaming-the-posthuman/]
+Shimmer: Dreaming the PosthumanFrist Art Museum [https://fristartmuseum.org/exhibition/shimmer-dreaming-the-posthuman/]
 
-Sept 25, 2026–Jan 3, 2027Frist Art Museum
+Sept 25, 2026–Jan 3, 2027
 
 Frist Art Museum
 919 Broadway, Nashville, Tennessee, 37203
@@ -59,9 +59,9 @@ Details [https://fristartmuseum.org/exhibition/shimmer-dreaming-the-posthuman/]
 
 https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloomCURRENT: OFFSITE
 
-LaJuné McMillian: Child/ren of the BloomOpening reception Friday, September 11, 7 to 9 PM [https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom]
+LaJuné McMillian: Child/ren of the BloomPioneer Works [https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom]
 
-September 12 – December 20, 2026Pioneer Works | 159 Pioneer Street, Brooklyn.
+September 12 – December 20, 2026159 Pioneer Street, Brooklyn.
 
 Child/ren of the Bloom by LaJuné McMillian is an interactive, multidisciplinary installation that explores the threshold between land and sea, and the body’s return to its origins. Developed alongside the artist’s 2026 OceanX Education’s artist residency, piloted in partnership with Pioneer Works, the exhibition transforms her research on phytoplankton, algal blooms, and bioluminescence into a spiritual, embodied encounter with oceanic systems.
 
@@ -69,7 +69,7 @@ Details [https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-
 
 https://guartgalleries.org/exhibitions/46-rafael-lozano-hemmer-look-alive/CURRENT: OFFSITE
 
-Rafael Lozano-Hemmer, Look AliveGeorgetown University Art Galleries [https://guartgalleries.org/exhibitions/46-rafael-lozano-hemmer-look-alive/]
+Rafael Lozano-Hemmer: Look AliveGeorgetown University Art Galleries [https://guartgalleries.org/exhibitions/46-rafael-lozano-hemmer-look-alive/]
 
 September 18, 2026 – April 11, 20273535 Prospect St NW, Washington, DC 20007
 
@@ -79,7 +79,7 @@ Details [https://guartgalleries.org/exhibitions/46-rafael-lozano-hemmer-look-ali
 
 https://sjuartgallery.org/Siebren-VersteegCURRENT: OFFSITE
 
-TIME FRAMESSiebren Versteeg [https://sjuartgallery.org/Siebren-Versteeg]
+Siebren Versteeg: TIME FRAMESYeh Art Gallery [https://sjuartgallery.org/Siebren-Versteeg]
 
 September 24, 2026–Spring 202780-00 Utopia Pkwy, Jamaica, NY 11432
 

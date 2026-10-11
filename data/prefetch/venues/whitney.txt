@@ -1,6 +1,6 @@
 VENUE:whitney | Whitney Museum of American Art
 URL:https://whitney.org/events
-FETCHED:2026-10-07T06:57:55.064Z
+FETCHED:2026-10-11T06:55:45.931Z
 
 Skip to main content
 /
@@ -59,9 +59,55 @@ SERVICES
 
 Close filters
 En español Online Members
-/events/untitled-america-exb-tour
+/events/lichtenstein-member-mornings
 
 TODAY’S EVENTS
+
+ * 9:30 am
+
+   MEMBER MORNINGS FOR ROY LICHTENSTEIN: LIKE NEW
+
+   Floor 5, Neil Bluhm Family Galleries
+
+   [/events/lichtenstein-member-mornings]
+   Members [/events?tags%5B%5D=member_events]
+
+ * 10:30 am
+
+   FREE SECOND SUNDAYS
+
+   [/visit/free-admission/second-sundays]
+   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ * 11 am
+
+   ALL AGES PRINTMAKING: ROY LICHTENSTEIN WITH BLACKBURN PRINTSHOP
+
+   Theater
+
+   [/events/printmaking-lichtenstein-blackburn]
+   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+   ALL AGES ARTMAKING: WINDOWSCAPE DRAWINGS
+
+   Floor 5, Terrace
+
+   [/events/windowscape-drawings]
+   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+   ALL AGES ARTMAKING: ROY LICHTENSTEIN MURAL OF TAPE
+
+   Floor 3, Artspace
+
+   [/events/lichtenstein-mural-of-tape]
+   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+   STORYTIME
+
+   Lobby
+
+   [/events/storytime]
+   Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
  * 12 pm
 
@@ -69,35 +115,60 @@ TODAY’S EVENTS
 
    Floor 7
 
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
+   [/events/untitled-america-exb-tour-fss]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
- * 2 pm
+ * 1 pm
 
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+   DOUBLE TAKE: INTERGENERATIONAL DIALOGUE
 
    Floor 8
 
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+   [/events/double-take-oct11]
+   Teens [/events?tags%5B%5D=teen_events] Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+   15-MINUTE TOUR: HIGHLIGHTS OF THE WHITNEY BIENNIAL 2026
+
+   Floor 6
+
+   [/events/whitney-biennial-15-min-fss-floor6]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays] Biennial 2026 [/events?tags%5B%5D=biennial_2026]
+
+ * 1:30 pm
+
+   15-MINUTE TOUR: HIGHLIGHTS OF THE WHITNEY BIENNIAL 2026
+
+   Floor 6
+
+   [/events/whitney-biennial-15-min-fss-floor6]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays] Biennial 2026 [/events?tags%5B%5D=biennial_2026]
+
+ * 2 pm
+
+   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Floor 8
+
+   [/events/minnie-evans-15-min-tours]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ * 2:30 pm
+
+   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Floor 8
+
+   [/events/minnie-evans-15-min-tours]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
  * 3 pm
 
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
 
    Floor 7
 
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
-
- * 7 pm
-
-   PREVIEW NIGHT OPENING RECEPTION FOR ROY LICHTENSTEIN: LIKE NEW
-
-   Throughout the Whitney
-
-   [/events/lichtenstein-preview-opening]
-   Members [/events?tags%5B%5D=member_events]
+   [/events/closer-look-untitled-america-fss]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
 View more
 
@@ -105,179 +176,170 @@ View more
 
 ALL UPCOMING EVENTS
 
- * OCT 7
+ * OCT 11
 
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+   MEMBER MORNINGS FOR ROY LICHTENSTEIN: LIKE NEW
 
-   Wednesday, October 7, 2026
-   12 pm
+   Sunday, October 11, 2026
+   9:30–10:30 am
 
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
+   [/events/lichtenstein-member-mornings]
 
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Wednesday, October 7, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Wednesday, October 7, 2026
-   3 pm
-
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   PREVIEW NIGHT OPENING RECEPTION FOR ROY LICHTENSTEIN: LIKE NEW
-
-   Wednesday, October 7, 2026
-   7 pm
-
-   [/events/lichtenstein-preview-opening]
-
-   Open to Circle, Fellow, Sponsor, Benefactor, and Contemporaries Patron members
+   Open to all members
 
    Members [/events?tags%5B%5D=member_events]
 
- * OCT 8
+ *  
 
-   MEMBER PREVIEW DAYS FOR ROY LICHTENSTEIN: LIKE NEW
+   FREE SECOND SUNDAYS
 
-   Thursday, October 8, 2026
+   Sunday, October 11, 2026
    10:30 am–6 pm
 
-   [/events/lichtenstein-member-preview-days]
+   [/visit/free-admission/second-sundays]
+   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
-   Open to all members
+ *  
 
-   Members [/events?tags%5B%5D=member_events]
+   ALL AGES ARTMAKING: ROY LICHTENSTEIN MURAL OF TAPE
+
+   Sunday, October 11, 2026
+   11 am–3 pm
+
+   [/events/lichtenstein-mural-of-tape]
+   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ *  
+
+   ALL AGES PRINTMAKING: ROY LICHTENSTEIN WITH BLACKBURN PRINTSHOP
+
+   Sunday, October 11, 2026
+   11 am–2 pm
+
+   [/events/printmaking-lichtenstein-blackburn]
+   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ *  
+
+   ALL AGES ARTMAKING: WINDOWSCAPE DRAWINGS
+
+   Sunday, October 11, 2026
+   11 am–2 pm
+
+   [/events/windowscape-drawings]
+   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ *  
+
+   STORYTIME
+
+   Sunday, October 11, 2026
+   11–11:30 am
+
+   [/events/storytime]
+   Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
  *  
 
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Thursday, October 8, 2026
+   Sunday, October 11, 2026
    12 pm
 
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
+   [/events/untitled-america-exb-tour-fss]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
  *  
 
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+   15-MINUTE TOUR: HIGHLIGHTS OF THE WHITNEY BIENNIAL 2026
 
-   Thursday, October 8, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Thursday, October 8, 2026
-   3 pm
-
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   OPENING RECEPTION FOR ROY LICHTENSTEIN: LIKE NEW
-
-   Thursday, October 8, 2026
-   7:30 pm
-
-   [/events/lichtenstein-like-new-opening]
-
-   Open to Friend, Patron, and Whitney Contemporaries members
-
-   Members [/events?tags%5B%5D=member_events]
-
- * OCT 9
-
-   MEMBER PREVIEW DAYS FOR ROY LICHTENSTEIN: LIKE NEW
-
-   Friday, October 9, 2026
-   10:30 am–5 pm
-
-   [/events/lichtenstein-member-preview-days]
-
-   Open to all members
-
-   Members [/events?tags%5B%5D=member_events]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Friday, October 9, 2026
-   12 pm
-
-   [/events/untitled-america-exb-tour]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: WHITNEY BIENNIAL 2026
-
-   Friday, October 9, 2026
+   Sunday, October 11, 2026
    1 pm
 
-   [/events/tour-whitney-biennial-2026-floor6]
-   Tours [/events?tags%5B%5D=free_tours] Biennial 2026 [/events?tags%5B%5D=biennial_2026]
+   [/events/whitney-biennial-15-min-fss-floor6]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays] Biennial 2026 [/events?tags%5B%5D=biennial_2026]
+
+ *  
+
+   DOUBLE TAKE: INTERGENERATIONAL DIALOGUE
+
+   Sunday, October 11, 2026
+   1–1:45 pm
+
+   [/events/double-take-oct11]
+   Teens [/events?tags%5B%5D=teen_events] Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ *  
+
+   15-MINUTE TOUR: HIGHLIGHTS OF THE WHITNEY BIENNIAL 2026
+
+   Sunday, October 11, 2026
+   1:30 pm
+
+   [/events/whitney-biennial-15-min-fss-floor6]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays] Biennial 2026 [/events?tags%5B%5D=biennial_2026]
+
+ *  
+
+   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Sunday, October 11, 2026
+   2 pm
+
+   [/events/minnie-evans-15-min-tours]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ *  
+
+   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Sunday, October 11, 2026
+   2:30 pm
+
+   [/events/minnie-evans-15-min-tours]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ *  
+
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+
+   Sunday, October 11, 2026
+   3 pm
+
+   [/events/closer-look-untitled-america-fss]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ * OCT 12
+
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+
+   Monday, October 12, 2026
+   12 pm
+
+   [/events/closer-look-untitled-america]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Monday, October 12, 2026
+   1 pm
+
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
 
  *  
 
    EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
 
-   Friday, October 9, 2026
+   Monday, October 12, 2026
    2 pm
 
    [/events/minnie-evans-tour]
    Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
 
- *  
-
-   FREE FRIDAY NIGHTS
-
-   Friday, October 9, 2026
-   5–10 pm
-
-   [/visit/free-admission/free-friday-nights]
-   Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   15-MINUTE TOUR: HIGHLIGHTS OF THE EXHIBITION “UNTITLED” (AMERICA)
-
-   Friday, October 9, 2026
-   6 pm
-
-   [/events/untitled-america-15min-ffn]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   15-MINUTE TOUR: HIGHLIGHTS OF THE EXHIBITION “UNTITLED” (AMERICA)
-
-   Friday, October 9, 2026
-   6:30 pm
-
-   [/events/untitled-america-15min-ffn]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
-314 events
+569 events
 
 ON THE HOUR
 

@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-10-07T06:57:42.648Z
+FETCHED:2026-10-11T06:55:34.705Z
 
 Subscribe
 
@@ -37,30 +37,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783386/bar-laika-presents-playback-0039-with-tomin/
-
-Current & Upcoming
-Bar Laika presents Playback 0039 with Tomin [/events/6783386/bar-laika-presents-playback-0039-with-tomin/]
-October 7, 2026, 7pm
-Bar Laika by e-flux
-
-/events/6783391/louis-massiah-and-monica-henriquez-rsquo-s-tcb-ndash-the-toni-cade-bambara-school-of-organizing/
-
-Current & Upcoming
-Louis Massiah and Monica Henriquez’s TCB – The Toni Cade Bambara School of Organizing [/events/6783391/louis-massiah-and-monica-henriquez-rsquo-s-tcb-ndash-the-toni-cade-bambara-school-of-organizing/]
-October 8, 2026, 6pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/louis-massiah-and-monica-henriquezs-tcb-the-toni-cade-bambara-school-of-tickets-2002760102379]
-/events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/
-
-Current & Upcoming
-
-Under the Red Sky: Pınar Öğrenci’s Art of Responding
-
-[/events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/]
-October 10, 2026, 3pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/under-the-red-sky-pnar-ogrencis-art-of-responding-tickets-2002755138532]
 /events/6783395/film-at-a-distance-on-artavazd-peleshyan/
 
 Current & Upcoming
@@ -68,13 +44,6 @@ Film at a Distance: On Artavazd Peleshyan [/events/6783395/film-at-a-distance-on
 October 13, 2026, 7pm
 e-flux Screening Room
 Get tickets [https://www.eventbrite.com/e/film-at-a-distance-on-artavazd-peleshyan-tickets-2002756518660]
-/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/
-
-Current & Upcoming
-Charles Mudede, "Exit Envy: BLM, MAGA, and the Continuing Crisis of Longevity" [/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/]
-October 15, 2026, 7pm
-e-flux
-RSVP [https://www.eventbrite.com/e/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevi-tickets-2002569755045]
 /events/6783396/sometimes-it-was-beautiful/
 
 Current & Upcoming
@@ -82,6 +51,13 @@ Sometimes It Was Beautiful [/events/6783396/sometimes-it-was-beautiful/]
 October 15, 2026, 6pm
 Logan Center for The Arts, Screening Room 201
 RSVP [https://events.humanitix.com/the-african-film-institute-presents-sometimes-it-was-beautiful]
+/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/
+
+Current & Upcoming
+Charles Mudede, "Exit Envy: BLM, MAGA, and the Continuing Crisis of Longevity" [/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/]
+October 15, 2026, 7pm
+e-flux
+RSVP [https://www.eventbrite.com/e/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevi-tickets-2002569755045]
 /events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/
 
 Current & Upcoming
@@ -132,32 +108,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-In-person
-/events/6783386/bar-laika-presents-playback-0039-with-tomin/
-
-Bar Laika presents Playback 0039 with Tomin
-
-[/events/6783386/bar-laika-presents-playback-0039-with-tomin/]
-October 7, 2026, 7pm
-Bar Laika by e-flux
-In-person, Screenings
-/events/6783391/louis-massiah-and-monica-henriquez-rsquo-s-tcb-ndash-the-toni-cade-bambara-school-of-organizing/
-
-Louis Massiah and Monica Henriquez’s TCB – The Toni Cade Bambara School of Organizing
-
-[/events/6783391/louis-massiah-and-monica-henriquez-rsquo-s-tcb-ndash-the-toni-cade-bambara-school-of-organizing/]
-October 8, 2026, 6pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/louis-massiah-and-monica-henriquezs-tcb-the-toni-cade-bambara-school-of-tickets-2002760102379]
-In-person, Talks, Screenings
-/events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/
-
-Under the Red Sky: Pınar Öğrenci’s Art of Responding
-
-[/events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/]
-October 10, 2026, 3pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/under-the-red-sky-pnar-ogrencis-art-of-responding-tickets-2002755138532]
 Screenings, In-person, Talks
 /events/6783395/film-at-a-distance-on-artavazd-peleshyan/
 
@@ -167,15 +117,6 @@ Film at a Distance: On Artavazd Peleshyan
 October 13, 2026, 7pm
 e-flux Screening Room
 Get tickets [https://www.eventbrite.com/e/film-at-a-distance-on-artavazd-peleshyan-tickets-2002756518660]
-Talks, In-person
-/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/
-
-Charles Mudede, "Exit Envy: BLM, MAGA, and the Continuing Crisis of Longevity"
-
-[/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/]
-October 15, 2026, 7pm
-e-flux
-RSVP [https://www.eventbrite.com/e/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevi-tickets-2002569755045]
 In-person, Screenings
 /events/6783396/sometimes-it-was-beautiful/
 
@@ -185,6 +126,15 @@ Sometimes It Was Beautiful
 October 15, 2026, 6pm
 Logan Center for The Arts, Screening Room 201
 RSVP [https://events.humanitix.com/the-african-film-institute-presents-sometimes-it-was-beautiful]
+Talks, In-person
+/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/
+
+Charles Mudede, "Exit Envy: BLM, MAGA, and the Continuing Crisis of Longevity"
+
+[/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/]
+October 15, 2026, 7pm
+e-flux
+RSVP [https://www.eventbrite.com/e/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevi-tickets-2002569755045]
 In-person, Launches, Talks
 /events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/
 
@@ -221,6 +171,30 @@ November 18, 2026, 7pm
 Bar Laika by e-flux
 Archive
 
+In-person, Talks, Screenings
+/events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/
+
+Under the Red Sky: Pınar Öğrenci’s Art of Responding
+
+[/events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/]
+October 10, 2026, 3pm
+e-flux Screening Room
+In-person, Screenings
+/events/6783391/louis-massiah-and-monica-henriquez-rsquo-s-tcb-ndash-the-toni-cade-bambara-school-of-organizing/
+
+Louis Massiah and Monica Henriquez’s TCB – The Toni Cade Bambara School of Organizing
+
+[/events/6783391/louis-massiah-and-monica-henriquez-rsquo-s-tcb-ndash-the-toni-cade-bambara-school-of-organizing/]
+October 8, 2026, 6pm
+e-flux Screening Room
+In-person
+/events/6783386/bar-laika-presents-playback-0039-with-tomin/
+
+Bar Laika presents Playback 0039 with Tomin
+
+[/events/6783386/bar-laika-presents-playback-0039-with-tomin/]
+October 7, 2026, 7pm
+Bar Laika by e-flux
 In-person, Screenings, Talks
 Documentation
 /events/6783378/planetary-afterimages-after-the-short-century/
@@ -230,30 +204,6 @@ Planetary Afterimages: After The Short Century
 [/events/6783378/planetary-afterimages-after-the-short-century/]
 September 24, 2026, 5pm
 e-flux Screening Room
-In-person
-/events/6783389/bar-laika-presents-playback-0038-with-nyksan/
-
-Bar Laika presents Playback 0038 with Nyksan
-
-[/events/6783389/bar-laika-presents-playback-0038-with-nyksan/]
-September 23, 2026, 7pm
-Bar Laika by e-flux
-/events/6783374/art-and-theory-today-readings-from-the-index/
-
-Art and Theory Today: Readings from the Index
-
-[/events/6783374/art-and-theory-today-readings-from-the-index/]
-September 22, 2026, 7pm
-e-flux
-Screenings, In-person
-/events/6783381/rehearsal-behavior-ii-yvonne-rainer/
-
-Rehearsal Behavior. II: Yvonne Rainer
-
-[/events/6783381/rehearsal-behavior-ii-yvonne-rainer/]
-September 19, 2026, 3pm
-e-flux Screening Room
 Load more
 Advertisement
-/ads/redirect/6747213
-/ads/redirect/6747213
+/ads/redirect/6747144

@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-10-07T06:57:53.087Z
+FETCHED:2026-10-11T06:55:44.164Z
 
 Index [/]
 
@@ -99,16 +99,6 @@ All EventsGreenpointChinatown
 
    Presented by Index Chinatown
 
- * Breaking Walled Gardens [/programming/breaking-walled-gardens-evt-x2nKhq1Bp5aRsaP?view=list]
-
-   BREAKING WALLED GARDENS
-
-   Sunday, Oct 18, 2026
-
-   Hosted by sam [https://luma.com/user/usr-6kDe3yTTC0jc2lU]
-
-   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
-
  * Look & Feel [/programming/look-feel-evt-iVtNFmberU8VSV7?view=list]
 
    LOOK & FEEL
@@ -116,6 +106,16 @@ All EventsGreenpointChinatown
    Thursday, Oct 22, 2026
 
    Hosted by Rahmi Halaby [https://luma.com/user/usr-a60WBT7PoLX4sYz]
+
+   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
+
+ * Workshop on Workshops [/programming/workshop-on-workshops-evt-8FBMZuCN71VMK3N?view=list]
+
+   WORKSHOP ON WORKSHOPS
+
+   Saturday, Oct 24, 2026
+
+   Hosted by Elie Andersen [https://luma.com/user/usr-pt54ROnL0qbHlR3]
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
 

@@ -1,6 +1,6 @@
 VENUE:issue-project-room | Issue Project Room
 URL:https://issueprojectroom.org/events
-FETCHED:2026-10-07T06:57:42.112Z
+FETCHED:2026-10-11T06:55:34.172Z
 
 /
 https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue-project-room/ https://www.instagram.com/issueprojectroom https://soundcloud.com/issueprojectroom
@@ -22,18 +22,6 @@ https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue
 
 UPCOMING EVENTS
 
-/event/conversation-kim-brandt-isabella-thorpe-woods /event/conversation-kim-brandt-isabella-thorpe-woods
-
-ISSUE Online [/program/issue-online]
-
-IN CONVERSATION: KIM BRANDT & ISABELLA THORPE-WOODS [/event/conversation-kim-brandt-isabella-thorpe-woods]
-
-Tuesday, October 6, 2026 - 12:00 pm
-Streaming on this webpage and Vimeo
-
-This installment of io brings together choreographer Kim Brandt (2015 AIR) and Isabella Thorpe-Woods (2026 SFCF). Centered around never-before-released footage from Clear Night (2016)—Brandt's eight-day AIR commission at Pioneer Works—the project revisits a performance that has remained largely unseen for nearly a decade. 
-
-More [/event/conversation-kim-brandt-isabella-thorpe-woods]
 /event/liturgy /event/liturgy
 
 LITURGY [/event/liturgy]
@@ -118,6 +106,18 @@ PAST EVENTS
  * 2004 [/events/archive/2004]
  * 2003 [/events/archive/2003]
 
+/event/conversation-kim-brandt-isabella-thorpe-woods /event/conversation-kim-brandt-isabella-thorpe-woods
+
+ISSUE Online
+
+IN CONVERSATION: KIM BRANDT & ISABELLA THORPE-WOODS [/event/conversation-kim-brandt-isabella-thorpe-woods]
+
+Tue 06 Oct, 2026, 12pm
+Streaming on this webpage and Vimeo
+
+This installment of io brings together choreographer Kim Brandt (2015 AIR) and Isabella Thorpe-Woods (2026 SFCF). Centered around never-before-released footage from Clear Night (2016)—Brandt's eight-day AIR commission at Pioneer Works—the project revisits a performance that has remained largely unseen for nearly a decade. 
+
+More [/event/conversation-kim-brandt-isabella-thorpe-woods]
 /event/sold-out-sergei-tcherepnin /event/sold-out-sergei-tcherepnin
 
 SOLD OUT! SERGEI TCHEREPNIN [/event/sold-out-sergei-tcherepnin]
@@ -195,16 +195,4 @@ Wed 01 Jul, 2026, 8pm
 Isabella Thorpe-Woods presents "Envelop/e," her second program as ISSUE’s 2026 Suzanne Fiol Curatorial Fellow. Bringing together choreographers Jade Manns and Ella Dawn W-S for site-specific duets, they navigate presence and absence, repetition and rupture, and the tension between inherited geometries and shifting landscapes.
 
 More [/event/sold-out-jade-manns-ella-dawn-w-s]
-/event/rocio-sanchez-monarch-butterfly /event/rocio-sanchez-monarch-butterfly
-
-Artists-In-Residence 2026
-
-ROCÍO SÁNCHEZ: MONARCH BUTTERFLY [/event/rocio-sanchez-monarch-butterfly]
-
-Sat 27 Jun, 2026, 8pm
-22 Boerum Place, Brooklyn 11201
-
-Monarch Butterfly by rocío sánchez (2026 AIR) features Melissa Almaguer (tap dance and percussion) and Kenneth Jiménez (double bass). Together, the trio explores the elusive monarch’s migratory journey through sound and movement, with each instrument articulating distinct states of motion.
-
-More [/event/rocio-sanchez-monarch-butterfly]
  * Load More [?page=1]

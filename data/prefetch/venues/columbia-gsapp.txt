@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-10-07T06:57:55.105Z
+FETCHED:2026-10-11T06:55:46.204Z
 
 /
  * The School
@@ -850,46 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=29&month=9&time_range=week&year=2026 /events?day=15&month=10&time_range=week&year=2026
-Oct 7 – Oct 14
+/events?day=3&month=10&time_range=week&year=2026 /events?day=19&month=10&time_range=week&year=2026
+Oct 11 – Oct 18
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Today at 1pm
-
-Shuyi Yin: From Plot to Bit: How Records Shape Preservation
-
-Preservation Lecture Series
-
-[/events/4286-shuyi-yin-from-plot-to-bit-how-records-shape-preservation]
-
-Today at 6:30pm
-
-Anarchitecture After Everything: A Trans Manifesto
-
-[/events/4221-anarchitecture-after-everything-a-trans-manifesto]
-
-Thu, Oct 8    6pm
-
-Marcos Zotes ‘12 MSAAD: Bathing in Extreme Landscapes
-
-Alumni
-
-New York
-
-[/events/4310-marcos-zotes-12-msaad-bathing-in-extreme-landscapes]
-
-Fri, Oct 9    1pm
-
-THE LIBRARY IS OPEN 31: Dear Mazie,: Sanctuary, Speculation, and Sky
-
-Library is Open
-
-[/events/4271-the-library-is-open-31-dear-mazie-sanctuary-speculation-and-sky]
 
 Mon, Oct 12    6:30pm
 
@@ -926,3 +894,31 @@ Lecture
 New York
 
 [/events/4343-the-lecture-in-planning-series-li-ps-panel]
+
+Thu, Oct 15    1pm
+
+MSRED Lecture: Daniel Carr, Alpaca Real Estate
+
+Lecture
+
+New York
+
+[/events/4297-msred-lecture-daniel-carr-alpaca-real-estate]
+
+Thu, Oct 15    5pm
+
+Alumni Connections in San Francisco
+
+Alumni
+
+San Francisco
+
+[/events/4290-alumni-connections-in-san-francisco]
+
+Fri, Oct 16    2pm
+
+At the Edge of Where God Built
+
+Discussion
+
+[/events/4272-at-the-edge-of-where-god-built]

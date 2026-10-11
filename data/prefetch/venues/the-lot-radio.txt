@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-10-07T06:57:58.257Z
+FETCHED:2026-10-11T06:55:48.872Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,41 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP10.07.2026
+TODAY’SLINEUP10.11.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+KIA
+
+Kia
+
+10.08.2026
+
+Electronica, Downtempo, Trip Hop, IDM
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-08-1300]
+ *
+
+/shows/special-guests/2026-10-08-1300
+
+SUPERNOVA VIBES WITH THESTAMMA & RUNKUS
+
+Stamma, Runkus
+
+10.07.2026
+
+Reggae, Hip Hop, Amapiano, Dub, Dancehall
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-07-1500]
+ *
+
+/shows/special-guests/2026-10-07-1500
 
 MAFALDA
 
@@ -92,76 +120,48 @@ Ambient, Spoken Word, Jazz, Soul, Rnb
 
 /shows/summer-school-radio/2026-09-29-1000
 
-GIRL ULTRA
-
-Girl Ultra
-
-09.28.2026
-
-House, Techno, Alternative Pop, UK Garage, Rnb
-
- * Play
- * Detail [/shows/special-guests/2026-09-28-1700]
- *
-
-/shows/special-guests/2026-09-28-1700
-
-SHONKY
-
-Shonky
-
-09.28.2026
-
-House
-
- * Play
- * Detail [/shows/special-guests/2026-09-28-1200]
- *
-
-/shows/special-guests/2026-09-28-1200
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * Andi
+ * J. Russ
    R
-   [/artists/andi]
- * Vito
+   [/artists/j-russ]
+ * Maroje T
    R
-   [/artists/vito]
- * Timo Ellis
+   [/artists/maroje-t]
+ * Tom Noble
    R
-   [/artists/timo-ellis]
- * Dave Stringer Hughes
-   R
-   [/artists/dave-stringer-hughes]
- * Millz 'El Negro Mezclador'
-   R
-   [/artists/millz-el-negro-mezclador]
- * YOUNGBLOODS
-   R
-   [/artists/youngbloods]
- * Ben Hixon
-   R
-   [/artists/ben-hixon]
- * Nazuk
-   R
-   [/artists/nazuk]
+   [/artists/tom-noble]
  * RAPRAVE
    R
    [/artists/raprave]
+ * Andi
+   R
+   [/artists/andi]
+ * Relaxer
+   R
+   [/artists/relaxer]
+ * Black Rave Culture
+   R
+   [/artists/black-rave-culture]
+ * Sister Zo
+   R
+   [/artists/sister-zo]
  * Joy Guidry
    R
    [/artists/joy-guidry]
- * LISAS
+ * Ella Hussle
    R
-   [/artists/lisas]
- * Model/Actriz
+   [/artists/ella-hussle]
+ * succubass
    R
-   [/artists/model/actriz]
+   [/artists/succubass]
+ * Mirza
+   R
+   [/artists/mirza]
 
 WE ARE THE LOT RADIO
 
@@ -175,27 +175,27 @@ About us [/about]
    RESTREAM
 
  * 10am — 12pm
-   Oblique Slice with Will Shore
+   Pierre Rousseau
+   Alternative, Pop, Post Punk, Post-Rock, Experimental
+ * 12pm — 2pm
+   Nabihah Iqbal
 
- * 12pm — 1pm
-   ETHERNET invites Franki Chan
-
- * 1pm — 3pm
-   House of Diggs with Dee Diggs b2b Ashley Younniä
-
+ * 2pm — 3pm
+   Praise Break: Joy Invites SCRAAATCH
+   Experimental Electronic
  * 3pm — 4pm
-   Supernova Vibes with TheStamma & Runkus
-
+   Positive Reality with Queen Majesty
+   Reggae, Dub, Dancehall
  * 4pm — 6pm
-   Nothing in Moderation with DJ Voices
-
+   Moods & Grooves with Cam and Sean
+   Disco, Jazz, Reggae, Funk, Soul
  * 6pm — 8pm
-   Magic City with Jubilee
+   Mole & Belly Rub
 
- * 8pm — 10pm
-   PART TIME PUNK WITH J. RUSS
+ * 8pm — 9pm
+   MoMA Ready
 
- * 10pm — 11pm
-   Nathalie Duchene
+ * 10pm — 12am
+   Restream
 
 THE LOT RADIO

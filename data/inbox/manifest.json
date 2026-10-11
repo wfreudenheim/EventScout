@@ -5630,5 +5630,477 @@
     "date": "2026-10-07T06:11:13.000Z",
     "file": "data/inbox/704-john-giorno-life-is-a-killer-at-kurimanzutto.html",
     "processed": true
+  },
+  {
+    "uid": 705,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "Rail Weekly",
+    "date": "2026-10-07T12:03:16.000Z",
+    "file": "data/inbox/705-rail-weekly.html",
+    "processed": false
+  },
+  {
+    "uid": 706,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "STUK presents Anouk De Clercq: Love that Moves the Sun",
+    "date": "2026-10-07T13:15:11.000Z",
+    "file": "data/inbox/706-stuk-presents-anouk-de-clercq-love-that-moves-the-.html",
+    "processed": false
+  },
+  {
+    "uid": 707,
+    "from": "\"New York Film Festival\" <noreply@filmlinc.org>",
+    "subject": "Tickets for Ava DuVernay’s 14th + The Dreamed Adventure Director in Conversation + More",
+    "date": "2026-10-07T13:34:34.000Z",
+    "file": "data/inbox/707-tickets-for-ava-duvernay-s-14th-the-dreamed-advent.html",
+    "processed": false
+  },
+  {
+    "uid": 708,
+    "from": "\"La MaMa\" <programs@lamama.org>",
+    "subject": "QNYIA Double Feature and Brooklyn United Tears the Roof Smoove Off",
+    "date": "2026-10-07T14:08:04.000Z",
+    "file": "data/inbox/708-qnyia-double-feature-and-brooklyn-united-tears-the.html",
+    "processed": false
+  },
+  {
+    "uid": 709,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "Concert & Jam October 14th!",
+    "date": "2026-10-07T14:15:16.000Z",
+    "file": "data/inbox/709-concert-jam-october-14th.html",
+    "processed": false
+  },
+  {
+    "uid": 710,
+    "from": "\"Genspace\" <genspace@ghost.io>",
+    "subject": "She put one of the most toxic mushrooms in North America in her mouth",
+    "date": "2026-10-07T15:50:18.000Z",
+    "file": "data/inbox/710-she-put-one-of-the-most-toxic-mushrooms-in-north-a.html",
+    "processed": false
+  },
+  {
+    "uid": 711,
+    "from": "\"UnionDocs\" <info@uniondocs.org>",
+    "subject": "Hafizah Geter, Dorothea Lasky, and Marisa Crawford summon divas past and present. Plus Khalik Allah, Shevaun Mizrahi and and Jamil GS invite you to explore lens-based encounters at Camera Ministry.",
+    "date": "2026-10-07T15:58:17.000Z",
+    "file": "data/inbox/711-hafizah-geter-dorothea-lasky-and-marisa-crawford-s.html",
+    "processed": false
+  },
+  {
+    "uid": 712,
+    "from": "\"Montez Press\" <info@montezpress.com>",
+    "subject": "Montez Press October News",
+    "date": "2026-10-07T16:05:07.000Z",
+    "file": "data/inbox/712-montez-press-october-news.html",
+    "processed": false
+  },
+  {
+    "uid": 713,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Andrzej Wajda",
+    "date": "2026-10-07T16:22:01.000Z",
+    "file": "data/inbox/713-andrzej-wajda.html",
+    "processed": false
+  },
+  {
+    "uid": 714,
+    "from": "\"The New York Public Library\" <friends@email.nypl.org>",
+    "subject": "NYPL's Book Fund is here—donate and double your gift to the Library",
+    "date": "2026-10-07T14:11:04.000Z",
+    "file": "data/inbox/714-nypl-s-book-fund-is-here-donate-and-double-your-gi.html",
+    "processed": false
+  },
+  {
+    "uid": 715,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: VACANCES; Cinema of Gender Transgression; Women in Animation; Avatars of the Whore; Combat Breathing & the Secret Life of AFA",
+    "date": "2026-10-07T17:17:04.000Z",
+    "file": "data/inbox/715-this-week-at-afa-vacances-cinema-of-gender-transgr.html",
+    "processed": false
+  },
+  {
+    "uid": 716,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "Publisher Work Grant — Deadline extended & featured interviews",
+    "date": "2026-10-07T18:23:10.000Z",
+    "file": "data/inbox/716-publisher-work-grant-deadline-extended-featured-in.html",
+    "processed": false
+  },
+  {
+    "uid": 717,
+    "from": "\"Bard Graduate Center\" <news@bgc.bard.edu>",
+    "subject": "What's Happening: Explore \"Goddesses\" from home, celebrate with us at MATERIAL WORLD, and more.",
+    "date": "2026-10-07T19:01:31.000Z",
+    "file": "data/inbox/717-what-s-happening-explore-goddesses-from-home-celeb.html",
+    "processed": false
+  },
+  {
+    "uid": 718,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Fall Fun for the Whole Family",
+    "date": "2026-10-07T21:00:48.000Z",
+    "file": "data/inbox/718-fall-fun-for-the-whole-family.html",
+    "processed": false
+  },
+  {
+    "uid": 719,
+    "from": "\"Asia Society NY\" <reply@e.asiasociety.org>",
+    "subject": "Up next: Films from Armenia and Armenian directors",
+    "date": "2026-10-07T21:01:09.000Z",
+    "file": "data/inbox/719-up-next-films-from-armenia-and-armenian-directors.html",
+    "processed": false
+  },
+  {
+    "uid": 720,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "New exhibit: Seeing the Cinema + holiday weekend of animation, anime, Muppets Tonight, NYFF, and more",
+    "date": "2026-10-07T21:46:11.000Z",
+    "file": "data/inbox/720-new-exhibit-seeing-the-cinema-holiday-weekend-of-a.html",
+    "processed": false
+  },
+  {
+    "uid": 721,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "George & Aristea Mamidakis Foundation opens applications for Art Prize 2027",
+    "date": "2026-10-08T06:10:23.000Z",
+    "file": "data/inbox/721-george-aristea-mamidakis-foundation-opens-applicat.html",
+    "processed": false
+  },
+  {
+    "uid": 722,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "Susan Weil at Sundaram Tagore reviewed by Tom McGlynn",
+    "date": "2026-10-08T12:03:16.000Z",
+    "file": "data/inbox/722-susan-weil-at-sundaram-tagore-reviewed-by-tom-mcgl.html",
+    "processed": false
+  },
+  {
+    "uid": 723,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Ava DuVernay’s 14th Closes NYFF64 + The Devils on 35mm + Once Upon a Time in Harlem + More",
+    "date": "2026-10-08T12:21:35.000Z",
+    "file": "data/inbox/723-ava-duvernay-s-14th-closes-nyff64-the-devils-on-35.html",
+    "processed": false
+  },
+  {
+    "uid": 724,
+    "from": "\"New York Film Festival\" <noreply@filmlinc.org>",
+    "subject": "Free Talk w. Ava DuVernay + Albert Serra in Person + More",
+    "date": "2026-10-08T13:34:37.000Z",
+    "file": "data/inbox/724-free-talk-w-ava-duvernay-albert-serra-in-person-mo.html",
+    "processed": false
+  },
+  {
+    "uid": 725,
+    "from": "\"Verso Books\" <verso@versobooks.com>",
+    "subject": "📚 New titles on Palestinian feminism, on the concept of \"transfer\" in Zionist political thought, and mass media manipulaitons 📚",
+    "date": "2026-10-08T14:16:02.000Z",
+    "file": "data/inbox/725-new-titles-on-palestinian-feminism-on-the-concept-.html",
+    "processed": false
+  },
+  {
+    "uid": 726,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Jonathan Griffin on Liz Larner’s “A hard line to bend” at Camden Art Centre, London",
+    "date": "2026-10-08T14:10:07.000Z",
+    "file": "data/inbox/726-review-jonathan-griffin-on-liz-larner-s-a-hard-lin.html",
+    "processed": false
+  },
+  {
+    "uid": 727,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-10-08T15:10:58.000Z",
+    "file": "data/inbox/727-this-week-at-barbes.html",
+    "processed": false
+  },
+  {
+    "uid": 728,
+    "from": "\"Swiss Institute / Contemporary Art\" <info@swissinstitute.net>",
+    "subject": "Upcoming | New York Axiomatic Circle",
+    "date": "2026-10-08T15:12:00.000Z",
+    "file": "data/inbox/728-upcoming-new-york-axiomatic-circle.html",
+    "processed": false
+  },
+  {
+    "uid": 729,
+    "from": "\"The New York Public Library\" <friends@email.nypl.org>",
+    "subject": "We need 17,500 new books for our shelves before 10/14!",
+    "date": "2026-10-08T13:56:54.000Z",
+    "file": "data/inbox/729-we-need-17-500-new-books-for-our-shelves-before-10.html",
+    "processed": false
+  },
+  {
+    "uid": 730,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "The Secret Lives of Artists",
+    "date": "2026-10-08T16:17:16.000Z",
+    "file": "data/inbox/730-the-secret-lives-of-artists.html",
+    "processed": false
+  },
+  {
+    "uid": 731,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "VALIE EXPORT",
+    "date": "2026-10-08T16:45:33.000Z",
+    "file": "data/inbox/731-valie-export.html",
+    "processed": false
+  },
+  {
+    "uid": 732,
+    "from": "\"Vera List Center\" <vlc@newschool.edu>",
+    "subject": "Starting tomorrow! VLC Forum 2026: Matter of Intelligence | at The New School & live-streamed",
+    "date": "2026-10-08T17:01:50.000Z",
+    "file": "data/inbox/732-starting-tomorrow-vlc-forum-2026-matter-of-intelli.html",
+    "processed": false
+  },
+  {
+    "uid": 733,
+    "from": "\"Nitehawk Cinema\" <newsletter@nitehawkcinema.com>",
+    "subject": "This weekend at Nitehawk Cinema",
+    "date": "2026-10-08T17:04:16.000Z",
+    "file": "data/inbox/733-this-weekend-at-nitehawk-cinema.html",
+    "processed": false
+  },
+  {
+    "uid": 734,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "From This Year's Fair",
+    "date": "2026-10-08T17:04:05.000Z",
+    "file": "data/inbox/734-from-this-year-s-fair.html",
+    "processed": false
+  },
+  {
+    "uid": 735,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "The scenario is basically the same",
+    "date": "2026-10-08T18:48:47.000Z",
+    "file": "data/inbox/735-the-scenario-is-basically-the-same.html",
+    "processed": false
+  },
+  {
+    "uid": 736,
+    "from": "\"Onassis ONX\" <contact@onx.studio>",
+    "subject": "Somerset 3ETV Launch 🕷️ Feral Metaverse (Spider) at Frieze London 🎮 Outland Game Night",
+    "date": "2026-10-08T19:17:54.000Z",
+    "file": "data/inbox/736-somerset-3etv-launch-feral-metaverse-spider-at-fri.html",
+    "processed": false
+  },
+  {
+    "uid": 737,
+    "from": "\"NYU Game Center\" <gamecenter@nyu.edu>",
+    "subject": "TONIGHT - NY Games Week Special Edition Playtest Thursday!",
+    "date": "2026-10-08T20:01:08.000Z",
+    "file": "data/inbox/737-tonight-ny-games-week-special-edition-playtest-thu.html",
+    "processed": false
+  },
+  {
+    "uid": 738,
+    "from": "\"Knockdown Center\" <mail@knockdowncenter.com>",
+    "subject": "Weekly Newsletter 136",
+    "date": "2026-10-08T21:02:48.000Z",
+    "file": "data/inbox/738-weekly-newsletter-136.html",
+    "processed": false
+  },
+  {
+    "uid": 739,
+    "from": "\"La MaMa\" <programs@lamama.org>",
+    "subject": "Don't Miss Brooklyn United This Weekend!",
+    "date": "2026-10-08T21:16:49.000Z",
+    "file": "data/inbox/739-don-t-miss-brooklyn-united-this-weekend.html",
+    "processed": false
+  },
+  {
+    "uid": 740,
+    "from": "\"Zamara Choudhary\" <education@nyas.org>",
+    "subject": "⏳ Starts 2 Weeks: Research Leadership Skills Series",
+    "date": "2026-10-08T22:02:04.000Z",
+    "file": "data/inbox/740-starts-2-weeks-research-leadership-skills-series.html",
+    "processed": false
+  },
+  {
+    "uid": 741,
+    "from": "\"World Music Institute\" <info@worldmusicinstitute.org>",
+    "subject": "Music As Vibrant As the Fall Foliage 🍁",
+    "date": "2026-10-08T22:15:37.000Z",
+    "file": "data/inbox/741-music-as-vibrant-as-the-fall-foliage.html",
+    "processed": false
+  },
+  {
+    "uid": 742,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "La Nueva Fábrica presents Tania Candiani: El canto de la fábrica",
+    "date": "2026-10-09T06:10:13.000Z",
+    "file": "data/inbox/742-la-nueva-f-brica-presents-tania-candiani-el-canto-.html",
+    "processed": false
+  },
+  {
+    "uid": 743,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "Fondazione In Between Art Film presents Canicula public programme in Venice",
+    "date": "2026-10-09T07:14:04.000Z",
+    "file": "data/inbox/743-fondazione-in-between-art-film-presents-canicula-p.html",
+    "processed": false
+  },
+  {
+    "uid": 744,
+    "from": "\"New York Film Festival\" <noreply@filmlinc.org>",
+    "subject": "Week Two Recap + Closing Night Tickets Available + More",
+    "date": "2026-10-09T13:21:34.000Z",
+    "file": "data/inbox/744-week-two-recap-closing-night-tickets-available-mor.html",
+    "processed": false
+  },
+  {
+    "uid": 745,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "e-flux Film Notes: Jonas Mekas on the institutions artists need",
+    "date": "2026-10-09T13:14:53.000Z",
+    "file": "data/inbox/745-e-flux-film-notes-jonas-mekas-on-the-institutions-.html",
+    "processed": false
+  },
+  {
+    "uid": 746,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Socrates",
+    "date": "2026-10-09T13:58:57.000Z",
+    "file": "data/inbox/746-socrates.html",
+    "processed": false
+  },
+  {
+    "uid": 747,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "🧳 Maia Ruth Lee, Anthea Hamilton, John Edmonds and more…up next on the New Social Environment!",
+    "date": "2026-10-09T14:12:30.000Z",
+    "file": "data/inbox/747-maia-ruth-lee-anthea-hamilton-john-edmonds-and-mor.html",
+    "processed": false
+  },
+  {
+    "uid": 748,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Grazia Toderi: Teatro Terra at Fondazione Cosso",
+    "date": "2026-10-09T14:12:20.000Z",
+    "file": "data/inbox/748-grazia-toderi-teatro-terra-at-fondazione-cosso.html",
+    "processed": false
+  },
+  {
+    "uid": 749,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "Broadcast Hits Rock Bottom",
+    "date": "2026-10-09T16:17:43.000Z",
+    "file": "data/inbox/749-broadcast-hits-rock-bottom.html",
+    "processed": false
+  },
+  {
+    "uid": 750,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Special projects of Artissima 2026 edition",
+    "date": "2026-10-09T17:10:11.000Z",
+    "file": "data/inbox/750-special-projects-of-artissima-2026-edition.html",
+    "processed": false
+  },
+  {
+    "uid": 751,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "Announcing Guadalupe Maravilla: Consejos de las Estrellas",
+    "date": "2026-10-09T18:15:44.000Z",
+    "file": "data/inbox/751-announcing-guadalupe-maravilla-consejos-de-las-est.html",
+    "processed": false
+  },
+  {
+    "uid": 752,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "Tomorrow: Local Filmmakers' Showcase",
+    "date": "2026-10-09T19:03:29.000Z",
+    "file": "data/inbox/752-tomorrow-local-filmmakers-showcase.html",
+    "processed": false
+  },
+  {
+    "uid": 753,
+    "from": "\"Asia Society NY\" <reply@e.asiasociety.org>",
+    "subject": "Join us: 70 After Dark: Meet Our Host Committee",
+    "date": "2026-10-09T19:46:08.000Z",
+    "file": "data/inbox/753-join-us-70-after-dark-meet-our-host-committee.html",
+    "processed": false
+  },
+  {
+    "uid": 754,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "“A form that lives and dies on liveness.”",
+    "date": "2026-10-09T20:51:13.000Z",
+    "file": "data/inbox/754-a-form-that-lives-and-dies-on-liveness.html",
+    "processed": false
+  },
+  {
+    "uid": 755,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "This Sunday, J. Hoberman presents Southland Tales + Peeping Tom, plus book signing",
+    "date": "2026-10-09T21:39:18.000Z",
+    "file": "data/inbox/755-this-sunday-j-hoberman-presents-southland-tales-pe.html",
+    "processed": false
+  },
+  {
+    "uid": 756,
+    "from": "\"Columbia GSAPP\" <editorial@arch.columbia.edu>",
+    "subject": "October at GSAPP",
+    "date": "2026-10-09T22:00:03.000Z",
+    "file": "data/inbox/756-october-at-gsapp.html",
+    "processed": false
+  },
+  {
+    "uid": 757,
+    "from": "\"Bard Graduate Center\" <news@bgc.bard.edu>",
+    "subject": "Explore \"Goddesses\" from home, celebrate with us at MATERIAL WORLD, and more.",
+    "date": "2026-10-10T13:01:04.000Z",
+    "file": "data/inbox/757-explore-goddesses-from-home-celebrate-with-us-at-m.html",
+    "processed": false
+  },
+  {
+    "uid": 758,
+    "from": "\"New York Film Festival\" <noreply@filmlinc.org>",
+    "subject": "Final Screenings + NYFF64 Favorites Opening at FLC + More",
+    "date": "2026-10-10T13:31:53.000Z",
+    "file": "data/inbox/758-final-screenings-nyff64-favorites-opening-at-flc-m.html",
+    "processed": false
+  },
+  {
+    "uid": 759,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "🪩 You're Invited • Opening Party for Sunset Park Open Studios at Industry City",
+    "date": "2026-10-10T13:31:43.000Z",
+    "file": "data/inbox/759-you-re-invited-opening-party-for-sunset-park-open-.html",
+    "processed": false
+  },
+  {
+    "uid": 760,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: R.H. Lossin on Alfredo Jaar’s “A Logo for America, 1987” at Galerie Lelong, New York",
+    "date": "2026-10-10T14:10:28.000Z",
+    "file": "data/inbox/760-review-r-h-lossin-on-alfredo-jaar-s-a-logo-for-ame.html",
+    "processed": false
+  },
+  {
+    "uid": 761,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Morbid Weekend + Brief Encounter",
+    "date": "2026-10-10T15:28:29.000Z",
+    "file": "data/inbox/761-morbid-weekend-brief-encounter.html",
+    "processed": false
+  },
+  {
+    "uid": 762,
+    "from": "\"Brooklyn Raga Massive\" <brooklynragamassive@38004833.mailchimpapp.com>",
+    "subject": "Concert & Jam October 14th!",
+    "date": "2026-10-10T19:14:41.000Z",
+    "file": "data/inbox/762-concert-jam-october-14th.html",
+    "processed": false
+  },
+  {
+    "uid": 763,
+    "from": "\"McNally Jackson Books\" <yvonne@mcnallyjackson.com>",
+    "subject": "SUNDAY at the Seaport, Oct. 11th, Noon. Celebrate with Katy Hessel, The Story of Art (Without Men) for Kids, Middle Graders, and Adults!",
+    "date": "2026-10-10T19:39:41.000Z",
+    "file": "data/inbox/763-sunday-at-the-seaport-oct-11th-noon-celebrate-with.html",
+    "processed": false
   }
 ]

@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-10-07T06:57:49.795Z
+FETCHED:2026-10-11T06:55:41.591Z
 
 PRINTED MATTER, INC.
 
@@ -158,26 +158,6 @@ September 9 - November 29, 2026
 
 EventChelsea
 
-Matías Duville: Monitor Yin Yang
-
-Book Launch and Conversation
-
-October 7, 2026
-
-[/programs/events/2277]
-
-EventChelsea
-
-Positions by K8 Hardy
-
-Launch and Conversation
-
-October 8, 2026
-
-[/programs/events/2295]
-
-EventChelsea
-
 Insider Trading II
 
 Panel with Eli Rosenbloom, Miyako Bellizzi, Yusuf Hassan, and Steff Yotka
@@ -185,6 +165,14 @@ Panel with Eli Rosenbloom, Miyako Bellizzi, Yusuf Hassan, and Steff Yotka
 October 14, 2026
 
 [/programs/events/2331]
+
+EventChelsea
+
+AnarkoArtLab—Book Launch & Conversation
+
+October 15, 2026
+
+[/programs/events/2332]
 
 EventChelsea
 
@@ -222,6 +210,26 @@ November 5, 2026
 
 EventChelsea
 
+Positions by K8 Hardy
+
+Launch and Conversation
+
+October 8, 2026
+
+[/programs/events/2295]
+
+EventChelsea
+
+Matías Duville: Monitor Yin Yang
+
+Book Launch and Conversation
+
+October 7, 2026
+
+[/programs/events/2277]
+
+EventChelsea
+
 Melissa Auf der Maur: My ’90s Rock Photographs
 
 In conversation with Laia Garcia-Furtado
@@ -229,14 +237,6 @@ In conversation with Laia Garcia-Furtado
 October 1, 2026
 
 [/programs/events/2283]
-
-EventOffsite
-
-Bark of Millions — Book Signing with Taylor Mac and Matt Ray
-
-September 27, 2026
-
-[/programs/events/2288]
 
 AnnouncementEventFair
 
@@ -247,16 +247,6 @@ AnnouncementEventFair
 September 24 - 27, 2026
 
 [/programs/events/2284]
-
-EventOffsite
-
-Five Cuts in Five Acts — Curated by Justine Kurland
-
-Featuring Genesis Baez, Tammy Rae Carland, Mayita Mendez, Keisha Scarville, & Chen Xiangyun
-
-September 27, 2026
-
-[/programs/events/2290]
 
 See all events [/programs/2-events]
 

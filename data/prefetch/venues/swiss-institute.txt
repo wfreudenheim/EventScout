@@ -1,6 +1,6 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-10-07T06:57:53.148Z
+FETCHED:2026-10-11T06:55:44.180Z
 
 * Exhibitions [/exhibitions]
     * Current [/exhibitions]
@@ -77,13 +77,6 @@ Wed Sep 23—Sat Nov 14 2026
 [https://swissinstitute.net/exhibitions/si-offsite-rafał-skoczek-kino-drift]
 Programs
 
-FILM SERIES | BLACKHOLE CINEMATHEQUE
-
-Wed Oct 7 2026, 7:00pm
-
-[https://swissinstitute.net/programs/film-series-blackhole-cinematheque]
-Programs
-
 NEW YORK AXIOMATIC CIRCLE
 
 Wed Oct 14 2026, 7:00pm
@@ -98,7 +91,7 @@ Wed Oct 21 2026, 7:00pm
 [https://swissinstitute.net/programs/new-york-axiomatic-circle-2]
 Programs
 
-REGIFT | AN EVENING WITH RIRKRIT TIRAVANIJA, AMY SILLMAN, JOHN MILLER, AND CATHERINE CZUDEJ
+REGIFT | AN EVENING WITH RIRKRIT TIRAVANIJA, AMY SILLMAN, JOHN MILLER, AND CATHARINE CZUDEJ
 
 Mon Oct 26 2026, 7:00pm
 
@@ -132,12 +125,6 @@ Wed Nov 11 2026, 7:00pm
 
 [https://swissinstitute.net/programs/film-series-marching-with-the-kasama]
 
-FILM SERIES | BLACKHOLE CINEMATHEQUE
-
-Wed Oct 7 2026, 7:00pm
-
-[https://swissinstitute.net/programs/film-series-blackhole-cinematheque]
-
 NEW YORK AXIOMATIC CIRCLE
 
 Wed Oct 14 2026, 7:00pm
@@ -150,7 +137,7 @@ Wed Oct 21 2026, 7:00pm
 
 [https://swissinstitute.net/programs/new-york-axiomatic-circle-2]
 
-REGIFT | AN EVENING WITH RIRKRIT TIRAVANIJA, AMY SILLMAN, JOHN MILLER, AND CATHERINE CZUDEJ
+REGIFT | AN EVENING WITH RIRKRIT TIRAVANIJA, AMY SILLMAN, JOHN MILLER, AND CATHARINE CZUDEJ
 
 Mon Oct 26 2026, 7:00pm
 
