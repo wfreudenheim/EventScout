@@ -10528,25 +10528,6 @@
     "discovered_at": "2026-10-11T07:26:58.545Z"
   },
   {
-    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
-    "title": "Gen'ichirō Inokuma's NYC Salon",
-    "venue_id": "japan-society",
-    "venue_name": "Japan Society",
-    "date": "2026-10-06",
-    "description": "Gallery exhibition on Gen'ichirō Inokuma's decades in mid-century New York and his ties to the American avant-garde (Jasper Johns, Rothko, Rauschenberg, Noguchi, Cage, Cunningham, and others); on view at Japan Society through January 10, 2027.",
-    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
-    "price": "varies",
-    "format": "gallery",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-11T07:26:58.565Z"
-  },
-  {
     "id": "japan-society-2026-10-18-kojiki-de-creation",
     "title": "Kojiki de Creation",
     "venue_id": "japan-society",
