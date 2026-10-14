@@ -10585,25 +10585,6 @@
     "discovered_at": "2026-10-14T07:25:55.486Z"
   },
   {
-    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
-    "title": "Gen'ichirō Inokuma's NYC Salon",
-    "venue_id": "japan-society",
-    "venue_name": "Japan Society",
-    "date": "2026-10-06",
-    "description": "Gallery exhibition exploring painter Gen'ichirō Inokuma's two decades in New York and his ties to the American avant-garde (Jasper Johns, Rothko, Rauschenberg, Noguchi, Cage, Cunningham, and others). On view October 6, 2026 through January 10, 2027; free admission on First Fridays.",
-    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
-    "price": "varies",
-    "format": "gallery",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-14T07:25:55.506Z"
-  },
-  {
     "id": "creative-time-2026-12-17-consejos-de-las-estrellas",
     "title": "Consejos de las Estrellas",
     "venue_id": "creative-time",
