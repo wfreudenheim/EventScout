@@ -11401,5 +11401,62 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:39:35.180Z"
+  },
+  {
+    "id": "white-columns-2026-10-24-mieko-meguro-love-letter-blank-closing-p",
+    "title": "Mieko Meguro: Love Letter Blank — Closing Party & Zine Launch",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-10-24",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "Closing celebration for Mieko Meguro's exhibition 'Works, New York, 2009-2026,' featuring the launch of her zine 'Love Letter Blank.'",
+    "url": "https://whitecolumns.org/exhibitions/mieko-meguro/",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:40:32.875Z"
+  },
+  {
+    "id": "participant-inc-2026-11-18-tom-cole-chimes-a-monologue-reading-and-",
+    "title": "Tom Cole: \"Chimes: A Monologue\" — Reading and Conversation with Harriet Clark",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-11-18",
+    "time_start": "19:00",
+    "description": "Book launch reading of Tom Cole's monologue 'Chimes,' followed by a conversation with Harriet Clark.",
+    "url": "https://participantinc.org/seasons/season-25/tom-cole-chimes-book-launch-and-conversation-br-with-harriet-clark",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:40:32.909Z"
+  },
+  {
+    "id": "movement-research-2026-10-17-athletics-of-intimacy-with-k-j-holmes",
+    "title": "Athletics of Intimacy with K.J. Holmes",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-10-17",
+    "description": "Recurring embodied movement/dance class led by K.J. Holmes, running Saturdays Oct 17 – Dec 19, 2026.",
+    "url": "https://movementresearch.org/classes/3040/",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:40:32.956Z"
   }
 ]
