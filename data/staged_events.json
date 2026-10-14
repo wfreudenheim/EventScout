@@ -11271,5 +11271,29 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:34:53.595Z"
+  },
+  {
+    "id": "public-records-2026-10-20-gentle-noise",
+    "title": "gentle—noise",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-20",
+    "time_start": "19:00",
+    "description": "An evening billed as 'gentle—noise' in the Sound Room, suggesting an ambient/noise-leaning sound art program.",
+    "url": "https://link.dice.fm/j743865f4013",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "sound-art",
+      "noise",
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:35:12.944Z"
   }
 ]
