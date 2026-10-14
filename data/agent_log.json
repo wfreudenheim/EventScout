@@ -1,56 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "la-mama",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.613Z",
-    "completed_at": "2026-09-23T07:18:51.613Z",
-    "events_found": 5,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "anthology-film-archives",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.623Z",
-    "completed_at": "2026-09-23T07:18:51.623Z",
-    "events_found": 6,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "data-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.634Z",
-    "completed_at": "2026-09-23T07:18:51.634Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "bard-graduate-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.644Z",
-    "completed_at": "2026-09-23T07:18:51.644Z",
-    "events_found": 6,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "museum-of-moving-image",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.651Z",
-    "completed_at": "2026-09-23T07:18:51.651Z",
-    "events_found": 5,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "the-new-school",
     "scrape_tier_used": 3,
     "started_at": "2026-09-23T07:18:51.661Z",
@@ -4997,6 +4947,56 @@
     "completed_at": "2026-10-14T07:25:55.538Z",
     "events_found": 2,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "world-music-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:28:38.444Z",
+    "completed_at": "2026-10-14T07:28:38.444Z",
+    "events_found": 12,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "anthology-film-archives",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:28:38.473Z",
+    "completed_at": "2026-10-14T07:28:38.473Z",
+    "events_found": 12,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "issue-project-room",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:28:38.489Z",
+    "completed_at": "2026-10-14T07:28:38.489Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "light-industry",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:28:38.505Z",
+    "completed_at": "2026-10-14T07:28:38.505Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bitforms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:28:38.517Z",
+    "completed_at": "2026-10-14T07:28:38.517Z",
+    "events_found": 7,
+    "events_new": 0,
     "status": "completed"
   }
 ]

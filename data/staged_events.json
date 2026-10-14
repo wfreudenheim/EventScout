@@ -10621,5 +10621,165 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:25:55.523Z"
+  },
+  {
+    "id": "world-music-institute-2027-01-23-caama-ameixeiras",
+    "title": "Caamañó&Ameixeiras",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-01-23",
+    "time_start": "19:00",
+    "description": "Galician folk duo Caamañó&Ameixeiras perform at Joe's Pub.",
+    "url": "https://www.worldmusicinstitute.org/caamanoameixeiras/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:28:38.417Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-18-multi-media-resource-center-pgm-5-brough",
+    "title": "Multi-Media Resource Center PGM 5: Broughton EC+",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-18",
+    "time_start": "17:45",
+    "description": "Program featuring experimental filmmaker James Broughton's work, part of the Multi-Media Resource Center series.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62019",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:28:38.449Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-29-ec-the-fall-of-the-house-of-usher",
+    "title": "EC: The Fall of the House of Usher",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-29",
+    "time_start": "19:00",
+    "description": "Avant-garde silent adaptation of Poe's 'The Fall of the House of Usher,' screened as part of the Essential Cinema repertory series.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61920",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:28:38.454Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-31-ec-franju-genet",
+    "title": "EC: Franju / Genet",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-31",
+    "time_start": "20:00",
+    "description": "Program pairing Georges Franju's poetic-realist horror with Jean Genet's landmark queer experimental film 'Un Chant d'Amour,' screened as part of the Essential Cinema repertory series.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61924",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film",
+      "horror"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:28:38.455Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-15-narrow-rooms-les-fant-mes-du-hard-fistul",
+    "title": "Narrow Rooms: Les Fantômes du Hard + Fistule",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-15",
+    "time_start": "19:30",
+    "description": "Program of queer experimental French erotic cinema, presented by the repertory series Narrow Margin.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61975",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:28:38.448Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-16-multi-media-resource-center-pgm-2-active",
+    "title": "Multi-Media Resource Center PGM 2: Active Partners",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-16",
+    "time_start": "20:45",
+    "description": "Archival sexuality-education films screened as part of the Multi-Media Resource Center historical film series.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62013",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:28:38.448Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-17-ec-strike",
+    "title": "EC: Strike",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-17",
+    "time_start": "17:30",
+    "description": "Sergei Eisenstein's silent revolutionary drama 'Strike,' screened as part of the Essential Cinema repertory series.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61915",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:28:38.449Z"
+  },
+  {
+    "id": "light-industry-2026-10-25-light-industry-benefit-book-sale-lush-th",
+    "title": "Light Industry Benefit Book Sale + Lush Themes from Motion Pictures: Film Music and Easy Listening, 1955-1975",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-10-25",
+    "description": "A public benefit book sale paired with a themed listening session on film-music and easy-listening recordings from 1955-1975.",
+    "url": "https://lightindustry.org/calendar/",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:28:38.492Z"
   }
 ]
