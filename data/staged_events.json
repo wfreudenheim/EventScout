@@ -10846,5 +10846,430 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:32:45.697Z"
+  },
+  {
+    "id": "moma-ps1-2026-10-14-courtyard-commission-precious-okoyomon-a",
+    "title": "Courtyard Commission: Precious Okoyomon — Among the Flowers I Learned to Love: A Garden of Decreation",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-10-14",
+    "time_start": null,
+    "time_end": null,
+    "description": "Artist and poet Precious Okoyomon transforms the MoMA PS1 courtyard into a living forest of plants, interactive sculpture, and sound, bringing together native and invasive species, pollinators, and cultivated and wild growth. On view through 2028.",
+    "url": "https://www.momaps1.org/en/programs/747-courtyard-commission-precious-okoyomon",
+    "price": null,
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:42.181Z"
+  },
+  {
+    "id": "moma-ps1-2026-10-14-homeroom-artists-against-the-bomb",
+    "title": "Homeroom: Artists Against the Bomb",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-10-14",
+    "time_start": null,
+    "time_end": null,
+    "description": "An international artistic campaign supporting the International Campaign to Abolish Nuclear Weapons (ICAN), spanning posters, design, film, photography, literature, music, sculpture, and ephemera in support of the Treaty on the Prohibition of Nuclear Weapons. On view through February 8, 2027.",
+    "url": "https://www.momaps1.org/en/programs/838-homeroom-artists-against-the-bomb",
+    "price": null,
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "sculpture",
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:42.183Z"
+  },
+  {
+    "id": "moma-ps1-2026-10-14-teresa-margolles-en-el-lugar-de-los-hech",
+    "title": "Teresa Margolles: En el Lugar de los Hechos (At the Scene)",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-10-14",
+    "time_start": null,
+    "time_end": null,
+    "description": "Trained as a forensic pathologist and photographer, Margolles examines the implications of transnational violence, with particular attention to the US-Mexico border, through site-responsive interventions and memorial works. On view through February 8, 2027.",
+    "url": "https://www.momaps1.org/en/programs/760-teresa-margolles",
+    "price": null,
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:42.183Z"
+  },
+  {
+    "id": "roulette-2026-10-14-contemporary-east-ikue-mori-charmaine-le",
+    "title": "Contemporary East: Ikue Mori, Charmaine Lee, Nava Dunkelman, Reggie Nicholson",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-14",
+    "time_start": "20:00",
+    "time_end": null,
+    "description": "Contemporary East presents an evening of improvisational music rooted in Eastern aesthetics, featuring electronic/noise pioneer Ikue Mori alongside Charmaine Lee, Nava Dunkelman, and Reggie Nicholson.",
+    "url": "https://roulette.org/event/contemporary-east-ikue-mori-charmaine-lee-nava-dunkelman-reggie-nicholson/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "aesthetics",
+      "noise"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:42.221Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-17-building-of-the-day-luis-lopez-playgroun",
+    "title": "Building of the Day: Luis Lopez Playground Modular Public Restroom",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-17",
+    "time_start": "12:00",
+    "time_end": "13:00",
+    "description": "A tour of an innovative modular public restroom installed at Luis Lopez Playground, highlighting new approaches to public infrastructure design.",
+    "url": "https://calendar.aiany.org/2026/10/17/building-of-the-day-luis-lopez-playground-modular-public-restroom/",
+    "format": "tour",
+    "interest_score": 4,
+    "tags": [
+      "infrastructure"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Climate & Environment",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.487Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-18-archtober-x-data-vandals-open-house-new-",
+    "title": "Archtober x Data Vandals: Open House New York Weekend",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-18",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "description": "A newsstand takeover in the subway for Archtober and Open House New York Weekend, blending design, public space, and playful intervention.",
+    "url": "https://calendar.aiany.org/2026/10/18/archtober-x-data-vandals-open-house-new-york-weekend/",
+    "format": "other",
+    "interest_score": 4,
+    "tags": [
+      "public-space"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.488Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-19-social-science-architecture-10-year-anni",
+    "title": "Social Science & Architecture: 10-Year Anniversary",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-19",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A program marking ten years of the Social Science & Architecture initiative, examining the intersection of social science research and the built environment.",
+    "url": "https://calendar.aiany.org/2026/10/19/social-science-architecture10-year-anniversary/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies",
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.488Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-20-k-pyah-a-din-responsibility-to-the-land",
+    "title": "Képyah: A Diné Responsibility to the Land",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-20",
+    "time_start": "13:00",
+    "time_end": "14:00",
+    "description": "A conversation with Victor Pascual (DSGW Architecture), moderated by Anna Martin, on Diné relationships and responsibilities to the land, connecting Indigenous knowledge to architecture and ecology.",
+    "url": "https://calendar.aiany.org/2026/10/20/k%c3%a9yah-a-din%c3%a9-responsibility-to-the-land/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "ecology"
+    ],
+    "matched_categories": [
+      "Climate & environmental art/ecology",
+      "Architecture & urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.488Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-21-dmu-x-office-hours-building-civic-power-",
+    "title": "DMU x Office Hours: Building Civic Power with Preeti Sodhi of Hello Voter",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-21",
+    "time_start": "08:30",
+    "time_end": "10:00",
+    "description": "An in-person office-hours session tied to the Dark Matter U: Justice, Pedagogy, Design exhibition, exploring civic power building with Hello Voter's Preeti Sodhi.",
+    "url": "https://calendar.aiany.org/2026/10/21/dmu-x-office-hours-building-civic-power-with-preeti-sodhi-of-hello-voter/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.488Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-21-adaptive-reuse-and-architecture-schools",
+    "title": "Adaptive Reuse and Architecture Schools",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-21",
+    "description": "An externally hosted program, linked via the Center for Architecture's calendar, on adaptive reuse strategies within architecture education.",
+    "url": "https://calendar.aiany.org/2026/10/21/adaptive-reuse-and-architecture-schools/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "adaptive-reuse"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.488Z"
+  },
+  {
+    "id": "architectural-league-2026-11-11-from-field-to-form-ocean-flora",
+    "title": "From Field to Form: Ocean Flora",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-11-11",
+    "description": "A group of experts discusses the use of marine resources and ocean flora as building materials, part of the League's From Field to Form series.",
+    "url": "https://archleague.org/event/from-field-to-form-ocean-flora/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art/ecology",
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.535Z"
+  },
+  {
+    "id": "architectural-league-2026-10-29-after-hours-new-york-city-school-constru",
+    "title": "After Hours: New York City School Construction Authority",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-10-29",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "League members visit the NYC School Construction Authority's Long Island City office for a behind-the-scenes studio visit.",
+    "url": "https://archleague.org/event/after-hours-nycsca/",
+    "price": "members only",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.534Z"
+  },
+  {
+    "id": "architectural-league-2026-11-19-after-hours-inc-architecture-design",
+    "title": "After Hours: INC Architecture & Design",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-11-19",
+    "description": "League members tour the downtown office of multidisciplinary architecture and design studio INC Architecture & Design.",
+    "url": "https://archleague.org/event/after-hours-inc-architecture-design/",
+    "price": "members only",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.535Z"
+  },
+  {
+    "id": "architectural-league-2026-12-10-after-hours-arup",
+    "title": "After Hours: Arup",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-12-10",
+    "description": "League members tour the New York office of global built-environment consultancy Arup, the final studio visit of the season.",
+    "url": "https://archleague.org/event/after-hours-arup/",
+    "price": "members only",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.535Z"
+  },
+  {
+    "id": "nyas-2026-11-18-the-battle-to-breathe-film-screening-and",
+    "title": "The Battle to Breathe - Film Screening and Q&A",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-11-18",
+    "description": "An in-person film screening and Q&A on the struggle for clean air and respiratory health.",
+    "url": "https://www.nyas.org/shaping-science/events/the-battle-to-breathe-film-screening-and-qa",
+    "price": "free for members",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art/ecology",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.555Z"
+  },
+  {
+    "id": "nyas-2027-05-05-2027-annual-symposium-for-the-leon-levy-",
+    "title": "2027 Annual Symposium for the Leon Levy Scholarships in Neuroscience",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-05-05",
+    "description": "A hybrid symposium showcasing research from the Leon Levy Scholars in Neuroscience program.",
+    "url": "https://www.nyas.org/shaping-science/events/2027-annual-symposium-for-the-leon-levy-scholarships-in-neuroscience",
+    "price": "free for members",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [
+      "neuroscience"
+    ],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.556Z"
+  },
+  {
+    "id": "nyas-2027-05-07-trust-in-science-and-medicine",
+    "title": "Trust in Science and Medicine",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-05-07",
+    "description": "A hybrid program examining public trust in science and medicine and how that trust can be rebuilt.",
+    "url": "https://www.nyas.org/shaping-science/events/trust-in-science-and-medicine",
+    "price": "free for members",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.556Z"
+  },
+  {
+    "id": "nyas-2026-11-11-the-208th-annual-meeting-of-the-new-york",
+    "title": "The 208th Annual Meeting of The New York Academy of Sciences",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-11-11",
+    "description": "The Academy's flagship annual meeting, bringing together its scientific community for a hybrid program of talks and recognition.",
+    "url": "https://www.nyas.org/shaping-science/events/208th-annual-meeting-of-the-new-york-academy-of-sciences",
+    "price": "free for members",
+    "format": "conference",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.555Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-12-10-gallery-tour-goddesses-in-the-machine-fa",
+    "title": "Gallery Tour: Goddesses in the Machine: Fashion...",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-12-10",
+    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion, mechanization, and the body.",
+    "url": "https://www.bgc.bard.edu/events/1653/10-dec-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Art & technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.576Z"
+  },
+  {
+    "id": "poetry-project-2026-10-21-tongo-eisen-martin-margaret-randall",
+    "title": "Tongo Eisen-Martin + Margaret Randall",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-10-21",
+    "time_start": "20:00",
+    "description": "A poetry reading pairing Tongo Eisen-Martin and Margaret Randall, two politically engaged poets.",
+    "url": "https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randall",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:34:53.595Z"
   }
 ]
