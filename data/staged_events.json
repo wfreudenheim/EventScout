@@ -10478,5 +10478,148 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:25:11.255Z"
+  },
+  {
+    "id": "blank-forms-2026-11-10-keiji-haino-solo-duo-with-loren-connors",
+    "title": "Keiji Haino Solo & Duo with Loren Connors",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-11-10",
+    "time_start": "19:30",
+    "description": "Legendary Japanese noise/free-improvisation artist Keiji Haino performs solo and in duo with guitarist Loren Connors at Blank Forms. Doors 6:30pm, performance 7:30pm.",
+    "url": "https://www.blankforms.org/events/keiji-haino-solo-duo-with-loren-connors",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "noise",
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:46.081Z"
+  },
+  {
+    "id": "blank-forms-2026-11-12-keiji-haino-special-guest",
+    "title": "Keiji Haino & Special Guest",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-11-12",
+    "time_start": "19:30",
+    "description": "Second night of Keiji Haino's New York residency at Blank Forms, performing with a special guest. Doors 6:30pm, performance 7:30pm.",
+    "url": "https://www.blankforms.org/events/keiji-haino-special-guest",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:46.081Z"
+  },
+  {
+    "id": "blank-forms-2026-11-14-fushitsusha",
+    "title": "Fushitsusha",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-11-14",
+    "time_start": "19:30",
+    "description": "Keiji Haino's seminal noise-rock trio Fushitsusha performs at Blank Forms, closing out Haino's multi-night New York run. Doors 6:30pm, performance 7:30pm.",
+    "url": "https://www.blankforms.org/events/fushitsusha",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "noise"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:46.081Z"
+  },
+  {
+    "id": "harvestworks-2026-10-18-curator-eriola-pira-in-conversation-with",
+    "title": "Curator Eriola Pira in Conversation with Angela Ferraiolo, Michael Candy, and Testu Collective",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-10-18",
+    "description": "Curator Eriola Pira leads a conversation with artists Angela Ferraiolo, Michael Candy, and Testu Collective about their work at the intersection of art and technology.",
+    "url": "https://www.harvestworks.org/event/curator-led-dialogue-eriola-pira-with-angela-ferraiolo/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:46.123Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-10-27-female-fun-friction-films-by-babeth-mond",
+    "title": "Female Fun & Friction: Films by Babeth Mondini VanLoo",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-10-27",
+    "time_start": "19:30",
+    "description": "A program of rare 1970s underground experimental films by Babeth Mondini VanLoo. Doors at 7:30pm, films begin at 8:00pm.",
+    "url": "https://www.millenniumfilm.org/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:55.486Z"
+  },
+  {
+    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
+    "title": "Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-06",
+    "description": "Gallery exhibition exploring painter Gen'ichirō Inokuma's two decades in New York and his ties to the American avant-garde (Jasper Johns, Rothko, Rauschenberg, Noguchi, Cage, Cunningham, and others). On view October 6, 2026 through January 10, 2027; free admission on First Fridays.",
+    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:55.506Z"
+  },
+  {
+    "id": "creative-time-2026-12-17-consejos-de-las-estrellas",
+    "title": "Consejos de las Estrellas",
+    "venue_id": "creative-time",
+    "venue_name": "Creative Time",
+    "date": "2026-12-17",
+    "description": "A new site-specific public art commission by Guadalupe Maravilla, on view at Synod Hall at the Cathedral of St. John the Divine, December 17, 2026 through February 7, 2027.",
+    "url": "https://creativetime.org/projects/guadalupe-maravilla-consejos-de-las-estrellas/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:55.523Z"
   }
 ]
