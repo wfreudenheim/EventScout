@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-11T07:42:27.221Z"
+    "last_checked": "2026-10-14T07:42:04.055Z"
   },
   {
     "id": "anthology-film-archives",
@@ -3123,7 +3123,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:42:21.199Z"
+    "last_checked": "2026-10-14T07:42:03.970Z"
   },
   {
     "id": "chocolate-factory",
@@ -3169,7 +3169,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:36:31.778Z"
+    "last_checked": "2026-10-14T07:42:03.981Z"
   },
   {
     "id": "the-brick",
@@ -3241,7 +3241,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:42:27.151Z"
+    "last_checked": "2026-10-14T07:42:04.003Z"
   },
   {
     "id": "canyon",
@@ -3390,7 +3390,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:42:27.181Z"
+    "last_checked": "2026-10-14T07:42:04.013Z"
   },
   {
     "id": "summerstage",
@@ -3471,7 +3471,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:42:27.257Z"
+    "last_checked": "2026-10-14T07:42:04.032Z"
   },
   {
     "id": "brooklyn-raga-massive",

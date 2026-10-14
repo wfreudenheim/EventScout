@@ -11458,5 +11458,123 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:40:32.956Z"
+  },
+  {
+    "id": "danspace-project-2026-12-11-bria-bacon-annie-minghao-wang",
+    "title": "Bria Bacon + Annie Minghao Wang",
+    "venue_id": "danspace-project",
+    "venue_name": "Danspace Project",
+    "date": "2026-12-11",
+    "description": "A shared evening of new choreographic work by Bria Bacon and Annie Minghao Wang at Danspace Project, December 11-12.",
+    "url": "https://danspaceproject.org/calendar/fw2026-bacon-wang/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:42:03.946Z"
+  },
+  {
+    "id": "green-wood-2026-10-17-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-17",
+    "time_start": "17:00",
+    "time_end": "20:30",
+    "description": "An after-dark walking tour through Green-Wood Cemetery's history, legends, and secrets, with access to the normally-locked Catacombs. Offered at several time slots this evening.",
+    "url": "https://www.green-wood.com/series/green-wood-after-hours-20/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:42:03.986Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-14-portraits-of-america-exhibition",
+    "title": "Portraits of America Exhibition",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-14",
+    "description": "A group photography exhibition bringing together portraits of individuals whose distinct histories, cultural backgrounds, and lived experiences reflect the evolving idea of American identity. On view October 12 - November 10, 2026.",
+    "url": "https://www.flushingtownhall.org/show-details/portraits-of-america-exhibition",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:42:04.017Z"
+  },
+  {
+    "id": "film-forum-2026-10-14-andrzej-wajda-100-retrospective-",
+    "title": "Andrzej Wajda 100 (Retrospective)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-14",
+    "description": "A career-spanning retrospective marking the centennial of Polish director Andrzej Wajda, including Katyn, Man of Marble, Man of Iron, Ashes and Diamonds, and more. Running October 2-22.",
+    "url": "https://filmforum.org/series/andrzej-wajda-100",
+    "price": "$18 (members $12)",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:42:04.036Z"
+  },
+  {
+    "id": "film-forum-2026-10-15-filipi-ana",
+    "title": "Filipiñana",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-15",
+    "time_start": "12:20",
+    "time_end": "16:45",
+    "description": "Theo Rivera-Montaos' acclaimed Filipino drama about a woman navigating life as one of the country's few female golf caddies. Final day of its Film Forum run.",
+    "url": "https://filmforum.org/film/filipinana",
+    "price": "$18 (members $12)",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:42:04.037Z"
+  },
+  {
+    "id": "film-forum-2026-11-06-raise-the-red-lantern",
+    "title": "Raise the Red Lantern",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-06",
+    "description": "Repertory run of Zhang Yimou's 1991 drama Raise the Red Lantern, starring Gong Li. Running November 6-19.",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "price": "$18 (members $12)",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:42:04.038Z"
   }
 ]
