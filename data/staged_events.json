@@ -10781,5 +10781,70 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:28:38.492Z"
+  },
+  {
+    "id": "wonderville-2026-10-22-brooklyn-experimental-electronic-music-o",
+    "title": "Brooklyn Experimental Electronic Music October Artist Showcase",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-22",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "Monthly showcase (BEEM) of Brooklyn's experimental electronic music scene, with live sets from local sound artists and modular synth performers.",
+    "url": "https://www.wonderville.nyc/events/beem-10-22-26",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "electronic-music",
+      "sound-art",
+      "modular-synth"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:32:45.697Z"
+  },
+  {
+    "id": "wonderville-2026-10-24-dogs-penguins-a-double-cabinet-launch-pa",
+    "title": "Dogs & Penguins: A Double Cabinet Launch Party!",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-24",
+    "time_start": "14:30",
+    "time_end": "17:30",
+    "description": "Launch party at Wonderville for two new independently made arcade cabinets, Dogs and Penguins.",
+    "url": "https://www.wonderville.nyc/events/dogs-and-penguins",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR",
+      "Art & technology — generative art, creative coding, new media, interactive installation"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:32:45.697Z"
+  },
+  {
+    "id": "wonderville-2026-10-21-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-21",
+    "time_start": "20:00",
+    "description": "Community open-play night for Killer Queen, the 10-player competitive arcade cabinet game, at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-10-21-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:32:45.697Z"
   }
 ]
