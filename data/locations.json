@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-11T07:26:38.332Z"
+    "last_checked": "2026-10-14T07:25:11.231Z"
   },
   {
     "id": "the-new-school",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-11T07:26:38.371Z"
+    "last_checked": "2026-10-14T07:25:11.250Z"
   },
   {
     "id": "caveat",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:26:38.360Z"
+    "last_checked": "2026-10-14T07:25:11.269Z"
   },
   {
     "id": "rockefeller-university",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:26:38.382Z"
+    "last_checked": "2026-10-14T07:25:11.277Z"
   },
   {
     "id": "filmmakers-coop",

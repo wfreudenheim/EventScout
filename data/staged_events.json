@@ -10411,5 +10411,72 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-14T07:19:07.296Z"
+  },
+  {
+    "id": "nyu-itp-2026-12-19-itp-ima-winter-show-2026",
+    "title": "ITP/IMA Winter Show 2026",
+    "venue_id": "nyu-itp",
+    "venue_name": "NYU ITP / IMA",
+    "date": "2026-12-19",
+    "description": "Second day of Tisch's biannual two-day showcase of recent creative interactive projects by ITP, IMA, and Low Res students — new media, interactive installation, and emerging-tech work. Free and open to the public.",
+    "url": "https://tisch.nyu.edu/itp/events/fall-2026/itp-ima-winter-show-2026",
+    "price": "free",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [
+      "new-media",
+      "interactive-installation",
+      "installation"
+    ],
+    "matched_categories": [
+      "Art & technology — generative art, creative coding, new media, interactive installation",
+      "Games & interactive art, game design, VR/AR",
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:11.207Z"
+  },
+  {
+    "id": "microscope-gallery-2026-10-17-frank-gillette-spectra-obscura-closing-",
+    "title": "Frank Gillette: Spectra Obscura (closing)",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-10-17",
+    "description": "Final days of video art pioneer Frank Gillette's exhibition Spectra Obscura, on view since September 10. Covered in Hyperallergic and The Brooklyn Rail.",
+    "url": "https://microscopegallery.com/frank-gillette-spectra-obscura/",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:11.237Z"
+  },
+  {
+    "id": "vera-list-center-2026-12-12-war-trash",
+    "title": "War Trash",
+    "venue_id": "vera-list-center",
+    "venue_name": "Vera List Center for Art and Politics",
+    "date": "2026-12-12",
+    "description": "Symposium presented by the Vera List Center for Art and Politics as part of its ongoing public programming on art, politics, and society. Free and live-streamed.",
+    "url": "https://veralistcenter.org/events/war-trash",
+    "price": "free",
+    "format": "conference",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:25:11.255Z"
   }
 ]

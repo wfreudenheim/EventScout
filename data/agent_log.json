@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "the-shed",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:14.728Z",
-    "completed_at": "2026-09-23T07:18:14.728Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "knockdown-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:14.740Z",
-    "completed_at": "2026-09-23T07:18:14.740Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "performance-space-ny",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:14.757Z",
-    "completed_at": "2026-09-23T07:18:14.757Z",
-    "events_found": 5,
-    "events_new": 5,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "moma-ps1",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:14.771Z",
-    "completed_at": "2026-09-23T07:18:14.771Z",
-    "events_found": 2,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "vera-list-center",
     "scrape_tier_used": 3,
     "started_at": "2026-09-23T07:18:14.783Z",
@@ -4997,6 +4957,46 @@
     "completed_at": "2026-10-14T07:19:07.321Z",
     "events_found": 7,
     "events_new": 7,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyu-itp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:25:11.233Z",
+    "completed_at": "2026-10-14T07:25:11.233Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "microscope-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:25:11.251Z",
+    "completed_at": "2026-10-14T07:25:11.251Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "vera-list-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:25:11.271Z",
+    "completed_at": "2026-10-14T07:25:11.271Z",
+    "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "mono-no-aware",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:25:11.278Z",
+    "completed_at": "2026-10-14T07:25:11.278Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]
