@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "museum-of-moving-image",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:14.547Z",
-    "completed_at": "2026-09-23T07:18:14.547Z",
-    "events_found": 5,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "the-new-school",
     "scrape_tier_used": 3,
     "started_at": "2026-09-23T07:18:14.558Z",
@@ -4997,6 +4987,16 @@
     "completed_at": "2026-10-11T07:42:34.955Z",
     "events_found": 4,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-10-14T06:54:31.559Z",
+    "completed_at": "2026-10-14T06:54:31.559Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]

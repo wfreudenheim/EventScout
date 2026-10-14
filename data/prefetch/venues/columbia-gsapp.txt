@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-10-11T06:55:46.204Z
+FETCHED:2026-10-14T06:54:47.604Z
 
 /
  * The School
@@ -850,50 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=3&month=10&time_range=week&year=2026 /events?day=19&month=10&time_range=week&year=2026
-Oct 11 – Oct 18
+/events?day=6&month=10&time_range=week&year=2026 /events?day=22&month=10&time_range=week&year=2026
+Oct 14 – Oct 21
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Mon, Oct 12    6:30pm
-
-Works 1: The High Line
-
-Lecture
-
-[/events/4223-works-1-the-high-line]
-
-Tue, Oct 13    9am
-
-Tuesday Talks
-
-Alumni
-
-New York, Virtual
-
-[/events/4276-tuesday-talks]
-
-Tue, Oct 13    11am
-
-Virtual
-
-GSAPP Admissions Info Session
-
-[/events/4304-gsapp-admissions-info-session]
-
-Tue, Oct 13    1:30pm
-
-The Lecture in Planning Series (LiPS) Panel
-
-Lecture
-
-New York
-
-[/events/4343-the-lecture-in-planning-series-li-ps-panel]
 
 Thu, Oct 15    1pm
 
@@ -922,3 +886,37 @@ At the Edge of Where God Built
 Discussion
 
 [/events/4272-at-the-edge-of-where-god-built]
+
+Mon, Oct 19    12pm
+
+The Status of the Document: Hito Steyerl, Tom Keenan, and Mark Wasiuta
+
+Discussion
+
+[/events/4224-the-status-of-the-document-hito-steyerl-tom-keenan-and-mark-wasiuta]
+
+Mon, Oct 19    6:30pm
+
+Works 2: The Ningbo Museum
+
+Lecture
+
+[/events/4227-works-2-the-ningbo-museum]
+
+Mon, Oct 19    6:30pm
+
+Alumni Connections in Los Angeles
+
+Alumni
+
+Los Angeles
+
+[/events/4292-alumni-connections-in-los-angeles]
+
+Wed, Oct 21    1pm
+
+Francois Chatillon
+
+Preservation Lecture Series
+
+[/events/4353-francois-chatillon]

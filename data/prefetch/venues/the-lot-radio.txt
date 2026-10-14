@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-10-11T06:55:48.872Z
+FETCHED:2026-10-14T06:54:50.338Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,97 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP10.11.2026
+TODAY’SLINEUP10.14.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+DERRICK GEE
+
+Derrick Gee
+
+10.12.2026
+
+alternative, Cloud Rap, K-Pop, Soundtrack
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-12-1300]
+ *
+
+/shows/special-guests/2026-10-12-1300
+
+BODY JOURNEY WITH TOTAL XTC
+
+Total XTC
+
+10.10.2026
+
+Alternative Club, Breaks, Experimental Electronic, Soundtrack
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-10-1800]
+ *
+
+/shows/special-guests/2026-10-10-1800
+
+BODY JOURNEY WITH O'SIMMIE
+
+O'SIMMIE
+
+10.10.2026
+
+Trance, Breaks, Alternative Club
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-10-1700]
+ *
+
+/shows/special-guests/2026-10-10-1700
+
+MARTYN BOOTYSPOON B2B SWAMI SOUND
+
+Martyn Bootyspoon, Swami Sound
+
+10.09.2026
+
+House, Electro, Alternative Club
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-09-1900]
+ *
+
+/shows/special-guests/2026-10-09-1900
+
+SOFTI
+
+Softi
+
+10.09.2026
+
+Techno, Ambient, Downtempo, Trip Hop
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-09-1800]
+ *
+
+/shows/special-guests/2026-10-09-1800
+
+SUBB-AN
+
+Subb-an
+
+10.09.2026
+
+House, Techno
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-09-1200]
+ *
+
+/shows/special-guests/2026-10-09-1200
 
 KIA
 
@@ -36,132 +120,48 @@ Electronica, Downtempo, Trip Hop, IDM
 
 /shows/special-guests/2026-10-08-1300
 
-SUPERNOVA VIBES WITH THESTAMMA & RUNKUS
-
-Stamma, Runkus
-
-10.07.2026
-
-Reggae, Hip Hop, Amapiano, Dub, Dancehall
-
- * Play
- * Detail [/shows/special-guests/2026-10-07-1500]
- *
-
-/shows/special-guests/2026-10-07-1500
-
-MAFALDA
-
-Mafalda
-
-10.03.2026
-
-Jazz, Downtempo, Soul, Experimental
-
- * Play
- * Detail [/shows/special-guests/2026-10-03-1900]
- *
-
-/shows/special-guests/2026-10-03-1900
-
-UNKNOWN - UNTITLED
-
-unknown - untitled
-
-10.03.2026
-
-Experimental Electronic, Techno, UK Garage, Breaks
-
- * Play
- * Detail [/shows/special-guests/2026-10-03-1600]
- *
-
-/shows/special-guests/2026-10-03-1600
-
-ELI VERVEINE
-
-Eli Verveine
-
-10.03.2026
-
-House, Techno
-
- * Play
- * Detail [/shows/special-guests/2026-10-03-1500]
- *
-
-/shows/special-guests/2026-10-03-1500
-
-DAN GHENACIA
-
-Dan Ghenacia
-
-10.02.2026
-
-House
-
- * Play
- * Detail [/shows/special-guests/2026-10-02-1800]
- *
-
-/shows/special-guests/2026-10-02-1800
-
-SUMMER SCHOOL RADIO WITH LOVIE
-
-Lovie
-
-09.29.2026
-
-Ambient, Spoken Word, Jazz, Soul, Rnb
-
- * Play
- * Detail [/shows/summer-school-radio/2026-09-29-1000]
- *
-
-/shows/summer-school-radio/2026-09-29-1000
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * J. Russ
+ * Kiernan Laveaux
    R
-   [/artists/j-russ]
- * Maroje T
+   [/artists/kiernan-laveaux]
+ * Yibing
    R
-   [/artists/maroje-t]
- * Tom Noble
+   [/artists/yibing]
+ * Sticky Dojah
    R
-   [/artists/tom-noble]
- * RAPRAVE
+   [/artists/sticky-dojah]
+ * Hisham Akira Bharoocha
    R
-   [/artists/raprave]
- * Andi
+   [/artists/hisham-akira-bharoocha]
+ * Ron Like Hell
    R
-   [/artists/andi]
- * Relaxer
+   [/artists/ron-like-hell]
+ * 8ULENTINA
    R
-   [/artists/relaxer]
- * Black Rave Culture
+   [/artists/8ulentina]
+ * Millz 'El Negro Mezclador'
    R
-   [/artists/black-rave-culture]
- * Sister Zo
+   [/artists/millz-el-negro-mezclador]
+ * SPRKLBB
    R
-   [/artists/sister-zo]
- * Joy Guidry
+   [/artists/sprklbb]
+ * S.Maria
    R
-   [/artists/joy-guidry]
- * Ella Hussle
+   [/artists/s-maria]
+ * Abby Echiverri
    R
-   [/artists/ella-hussle]
- * succubass
+   [/artists/abby-echiverri]
+ * William Robbins
    R
-   [/artists/succubass]
- * Mirza
+   [/artists/william-robbins]
+ * Styles Upon Styles
    R
-   [/artists/mirza]
+   [/artists/styles-upon-styles]
 
 WE ARE THE LOT RADIO
 
@@ -171,31 +171,37 @@ Expect a continuous stream of the best and most varied music New York City has t
 
 About us [/about]
 
- * 12am — 10am
-   RESTREAM
-
  * 10am — 12pm
-   Pierre Rousseau
-   Alternative, Pop, Post Punk, Post-Rock, Experimental
- * 12pm — 2pm
-   Nabihah Iqbal
+   Restream
 
- * 2pm — 3pm
-   Praise Break: Joy Invites SCRAAATCH
-   Experimental Electronic
+ * 12pm — 1pm
+   Rhythm and Mood with Galcher Lustwerk
+
+ * 1pm — 3pm
+   Pique-nique A.M. with Domenica
+   Jazz, House, Hip Hop, Afrobeat, Dub
  * 3pm — 4pm
-   Positive Reality with Queen Majesty
-   Reggae, Dub, Dancehall
- * 4pm — 6pm
-   Moods & Grooves with Cam and Sean
-   Disco, Jazz, Reggae, Funk, Soul
- * 6pm — 8pm
-   Mole & Belly Rub
+   That Good Sh*t Radio with Chlothegod and Mercury
+
+ * 4pm — 5pm
+   Lorien Well
+
+ * 5pm — 6pm
+   The Leaks with Alphonse
+
+ * 6pm — 7pm
+   the x3butterfly effect
+
+ * 7pm — 8pm
+   Divaa, Where's my Purse? with Kilopatrah Jones
 
  * 8pm — 9pm
-   MoMA Ready
+   8ULENTINA invites Donia L Jelly
+
+ * 9pm — 10pm
+   Palto Flats
 
  * 10pm — 12am
-   Restream
+   Nice Additions with Alien D
 
 THE LOT RADIO

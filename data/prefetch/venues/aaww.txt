@@ -1,6 +1,6 @@
 VENUE:aaww | Asian American Writers' Workshop
 URL:https://aaww.org/
-FETCHED:2026-10-11T06:55:33.978Z
+FETCHED:2026-10-14T06:54:34.858Z
 
 ASIAN
 AMERICAN WRITERS'
@@ -125,13 +125,6 @@ Poetry [/category/poetry-2/]Fiction [/category/fiction-2/]Essays [/category/essa
 MUST READ
 
 Poetry
-[https://aaww.org/rain-studies/]
-By Chen Poyu [https://aaww.org/postauthor/chen-poyu/]
-研究雨 | Rain Studies [https://aaww.org/rain-studies/]
-
-你只能等待雨 | You can only wait for the rain
-
-Poetry
 [https://aaww.org/four-poems-by-jess-x-snow/]
 By Jess X. Snow [https://aaww.org/postauthor/jess-x-snow/]
 Four Poems by Jess X. Snow [https://aaww.org/four-poems-by-jess-x-snow/]
@@ -144,6 +137,13 @@ By Jun Chou [https://aaww.org/postauthor/jun-chou/]
 Off-Flight Entertainment [https://aaww.org/off-flight-entertainment/]
 
 A good stewardess always has eyes on the emergency exits.
+
+Poetry
+[https://aaww.org/rain-studies/]
+By Chen Poyu [https://aaww.org/postauthor/chen-poyu/]
+研究雨 | Rain Studies [https://aaww.org/rain-studies/]
+
+你只能等待雨 | You can only wait for the rain
 
 /project/poetry-tuesday
 Poetry

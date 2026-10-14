@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-10-11T06:55:44.164Z
+FETCHED:2026-10-14T06:54:45.951Z
 
 Index [/]
 
@@ -69,25 +69,15 @@ Learn More [/nodes]
 
 FILTER
 All EventsGreenpointChinatown
- * Poetry & Produce [/programming/poetry-produce-evt-ky2WkK0N6H4zxy5?view=list]
+ * Index Greenpoint Open House: October [/programming/index-greenpoint-open-house-october-evt-X8KWlCijZErDKei?view=list]
 
-   POETRY & PRODUCE
+   INDEX GREENPOINT OPEN HOUSE: OCTOBER
 
-   Sunday, Oct 11, 2026
+   Friday, Oct 16, 2026
 
-   Hosted by kyle [https://luma.com/user/usr-zlEmdFk9q13WEBr]
+   Hosted by Index [https://luma.com/user/usr-LvASHhwrum7Bp3P]
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
-
- * Creative Showcase Vol. 7 [/programming/creative-showcase-vol-7-evt-5dFnBBvuFxNdJSe?view=list]
-
-   CREATIVE SHOWCASE VOL. 7
-
-   Tuesday, Oct 13, 2026
-
-   Hosted by Katie Ehrlich [https://luma.com/user/usr-Qj0OCgMA8ybG8On]
-
-   Presented by Index Chinatown
 
  * Boardwalk Studies [/programming/boardwalk-studies-evt-t3w34gVMOrCz2Vp?view=list]
 
@@ -108,6 +98,16 @@ All EventsGreenpointChinatown
    Hosted by Rahmi Halaby [https://luma.com/user/usr-a60WBT7PoLX4sYz]
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
+
+ * Index Chinatown Open House: October [/programming/index-chinatown-open-house-october-evt-wMuobLpLuDtc8VF?view=list]
+
+   INDEX CHINATOWN OPEN HOUSE: OCTOBER
+
+   Friday, Oct 23, 2026
+
+   Hosted by Index [https://luma.com/user/usr-LvASHhwrum7Bp3P]
+
+   Presented by Index Chinatown
 
  * Workshop on Workshops [/programming/workshop-on-workshops-evt-8FBMZuCN71VMK3N?view=list]
 

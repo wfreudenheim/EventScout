@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-10-11T06:55:34.705Z
+FETCHED:2026-10-14T06:54:35.602Z
 
 Subscribe
 
@@ -37,13 +37,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783395/film-at-a-distance-on-artavazd-peleshyan/
-
-Current & Upcoming
-Film at a Distance: On Artavazd Peleshyan [/events/6783395/film-at-a-distance-on-artavazd-peleshyan/]
-October 13, 2026, 7pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/film-at-a-distance-on-artavazd-peleshyan-tickets-2002756518660]
 /events/6783396/sometimes-it-was-beautiful/
 
 Current & Upcoming
@@ -108,15 +101,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-Screenings, In-person, Talks
-/events/6783395/film-at-a-distance-on-artavazd-peleshyan/
-
-Film at a Distance: On Artavazd Peleshyan
-
-[/events/6783395/film-at-a-distance-on-artavazd-peleshyan/]
-October 13, 2026, 7pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/film-at-a-distance-on-artavazd-peleshyan-tickets-2002756518660]
 In-person, Screenings
 /events/6783396/sometimes-it-was-beautiful/
 
@@ -171,6 +155,14 @@ November 18, 2026, 7pm
 Bar Laika by e-flux
 Archive
 
+Screenings, In-person, Talks
+/events/6783395/film-at-a-distance-on-artavazd-peleshyan/
+
+Film at a Distance: On Artavazd Peleshyan
+
+[/events/6783395/film-at-a-distance-on-artavazd-peleshyan/]
+October 13, 2026, 7pm
+e-flux Screening Room
 In-person, Talks, Screenings
 /events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/
 
@@ -195,15 +187,6 @@ Bar Laika presents Playback 0039 with Tomin
 [/events/6783386/bar-laika-presents-playback-0039-with-tomin/]
 October 7, 2026, 7pm
 Bar Laika by e-flux
-In-person, Screenings, Talks
-Documentation
-/events/6783378/planetary-afterimages-after-the-short-century/
-
-Planetary Afterimages: After The Short Century
-
-[/events/6783378/planetary-afterimages-after-the-short-century/]
-September 24, 2026, 5pm
-e-flux Screening Room
 Load more
 Advertisement
 /ads/redirect/6747144

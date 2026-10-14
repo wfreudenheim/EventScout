@@ -1,6 +1,6 @@
 VENUE:national-sawdust | National Sawdust
 URL:https://www.nationalsawdust.org/performances
-FETCHED:2026-10-11T06:55:38.824Z
+FETCHED:2026-10-14T06:54:40.043Z
 
 /
 
@@ -8,32 +8,6 @@ UPCOMING PERFORMANCES
 
 Grid View
 List View
-
-Lau Noah presents an introduction to her next project: a meeting between classical, jazz and folk musicians through the power of oral tradition. Music created, passed on and recorded using human ear, memory and skill, without it ever being written down on paper, yet not improvised. Noah's ambitious project highlights the complexity and depth of oral tradition as both modern and ancestral human language worth preserving and championing. Noah and her team will be presenting a short film, an early listening to some songs from the record and a live performance.
-
-OCTOBER 11, 2026
-
--
-
-LAU NOAH'S "A DECADE OF MIRACLES" - A FOLK OPERA IN DEFENSE OF HUMAN ART
-
-This is some text inside of a div block.
-This is some text inside of a div block.
-[/event/lau-noahs-a-decade-of-miracles---a-folk-opera-in-defense-of-human-art]
-Buy Tickets [https://ci.ovationtix.com/36490/production/1280499]
-
-Family Affair, a new album by Senegalese bassist and composer Alune Wade in collaboration with New Orleans's Neighborhood Story Project, is rooted in Afro-Atlantic memory and contemporary dialogue. In the fall of 2026, it will be released alongside their documentary film TUKKI: From the Roots to the Bayou and accompanying book A Family Affair: Conversations Across the Atlantic (University of New Orleans Press). Building on the acclaimed New African Orleans (2025), which drew widespread praise for its fluid dialogue between West African traditions, contemporary jazz, and Louisiana heritage, Family Affair has the feel of a reunion — one that stretches across centuries of shared and scattered memory. It is not a tribute project. It is a celebration of what these connections actually sound like when musicians on both sides of the Atlantic meet in a room.
-
-OCTOBER 13, 2026
-
--
-
-ALUNE WADE & FAMILY AFFAIR / FAIITH (PRESENTED BY THE JGI)
-
-This is some text inside of a div block.
-This is some text inside of a div block.
-[/event/alune-wade-family-affair-faiith-presented-by-the-jazz-generations-initiative]
-Buy Tickets [https://ci.ovationtix.com/36490/production/1286516]
 
 Something sacred is crossing the bridge. DVT — the trio of composer Damani Rhodes, vocalist VADIA, and poet Tongo Eisen-Martin — makes its New York City debut at National Sawdust for one night only. What happens when piano keys build cathedrals, a voice moves between shadow and flame, and words cut through silence like light through stained glass? DVT is the answer — a collision of jazz, poetry, and soul that doesn't ask you to listen so much as surrender.
 
@@ -154,6 +128,19 @@ This is some text inside of a div block.
 [/event/francisca-valenzuela]
 Buy Tickets [https://ci.ovationtix.com/36490/production/1277795]
 
+A collaborative series exploring boleros, boogaloo and afrolatin rhythms. Born from a love of boleros and the community spirit of spaces like the Nuyorican Poets Café, Salón Parcha is a welcoming space for experimentation and collaboration, for flirting with strangers and singing with friends. Our next edition features a special set by Gabriel Garzon Montano doing his takes on classic and original boleros and salsa tunes he loves, with the powerhouse Ella Bric as music director and her backing band. El Garo holds it down with vinyl selections throughout the night.
+
+NOVEMBER 5, 2026
+
+-
+
+SALÓN PARCHA FEATURING GABRIEL GARZÓN MONTANO, MUSIC DIRECTOR ELLA BRIC
+
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/salon-parcha-featuring-gabriel-garzon-montano-music-director-ella-bric]
+Buy Tickets [https://ci.ovationtix.com/36490/production/1293828]
+
 Meditations on the Gift of Awe :: love songs for earth & survival is an immersive, prayerful and celebratory, genre-defying song cycle. This work steadies its sonic gaze on healing and cultivation of calm via vocal soundscapes, rhythm & improvisation. With vocal trio and chamber ensemble, songs from Meditations on the Gift of Awe :: love songs for earth & survival and others from Morley’s catalogue will speak to the tenderness of our individual journeys towards collective liberation and love. Featuring Morley with Chris Bruce, Daniel Mintseris, Jack DeBoe, Chris St. Hilaire, Levon Henry, Arun Ramamurthy, Trina Basu, Kenita Miller and Justin Hicks.
 
 NOVEMBER 7, 2026
@@ -199,7 +186,7 @@ NOVEMBER 13, 2026
 
 -
 
-SURPRISE CHEF (EARLY SET)
+SURPRISE CHEF WITH SUPPORT FROM BEN HACKETT (EARLY SET)
 
 This is some text inside of a div block.
 This is some text inside of a div block.
@@ -212,7 +199,7 @@ NOVEMBER 13, 2026
 
 -
 
-SURPRISE CHEF (LATE SET)
+SURPRISE CHEF WITH SUPPORT FROM BEN HACKETT (LATE SET)
 
 This is some text inside of a div block.
 This is some text inside of a div block.
@@ -375,6 +362,19 @@ This is some text inside of a div block.
 [/event/caleb-wheeler-curtis-jason-moran-incantation-album-release-celebration]
 Buy Tickets [https://ci.ovationtix.com/36490/production/1280610]
 
+Silkroad Up-Close offers a closer look at some of the extraordinary artists who make up the Silkroad Ensemble and at the ideas, traditions, and relationships that shape their work. Created as an intimate counterpart to Silkroad’s large-scale concert presentations, this flagship series gives Ensemble members the space to lead: inviting collaborators, tracing musical lineages, and developing programs rooted in their own creative lives. The result is a portrait of Silkroad from the inside, revealing not only the breadth of traditions represented within the Ensemble, but the curiosity and exchange that continually transform them.
+
+DECEMBER 16, 2026
+
+-
+
+NATIONAL SAWDUST PRESENTS: SILKROAD UP-CLOSE FEATURING YACOUBA SISSOKO & MIKE BLOCK DUO AND MAEVE GILCHRIST AND SEAMUS EGAN
+
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/national-sawdust-presents-silkroad-up-close-featuring-yacouba-sissoko-mike-block-duo-and-maeve-gilchrist-and-seamus-egan]
+Buy Tickets [https://ci.ovationtix.com/36490/performance/11878493]
+
 Join PROTOTYPE, National Sawdust, and OperaWire for a special festival preview celebrating the launch of the PROTOTYPE 2027 and the visionary artists, stories, and performances shaping this year’s lineup. Hosted at National Sawdust, this season preview will give audiences a first glimpse of the bold new works featured in this year’s festival. The evening will feature intimate performances and conversations with the composers, performers, and creative teams shaping the season’s most exciting projects—sharing the inspirations, processes, and stories behind their work.
 
 JANUARY 12, 2027
@@ -387,6 +387,19 @@ This is some text inside of a div block.
 This is some text inside of a div block.
 [/event/inside-prototype-2027--a-conversation-with-operawire]
 Buy Tickets [https://ci.ovationtix.com/36490/production/1286601]
+
+Silkroad Up-Close offers a closer look at some of the extraordinary artists who make up the Silkroad Ensemble and at the ideas, traditions, and relationships that shape their work. Created as an intimate counterpart to Silkroad’s large-scale concert presentations, this flagship series gives Ensemble members the space to lead: inviting collaborators, tracing musical lineages, and developing programs rooted in their own creative lives. The result is a portrait of Silkroad from the inside, revealing not only the breadth of traditions represented within the Ensemble, but the curiosity and exchange that continually transform them.
+
+JANUARY 13, 2027
+
+-
+
+NATIONAL SAWDUST PRESENTS: SILKROAD UP-CLOSE FEATURING KAORU WATANABE AND LAYALE CHAKER
+
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/national-sawdust-presents-silkroad-up-close-featuring-kaoru-watanabe-and-layale-chaker]
+Buy Tickets [https://ci.ovationtix.com/36490/performance/11878494]
 
 A National Sawdust production in collaboration with Yale School of Music and Yale School of Drama, presented as part of the PROTOTYPE Festival. Featuring the world premiere of HILMA (Music and Libretto by Daniel Zlatkin, Directed by Juliana Morales Carreño Hilma: Catherine Martin, mezzo-soprano) and a Work-In-Development Presentation of Red Thread (Music by Wang Lu, Libretto by Deborah Brevoort, Conducted by Anthony Cheung).
 
@@ -414,7 +427,7 @@ This is some text inside of a div block.
 [/event/the-seen-and-the-unseen-1-22-2027]
 Buy Tickets [https://ci.ovationtix.com/36490/performance/11854369]
 
-Composer, guitarist, and live coder Kyle Sanna presents the full premiere of Everything Again Is New, a set of algorithmic compositions for electronics and ensemble centered on themes of cyclical regeneration and renewal. Joined by Kinan Azmeh (clarinet, bass clarinet), Lily Holgate (violin), and Nathan Koci (accordion), Sanna (guitar, electronics) will use code to reanimate recorded fragments of his own chamber orchestra work, all while projections show the generative process itself, as text becomes sound.
+Composer, guitarist, and live coder Kyle Sanna presents the full premiere of Everything Again Is New, a set of algorithmic compositions for electronics and ensemble centered on themes of cyclical regeneration and renewal. Joined by Kinan Azmeh (clarinet, bass clarinet), Lily Holgate (violin), Nathan Koci (accordion), and Marika Hughes (cello), Sanna (guitar, electronics) will use code to reanimate recorded fragments of his own chamber orchestra work, all while projections show the generative process itself, as text becomes sound.
 
 JANUARY 28, 2027
 
@@ -440,6 +453,19 @@ This is some text inside of a div block.
 [/event/emily-wells-mirror-father-a-workshop-performance]
 Buy Tickets [https://ci.ovationtix.com/36490/production/1280621]
 
+Silkroad Up-Close offers a closer look at some of the extraordinary artists who make up the Silkroad Ensemble and at the ideas, traditions, and relationships that shape their work. Created as an intimate counterpart to Silkroad’s large-scale concert presentations, this flagship series gives Ensemble members the space to lead: inviting collaborators, tracing musical lineages, and developing programs rooted in their own creative lives. The result is a portrait of Silkroad from the inside, revealing not only the breadth of traditions represented within the Ensemble, but the curiosity and exchange that continually transform them.
+
+FEBRUARY 10, 2027
+
+-
+
+NATIONAL SAWDUST PRESENTS: SILKROAD UP-CLOSE FEATURING SHAWN CONLEY AND KINAN AZMEH TRIO
+
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/national-sawdust-presents-silkroad-up-close-featuring-shawn-conley-and-kinan-azmeh-trio]
+Buy Tickets [https://ci.ovationtix.com/36490/performance/11878494]
+
 Peni Candra Rini, PhD, is a renowned Javanese singer, educator, and composer, known for blending Javanese Sufi poetry with contemporary music for both Indonesian and Western instruments. The Kronos Quartet calls her "one of the world’s greatest singers." A master of traditional forms like gamelan, she stands out as one of Indonesia’s innovative young composers and one of its few female composers. In 2023, she became the first woman commissioned to compose for the Mangkunegaran court of Central Java, and in 2024, she was honored with the court name Raden Nganten Tumenggung. For this performance, the artist will be joined on stage by musician, ethnomusicologist, and professor Andy McGraw and multi-instrumentalist, composer, and producer Shahzad Ismaily.
 
 FEBRUARY 27, 2027
@@ -453,21 +479,31 @@ This is some text inside of a div block.
 [/event/peni-candra-rinis-jiwa-kala-with-shahzad-ismaily-and-andy-mcgraw-presented-by-world-music-institute]
 Buy Tickets [https://ci.ovationtix.com/36490/production/1280664]
 
-OCTOBER 11, 2026 7:30 PM
+Silkroad Up-Close offers a closer look at some of the extraordinary artists who make up the Silkroad Ensemble and at the ideas, traditions, and relationships that shape their work. Created as an intimate counterpart to Silkroad’s large-scale concert presentations, this flagship series gives Ensemble members the space to lead: inviting collaborators, tracing musical lineages, and developing programs rooted in their own creative lives. The result is a portrait of Silkroad from the inside, revealing not only the breadth of traditions represented within the Ensemble, but the curiosity and exchange that continually transform them.
 
-LAU NOAH'S "A DECADE OF MIRACLES" - A FOLK OPERA IN DEFENSE OF HUMAN ART
+MARCH 17, 2027
 
-Lau Noah presents an introduction to her next project: a meeting between classical, jazz and folk musicians through the power of oral tradition. Music created, passed on and recorded using human ear, memory and skill, without it ever being written down on paper, yet not improvised. Noah's ambitious project highlights the complexity and depth of oral tradition as both modern and ancestral human language worth preserving and championing. Noah and her team will be presenting a short film, an early listening to some songs from the record and a live performance.
+-
 
-[/event/lau-noahs-a-decade-of-miracles---a-folk-opera-in-defense-of-human-art]
+NATIONAL SAWDUST PRESENTS: SILKROAD UP-CLOSE FEATURING SHAW PONG LIU AND SANDEEP DAS
 
-OCTOBER 13, 2026 8:00 PM
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/national-sawdust-presents-silkroad-up-close-featuring-shaw-pong-liu-and-sandeep-das]
+Buy Tickets [https://ci.ovationtix.com/36490/performance/11878496]
 
-ALUNE WADE & FAMILY AFFAIR / FAIITH (PRESENTED BY THE JGI)
+Silkroad Up-Close offers a closer look at some of the extraordinary artists who make up the Silkroad Ensemble and at the ideas, traditions, and relationships that shape their work. Created as an intimate counterpart to Silkroad’s large-scale concert presentations, this flagship series gives Ensemble members the space to lead: inviting collaborators, tracing musical lineages, and developing programs rooted in their own creative lives. The result is a portrait of Silkroad from the inside, revealing not only the breadth of traditions represented within the Ensemble, but the curiosity and exchange that continually transform them.
 
-Family Affair, a new album by Senegalese bassist and composer Alune Wade in collaboration with New Orleans's Neighborhood Story Project, is rooted in Afro-Atlantic memory and contemporary dialogue. In the fall of 2026, it will be released alongside their documentary film TUKKI: From the Roots to the Bayou and accompanying book A Family Affair: Conversations Across the Atlantic (University of New Orleans Press). Building on the acclaimed New African Orleans (2025), which drew widespread praise for its fluid dialogue between West African traditions, contemporary jazz, and Louisiana heritage, Family Affair has the feel of a reunion — one that stretches across centuries of shared and scattered memory. It is not a tribute project. It is a celebration of what these connections actually sound like when musicians on both sides of the Atlantic meet in a room.
+APRIL 28, 2027
 
-[/event/alune-wade-family-affair-faiith-presented-by-the-jazz-generations-initiative]
+-
+
+NATIONAL SAWDUST PRESENTS: SILKROAD UP-CLOSE FEATURING SHANE SHANAHAN QUARTET AND EDWARD PÉREZ TRIO WITH GUEST MAHYA HAMEDI
+
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/national-sawdust-presents-silkroad-up-close-featuring-shane-shanahan-quartet-and-edward-perez-trio-with-guest-mahya-hamedi]
+Buy Tickets [https://ci.ovationtix.com/36490/performance/11878497]
 
 OCTOBER 16, 2026 7:30 PM
 
@@ -541,6 +577,14 @@ Confessional, raw, poetic-alt-art-pop-piano in Spanish. From Chile to the world.
 
 [/event/francisca-valenzuela]
 
+NOVEMBER 5, 2026 8:00 PM
+
+SALÓN PARCHA FEATURING GABRIEL GARZÓN MONTANO, MUSIC DIRECTOR ELLA BRIC
+
+A collaborative series exploring boleros, boogaloo and afrolatin rhythms. Born from a love of boleros and the community spirit of spaces like the Nuyorican Poets Café, Salón Parcha is a welcoming space for experimentation and collaboration, for flirting with strangers and singing with friends. Our next edition features a special set by Gabriel Garzon Montano doing his takes on classic and original boleros and salsa tunes he loves, with the powerhouse Ella Bric as music director and her backing band. El Garo holds it down with vinyl selections throughout the night.
+
+[/event/salon-parcha-featuring-gabriel-garzon-montano-music-director-ella-bric]
+
 NOVEMBER 7, 2026 7:30 PM
 
 MORLEY — MEDITATIONS ON THE GIFT OF AWE RECORD PREMIERE CELEBRATION
@@ -561,54 +605,6 @@ NOVEMBER 12, 2026 8:00 PM
 
 LPR PRESENTS: DILES QUE NO ME MATEN WITH SUPPORT FROM MILITARY GENIUS
 
-For Diles que no me maten, every note is a small step into the unknown. The five-piece Mexico City band have always operated on a first-thought, best-thought basis, drawing on a jam-based, krautrock philosophy to craft intricate constructions of wiry art rock spiked with bluesy balladry and poetic mysticism. While their fourth album Escrito en Agua (Writ in Water) is their most consciously crafted and accessible to date, their founding principle of slow, wide-eyed exploration is alive and well.
-
-[/event/lpr-presents-diles-que-no-me-maten]
-
-NOVEMBER 13, 2026 7:30 PM
-
-SURPRISE CHEF (EARLY SET)
-
-Hailing from just outside of Melbourne, Surprise Chef’s music is based on evoking mood; their vivid arrangements utilise time and space to build soundscapes that invite the listener into their world. The quartet’s distinct sound pulls from 70s film scores, the funkier side of jazz, and the samples that form the foundation of hip hop, creating a cinematic and soulful take on instrumental music.
-
-[/event/surprise-chef-early-set]
-
-NOVEMBER 13, 2026 10:30 PM
-
-SURPRISE CHEF (LATE SET)
-
-Hailing from just outside of Melbourne, Surprise Chef’s music is based on evoking mood; their vivid arrangements utilise time and space to build soundscapes that invite the listener into their world. The quartet’s distinct sound pulls from 70s film scores, the funkier side of jazz, and the samples that form the foundation of hip hop, creating a cinematic and soulful take on instrumental music.
-
-[/event/surprise-chef-late-set]
-
-NOVEMBER 14, 2026 7:30 PM
-
-MURMRR PRESENTS NUMERO GROUP - 23RD ANNIVERSARY CELEBRATION W/ LARAAJI, THE ALBUM LEAF, SHIRA SMALL
-
-We’re not ready to leave NYC just yet…To commemorate Numero Group's 23rd trip around the sun, we're hosting a couple more shows in the Big Apple before we pack up shop at our pop-up in Manhattan. Join us for a night of live music spanning the Numero-verse catalog, featuring Laraaji, The Album Leaf, and Shira Small.
-
-[/event/murmrr-presents-numero-group-23rd-anniversary-celebration-w-laraaji-the-album-leaf-shira-small-11-14-26]
-
-NOVEMBER 17, 2026 7:30 PM
-
-MAKEMAKE PRESENTS: WHOLLY UNWINDING (A NEW MUSICAL) - NYC PREMIERE
-
-Step through a portal where scars become songs and healing becomes a celebration. Blending folk concert, musical, immersive ritual, and joyous dance party, Wholly Unwinding transforms the audience into fellow travelers on a journey of radical self-discovery. Come ready to move, sing, and discover what becomes possible when every body belongs.
-
-[/event/visionintoart-in-residence-wholly-unwinding-the-canticle-of-cerebral-palsy-the-songs-of-my-scars-a-new-musical]
-
-NOVEMBER 18, 2026 7:30 PM
-
-MAKEMAKE PRESENTS: OPERA PRAKTIKOS’ LA SONNAMBULA
-
-What new worlds emerge when a classic is reimagined through accessibility from the very beginning? Opera Praktikos transforms Bellini & Romani's La Sonnambula (The Sleepwalker) into a richly integrated experience where spoken, sung, and signed languages become one expressive whole. Familiar and startlingly new, this reimagining reveals how inclusion doesn't simply expand a story - it transforms its meaning.
-
-[/event/opera-praktikos-presents-la-sonnambula]
-
-NOVEMBER 19, 2026 7:00 PM
-
-MAKEMAKE PRESENTS: SENSORIUM WORLD
-
-What happens when technology stops speaking for us and begins listening to us? Sensorium Ex imagines a future where artificial intellige
+For Diles que no me maten, every note is a small step into the unknown. The five-piece Mexico City band have always operated on a first-thought, best-thought basis, drawing on a jam-based, krautrock philosophy to craft intricate constructions of wiry art rock spiked with bluesy balladry and poetic mysticism. While their fourth album Escrito en Agua (Writ in Water) is their most consciously crafted and 
 
 [truncated]

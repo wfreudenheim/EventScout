@@ -1,6 +1,6 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-10-11T06:55:44.180Z
+FETCHED:2026-10-14T06:54:45.662Z
 
 * Exhibitions [/exhibitions]
     * Current [/exhibitions]
