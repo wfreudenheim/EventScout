@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "columbia-heyman",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.835Z",
-    "completed_at": "2026-09-23T07:18:51.835Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "guggenheim",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.842Z",
-    "completed_at": "2026-09-23T07:18:51.842Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "e-flux",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.851Z",
-    "completed_at": "2026-09-23T07:18:51.851Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "columbia-science-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.859Z",
-    "completed_at": "2026-09-23T07:18:51.859Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nitehawk",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.866Z",
-    "completed_at": "2026-09-23T07:18:51.866Z",
-    "events_found": 8,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "asia-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:18:51.879Z",
-    "completed_at": "2026-09-23T07:18:51.879Z",
-    "events_found": 4,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "abrons-arts-center",
     "scrape_tier_used": 3,
     "started_at": "2026-09-23T07:19:10.799Z",
@@ -4996,6 +4936,66 @@
     "started_at": "2026-10-14T07:37:55.481Z",
     "completed_at": "2026-10-14T07:37:55.481Z",
     "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "columbia-gsapp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:39:35.086Z",
+    "completed_at": "2026-10-14T07:39:35.086Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "sculpture-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:39:35.108Z",
+    "completed_at": "2026-10-14T07:39:35.108Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "whitney",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:39:35.134Z",
+    "completed_at": "2026-10-14T07:39:35.134Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-drawing-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:39:35.146Z",
+    "completed_at": "2026-10-14T07:39:35.146Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "elsewhere",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:39:35.176Z",
+    "completed_at": "2026-10-14T07:39:35.176Z",
+    "events_found": 9,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "morus",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-14T07:39:35.203Z",
+    "completed_at": "2026-10-14T07:39:35.203Z",
+    "events_found": 1,
     "events_new": 1,
     "status": "completed"
   }

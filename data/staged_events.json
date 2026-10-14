@@ -11312,5 +11312,94 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:37:55.454Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-21-francois-chatillon",
+    "title": "Francois Chatillon",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-21",
+    "time_start": "13:00",
+    "description": "A talk in GSAPP's Preservation Lecture Series featuring French architect Francois Chatillon, known for historic preservation and restoration projects.",
+    "url": "https://www.arch.columbia.edu/events/4353-francois-chatillon",
+    "price": "free (campus access registration required)",
+    "format": "talk",
+    "interest_score": 2.1,
+    "tags": [
+      "restoration",
+      "preservation"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Film & Cinema",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:39:35.062Z"
+  },
+  {
+    "id": "sculpture-center-2026-12-12-off-site-program-war-trash",
+    "title": "Off-Site Program: War Trash",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-12-12",
+    "time_start": "15:00",
+    "time_end": "17:30",
+    "description": "An off-site public program organized by SculptureCenter (listing gives only the title, date, and time; further detail is on the event page).",
+    "url": "https://www.sculpture-center.org/events/15062/off-site-program-war-trash",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:39:35.090Z"
+  },
+  {
+    "id": "whitney-2026-10-14-learn-to-see-like-new-roy-lichtenstein-s",
+    "title": "Learn to See Like New: Roy Lichtenstein's Perception",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-14",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "description": "A members' online talk (via Zoom) exploring visual perception and optical effects in Roy Lichtenstein's work, tied to the exhibition 'Roy Lichtenstein: Like New.'",
+    "url": "https://whitney.org/events/learn-to-see-lichtenstein",
+    "price": "members only",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "perception"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:39:35.111Z"
+  },
+  {
+    "id": "morus-2026-10-17-radical-history-walking-tour",
+    "title": "Radical History Walking Tour",
+    "venue_id": "morus",
+    "venue_name": "Museum of Reclaimed Urban Space",
+    "date": "2026-10-17",
+    "time_start": "15:00",
+    "description": "MoRUS's recurring Radical History Walking Tour, held every Saturday and Sunday at 3pm, visiting Lower East Side community gardens, former squats, and tenement sites tied to the neighborhood's fight against gentrification.",
+    "url": "https://morusnyc.org/join-our-tours/",
+    "format": "tour",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:39:35.180Z"
   }
 ]
