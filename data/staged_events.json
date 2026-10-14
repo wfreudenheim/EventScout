@@ -11295,5 +11295,22 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:35:12.944Z"
+  },
+  {
+    "id": "the-brick-2026-10-22-three-kings",
+    "title": "Three Kings",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-10-22",
+    "time_start": "20:00",
+    "description": "A new play by Marcellus Louise, directed by Jack Ventimilia, exploring grief, generational addiction, and coming to terms with gender. A boy follows a ritual found online to find closure after his father's death, but ends up with more questions than answers. Playing Oct 22-24, 2026 at Brick Aux Studio; doors 7:30pm, show 8pm.",
+    "url": "https://www.bricktheater.com/event/three-kings/2026-10-22/",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-14T07:37:55.454Z"
   }
 ]
