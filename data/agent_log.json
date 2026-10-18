@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "aaww",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:46.907Z",
-    "completed_at": "2026-09-27T07:18:46.907Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "blank-forms",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:46.916Z",
-    "completed_at": "2026-09-27T07:18:46.916Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "bisr",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:46.932Z",
-    "completed_at": "2026-09-27T07:18:46.932Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "data-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:46.948Z",
-    "completed_at": "2026-09-27T07:18:46.948Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "culturehub",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:46.955Z",
-    "completed_at": "2026-09-27T07:18:46.955Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "harvestworks",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:46.983Z",
-    "completed_at": "2026-09-27T07:18:46.983Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "brooklyn-rail",
     "scrape_tier_used": 3,
     "started_at": "2026-09-27T07:19:53.579Z",
@@ -4997,6 +4937,66 @@
     "completed_at": "2026-10-18T07:19:00.333Z",
     "events_found": 1,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "aaww",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:45.193Z",
+    "completed_at": "2026-10-18T07:19:45.193Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "blank-forms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:45.220Z",
+    "completed_at": "2026-10-18T07:19:45.220Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bisr",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:45.229Z",
+    "completed_at": "2026-10-18T07:19:45.229Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "culturehub",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:45.238Z",
+    "completed_at": "2026-10-18T07:19:45.238Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "harvestworks",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:45.255Z",
+    "completed_at": "2026-10-18T07:19:45.255Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "onassis-onx",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:45.276Z",
+    "completed_at": "2026-10-18T07:19:45.276Z",
+    "events_found": 2,
+    "events_new": 2,
     "status": "completed"
   }
 ]

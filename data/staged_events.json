@@ -9519,5 +9519,86 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-18T07:18:05.021Z"
+  },
+  {
+    "id": "blank-forms-2026-10-16-kou-records-at-blank-forms-fall-2026-sea",
+    "title": "Kou Records at Blank Forms—Fall 2026 Season",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-10-16",
+    "description": "A season-long program at Blank Forms spotlighting releases and artists from Kou Records, running October 16 through December 5, 2026.",
+    "url": "https://www.blankforms.org/events/kou-records-at-blank-forms-fall-2026-season",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:19:45.199Z"
+  },
+  {
+    "id": "harvestworks-2026-08-29-in-other-forms",
+    "title": "In Other Forms",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-08-29",
+    "description": "A group exhibition at Harvestworks running August 29 through November 1, 2026, exploring new and emerging technologies in contemporary artistic practice.",
+    "url": "https://www.harvestworks.org/event/in-other-forms/",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "contemporary-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:19:45.242Z"
+  },
+  {
+    "id": "onassis-onx-2026-10-27-they-make-you-write-your-poems-artistic-",
+    "title": "They Make You Write Your Poems: Artistic Practices Amid Automated Cognition",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-10-27",
+    "description": "An exhibition exploring the relationship between poetry and machines, accompanied by a panel discussion and a special screening; curated by Giulia Colletti for the American Academy in Rome's Italian Fellowship for Curatorial Research.",
+    "url": "https://www.onx.studio/onx-programming/they-make-you-write-your-poems",
+    "format": "opening",
+    "interest_score": 5,
+    "tags": [
+      "curatorial"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Philosophy & Critical Theory",
+      "Neuroscience, AI & Cognitive Science",
+      "Experimental Animation & Moving Image",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:19:45.259Z"
+  },
+  {
+    "id": "onassis-onx-2026-10-12-3etv-on-somerset-house-studios",
+    "title": "3ETV on Somerset House Studios",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-10-12",
+    "description": "A bespoke 9-channel online TV station curated by Somerset House Studios in collaboration with HEK, M+, Onassis ONX, and Pioneer Works, broadcasting online October 12 through December 18, 2026.",
+    "url": "https://www.onx.studio/onx-programming/3etv",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:19:45.259Z"
   }
 ]
