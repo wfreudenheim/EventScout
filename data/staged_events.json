@@ -9911,5 +9911,67 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-18T07:23:21.032Z"
+  },
+  {
+    "id": "moma-ps1-2028-12-31-courtyard-commission-precious-okoyomon",
+    "title": "Courtyard Commission: Precious Okoyomon",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2028-12-31",
+    "description": "Artist and poet Precious Okoyomon transforms the MoMA PS1 courtyard into a living, ever-growing forest of plants, interactive sculpture, and sound for the inaugural Courtyard Commission, bringing together native and invasive species, annuals and perennials, cultivated and wild growth. On view through 2028.",
+    "url": "https://www.momaps1.org/en/programs/747-courtyard-commission-precious-okoyomon",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:24:27.363Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-05-sal-n-parcha-featuring-gabriel-garz-n-mo",
+    "title": "Salón Parcha Featuring Gabriel Garzón Montano, Music Director Ella Bric",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-05",
+    "time_start": "20:00",
+    "description": "A collaborative series exploring boleros, boogaloo, and afrolatin rhythms, this edition features Gabriel Garzón Montano performing takes on classic and original bolero and salsa tunes with Ella Bric's backing band and vinyl selections from El Garo.",
+    "url": "https://www.nationalsawdust.org/event/salon-parcha-featuring-gabriel-garzon-montano-music-director-ella-bric",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "salsa"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:24:27.386Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-12-lpr-presents-diles-que-no-me-maten-with-",
+    "title": "LPR Presents: Diles Que No Me Maten with Support from Military Genius",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-12",
+    "time_start": "20:00",
+    "description": "Mexico City five-piece Diles Que No Me Maten draws on jam-based, krautrock philosophy to craft wiry experimental art rock spiked with bluesy balladry and poetic mysticism.",
+    "url": "https://www.nationalsawdust.org/event/lpr-presents-diles-que-no-me-maten",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:24:27.388Z"
   }
 ]

@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:34:42.214Z"
+    "last_checked": "2026-10-18T07:24:27.378Z"
   },
   {
     "id": "new-museum",
@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:34:42.277Z"
+    "last_checked": "2026-10-18T07:24:27.418Z"
   },
   {
     "id": "issue-project-room",
@@ -3419,7 +3419,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:32:45.747Z"
+    "last_checked": "2026-10-18T07:24:27.351Z"
   },
   {
     "id": "celebrate-brooklyn",
