@@ -1,86 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "architectural-league",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:25:50.288Z",
-    "completed_at": "2026-09-27T07:25:50.288Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyas",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:25:50.307Z",
-    "completed_at": "2026-09-27T07:25:50.307Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "bard-graduate-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:25:50.330Z",
-    "completed_at": "2026-09-27T07:25:50.330Z",
-    "events_found": 5,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "poetry-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:25:50.348Z",
-    "completed_at": "2026-09-27T07:25:50.348Z",
-    "events_found": 6,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "center-for-book-arts",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:25:50.364Z",
-    "completed_at": "2026-09-27T07:25:50.364Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "rooftop-films",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:25:50.377Z",
-    "completed_at": "2026-09-27T07:25:50.377Z",
-    "events_found": 4,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "roulette",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:26:19.609Z",
-    "completed_at": "2026-09-27T07:26:19.609Z",
-    "events_found": 10,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "the-kitchen",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:26:19.617Z",
-    "completed_at": "2026-09-27T07:26:19.617Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "cooper-union",
     "scrape_tier_used": 3,
     "started_at": "2026-09-27T07:26:19.634Z",
@@ -4997,6 +4917,86 @@
     "completed_at": "2026-10-18T07:32:23.217Z",
     "events_found": 5,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "flushing-town-hall",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:32:33.774Z",
+    "completed_at": "2026-10-18T07:32:33.774Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "e-flux",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:32:33.792Z",
+    "completed_at": "2026-10-18T07:32:33.792Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "terraza-7",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:32:33.816Z",
+    "completed_at": "2026-10-18T07:32:33.816Z",
+    "events_found": 5,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "film-forum",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:32:33.837Z",
+    "completed_at": "2026-10-18T07:32:33.837Z",
+    "events_found": 12,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "columbia-gsapp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:32:33.846Z",
+    "completed_at": "2026-10-18T07:32:33.846Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "sculpture-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:32:33.856Z",
+    "completed_at": "2026-10-18T07:32:33.856Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "whitney",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:32:33.869Z",
+    "completed_at": "2026-10-18T07:32:33.869Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-drawing-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:32:33.883Z",
+    "completed_at": "2026-10-18T07:32:33.883Z",
+    "events_found": 2,
+    "events_new": 1,
     "status": "completed"
   }
 ]
