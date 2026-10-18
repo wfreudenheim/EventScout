@@ -10302,5 +10302,87 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-18T07:25:19.264Z"
+  },
+  {
+    "id": "white-columns-2026-10-24-closing-party-zine-launch-mieko-meguro-i",
+    "title": "Closing Party + Zine Launch: Mieko Meguro in Conversation with Matthew Higgs and Ryan Foerster",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-10-24",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "Closing celebration for the Mieko Meguro, Eric Spencer, and Juliette Collet exhibitions, with a zine launch and a conversation between Meguro, Matthew Higgs, and Ryan Foerster.",
+    "url": "https://whitecolumns.org/exhibitions/mieko-meguro/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:27:50.554Z"
+  },
+  {
+    "id": "participant-inc-2026-10-25-tyler-cala-williams-elastic-synapse-fina",
+    "title": "Tyler Cala Williams: Elastic Synapse (Final Days)",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-10-25",
+    "description": "Exhibition by Tyler Cala Williams curated by Executive Care, featuring Blender/Photoshop digital collage works on memory; closes Oct 25, 2026.",
+    "url": "https://participantinc.org/seasons/season-25/tyler-cala-williams-elastic-synapse",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "blender"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:27:50.574Z"
+  },
+  {
+    "id": "recess-art-2026-12-12-s-e-rogie-listening-session-palm-wine-mu",
+    "title": "S.E. Rogie Listening Session: Palm Wine Music",
+    "venue_id": "recess-art",
+    "venue_name": "Recess",
+    "date": "2026-12-12",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "Listening session devoted to palm wine music, the West African guitar genre associated with musician S.E. Rogie, at Recess.",
+    "url": "https://www.recessart.org/events/615-s-e-rogie-listening-session-palm-wine-music",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:27:50.590Z"
+  },
+  {
+    "id": "recess-art-2026-11-11-opening-reception-for-yatta-iron-palm-wi",
+    "title": "Opening Reception for YATTA: Iron + Palm Wine",
+    "venue_id": "recess-art",
+    "venue_name": "Recess",
+    "date": "2026-11-11",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "Opening reception for YATTA's exhibition 'Iron + Palm Wine' at Recess, part of its Session program.",
+    "url": "https://www.recessart.org/events/614-opening-reception-for-yatta-iron-palm-wine",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:27:50.589Z"
   }
 ]
