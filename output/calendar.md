@@ -1,917 +1,8 @@
 # NYC Event Scout — Upcoming Events
 
-Generated: Wednesday, October 14, 2026
+Generated: Sunday, October 18, 2026
 Window: next 6 weeks | Min score: 2
-Total events: 495
-
----
-
-## Wednesday, October 14
-
-### Khayal After Dark: Concert & Jam 🆕
-●●●●● Brooklyn Raga Massive `music`
-`World Music & Global Traditions`
-> An evening of North Indian classical vocal music featuring Anirudh Srinivasraghavan on vocals with Ehren Hanson on tabla and Rohan Prabhudesai on harm...
-
-### Courtyard Commission: Precious Okoyomon — Among the Flowers I Learned to Love: A Garden of Decreation 🆕
-●●●●● MoMA PS1 `gallery`
-`Climate & Environment` `Contemporary Art`
-> Artist and poet Precious Okoyomon transforms the MoMA PS1 courtyard into a living forest of plants, interactive sculpture, and sound, bringing togethe...
-[View event](https://www.momaps1.org/en/programs/747-courtyard-commission-precious-okoyomon)
-
-### New York Axiomatic Circle 🆕
-●●●●○ Swiss Institute — 19:00 `talk`
-`Philosophy, critical theory, media theory, cybernetics, posthumanism` `Science & technology studies, history of science, philosophy of science`
-> A recurring discussion circle exploring axiomatic and theoretical frameworks in philosophy and science.
-[View event](https://swissinstitute.net/programs/new-york-axiomatic-circle-1)
-
-### A Darkling Ring of Unresolved Shadows with Paul Maheke 🆕
-●●●●○ Amant — 19:00–21:00 | free `reading`
-`Worldbuilding & Speculative Design` `Sound & Music` `Experimental Animation & Moving Image`
-> Artist in residence Paul Maheke presents an evening combining live reading, sound, and moving image exploring interdependency in relation to death, mo...
-[View event](https://amant.org)
-
-### Women in Animation Pgm 2: On Being a Woman 🆕
-●●●●○ Anthology Film Archives — 19:00 `screening`
-`Experimental Animation & Moving Image`
-> Second program in the Women in Animation series, centered on experiences of womanhood.
-[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62067)
-
-### Khayal After Dark: Concert & Jam 🆕
-●●●●○ Brooklyn Raga Massive `music`
-`World Music & Global Traditions`
-> An evening of North Indian classical vocal music (khayal) with Anirudh Srinivasraghavan on vocals, Ehren Hanson on tabla, and Rohan Prabhudesai on har...
-
-### Women in Animation, Program 2: On Being a Woman 🆕
-●●●●○ Anthology Film Archives — 19:00 `screening`
-`Experimental Animation & Moving Image`
-> A program of historic and experimental animated shorts by women reflecting on diverse experiences of womanhood, guest-programmed by Rachael Guma and c...
-
-### Brooklyn Maqam presents: The Maqamcomposers Club 🆕
-●●●●○ Barbès — 19:00 `music`
-`World Music & Global Traditions`
-> New compositions in the Arabic maqam tradition performed on oud, qanun, ney, violin, and percussion by Alber Baseel, Gideon Forbes, Sarah Mueller, Joh...
-
-### Mamady Kouyate's Mandingo Ambassadors 🆕
-●●●●○ Barbès — 22:00 `music`
-`World Music & Global Traditions`
-> Guinean funk from the 1970s performed by one of the masters of the legendary Syliphone label.
-
-### PLAZA 🆕
-●●●●○ Lincoln Center (Summer for the City / Atrium) | free `opening`
-`Art & Technology`
-> Andrew Schneider's responsive artwork transforms Josie Robertson Plaza into an interactive, collective experience, running through Oct 25 at various t...
-[View event](https://www.lincolncenter.org/campus/whats-on)
-
-### Sophia Club: Live Philosophy — Gender Trouble from Rome to Byzantium 🆕
-●●●●○ Lincoln Center (Summer for the City / Atrium) — 19:30 | free `talk`
-`Philosophy & Critical Theory`
-> Kristina Milnor and Leonora Neville in conversation with performances by Emel Mathlouthi, on feminist and genderqueer figures of the long Roman Empire...
-[View event](https://www.lincolncenter.org/campus/whats-on)
-
-### Contemporary East: Ikue Mori, Charmaine Lee, Nava Dunkelman, Reggie Nicholson 🆕
-●●●●○ Roulette — 20:00 | $25 `music`
-`Sound & Music` `Philosophy & Critical Theory`
-> Contemporary East presents an evening of improvisational music rooted in Eastern aesthetics, featuring electronic/noise pioneer Ikue Mori alongside Ch...
-[View event](https://roulette.org/event/contemporary-east-ikue-mori-charmaine-lee-nava-dunkelman-reggie-nicholson/)
-
-### Andrzej Wajda 100 (Retrospective) 🆕
-●●●●○ Film Forum | $18 (members $12) `screening`
-`Film & Cinema`
-> A career-spanning retrospective marking the centennial of Polish director Andrzej Wajda, including Katyn, Man of Marble, Man of Iron, Ashes and Diamon...
-[View event](https://filmforum.org/series/andrzej-wajda-100)
-
-### New Amsterdam presents Charlotte Greve – Waterbodies & Kaoru Watanabe – The Arch Release Show 🆕
-●●●○○ Public Records — 19:00 `music`
-`Sound & Music` `Climate & Environment`
-> An album release show from new-music label New Amsterdam featuring Charlotte Greve's water-themed "Waterbodies" and Kaoru Watanabe's "The Arch," in th...
-[View event](https://link.dice.fm/Q9c808f101ff)
-
-### Presidential Lecture: Taking Pictures and Making Movies of Supermassive Black Holes (Shep Doeleman) 🆕
-●●●○○ Simons Foundation — 18:00 | free `talk`
-`Science & Technology Studies` `Experimental Animation & Moving Image`
-> Event Horizon Telescope founding director Shep Doeleman on imaging — and now filming — supermassive black holes. Free, Simons Foundation.
-[View event](https://www.simonsfoundation.org/event/taking-pictures-and-making-movies-of-supermassive-black-holes/)
-
-### Over My Head I Hear Freedom in the Air: Celebrating Bernice Johnson Reagon 🆕
-●●●○○ Lincoln Center (Summer for the City / Atrium) — 19:30 | varies `music`
-`Philosophy & Critical Theory`
-> Angela Davis, Alexis Pauline Gumbs and special guests celebrate the life and work of Bernice Johnson Reagon in a night of music and testimony curated ...
-[View event](https://www.lincolncenter.org/lincoln-center-presents)
-
-### Elsewhere Presents: Chanel Beads @ Knockdown Center 🆕
-●●●○○ Elsewhere — 19:00 | varies `music`
-> Elsewhere presents experimental indie/shoegaze act Chanel Beads performing at Knockdown Center.
-[View event](https://www.eventbrite.com/e/elsewhere-presents-chanel-beads-knockdown-center-tickets-1990526398040)
-
-### Clarissa Bitar Vinyl Listening Party with Trans Music Archive, MIRA MIRA 🆕
-●●●○○ Public Records — 19:00 `talk`
-`World Music & Global Traditions` `Sound & Music` `Language & Culture`
-> Vinyl listening party centered on oud player Clarissa Bitar's work with the Trans Music Archive, an archival project of trans and Arabic-diaspora musi...
-[View event](https://link.dice.fm/ob53ab09884d)
-
-### Contemporary East: Ikue Mori and Reggie Nicholson 🆕
-●●●○○ Roulette — 20:00 | $25 `music`
-`World Music & Global Traditions` `Sound & Music` `Philosophy & Critical Theory`
-> Contemporary East presents an evening of improvisational music rooted in Eastern aesthetics.
-[View event](https://roulette.org/event/contemporary-east-ikue-mori-charmaine-lee-nava-dunkelman-reggie-nicholson/)
-
-### REICH90 🆕
-●●●○○ Japan Society `music`
-`Sound & Music`
-> North American touring concert of the Steve Reich Project; percussionist Kuniko Kato leads Japan's top emerging percussionists celebrating Reich's 90t...
-[View event](https://japansociety.org)
-
-### Building of the Day: Studio Museum 🆕
-●●●○○ Center for Architecture / AIA New York — 12:00–13:00 | sold out `tour`
-`Architecture & Urbanism` `Contemporary Art`
-> Guided tour of the new Studio Museum in Harlem building, designed by Adjaye Associates with Corgan as executive architect.
-[View event](https://calendar.aiany.org/2026/10/14/building-of-the-day-studio-museum/)
-
-### The New Social Environment: Maia Ruth Lee on Double Vision 🆕
-●●●○○ The Brooklyn Rail — 13:00 `talk`
-`Contemporary Art`
-> Artist Maia Ruth Lee joins Rail contributor Simon Wu for a Zoom conversation on the occasion of Double Vision at Tina Kim Gallery.
-
-### Killer Queen Open Hive Night 🆕
-●●●○○ Wonderville — 20:00 `other`
-`Games & Interactive`
-> An open community play night for Killer Queen, the ten-player competitive arcade cabinet game, at Wonderville.
-[View event](https://www.wonderville.nyc/events/kq-open-hive-night-10-14-26)
-
-### Eric Stern's Cuban Jazz Project 🆕
-●●●○○ Terraza 7 — 19:00 `music`
-`World Music & Global Traditions`
-> Eric Stern leads his Cuban Jazz Project in an evening of Cuban-inflected jazz.
-[View event](https://www.terraza7.com/detalles-y-registro/eric-sterns-cuban-jazz-project-first-set-13)
-
-### Homeroom: Artists Against the Bomb 🆕
-●●●○○ MoMA PS1 `gallery`
-`Contemporary Art` `Science & Technology Studies / History of Science`
-> An international artistic campaign supporting the International Campaign to Abolish Nuclear Weapons (ICAN), spanning posters, design, film, photograph...
-[View event](https://www.momaps1.org/en/programs/838-homeroom-artists-against-the-bomb)
-
-### Learn to See Like New: Roy Lichtenstein's Perception 🆕
-●●●○○ Whitney Museum of American Art — 18:00–19:00 | members only `talk`
-`Contemporary art (general)` `Neuroscience, AI, cognitive science, brain-computer interfaces` `Neuroscience, AI & Cognitive Science`
-> A members' online talk (via Zoom) exploring visual perception and optical effects in Roy Lichtenstein's work, tied to the exhibition 'Roy Lichtenstein...
-[View event](https://whitney.org/events/learn-to-see-lichtenstein)
-
-### Portraits of America Exhibition 🆕
-●●●○○ Flushing Town Hall `gallery`
-`Contemporary Art`
-> A group photography exhibition bringing together portraits of individuals whose distinct histories, cultural backgrounds, and lived experiences reflec...
-[View event](https://www.flushingtownhall.org/show-details/portraits-of-america-exhibition)
-
-### OPEN ROOM: Yesenia Rojas 🆕
-●●○○○ Performance Space New York — 19:00 | free `performance`
-`Experimental music, electronic music, sound art, noise, modular synth` `Contemporary Art`
-> A performance in the OPEN ROOM series, hosted within Jesús Hilario-Reyes's sound-and-gathering installation 'Cavernous Shoal,' Performance Space New Y...
-
-### Remaking the Ancient Vase 🆕
-●●○○○ Bard Graduate Center — 18:00 | varies `talk`
-`Science & Technology Studies`
-> Conversation with Roberto Paolini (Pithos Ancient Reproductions), Delphine Tonglet (Met), and Caspar Meyer (BGC) on reproducing ancient ceramics. BGC ...
-[View event](https://www.bgc.bard.edu)
-
-### LIVE from NYPL: Min Jin Lee with Aidan Flax-Clark — American Hagwon 🆕
-●●○○○ LIVE from NYPL — 19:00 | free `talk`
-> Novelist Min Jin Lee on her new novel American Hagwon. Stephen A. Schwarzman Building & online. Free.
-[View event](https://www.nypl.org/events/live-nypl)
-
-### Silent Book Club of Death NYC & The Death Deck Night 🆕
-●●○○○ Morbid Anatomy — 17:30 | varies `reading`
-`Philosophy & Critical Theory`
-> Death-literacy evening combining silent reading on mortality with collaborative Death Deck gameplay and discussion. Morbid Anatomy Library, Industry C...
-[View event](https://www.morbidanatomy.org/events)
-
-### Litmus Press 25th Anniversary Celebration & Benefit 🆕
-●●○○○ The Poetry Project — 20:00 | $25 `reading`
-> A celebration and benefit marking Litmus Press's 25th anniversary, featuring readings from press-affiliated poets.
-[View event](https://www.poetryproject.org/events/litmus-press-celebration)
-
-### Edie Arnold is a Loser (Q&A with director Megan Rico & Kade Atwood, actor Adi Madden Cabrera) 🆕
-●●○○○ Nitehawk Cinema | varies `screening`
-`Film & Cinema`
-> Exclusive screening of the rebellious punk rock comedy Edie Arnold is a Loser, followed by a Q&A with director Megan Rico, co-director Kade Atwood, an...
-[View event](https://nitehawkcinema.com/)
-
-### Insider Trading II 🆕
-●●○○○ Printed Matter `talk`
-`Contemporary Art`
-> A panel discussion with Eli Rosenbloom, Miyako Bellizzi, Yusuf Hassan, and Steff Yotka.
-[View event](https://www.printedmatter.org/programs/events/2331)
-
-### MONTHLY JAZZ JAM: CELEBRATING THELONIOUS MONK AND THE BEBOP PIONEERS 🆕
-●●○○○ Flushing Town Hall `music`
-`Sound & Music`
-> An open jazz jam led by Carol Sudhalter celebrating Thelonious Monk's birthday and Bebop pioneers Charlie Parker, Dizzy Gillespie, Max Roach, and Mile...
-[View event](https://www.flushingtownhall.org/show-details/monthly-jazz-jam-celebrating-thelonious-monk-and-the-bebop-pioneers)
-
-### Maia Ruth Lee: Double Vision 🆕
-●●○○○ The Brooklyn Rail — 13:00 `talk`
-`Contemporary Art`
-> Artist Maia Ruth Lee joins Rail contributor Simon Wu for a conversation on the occasion of 'Double Vision' on view at Tina Kim Gallery.
-[View event](https://brooklynrail.org)
-
-### AI and the Future of Education 🆕
-●●○○○ CUNY Graduate Center — 18:30 | free `talk`
-`Neuroscience, AI & Cognitive Science`
-> A panel of experts weighs in on how AI is changing education from K-12 through college, and how schools can prepare students for a transformed workpla...
-[View event](https://www.gc.cuny.edu)
-
-### Madi Diaz, Tasha 🆕
-●●○○○ Elsewhere — 19:00 `music`
-`Sound & Music`
-> Live performance by singer-songwriter Madi Diaz with support from Tasha, in Zone One.
-[View event](https://www.elsewhere.club/events/1998250978468)
-
-### Anime After Dark: Devilman Double Feature 🆕
-●●○○○ Nitehawk Cinema | varies `screening`
-`Experimental Animation & Moving Image`
-> Devilman: The Rebirth and Devilman: Demon Bird Sirène, Nitehawk's October Anime After Dark double feature.
-[View event](https://nitehawkcinema.com/)
-
-### Southeast Asia Between China, the United States, and a Changing Global Order 🆕
-●●○○○ Asia Society — 18:00 | varies `talk`
-`Language & Culture`
-> Gita Wirjawan and Craig Allen, moderated by Kevin Zongzhe Li, on Southeast Asia's place amid US-China competition.
-[View event](https://asiasociety.org/new-york)
-
-### Teresa Margolles: En el Lugar de los Hechos (At the Scene) 🆕
-●●○○○ MoMA PS1 `gallery`
-`Contemporary Art`
-> Trained as a forensic pathologist and photographer, Margolles examines the implications of transnational violence, with particular attention to the US...
-[View event](https://www.momaps1.org/en/programs/760-teresa-margolles)
-
----
-
-## Thursday, October 15
-
-### WordHack feat. Ingrid Burrington, Case Jernigan and Grayson Earle 🆕
-●●●●● Wonderville — 19:00–22:00 `talk`
-`Art & Technology` `Hackerspaces & Creative Tech` `Philosophy & Critical Theory`
-> WordHack, the long-running reading and talk series on language, code, and technology, returns to Wonderville with artist-writer Ingrid Burrington alon...
-[View event](https://www.wonderville.nyc/events/wordhack-10-15-26)
-
-### Making Art in the Era of Neurotechnology 🆕
-●●●●● Museum of the Moving Image — 18:30 | free `talk`
-`Neuroscience, AI & Cognitive Science` `Art & Technology`
-> MoMI Curator of Science & Technology Sonia Epstein joins MoMI LAB's inaugural artist-in-residence Rachel Rossin to discuss Rossin's work with her own ...
-
-### WordHack (October) 🆕
-●●●●○ Wonderville — 19:00 | $15 `performance`
-`Art & Technology` `Hackerspaces & Creative Tech`
-> Monthly showcase exploring language and technology — code poetry, digital literature, and e-lit — with open projector. Wonderville, Bushwick.
-[View event](https://wonderville.nyc/events/wordhack-10-15-26)
-
-### Sreelakshmy Govardhanan: The Journey of Kuchipudi: From Yakshaganam to the Solo 🆕
-●●●●○ Danspace Project `performance`
-`World Music & Global Traditions`
-> A solo performance tracing the historical journey of the Indian classical dance form Kuchipudi from its origins in Yakshaganam storytelling to its sol...
-[View event](https://danspaceproject.org/calendar/fw2026-govardhanan/)
-
-### Gilla Band, Piss 🆕
-●●●●○ Elsewhere — 19:00 | varies `music`
-`Experimental music, electronic music, sound art, noise, modular synth` `Sound & Music`
-> Irish noise rock band Gilla Band perform live with Piss.
-[View event](https://www.eventbrite.com/e/gilla-band-piss-tickets-1990043090454)
-
-### Women in Animation Pgm 3: Sunflower Lane 🆕
-●●●●○ Anthology Film Archives — 19:00 `screening`
-`Experimental Animation & Moving Image`
-> Third program in the Women in Animation series.
-[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62069)
-
-### Women in Animation, Screening 3: Sunflower Lane 🆕
-●●●●○ Anthology Film Archives — 19:00 `screening`
-`Experimental Animation & Moving Image`
-> A program co-presented with animation collective Sunflower Lane featuring personal animated stories of reproductive health, existence, and friendship,...
-
-### Filipiñana 🆕
-●●●●○ Film Forum — 12:20–16:45 | $18 (members $12) `screening`
-`Film & Cinema` `Language & Culture`
-> Theo Rivera-Montaos' acclaimed Filipino drama about a woman navigating life as one of the country's few female golf caddies. Final day of its Film For...
-[View event](https://filmforum.org/film/filipinana)
-
-### Kojiki de Creation — Maiko Kikuchi Puppet Theater (World Premiere) 🆕
-●●●○○ Japan Society | varies `performance`
-`Experimental Animation & Moving Image` `Worldbuilding & Speculative Design`
-> NY-based puppeteer Maiko Kikuchi animates the mischievous gods, islands, critters and howling chaos of the Kojiki, Japan's oldest chronicle of origin ...
-[View event](https://japansociety.org)
-
-### Seeing Together: Photography Through Language and the Senses 🆕
-●●●○○ Cooper Union — 18:00 `talk`
-`Contemporary art (general)` `Philosophy, critical theory, media theory, cybernetics, posthumanism` `Neuroscience, AI & Cognitive Science` `Contemporary Art`
-> A talk examining the intersections of photography, language, and sensory perception.
-[View event](https://cooper.edu/events-and-exhibitions/events/seeing-together-photography-through-language-and-senses)
-
-### Slow Magic, Maxo, 4evr 🆕
-●●●○○ Elsewhere — 19:00 | varies `music`
-`Experimental music, electronic music, sound art, noise, modular synth`
-> Electronic producer Slow Magic performs live with Maxo and 4evr.
-[View event](https://www.eventbrite.com/e/slow-magic-maxo-4evr-tickets-1985581729403)
-
-### Charles Mudede, "Exit Envy: BLM, MAGA, and the Continuing Crisis of Longevity" 🆕
-●●●○○ e-flux — 19:00 `talk`
-`Philosophy & Critical Theory`
-> Writer and critic Charles Mudede delivers a talk on envy, politics, and the crisis of longevity at e-flux.
-[View event](https://www.e-flux.com/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/)
-
-### Art of Solo: James Brandon Lewis, Nicole Mitchell, Janel Leppin, Jenna Camille, Kalia Vandever, Val Jeanty, Shara Lunon, and Alexis Marcelo 🆕
-●●●○○ Roulette — 20:00 | $25 `music`
-`Sound & Music`
-> Jazz Generations Initiative Continuum Fellow presents a three-night residency featuring poets, musicians, and artists across generations, this night i...
-[View event](https://roulette.org/event/james-brandon-lewis-art-of-solo/)
-
-### TO GOD 🆕
-●●●○○ McNally Jackson — 19:00 | $5 `reading`
-`Philosophy & Critical Theory`
-> Esther Yi presents her second book, a daring fiction collection about alienation, sex, and spiritual inquiry, in conversation with Katy Waldman.
-[View event](https://mcnallyjackson.com)
-
-### Armadi Tsayn 🆕
-●●●○○ DROM — 18:30 `music`
-`World Music & Global Traditions`
-> Boston-based trio blending Western Armenian folk, Middle Eastern melodies, jazz, and rock.
-[View event](https://dromnyc.com)
-
-### Late Shift 🆕
-●●●○○ Guggenheim — 18:30 `music`
-`Sound & Music`
-> Guggenheim's monthly after-hours series, with the museum's spiral staying open late; this month featuring psychedelic, Latin-inspired sounds from Arus...
-[View event](https://www.guggenheim.org)
-
-### Playtest Thursday 🆕
-●●●○○ NYU Game Center — 17:30–19:30 `workshop`
-`Games & Interactive`
-> Weekly open playtest night for NYC indie game developers and curious visitors.
-[View event](https://gamecenter.nyu.edu)
-
-### Kelly Walters for Open Flat File 🆕
-●●●○○ Cooper Union — 18:30 `talk`
-`Contemporary Art`
-> Designer/artist Kelly Walters presents work as part of Cooper Union's Open Flat File program.
-[View event](https://cooper.edu/events-and-exhibitions/events/kelly-walters-open-flat-file)
-
-### The New Social Environment: Anthea Hamilton on Comfort Zones 🆕
-●●●○○ The Brooklyn Rail — 13:00 `talk`
-`Contemporary Art`
-> Artist Anthea Hamilton joins curator Julia Trotta for a Zoom conversation on the occasion of Comfort Zones at Salon 94.
-
-### AnarkoArtLab (Book Launch and Conversation) 🆕
-●●●○○ Printed Matter — 18:00–20:00 `reading`
-`Philosophy & Critical Theory` `Contemporary Art`
-> A launch marking twenty years of AnarkoArtLab's artistic and political experimentation through performance, collective action, public intervention, tr...
-
-### The Bloomsbury Global Encyclopedia of Women in Architecture, 1960-2020 🆕
-●●●○○ Center for Architecture / AIA New York — 18:00–20:00 `talk`
-`Architecture & Urbanism`
-> A book talk on the Bloomsbury Global Encyclopedia of Women in Architecture, addressing present-day demands for gender equity and the history of women ...
-[View event](https://calendar.aiany.org/2026/10/15/the-bloomsbury-global-encyclopedia-of-women-in-architecture-1960-2020/)
-
-### Polish Roots: Bogna Kicińska & Kuba Cichocki Group 🆕
-●●●○○ Terraza 7 — 19:00 | varies `music`
-`World Music & Global Traditions` `Sound & Music`
-> Polish roots music reimagined through contemporary jazz, improvisation, and New York energy.
-[View event](https://terraza7.com/)
-
-### Mei Semones 🆕
-●●●○○ Lincoln Center (Summer for the City / Atrium) — 19:30 | free `music`
-`Sound & Music`
-> The Brooklyn-based guitarist and singer-songwriter's Lincoln Center debut, blending alternative and jazz-influenced J-pop.
-[View event](https://www.lincolncenter.org/campus/whats-on)
-
-### Narrow Rooms: Les Fantômes du Hard + Fistule 🆕
-●●●○○ Anthology Film Archives — 19:30 `screening`
-`Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema`
-> Program of queer experimental French erotic cinema, presented by the repertory series Narrow Margin.
-[View event](https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61975)
-
-### Fashion under Fascism 🆕
-●●●○○ Columbia Society of Fellows / Heyman Center — 17:00 | free `talk`
-`Philosophy & Critical Theory` `Science & Technology Studies / History of Science`
-> How fashion under Italian Fascism became a tool of political power, and what this reveals about contemporary movements' use of appearance and material...
-[View event](https://sofheyman.org)
-
-### Brooklyn Horror Film Festival 🆕
-●●●○○ Nitehawk Cinema `festival`
-`Film & Cinema`
-> Eight days of horror premieres, Q&As, 35mm screenings and parties, including the Leviathan Award for The Adams Family and the Culture Shock: Black Hor...
-
-### The Sound of Music 🆕
-●●○○○ Rockaway Film Festival — 12:00 `screening`
-`Film & Cinema`
-> Repertory screening of the classic Richard Rodgers musical, celebrating the composer's Rockaway roots.
-[View event](https://www.rockawayfilmfestival.org/events/the-sound-of-music)
-
-### The USA and the (Re)Birth of Austrian Modern Culture After 1945 🆕
-●●○○○ Austrian Cultural Forum | free `conference`
-`Philosophy & Critical Theory`
-> Academic conference on American influence on postwar Austrian cultural development. Austrian Cultural Forum.
-[View event](https://acfny.org/event/rebirth-of-austrian-modern-culture/)
-
-### Gallery Tour: Goddesses in the Machine 🆕
-●●○○○ Bard Graduate Center `tour`
-`Art & technology, generative art, creative coding, new media, interactive installation` `Contemporary art (general)`
-> A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.
-[View event](https://www.bgc.bard.edu/events/1646/15-oct-2026-gallery-tour)
-
-### Anthea Hamilton: Comfort Zones 🆕
-●●○○○ The Brooklyn Rail — 13:00 `talk`
-`Contemporary Art`
-> Artist Anthea Hamilton joins curator and Rail contributor Julia Trotta for a conversation on the occasion of 'Comfort Zones' on view at Salon 94.
-[View event](https://brooklynrail.org)
-
-### Las Guaracheras 🆕
-●●○○○ DROM — 20:00 `music`
-`World Music & Global Traditions`
-> All-female Colombian sextet performing son and guaracha.
-[View event](https://dromnyc.com)
-
-### Sometimes It Was Beautiful 🆕
-●●○○○ e-flux — 18:00 `screening`
-`Film & Cinema`
-> The African Film Institute presents a screening of Sometimes It Was Beautiful at the Logan Center for the Arts.
-[View event](https://www.e-flux.com/events/6783396/sometimes-it-was-beautiful/)
-
-### Building of the Day: Nolen Study Room, Thomas J. Watson Library at The Met 🆕
-●●○○○ Center for Architecture / AIA New York — 09:00–10:00 `tour`
-`Architecture & Urbanism`
-> A guided tour of the Nolen Study Room inside the Thomas J. Watson Library at The Metropolitan Museum of Art.
-[View event](https://calendar.aiany.org/2026/10/15/building-of-the-day-nolen-study-room-thomas-j-watson-library-at-the-met/)
-
-### Locas in the Heartland: Queer and Trans Cuban Refugees and the Recalibration of the US Straight State 🆕
-●●○○○ Columbia Society of Fellows / Heyman Center — 17:00 | free `talk`
-`Language & Culture`
-> A talk following the journeys of queer and trans Cuban refugees from the 1980 Mariel Boatlift through LGBTQ sponsorship networks across the US.
-[View event](https://sof-heyman.columbia.edu/events)
-
-### Kevin Geeks Out About Creepy Kids 🆕
-●●○○○ Nitehawk Cinema | varies `screening`
-`Film & Cinema`
-> Odd toddlers and killer children from movies and TV — satanic spawn, vampire kids, ghost girls, telekinetic tykes, and zombie babies.
-[View event](https://nitehawkcinema.com/)
-
----
-
-## Friday, October 16
-
-### DJ_Dave, Arushi Jain, Char Stiles, Autumnatic, Computer Art LLC, Jewelssea 🆕
-●●●●● Elsewhere — 19:00 `music`
-`Art & Technology` `Sound & Music` `World Music & Global Traditions`
-> Interdisciplinary live showcase across The Hall and Zone One pairing modular-synth/raga-inflected musician Arushi Jain with live-coded visual artist C...
-[View event](https://www.eventbrite.com/e/dj-dave-arushi-jain-char-stiles-autumnatic-computer-art-llc-jewelssea-tickets-1994581808883)
-
-### Drew McDowall: Time Machines (Coil) / Conversation with Mark Pilkington 🆕
-●●●●○ Blank Forms | $25 `music`
-`Experimental/electronic music` `Sound & Music`
-> Kou Records' Blank Forms residency opens with a conversation with writer Mark Pilkington followed by McDowall (longtime Coil member) performing Time M...
-
-### DVT: Traveling Shoes Experience 🆕
-●●●●○ National Sawdust — 19:30 `performance`
-`Experimental music, electronic music, sound art, noise, modular synth` `Contemporary art (general)`
-> DVT — composer Damani Rhodes, vocalist VADIA, and poet Tongo Eisen-Martin — makes its NYC debut with a collision of jazz, poetry, and soul described a...
-[View event](https://www.nationalsawdust.org/event/dvt-traveling-shoes-experience)
-
-### The Municipal Sublime 🆕
-●●●●○ n+1 Magazine `talk`
-`Architecture & urbanism — lectures, tours, adaptive reuse, public space`
-> A talk presented as part of Archtober, New York's architecture and design month.
-[View event](https://www.nplusonemag.com/online-only/events/the-municipal-sublime/)
-
-### The Municipal Sublime 🆕
-●●●●○ Center for Architecture / AIA New York — 18:00 | free `talk`
-`Architecture & Urbanism`
-> n+1 coeditor Mark Krotov moderates a conversation with artist Cheyenne Julien and writers/critics Samuel Medina, Mariana Mogilevich, and Lucas Vaqueir...
-[View event](https://n-plus-one-magazine.com)
-
-### Max ZT, Kunal Gunjal, and Amit Kavthekar: Strings of Soul (RBA) 🆕
-●●●●○ Roulette — 20:00 | $35 `music`
-`World Music & Global Traditions` `Sound & Music`
-> A musical journey combining Western jazz, ambient music, American folk, and traditional Indian classical music.
-[View event](https://roulette.org/event/max-zt-kunal-gunjal-and-amit-kavthekar-strings-of-soul/)
-
-### Coming Home: Tibetan Singer Yungchen Lhamo 🆕
-●●●●○ La MaMa `music`
-`World Music & Global Traditions`
-> A performance by Tibetan singer Yungchen Lhamo, presented as part of La MaMa's fall programming.
-
-### Eleonore Weill & Friends 🆕
-●●●●○ Barbès — 20:00 `music`
-`World Music & Global Traditions`
-> The Jewish French singer and multi-instrumentalist performs polyphonic singing, klezmer, and Occitan dance tunes — old, traditional, and original song...
-
-### Xianix Barrera & Nueva York Flamenco City 🆕
-●●●●○ Terraza 7 — 20:00 | varies `music`
-`World Music & Global Traditions`
-> An intimate flamenco performance led by Xianix Barrera with guitarist Ricardito, exploring memory and cultural inheritance.
-[View event](https://terraza7.com/)
-
-### Emilia y Pablo 🆕
-●●●●○ Lincoln Center (Summer for the City / Atrium) — 19:30 | free `music`
-`World Music & Global Traditions`
-> A duo exploring flamenco and Latin American folk traditions in their debut US performance.
-[View event](https://www.lincolncenter.org/campus/whats-on)
-
-### Multi-Media Resource Center Pgm 1: Confessions and Sex Histories 🆕
-●●●●○ Anthology Film Archives — 18:45 `screening`
-`Film & Cinema` `Experimental Animation & Moving Image`
-> Archival program from the Multi-Media Resource Center, an educational/experimental film collective.
-[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62011)
-
-### Sexual Cinéma Vérité: The Multi-Media Resource Center in Context 🆕
-●●●●○ Anthology Film Archives `screening`
-`Film & Cinema` `Science & Technology Studies / History of Science` `Experimental Animation & Moving Image`
-> A series guest-programmed by Lucy Talbot Allen introducing rarely-screened avant-garde and educational films distributed by the 1960s-70s Multi-Media ...
-
-### Kou Records at Blank Forms—Fall 2026 Season 🆕
-●●●○○ Blank Forms `music`
-`Experimental music, electronic music, sound art, noise, modular synth`
-> A season-long series of concerts and events presented by Kou Records at Blank Forms' Brooklyn space, running October 16 through December 5, 2026.
-[View event](https://www.blankforms.org/events/kou-records-at-blank-forms-fall-2026-season)
-
-### The Devils on 35mm (uncensored restoration) 🆕
-●●●○○ Film at Lincoln Center `screening`
-`Film & cinema` `Film & Cinema`
-> Theatrical premiere of Ken Russell's long-suppressed THE DEVILS in its full, uncensored 35mm restoration; NYFF64 selection, opens for one week only.
-
-### Once Upon a Time in Harlem 🆕
-●●●○○ Film at Lincoln Center `screening`
-`Film & cinema`
-> William Greaves's 1972 gathering of Harlem Renaissance-adjacent artists and thinkers, completed decades later by his son David Greaves; opens with Q&A...
-
-### Paris Was a Woman (Q&A with Greta Schiller & Andrew Weiss, Book Signings) 🆕
-●●●○○ Metrograph — 18:40 `screening`
-`Film & cinema` `Contemporary art (general)` `Film & Cinema`
-> Screenings of Greta Schiller's documentary Paris Was a Woman run October 16-18, with Q&As and book signings with filmmakers Greta Schiller and Andrew ...
-[View event](https://metrograph.com/film/?vista_film_id=9999003500)
-
-### The Devils (35mm) 🆕
-●●●○○ Film at Lincoln Center `screening`
-`Film & Cinema`
-> Ken Russell's long-suppressed adaptation of Aldous Huxley's novel, restored and uncensored, screens for one week as part of NYFF64 Revivals.
-
-### Mirchi: Halla, Krithi, Maiya 🆕
-●●●○○ Elsewhere — 18:00 `music`
-`Language & Culture` `World Music & Global Traditions`
-> South Asian-flavored club night on The Rooftop with DJ sets from Halla, Krithi, and Maiya.
-[View event](https://www.eventbrite.com/e/mirchi-halla-krithi-maiya-tickets-2000209760237)
-
-### Coming Home: Tibetan Singer Yungchen Lhamo 🆕
-●●●○○ La MaMa `music`
-`World Music & Global Traditions`
-> A performance by Tibetan singer Yungchen Lhamo, running Oct. 16-17 at La MaMa.
-
-### Jan Blomqvist, Parallelle, Kanykei 🆕
-●●●○○ Knockdown Center `music`
-`Sound & Music`
-> Jan Blomqvist, described as a master of cinematic electronic music, headlines the Main Hall with support from Parallelle and Kanykei.
-
-### At the Edge of Where God Built 🆕
-●●●○○ Columbia GSAPP — 14:00 `talk`
-`Architecture & Urbanism`
-> Faculty Ziad Jamaleddine discusses his book on L.E.FT Architects' decade of work, joined by Waleed Arafa, Nebahat Avcioglu, Iheb Guermazi, Nasser Rabb...
-
-### Urban Love Suite 🆕
-●●●○○ Lincoln Center (Summer for the City / Atrium) — 19:30 | varies `performance`
-`Contemporary Art`
-> Sekou McMiller directs and choreographs a music-and-dance celebration of the cultural connections between Black and Brown communities. Sold out; stand...
-[View event](https://www.lincolncenter.org/campus/whats-on)
-
-### Multi-Media Resource Center PGM 2: Active Partners 🆕
-●●●○○ Anthology Film Archives — 20:45 `screening`
-`Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema`
-> Archival sexuality-education films screened as part of the Multi-Media Resource Center historical film series.
-[View event](https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62013)
-
-### Once Upon a Time in Harlem 🆕
-●●○○○ Film Forum `screening`
-`Film & Cinema`
-> Opening of a documentary exploring Harlem's history and culture.
-[View event](https://filmforum.org/film/once-upon-a-time-in-harlem)
-
-### Paris Was a Woman (with Filmmaker Q&A) 🆕
-●●○○○ Metrograph — 18:40 `screening`
-`film & cinema` `Film & Cinema`
-> Greta Schiller's 1996 documentary on the women artists and writers of 1920s Paris screens with a Q&A featuring filmmakers Greta Schiller and Andrew We...
-[View event](https://metrograph.com/film/9999003500-paris-was-a-woman/)
-
-### Open House New York Weekend at Amant 🆕
-●●○○○ Amant | free `tour`
-`Architecture & Urbanism`
-> Amant joins Open House New York Weekend with special guided tours in collaboration with GRT Architects of its current exhibitions and the architecture...
-[View event](https://amant.org)
-
-### “And in This Heart, Which Has Neither Had a Cause Nor the Lack of One”: On Translation, Craft, and Necessity 🆕
-●●○○○ The Poetry Project — 20:00 | $10 `reading`
-`Language & Culture`
-> A program on translation, craft, and necessity hosted by The Poetry Project.
-[View event](https://www.poetryproject.org/events/on-translation-craft-and-necessity)
-
-### Morning Class 🆕
-●●○○○ Movement Research `workshop`
-> An ongoing open movement class taught by Christopher Unpezverde Núñez, running Fri Oct 16 through Dec 4, 2026, at Movement Research.
-[View event](https://movementresearch.org/classes/3067/)
-
-### Green-Wood After Hours 🆕
-●●○○○ Green-Wood Cemetery — 18:00–20:00 `tour`
-`Architecture & Urbanism`
-> An after-dark walking tour through Green-Wood's history, legends, and secrets, including rare access to the normally locked Catacombs.
-[View event](https://www.green-wood.com/event/green-wood-after-hours-55/2026-10-16/1/)
-
-### Green-Wood After Hours 🆕
-●●○○○ Green-Wood Cemetery — 18:30–20:30 `tour`
-`Architecture & Urbanism`
-> An after-dark walking tour through Green-Wood's history, legends, and secrets, including rare access to the normally locked Catacombs.
-[View event](https://www.green-wood.com/event/green-wood-after-hours-55/2026-10-16/2/)
-
-### Greek Film Expo 2026: Michael Cacoyannis Retrospective 🆕
-●●○○○ Museum of the Moving Image `festival`
-`Film & Cinema`
-> A retrospective of four films by Greek director Michael Cacoyannis, including his Oscar-winning Zorba the Greek alongside three earlier works, organiz...
-
-### Hearing Things 🆕
-●●○○○ Barbès — 22:00 `music`
-`World Music & Global Traditions`
-> Saxophonist and composer Matt Bauder channels early rock & roll, surf, jump blues, and North African soul with JP Schlegelmilch on organ and Vinnie Sp...
-
-### Almost Famous 🆕
-●●○○○ Metrograph — 21:00 `screening`
-`Film & Cinema`
-> Cameron Crowe's 2000 rock-journalism classic, with an introduction by Jon Caramanica and Joe Coscarelli of the "Popcast" podcast.
-[View event](https://metrograph.com/film/9999005039-almost-famous/)
-
-### Report from Occupied Territory: Gender and Carceral Power in Long 1970s New York 🆕
-●●○○○ Columbia Society of Fellows / Heyman Center — 10:00 | free `conference`
-`Philosophy & Critical Theory`
-> A one-day symposium on the carceral logics of New York City, honoring the 60th anniversary of James Baldwin's essay "A Report From Occupied Territory....
-[View event](https://sof-heyman.columbia.edu/events)
-
----
-
-## Saturday, October 17
-
-### Frank Gillette: Spectra Obscura (closing) 🆕
-●●●●● Microscope Gallery `gallery`
-`Experimental animation, video art, moving image, game engine cinema` `Contemporary art (general) — gallery openings, exhibitions, sculpture, photography` `Experimental Animation & Moving Image`
-> Final days of video art pioneer Frank Gillette's exhibition Spectra Obscura, on view since September 10. Covered in Hyperallergic and The Brooklyn Rai...
-[View event](https://microscopegallery.com/frank-gillette-spectra-obscura/)
-
-### Athletics of Intimacy with K.J. Holmes 🆕
-●●●●● Movement Research `workshop`
-`Contemporary art (general)`
-> Recurring embodied movement/dance class led by K.J. Holmes, running Saturdays Oct 17 – Dec 19, 2026.
-[View event](https://movementresearch.org/classes/3040/)
-
-### Wu Fei & Abigail Washburn (WMI) 🆕
-●●●●○ DROM — 19:30 `music`
-`world_music` `experimental_music`
-> Guzheng and clawhammer banjo in Chinese-Appalachian crossover.
-[View event](https://www.worldmusicinstitute.org/wu-fei-abigail-washburn/)
-
-### After Hours Film School Study Session with Marwa Arsanios (Combat Breathing Vol. II) 🆕
-●●●●○ Wendy's Subway — 12:00–14:30 | free `workshop`
-`Film & Cinema` `Philosophy & Critical Theory` `Climate & Environment`
-> Where can the militant image be found today? Study session on the politics of land in militant filmmaking, part of Combat Breathing Vol. II: A Symposi...
-[View event](https://wendyssubway.com)
-
-### Zvenygora — original score performed live by medukha 🆕
-●●●●○ Metrograph — 12:30 | varies `screening`
-`Film & Cinema` `Experimental Music & Sound`
-> Dovzhenko's 1928 experimental silent masterwork with an original score performed live by medukha. Metrograph.
-[View event](https://metrograph.com/film/?vista_film_id=9999005036)
-
-### Frank Gillette: Spectra Obscura (through Oct 17) 🆕
-●●●●○ Microscope Gallery `gallery`
-`Experimental Animation & Moving Image` `Art & Technology` `Contemporary Art`
-> Solo exhibition of new work by video art pioneer Frank Gillette, on view at Microscope Gallery through October 17. Opened September 10 with an evening...
-[View event](https://microscopegallery.com/frank-gillette-spectra-obscura/)
-
-### Drew McDowall: A Thread, Silvered and Trembling with the Cartographic Ensemble 🆕
-●●●●○ Blank Forms | $25 `music`
-`Experimental/electronic music`
-> Second evening with Drew McDowall, pairing new solo material with a performance of A Thread, Silvered and Trembling alongside the Cartographic Ensembl...
-
-### Zvenygora (with Original Score and Live Musical Accompaniment by medukha) 🆕
-●●●●○ Metrograph — 12:30 `screening`
-`Experimental music, electronic music, sound art, noise, modular synth` `Experimental animation, video art, moving image, game engine cinema` `Film & Cinema`
-> A screening of Oleksandr Dovzhenko's 1928 avant-garde silent film Zvenygora with an original score and live musical accompaniment by medukha.
-[View event](https://metrograph.com/film/?vista_film_id=9999005036)
-
-### Wu Fei & Abigail Washburn 🆕
-●●●●○ World Music Institute — 19:30 `music`
-`World Music & Global Traditions`
-> WMI Collaboration Series presents the ten-year artistic partnership between guzheng master Wu Fei and Grammy Award-winning banjo player and singer Abi...
-
-### Jennifer & Kevin McCoy: ReLensing 🆕
-●●●●○ bitforms gallery `gallery`
-`Art & Technology` `Contemporary Art`
-> New media artists Jennifer & Kevin McCoy present ReLensing, on view Sept 10 - Oct 17, 2026 at bitforms gallery, New York.
-[View event](https://www.bitforms.art/exhibition/relensing)
-
-### Zvenyhora 🆕
-●●●●○ Metrograph — 12:30 `screening`
-`Film & Cinema` `Sound & Music`
-> Oleksandr Dovzhenko's 1928 Ukrainian silent film Zvenyhora screens with an original score performed live by the group medukha.
-[View event](https://metrograph.com/film/9999005036-zvenygora/)
-
-### Zvenygora 🆕
-●●●●○ Metrograph — 12:30 `screening`
-`Film & Cinema` `Sound & Music`
-> Oleksandr Dovzhenko's 1928 silent film screens with an original score and live musical accompaniment by the band medukha.
-[View event](https://metrograph.com/film/9999005036-zvenygora/)
-
-### ZVENYGORA (Live Musical Accompaniment) 🆕
-●●●●○ Metrograph — 12:30 `screening`
-`experimental music/sound art` `film & cinema` `Film & Cinema`
-> Dovzhenko's 1928 silent film Zvenigora screens with an original score and live musical accompaniment by the ensemble medukha.
-[View event](https://metrograph.com/film/9999005036-zvenygora/)
-
-### We, the People of India: A Conversation with T.M. Krishna 🆕
-●●●●○ Asia Society — 18:30–20:00 `talk`
-`World Music & Global Traditions` `Philosophy & Critical Theory`
-> Acclaimed Karnatik musician, author, and public intellectual T.M. Krishna explores the historical, cultural, and philosophical contexts of India's nat...
-[View event](https://asiasociety.org)
-
-### Wu Fei and Abigail Washburn 🆕
-●●●●○ DROM — 18:30 `music`
-`World Music & Global Traditions` `Sound & Music`
-> Guzheng virtuoso Wu Fei and Grammy-winning banjoist Abigail Washburn's cross-cultural duo project, produced by Béla Fleck, weaving Appalachian and Xin...
-[View event](https://dromnyc.com)
-
-### Arcade Science: MASSIVE and HOVERBURGER 🆕
-●●●●○ Museum of the Moving Image | free `talk`
-`Games & Interactive`
-> Indie arcade game creators behind HOVERBURGER and MASSIVE join other game designers and roboticists to discuss the math, engineering, and robotics beh...
-
-### Offsite: Jeffrey Zeigler's "We Were Fridays" at Weeksville Heritage Center 🆕
-●●●●○ National Sawdust — 12:00 `festival`
-`Language & Culture` `World Music & Global Traditions`
-> Weeksville Heritage Center and VisionIntoArt host a day-long community experience weaving together performance, creative workshops, and conversations ...
-[View event](https://www.eventbrite.com/e/jeffrey-zeiglers-we-were-fridays-at-weeksville-heritage-center-tickets-2002212339004)
-
-### Building of the Day: Luis Lopez Playground Modular Public Restroom 🆕
-●●●●○ Center for Architecture / AIA New York — 12:00–13:00 `tour`
-`Architecture & urbanism` `Climate & Environment` `Architecture & Urbanism`
-> A tour of an innovative modular public restroom installed at Luis Lopez Playground, highlighting new approaches to public infrastructure design.
-[View event](https://calendar.aiany.org/2026/10/17/building-of-the-day-luis-lopez-playground-modular-public-restroom/)
-
-### Radical History Walking Tour 🆕
-●●●●○ Museum of Reclaimed Urban Space — 15:00 `tour`
-`Architecture & urbanism — lectures, tours, adaptive reuse, public space`
-> MoRUS's recurring Radical History Walking Tour, held every Saturday and Sunday at 3pm, visiting Lower East Side community gardens, former squats, and ...
-[View event](https://morusnyc.org/join-our-tours/)
-
-### Fantasia 🆕
-●●●●○ Museum of the Moving Image — 13:00 | free for members `screening`
-`Experimental Animation & Moving Image`
-> Walt Disney's hand-drawn animated classic, set to works by Bach, Tchaikovsky, Beethoven, and Stravinsky, screens as part of Handcrafted Horrors and Wo...
-
-### Ragas Live Festival 2026 🆕
-●●●○○ Pioneer Works `performance`
-`experimental_music`
-> “24 hours of uninterrupted, absolutely incredible music performances" —The New York Times
-[View event](https://www.eventbrite.com/e/ragas-live-festival-2026-tickets-1989613275867)
-
-### Fall Festival 2026 🆕
-●●●○○ Abrons Arts Center — 12:00–16:00 `festival`
-`Contemporary art (general) — gallery openings, exhibitions, sculpture, photography`
-> Abrons Arts Center's annual fall festival, a daytime celebration of the center's artists and community programming.
-[View event](https://abronsartscenter.org/programs/fall-festival-2026)
-
-### Secrets in Stone 🆕
-●●●○○ Green-Wood Cemetery — 15:00–17:00 `tour`
-`Architecture & Urbanism`
-> A crowd-favorite walking tour decoding the symbols, carvings and hidden stories embedded in Green-Wood's Victorian-era monuments.
-[View event](https://www.green-wood.com/event/secrets-in-stone-13/2026-10-17/)
-
-### Combat Breathing Vol. II: After Hours Film School Study Session with Marwa Arsanios 🆕
-●●●○○ Wendy's Subway — 12:00–14:30 | free `workshop`
-`Philosophy & Critical Theory` `Film & Cinema`
-> Study session exploring the politics of land and militant filmmaking, part of Combat Breathing Vol. II: A Symposium on Aesthetics and Politics — film ...
-[View event](https://wendyssubway.com/)
-
-### Prymek & Sage, Loren Connors 🆕
-●●●○○ Public Records — 19:00 `music`
-`Sound & Music`
-> Live performance in the Sound Room featuring experimental guitarist Loren Connors alongside Prymek & Sage.
-[View event](https://link.dice.fm/c369ede225b5)
-
-### Tye Turner + Zabaan Presents Club Chutiya: Sri, Ana.gha, Lilla, Yuvi 🆕
-●●●○○ Elsewhere — 22:30 `music`
-`Language & Culture` `World Music & Global Traditions`
-> South Asian diaspora club night hosted by Zabaan, full venue, with Sri, Ana.gha, Lilla, and Yuvi.
-[View event](https://www.eventbrite.com/e/tye-turner-zabaan-presents-club-chutiya-sri-anagha-lilla-yuvi-tickets-1998244334596)
-
-### Aerograd 🆕
-●●●○○ Metrograph — 14:40 `screening`
-`Film & Cinema`
-> Oleksandr Dovzhenko's 1935 film, introduced by programmer Edo Choi as part of the Dovzhenko retrospective.
-[View event](https://metrograph.com/film/9999005037-aerograd/)
-
-### Khajistan Office Hours 🆕
-●●●○○ Recess — 14:00–17:00 | free `other`
-`Worldbuilding & Speculative Design` `Contemporary Art`
-> Public drop-in hours staffed as the fictional Khajistan Institute, a speculative/satirical institutional art project on view at Recess through Oct 24....
-[View event](https://www.recessart.org/events/609-khajistan-office-hours)
-
-### Faust 🆕
-●●●○○ Museum of the Moving Image — 15:30 | free for members `screening`
-`Film & Cinema`
-> A new restoration of F. W. Murnau's German Expressionist silent classic, adapting the legend of an alchemist who makes a pact with the devil for etern...
-
-### Brandon Seabrook (solo banjo) 🆕
-●●●○○ Barbès — 18:00 `music`
-`Sound & Music`
-> A solo banjo set from the avant-garde guitarist and composer known for pushing the instrument into experimental territory.
-
-### Walking Tour: Privately Owned Public Spaces (POPS) in Midtown North 🆕
-●●●○○ Center for Architecture / AIA New York — 14:00–16:00 `walk`
-`Architecture & Urbanism`
-> A walking tour examining privately owned public spaces (POPS) in Midtown North and their role in the city's urban fabric.
-[View event](https://calendar.aiany.org/2026/10/17/walking-tour-privately-owned-public-spaces-pops-in-midtown-north-4/)
-
-### Architecture and Land Justice at the Forge Project 🆕
-●●●○○ Center for Architecture / AIA New York `talk`
-`Architecture & Urbanism` `Philosophy & Critical Theory`
-> A program on architecture and land justice held at the Forge Project, an Indigenous-led initiative.
-[View event](https://calendar.aiany.org/2026/10/17/architecture-and-land-justice-at-the-forge-project/)
-
-### César Orozco & SonAhead 🆕
-●●●○○ Terraza 7 — 20:00 | varies `music`
-`World Music & Global Traditions`
-> Latin Grammy winners for Best Arrangement deliver Cuban timba infused with son, jazz, and electronic elements.
-[View event](https://terraza7.com/)
-
-### EC: Strike 🆕
-●●●○○ Anthology Film Archives — 17:30 `screening`
-`Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema`
-> Sergei Eisenstein's silent revolutionary drama 'Strike,' screened as part of the Essential Cinema repertory series.
-[View event](https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61915)
-
-### Black Feminist Study Group (4 sessions) 🆕
-●●○○○ Vera List Center for Art and Politics | free `reading`
-`Philosophy & Critical Theory`
-> Four-part reading/discussion series shaped by Rosana Paulino's practice — readings from Beatriz Nascimento, Dionne Brand, Denise Ferreira da Silva, Sa...
-[View event](https://veralistcenter.org)
-
-### MoMI After Dark Tours 🆕
-●●○○○ Museum of the Moving Image | varies `tour`
-`Film & Cinema`
-> Lantern tours through the darkened galleries and the Exorcist exhibition led by a MoMI educator, complimentary drink included. Sept 12, 16; Oct 17, 24...
-[View event](https://movingimage.org)
-
-### RUSH Presents: Funk Tribu 🆕
-●●○○○ Knockdown Center `music`
-`Experimental music, electronic music, sound art, noise, modular synth`
-> Funk Tribu curates a full-venue, day-into-night takeover with RUSH.
-
-### The Insider 🆕
-●●○○○ Metrograph — 16:40 `screening`
-`Film & Cinema`
-> Michael Mann's 1999 film The Insider screens with a Q&A featuring investigative journalist Lowell Bergman and Pulitzer Prize-winning reporter Pablo To...
-[View event](https://metrograph.com/film/9999003555-the-insider/)
-
-### Broadcast News (with Introduction) 🆕
-●●○○○ Metrograph — 20:20 `screening`
-`film & cinema`
-> James L. Brooks' 1987 newsroom satire screens with an introduction by Michael Barbaro of The New York Times' "The Daily."
-[View event](https://metrograph.com/film/9999003486-broadcast-news/)
-
-### Movement Research Open House 🆕
-●●○○○ Movement Research `other`
-> A community open house introducing Movement Research's programs, classes, and artist resources.
-[View event](https://movementresearch.org/events/1491/)
-
-### TEAMS INAZUMA! 🆕
-●●○○○ Wonderville — 14:30–18:00 `other`
-`Games & Interactive`
-> A team-based game event at Wonderville themed around the Inazuma Eleven franchise.
-[View event](https://www.wonderville.nyc/events/teams-inazuma-10-17-26)
-
-### Walking Tour: The Architecture of Madison Square Park 🆕
-●●○○○ Center for Architecture / AIA New York — 10:30–12:30 `walk`
-`Architecture & Urbanism`
-> A walking tour exploring the architectural history surrounding Madison Square Park.
-[View event](https://calendar.aiany.org/2026/10/17/walking-tour-the-architecture-of-madison-square-park-14/)
-
-### Tye Turner, Goldie Harris, Hanti + Zabaan Presents Club Chutiya 🆕
-●●○○○ Elsewhere — 22:30 `music`
-`Language & Culture` `Sound & Music`
-> South Asian diaspora club night 'Club Chutiya' presented by Zabaan, with DJs Tye Turner, Goldie Harris, and Hanti.
-[View event](https://www.elsewhere.club/events/1998244334596)
-
-### LOL: Laughing Out Lonely 🆕
-●●○○○ Lincoln Center (Summer for the City / Atrium) — 17:00 | free `performance`
-> Countertenor Morten Grove Frandsen's solo opera pulls audiences into the far corners of the internet.
-[View event](https://www.lincolncenter.org/campus/whats-on)
-
-### Green-Wood After Hours 🆕
-●●○○○ Green-Wood Cemetery — 17:00–20:30 `walk`
-`Architecture & Urbanism`
-> An after-dark walking tour through Green-Wood Cemetery's history, legends, and secrets, with access to the normally-locked Catacombs. Offered at sever...
-[View event](https://www.green-wood.com/series/green-wood-after-hours-20/)
+Total events: 458
 
 ---
 
@@ -952,6 +43,26 @@ Total events: 495
 `Architecture & urbanism` `Architecture & Urbanism`
 > A newsstand takeover in the subway for Archtober and Open House New York Weekend, blending design, public space, and playful intervention.
 [View event](https://calendar.aiany.org/2026/10/18/archtober-x-data-vandals-open-house-new-york-weekend/)
+
+### La MaMa Block Party 🆕
+●●●●○ La MaMa | free `festival`
+`World Music & Global Traditions` `Contemporary Art`
+> Annual community block party on Ellen Stewart Way featuring performances and installations by dozens of artists and groups (Battery Dance, CultureHub,...
+
+### Rosana Paulino: ¿História Natural? 🆕
+●●●●○ The New School `gallery`
+`Science & Technology Studies / History of Science` `Contemporary Art`
+> Prize exhibition for 2025-2027 Jane Lombard Prize recipient Rosana Paulino, anchored by her landmark artist book, tracing the entanglements of science...
+
+### Fantasia 🆕
+●●●●○ Museum of the Moving Image — 12:30 | free for MoMI members `screening`
+`Experimental Animation & Moving Image`
+> Disney's landmark hand-drawn animated feature, set to works by Bach, Tchaikovsky, Beethoven, and Stravinsky, screens as part of Handcrafted Horrors an...
+
+### Fantasia 🆕
+●●●●○ Museum of the Moving Image — 12:30 | varies `screening`
+`Experimental Animation & Moving Image` `Film & Cinema`
+> Disney's 1940 hand-drawn animated classic, set to music by Bach, Tchaikovsky, Stravinsky and others, screening as part of MoMI's World of Animation an...
 
 ### Curator-Led Dialogue: Eriola Pira with Angela Ferraiolo 🆕
 ●●●●○ Harvestworks `talk`
@@ -1024,6 +135,22 @@ Total events: 495
 > MONECO energizes the New York Neo-Cumbia scene with a blend of Chicha, Cumbia, and Rock.
 [View event](https://terraza7.com/)
 
+### Arcade Science: MASSIVE and HOVERBURGER 🆕
+●●●○○ Museum of the Moving Image | free `other`
+`Games & Interactive` `Art & Technology`
+> Free drop-in play of two indie arcade games, MASSIVE and HOVERBURGER, exploring how math, engineering, and STEM fields inform game design; final day o...
+
+### Doll Day Afternoon 🆕
+●●○○○ La MaMa `performance`
+`Contemporary Art`
+> A solo show by Dmitri Barcomi & Vice Squad reclaiming the story of trans icon Elizabeth Eden, who inspired Dog Day Afternoon, through her own memoir o...
+
+### EC: Old and New 🆕
+●●○○○ Anthology Film Archives — 16:45 `screening`
+`Film & Cinema`
+> Screening of Sergei Eisenstein's Old and New (1929), presented as part of Anthology's Essential Cinema series of foundational avant-garde and silent f...
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61917)
+
 ### La MaMa 65th Anniversary Block Party: Art for Healing, Food for Healing 🆕
 ●●○○○ La MaMa — 13:00–17:00 | free `festival`
 `Contemporary Art`
@@ -1052,6 +179,31 @@ Total events: 495
 `Worldbuilding & Speculative Design` `Contemporary Art`
 > The Brick presents Im Dunkeln sieht man besser ("you can see better in the dark") by Leonie Bell with LOCAL GRANDMA, a cabaret-inflected play set in a...
 [View event](https://www.bricktheater.com/event/im-dunkeln-sieht-man-besser/2026-10-11/)
+
+### La MaMa's 65th Birthday Celebration 🆕
+●●○○○ La MaMa | free `festival`
+> A block party celebrating La MaMa's 65th anniversary and the power of art and food to heal and build community, featuring performances, workshops, nei...
+
+### Clube do Choro with Regional Samauma 🆕
+●●○○○ Barbès — 15:30 `music`
+`World Music & Global Traditions`
+> Weekly Sunday choro jam session in Barbès' front room with a rotating cast of NY's finest Brazilian musicians.
+
+### Stella 🆕
+●●○○○ Museum of the Moving Image — 15:00 `screening`
+`Film & Cinema`
+> Michael Cacoyannis's drama about a fiercely independent nightclub singer, winner of the Golden Globe for Best Foreign Film, screens as part of the Gre...
+
+### Windfall in Athens 🆕
+●●○○○ Museum of the Moving Image — 18:00 `screening`
+`Film & Cinema`
+> Michael Cacoyannis's breezy feature directorial debut rom-com screens as part of the Greek Film Expo 2026 retrospective.
+
+### Exhibition Tour: The Lost World: The Art of Minnie Evans 🆕
+●●○○○ Whitney Museum of American Art — 14:00 | free `tour`
+`Contemporary Art`
+> Free docent-led tour of the exhibition on self-taught visionary artist Minnie Evans; recurs multiple days and times weekly.
+[View event](https://whitney.org/events/minnie-evans-tour)
 
 ---
 
@@ -1084,6 +236,12 @@ Total events: 495
 `Science & technology studies` `Architecture & urbanism`
 > A program marking ten years of the Social Science & Architecture initiative, examining the intersection of social science research and the built envir...
 [View event](https://calendar.aiany.org/2026/10/19/social-science-architecture10-year-anniversary/)
+
+### Social Science & Architecture: A Decade of Impact & Future Directions 🆕
+●●●●○ Center for Architecture / AIA New York — 18:00–20:00 `talk`
+`Architecture & Urbanism` `Science & Technology Studies / History of Science`
+> A panel reflecting on a decade of integrating social science research into architectural practice and discussing future directions for the field.
+[View event](https://calendar.aiany.org/2026/10/19/social-science-architecture-a-decade-of-impact-future-directions/)
 
 ### Rena Anakwe + Muyassar Kurdi 🆕
 ●●●●○ The Poetry Project — 20:00 | $10 `reading`
@@ -1142,11 +300,48 @@ Total events: 495
 > Artist John Edmonds joins Rail contributor Zoë Hopkins in person at the Rail's Industry City offices, on the occasion of his show at Company Gallery.
 [View event](https://brooklynrail.org/)
 
+### El Vapor de Brooklyn 🆕
+●●●○○ Barbès — 19:00 `music`
+`World Music & Global Traditions` `Language & Culture`
+> A diasporic approach to Puerto Rican plena and bomba traditions.
+
+### Criterion Presents Adventures in Moviegoing with Isaac Mizrahi 🆕
+●●●○○ Museum of the Moving Image — 19:30 `talk`
+`Film & Cinema`
+> To mark the theatrical re-release of the documentary Unzipped, designer Isaac Mizrahi joins Criterion president Peter Becker for a live conversation a...
+
+### John Edmonds and Zoë Hopkins in Dialogue 🆕
+●●●○○ The Brooklyn Rail — 18:30–19:30 | free `talk`
+`Contemporary Art`
+> Artist John Edmonds joins Brooklyn Rail contributor Zoë Hopkins for a conversation on the occasion of his exhibition The Space Between at Company Gall...
+
+### Movement Research at the Judson Church | Oct 19, 2026 🆕
+●●●○○ Movement Research `performance`
+`Contemporary Art`
+> An evening of new dance works in Movement Research's long-running series at Judson Church, featuring Brendan Drake, Kar'mel Antonyo Wade Small, and Em...
+[View event](https://movementresearch.org/events/1470/)
+
+### Sweet Rush: Post-Film Conversation with Star Paweł Szajda 🆕
+●●●○○ Film Forum — 20:10 | $12 members / $18 general `screening`
+`Film & Cinema`
+> Screening of Andrzej Wajda's Sweet Rush, part of the Andrzej Wajda 100 retrospective, followed by a conversation with star Paweł Szajda.
+[View event](https://filmforum.org/events/event/sweet-rush-october-19)
+
 ### Métisses: Cinq Femmes Contre un Crime d'État 🆕
 ●●○○○ Maysles Documentary Center `screening`
 `Film & cinema` `Film & Cinema`
 > Documentary screening of "Métisses: Cinq Femmes Contre un Crime d'État," exploring mixed-race identity and state violence, presented by Maysles Docume...
 [View event](https://www.maysles.org/calendar/metisses-cinq-femmes-contre-un-crime-detat)
+
+### Newfest: The Annual New York LGBTQ+ Film Festival 🆕
+●●○○○ Nitehawk Cinema `festival`
+`Film & Cinema`
+> Newfest returns with several screenings as part of the Annual New York LGBTQ+ Film Festival, running October 19 through October 24.
+
+### Criterion Presents Adventures in Moviegoing with Isaac Mizrahi 🆕
+●●○○○ Museum of the Moving Image — 19:30 `talk`
+`Film & Cinema`
+> A conversation between fashion designer Isaac Mizrahi and Criterion's Peter Becker about moviegoing and film.
 
 ### Into The Unknown: an Over The Garden Wall drag show 🆕
 ●●○○○ Wonderville — 20:00–23:00 `performance`
@@ -1159,6 +354,11 @@ Total events: 495
 `Hackerspaces & Creative Tech`
 > A virtual bookbinding workshop with Scott McCarney (running Oct 19 - Nov 2) exploring drum leaf binding and its historical precedents.
 [View event](https://shop.centerforbookarts.org/products/26fbb102v)
+
+### Shodo (Japanese Calligraphy) Workshops 🆕
+●●○○○ Japan Society — 14:00 `workshop`
+`Language & Culture`
+> Hands-on introductory workshop in traditional Japanese brush calligraphy, with an additional 5pm session offered the same day.
 
 ---
 
@@ -1212,6 +412,12 @@ Total events: 495
 > An evening billed as 'gentle—noise' in the Sound Room, suggesting an ambient/noise-leaning sound art program.
 [View event](https://link.dice.fm/j743865f4013)
 
+### Kéyah: A Diné Responsibility to the Land 🆕
+●●●●○ Center for Architecture / AIA New York — 13:00–14:00 `talk`
+`Architecture & Urbanism` `Climate & Environment`
+> A conversation with Victor Pascual, Design Professional at DSGW Architecture, moderated by Anna Martin, on Diné (Navajo) land ethics and architecture'...
+[View event](https://calendar.aiany.org/2026/10/20/k%c3%a9yah-a-din%c3%a9-responsibility-to-the-land/)
+
 ### Study Session with Joy James (Combat Breathing Vol. II) 🆕
 ●●●○○ Wendy's Subway — 18:00–20:30 | free `workshop`
 `Philosophy & Critical Theory`
@@ -1253,6 +459,23 @@ Total events: 495
 > Eleanor Coppola's documentary, assembled from 80 hours of unseen footage of Sofia Coppola directing Marie Antoinette at Versailles.
 [View event](https://movingimage.us/calendar/)
 
+### The History of Concrete 🆕
+●●●○○ Nitehawk Cinema — 14:45 `screening`
+`Climate & Environment` `Film & Cinema` `Architecture & Urbanism`
+> A documentary on concrete and infrastructure, screened as part of Nitehawk's Adults with Infants series.
+
+### Contemporaneous, RECAP, and Mantra Percussion Present: Seeing in the Dark 🆕
+●●●○○ Roulette — 20:00 `music`
+`Sound & Music`
+> Contemporaneous, Recap, and Mantra Percussion perform three transformative works by Brendon Randall-Myers, Lila Meretzky, and Paul Pinto, offering dif...
+[View event](https://roulette.org/event/contemporaneous-mantra-percussion-recap-percussion-seeing-in-the-dark/)
+
+### Carlito's Way (NYC in Transit) 🆕
+●●○○○ Film Forum — 19:50 | $12 members / $18 general `screening`
+`Film & Cinema`
+> 35mm repertory screening of Al Pacino's Carlito's Way, part of the NYC in Transit series.
+[View event](https://filmforum.org/film/carlitos-way-nyc-in-transit)
+
 ### Roaming A Flushing Mall: Rong Xin (Book Launch and Conversation) 🆕
 ●●○○○ Printed Matter — 18:00–20:00 `talk`
 `Contemporary Art`
@@ -1269,6 +492,17 @@ Total events: 495
 `Contemporary Art`
 > Artist Catherine Telford Keogh joins Rail contributor Gaby Collins-Fernandez over Zoom on the occasion of her show at ILY2.
 [View event](https://brooklynrail.org/)
+
+### Slavic Soul Party 🆕
+●●○○○ Barbès — 21:00 `music`
+`World Music & Global Traditions`
+> Weekly Balkan brass band bacchanalia, every Tuesday, forever.
+
+### Open Performance | Oct 20, 2026 🆕
+●●○○○ Movement Research `performance`
+`Contemporary Art`
+> Movement Research's Open Performance platform, where dance and movement artists share works-in-progress with the public.
+[View event](https://movementresearch.org/events/1453/)
 
 ---
 
@@ -1316,6 +550,11 @@ Total events: 495
 > An externally hosted program, linked via the Center for Architecture's calendar, on adaptive reuse strategies within architecture education.
 [View event](https://calendar.aiany.org/2026/10/21/adaptive-reuse-and-architecture-schools/)
 
+### Reading & Discussion Series: Josiah McElheny's Instrument Object (Session 1 + Exhibition Tour) 🆕
+●●●●○ The Kitchen — 18:00–20:00 | free `reading`
+`Philosophy & Critical Theory` `Sound & Music` `Contemporary Art`
+> First of a three-part reading and discussion series tied to Josiah McElheny's exhibition Instrument Object, with readings from Jenny Odell, David Grub...
+
 ### LIVE from NYPL: Yiyun Li with Jennifer Egan — Music Against the Night 🆕
 ●●●○○ LIVE from NYPL — 19:00 | free `talk`
 > Yiyun Li in conversation with Jennifer Egan. Stephen A. Schwarzman Building & online. Free.
@@ -1343,6 +582,12 @@ Total events: 495
 `Sound & Music`
 > Colin Asher discusses his new book on prisons' influence on American music, from blues to hip-hop, with Jefferson Cowie.
 [View event](https://www.gc.cuny.edu/events)
+
+### Exhibit Opening – Change Preservation 🆕
+●●●○○ Center for Architecture / AIA New York `opening`
+`Architecture & Urbanism`
+> Opening of an exhibition examining preservation practice amid changing cities.
+[View event](https://calendar.aiany.org/2026/10/21/exhibit-opening-change-preservation/)
 
 ### Objects in Between: Cold War, Material Culture, and Emotions 🆕
 ●●●○○ Bard Graduate Center — 18:00 | varies `talk`
@@ -1390,6 +635,16 @@ Total events: 495
 > A poetry reading pairing Tongo Eisen-Martin and Margaret Randall, two politically engaged poets.
 [View event](https://www.poetryproject.org/events/tongo-eisen-martin-margaret-randall)
 
+### Matt Pavolka's New Quintet 🆕
+●●○○○ Barbès — 19:00 `music`
+`Sound & Music`
+> New jazz compositions from bassist Matt Pavolka's quintet with David Smith, Jason Rigby, Santiago Leibson and Mike Sarin.
+
+### Mamady Kouyate's Mandingo Ambassadors 🆕
+●●○○○ Barbès — 22:00 `music`
+`World Music & Global Traditions`
+> The sound of Guinea's 1970s funk from one of the masters of the legendary Syliphone label.
+
 ---
 
 ## Thursday, October 22
@@ -1423,6 +678,29 @@ Total events: 495
 `Experimental music, electronic music, sound art, noise, modular synth` `Sound & Music`
 > Monthly showcase (BEEM) of Brooklyn's experimental electronic music scene, with live sets from local sound artists and modular synth performers.
 [View event](https://www.wonderville.nyc/events/beem-10-22-26)
+
+### Green Urbanism (GU) - 10th Edition 🆕
+●●●●○ Center for Architecture / AIA New York `conference`
+`Architecture & Urbanism` `Climate & Environment`
+> The 10th edition of the Green Urbanism conference, convening experts on sustainable and climate-resilient city design.
+[View event](https://calendar.aiany.org/2026/10/22/green-urbanism-gu-10th-edition/)
+
+### Nightfall at Green-Wood 🆕
+●●●●○ Green-Wood Cemetery — 19:00 `screening`
+`Film & Cinema`
+> A Rooftop Films partner event presenting an evening outdoor film program at the historic Green-Wood Cemetery, pairing site-specific atmosphere with in...
+[View event](https://rooftopfilms.com/event/nightfall-at-green-wood-3/)
+
+### Dan Neville Nonet | Jazz Inspired by Colombia's Pacific Coast (Second Set) 🆕
+●●●●○ Terraza 7 — 21:00 `music`
+`World Music & Global Traditions` `Sound & Music`
+> Second set of the nonet's program of jazz compositions inspired by the Pacific coast of Colombia.
+[View event](https://www.terraza7.com/detalles-y-registro/dan-neville-nonet-jazz-inspired-by-colombias-pacific-coast-second-set-5)
+
+### Klara and the Sun 🆕
+●●●○○ Nitehawk Cinema `screening`
+`Neuroscience, AI & Cognitive Science` `Film & Cinema`
+> Taika Waititi's adaptation of Kazuo Ishiguro's novel, with Jenna Ortega as a robotic companion exploring questions of consciousness and artificial int...
 
 ### Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings 🆕
 ●●●○○ e-flux — 19:00 `talk`
@@ -1471,17 +749,50 @@ Total events: 495
 > A film screening followed by a panel discussion, part of Cooper Union's events and exhibitions series.
 [View event](https://cooper.edu/index.php/events-and-exhibitions/events/sawyer-avenue-sunday-afternoon-film-screening-panel)
 
+### Goddesses in the Machine: Fashion in American Silent Film (Exhibition Tour) 🆕
+●●●○○ Bard Graduate Center — 12:30–13:15 `tour`
+`Film & Cinema` `Contemporary Art`
+> A weekly Thursday guided tour of the exhibition on fashion in American silent film, led by a Bard Graduate Center gallery educator.
+
+### Look & Feel: Exploring the Relationship Between Sound and Design 🆕
+●●●○○ Index Space `talk`
+`Sound & Music`
+> A public program at Index Greenpoint, hosted by Rahmi Halaby, examining how sound and design inform one another.
+[View event](https://www.index-space.org/programming/look-feel-exploring-the-relationship-between-sound-and-design-evt-iVtNFmberU8VSV7?view=list)
+
+### Walesa: Man of Hope: Post-Film Conversation with Star Robert Więckiewicz 🆕
+●●●○○ Film Forum — 20:10 | $12 members / $18 general `screening`
+`Film & Cinema`
+> Screening of Wajda's Walesa: Man of Hope, part of the Andrzej Wajda 100 retrospective, followed by a conversation with star Robert Więckiewicz.
+[View event](https://filmforum.org/events/event/walesa-man-of-hope-october-22)
+
+### Opening Reception: Form, Shadow, Motion: Selections from the Burger Collection, Hong Kong 🆕
+●●●○○ The Drawing Center — 18:00–20:00 `opening`
+`Contemporary Art` `Experimental Animation & Moving Image`
+> Public opening reception for Form, Shadow, Motion, a group exhibition drawn from the Burger Collection, Hong Kong, exploring drawing's relationship to...
+[View event](https://drawingcenter.org/programs/opening-formshadowmotion)
+
 ### Look & Feel 🆕
 ●●●○○ Index Space `other`
 `Philosophy & Critical Theory`
 > Community design/aesthetics-themed program at Index Greenpoint, hosted by Rahmi Halaby.
 [View event](https://www.index-space.org/programming/look-feel-evt-iVtNFmberU8VSV7?view=list)
 
+### You Can See Everything 🆕
+●●●○○ Nitehawk Cinema `screening`
+`Film & Cinema` `Neuroscience, AI & Cognitive Science`
+> Nathan Fielder and Lance Oppenheim's documentary about Elizabeth Holmes, blending comedy and documentary to probe perception versus reality.
+
 ### The Lost Season 🆕
 ●●○○○ UnionDocs — 19:30–19:30 | $10 `other`
 `Film & Cinema`
 > <p>Explore the uncanny terrain between documentary and speculative fiction. </p>\n
 [View event](https://uniondocs.org/event/the-lost-season-2026-10-22/)
+
+### Goddesses in the Machine Exhibition Tour 🆕
+●●○○○ Bard Graduate Center — 12:30–13:15 `tour`
+`Contemporary Art` `Film & Cinema`
+> A weekly Thursday gallery tour of Goddesses in the Machine: Fashion in American Silent Film, led by a BGC Gallery educator.
 
 ### Immanuel Wallerstein at Columbia — Conference 🆕
 ●●○○○ Columbia Society of Fellows / Heyman Center | free `conference`
@@ -1510,6 +821,53 @@ Total events: 495
 ●●○○○ The Brick — 20:00 `performance`
 > A new play by Marcellus Louise, directed by Jack Ventimilia, exploring grief, generational addiction, and coming to terms with gender. A boy follows a...
 [View event](https://www.bricktheater.com/event/three-kings/2026-10-22/)
+
+### Jest Asians Comedy Night: Asia Unfiltered 🆕
+●●○○○ Asia Society — 17:30–20:30 `performance`
+`Language & Culture`
+> A stand-up comedy night hosted by The Humor Section's Tony Chou, featuring comics from the global Asian diaspora including Jocelyn Chia, Dr. Di, Kathl...
+
+### Laura Ann Singh's Fracas Quintet 🆕
+●●○○○ Barbès — 19:00 `music`
+`Sound & Music`
+> Avant-garde jazz referencing Ornette Coleman and Joni Mitchell's emotive lyricism.
+
+### Baklava Express 🆕
+●●○○○ Barbès — 21:00 `music`
+`World Music & Global Traditions`
+> Oudist Josh Kaye's Middle Eastern-inspired fusion.
+
+### Playtest Thursday 🆕
+●●○○○ NYU Game Center — 17:30–19:00 `other`
+`Games & Interactive`
+> Weekly open playtesting session for games in development at the NYU Game Center, open to external guests via guest list.
+
+### NYU Game Center Lecture Series Presents Warren Spector 🆕
+●●○○○ NYU Game Center — 19:00–20:30 `talk`
+`Games & Interactive`
+> Veteran game designer Warren Spector (Deus Ex, Epic Mickey) discusses working with existing IP vs. original IP and AAA development, in a talk marking ...
+
+### The New Social Environment: Leidy Churchman — Space Remembers 🆕
+●●○○○ The Brooklyn Rail — 13:00 `talk`
+`Contemporary Art`
+> Artist Leidy Churchman joins critic Tausif Noor for a Zoom conversation on the occasion of the exhibition Space Remembers at Matthew Marks.
+
+### Man of Iron 🆕
+●●○○○ Film Forum `screening`
+`Film & Cinema`
+> Andrzej Wajda's 1981 docufiction film depicting the rise of Poland's first independent labor unions, screening as part of the Andrzej Wajda 100 retros...
+
+### Reading and Writing Through Alice Notley's Early Works; Five-Session Workshop with Hoa Nguyen 🆕
+●●○○○ The Poetry Project — 19:00–21:00 `workshop`
+`Language & Culture`
+> A five-session workshop (running through Nov 19) led by Hoa Nguyen exploring Alice Notley's early poetry. Note: the page states this workshop is alrea...
+[View event](https://www.poetryproject.org/events/reading-and-writing-through-alice-notley-s-early-works-five-session-workshop-with-hoa-nguyen)
+
+### Andrzej Wajda 100 🆕
+●●○○○ Film Forum | $12 members / $18 general `festival`
+`Film & Cinema`
+> Retrospective series marking the centennial of Polish director Andrzej Wajda, running Oct 2 through Oct 22; films include Man of Marble, Katyń, Ashes ...
+[View event](https://filmforum.org/series/andrzej-wajda-100)
 
 ---
 
@@ -1567,6 +925,18 @@ Total events: 495
 `Neuroscience, AI & Cognitive Science` `Worldbuilding & Speculative Design`
 > A theatrical release of the adaptation of Kazuo Ishiguro's novel about an artificial companion who observes and tries to understand human love and con...
 
+### Screening of Gateways to New York: Othmar H. Ammann and His Bridges 🆕
+●●●●○ Center for Architecture / AIA New York — 18:00–20:00 `screening`
+`Film & Cinema` `Architecture & Urbanism` `Science & Technology Studies / History of Science`
+> A screening of a documentary film on engineer Othmar H. Ammann and his iconic New York bridges, part of the Archtober x Data Vandals newsstand takeove...
+[View event](https://calendar.aiany.org/2026/10/23/screening-of-gateways-to-new-york-othmar-h-ammann-and-his-bridges/)
+
+### Nightfall at Green-Wood 🆕
+●●●●○ Green-Wood Cemetery — 19:00 `screening`
+`Film & Cinema`
+> A second-night Rooftop Films partner event presenting an evening outdoor film program at the historic Green-Wood Cemetery.
+[View event](https://rooftopfilms.com/event/nightfall-at-green-wood-4/)
+
 ### Unsound New York: Hania Rani presents Non-Fiction + Księżyc 🆕
 ●●●○○ Lincoln Center (Summer for the City / Atrium) — 19:30 | varies `music`
 `Experimental Music & Sound`
@@ -1596,11 +966,33 @@ Total events: 495
 > Srđan Karanović's 1991 Yugoslav film screens with an introduction and post-screening discussion by film historian Jenni Olson, with a repeat introduct...
 [View event](https://metrograph.com/film/9999005047-virgina/)
 
+### Music Video Mischief with director Nigel Dick 🆕
+●●●○○ Museum of the Moving Image — 18:30 | free `screening`
+`Sound & Music` `Film & Cinema`
+> A screening of ebullient rock music videos from director Nigel Dick spanning the mid-1980s to early 2000s, followed by a conversation and book signing...
+
+### Persona: 60th Anniversary Screening 🆕
+●●●○○ Museum of the Moving Image — 18:15 `screening`
+`Film & Cinema`
+> A 60th-anniversary screening of Ingmar Bergman's landmark drama, co-presented with NewFest, New York's largest queer film festival.
+
+### Nationtime: Introduced by Producer Liani Greaves and Founder of IndieCollect Sandra Schulberg 🆕
+●●●○○ Film Forum — 14:00 | $12 members / $18 general `screening`
+`Film & Cinema`
+> Screening of William Greaves' Nationtime, part of the William Greaves 100 retrospective, introduced by producer Liani Greaves and IndieCollect founder...
+[View event](https://filmforum.org/events/event/nationtime-october-23)
+
 ### Possible Love 🆕
 ●●○○○ Film at Lincoln Center `screening`
 `Film & Cinema`
 > Lee Chang-dong's NYFF64 Main Slate selection on economic precarity, documentary ethics, and two colliding marriages; South Korea's Oscar entry.
 [View event](https://filmlinc.org)
+
+### The Toxic Avenger 🆕
+●●○○○ Anthology Film Archives — 19:30 `screening`
+`Film & Cinema`
+> Screening of Troma Entertainment's cult horror-comedy The Toxic Avenger (1984), part of a Troma retrospective.
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62028)
 
 ### The Cavalier: An Evening with Nathalie Quintane and Jonathan Larson 🆕
 ●●○○○ Brooklyn Institute for Social Research — 19:00–20:30 | free `reading`
@@ -1644,6 +1036,16 @@ Total events: 495
 > A second date of the Green-Wood Cemetery partner event pairing film programming with the historic cemetery grounds after dark.
 [View event](https://rooftopfilms.com/event/nightfall-at-green-wood-4/)
 
+### Gili Yalo 🆕
+●●○○○ Barbès — 22:00 `music`
+`World Music & Global Traditions`
+> Traditional and not-so-traditional Ethiopian music with soul, funk and psychedelic jazz.
+
+### JAMKADIUM 2026: Casual Game Jam Competition 🆕
+●●○○○ NYU Game Center | free `festival`
+`Games & Interactive`
+> A hybrid 48-hour casual game jam hosted by Arkadium and NYU Game Center, with free food, swag, cash prizes for top games, and a chance to publish on A...
+
 ---
 
 ## Saturday, October 24
@@ -1671,6 +1073,24 @@ Total events: 495
 `Sound & Music` `Art & Technology` `Contemporary Art`
 > Wave Farm's inaugural Spatial Artist-in-Residence Qiujiang Levi Lu discusses work exploring the body as a site of sonic transformation through custom ...
 [View event](https://wavefarm.org)
+
+### SPELLS 🆕
+●●●●○ Film-Makers' Cooperative — 19:00 `screening`
+`Film & Cinema` `Experimental Animation & Moving Image`
+> Longtime FMC filmmaker-member Devon Narine-Singh presents SPELLS, the first in a new series of guest-curated film programs at The Film-Makers' Coopera...
+[View event](https://film-makerscoop.com/screenings/spells)
+
+### Founders Architecture Talk: Creative Visions Inspired by the Landscape 🆕
+●●●●○ Center for Architecture / AIA New York `talk`
+`Architecture & Urbanism` `Climate & Environment`
+> A talk exploring how landscape informs creative architectural vision.
+[View event](https://calendar.aiany.org/2026/10/24/founders-architecture-talk-creative-visions-inspired-by-the-landscape/)
+
+### Closing Party + Zine Launch: Mieko Meguro in Conversation with Matthew Higgs and Ryan Foerster 🆕
+●●●●○ White Columns — 16:00–18:00 `talk`
+`Contemporary Art`
+> Closing celebration for the Mieko Meguro, Eric Spencer, and Juliette Collet exhibitions, with a zine launch and a conversation between Meguro, Matthew...
+[View event](https://whitecolumns.org/exhibitions/mieko-meguro/)
 
 ### Liturgy (Haela Ravenna Hunt-Hendrix) — Solo Program 🆕
 ●●●○○ Issue Project Room — 20:00 | varies `music`
@@ -1724,6 +1144,47 @@ Total events: 495
 `Contemporary art (general)`
 > Closing celebration for Mieko Meguro's exhibition 'Works, New York, 2009-2026,' featuring the launch of her zine 'Love Letter Blank.'
 [View event](https://whitecolumns.org/exhibitions/mieko-meguro/)
+
+### Intro to Dendro in Prospect Park with Nicole 🆕
+●●●○○ Prospect Park Bandshell `walk`
+`Climate & Environment`
+> An introductory walk on dendrochronology (tree-ring science) led by Nicole in Prospect Park.
+
+### Walking Tour: Historic Buildings and New Interventions in SoHo 🆕
+●●●○○ Center for Architecture / AIA New York — 11:00–13:00 `walk`
+`Architecture & Urbanism`
+> A walking tour exploring SoHo's historic cast-iron architecture alongside new architectural interventions.
+[View event](https://calendar.aiany.org/2026/10/24/walking-tour-historic-buildings-and-new-interventions-in-soho-30/)
+
+### Building of the Day: Marcus Garvey Village and Extension 🆕
+●●●○○ Center for Architecture / AIA New York — 13:00–15:00 `tour`
+`Architecture & Urbanism`
+> A guided tour of Marcus Garvey Village and Extension, a notable modernist low-rise housing development in Brooklyn.
+[View event](https://calendar.aiany.org/2026/10/24/building-of-the-day-marcus-garvey-village-and-extension/)
+
+### The Battle of Love's Return 🆕
+●●○○○ Anthology Film Archives — 16:45 `screening`
+`Film & Cinema`
+> Repertory screening, part of Anthology's ongoing revival programming.
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62031)
+
+### Waitress! 🆕
+●●○○○ Anthology Film Archives — 19:00 `screening`
+`Film & Cinema`
+> Repertory screening of the cult comedy Waitress! (1981).
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62033)
+
+### Outrider 🆕
+●●○○○ Anthology Film Archives — 20:30 `screening`
+`Film & Cinema`
+> Repertory screening, part of Anthology's revival programming.
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62002)
+
+### Class of Nuke 'Em High 🆕
+●●○○○ Anthology Film Archives — 21:30 `screening`
+`Film & Cinema`
+> Screening of Troma's cult sci-fi horror-comedy Class of Nuke 'Em High (1986).
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62035)
 
 ### DraftWork: Victoria Lynn Awkward + JOYBOY 🆕
 ●●○○○ Danspace Project | free `performance`
@@ -1791,6 +1252,12 @@ Total events: 495
 > Full-venue drum & bass / dubstep rave celebrating 10 years of the Crucast label.
 [View event](https://www.elsewhere.club/events/1996989624725)
 
+### Elasticity: Nourishing Strength in Difficulty 🆕
+●●○○○ Movement Research `workshop`
+`Contemporary Art`
+> A movement workshop led by Alexis Diggs exploring elasticity, resilience, and strength through embodied practice.
+[View event](https://movementresearch.org/workshops/3052/)
+
 ---
 
 ## Sunday, October 25
@@ -1810,6 +1277,23 @@ Total events: 495
 `Art & Technology` `Experimental Animation & Moving Image` `Contemporary Art`
 > Solo exhibition curated by Executive Care featuring work by Tyler Cala Williams, including pieces made with Blender, Photoshop, and found photographs,...
 [View event](https://participantinc.org/seasons/season-25/tyler-cala-williams-elastic-synapse)
+
+### Reading and Conversation: The Cavalier 🆕
+●●●●○ Wendy's Subway — 18:00 | free `reading`
+`Philosophy & Critical Theory`
+> French author Nathalie Quintane and translator Jonathan Larson give a bilingual reading from The Cavalier, followed by a conversation with writers Jus...
+
+### Tyler Cala Williams: Elastic Synapse (Final Days) 🆕
+●●●●○ Participant Inc `gallery`
+`Experimental Animation & Moving Image` `Art & Technology`
+> Exhibition by Tyler Cala Williams curated by Executive Care, featuring Blender/Photoshop digital collage works on memory; closes Oct 25, 2026.
+[View event](https://participantinc.org/seasons/season-25/tyler-cala-williams-elastic-synapse)
+
+### Walking Tour: The Architecture of Bryant Park 🆕
+●●●○○ Center for Architecture / AIA New York — 10:30–12:30 `walk`
+`Architecture & Urbanism` `Climate & Environment`
+> A walking tour of Bryant Park's architectural and landscape history.
+[View event](https://calendar.aiany.org/2026/10/25/walking-tour-the-architecture-of-bryant-park-18/)
 
 ### Next Wave 2026: Poetry Overnight at BAM 🆕
 ●●●○○ Brooklyn Academy of Music | varies `performance`
@@ -1850,11 +1334,44 @@ Total events: 495
 > Sérgio Toledo's 1986 Brazilian trans-history film, part of the Jenni Olson-curated series, with an introduction by Jenni Olson.
 [View event](https://metrograph.com/film/9999005058-vera/)
 
+### Seat at the Table 🆕
+●●●○○ Museum of the Moving Image — 17:30 | free `screening`
+`Film & Cinema` `Language & Culture`
+> A documentary chronicling the rise of South Asian Americans in U.S. politics, followed by a conversation with filmmakers and special guests.
+
+### In the Moment: World Poetry Duels and Improvisations 🆕
+●●●○○ Anthology Film Archives — 17:30 `performance`
+`Sound & Music` `Language & Culture`
+> Live program of improvised spoken-word 'poetry duels' presented at Anthology.
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62004)
+
+### Azul 🆕
+●●○○○ Anthology Film Archives — 19:30 `screening`
+`Film & Cinema`
+> Repertory screening, part of Anthology's revival programming.
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62006)
+
+### Def by Temptation 🆕
+●●○○○ Anthology Film Archives — 21:00 `screening`
+`Film & Cinema`
+> Screening of James Bond III's horror film Def by Temptation (1990).
+[View event](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62043)
+
 ### Light Industry Benefit Book Sale + Lush Themes from Motion Pictures: Film Music and Easy Listening, 1955-1975 🆕
 ●●○○○ Light Industry `other`
 `Experimental music, electronic music, sound art, noise, modular synth`
 > A public benefit book sale paired with a themed listening session on film-music and easy-listening recordings from 1955-1975.
 [View event](https://lightindustry.org/calendar/)
+
+### Clube do Choro with Regional Samauma 🆕
+●●○○○ Barbès — 15:30 `music`
+`World Music & Global Traditions`
+> Weekly Sunday choro jam session in Barbès' front room with a rotating cast of NY's finest Brazilian musicians.
+
+### Stephane Wrembel 🆕
+●●○○○ Barbès — 20:00 `music`
+`World Music & Global Traditions`
+> Barbès' resident Gypsy jazz master continues his weekly Sunday 'djangologie' set.
 
 ---
 
@@ -1922,9 +1439,25 @@ Total events: 495
 > Lydia Millet presents her new novel on family and midlife friendships, in conversation with Jenny Offill.
 [View event](https://mcnallyjackson.com)
 
+### The Womb & The Web 🆕
+●●○○○ La MaMa `performance`
+> A one-night performance at La MaMa, part of the venue's fall programming slate.
+
+### Nicole Linder + Jasmine Sanders 🆕
+●●○○○ The Poetry Project — 20:00 | $10 `reading`
+`Language & Culture`
+> A poetry reading pairing Nicole Linder and Jasmine Sanders.
+[View event](https://www.poetryproject.org/events/nicole-linder-jasmine-sanders)
+
 ---
 
 ## Tuesday, October 27
+
+### They Make You Write Your Poems: Artistic Practices Amid Automated Cognition 🆕
+●●●●● Onassis ONX `opening`
+`Art & Technology` `Philosophy & Critical Theory` `Neuroscience, AI & Cognitive Science` `Experimental Animation & Moving Image` `Contemporary Art`
+> An exhibition exploring the relationship between poetry and machines, accompanied by a panel discussion and a special screening; curated by Giulia Col...
+[View event](https://www.onx.studio/onx-programming/they-make-you-write-your-poems)
 
 ### The Library is Open 32: Shelter Cookbook 🆕
 ●●●●○ Columbia GSAPP — 12:30 `talk`
@@ -1960,6 +1493,23 @@ Total events: 495
 `Contemporary Art`
 > Interdisciplinary artist Nina Katchadourian discusses her eleven-year project making art during flights using only onboard materials.
 [View event](https://printedmatter.org)
+
+### The New Social Environment: Josiah McElheny — Instrument Object 🆕
+●●●○○ The Brooklyn Rail — 13:00 `talk`
+`Contemporary Art` `Science & Technology Studies / History of Science`
+> Artist Josiah McElheny and curator Robyn Farrell join poet Pamela Sneed for a Zoom conversation on the occasion of Instrument Object at The Kitchen.
+
+### Aaron Gilbert: Alex Katz Chair in Painting Artist Talk 🆕
+●●●○○ Cooper Union — 18:00 `talk`
+`Contemporary Art`
+> Painter Aaron Gilbert speaks as the current Alex Katz Chair in Painting at Cooper Union.
+[View event](https://cooper.edu/events-and-exhibitions/events/aaron-gilbert-alex-katz-chair-painting-artist-talk)
+
+### Public Art Fund Talks: Genesis Belanger 🆕
+●●●○○ Cooper Union — 18:30 `talk`
+`Contemporary Art`
+> Sculptor Genesis Belanger discusses her work as part of the Public Art Fund Talks series.
+[View event](https://cooper.edu/events-and-exhibitions/events/public-art-fund-talks-genesis-belanger)
 
 ### a [room] of our own 🆕
 ●●●○○ CultureHub `workshop`
@@ -2012,6 +1562,11 @@ Total events: 495
 > Interactive sound art pioneer Liz Phillips and painter/sculptor Heidi Howard celebrate Harvestworks' 50th anniversary, plus a conversation with e-flux...
 [View event](https://roulette.org/event/live-processing-paint-sound-liz-phillips-heidi-howard/)
 
+### Reading & Discussion Series: Josiah McElheny's Instrument Object (Session 2) 🆕
+●●●●○ The Kitchen — 18:00–20:00 | free `reading`
+`Philosophy & Critical Theory` `Sound & Music` `Contemporary Art`
+> Second session of The Kitchen's reading and discussion series accompanying Josiah McElheny: Instrument Object, exploring how art is in conversation wi...
+
 ### Joyce Joumaa: Provisional Recovery (Parsons Visiting Artist Lecture) 🆕
 ●●●○○ Vera List Center for Art and Politics — 19:00–20:30 | free `talk`
 `Contemporary Art` `Experimental Animation & Moving Image`
@@ -2042,6 +1597,11 @@ Total events: 495
 > Comedian/artist Julio Torres hosts a surreal, absurdist variety show full of speculative and fantastical bits, the third installment of The Cursed Amu...
 [View event](https://www.elsewhere.club/events/2002969188762)
 
+### The New Social Environment: Lauren Levato Coyne — Medusa's Bestiary 🆕
+●●●○○ The Brooklyn Rail — 13:00 `talk`
+`Contemporary Art` `Climate & Environment`
+> Artist Lauren Levato Coyne joins critic Chenoa Baker for a Zoom conversation on the occasion of Medusa's Bestiary: Embodiments & Ecologies.
+
 ### Dressing the Goddesses: Wardrobe Departments in the Silent Era 🆕
 ●●○○○ Bard Graduate Center — 18:00 | varies `talk`
 `Film & Cinema`
@@ -2065,6 +1625,17 @@ Total events: 495
 `Language & Culture`
 > NPR's Emily Feng discusses her reportage tracing Uyghurs who fled China's surveillance state only to end up in the Syrian Civil War, with the New York...
 [View event](https://asiasociety.org)
+
+### Annual Sake Tasting 🆕
+●●○○○ Japan Society `other`
+`Language & Culture`
+> Brooklyn Kura's Brandon Doughan and sake expert Timothy Sullivan open the evening with a talk on American craft sake and Japanese tradition, followed ...
+
+### Weakness and Strength; Five-Session Workshop with Benjamin Krusling 🆕
+●●○○○ The Poetry Project — 19:00–21:00 | $200 `workshop`
+`Language & Culture`
+> A five-session poetry workshop (running through Nov 25) led by poet Benjamin Krusling.
+[View event](https://www.poetryproject.org/events/weakness-and-strength-five-session-workshop-with-benjamin-krusling)
 
 ---
 
@@ -2170,6 +1741,11 @@ Total events: 495
 > Helen Deutsch delivers the Edward W. Said Memorial Lecture on Said's unfinished conversation with Jonathan Swift, at the Italian Academy.
 [View event](https://sof-heyman.columbia.edu/events)
 
+### The New Social Environment: Aesthetic Confessions — 10 Years of Magenta Plains 🆕
+●●○○○ The Brooklyn Rail — 13:00 `talk`
+`Contemporary Art`
+> Magenta Plains co-founders Olivia Smith, Chris Dorland, and David Deutsch join Andrew Woolbright for a Zoom conversation celebrating the gallery's 10t...
+
 ---
 
 ## Friday, October 30
@@ -2185,6 +1761,24 @@ Total events: 495
 `Experimental Animation & Moving Image` `Games & Interactive` `Sound & Music`
 > A duet of video game visuals, modular synth, guitar, and voice exploring the psycho-sexual inner world of a girl-child in the '80s.
 [View event](https://roulette.org/event/erika-m-anderson-ema-tabitha-nikolai/)
+
+### Unsound New York: Listening session: Jim O'Rourke and Eiko Ishibashi present 'Kotonski Reworked' 🆕
+●●●●○ Public Records — 17:30 `music`
+`Sound & Music` `Art & Technology`
+> A listening session presented by the experimental/avant-garde Unsound festival, featuring major experimental musicians Jim O'Rourke and Eiko Ishibashi...
+[View event](https://link.dice.fm/b6924d5d7e3f)
+
+### Baracutanga | South American Roots Experience (First Set) 🆕
+●●●●○ Terraza 7 — 19:00 `music`
+`World Music & Global Traditions`
+> Baracutanga performs a blend of cumbia, chicha, and Andean folk traditions drawing on South American roots music.
+[View event](https://www.terraza7.com/detalles-y-registro/baracutanga-south-american-roots-experience-first-set-2)
+
+### Baracutanga | South American Roots Experience (Second Set) 🆕
+●●●●○ Terraza 7 — 21:00 `music`
+`World Music & Global Traditions`
+> Second set of Baracutanga's South American roots program, blending cumbia, chicha, and Andean folk traditions.
+[View event](https://www.terraza7.com/detalles-y-registro/baracutanga-south-american-roots-experience-second-set-1)
 
 ### I Can Steal Your Mother — Illustrated Comedy 🆕
 ●●●○○ The Brick | $25 `performance`
@@ -2215,11 +1809,22 @@ Total events: 495
 > A gathering and discussion event bringing artists together at Abrons Arts Center to share practice and ideas.
 [View event](https://abronsartscenter.org/programs/Fall2025-artisttoartist)
 
+### Global Indigenous Theatre Festival 🆕
+●●●○○ La MaMa `festival`
+`Language & Culture`
+> A multi-day festival at La MaMa showcasing Indigenous theatre-makers and performance traditions from around the world; runs October 30 through Novembe...
+
 ### Machine Girl Halloween 🆕
 ●●○○○ Pioneer Works `performance`
 `Sound & Music`
 > A special Devil's Night performance from the electronic music duo.
 [View event](https://www.eventbrite.com/e/machine-girl-halloween-tickets-1992857867528)
+
+### NONFICTION BY ANY MEANS NECESSARY 🆕
+●●○○○ Maysles Documentary Center `screening`
+`Film & Cinema`
+> Documentary program "Nonfiction by Any Means Necessary" at Maysles Documentary Center.
+[View event](https://www.maysles.org/calendar/nonfiction-by-any-means-necessary)
 
 ### Nevermore [Goth Rave] Halloween Edition 🆕
 ●●○○○ DROM — 23:00 `music`
@@ -2299,6 +1904,11 @@ Total events: 495
 > Chantal Akerman's landmark 1976 structural-film essay News From Home, paired with G.W. "Billy" Bitzer's early actuality short, with an introduction by...
 [View event](https://metrograph.com/film/9999005065-news-from-home-interior-ny-subway-14th-street/)
 
+### After Hours Film School: Natalia Lassalle-Morillo 🆕
+●●●●○ Wendy's Subway — 14:00–16:30 | $25-75 sliding scale `workshop`
+`Film & Cinema` `Language & Culture`
+> A seminar-style workshop with filmmaker Natalia Lassalle-Morillo on the porous boundary between theater and film, centered on her multiyear project En...
+
 ### In Other Forms 🆕
 ●●●●○ Harvestworks `gallery`
 `Art & technology, generative art, creative coding, new media, interactive installation` `Art & Technology`
@@ -2341,17 +1951,44 @@ Total events: 495
 > Acclaimed Odissi and Cambodian classical dancers discuss gender as rooted in the vocabulary of dance.
 [View event](https://asiasociety.org/new-york)
 
+### Reading & Discussion Series: Josiah McElheny's Instrument Object (Session 3) 🆕
+●●●●○ The Kitchen — 18:00–20:00 | free `reading`
+`Philosophy & Critical Theory` `Sound & Music` `Contemporary Art`
+> Third and final session of the reading and discussion series for Josiah McElheny: Instrument Object, drawing on readings, images, videos, and recordin...
+
 ### Film Series | Filmclub Populaire 🆕
 ●●●○○ Swiss Institute — 19:00 `screening`
 `Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema`
 > A screening from the Filmclub Populaire film series.
 [View event](https://swissinstitute.net/programs/film-series-filmclub-populaire)
 
+### Listen to Your Earrings: Remaking Our Relationships with Native American Jewelry 🆕
+●●●○○ Bard Graduate Center — 18:00 `talk`
+`Science & Technology Studies / History of Science`
+> A lecture by Henrietta Lidchi (Ethnological Museum of Berlin and the Museum of Asian Art) on Native American jewelry and material culture, held at the...
+
+### AACM NYC: Celebrating 61 Years of Creative Music with JD Parran & Spirit Stage 3 // Adegoke Steve Colson and Iqua Colson 🆕
+●●●○○ Roulette — 20:00 | $25 `music`
+`Sound & Music`
+> One of the longest-standing musicians' associations in the United States celebrates 61 years of fostering creative music with performances by JD Parra...
+[View event](https://roulette.org/event/aacm-celebrating-61-years-of-creative-music/)
+
 ### Listen to Your Earrings: Remaking Ethnological Jewelry 🆕
 ●●○○○ Bard Graduate Center `talk`
 `Science & Technology Studies / History of Science`
 > A lecture by Henrietta Lidchi (Ethnological Museum of Berlin and the Museum of Asian Art) on remaking and reinterpreting ethnological jewelry.
 [View event](https://www.bgc.bard.edu/events/1642/04-nov-2026-listen-to)
+
+### Listen to Your Earrings: Remaking Our Relationships with Native American Jewelry 🆕
+●●○○○ Bard Graduate Center — 18:00 `talk`
+`Science & Technology Studies / History of Science`
+> A lecture by Henrietta Lidchi (Ethnological Museum of Berlin and the Museum of Asian Art) on rethinking relationships with Native American jewelry in ...
+
+### Gut Feelings: How Our Nervous and Immune Systems Communicate 🆕
+●●○○○ Simons Foundation — 18:00–19:00 | free `talk`
+`Neuroscience, AI & Cognitive Science`
+> Presidential Lecture by Daniel Mucida on the communication between the nervous and immune systems, including gut-brain signaling.
+[View event](https://www.simonsfoundation.org/events/gut-feelings-how-our-nervous-and-immune-systems-communicate/)
 
 ---
 
@@ -2373,6 +2010,11 @@ Total events: 495
 `World Music & Global Traditions` `Contemporary Art`
 > Bijayini Satpathy explores desire, transformation, and identity beyond binaries, drawing on the Mahabharata story of Brihannala.
 [View event](https://asiasociety.org/new-york)
+
+### A Radical Thread with Jeanne C. Finley and Lynne Sachs 🆕
+●●●●○ UnionDocs — 19:30 `screening`
+`Climate & Environment` `Contemporary Art` `Film & Cinema`
+> A documentary screening about a back-to-the-land community fighting corporate environmental devastation while collectively stitching an 83-foot tapest...
 
 ### We Keep Us Safe: The Whores Feast and Feeding — Red Canary Song 🆕
 ●●●○○ Creative Time — 18:00 | free `performance`
@@ -2402,6 +2044,18 @@ Total events: 495
 `Sound & Music`
 > Long-running experimental rock band Deerhoof performs in The Hall with Mercy and My Trio.
 [View event](https://www.elsewhere.club/events/1992954959934)
+
+### Salón Parcha Featuring Gabriel Garzón Montano, Music Director Ella Bric 🆕
+●●●○○ National Sawdust — 20:00 `music`
+`World Music & Global Traditions`
+> A collaborative series exploring boleros, boogaloo, and afrolatin rhythms, this edition features Gabriel Garzón Montano performing takes on classic an...
+[View event](https://www.nationalsawdust.org/event/salon-parcha-featuring-gabriel-garzon-montano-music-director-ella-bric)
+
+### Sahba Motallebi & Ensemble: Persian Music – An Evening of Solidarity and Harmony (RBA) 🆕
+●●●○○ Roulette — 20:00 | $35 `music`
+`World Music & Global Traditions`
+> "Queen of the Tar" Sahba Motallebi performs solo and with ensemble in an evening exploring the rich traditions of Persian music.
+[View event](https://roulette.org/event/sahba-motallebi-persian-rba/)
 
 ### Kyle Marshall Choreography: Bound 🆕
 ●●○○○ Danspace Project | varies `performance`
@@ -2465,6 +2119,11 @@ Total events: 495
 > Repertory run of Zhang Yimou's 1991 drama Raise the Red Lantern, starring Gong Li. Running November 6-19.
 [View event](https://filmforum.org/film/raise-the-red-lantern)
 
+### Everytime 🆕
+●●○○○ Film at Lincoln Center `screening`
+`Film & Cinema`
+> Sandra Wollner's NYFF64 film about a family drifting into suspended grief after a shocking accident; winner of the Cannes Un Certain Regard Prize and ...
+
 ---
 
 ## Saturday, November 7
@@ -2510,6 +2169,12 @@ Total events: 495
 > Acclaimed spiritual-jazz saxophonist Kamasi Washington performs in The Hall with Ami Taf Ra.
 [View event](https://www.elsewhere.club/events/2000207327962)
 
+### M3 Festival 2026: Terri Lyne Carrington, William Parker, Theo Bleckmann, Martha Redbone, and More 🆕
+●●●○○ Roulette — 19:00 `festival`
+`Sound & Music`
+> The 5th annual M3 festival celebrates some of the most innovative composer-performers in the jazz and creative music scene.
+[View event](https://roulette.org/event/m3-festival-2026/)
+
 ### Outline: Danny L. Harle, Yeule & More 🆕
 ●●○○○ Knockdown Center `music`
 `Sound & Music`
@@ -2524,6 +2189,11 @@ Total events: 495
 `Contemporary art (general)` `Experimental music, electronic music, sound art, noise, modular synth`
 > An exhibition by Josiah McElheny on view September 10 through November 8, exploring musical instruments as sculptural objects at the intersection of s...
 [View event](https://thekitchen.org/on-view/instrument-object/)
+
+### Improvisation, Archive and Homage Symposium (Day 2) 🆕
+●●●●○ The Kitchen — 14:00 `talk`
+`Sound & Music` `Contemporary Art`
+> Second day of the two-day symposium on improvisation, archive, and homage, part of Josiah McElheny: Instrument Object, with musicians and composers Cl...
 
 ### Farah Siraj 'Miel y Límon' 🆕
 ●●●○○ DROM `music`
@@ -2581,6 +2251,12 @@ Total events: 495
 > Opening of the multi-day DURATIONS Festival at Public Records, spanning experimental music, talks, and interdisciplinary programming through November ...
 [View event](https://link.dice.fm/B0381fb292fc)
 
+### ADULT. + A Place to Bury Strangers, Kill Alters 🆕
+●●●○○ Elsewhere — 19:00 `music`
+`Sound & Music`
+> Electro-industrial/noise pioneers ADULT. co-headline with noise-rock/shoegaze act A Place to Bury Strangers, plus experimental noise project Kill Alte...
+[View event](https://www.elsewhere.club/events/1989618769298)
+
 ---
 
 ## Tuesday, November 10
@@ -2608,6 +2284,12 @@ Total events: 495
 `Neuroscience, AI & Cognitive Science`
 > A panel on how India can use AI to expand opportunity while managing risks to workers, inequality, and democratic institutions.
 [View event](https://asiasociety.org/new-york)
+
+### Correspondences: de Appel 1975–2025 🆕
+●●●○○ Printed Matter `gallery`
+`Contemporary Art` `Philosophy & Critical Theory`
+> A program and archival display exploring 50 years of de Appel, the pioneering Amsterdam experimental art space.
+[View event](https://www.printedmatter.org/programs/events/2333)
 
 ---
 
@@ -2654,6 +2336,12 @@ Total events: 495
 `Film & Cinema`
 > New York premiere of a new China Film Archive restoration of Fei Mu's classic, often cited among the greatest Chinese films.
 [View event](https://asiasociety.org/new-york)
+
+### Opening Reception for YATTA: Iron + Palm Wine 🆕
+●●●○○ Recess — 18:00–21:00 `opening`
+`Contemporary Art` `World Music & Global Traditions`
+> Opening reception for YATTA's exhibition 'Iron + Palm Wine' at Recess, part of its Session program.
+[View event](https://www.recessart.org/events/614-opening-reception-for-yatta-iron-palm-wine)
 
 ### OPEN ROOM: Open Decks 🆕
 ●●○○○ Performance Space New York — 18:00 | free `music`
@@ -2740,6 +2428,12 @@ Total events: 495
 `Contemporary Art`
 > Trey Alam presents a new experimental performance work at JACK, part of the fall 2026 season, running November 12-15.
 [View event](https://www.jackny.org/treyalam-alivingaltar)
+
+### LPR Presents: Diles Que No Me Maten with Support from Military Genius 🆕
+●●●○○ National Sawdust — 20:00 `music`
+`Sound & Music`
+> Mexico City five-piece Diles Que No Me Maten draws on jam-based, krautrock philosophy to craft wiry experimental art rock spiked with bluesy balladry ...
+[View event](https://www.nationalsawdust.org/event/lpr-presents-diles-que-no-me-maten)
 
 ### Gallery Tour: Goddesses in the Machine 🆕
 ●●○○○ Bard Graduate Center `tour`
@@ -2865,6 +2559,12 @@ Total events: 495
 ---
 
 ## Sunday, November 15
+
+### DURATIONS: New People's Cinema Club x Unsound New York present River Of Fundament: In Conversation with Matthew Barney & Jonathan Bepler, moderated by Andy Battaglia 🆕
+●●●●● Public Records — 14:00 `talk`
+`Experimental Animation & Moving Image` `Film & Cinema` `Contemporary Art`
+> A DURATIONS talk on Matthew Barney's experimental film 'River of Fundament,' in conversation with Barney and composer Jonathan Bepler, moderated by cr...
+[View event](https://link.dice.fm/P8e63c7436b6)
 
 ### DURATIONS: Kara-Lis Coverdale, Molina, Pavel Milyakov 🆕
 ●●●●○ Public Records — 18:00 `music`
@@ -3027,6 +2727,12 @@ Total events: 495
 
 ## Friday, November 20
 
+### A Universe of Grief 🆕
+●●●●○ Simons Foundation — 18:00–20:00 `talk`
+`Philosophy & Critical Theory` `Neuroscience, AI & Cognitive Science` `Contemporary Art`
+> An 'In Conversation' public program with Amy Secunda, Ain Gordon, Neha Shastry, and John Tracey, exploring grief through the lenses of science, theate...
+[View event](https://www.simonsfoundation.org/events/a-universe-of-grief/)
+
 ### Mine to Keep 🆕
 ●●●○○ JACK `performance`
 `Contemporary Art`
@@ -3038,5 +2744,51 @@ Total events: 495
 `Film & Cinema`
 > Andrey Zvyagintsev's Cannes Grand Prix-winning tale of personal and governmental corruption. NYFF64 Main Slate, with director Q&As at 3:00pm and 6:30p...
 [View event](https://filmlinc.org)
+
+### Rossellini 120 🆕
+●●○○○ Film Forum | $12 members / $18 general `festival`
+`Film & Cinema`
+> Retrospective marking the 120th anniversary of Roberto Rossellini's birth, running Nov 20–Dec 10.
+[View event](https://filmforum.org/series/rossellini)
+
+---
+
+## Sunday, November 22
+
+### MoMI Merch Meet 🆕
+●●●●○ Museum of the Moving Image `other`
+`Experimental Animation & Moving Image`
+> MoMI's first artisan market featuring local makers of art, apparel, toys, zines, comics, and housewares inspired by the moving image.
+
+---
+
+## Friday, November 27
+
+### A View From the Bridge 🆕
+●●○○○ La MaMa `performance`
+> Arthur Miller's classic drama comes to La MaMa, announced as a future production.
+[View event](https://viewfromthebridgeplay.com/)
+
+---
+
+## Sunday, November 29
+
+### New Openings Against Old Surfaces: On Gordon Matta-Clark's Walls Paper 🆕
+●●●●○ Printed Matter `gallery`
+`Contemporary art (general)` `Architecture & urbanism`
+> An exhibition examining Gordon Matta-Clark's Walls Paper work, on view September 9 through November 29; Matta-Clark's site-specific building intervent...
+[View event](https://www.printedmatter.org/programs/events/2276)
+
+### Gordon Matta-Clark — Contemporary Commissions 🆕
+●●●●○ Printed Matter `gallery`
+`Contemporary art (general)` `Architecture & urbanism`
+> A new project from artist Jessica Vaughn responding to Gordon Matta-Clark's legacy, on view September 9 through November 29.
+[View event](https://www.printedmatter.org/programs/events/2280)
+
+### Matthew Lutz Kinoy: The Mud Room — Itinerant Artists, Folk Spectacles, and Painted Walls (through Nov 29) 🆕
+●●○○○ Amant | free `gallery`
+`Contemporary Art`
+> Exhibition by Matthew Lutz Kinoy at Amant centered on itinerant artists, folk spectacles, and painted walls; free.
+[View event](https://www.amant.org/exhibitions/393-the-mud-room-itinerant-artists-folk-spectacles-and-painted-walls)
 
 ---

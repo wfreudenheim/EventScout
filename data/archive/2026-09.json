@@ -369,6 +369,28 @@
     "discovered_at": "2026-10-04T07:18:41.353Z"
   },
   {
+    "id": "pioneer-works-2026-09-12-lajun-mcmillian-child-ren-of-the-bloom",
+    "title": "LaJuné McMillian: Child/ren of the Bloom",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-09-12",
+    "description": "An interactive, multidisciplinary installation at Pioneer Works exploring the threshold between land and sea and the body's return to its origins, developed from McMillian's OceanX Education artist residency research on phytoplankton, algal blooms, and bioluminescence. On view through December 20, 2026.",
+    "url": "https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-18T07:23:21.032Z"
+  },
+  {
     "id": "issue-project-room-2026-09-12-no-neck-blues-band",
     "title": "No-Neck Blues Band",
     "venue_id": "issue-project-room",

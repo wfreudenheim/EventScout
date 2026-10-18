@@ -906,6 +906,24 @@
     "discovered_at": "2026-09-30T07:14:16.930Z"
   },
   {
+    "id": "bitforms-2026-10-02-dear-data",
+    "title": "Dear Data",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-10-02",
+    "description": "Group exhibition by Amor Muñoz, Claudia Hart, and Maya Man, on view through December 13, 2026, with an opening reception held October 2.",
+    "url": "https://www.bitforms.art/exhibition/dear-data",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-18T07:23:21.018Z"
+  },
+  {
     "id": "whitney-2026-10-02-exhibition-tour-whitney-biennial-2026",
     "title": "Exhibition Tour: Whitney Biennial 2026",
     "venue_id": "whitney",
@@ -7568,6 +7586,24 @@
     "source_agent": "aggregator:inbox",
     "status": "archived",
     "discovered_at": "2026-10-11T07:25:38.667Z"
+  },
+  {
+    "id": "onassis-onx-2026-10-12-3etv-on-somerset-house-studios",
+    "title": "3ETV on Somerset House Studios",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-10-12",
+    "description": "A bespoke 9-channel online TV station curated by Somerset House Studios in collaboration with HEK, M+, Onassis ONX, and Pioneer Works, broadcasting online October 12 through December 18, 2026.",
+    "url": "https://www.onx.studio/onx-programming/3etv",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-18T07:19:45.259Z"
   },
   {
     "id": "whitney-2026-10-12-a-closer-look-guided-close-looking-throu",
