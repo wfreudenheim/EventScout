@@ -10384,5 +10384,77 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-18T07:27:50.589Z"
+  },
+  {
+    "id": "index-space-2026-10-22-look-feel-exploring-the-relationship-bet",
+    "title": "Look & Feel: Exploring the Relationship Between Sound and Design",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-10-22",
+    "description": "A public program at Index Greenpoint, hosted by Rahmi Halaby, examining how sound and design inform one another.",
+    "url": "https://www.index-space.org/programming/look-feel-exploring-the-relationship-between-sound-and-design-evt-iVtNFmberU8VSV7?view=list",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:29:12.119Z"
+  },
+  {
+    "id": "movement-research-2026-10-19-movement-research-at-the-judson-church-o",
+    "title": "Movement Research at the Judson Church | Oct 19, 2026",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-10-19",
+    "description": "An evening of new dance works in Movement Research's long-running series at Judson Church, featuring Brendan Drake, Kar'mel Antonyo Wade Small, and Emilio Wettlaufer.",
+    "url": "https://movementresearch.org/events/1470/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:29:12.139Z"
+  },
+  {
+    "id": "movement-research-2026-10-20-open-performance-oct-20-2026",
+    "title": "Open Performance | Oct 20, 2026",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-10-20",
+    "description": "Movement Research's Open Performance platform, where dance and movement artists share works-in-progress with the public.",
+    "url": "https://movementresearch.org/events/1453/",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:29:12.140Z"
+  },
+  {
+    "id": "movement-research-2026-10-24-elasticity-nourishing-strength-in-diffic",
+    "title": "Elasticity: Nourishing Strength in Difficulty",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-10-24",
+    "description": "A movement workshop led by Alexis Diggs exploring elasticity, resilience, and strength through embodied practice.",
+    "url": "https://movementresearch.org/workshops/3052/",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:29:12.140Z"
   }
 ]
