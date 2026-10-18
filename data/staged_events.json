@@ -9600,5 +9600,45 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-18T07:19:45.259Z"
+  },
+  {
+    "id": "filmmakers-coop-2026-10-24-spells",
+    "title": "SPELLS",
+    "venue_id": "filmmakers-coop",
+    "venue_name": "Film-Makers' Cooperative",
+    "date": "2026-10-24",
+    "time_start": "19:00",
+    "description": "Longtime FMC filmmaker-member Devon Narine-Singh presents SPELLS, the first in a new series of guest-curated film programs at The Film-Makers' Cooperative.",
+    "url": "https://film-makerscoop.com/screenings/spells",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:20:23.493Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-30-nonfiction-by-any-means-necessary",
+    "title": "NONFICTION BY ANY MEANS NECESSARY",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-30",
+    "description": "Documentary program \"Nonfiction by Any Means Necessary\" at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/nonfiction-by-any-means-necessary",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:20:23.514Z"
   }
 ]
