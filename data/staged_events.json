@@ -9973,5 +9973,334 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-18T07:24:27.388Z"
+  },
+  {
+    "id": "roulette-2026-10-20-contemporaneous-recap-and-mantra-percuss",
+    "title": "Contemporaneous, RECAP, and Mantra Percussion Present: Seeing in the Dark",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-10-20",
+    "time_start": "20:00",
+    "description": "Contemporaneous, Recap, and Mantra Percussion perform three transformative works by Brendon Randall-Myers, Lila Meretzky, and Paul Pinto, offering different ways to light a path through darkness.",
+    "url": "https://roulette.org/event/contemporaneous-mantra-percussion-recap-percussion-seeing-in-the-dark/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.185Z"
+  },
+  {
+    "id": "roulette-2026-11-04-aacm-nyc-celebrating-61-years-of-creativ",
+    "title": "AACM NYC: Celebrating 61 Years of Creative Music with JD Parran & Spirit Stage 3 // Adegoke Steve Colson and Iqua Colson",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-04",
+    "time_start": "20:00",
+    "description": "One of the longest-standing musicians' associations in the United States celebrates 61 years of fostering creative music with performances by JD Parran and Adegoke Steve Colson & Iqua Colson.",
+    "url": "https://roulette.org/event/aacm-celebrating-61-years-of-creative-music/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.186Z"
+  },
+  {
+    "id": "roulette-2026-11-05-sahba-motallebi-ensemble-persian-music-a",
+    "title": "Sahba Motallebi & Ensemble: Persian Music – An Evening of Solidarity and Harmony (RBA)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-05",
+    "time_start": "20:00",
+    "description": "\"Queen of the Tar\" Sahba Motallebi performs solo and with ensemble in an evening exploring the rich traditions of Persian music.",
+    "url": "https://roulette.org/event/sahba-motallebi-persian-rba/",
+    "price": "$35",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.189Z"
+  },
+  {
+    "id": "roulette-2026-11-07-m3-festival-2026-terri-lyne-carrington-w",
+    "title": "M3 Festival 2026: Terri Lyne Carrington, William Parker, Theo Bleckmann, Martha Redbone, and More",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-07",
+    "time_start": "19:00",
+    "description": "The 5th annual M3 festival celebrates some of the most innovative composer-performers in the jazz and creative music scene.",
+    "url": "https://roulette.org/event/m3-festival-2026/",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.189Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-19-social-science-architecture-a-decade-of-",
+    "title": "Social Science & Architecture: A Decade of Impact & Future Directions",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-19",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A panel reflecting on a decade of integrating social science research into architectural practice and discussing future directions for the field.",
+    "url": "https://calendar.aiany.org/2026/10/19/social-science-architecture-a-decade-of-impact-future-directions/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.219Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-20-k-yah-a-din-responsibility-to-the-land",
+    "title": "Kéyah: A Diné Responsibility to the Land",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-20",
+    "time_start": "13:00",
+    "time_end": "14:00",
+    "description": "A conversation with Victor Pascual, Design Professional at DSGW Architecture, moderated by Anna Martin, on Diné (Navajo) land ethics and architecture's responsibility to the land.",
+    "url": "https://calendar.aiany.org/2026/10/20/k%c3%a9yah-a-din%c3%a9-responsibility-to-the-land/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.219Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-22-green-urbanism-gu-10th-edition",
+    "title": "Green Urbanism (GU) - 10th Edition",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-22",
+    "description": "The 10th edition of the Green Urbanism conference, convening experts on sustainable and climate-resilient city design.",
+    "url": "https://calendar.aiany.org/2026/10/22/green-urbanism-gu-10th-edition/",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.220Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-23-screening-of-gateways-to-new-york-othmar",
+    "title": "Screening of Gateways to New York: Othmar H. Ammann and His Bridges",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-23",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A screening of a documentary film on engineer Othmar H. Ammann and his iconic New York bridges, part of the Archtober x Data Vandals newsstand takeover.",
+    "url": "https://calendar.aiany.org/2026/10/23/screening-of-gateways-to-new-york-othmar-h-ammann-and-his-bridges/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Architecture & Urbanism",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.220Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-24-founders-architecture-talk-creative-visi",
+    "title": "Founders Architecture Talk: Creative Visions Inspired by the Landscape",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-24",
+    "description": "A talk exploring how landscape informs creative architectural vision.",
+    "url": "https://calendar.aiany.org/2026/10/24/founders-architecture-talk-creative-visions-inspired-by-the-landscape/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.221Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-25-walking-tour-the-architecture-of-bryant-",
+    "title": "Walking Tour: The Architecture of Bryant Park",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-25",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A walking tour of Bryant Park's architectural and landscape history.",
+    "url": "https://calendar.aiany.org/2026/10/25/walking-tour-the-architecture-of-bryant-park-18/",
+    "format": "walk",
+    "interest_score": 3.1,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.221Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-21-exhibit-opening-change-preservation",
+    "title": "Exhibit Opening – Change Preservation",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-21",
+    "description": "Opening of an exhibition examining preservation practice amid changing cities.",
+    "url": "https://calendar.aiany.org/2026/10/21/exhibit-opening-change-preservation/",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [
+      "preservation"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.220Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-24-walking-tour-historic-buildings-and-new-",
+    "title": "Walking Tour: Historic Buildings and New Interventions in SoHo",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-24",
+    "time_start": "11:00",
+    "time_end": "13:00",
+    "description": "A walking tour exploring SoHo's historic cast-iron architecture alongside new architectural interventions.",
+    "url": "https://calendar.aiany.org/2026/10/24/walking-tour-historic-buildings-and-new-interventions-in-soho-30/",
+    "format": "walk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.221Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-24-building-of-the-day-marcus-garvey-villag",
+    "title": "Building of the Day: Marcus Garvey Village and Extension",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-24",
+    "time_start": "13:00",
+    "time_end": "15:00",
+    "description": "A guided tour of Marcus Garvey Village and Extension, a notable modernist low-rise housing development in Brooklyn.",
+    "url": "https://calendar.aiany.org/2026/10/24/building-of-the-day-marcus-garvey-village-and-extension/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [
+      "housing"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.221Z"
+  },
+  {
+    "id": "cooper-union-2026-10-27-aaron-gilbert-alex-katz-chair-in-paintin",
+    "title": "Aaron Gilbert: Alex Katz Chair in Painting Artist Talk",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-27",
+    "time_start": "18:00",
+    "description": "Painter Aaron Gilbert speaks as the current Alex Katz Chair in Painting at Cooper Union.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/aaron-gilbert-alex-katz-chair-painting-artist-talk",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "painting",
+      "artist-talk"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.240Z"
+  },
+  {
+    "id": "cooper-union-2026-10-27-public-art-fund-talks-genesis-belanger",
+    "title": "Public Art Fund Talks: Genesis Belanger",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-27",
+    "time_start": "18:30",
+    "description": "Sculptor Genesis Belanger discusses her work as part of the Public Art Fund Talks series.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/public-art-fund-talks-genesis-belanger",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.241Z"
+  },
+  {
+    "id": "printed-matter-2026-11-10-correspondences-de-appel-1975-2025",
+    "title": "Correspondences: de Appel 1975–2025",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-10",
+    "description": "A program and archival display exploring 50 years of de Appel, the pioneering Amsterdam experimental art space.",
+    "url": "https://www.printedmatter.org/programs/events/2333",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:25:19.264Z"
   }
 ]
