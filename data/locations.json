@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:25:11.231Z"
+    "last_checked": "2026-10-18T07:19:00.308Z"
   },
   {
     "id": "the-new-school",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:25:11.277Z"
+    "last_checked": "2026-10-18T07:19:00.322Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2132,7 +2132,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:25:46.058Z"
+    "last_checked": "2026-10-18T07:19:00.332Z"
   },
   {
     "id": "prismatic-ground",

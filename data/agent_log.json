@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "vera-list-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:42.522Z",
-    "completed_at": "2026-09-27T07:18:42.522Z",
-    "events_found": 10,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "mono-no-aware",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:42.528Z",
-    "completed_at": "2026-09-27T07:18:42.528Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "rockaway-film-festival",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:18:46.898Z",
-    "completed_at": "2026-09-27T07:18:46.898Z",
-    "events_found": 4,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "aaww",
     "scrape_tier_used": 3,
     "started_at": "2026-09-27T07:18:46.907Z",
@@ -4997,6 +4967,36 @@
     "completed_at": "2026-10-18T07:18:05.034Z",
     "events_found": 1,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyu-itp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:00.310Z",
+    "completed_at": "2026-10-18T07:19:00.310Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "mono-no-aware",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:00.324Z",
+    "completed_at": "2026-10-18T07:19:00.324Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "rockaway-film-festival",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-18T07:19:00.333Z",
+    "completed_at": "2026-10-18T07:19:00.333Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]
