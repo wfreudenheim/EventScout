@@ -31,7 +31,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:18:04.702Z",
+    "last_checked": "2026-10-18T07:23:21.045Z",
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
     "generated_scraper": null
@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:28:38.471Z"
+    "last_checked": "2026-10-18T07:23:20.962Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:28:38.487Z"
+    "last_checked": "2026-10-18T07:23:20.974Z"
   },
   {
     "id": "roulette",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:17:50.069Z"
+    "last_checked": "2026-10-18T07:23:20.984Z"
   },
   {
     "id": "artists-space",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:28:38.504Z"
+    "last_checked": "2026-10-18T07:23:20.995Z"
   },
   {
     "id": "union-docs",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-23T07:18:51.669Z"
+    "last_checked": "2026-10-18T07:23:21.013Z"
   },
   {
     "id": "center-for-architecture",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:28:38.515Z"
+    "last_checked": "2026-10-18T07:23:21.028Z"
   },
   {
     "id": "microscope-gallery",

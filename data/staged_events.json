@@ -9640,5 +9640,276 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-18T07:20:23.514Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-25-in-the-moment-world-poetry-duels-and-imp",
+    "title": "In the Moment: World Poetry Duels and Improvisations",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-25",
+    "time_start": "17:30",
+    "description": "Live program of improvised spoken-word 'poetry duels' presented at Anthology.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62004",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.938Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-18-ec-old-and-new",
+    "title": "EC: Old and New",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-18",
+    "time_start": "16:45",
+    "description": "Screening of Sergei Eisenstein's Old and New (1929), presented as part of Anthology's Essential Cinema series of foundational avant-garde and silent films.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61917",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.934Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-23-the-toxic-avenger",
+    "title": "The Toxic Avenger",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-23",
+    "time_start": "19:30",
+    "description": "Screening of Troma Entertainment's cult horror-comedy The Toxic Avenger (1984), part of a Troma retrospective.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62028",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.937Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-24-the-battle-of-love-s-return",
+    "title": "The Battle of Love's Return",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-24",
+    "time_start": "16:45",
+    "description": "Repertory screening, part of Anthology's ongoing revival programming.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62031",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.937Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-24-waitress-",
+    "title": "Waitress!",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-24",
+    "time_start": "19:00",
+    "description": "Repertory screening of the cult comedy Waitress! (1981).",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62033",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.937Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-24-outrider",
+    "title": "Outrider",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-24",
+    "time_start": "20:30",
+    "description": "Repertory screening, part of Anthology's revival programming.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62002",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.938Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-24-class-of-nuke-em-high",
+    "title": "Class of Nuke 'Em High",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-24",
+    "time_start": "21:30",
+    "description": "Screening of Troma's cult sci-fi horror-comedy Class of Nuke 'Em High (1986).",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62035",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.938Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-25-azul",
+    "title": "Azul",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-25",
+    "time_start": "19:30",
+    "description": "Repertory screening, part of Anthology's revival programming.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62006",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.938Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-25-def-by-temptation",
+    "title": "Def by Temptation",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-25",
+    "time_start": "21:00",
+    "description": "Screening of James Bond III's horror film Def by Temptation (1990).",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62043",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:20.939Z"
+  },
+  {
+    "id": "simons-foundation-2026-11-20-a-universe-of-grief",
+    "title": "A Universe of Grief",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-11-20",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "An 'In Conversation' public program with Amy Secunda, Ain Gordon, Neha Shastry, and John Tracey, exploring grief through the lenses of science, theater, and culture.",
+    "url": "https://www.simonsfoundation.org/events/a-universe-of-grief/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Neuroscience, AI & Cognitive Science",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:21.003Z"
+  },
+  {
+    "id": "simons-foundation-2026-11-04-gut-feelings-how-our-nervous-and-immune-",
+    "title": "Gut Feelings: How Our Nervous and Immune Systems Communicate",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-11-04",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "description": "Presidential Lecture by Daniel Mucida on the communication between the nervous and immune systems, including gut-brain signaling.",
+    "url": "https://www.simonsfoundation.org/events/gut-feelings-how-our-nervous-and-immune-systems-communicate/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:21.003Z"
+  },
+  {
+    "id": "bitforms-2026-10-02-dear-data",
+    "title": "Dear Data",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-10-02",
+    "description": "Group exhibition by Amor Muñoz, Claudia Hart, and Maya Man, on view through December 13, 2026, with an opening reception held October 2.",
+    "url": "https://www.bitforms.art/exhibition/dear-data",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:21.018Z"
+  },
+  {
+    "id": "pioneer-works-2026-09-12-lajun-mcmillian-child-ren-of-the-bloom",
+    "title": "LaJuné McMillian: Child/ren of the Bloom",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-09-12",
+    "description": "An interactive, multidisciplinary installation at Pioneer Works exploring the threshold between land and sea and the body's return to its origins, developed from McMillian's OceanX Education artist residency research on phytoplankton, algal blooms, and bioluminescence. On view through December 20, 2026.",
+    "url": "https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-18T07:23:21.032Z"
   }
 ]
