@@ -1,6 +1,6 @@
 VENUE:aaww | Asian American Writers' Workshop
 URL:https://aaww.org/
-FETCHED:2026-10-14T06:54:34.858Z
+FETCHED:2026-10-18T06:49:16.383Z
 
 ASIAN
 AMERICAN WRITERS'
@@ -124,13 +124,6 @@ Poetry [/category/poetry-2/]Fiction [/category/fiction-2/]Essays [/category/essa
 
 MUST READ
 
-Poetry
-[https://aaww.org/four-poems-by-jess-x-snow/]
-By Jess X. Snow [https://aaww.org/postauthor/jess-x-snow/]
-Four Poems by Jess X. Snow [https://aaww.org/four-poems-by-jess-x-snow/]
-
-There are some stories / too sacred to be retold
-
 Fiction
 [https://aaww.org/off-flight-entertainment/]
 By Jun Chou [https://aaww.org/postauthor/jun-chou/]
@@ -144,6 +137,13 @@ By Chen Poyu [https://aaww.org/postauthor/chen-poyu/]
 研究雨 | Rain Studies [https://aaww.org/rain-studies/]
 
 你只能等待雨 | You can only wait for the rain
+
+Poetry
+[https://aaww.org/four-poems-by-jess-x-snow/]
+By Jess X. Snow [https://aaww.org/postauthor/jess-x-snow/]
+Four Poems by Jess X. Snow [https://aaww.org/four-poems-by-jess-x-snow/]
+
+There are some stories / too sacred to be retold
 
 /project/poetry-tuesday
 Poetry

@@ -1,6 +1,6 @@
 VENUE:nyu-game-center | NYU Game Center
 URL:https://gamecenter.nyu.edu/
-FETCHED:2026-10-14T06:54:38.585Z
+FETCHED:2026-10-18T06:49:18.956Z
 
 Skip to main content
 
@@ -34,11 +34,17 @@ Search
 https://gamecenter.nyu.edu/
 
 Search
-news
+event
 
-NY GAMES WEEK SPECIAL EDITION OF PLAYTEST THURSDAY!
+NYU GAME CENTER LECTURE SERIES PRESENTS WARREN SPECTOR
 
-Playtest Thursday: NY Games Week Special Edition In Partnership with NY/NJ GameMaker Community! Join NYU Game Center’s Playtest Thursday to play work-in-progress games, share feedback, and advance NYC’s game design community. Players, designers, and enthusiasts of all experience levels are welcome to play or bring prototypes and early-stage ideas. Test games by students, faculty, and... Read More [https://gamecenter.nyu.edu/ny-games-week-special-edition-of-playtest-thursday/]
+DEUS EX VS MICKEY MOUSE: How I learned to stop worrying and love working with IP Using two of his videogame titles – Deus Ex and Epic Mickey – as case studies, Warren will take a close look at how working with an existing intellectual property like Mickey Mouse is similar to and different from... Read More [https://gamecenter.nyu.edu/event/nyu-game-center-lecture-series-presents-warren-spector/]
+
+event
+
+JAMKADIUM 2026: CASUAL GAME JAM COMPETITION
+
+Arkadium and the NYU Game Center have partnered to host JAMKADIUM Casual Game Jam Competition, a hybrid 48-hour game ...Read More [https://gamecenter.nyu.edu/event/jamkadium-2026-casual-game-jam-competition/]
 
 event
 
@@ -93,12 +99,6 @@ news
 CONGRATS TO THESE A MAZE. 2026 NOMINEES FROM THE NYU GAME CENTER!
 
 Congratulations to the following teams for being nominated in the 2026 A MAZE. Awards! Some info from the A ...Read More [https://gamecenter.nyu.edu/congrats-to-these-a-maze-2026-nominees-from-the-nyu-game-center/]
-
-event
-
-NO QUARTER 2025
-
-No Quarter is an annual playable exhibition where four newly commissioned works from leading artists working across games are ...Read More [https://gamecenter.nyu.edu/event/no-quarter-2025/]
 
 news
 

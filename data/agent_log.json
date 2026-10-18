@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "nyas",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-23T07:23:31.930Z",
-    "completed_at": "2026-09-23T07:23:31.930Z",
-    "events_found": 4,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "bard-graduate-center",
     "scrape_tier_used": 3,
     "started_at": "2026-09-23T07:23:31.948Z",
@@ -4997,6 +4987,16 @@
     "completed_at": "2026-10-14T07:42:04.057Z",
     "events_found": 11,
     "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-10-18T06:49:13.533Z",
+    "completed_at": "2026-10-18T06:49:13.533Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]

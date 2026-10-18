@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-10-14T06:54:50.338Z
+FETCHED:2026-10-18T06:49:27.207Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,27 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP10.14.2026
+TODAY’SLINEUP10.18.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+SUMMER SCHOOL RADIO WITH LOVIE AND CLUB CARTER RADIO
+
+Club Carter Radio, Lovie
+
+10.13.2026
+
+Jazz
+
+ * Play
+ * Detail [/shows/summer-school-radio/2026-10-13-1000]
+ *
+
+/shows/summer-school-radio/2026-10-13-1000
 
 DERRICK GEE
 
@@ -106,62 +120,48 @@ House, Techno
 
 /shows/special-guests/2026-10-09-1200
 
-KIA
-
-Kia
-
-10.08.2026
-
-Electronica, Downtempo, Trip Hop, IDM
-
- * Play
- * Detail [/shows/special-guests/2026-10-08-1300]
- *
-
-/shows/special-guests/2026-10-08-1300
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * Kiernan Laveaux
+ * Andrew Devlin
    R
-   [/artists/kiernan-laveaux]
- * Yibing
+   [/artists/andrew-devlin]
+ * threehz
    R
-   [/artists/yibing]
- * Sticky Dojah
+   [/artists/threehz]
+ * DJ Tara
    R
-   [/artists/sticky-dojah]
- * Hisham Akira Bharoocha
+   [/artists/tara]
+ * Donis
    R
-   [/artists/hisham-akira-bharoocha]
- * Ron Like Hell
+   [/artists/donis]
+ * Toribio
    R
-   [/artists/ron-like-hell]
- * 8ULENTINA
+   [/artists/toribio]
+ * Clay Wilson
    R
-   [/artists/8ulentina]
- * Millz 'El Negro Mezclador'
+   [/artists/clay-wilson]
+ * Duneska
    R
-   [/artists/millz-el-negro-mezclador]
- * SPRKLBB
+   [/artists/duneska]
+ * Queen Majesty
    R
-   [/artists/sprklbb]
- * S.Maria
+   [/artists/queen-majesty]
+ * Lovie
    R
-   [/artists/s-maria]
- * Abby Echiverri
+   [/artists/lovie]
+ * Justin Strauss
    R
-   [/artists/abby-echiverri]
- * William Robbins
+   [/artists/justin-strauss]
+ * Brian DeGraw
    R
-   [/artists/william-robbins]
- * Styles Upon Styles
+   [/artists/brian-degraw]
+ * Jeff Mendoza
    R
-   [/artists/styles-upon-styles]
+   [/artists/jeff-mendoza]
 
 WE ARE THE LOT RADIO
 
@@ -171,37 +171,34 @@ Expect a continuous stream of the best and most varied music New York City has t
 
 About us [/about]
 
+ * 12am — 10am
+   RESTREAM
+
  * 10am — 12pm
-   Restream
+   Lise & Vito
 
- * 12pm — 1pm
-   Rhythm and Mood with Galcher Lustwerk
-
- * 1pm — 3pm
-   Pique-nique A.M. with Domenica
-   Jazz, House, Hip Hop, Afrobeat, Dub
- * 3pm — 4pm
-   That Good Sh*t Radio with Chlothegod and Mercury
-
- * 4pm — 5pm
-   Lorien Well
-
+ * 12pm — 2pm
+   Darker Than Wax FM invites PLAYR1
+   Soul, Electronica, House, Boogie
+ * 2pm — 3pm
+   Dr. Rubinstein b2b Supergloss
+   Acid, Trance
+ * 3pm — 5pm
+   Weird Science in the Orbit
+   Ambient, Dub, Synthpop
  * 5pm — 6pm
-   The Leaks with Alphonse
-
+   Warm Welcome with Special Guest Kyle Savage
+   Electronica, Post Punk
  * 6pm — 7pm
-   the x3butterfly effect
+   Louis Marlo
+   IDM, Downtempo, Techno, Experimental Electronic, Industrial
+ * 8pm — 10pm
+   Black Rave Culture
 
- * 7pm — 8pm
-   Divaa, Where's my Purse? with Kilopatrah Jones
-
- * 8pm — 9pm
-   8ULENTINA invites Donia L Jelly
-
- * 9pm — 10pm
-   Palto Flats
-
- * 10pm — 12am
-   Nice Additions with Alien D
+ * 10pm — 11pm
+   DANGEROUS: DANIRO
+   Experimental Electronic, Techno, Drill, Alternative Club, Experimental
+ * 11pm — 12am
+   Zozo
 
 THE LOT RADIO

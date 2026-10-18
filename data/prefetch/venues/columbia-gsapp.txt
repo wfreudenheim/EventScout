@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-10-14T06:54:47.604Z
+FETCHED:2026-10-18T06:49:24.203Z
 
 /
  * The School
@@ -850,42 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=6&month=10&time_range=week&year=2026 /events?day=22&month=10&time_range=week&year=2026
-Oct 14 – Oct 21
+/events?day=10&month=10&time_range=week&year=2026 /events?day=26&month=10&time_range=week&year=2026
+Oct 18 – Oct 25
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Thu, Oct 15    1pm
-
-MSRED Lecture: Daniel Carr, Alpaca Real Estate
-
-Lecture
-
-New York
-
-[/events/4297-msred-lecture-daniel-carr-alpaca-real-estate]
-
-Thu, Oct 15    5pm
-
-Alumni Connections in San Francisco
-
-Alumni
-
-San Francisco
-
-[/events/4290-alumni-connections-in-san-francisco]
-
-Fri, Oct 16    2pm
-
-At the Edge of Where God Built
-
-Discussion
-
-[/events/4272-at-the-edge-of-where-god-built]
 
 Mon, Oct 19    12pm
 
@@ -920,3 +892,31 @@ Francois Chatillon
 Preservation Lecture Series
 
 [/events/4353-francois-chatillon]
+
+Thu, Oct 22    12pm
+
+GSAPP Admissions at Florida International University Grad Fair
+
+[/events/4358-gsapp-admissions-at-florida-international-university-grad-fair]
+
+Thu, Oct 22    1pm
+
+MSRED Lecture: Cher Yao, Hines
+
+Lecture
+
+New York
+
+[/events/4298-msred-lecture-cher-yao-hines]
+
+Sat, Oct 24    10am
+
+GSAPP Admissions at Architecture and Design Fair New York City
+
+[/events/4361-gsapp-admissions-at-architecture-and-design-fair-new-york-city]
+
+Sun, Oct 25    10am
+
+GSAPP Admissions at Philadelphia Architecture and Design Fair
+
+[/events/4360-gsapp-admissions-at-philadelphia-architecture-and-design-fair]

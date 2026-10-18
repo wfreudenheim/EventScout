@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-14T06:54:57.707Z",
+  "fetched_at": "2026-10-18T06:49:28.777Z",
   "total": 134,
-  "ok": 96,
-  "empty": 12,
+  "ok": 98,
+  "empty": 10,
   "http": 19,
   "error": 7,
   "venues": [
@@ -20,7 +20,7 @@
       "url": "https://abronsartscenter.org/",
       "status": "ok",
       "http": 200,
-      "chars": 1617
+      "chars": 1735
     },
     {
       "id": "amant",
@@ -53,7 +53,7 @@
       "url": "https://archleague.org/events/",
       "status": "ok",
       "http": 200,
-      "chars": 5865
+      "chars": 5567
     },
     {
       "id": "artists-space",
@@ -93,7 +93,7 @@
       "url": "https://www.bam.org/programs",
       "status": "ok",
       "http": 200,
-      "chars": 23254
+      "chars": 26941
     },
     {
       "id": "bang-on-a-can",
@@ -117,16 +117,15 @@
       "url": "https://www.bgc.bard.edu/events",
       "status": "ok",
       "http": 200,
-      "chars": 4213
+      "chars": 3676
     },
     {
       "id": "bisr",
       "name": "Brooklyn Institute for Social Research",
       "url": "https://thebrooklyninstitute.com/",
-      "status": "empty",
-      "http": 202,
-      "chars": 0,
-      "note": "page text too short — likely JS-rendered"
+      "status": "ok",
+      "http": 200,
+      "chars": 19312
     },
     {
       "id": "bitforms",
@@ -198,7 +197,7 @@
       "url": "https://calendar.aiany.org/",
       "status": "ok",
       "http": 200,
-      "chars": 13729
+      "chars": 13675
     },
     {
       "id": "center-for-book-arts",
@@ -206,7 +205,7 @@
       "url": "https://centerforbookarts.org/",
       "status": "ok",
       "http": 200,
-      "chars": 5205
+      "chars": 5262
     },
     {
       "id": "chocolate-factory",
@@ -230,7 +229,7 @@
       "url": "https://www.arch.columbia.edu/events",
       "status": "ok",
       "http": 200,
-      "chars": 13618
+      "chars": 13834
     },
     {
       "id": "columbia-heyman",
@@ -269,7 +268,7 @@
       "url": "https://cooper.edu/events",
       "status": "ok",
       "http": 200,
-      "chars": 2899
+      "chars": 2876
     },
     {
       "id": "creative-time",
@@ -317,7 +316,7 @@
       "url": "https://datasociety.net/",
       "status": "ok",
       "http": 200,
-      "chars": 19642
+      "chars": 19770
     },
     {
       "id": "do-not-research",
@@ -333,7 +332,7 @@
       "url": "https://dromnyc.com/",
       "status": "ok",
       "http": 200,
-      "chars": 5136
+      "chars": 5398
     },
     {
       "id": "e-flux",
@@ -341,7 +340,7 @@
       "url": "https://www.e-flux.com/live",
       "status": "ok",
       "http": 200,
-      "chars": 7114
+      "chars": 5563
     },
     {
       "id": "electronic-arts-intermix",
@@ -357,7 +356,7 @@
       "url": "https://www.elsewhere.club/events",
       "status": "ok",
       "http": 200,
-      "chars": 8068
+      "chars": 7926
     },
     {
       "id": "emily-harvey-foundation",
@@ -398,7 +397,7 @@
       "url": "https://filmforum.org/now-playing",
       "status": "ok",
       "http": 200,
-      "chars": 18599
+      "chars": 16517
     },
     {
       "id": "film-noir-cinema",
@@ -415,7 +414,7 @@
       "url": "https://film-makerscoop.com/",
       "status": "ok",
       "http": 200,
-      "chars": 13246
+      "chars": 12939
     },
     {
       "id": "flushing-town-hall",
@@ -423,7 +422,7 @@
       "url": "https://www.flushingtownhall.org/",
       "status": "ok",
       "http": 200,
-      "chars": 7136
+      "chars": 7058
     },
     {
       "id": "franklin-furnace",
@@ -431,7 +430,7 @@
       "url": "https://franklinfurnace.org/",
       "status": "ok",
       "http": 200,
-      "chars": 6816
+      "chars": 7402
     },
     {
       "id": "fridman-gallery",
@@ -455,7 +454,7 @@
       "url": "https://www.green-wood.com/events/",
       "status": "ok",
       "http": 200,
-      "chars": 5892
+      "chars": 6369
     },
     {
       "id": "guggenheim",
@@ -488,7 +487,7 @@
       "url": "https://www.housingworks.org/events",
       "status": "ok",
       "http": 200,
-      "chars": 3210
+      "chars": 3207
     },
     {
       "id": "index-space",
@@ -496,7 +495,7 @@
       "url": "https://www.index-space.org/",
       "status": "ok",
       "http": 200,
-      "chars": 10071
+      "chars": 10123
     },
     {
       "id": "interference-archive",
@@ -504,7 +503,7 @@
       "url": "https://interferencearchive.org/",
       "status": "ok",
       "http": 200,
-      "chars": 7555
+      "chars": 6324
     },
     {
       "id": "issue-project-room",
@@ -536,7 +535,7 @@
       "url": "https://japansociety.org/",
       "status": "ok",
       "http": 200,
-      "chars": 13811
+      "chars": 8007
     },
     {
       "id": "knockdown-center",
@@ -552,7 +551,7 @@
       "url": "https://www.lamama.org/",
       "status": "ok",
       "http": 200,
-      "chars": 10617
+      "chars": 10563
     },
     {
       "id": "light-industry",
@@ -576,7 +575,7 @@
       "url": "https://www.maysles.org/",
       "status": "ok",
       "http": 200,
-      "chars": 3378
+      "chars": 3623
     },
     {
       "id": "mcnally-jackson",
@@ -616,7 +615,7 @@
       "url": "https://www.mmuseumm.com/",
       "status": "ok",
       "http": 200,
-      "chars": 1273
+      "chars": 1274
     },
     {
       "id": "moma",
@@ -632,7 +631,7 @@
       "url": "https://www.momaps1.org/calendar",
       "status": "ok",
       "http": 200,
-      "chars": 6908
+      "chars": 5719
     },
     {
       "id": "mono-no-aware",
@@ -673,7 +672,7 @@
       "url": "https://movementresearch.org/",
       "status": "ok",
       "http": 200,
-      "chars": 6385
+      "chars": 6498
     },
     {
       "id": "museum-of-moving-image",
@@ -687,10 +686,9 @@
       "id": "n-plus-one",
       "name": "n+1 Magazine",
       "url": "https://www.nplusonemag.com/",
-      "status": "empty",
-      "http": 202,
-      "chars": 0,
-      "note": "page text too short — likely JS-rendered"
+      "status": "ok",
+      "http": 200,
+      "chars": 12996
     },
     {
       "id": "national-sawdust",
@@ -763,7 +761,7 @@
       "url": "https://gamecenter.nyu.edu/",
       "status": "ok",
       "http": 200,
-      "chars": 4594
+      "chars": 4562
     },
     {
       "id": "nyu-itp",
@@ -771,7 +769,7 @@
       "url": "https://tisch.nyu.edu/itp/events",
       "status": "ok",
       "http": 200,
-      "chars": 6233
+      "chars": 6227
     },
     {
       "id": "onassis-onx",
@@ -779,7 +777,7 @@
       "url": "https://onx.studio/",
       "status": "ok",
       "http": 200,
-      "chars": 2583
+      "chars": 2663
     },
     {
       "id": "participant-inc",
@@ -795,7 +793,7 @@
       "url": "https://performancespacenewyork.org/shows/",
       "status": "ok",
       "http": 200,
-      "chars": 6341
+      "chars": 6280
     },
     {
       "id": "poetry-project",
@@ -803,7 +801,7 @@
       "url": "https://www.poetryproject.org/",
       "status": "ok",
       "http": 200,
-      "chars": 1443
+      "chars": 1445
     },
     {
       "id": "printed-matter",
@@ -811,7 +809,7 @@
       "url": "https://www.printedmatter.org/programs",
       "status": "ok",
       "http": 200,
-      "chars": 10896
+      "chars": 10773
     },
     {
       "id": "prismatic-ground",
@@ -827,7 +825,7 @@
       "url": "https://publicrecords.nyc/",
       "status": "ok",
       "http": 200,
-      "chars": 21232
+      "chars": 20784
     },
     {
       "id": "recess-art",
@@ -835,7 +833,7 @@
       "url": "https://www.recessart.org/",
       "status": "ok",
       "http": 200,
-      "chars": 2419
+      "chars": 2855
     },
     {
       "id": "rhizome",
@@ -851,7 +849,7 @@
       "url": "https://www.rockawayfilmfestival.org/",
       "status": "ok",
       "http": 200,
-      "chars": 2515
+      "chars": 1872
     },
     {
       "id": "rockefeller-university",
@@ -867,7 +865,7 @@
       "url": "https://rooftopfilms.com/",
       "status": "ok",
       "http": 200,
-      "chars": 3743
+      "chars": 3877
     },
     {
       "id": "roulette",
@@ -875,7 +873,7 @@
       "url": "https://roulette.org/calendar/",
       "status": "ok",
       "http": 200,
-      "chars": 4850
+      "chars": 4772
     },
     {
       "id": "sculpture-center",
@@ -906,7 +904,7 @@
       "url": "https://www.simonsfoundation.org/events",
       "status": "ok",
       "http": 200,
-      "chars": 4861
+      "chars": 13488
     },
     {
       "id": "spectacle-theater",
@@ -937,7 +935,7 @@
       "url": "https://www.swissinstitute.net/",
       "status": "ok",
       "http": 200,
-      "chars": 5978
+      "chars": 5731
     },
     {
       "id": "terraza-7",
@@ -945,7 +943,7 @@
       "url": "https://terraza7.com/",
       "status": "ok",
       "http": 200,
-      "chars": 6446
+      "chars": 4027
     },
     {
       "id": "the-brick",
@@ -961,7 +959,7 @@
       "url": "https://drawingcenter.org/exhibitions",
       "status": "ok",
       "http": 200,
-      "chars": 830
+      "chars": 1516
     },
     {
       "id": "the-drift",
@@ -986,7 +984,7 @@
       "url": "https://www.thelotradio.com/",
       "status": "ok",
       "http": 200,
-      "chars": 3078
+      "chars": 3111
     },
     {
       "id": "the-new-school",
@@ -1033,7 +1031,7 @@
       "url": "https://veralistcenter.org/events/",
       "status": "ok",
       "http": 200,
-      "chars": 4575
+      "chars": 4409
     },
     {
       "id": "wave-farm",
@@ -1057,7 +1055,7 @@
       "url": "https://whitecolumns.org/",
       "status": "ok",
       "http": 200,
-      "chars": 3763
+      "chars": 3307
     },
     {
       "id": "whitney",
@@ -1065,7 +1063,7 @@
       "url": "https://whitney.org/events",
       "status": "ok",
       "http": 200,
-      "chars": 5607
+      "chars": 5413
     },
     {
       "id": "wonderville",
@@ -1073,7 +1071,7 @@
       "url": "https://www.wonderville.nyc/",
       "status": "ok",
       "http": 200,
-      "chars": 7774
+      "chars": 7668
     },
     {
       "id": "world-music-institute",

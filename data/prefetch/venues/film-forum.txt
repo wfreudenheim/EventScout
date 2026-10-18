@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-10-14T06:54:48.267Z
+FETCHED:2026-10-18T06:49:25.156Z
 
 Skip to Content
 
@@ -10,14 +10,13 @@ FILM FORUM [https://filmforum.org/]
 
 SLIDESHOW
 
+ * https://filmforum.org/film/once-upon-a-time-in-harlem
  * https://filmforum.org/film/my-undesirable-friends-part-ii-exile
  * https://filmforum.org/series/andrzej-wajda-100
  * https://filmforum.org/film/the-scout
  * https://filmforum.org/film/unzipped-2026
- * https://filmforum.org/film/filipinana
- *
- * https://filmforum.org/film/once-upon-a-time-in-harlem
  * https://filmforum.org/film/spy-kids-ffjr-2026
+ *
  * https://filmforum.org/film/fatherland
  * https://filmforum.org/series/william-greaves-100
  * https://filmforum.org/film/corpse-bride-ffjr-2026
@@ -56,130 +55,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
+ * SUN
+ * MON
+ * TUE
  * WED
  * THU
  * FRI
  * SAT
- * SUN
- * MON
- * TUE
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-1:00 6:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:50 2:40 4:30 6:20 8:10
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-1:00 6:00
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-3:20 8:10
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-KATYŃ [https://filmforum.org/film/katyn-wajda-100]
-12:15
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE BIRCH WOOD [https://filmforum.org/film/the-birch-wood-wajda-100]
-2:45
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE MAIDS OF WILKO [https://filmforum.org/film/the-maids-of-wilko-wajda-100]
-5:20
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-WALESA: MAN OF HOPE [https://filmforum.org/film/walesa-man-of-hope-wajda-100]
-7:50
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-4:00 7:20
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:50 2:40 4:30 6:20 8:10
-
-Ends Today!FILIPIÑANA [https://filmforum.org/film/filipinana]
-12:20 2:35 4:45
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE CONDUCTOR [https://filmforum.org/film/the-conductor-wajda-100]
-12:40
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-LANDSCAPE AFTER BATTLE [https://filmforum.org/film/landscape-after-battle-wajda-100]
-3:00
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE BIRCH WOOD [https://filmforum.org/film/the-birch-wood-wajda-100]
-5:30
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE MAIDS OF WILKO [https://filmforum.org/film/the-maids-of-wilko-wajda-100]
-7:40
-
-Sneak Preview!ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-7:00
-
-Opens Today!ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 6:00 7:00 8:45
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:15 7:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-4:00
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:20 4:15
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-2:10
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-MAN OF MARBLE [https://filmforum.org/film/man-of-marble-wajda-100]
-12:30
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-MAN OF IRON [https://filmforum.org/film/man-of-iron-wajda-100]
-4:00
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE PROMISED LAND [https://filmforum.org/film/the-promised-land-wajda-100]
-7:10
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15(OC) 2:30 4:45 6:00 7:00 8:15 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:15 7:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-4:00
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:20 4:15(OC)
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-2:10(OC)
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-SIBERIAN LADY MACBETH [https://filmforum.org/film/siberian-lady-macbeth-wajda-100]
-12:50
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-LANDSCAPE AFTER BATTLE [https://filmforum.org/film/landscape-after-battle-wajda-100]
-3:10
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE CONDUCTOR [https://filmforum.org/film/the-conductor-wajda-100]
-5:30
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-KORCZAK [https://filmforum.org/film/korczak-wajda-100]
-7:50
 
 FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
 SPY KIDS [https://filmforum.org/film/spy-kids-ffjr-2026]
@@ -271,6 +153,69 @@ NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
 CARLITO'S WAY [https://filmforum.org/film/carlitos-way-nyc-in-transit]
 7:50
 
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15 2:30 4:45 6:00 7:00 8:15 9:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+1:00 6:30
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:20 4:15
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+2:10
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+MAN OF MARBLE [https://filmforum.org/film/man-of-marble-wajda-100]
+12:15
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+SWEET RUSH [https://filmforum.org/film/sweet-rush-wajda-100]
+4:00
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+AFTERIMAGE [https://filmforum.org/film/afterimage-wajda-100]
+6:00
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+SAMSON [https://filmforum.org/film/samson-wajda-100]
+8:10
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15 2:30 4:45 6:00 7:00 8:15 9:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+4:00 7:20
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+12:20 4:15
+
+THE SCOUT [https://filmforum.org/film/the-scout]
+2:10
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+KORCZAK [https://filmforum.org/film/korczak-wajda-100]
+12:20
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+MAN OF IRON [https://filmforum.org/film/man-of-iron-wajda-100]
+2:50
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+ASHES & DIAMONDS [https://filmforum.org/film/ashes-and-diamonds-wajda-100]
+5:50
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+WALESA: MAN OF HOPE [https://filmforum.org/film/walesa-man-of-hope-wajda-100]
+8:10
+
+Showtimes coming soon!
+
+Showtimes coming soon!
+
 Donate [https://donate.filmforum.org/give/]
 
 SUPPORT OUR NONPROFIT CINEMA
@@ -289,23 +234,23 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-ONCE UPON A TIME IN HARLEM
-SNEAK PREVIEW AND Q&A WITH FILMMAKER DAVID GREAVES & CO-PRODUCER LIANI GREAVES [https://filmforum.org/events/event/once-upon-a-time-in-harlem-october-15]
+SWEET RUSH
+POST-FILM CONVERSATION WITH STAR PAWEŁ SZAJDA [https://filmforum.org/events/event/sweet-rush-october-19]
 
-Thursday, October 15
-7:00
+Monday, October 19
+8:10
 
-ONCE UPON A TIME IN HARLEM
-Q&A WITH FILMMAKER DAVID GREAVES & CO-PRODUCER LIANI GREAVES [https://filmforum.org/events/event/once-upon-a-time-in-harlem-october-16-600]
+WALESA: MAN OF HOPE
+POST-FILM CONVERSATION WITH STAR ROBERT WIĘCKIEWICZ [https://filmforum.org/events/event/walesa-man-of-hope-october-22]
 
-Friday, October 16
-6:00
+Thursday, October 22
+8:10
 
-ONCE UPON A TIME IN HARLEM
-Q&A WITH FILMMAKER DAVID GREAVES & CO-PRODUCER LIANI GREAVES [https://filmforum.org/events/event/once-upon-a-time-in-harlem-october-16-700]
+NATIONTIME
+INTRODUCED BY PRODUCER LIANI GREAVES AND FOUNDER OF INDIECOLLECT SANDRA SCHULBERG  [https://filmforum.org/events/event/nationtime-october-23]
 
-Friday, October 16
-7:00
+Friday, October 23
+2:00
 
 GET EMAIL NEWS
 
@@ -322,49 +267,42 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+SPY KIDS [https://filmforum.org/film/spy-kids-ffjr-2026]
+11:00
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15 2:30(OC) 4:45 6:00 7:00 8:15 9:15
+
 MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-1:00 6:30
+12:15 7:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+4:00
 
 UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:50 2:40 4:30 6:20 8:10
+12:20(OC) 4:15
 
 THE SCOUT [https://filmforum.org/film/the-scout]
-1:00 6:00
-
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-3:20 8:10
+2:10
 
 ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 KATYŃ [https://filmforum.org/film/katyn-wajda-100]
-12:15
+1:00
 
 ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE BIRCH WOOD [https://filmforum.org/film/the-birch-wood-wajda-100]
-2:45
+SAMSON [https://filmforum.org/film/samson-wajda-100]
+3:30
 
 ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE MAIDS OF WILKO [https://filmforum.org/film/the-maids-of-wilko-wajda-100]
-5:20
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-WALESA: MAN OF HOPE [https://filmforum.org/film/walesa-man-of-hope-wajda-100]
-7:50
+THE ASHES [https://filmforum.org/film/the-ashes-wajda-100]
+6:00
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
-https://filmforum.org/series/nyc-in-transit#now-playing
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
-
-GLORIA
-Tuesday, October 13
-7:00
-
-Films in this Series John Cassavetes’
-GLORIA Al Pacino in
-CARLITO’S WAY Robert De Niro’s
-A BRONX TALE Samuel Fuller’s
-PICKUP ON SOUTH STREET Amir Naderi’s
-MANHATTAN BY NUMBERS
+https://filmforum.org/film/once-upon-a-time-in-harlem
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/once-upon-a-time-in-harlem] Watch Trailer [https://filmforum.org/film/once-upon-a-time-in-harlem#trailer]
 https://filmforum.org/film/my-undesirable-friends-part-ii-exile
 MY UNDESIRABLE FRIENDS:
 PART II – EXILE [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
@@ -374,7 +312,7 @@ ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100#now-playing]
 
 Friday, October 2 – Thursday, October 22
 
-Films in this Series THE PROMISED LAND KORCZAK KATYŃ THE BIRCH WOOD THE MAIDS OF WILKO WALESA: MAN OF HOPE THE CONDUCTOR LANDSCAPE AFTER BATTLE MAN OF MARBLE MAN OF IRON SIBERIAN LADY MACBETH SAMSON THE ASHES AFTERIMAGE A CHRONICLE OF AMOROUS ACCIDENTS SWEET RUSH ASHES AND DIAMONDS
+Films in this Series MAN OF MARBLE MAN OF IRON THE PROMISED LAND SIBERIAN LADY MACBETH LANDSCAPE AFTER BATTLE THE CONDUCTOR KORCZAK KATYŃ SAMSON THE ASHES AFTERIMAGE A CHRONICLE OF AMOROUS ACCIDENTS SWEET RUSH ASHES AND DIAMONDS WALESA: MAN OF HOPE
 Watch Trailer [https://filmforum.org/series/andrzej-wajda-100#trailer]
 https://filmforum.org/film/the-scout
 THE SCOUT [https://filmforum.org/film/the-scout]
@@ -389,12 +327,6 @@ UNZIPPED [https://filmforum.org/film/unzipped-2026]
 HELD OVER THROUGH THURSDAY, OCTOBER 22
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer [https://filmforum.org/film/unzipped-2026#trailer]
-https://filmforum.org/film/filipinana
-FILIPIÑANA [https://filmforum.org/film/filipinana]
-
-MUST END THURSDAY, OCTOBER 15
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/filipinana] Watch Trailer [https://filmforum.org/film/filipinana#trailer]
 https://filmforum.org/series/film-forum-jr.-series-page#now-playing
 FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
 
@@ -410,16 +342,21 @@ LITTLE FUGITIVE Walt Disney’s
 PINOCCHIO Ingrid Bergman & Bing Crosby in
 THE BELLS OF ST. MARY’S Nancy Meyers’
 THE PARENT TRAP
+https://filmforum.org/series/nyc-in-transit#now-playing
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
+
+CARLITO’S WAY
+Tuesday, October 20
+7:50 – 35mm
+
+Films in this Series Al Pacino in
+CARLITO’S WAY Robert De Niro’s
+A BRONX TALE Samuel Fuller’s
+PICKUP ON SOUTH STREET Amir Naderi’s
+MANHATTAN BY NUMBERS
 
 COMING SOON [https://filmforum.org/coming_soon]
 
-https://filmforum.org/film/once-upon-a-time-in-harlem
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-
-Opens Friday, October 16
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/once-upon-a-time-in-harlem] Watch Trailer [ https://filmforum.org/film/once-upon-a-time-in-harlem#trailer ]
 https://filmforum.org/film/fatherland
 
 FATHERLAND [https://filmforum.org/film/fatherland]
@@ -472,6 +409,7 @@ CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
 
 Friday, October 30 – Thursday, November 5
 
+SHOWTIME & TICKETS [https://my.filmforum.org/events/citizen-ruth]
 https://filmforum.org/film/raise-the-red-lantern
 
 ZHANG YIMOU’S
@@ -479,7 +417,7 @@ RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
 
 Friday, November 6 – Thursday, November 19
 
-Watch Trailer [ https://filmforum.org/film/raise-the-red-lantern#trailer ]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/raise-the-red-lantern] Watch Trailer [ https://filmforum.org/film/raise-the-red-lantern#trailer ]
 https://filmforum.org/film/threeasfour-full-circle
 
 THREEASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
@@ -492,6 +430,12 @@ https://filmforum.org/series/silent-lubitsch
 SILENT LUBITSCH [https://filmforum.org/series/silent-lubitsch]
 
 Mondays beginning November 16
+
+https://filmforum.org/series/rossellini
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+
+Friday, November 20 – Thursday, December 10
 
 NEWS AND OFFERS
 
@@ -520,7 +464,7 @@ FILM FORUM PREMIERES & REPERTORY CALENDAR [https://filmforum.org/do-not-enter-or
 
 https://my.filmforum.org/shop-2026/ff-baseball-cap-2026
 
-NEW! FILM FORUM BASEBALL CAP [https://my.filmforum.org/shop-2026/ff-baseball-cap-2026]
+FILM FORUM BASEBALL CAP [https://my.filmforum.org/shop-2026/ff-baseball-cap-2026]
 
 A re-imagining of the original Film Forum baseball cap from 1991, iconically modeled by David Byrne.
 

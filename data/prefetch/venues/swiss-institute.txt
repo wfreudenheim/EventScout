@@ -1,6 +1,6 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-10-14T06:54:45.662Z
+FETCHED:2026-10-18T06:49:23.054Z
 
 * Exhibitions [/exhibitions]
     * Current [/exhibitions]
@@ -79,13 +79,6 @@ Programs
 
 NEW YORK AXIOMATIC CIRCLE
 
-Wed Oct 14 2026, 7:00pm
-
-[https://swissinstitute.net/programs/new-york-axiomatic-circle-1]
-Programs
-
-NEW YORK AXIOMATIC CIRCLE
-
 Wed Oct 21 2026, 7:00pm
 
 [https://swissinstitute.net/programs/new-york-axiomatic-circle-2]
@@ -124,12 +117,6 @@ FILM SERIES | MARCHING WITH THE KASAMA
 Wed Nov 11 2026, 7:00pm
 
 [https://swissinstitute.net/programs/film-series-marching-with-the-kasama]
-
-NEW YORK AXIOMATIC CIRCLE
-
-Wed Oct 14 2026, 7:00pm
-
-[https://swissinstitute.net/programs/new-york-axiomatic-circle-1]
 
 NEW YORK AXIOMATIC CIRCLE
 

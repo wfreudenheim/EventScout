@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-10-14T06:54:41.131Z
+FETCHED:2026-10-18T06:49:20.659Z
 
 /
 
@@ -14,39 +14,39 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/architecture/events/exhibition-panel-discussion-primers-handmade-utopia
+/events-and-exhibitions/events/historytheory-panel-fascism-antifascism
 
-EXHIBITION PANEL DISCUSSION | PRIMERS FOR A HANDMADE UTOPIA [/architecture/events/exhibition-panel-discussion-primers-handmade-utopia]
+HISTORY/THEORY PANEL | FASCISM / ANTIFASCISM [/events-and-exhibitions/events/historytheory-panel-fascism-antifascism]
 
-October 13, 2026
+October 20, 2026
 6:30pm
 
-Writers, critics, and documentarians will discuss the radical architecture of the 1960s back-to-the-land movement.
+A conversation with María González Pendás, Sarah Lopez, and Dan Roche about the historical links between architecture, fascism, and anti-fascism. 
 
-Event Details [/architecture/events/exhibition-panel-discussion-primers-handmade-utopia]
- * /events-and-exhibitions/events/seeing-together-photography-through-language-and-senses
-
-   SEEING TOGETHER: PHOTOGRAPHY THROUGH LANGUAGE AND THE SENSES [/events-and-exhibitions/events/seeing-together-photography-through-language-and-senses]
-
-   October 15, 2026
-   6:00pm
- * /events-and-exhibitions/events/kelly-walters-open-flat-file
-
-   KELLY WALTERS FOR OPEN FLAT FILE [/events-and-exhibitions/events/kelly-walters-open-flat-file]
-
-   October 15, 2026
-   6:30pm
- * /events-and-exhibitions/events/historytheory-panel-fascism-antifascism
-
-   HISTORY/THEORY PANEL | FASCISM / ANTIFASCISM [/events-and-exhibitions/events/historytheory-panel-fascism-antifascism]
-
-   October 20, 2026
-   6:30pm
+Event Details [/events-and-exhibitions/events/historytheory-panel-fascism-antifascism]
  * /events-and-exhibitions/events/sawyer-avenue-sunday-afternoon-film-screening-panel
 
    SAWYER AVENUE, SUNDAY AFTERNOON: FILM SCREENING & PANEL [/events-and-exhibitions/events/sawyer-avenue-sunday-afternoon-film-screening-panel]
 
    October 22, 2026
+   6:30pm
+ * /events-and-exhibitions/events/praise-day-sonia-sanchez
+
+   PRAISE DAY FOR SONIA SANCHEZ! [/events-and-exhibitions/events/praise-day-sonia-sanchez]
+
+   October 23, 2026
+   7:30pm
+ * /events-and-exhibitions/events/aaron-gilbert-alex-katz-chair-painting-artist-talk
+
+   AARON GILBERT: ALEX KATZ CHAIR IN PAINTING ARTIST TALK [/events-and-exhibitions/events/aaron-gilbert-alex-katz-chair-painting-artist-talk]
+
+   October 27, 2026
+   6:00pm
+ * /events-and-exhibitions/events/public-art-fund-talks-genesis-belanger
+
+   PUBLIC ART FUND TALKS: GENESIS BELANGER [/events-and-exhibitions/events/public-art-fund-talks-genesis-belanger]
+
+   October 27, 2026
    6:30pm
 
 ONGOING EXHIBITIONS
