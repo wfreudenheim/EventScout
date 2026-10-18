@@ -31,7 +31,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:25:38.764Z",
+    "last_checked": "2026-10-18T07:18:04.702Z",
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
     "generated_scraper": null
@@ -91,7 +91,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-11T07:25:38.443Z"
+    "last_checked": "2026-10-18T07:18:04.810Z"
   },
   {
     "id": "eyebeam",
@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:42:04.055Z"
+    "last_checked": "2026-10-18T07:18:05.033Z"
   },
   {
     "id": "anthology-film-archives",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:34:42.247Z"
+    "last_checked": "2026-10-18T07:18:04.626Z"
   },
   {
     "id": "knockdown-center",
@@ -419,7 +419,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:23:05.162Z"
+    "last_checked": "2026-10-18T07:18:05.016Z"
   },
   {
     "id": "columbia-gsapp",
@@ -560,7 +560,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-11T07:36:06.158Z"
+    "last_checked": "2026-10-18T07:18:04.531Z"
   },
   {
     "id": "bam",
@@ -645,7 +645,7 @@
     "scrape_tier": 2,
     "structured_source": null,
     "generated_scraper": "scrapers/union-docs.ts",
-    "last_checked": "2026-10-18T06:49:13.532Z"
+    "last_checked": "2026-10-18T07:18:04.610Z"
   },
   {
     "id": "whitney",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:17:50.229Z"
+    "last_checked": "2026-10-18T07:18:04.848Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-14T07:17:50.259Z"
+    "last_checked": "2026-10-18T07:18:04.945Z"
   },
   {
     "id": "moma",
@@ -1208,7 +1208,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Sweep 2026-07: queue-it bot wall blocks fetching. Try off-peak or newsletter.",
-    "last_checked": "2026-09-23T07:18:51.772Z"
+    "last_checked": "2026-10-18T07:18:04.857Z"
   },
   {
     "id": "performance-space-ny",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:25:11.269Z"
+    "last_checked": "2026-10-18T07:18:04.994Z"
   },
   {
     "id": "rockefeller-university",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:34:53.590Z"
+    "last_checked": "2026-10-18T07:18:04.654Z"
   },
   {
     "id": "the-stone",
@@ -1774,7 +1774,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:14:17.033Z"
+    "last_checked": "2026-10-18T07:18:04.963Z"
   },
   {
     "id": "cybernetics-library",
@@ -2223,7 +2223,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:17:50.147Z"
+    "last_checked": "2026-10-18T07:18:04.830Z"
   },
   {
     "id": "japan-society",
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:25:55.517Z"
+    "last_checked": "2026-10-18T07:18:04.900Z"
   },
   {
     "id": "asia-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:17:50.282Z"
+    "last_checked": "2026-10-18T07:18:04.675Z"
   },
   {
     "id": "aaww",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:35:12.974Z"
+    "last_checked": "2026-10-18T07:18:04.733Z"
   },
   {
     "id": "nowadays",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:17:50.191Z"
+    "last_checked": "2026-10-18T07:18:04.982Z"
   },
   {
     "id": "nypl-live",
@@ -2624,7 +2624,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:35:12.937Z"
+    "last_checked": "2026-10-18T07:18:04.789Z"
   },
   {
     "id": "data-society",
@@ -2910,7 +2910,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:25:38.537Z"
+    "last_checked": "2026-10-18T07:18:04.563Z"
   },
   {
     "id": "harvestworks",
@@ -3053,7 +3053,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:25:38.696Z"
+    "last_checked": "2026-10-18T07:18:04.870Z"
   },
   {
     "id": "abrons-arts-center",
@@ -3077,7 +3077,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:32:45.737Z"
+    "last_checked": "2026-10-18T07:18:04.802Z"
   },
   {
     "id": "movement-research",
@@ -3313,7 +3313,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:28:38.441Z"
+    "last_checked": "2026-10-18T07:18:04.685Z"
   },
   {
     "id": "barbes",
@@ -3337,7 +3337,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:25:38.619Z"
+    "last_checked": "2026-10-18T07:18:04.771Z"
   },
   {
     "id": "jalopy-theatre",
@@ -3390,7 +3390,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:42:04.013Z"
+    "last_checked": "2026-10-18T07:18:04.711Z"
   },
   {
     "id": "summerstage",
@@ -3640,7 +3640,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-10-11T07:25:38.780Z"
+    "last_checked": "2026-10-18T07:18:04.743Z"
   },
   {
     "id": "nublu",
@@ -3654,7 +3654,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-10-11T07:25:38.773Z"
+    "last_checked": "2026-10-18T07:18:04.720Z"
   },
   {
     "id": "kaufman-music-center",
@@ -3668,7 +3668,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-10-11T07:25:38.788Z"
+    "last_checked": "2026-10-18T07:18:04.752Z"
   },
   {
     "id": "webster-hall",
@@ -3710,7 +3710,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-07-27T15:40:39.083Z"
+    "last_checked": "2026-10-18T07:18:04.594Z"
   },
   {
     "id": "asia-art-archive-in-america",
