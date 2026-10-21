@@ -9024,5 +9024,326 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-21T07:15:47.872Z"
+  },
+  {
+    "id": "world-music-institute-2026-11-05-niladri-kumar-at-adler-hall",
+    "title": "Niladri Kumar at Adler Hall",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-11-05",
+    "time_start": "20:00",
+    "time_end": null,
+    "description": "Sitar virtuoso Niladri Kumar performs Hindustani classical music, presented by World Music Institute.",
+    "url": "https://www.worldmusicinstitute.org/niladri-kumar-at-adler-hall/",
+    "price": null,
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "world-music",
+      "sitar",
+      "hindustani"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:18:39.407Z"
+  },
+  {
+    "id": "world-music-institute-2026-12-06-laura-itandehui-at-public-records",
+    "title": "Laura Itandehui at Public Records",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-12-06",
+    "time_start": null,
+    "time_end": null,
+    "description": "Laura Itandehui performs, presented by World Music Institute at Public Records.",
+    "url": "https://www.worldmusicinstitute.org/laura-itandehui/",
+    "price": null,
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:18:39.407Z"
+  },
+  {
+    "id": "issue-project-room-2026-10-24-liturgy-haela-hunt-hendrix-solo-",
+    "title": "Liturgy (Haela Hunt-Hendrix solo)",
+    "venue_id": "issue-project-room",
+    "venue_name": "Issue Project Room",
+    "date": "2026-10-24",
+    "time_start": "20:00",
+    "time_end": null,
+    "description": "Limited-capacity solo program for looped electric guitar, voice, electronics, and piano, drawing from the Liturgy oeuvre plus new compositions.",
+    "url": "https://issueprojectroom.org/event/liturgy",
+    "price": null,
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:18:39.440Z"
+  },
+  {
+    "id": "bitforms-2026-12-13-dear-data",
+    "title": "Dear Data",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-12-13",
+    "time_start": null,
+    "time_end": null,
+    "description": "Group exhibition by Amor Muñoz, Claudia Hart, and Maya Man, on view through Dec 13 at bitforms gallery.",
+    "url": "https://www.bitforms.art/exhibition/dear-data",
+    "price": null,
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:18:39.455Z"
+  },
+  {
+    "id": "e-flux-2026-10-27-how-to-not-be-heard-steve-goodman-bogna-",
+    "title": "How To (Not) Be Heard: Steve Goodman & Bogna Konior",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-10-27",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Talk with sound theorist Steve Goodman (Kode9) and media theorist Bogna Konior at e-flux.",
+    "url": "https://www.e-flux.com/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:18:39.479Z"
+  },
+  {
+    "id": "e-flux-2026-11-05-la-merde-the-mole-",
+    "title": "La Merde! The Mole!",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-05",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Film screening at e-flux Screening Room.",
+    "url": "https://www.e-flux.com/events/6783399/la-merde-the-mole-nbsp/",
+    "price": null,
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:18:39.479Z"
+  },
+  {
+    "id": "e-flux-2026-11-10-here-already",
+    "title": "Here, Already",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Film screening at e-flux Screening Room.",
+    "url": "https://www.e-flux.com/events/6783397/here-already/",
+    "price": null,
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:18:39.480Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-21-ivan-the-terrible-parts-1-2",
+    "title": "Ivan the Terrible: Parts 1 & 2",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-21",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Essential Cinema screening of Eisenstein's Ivan the Terrible, Parts 1 & 2.",
+    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62158",
+    "price": null,
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:18:39.497Z"
+  },
+  {
+    "id": "interference-archive-2026-10-15-call-and-response-songbooks-to-power-the",
+    "title": "Call and Response: Songbooks to Power the Movement",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-10-15",
+    "description": "Exhibition showcasing songbooks from Interference Archive's collection drawn from the labor movement, civil rights movement, and socialist schools, exploring collective singing as a tool of movement-building. On view through January 31, 2027.",
+    "url": "https://interferencearchive.org/exhibition/call-and-response-songbooks-to-power-the-movement/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:19:17.347Z"
+  },
+  {
+    "id": "interference-archive-2026-10-22-offsite-songs-of-the-fedayeen-with-the-b",
+    "title": "OFFSITE: Songs of the Fedayeen with the Brooklyn Nomads",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-10-22",
+    "time_start": "19:00",
+    "description": "A night of music and a group singalong with the Brooklyn Nomads, who perform songs from the Palestinian diaspora and interpret music from \"Songs of the Fedayeen,\" a 1970 songbook created by a Palestinian Solidarity group.",
+    "url": "https://interferencearchive.org/event/offsite-songs-of-the-fedayeen-with-the-brooklyn-nomads/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:19:17.345Z"
+  },
+  {
+    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
+    "title": "Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-06",
+    "description": "Exhibition on Gen'ichirō Inokuma's little-known role in postwar American art history, tracing his connections with the New York avant-garde -- including Jasper Johns, Mark Rothko, Robert Rauschenberg, Alexander Calder, Isamu Noguchi, Yoko Ono, John Cage, and Merce Cunningham -- during his two decades in NYC. On view through January 10, 2027.",
+    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:19:17.431Z"
+  },
+  {
+    "id": "wonderville-2026-10-27-wonderville-s-last-tuesday-of-the-month-",
+    "title": "Wonderville's Last Tuesday of the Month PLAYTEST",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-27",
+    "time_start": "19:00",
+    "time_end": "22:00",
+    "description": "Monthly playtest night for independently made arcade and indie games at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/playtest-10-27-26",
+    "price": null,
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "indie-games"
+    ],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:20:05.646Z"
+  },
+  {
+    "id": "national-sawdust-2026-10-21-anthony-roth-costanzo-how-you-get-high",
+    "title": "Anthony Roth Costanzo: How You Get High",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-10-21",
+    "time_start": "19:30",
+    "time_end": null,
+    "description": "Pre-release celebration for countertenor Anthony Roth Costanzo's book 'Countertenor', with readings by Kangmin Justin Kim, Wayne Koestenbaum, Clint Ramos, and Shantell Martin, plus a performance.",
+    "url": "https://www.nationalsawdust.org/event/anthony-roth-costanzo-how-you-get-high",
+    "price": null,
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:21:07.912Z"
+  },
+  {
+    "id": "roulette-2026-11-11-matana-roberts-presents-off-the-record-",
+    "title": "Matana Roberts Presents: \"Off the Record...\"",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-11",
+    "time_start": "20:00",
+    "time_end": null,
+    "description": "A new live solo performance from the world of the COIN COIN project, moving between memory, imagination, and lived experience.",
+    "url": "https://roulette.org/event/matana-roberts-presents-off-the-record/",
+    "price": "$25",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:21:07.938Z"
+  },
+  {
+    "id": "roulette-2026-11-13-triple-canopy-symposium-2026-day-1-",
+    "title": "Triple Canopy Symposium 2026 (Day 1)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-13",
+    "time_start": "20:00",
+    "time_end": null,
+    "description": "An evening of performances considering the value of liveness and the spectre of commodification, presented with Roulette.",
+    "url": "https://roulette.org/event/triple-canopy-symposium-2026-day-1/",
+    "price": null,
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:21:07.938Z"
   }
 ]
