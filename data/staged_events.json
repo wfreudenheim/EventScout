@@ -9582,5 +9582,149 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-21T07:23:43.470Z"
+  },
+  {
+    "id": "chocolate-factory-2026-10-21-this-is-unreal",
+    "title": "This Is Unreal",
+    "venue_id": "chocolate-factory",
+    "venue_name": "The Chocolate Factory Theater",
+    "date": "2026-10-21",
+    "time_start": null,
+    "time_end": null,
+    "description": "Liz Santoro + Pierre Godard construct a hybrid world where authentic and synthetic contaminate one another, an autofiction for the age of deepfakes asking where the body ends and the machine begins.",
+    "url": "https://chocolatefactorytheater.org/liz-santoro-pierre-godard-2026/",
+    "price": null,
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:27:45.014Z"
+  },
+  {
+    "id": "green-wood-2026-10-30-hereafter-hours",
+    "title": "Hereafter Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-10-30",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "After-dark walking tour of Green-Wood Cemetery's monuments and mausoleums, with rare access to the Catacombs.",
+    "url": "https://www.green-wood.com/event/hereafter-hours-4/",
+    "price": null,
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:27:45.027Z"
+  },
+  {
+    "id": "blank-forms-2026-10-16-kou-records-at-blank-forms-fall-2026-sea",
+    "title": "Kou Records at Blank Forms—Fall 2026 Season",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-10-16",
+    "description": "A season-long concert and listening series co-presented with Kou Records, running October 16 through December 5, 2026 at Blank Forms' Brooklyn space.",
+    "url": "https://www.blankforms.org/events/kou-records-at-blank-forms-fall-2026-season",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:27:46.243Z"
+  },
+  {
+    "id": "culturehub-2026-10-22-livestream-unconditional-a-new-musical-m",
+    "title": "LIVESTREAM | Unconditional: A new musical memoir",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-10-22",
+    "description": "A livestreamed La MaMa production — a new musical memoir — broadcast via CultureHub's in-house streaming tool, the CultureHub Broadcaster.",
+    "url": "https://www.culturehub.org/events/unconditional",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:27:46.277Z"
+  },
+  {
+    "id": "onassis-onx-2026-10-12-3etv-on-somerset-house-studios",
+    "title": "3ETV on Somerset House Studios",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-10-12",
+    "time_start": null,
+    "time_end": null,
+    "description": "A bespoke 9-channel TV station curated and produced by Somerset House Studios, developed with HEK (Basel), M+ (Hong Kong), Onassis ONX, and Pioneer Works. Broadcasting online October 12 - December 18, 2026 at 3etv.net.",
+    "url": "https://3etv.net/",
+    "price": null,
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:27:46.844Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-25-troma-s-war",
+    "title": "Troma's War",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-25",
+    "time_start": "16:00",
+    "time_end": null,
+    "description": "Troma Entertainment's action-horror film, screened as part of a Troma retrospective at Anthology.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62038",
+    "price": null,
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:27:46.876Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-25-sgt-kabukiman-nypd",
+    "title": "Sgt. Kabukiman NYPD",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-25",
+    "time_start": "18:30",
+    "time_end": null,
+    "description": "Troma Entertainment's horror-comedy about a cursed NYPD officer, part of a Troma retrospective at Anthology.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62040",
+    "price": null,
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:27:46.877Z"
   }
 ]
