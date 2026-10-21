@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-10-18T06:49:20.659Z
+FETCHED:2026-10-21T06:56:07.265Z
 
 /
 
@@ -42,9 +42,9 @@ Event Details [/events-and-exhibitions/events/historytheory-panel-fascism-antifa
 
    October 27, 2026
    6:00pm
- * /events-and-exhibitions/events/public-art-fund-talks-genesis-belanger
+ * /events-and-exhibitions/events/new-york-architecture-design-publishing-today
 
-   PUBLIC ART FUND TALKS: GENESIS BELANGER [/events-and-exhibitions/events/public-art-fund-talks-genesis-belanger]
+   NEW YORK ARCHITECTURE & DESIGN PUBLISHING TODAY [/events-and-exhibitions/events/new-york-architecture-design-publishing-today]
 
    October 27, 2026
    6:30pm

@@ -1,6 +1,6 @@
 VENUE:sfpc | School for Poetic Computation
 URL:https://sfpc.study/
-FETCHED:2026-10-18T06:49:14.392Z
+FETCHED:2026-10-21T06:55:59.673Z
 
 * faq [/faq]
  * classes [/classes]

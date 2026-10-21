@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-10-18T06:49:23.183Z
+FETCHED:2026-10-21T06:56:11.122Z
 
 Index [/]
 
@@ -69,26 +69,6 @@ Learn More [/nodes]
 
 FILTER
 All EventsGreenpointChinatown
- * Boardwalk Studies [/programming/boardwalk-studies-evt-t3w34gVMOrCz2Vp?view=list]
-
-   BOARDWALK STUDIES
-
-   Sunday, Oct 18, 2026
-
-   Hosted by SUZIE [https://luma.com/user/usr-K5G4CcsW0zzXHjC]
-
-   Presented by Index Chinatown
-
- * Look & Feel: Exploring the Relationship Between Sound and Design [/programming/look-feel-exploring-the-relationship-between-sound-and-design-evt-iVtNFmberU8VSV7?view=list]
-
-   LOOK & FEEL: EXPLORING THE RELATIONSHIP BETWEEN SOUND AND DESIGN
-
-   Thursday, Oct 22, 2026
-
-   Hosted by Rahmi Halaby [https://luma.com/user/usr-a60WBT7PoLX4sYz]
-
-   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
-
  * Index Chinatown Open House: October [/programming/index-chinatown-open-house-october-evt-wMuobLpLuDtc8VF?view=list]
 
    INDEX CHINATOWN OPEN HOUSE: OCTOBER
@@ -116,6 +96,26 @@ All EventsGreenpointChinatown
    Tuesday, Oct 27, 2026
 
    Hosted by Bill Roberts [https://luma.com/user/usr-QVBlnuX4RAoHstw]
+
+   Presented by Index Chinatown
+
+ * Is Everything Predictable?: AI, Prediction Markets, and the Philosophy of Foresight [/programming/is-everything-predictable-ai-prediction-markets-and-the-philosop-evt-xnCQQKMg0qG8Snk?view=list]
+
+   IS EVERYTHING PREDICTABLE?: AI, PREDICTION MARKETS, AND THE PHILOSOPHY OF FORESIGHT
+
+   Thursday, Oct 29, 2026
+
+   Hosted by Emma Stamm [https://luma.com/user/usr-0eBXjyZteuWudxW]
+
+   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
+
+ * Music Industry 101, Session 1: Songwriting & Publishing [/programming/music-industry-101-session-1-songwriting-publishing-evt-DFvKo6hdq0TMH5j?view=list]
+
+   MUSIC INDUSTRY 101, SESSION 1: SONGWRITING & PUBLISHING
+
+   Thursday, Oct 29, 2026
+
+   Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
 
    Presented by Index Chinatown
 

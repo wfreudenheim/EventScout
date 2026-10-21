@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-10-18T06:49:25.156Z
+FETCHED:2026-10-21T06:56:13.108Z
 
 Skip to Content
 
@@ -15,7 +15,6 @@ SLIDESHOW
  * https://filmforum.org/series/andrzej-wajda-100
  * https://filmforum.org/film/the-scout
  * https://filmforum.org/film/unzipped-2026
- * https://filmforum.org/film/spy-kids-ffjr-2026
  *
  * https://filmforum.org/film/fatherland
  * https://filmforum.org/series/william-greaves-100
@@ -55,103 +54,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
- * SUN
- * MON
- * TUE
  * WED
  * THU
  * FRI
  * SAT
-
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-SPY KIDS [https://filmforum.org/film/spy-kids-ffjr-2026]
-11:00
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30(OC) 4:45 6:00 7:00 8:15 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:15 7:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-4:00
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:20(OC) 4:15
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-2:10
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-KATYŃ [https://filmforum.org/film/katyn-wajda-100]
-1:00
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-SAMSON [https://filmforum.org/film/samson-wajda-100]
-3:30
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE ASHES [https://filmforum.org/film/the-ashes-wajda-100]
-6:00
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 6:00 7:00(OC) 8:15 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-1:00 6:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:20(OC) 4:15
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-2:10(OC)
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-AFTERIMAGE [https://filmforum.org/film/afterimage-wajda-100]
-1:00
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-SIBERIAN LADY MACBETH [https://filmforum.org/film/siberian-lady-macbeth-wajda-100]
-3:30
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-A CHRONICLE OF AMOROUS INCIDENTS [https://filmforum.org/film/a-chronicle-of-amorous-accidents-wajda-100]
-5:45
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-SWEET RUSH [https://filmforum.org/film/sweet-rush-wajda-100]
-8:10
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30(OC) 4:45 6:00 7:00 8:15 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-4:00 7:20
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:20(OC) 4:15
-
-THE SCOUT [https://filmforum.org/film/the-scout]
-2:10
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-A CHRONICLE OF AMOROUS INCIDENTS [https://filmforum.org/film/a-chronicle-of-amorous-accidents-wajda-100]
-12:40
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-SWEET RUSH [https://filmforum.org/film/sweet-rush-wajda-100]
-3:00
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-SAMSON [https://filmforum.org/film/samson-wajda-100]
-5:20
-
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
-CARLITO'S WAY [https://filmforum.org/film/carlitos-way-nyc-in-transit]
-7:50
+ * SUN
+ * MON
+ * TUE
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
 12:15 2:30 4:45 6:00 7:00 8:15 9:15
@@ -193,28 +102,179 @@ MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/f
 UNZIPPED [https://filmforum.org/film/unzipped-2026]
 12:20 4:15
 
-THE SCOUT [https://filmforum.org/film/the-scout]
+Ends Today!THE SCOUT [https://filmforum.org/film/the-scout]
 2:10
 
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+Ends Today!ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 KORCZAK [https://filmforum.org/film/korczak-wajda-100]
 12:20
 
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+Ends Today!ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 MAN OF IRON [https://filmforum.org/film/man-of-iron-wajda-100]
 2:50
 
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+Ends Today!ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 ASHES & DIAMONDS [https://filmforum.org/film/ashes-and-diamonds-wajda-100]
 5:50
 
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+Ends Today!ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 WALESA: MAN OF HOPE [https://filmforum.org/film/walesa-man-of-hope-wajda-100]
 8:10
 
-Showtimes coming soon!
+Opens Today!FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
 
-Showtimes coming soon!
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15 2:30 4:45 6:00 7:00 8:15 9:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:30
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+4:15
+
+Opens Today!WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+SYMBIOPSYCHOTAXIPLASM: TAKE ONE [https://filmforum.org/film/symbiopsychotaxiplasm-take-one-william-greaves-100]
+12:15 8:50
+
+Opens Today!WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+NATIONTIME [https://filmforum.org/film/nationtime-william-greaves-100]
+2:00
+
+Opens Today!WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+FROM THESE ROOTS and BLACK POWER IN AMERICA: MYTH… OR REALITY? [https://filmforum.org/film/from-these-roots-black-power-in-america-william-greaves-100]
+3:50
+
+Opens Today!WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+LOST BOUNDARIES [https://filmforum.org/film/lost-boundaries-william-greaves-100]
+5:50
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25(OC) 4:30 6:30 9:00
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15(OC) 2:30 4:45 6:00 7:00 8:15 9:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:30
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+4:15
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+PROFILE OF A PROBLEM DRINKER, PUTTING IT STRAIGHT, and SMOKE AND WEATHER [https://filmforum.org/film/profile-of-a-problem-drinker-putting-it-straight-smoke-and-weather-william-greaves-100]
+12:20
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+SOULS OF SIN [https://filmforum.org/film/souls-of-sin-william-greaves-100]
+1:50
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+STILL A BROTHER: INSIDE THE NEGRO MIDDLE CLASS and IN THE COMPANY OF MEN [https://filmforum.org/film/still-a-brother-inside-the-negro-middle-class-in-the-company-of-men-william-greaves-100]
+3:20
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+THE FIRST WORLD FESTIVAL OF NEGRO ARTS, FROM THESE ROOTS, and WEALTH OF A NATION [https://filmforum.org/film/the-first-world-festival-of-negro-arts-from-these-roots-wealth-of-a-nation-william-greaves-100]
+6:10
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+NATIONTIME [https://filmforum.org/film/nationtime-william-greaves-100]
+8:20
+
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+CORPSE BRIDE [https://filmforum.org/film/corpse-bride-ffjr-2026]
+11:00
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25(OC) 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15(OC) 2:30 4:45 6:00 7:00 8:15 9:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:30
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+4:15(OC)
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+MIRACLE IN HARLEM [https://filmforum.org/film/miracle-in-harlem-william-greaves-100]
+1:00
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+THE COLORED HARVEST, BLOOD AND FIRE, and EMERGENCY WARD [https://filmforum.org/film/the-colored-harvest-blood-and-fire-emergency-ward-william-greaves-100]
+2:40
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+RALPH BUNCHE: AN AMERICAN ODYSSEY [https://filmforum.org/film/ralph-bunche-an-american-odyssey-william-greaves-100]
+4:40
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+SYMBIOPSYCHOTAXIPLASM: TAKE ONE [https://filmforum.org/film/symbiopsychotaxiplasm-take-one-william-greaves-100]
+7:10
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+SYMBIOPSYCHOTAXIPLASM: TAKE 2½ [https://filmforum.org/film/symbiopsychotaxiplasm-take-2-william-greaves-100]
+8:55
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25(OC) 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15 2:30 4:45 6:00 7:00(OC) 8:15 9:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:30
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+4:15(OC)
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+RALPH BUNCHE: AN AMERICAN ODYSSEY [https://filmforum.org/film/ralph-bunche-an-american-odyssey-william-greaves-100]
+12:30
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+IN THE COMPANY OF MEN and WEALTH OF A NATION [https://filmforum.org/film/in-the-company-of-men-wealth-of-a-nation-william-greaves-100]
+3:00
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+SOULS OF SIN [https://filmforum.org/film/souls-of-sin-william-greaves-100]
+4:45
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+YOU’VE GOT A NUMBER and THE DEEP NORTH [https://filmforum.org/film/youve-got-a-number-the-deep-north-william-greaves-100]
+6:30
+
+Special Screening!MIKEY AND NICKY [https://filmforum.org/film/mikey-and-nicky]
+8:00
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30(OC) 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15(OC) 2:30 4:45 6:00 7:00 8:15 9:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:30
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+4:15
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+VOICE OF LA RAZA and THE FIRST WORLD FESTIVAL OF NEGRO ARTS [https://filmforum.org/film/voice-of-la-raza-the-first-world-festival-of-negro-arts-william-greaves-100]
+1:00
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+STILL A BROTHER: INSIDE THE NEGRO MIDDLE CLASS and IN THE COMPANY OF MEN [https://filmforum.org/film/still-a-brother-inside-the-negro-middle-class-in-the-company-of-men-william-greaves-100]
+2:50
+
+WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
+SYMBIOPSYCHOTAXIPLASM: TAKE ONE [https://filmforum.org/film/symbiopsychotaxiplasm-take-one-william-greaves-100]
+8:20
+
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
+A BRONX TALE [https://filmforum.org/film/a-bronx-tale-nyc-in-transit]
+5:50
 
 Donate [https://donate.filmforum.org/give/]
 
@@ -234,12 +294,6 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-SWEET RUSH
-POST-FILM CONVERSATION WITH STAR PAWEŁ SZAJDA [https://filmforum.org/events/event/sweet-rush-october-19]
-
-Monday, October 19
-8:10
-
 WALESA: MAN OF HOPE
 POST-FILM CONVERSATION WITH STAR ROBERT WIĘCKIEWICZ [https://filmforum.org/events/event/walesa-man-of-hope-october-22]
 
@@ -251,6 +305,12 @@ INTRODUCED BY PRODUCER LIANI GREAVES AND FOUNDER OF INDIECOLLECT SANDRA SCHULBER
 
 Friday, October 23
 2:00
+
+LOST BOUNDARIES
+POST-FILM CONVERSATION WITH FILM HISTORIAN AND AUTHOR DONALD BOGLE AND FILM FORUM FOUNDING REPERTORY ARTISTIC DIRECTOR BRUCE GOLDSTEIN [https://filmforum.org/events/event/lost-boundaries-october-23]
+
+Friday, October 23
+5:50
 
 GET EMAIL NEWS
 
@@ -267,36 +327,33 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-SPY KIDS [https://filmforum.org/film/spy-kids-ffjr-2026]
-11:00
-
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30(OC) 4:45 6:00 7:00 8:15 9:15
+12:15 2:30 4:45 6:00 7:00 8:15 9:15
 
 MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:15 7:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-4:00
+1:00 6:30
 
 UNZIPPED [https://filmforum.org/film/unzipped-2026]
-12:20(OC) 4:15
+12:20 4:15
 
 THE SCOUT [https://filmforum.org/film/the-scout]
 2:10
 
 ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-KATYŃ [https://filmforum.org/film/katyn-wajda-100]
-1:00
+MAN OF MARBLE [https://filmforum.org/film/man-of-marble-wajda-100]
+12:15
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+SWEET RUSH [https://filmforum.org/film/sweet-rush-wajda-100]
+4:00
+
+ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
+AFTERIMAGE [https://filmforum.org/film/afterimage-wajda-100]
+6:00
 
 ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
 SAMSON [https://filmforum.org/film/samson-wajda-100]
-3:30
-
-ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100]
-THE ASHES [https://filmforum.org/film/the-ashes-wajda-100]
-6:00
+8:10
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
@@ -312,36 +369,21 @@ ANDRZEJ WAJDA 100 [https://filmforum.org/series/andrzej-wajda-100#now-playing]
 
 Friday, October 2 – Thursday, October 22
 
-Films in this Series MAN OF MARBLE MAN OF IRON THE PROMISED LAND SIBERIAN LADY MACBETH LANDSCAPE AFTER BATTLE THE CONDUCTOR KORCZAK KATYŃ SAMSON THE ASHES AFTERIMAGE A CHRONICLE OF AMOROUS ACCIDENTS SWEET RUSH ASHES AND DIAMONDS WALESA: MAN OF HOPE
+Films in this Series AFTERIMAGE SIBERIAN LADY MACBETH A CHRONICLE OF AMOROUS ACCIDENTS SWEET RUSH SAMSON MAN OF MARBLE KORCZAK MAN OF IRON ASHES AND DIAMONDS WALESA: MAN OF HOPE
 Watch Trailer [https://filmforum.org/series/andrzej-wajda-100#trailer]
 https://filmforum.org/film/the-scout
 THE SCOUT [https://filmforum.org/film/the-scout]
 
-ENDS SOON
+MUST END THURSDAY, OCTOBER 22
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/the-scout] Watch Trailer [https://filmforum.org/film/the-scout#trailer]
 https://filmforum.org/film/unzipped-2026
 Isaac Mizrahi in
 UNZIPPED [https://filmforum.org/film/unzipped-2026]
 
-HELD OVER THROUGH THURSDAY, OCTOBER 22
+HELD OVER THROUGH THURSDAY, OCTOBER 29
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer [https://filmforum.org/film/unzipped-2026#trailer]
-https://filmforum.org/series/film-forum-jr.-series-page#now-playing
-FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
-
-SPY KIDS
-Sunday, October 18
-11:00
-
-Films in this Series SPY KIDS Tim Burton’s
-CORPSE BRIDE Pixar’s
-COCO The Red Balloon Danny Kaye in
-THE COURT JESTER Morris Engel & Ruth Orkin’s
-LITTLE FUGITIVE Walt Disney’s
-PINOCCHIO Ingrid Bergman & Bing Crosby in
-THE BELLS OF ST. MARY’S Nancy Meyers’
-THE PARENT TRAP
 https://filmforum.org/series/nyc-in-transit#now-playing
 NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
 
@@ -354,6 +396,21 @@ CARLITO’S WAY Robert De Niro’s
 A BRONX TALE Samuel Fuller’s
 PICKUP ON SOUTH STREET Amir Naderi’s
 MANHATTAN BY NUMBERS
+https://filmforum.org/series/film-forum-jr.-series-page#now-playing
+FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
+
+CORPSE BRIDE
+Sunday, October 25
+11:00
+
+Films in this Series Tim Burton’s
+CORPSE BRIDE Pixar’s
+COCO The Red Balloon Danny Kaye in
+THE COURT JESTER Morris Engel & Ruth Orkin’s
+LITTLE FUGITIVE Walt Disney’s
+PINOCCHIO Ingrid Bergman & Bing Crosby in
+THE BELLS OF ST. MARY’S Nancy Meyers’
+THE PARENT TRAP
 
 COMING SOON [https://filmforum.org/coming_soon]
 

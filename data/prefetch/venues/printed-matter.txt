@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-10-18T06:49:21.176Z
+FETCHED:2026-10-21T06:56:07.903Z
 
 PRINTED MATTER, INC.
 
@@ -156,14 +156,6 @@ September 9 - November 29, 2026
 
 [/programs/events/2280]
 
-EventChelseaOnline Programming
-
-Roaming A Flushing Mall: Rong Xin Book Talk
-
-October 20, 2026
-
-[/programs/events/2287]
-
 EventChelsea
 
 Nina Katchadourian’s Seat Assignment: eleven years of making art on airplanes
@@ -184,6 +176,16 @@ October 28, 2026
 
 EventChelsea
 
+Some Other (Note) Books
+
+A Bookmaking Workshop
+
+November 1, 2026
+
+[/programs/events/2334]
+
+EventChelsea
+
 The Radical Unpresent — Gregory Sholette in conversation with Naeem Mohaiemen
 
 November 5, 2026
@@ -199,6 +201,24 @@ A program and archival display at Printed Matter
 November 10 - 20, 2026
 
 [/programs/events/2333]
+
+EventChelsea
+
+Eric Copeland on Demon Portraits with Dem Passwords
+
+Launch
+
+November 11, 2026
+
+[/programs/events/2338]
+
+EventChelsea
+
+Roaming A Flushing Mall: Rong Xin Book Talk
+
+October 20, 2026
+
+[/programs/events/2287]
 
 EventChelsea
 
@@ -227,16 +247,6 @@ Launch and Conversation
 October 8, 2026
 
 [/programs/events/2295]
-
-EventChelsea
-
-Matías Duville: Monitor Yin Yang
-
-Book Launch and Conversation
-
-October 7, 2026
-
-[/programs/events/2277]
 
 See all events [/programs/2-events]
 

@@ -1,6 +1,6 @@
 VENUE:elsewhere | Elsewhere
 URL:https://www.elsewhere.club/events
-FETCHED:2026-10-18T06:49:25.796Z
+FETCHED:2026-10-21T06:56:14.329Z
 
 CALENDAR
 
@@ -43,24 +43,6 @@ Genre
  * World
  * Metal
  * Other
-
-Sat, Oct 17
-
-TYE TURNER, GOLDIE HARRIS, HANTI + ZABAAN PRESENTS CLUB CHUTIYA [/events/1998244334596]
- * CLUB
- * FULL VENUE
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/tye-turner-goldie-harris-hanti-zabaan-presents-club-chutiya-tickets-1998244334596]
-
-Sun, Oct 18
-
-IDA, GARRETT KLAHN (OF TEXAS IS THE REASON) [/events/1992358422675]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/ida-garrett-klahn-of-texas-is-the-reason-tickets-1992358422675]
 
 Fri, Oct 23
 
@@ -149,7 +131,7 @@ PAN ARCADIA X COOKING CLASS X NO STUPID QUESTIONS [/events/2000284855850]
  * LIVE
  * ZONE ONE
 
-7:00 PM
+6:30 PM
 Buy Tickets [https://www.eventbrite.com/e/pan-arcadia-x-cooking-class-x-no-stupid-questions-tickets-2000284855850]
 
 Thu, Oct 29
@@ -261,21 +243,21 @@ Buy Tickets [https://www.eventbrite.com/e/earth-to-emily-von-tickets-20030055354
 
 Fri, Nov 6
 
-LIME GARDEN, NINE PERFECT LIVES [/events/1985145677159]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1985145677159]
-
-Fri, Nov 6
-
 EMANCIPATOR [/events/1995465318484]
  * LIVE
  * THE HALL
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/emancipator-tickets-1995465318484]
+
+Fri, Nov 6
+
+LIME GARDEN, NINE PERFECT LIVES [/events/1985145677159]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1985145677159]
 
 Fri, Nov 6
 
@@ -315,21 +297,12 @@ Buy Tickets [https://www.eventbrite.com/e/elsewhere-presents-benwal-kyle-starkey
 
 Sat, Nov 7
 
-FLAVA D, SMOKEY BUBBLIN' B [/events/2001018252459]
+FLAVA D, MADE TO ORDER: DENDI'S DAD, EJWIZE, IMBUELESS [/events/2001018252459]
  * CLUB
  * FULL VENUE
 
 10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/flava-d-smokey-bubblin-b-tickets-2001018252459]
-
-Sun, Nov 8
-
-KYLE HUME, SAMMY RASH [/events/1985726645852]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/kyle-hume-sammy-rash-tickets-1985726645852]
+Buy Tickets [https://www.eventbrite.com/e/flava-d-made-to-order-dendis-dad-ejwize-imbueless-tickets-2001018252459]
 
 Sun, Nov 8
 
@@ -339,6 +312,24 @@ ARDE BOGOTÁ [/events/1990883722808]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/arde-bogota-tickets-1990883722808]
+
+Sun, Nov 8
+
+ATUNE: BACK TO BLACK [/events/2003606756745]
+ * LIVE
+ * CHATROOM
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/atune-back-to-black-tickets-2003606756745]
+
+Sun, Nov 8
+
+KYLE HUME, SAMMY RASH [/events/1985726645852]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/kyle-hume-sammy-rash-tickets-1985726645852]
 
 Mon, Nov 9
 
@@ -366,3 +357,12 @@ SOFIE ROYER [/events/1995697933241]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/sofie-royer-tickets-1995697933241]
+
+Wed, Nov 11
+
+INTERNET GIRL [/events/1996815850963]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/internet-girl-tickets-1996815850963]

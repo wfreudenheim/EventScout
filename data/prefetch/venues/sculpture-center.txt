@@ -1,6 +1,6 @@
 VENUE:sculpture-center | SculptureCenter
 URL:https://www.sculpture-center.org/events/
-FETCHED:2026-10-18T06:49:24.809Z
+FETCHED:2026-10-21T06:56:13.019Z
 
 /
  * Exhibitions [/exhibitions/]
@@ -18,7 +18,7 @@ FETCHED:2026-10-18T06:49:24.809Z
  * Shop [/shop/]
 
 Closed until
-12pm Sunday
+12pm tomorrow
 
  * Exhibitions [/exhibitions/]
  * Events [/events/]
@@ -36,7 +36,7 @@ Closed until
  * Shop [/shop/]
 
 Closed until
-12pm Sunday
+12pm tomorrow
 
 44–19 Purves Street
 Long Island City, NY 11101
@@ -702,6 +702,6 @@ The Eccentrics
 Performance Program: Georgia Sagri [/events/909/the-eccentrics-performance-program-georgia-sagri]
 Tue, Feb 2, 2016
 7–8pm [/events/909/the-eccentrics-performance-program-georgia-sagri]
-Opening Reception for The Eccentrics, Rochelle Goldberg: The Plastic Thirsty, and Now Showing: Jessi Reaves [/events/907/opening-reception-for-the-eccentrics-rochelle-go
+Opening Reception for The Eccentrics, Rochelle Goldberg: The Plastic Thirsty, and Now Showing: Jessi Reaves [/events/907/opening-reception-for-the-eccentrics-rochell
 
 [truncated]

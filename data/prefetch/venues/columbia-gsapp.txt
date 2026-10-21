@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-10-18T06:49:24.203Z
+FETCHED:2026-10-21T06:56:12.908Z
 
 /
  * The School
@@ -850,8 +850,8 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=10&month=10&time_range=week&year=2026 /events?day=26&month=10&time_range=week&year=2026
-Oct 18 – Oct 25
+/events?day=13&month=10&time_range=week&year=2026 /events?day=29&month=10&time_range=week&year=2026
+Oct 21 – Oct 28
 Week
 [/events?time_range=week]
 Month
@@ -859,33 +859,7 @@ Month
 Semester
 [/events?time_range=semester]
 
-Mon, Oct 19    12pm
-
-The Status of the Document: Hito Steyerl, Tom Keenan, and Mark Wasiuta
-
-Discussion
-
-[/events/4224-the-status-of-the-document-hito-steyerl-tom-keenan-and-mark-wasiuta]
-
-Mon, Oct 19    6:30pm
-
-Works 2: The Ningbo Museum
-
-Lecture
-
-[/events/4227-works-2-the-ningbo-museum]
-
-Mon, Oct 19    6:30pm
-
-Alumni Connections in Los Angeles
-
-Alumni
-
-Los Angeles
-
-[/events/4292-alumni-connections-in-los-angeles]
-
-Wed, Oct 21    1pm
+Today at 1pm
 
 Francois Chatillon
 
@@ -898,6 +872,14 @@ Thu, Oct 22    12pm
 GSAPP Admissions at Florida International University Grad Fair
 
 [/events/4358-gsapp-admissions-at-florida-international-university-grad-fair]
+
+Thu, Oct 22    12pm
+
+Abundance Talk: The Alibi of Capital
+
+Buell Center
+
+[/events/4362-abundance-talk-the-alibi-of-capital]
 
 Thu, Oct 22    1pm
 
@@ -920,3 +902,106 @@ Sun, Oct 25    10am
 GSAPP Admissions at Philadelphia Architecture and Design Fair
 
 [/events/4360-gsapp-admissions-at-philadelphia-architecture-and-design-fair]
+Mon, Oct 26
+
+Open House for Prospective Students
+
+[/events/4301-open-house-for-prospective-students]
+
+Mon, Oct 26    6:30pm
+
+Open House Lecture: Emanuel Admassu & Olalekan Jeyifous
+
+Lecture
+
+[/events/4226-open-house-lecture-emanuel-admassu-olalekan-jeyifous]
+
+Tue, Oct 27    9am
+
+Virtual
+
+Fall 2026 Online Open House: MS Historic Preservation
+
+[/events/4345-fall-2026-online-open-house-ms-historic-preservation]
+
+Tue, Oct 27    10am
+
+Virtual
+
+Fall 2026 Online Open House: MS Architecture and Urban Design
+
+[/events/4346-fall-2026-online-open-house-ms-architecture-and-urban-design]
+
+Tue, Oct 27    12pm
+
+Tuesday Talks
+
+Alumni
+
+Virtual
+
+[/events/4277-tuesday-talks]
+
+Tue, Oct 27    12:30pm
+
+THE LIBRARY IS OPEN 32: Shelter Cookbook
+
+Library is Open
+
+[/events/4273-the-library-is-open-32-shelter-cookbook]
+
+Tue, Oct 27    5pm
+
+Alumni Connections in Miami
+
+Alumni
+
+Miami
+
+[/events/4289-alumni-connections-in-miami]
+
+Tue, Oct 27    7pm
+
+Virtual
+
+Fall 2026 Online Open House: MS Critical, Curatorial, and Conceptual Practices
+
+[/events/4347-fall-2026-online-open-house-ms-critical-curatorial-and-conceptual-practices]
+
+Wed, Oct 28    9am
+
+Virtual
+
+Fall 2026 Online Open House: MS Advanced Architectural Design
+
+[/events/4348-fall-2026-online-open-house-ms-advanced-architectural-design]
+
+Wed, Oct 28    9am
+
+Virtual
+
+Fall 2026 Online Open House: MS Computational Design Practices
+
+[/events/4349-fall-2026-online-open-house-ms-computational-design-practices]
+
+Wed, Oct 28    10am
+
+Virtual
+
+Fall 2026 Online Open House: MS Urban Planning
+
+[/events/4350-fall-2026-online-open-house-ms-urban-planning]
+
+Wed, Oct 28    11am
+
+GSAPP Admissions at University of Illinois Chicago Grad Fair
+
+[/events/4357-gsapp-admissions-at-university-of-illinois-chicago-grad-fair]
+
+Wed, Oct 28    7:30pm
+
+Alumni Connections in Indianapolis
+
+Alumni
+
+[/events/4288-alumni-connections-in-indianapolis]

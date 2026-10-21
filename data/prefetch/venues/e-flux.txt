@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-10-18T06:49:16.958Z
+FETCHED:2026-10-21T06:56:03.378Z
 
 Subscribe
 
@@ -37,13 +37,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/
-
-Current & Upcoming
-Incomputable Earth: Technology and the Anthropocene Hypothesis [/events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/]
-October 20, 2026, 7pm
-e-flux
-RSVP [https://www.eventbrite.com/e/incomputable-earth-technology-and-the-anthropocene-hypothesis-tickets-2002770084235]
 /events/6783387/bar-laika-presents-playback-0040-with-solpara/
 
 Current & Upcoming
@@ -58,6 +51,27 @@ Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings [/events/678
 October 22, 2026, 7pm
 e-flux
 RSVP [https://www.eventbrite.com/e/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings-tickets-2002310373227]
+/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/
+
+Current & Upcoming
+How To (Not) Be Heard: Steve Goodman & Bogna Konior [/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/]
+October 27, 2026, 7pm
+e-flux
+RSVP [https://www.eventbrite.com/e/how-not-to-be-heard-steve-goodman-bogna-konior-tickets-2003580488175]
+/events/6783399/la-merde-the-mole-nbsp/
+
+Current & Upcoming
+La Merde! The Mole!   [/events/6783399/la-merde-the-mole-nbsp/]
+November 5, 2026, 7pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/la-merde-the-mole-tickets-2003685100072]
+/events/6783397/here-already/
+
+Current & Upcoming
+Here, Already [/events/6783397/here-already/]
+November 10, 2026, 7pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/here-already-tickets-2003581975624]
 /events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/
 
 Current & Upcoming
@@ -87,15 +101,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-In-person, Launches, Talks
-/events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/
-
-Incomputable Earth: Technology and the Anthropocene Hypothesis
-
-[/events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/]
-October 20, 2026, 7pm
-e-flux
-RSVP [https://www.eventbrite.com/e/incomputable-earth-technology-and-the-anthropocene-hypothesis-tickets-2002770084235]
 In-person
 /events/6783387/bar-laika-presents-playback-0040-with-solpara/
 
@@ -113,6 +118,35 @@ Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings
 October 22, 2026, 7pm
 e-flux
 RSVP [https://www.eventbrite.com/e/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings-tickets-2002310373227]
+In-person, Talks
+/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/
+
+How To (Not) Be Heard: Steve Goodman & Bogna Konior
+
+[/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/]
+October 27, 2026, 7pm
+e-flux
+RSVP [https://www.eventbrite.com/e/how-not-to-be-heard-steve-goodman-bogna-konior-tickets-2003580488175]
+In-person, Screenings, Talks
+/events/6783399/la-merde-the-mole-nbsp/
+
+La Merde! The Mole!
+
+ 
+
+[/events/6783399/la-merde-the-mole-nbsp/]
+November 5, 2026, 7pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/la-merde-the-mole-tickets-2003685100072]
+In-person, Screenings
+/events/6783397/here-already/
+
+Here, Already
+
+[/events/6783397/here-already/]
+November 10, 2026, 7pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/here-already-tickets-2003581975624]
 In-person
 /events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/
 
@@ -123,6 +157,17 @@ November 18, 2026, 7pm
 Bar Laika by e-flux
 Archive
 
+Advertisement
+/ads/redirect/6747220
+/ads/redirect/6747220
+In-person, Launches, Talks
+/events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/
+
+Incomputable Earth: Technology and the Anthropocene Hypothesis
+
+[/events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/]
+October 20, 2026, 7pm
+e-flux
 In-person, Screenings
 /events/6783396/sometimes-it-was-beautiful/
 
@@ -147,15 +192,4 @@ Film at a Distance: On Artavazd Peleshyan
 [/events/6783395/film-at-a-distance-on-artavazd-peleshyan/]
 October 13, 2026, 7pm
 e-flux Screening Room
-In-person, Talks, Screenings
-/events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/
-
-Under the Red Sky: Pınar Öğrenci’s Art of Responding
-
-[/events/6783392/under-the-red-sky-p-nar-ouml-renci-rsquo-s-art-of-responding/]
-October 10, 2026, 3pm
-e-flux Screening Room
 Load more
-Advertisement
-/ads/redirect/6747217
-/ads/redirect/6747217

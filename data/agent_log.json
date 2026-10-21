@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "cooper-union",
-    "scrape_tier_used": 3,
-    "started_at": "2026-09-27T07:26:19.634Z",
-    "completed_at": "2026-09-27T07:26:19.634Z",
-    "events_found": 6,
-    "events_new": 5,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "bam",
     "scrape_tier_used": 3,
     "started_at": "2026-09-27T07:26:19.643Z",
@@ -4997,6 +4987,16 @@
     "completed_at": "2026-10-18T07:32:33.883Z",
     "events_found": 2,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-10-21T06:55:58.345Z",
+    "completed_at": "2026-10-21T06:55:58.345Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]

@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-10-18T06:49:27.207Z
+FETCHED:2026-10-21T06:56:15.969Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,67 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP10.18.2026
+TODAY’SLINEUP10.21.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+DANGEROUS: DANIRO
+
+DANIRO
+
+10.18.2026
+
+Experimental Electronic, Techno, Drill, Alternative Club, Experimental
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-18-2200]
+ *
+
+/shows/special-guests/2026-10-18-2200
+
+DR. RUBINSTEIN B2B SUPERGLOSS
+
+10.18.2026
+
+Trance, Acid
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-18-1400]
+ *
+
+/shows/special-guests/2026-10-18-1400
+
+KINDERGARTEN: MAIN PHASE B2B MA SHA
+
+Main Phase, Ma Sha
+
+10.17.2026
+
+Dub, Techno, UK Garage, Dubstep
+
+ * Play
+ * Detail [/shows/kindergarten/2026-10-17-2200]
+ *
+
+/shows/kindergarten/2026-10-17-2200
+
+CALL SUPER
+
+Call Super
+
+10.16.2026
+
+House, Electronica, Techno, UK Garage
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-16-1400]
+ *
+
+/shows/special-guests/2026-10-16-1400
 
 SUMMER SCHOOL RADIO WITH LOVIE AND CLUB CARTER RADIO
 
@@ -64,104 +118,48 @@ Alternative Club, Breaks, Experimental Electronic, Soundtrack
 
 /shows/special-guests/2026-10-10-1800
 
-BODY JOURNEY WITH O'SIMMIE
-
-O'SIMMIE
-
-10.10.2026
-
-Trance, Breaks, Alternative Club
-
- * Play
- * Detail [/shows/special-guests/2026-10-10-1700]
- *
-
-/shows/special-guests/2026-10-10-1700
-
-MARTYN BOOTYSPOON B2B SWAMI SOUND
-
-Martyn Bootyspoon, Swami Sound
-
-10.09.2026
-
-House, Electro, Alternative Club
-
- * Play
- * Detail [/shows/special-guests/2026-10-09-1900]
- *
-
-/shows/special-guests/2026-10-09-1900
-
-SOFTI
-
-Softi
-
-10.09.2026
-
-Techno, Ambient, Downtempo, Trip Hop
-
- * Play
- * Detail [/shows/special-guests/2026-10-09-1800]
- *
-
-/shows/special-guests/2026-10-09-1800
-
-SUBB-AN
-
-Subb-an
-
-10.09.2026
-
-House, Techno
-
- * Play
- * Detail [/shows/special-guests/2026-10-09-1200]
- *
-
-/shows/special-guests/2026-10-09-1200
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * Andrew Devlin
+ * AJ_XO
    R
-   [/artists/andrew-devlin]
- * threehz
+   [/artists/ajxo]
+ * Samer Ghadry
    R
-   [/artists/threehz]
- * DJ Tara
+   [/artists/samer-ghadry]
+ * Juan MacLean
    R
-   [/artists/tara]
- * Donis
+   [/artists/juan-maclean]
+ * J. Russ
    R
-   [/artists/donis]
- * Toribio
-   R
-   [/artists/toribio]
+   [/artists/j-russ]
  * Clay Wilson
    R
    [/artists/clay-wilson]
- * Duneska
+ * Nick Boyd
    R
-   [/artists/duneska]
- * Queen Majesty
+   [/artists/nick-boyd]
+ * Takaya Nagase
    R
-   [/artists/queen-majesty]
- * Lovie
+   [/artists/takaya-nagase]
+ * Cyrus
    R
-   [/artists/lovie]
- * Justin Strauss
+   [/artists/cyrus]
+ * Adrian Rew
    R
-   [/artists/justin-strauss]
- * Brian DeGraw
+   [/artists/adrian-rew]
+ * The Dance Pit
    R
-   [/artists/brian-degraw]
- * Jeff Mendoza
+   [/artists/the-dance-pit]
+ * Tommy Castro
    R
-   [/artists/jeff-mendoza]
+   [/artists/tommy-castro]
+ * Joy Guidry
+   R
+   [/artists/joy-guidry]
 
 WE ARE THE LOT RADIO
 
@@ -174,31 +172,34 @@ About us [/about]
  * 12am — 10am
    RESTREAM
 
- * 10am — 12pm
-   Lise & Vito
+ * 10am — 11am
+   BRIGHT PATTERNS with Vicki Siolos
+
+ * 11am — 12pm
+   Compulsory Joy! with Timo Ellis
 
  * 12pm — 2pm
-   Darker Than Wax FM invites PLAYR1
-   Soul, Electronica, House, Boogie
- * 2pm — 3pm
-   Dr. Rubinstein b2b Supergloss
-   Acid, Trance
- * 3pm — 5pm
-   Weird Science in the Orbit
-   Ambient, Dub, Synthpop
- * 5pm — 6pm
-   Warm Welcome with Special Guest Kyle Savage
-   Electronica, Post Punk
- * 6pm — 7pm
-   Louis Marlo
-   IDM, Downtempo, Techno, Experimental Electronic, Industrial
- * 8pm — 10pm
-   Black Rave Culture
+   PRINCE LANGUAGE
 
- * 10pm — 11pm
-   DANGEROUS: DANIRO
-   Experimental Electronic, Techno, Drill, Alternative Club, Experimental
- * 11pm — 12am
-   Zozo
+ * 2pm — 4pm
+   marvelito & hellotones 'El Hijo de PueblaYork'
+   Cumbia, Electronica, Hip Hop
+ * 4pm — 5pm
+   FaltyDL
+
+ * 5pm — 6pm
+   Razor-N-Tape with JKriv
+   House, Disco, Global
+ * 6pm — 7pm
+   Mind Cargo - Grace & Titino
+   Techno, House, Acid
+ * 7pm — 8pm
+   ANYWHERE ON EARTH invites Beewack
+
+ * 8pm — 10pm
+   ANALOG SOUL
+
+ * 10pm — 12am
+   Restream
 
 THE LOT RADIO
