@@ -91,7 +91,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:18:04.810Z"
+    "last_checked": "2026-10-21T07:38:16.215Z"
   },
   {
     "id": "eyebeam",
@@ -419,7 +419,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:18:05.016Z"
+    "last_checked": "2026-10-21T07:38:16.236Z"
   },
   {
     "id": "columbia-gsapp",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:27:46.906Z"
+    "last_checked": "2026-10-21T07:38:16.204Z"
   },
   {
     "id": "artists-space",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:18:04.848Z"
+    "last_checked": "2026-10-21T07:38:16.289Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:18:04.945Z"
+    "last_checked": "2026-10-21T07:38:16.303Z"
   },
   {
     "id": "moma",
@@ -1133,7 +1133,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: /calendar 404s, no obvious replacement (JS nav). WebFetch root and locate events path during sweep.",
-    "last_checked": "2026-10-07T07:23:05.193Z"
+    "last_checked": "2026-10-21T07:38:16.279Z"
   },
   {
     "id": "cooper-union",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-10-21T07:27:43.085Z"
+    "last_checked": "2026-10-21T07:38:16.374Z"
   },
   {
     "id": "the-shed",
@@ -1208,7 +1208,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Sweep 2026-07: queue-it bot wall blocks fetching. Try off-peak or newsletter.",
-    "last_checked": "2026-10-18T07:18:04.857Z"
+    "last_checked": "2026-10-21T07:38:16.265Z"
   },
   {
     "id": "performance-space-ny",
@@ -1580,7 +1580,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:17:50.121Z"
+    "last_checked": "2026-10-21T07:39:18.048Z"
   },
   {
     "id": "vera-list-center",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:34:35.056Z"
+    "last_checked": "2026-10-21T07:38:16.335Z"
   },
   {
     "id": "the-stone",
@@ -2223,7 +2223,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:18:04.830Z"
+    "last_checked": "2026-10-21T07:38:16.318Z"
   },
   {
     "id": "japan-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:18:04.675Z"
+    "last_checked": "2026-10-21T07:38:16.348Z"
   },
   {
     "id": "aaww",
@@ -2321,7 +2321,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:46.262Z"
+    "last_checked": "2026-10-21T07:38:16.366Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:18:04.982Z"
+    "last_checked": "2026-10-21T07:38:16.358Z"
   },
   {
     "id": "nypl-live",
@@ -2600,7 +2600,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.798Z"
+    "last_checked": "2026-10-21T07:39:18.031Z"
   },
   {
     "id": "helix-center",
@@ -2624,7 +2624,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:44.347Z"
+    "last_checked": "2026-10-21T07:38:16.327Z"
   },
   {
     "id": "data-society",
@@ -2768,7 +2768,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:44.360Z"
+    "last_checked": "2026-10-21T07:38:16.388Z"
   },
   {
     "id": "white-columns",
@@ -3053,7 +3053,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:41.785Z"
+    "last_checked": "2026-10-21T07:38:16.252Z"
   },
   {
     "id": "abrons-arts-center",
@@ -3546,7 +3546,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:19:07.319Z"
+    "last_checked": "2026-10-21T07:39:18.062Z"
   },
   {
     "id": "bryant-park-picnics",

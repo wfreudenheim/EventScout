@@ -10156,5 +10156,674 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-21T07:34:36.408Z"
+  },
+  {
+    "id": "the-new-school-2026-10-28-joyce-joumaa-provisional-recovery",
+    "title": "Joyce Joumaa: Provisional Recovery",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-28",
+    "time_start": "19:00",
+    "time_end": "20:30",
+    "description": "Parsons Visiting Artist Lecture by Vera List Center Fellow Joyce Joumaa on image, documentation and collapse as a condition to be inhabited, including her fellowship project Calibrated Alien.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation / video art / moving image",
+      "Philosophy / critical theory / media theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.220Z"
+  },
+  {
+    "id": "the-new-school-2026-10-29-eyal-weizman-ungrounding",
+    "title": "Eyal Weizman: Ungrounding",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-29",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Lecture and book launch with Forensic Architecture founder Eyal Weizman on violence, territory and the built environment in Gaza and Palestine.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Philosophy / critical theory / media theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.221Z"
+  },
+  {
+    "id": "the-new-school-2026-12-12-war-trash",
+    "title": "War Trash",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-12-12",
+    "time_start": "15:00",
+    "time_end": "17:30",
+    "description": "Symposium around Aziz Hazara: Coming Home, opening with an artist talk by Hazara and panels (with Tom Keenan, Jasbir K Puar and others) reckoning with the human, environmental and material effects of war; off-site program co-presented with the Vera List Center.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "artist-talk"
+    ],
+    "matched_categories": [
+      "Contemporary art",
+      "Philosophy / critical theory / media theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.221Z"
+  },
+  {
+    "id": "the-new-school-2026-10-24-black-feminist-study-group-iii",
+    "title": "Black Feminist Study Group III",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-10-24",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "description": "Scholar Cresa Pugh joins session III of the Black Feminist Study Group with a reading from Denise Ferreira da Silva's Unpayable Debt, anchored by Rosana Paulino's prize exhibition.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy / critical theory / media theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.220Z"
+  },
+  {
+    "id": "nyu-game-center-2026-10-22-nyu-game-center-lecture-series-warren-sp",
+    "title": "NYU Game Center Lecture Series: Warren Spector",
+    "venue_id": "nyu-game-center",
+    "venue_name": "NYU Game Center",
+    "date": "2026-10-22",
+    "time_start": "19:00",
+    "time_end": "20:30",
+    "description": "Game design legend Warren Spector (Deus Ex, Epic Mickey) compares working with existing IP vs. original IP, marking his retirement from game development.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "game-design",
+      "game-development"
+    ],
+    "matched_categories": [
+      "Games & interactive art",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.242Z"
+  },
+  {
+    "id": "the-shed-2026-12-10-virgil-abloh-the-codes",
+    "title": "Virgil Abloh: The Codes",
+    "venue_id": "the-shed",
+    "venue_name": "The Shed",
+    "date": "2026-12-10",
+    "description": "Major survey of designer Virgil Abloh's multidisciplinary practice across fashion, art, architecture, graphic design and music, with nearly 1,000 objects from the Virgil Abloh Archive.",
+    "url": "",
+    "price": "varies",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art",
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.255Z"
+  },
+  {
+    "id": "guggenheim-2026-10-27-alex-da-corte-s-roy-g-biv",
+    "title": "Alex Da Corte's ROY G BIV",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-27",
+    "time_start": "11:30",
+    "time_end": "17:30",
+    "description": "Video installation in which Alex Da Corte transforms into Marcel Duchamp, Rrose Sélavy, the Joker, and a Brancusi sculpture; a monthly live cube-painting performance accompanies the piece.",
+    "url": "",
+    "price": "free with admission",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "sculpture",
+      "painting",
+      "installation"
+    ],
+    "matched_categories": [
+      "Experimental animation / video art / moving image",
+      "Contemporary art",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.270Z"
+  },
+  {
+    "id": "guggenheim-2026-10-21-caf-rebay-x-patrick-rosal",
+    "title": "Café Rebay x Patrick Rosal",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-21",
+    "time_start": "10:30",
+    "time_end": "17:00",
+    "description": "Public project by Guggenheim Poet-in-Residence Patrick Rosal posing questions on the topic of water, inviting visitors to respond through reflection, dialogue and making; also runs Oct 27-28.",
+    "url": "",
+    "price": "free with admission",
+    "format": "other",
+    "interest_score": 3.1,
+    "tags": [
+      "water"
+    ],
+    "matched_categories": [
+      "Contemporary art",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.270Z"
+  },
+  {
+    "id": "guggenheim-2026-10-24-architecture-tours",
+    "title": "Architecture Tours",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-24",
+    "time_start": "11:30",
+    "time_end": "12:30",
+    "description": "Hour-long guided tour of Frank Lloyd Wright's landmark Guggenheim building, its history, materials and design; recurring Saturdays and Sundays.",
+    "url": "",
+    "price": "varies",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.270Z"
+  },
+  {
+    "id": "guggenheim-2026-10-25-drawing-the-guggenheim",
+    "title": "Drawing the Guggenheim",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-25",
+    "time_start": "11:00",
+    "time_end": "17:00",
+    "description": "Tenth global edition of a joint drawing session held by the Guggenheim New York, Venice and Bilbao, celebrating Frank Lloyd Wright's building.",
+    "url": "",
+    "price": "free with admission",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.270Z"
+  },
+  {
+    "id": "guggenheim-2026-10-30-2026-fall-teen-fest-imagining-futures",
+    "title": "2026 Fall Teen Fest: Imagining Futures",
+    "venue_id": "guggenheim",
+    "venue_name": "Guggenheim",
+    "date": "2026-10-30",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "Teen program (ages 13-19) with activations on imagining futures led by educator/comedian Sam Anzer, storyteller Natali Nicole, and Urban Word.",
+    "url": "",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding / speculative design"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.270Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-21-plaza",
+    "title": "PLAZA",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-21",
+    "time_start": "17:00",
+    "description": "Andrew Schneider's responsive public artwork on Josie Robertson Plaza, inviting audiences to watch and become part of a piece that celebrates everyday coincidences; runs daily Oct 21-25.",
+    "url": "",
+    "price": "free",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology / new media"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.284Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-24-momi-halloween-party",
+    "title": "MoMI Halloween Party",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-24",
+    "time_start": "19:30",
+    "time_end": "23:00",
+    "description": "Annual members Halloween party with a DJ, Magic Lantern performances, raffle prizes, and member-only Dark Tours through the museum galleries.",
+    "url": "",
+    "price": "free (members)",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation / video art / moving image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.292Z"
+  },
+  {
+    "id": "nitehawk-2026-10-30-begotten-4k-restoration-",
+    "title": "Begotten (4K restoration)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-30",
+    "time_start": "00:00",
+    "description": "New 4K restoration of the experimental horror film Begotten, screening at midnight for Halloween weekend (also Oct 31).",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "horror",
+      "restoration"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.308Z"
+  },
+  {
+    "id": "nitehawk-2026-10-22-brooklyn-horror-film-festival",
+    "title": "Brooklyn Horror Film Festival",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-22",
+    "description": "Annual horror film festival screening dozens of movies, running Oct 15 through Oct 22.",
+    "url": "",
+    "price": "varies",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "film-festival",
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.307Z"
+  },
+  {
+    "id": "nitehawk-2026-10-24-newfest-annual-new-york-lgbtq-film-festi",
+    "title": "Newfest: Annual New York LGBTQ+ Film Festival",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-24",
+    "description": "NYC's annual LGBTQ+ film festival, with screenings at Prospect Park running Oct 19 through Oct 24.",
+    "url": "",
+    "price": "varies",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.307Z"
+  },
+  {
+    "id": "nitehawk-2026-11-04-you-can-color-outside-the-lines-the-stor",
+    "title": "You Can Color Outside the Lines: The Story of the Big Boys (w/ Q&A)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-04",
+    "description": "Documentary on the Big Boys, the wildly original Austin band fusing punk, funk, skateboarding and performance art; followed by a Q&A with member Tim Kerr.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "performance-art",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Experimental music / sound art",
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.308Z"
+  },
+  {
+    "id": "nitehawk-2026-10-21-an-american-werewolf-in-london",
+    "title": "An American Werewolf in London",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-21",
+    "description": "Repertory screening of the classic horror-comedy, part of Nitehawk's Spooky Season programming.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2.5,
+    "tags": [
+      "repertory-screening",
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.308Z"
+  },
+  {
+    "id": "nitehawk-2026-10-23-the-funhouse",
+    "title": "The Funhouse",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-10-23",
+    "time_start": "00:00",
+    "description": "Midnight repertory screening of Tobe Hooper's cult carnival horror film.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2.5,
+    "tags": [
+      "repertory-screening",
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.308Z"
+  },
+  {
+    "id": "nitehawk-2026-11-04-dracula-s-angel-w-q-a-",
+    "title": "Dracula's Angel (w/ Q&A)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-04",
+    "description": "Gothic horror romance passion project from the uncanny valley, followed by a Q&A with director Bryan Beasley.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.308Z"
+  },
+  {
+    "id": "asia-society-2026-10-25-our-century-spiraling-paths-through-arme",
+    "title": "Our Century: Spiraling Paths through Armenian Cinema",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-25",
+    "description": "Five-film series by Armenian filmmakers from different parts of the world, following characters constantly on the move; guest curated by Sona Karapoghosyan. Runs Oct 23-25.",
+    "url": "",
+    "price": "varies",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.338Z"
+  },
+  {
+    "id": "asia-society-2026-11-18-aga-khan-master-musicians-and-vincent-pe",
+    "title": "Aga Khan Master Musicians and Vincent Peirani in Concert",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-18",
+    "time_start": "19:30",
+    "time_end": "21:00",
+    "description": "Concert featuring newly created works inspired by the ancient routes connecting trade and culture between Asia and the Mediterranean.",
+    "url": "",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.339Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-26-regift-an-evening-with-rirkrit-tiravanij",
+    "title": "Regift: An Evening with Rirkrit Tiravanija, Amy Sillman, John Miller & Catharine Czudej",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-26",
+    "time_start": "19:00",
+    "description": "Swiss Institute's 40th-anniversary evening featuring a lottery drawing for Tiravanija's apartment-giveaway artwork Lucky No. 2, a conversation with John Miller, a poetry reading by Amy Sillman, and a contribution by Catharine Czudej.",
+    "url": "",
+    "price": "free",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:38:16.378Z"
+  },
+  {
+    "id": "nypl-live-2026-10-21-black-on-screen-honoring-marlon-riggs",
+    "title": "Black on Screen: Honoring Marlon Riggs",
+    "venue_id": "nypl-live",
+    "venue_name": "LIVE from NYPL",
+    "date": "2026-10-21",
+    "time_start": "18:30",
+    "description": "Screening honoring experimental documentary filmmaker Marlon Riggs, part of NYPL's Black on Screen series at the Schomburg Center.",
+    "url": "",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:39:18.008Z"
+  },
+  {
+    "id": "nypl-live-2026-10-21-horror-film-series-slashers",
+    "title": "Horror Film Series: Slashers",
+    "venue_id": "nypl-live",
+    "venue_name": "LIVE from NYPL",
+    "date": "2026-10-21",
+    "time_start": "18:00",
+    "description": "NYPL repertory horror screenings spotlighting iconic slasher-genre villains, including Scream and Black Christmas; also screens Oct 28.",
+    "url": "",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:39:18.010Z"
+  },
+  {
+    "id": "nypl-live-2026-11-13-the-library-after-hours-friday-the-13th-",
+    "title": "The Library After Hours: Friday the 13th Edition",
+    "venue_id": "nypl-live",
+    "venue_name": "LIVE from NYPL",
+    "date": "2026-11-13",
+    "time_start": "19:30",
+    "time_end": "22:30",
+    "description": "NYPL's horror-themed after-hours night with dancing, live music and storytelling, classic film screenings, and a one-night display of rare collection materials on the history of witches.",
+    "url": "",
+    "price": "varies",
+    "format": "other",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Contemporary art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:39:18.010Z"
+  },
+  {
+    "id": "columbia-heyman-2026-10-26-celebrating-recent-work-by-eleanor-johns",
+    "title": "Celebrating Recent Work by Eleanor Johnson (\"Monstrous Bitch\" panel)",
+    "venue_id": "columbia-heyman",
+    "venue_name": "Columbia Society of Fellows / Heyman Center",
+    "date": "2026-10-26",
+    "time_start": "17:00",
+    "description": "Panel discussion about the 'monstrous bitch,' the feared female archetype that has haunted the patriarchal imagination for centuries, examining sexual agency and the contesting of patriarchal power.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy / critical theory / media theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:39:18.036Z"
+  },
+  {
+    "id": "lincoln-center-summer-2026-10-22-festival-of-firsts-claire-rousay-martyna",
+    "title": "Festival of Firsts: Claire Rousay & Martyna Basta / Keith \"Giant Claw\" Rankin & Julek Ploski",
+    "venue_id": "lincoln-center-summer",
+    "venue_name": "Lincoln Center (Summer for the City / Atrium)",
+    "date": "2026-10-22",
+    "time_start": "19:30",
+    "description": "American and Polish experimental sound artists present new joint projects as electronic composers and performers.",
+    "url": "",
+    "price": "free",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Experimental music / sound art",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:39:18.052Z"
+  },
+  {
+    "id": "lincoln-center-summer-2026-10-23-suhreetah",
+    "title": "suhREEtah",
+    "venue_id": "lincoln-center-summer",
+    "venue_name": "Lincoln Center (Summer for the City / Atrium)",
+    "date": "2026-10-23",
+    "time_start": "19:30",
+    "description": "suhREEtah makes her Lincoln Center debut presenting her first album, a meld of spoken word, rap and more.",
+    "url": "",
+    "price": "free",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music / sound art",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:39:18.052Z"
+  },
+  {
+    "id": "lincoln-center-summer-2026-10-25-come-sing-climate-songs",
+    "title": "Come & Sing: Climate Songs",
+    "venue_id": "lincoln-center-summer",
+    "venue_name": "Lincoln Center (Summer for the City / Atrium)",
+    "date": "2026-10-25",
+    "time_start": "13:00",
+    "description": "Participatory choir event led by Choir Director Ben Bram featuring two newly commissioned songs celebrating connection to the planet.",
+    "url": "",
+    "price": "free",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:39:18.053Z"
   }
 ]
