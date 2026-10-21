@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:23:20.995Z"
+    "last_checked": "2026-10-21T07:24:00.234Z"
   },
   {
     "id": "union-docs",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:23:21.013Z"
+    "last_checked": "2026-10-21T07:24:00.249Z"
   },
   {
     "id": "center-for-architecture",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:25:19.233Z"
+    "last_checked": "2026-10-21T07:21:56.569Z"
   },
   {
     "id": "bitforms",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-10-18T07:25:19.279Z"
+    "last_checked": "2026-10-21T07:21:56.625Z"
   },
   {
     "id": "the-shed",
@@ -1310,7 +1310,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:25:19.289Z"
+    "last_checked": "2026-10-21T07:21:56.594Z"
   },
   {
     "id": "mcnally-jackson",
@@ -1653,7 +1653,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:31:09.379Z"
+    "last_checked": "2026-10-21T07:21:56.611Z"
   },
   {
     "id": "bard-graduate-center",
@@ -1871,7 +1871,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:31:09.399Z"
+    "last_checked": "2026-10-21T07:22:58.178Z"
   },
   {
     "id": "center-for-book-arts",
@@ -1895,7 +1895,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:31:09.411Z"
+    "last_checked": "2026-10-21T07:22:58.191Z"
   },
   {
     "id": "franklin-furnace",
@@ -1919,7 +1919,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:31:09.435Z"
+    "last_checked": "2026-10-21T07:22:58.204Z"
   },
   {
     "id": "emily-harvey-foundation",
@@ -2178,7 +2178,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-14T07:35:12.889Z"
+    "last_checked": "2026-10-21T07:22:58.211Z"
   },
   {
     "id": "film-noir-cinema",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:31:09.479Z"
+    "last_checked": "2026-10-21T07:22:58.241Z"
   },
   {
     "id": "nowadays",
@@ -2624,7 +2624,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:18:04.789Z"
+    "last_checked": "2026-10-21T07:23:43.449Z"
   },
   {
     "id": "data-society",
@@ -2768,7 +2768,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:27:50.548Z"
+    "last_checked": "2026-10-21T07:23:43.466Z"
   },
   {
     "id": "white-columns",
@@ -2791,7 +2791,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:27:50.567Z"
+    "last_checked": "2026-10-21T07:23:43.479Z"
   },
   {
     "id": "participant-inc",
@@ -2815,7 +2815,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:27:50.585Z"
+    "last_checked": "2026-10-21T07:23:43.495Z"
   },
   {
     "id": "recess-art",
@@ -2839,7 +2839,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:27:50.601Z"
+    "last_checked": "2026-10-21T07:23:43.503Z"
   },
   {
     "id": "amant",

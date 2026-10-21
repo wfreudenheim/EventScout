@@ -9345,5 +9345,242 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-21T07:21:07.938Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-26-book-talk-intuition-by-r-buckminster-ful",
+    "title": "Book Talk: Intuition by R. Buckminster Fuller",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-26",
+    "time_start": "17:30",
+    "time_end": "20:00",
+    "description": "Launch celebration for the reissue of Buckminster Fuller's 'Intuition' (David Zwirner Books), with a film screening and conversation.",
+    "url": "https://calendar.aiany.org/2026/10/26/book-talk-intuition-by-r-buckminster-fuller/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:21:56.547Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-27-reimagining-the-li-lu-law-library-at-col",
+    "title": "Reimagining the Li Lu Law Library at Columbia Law School",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-27",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Talk on the redesign of the Li Lu Law Library at Columbia Law School.",
+    "url": "https://calendar.aiany.org/2026/10/27/reimagining-the-li-lu-law-library-at-columbia-law-school/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:21:56.549Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-27-the-un-permanent-forum-on-indigenous-iss",
+    "title": "The UN Permanent Forum on Indigenous Issues and the Built Environment",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-27",
+    "time_start": "13:00",
+    "time_end": "14:00",
+    "description": "Webinar on what architects and designers can learn from global work advancing Indigenous rights and priorities.",
+    "url": "https://calendar.aiany.org/2026/10/27/the-un-permanent-forum-on-indigenous-issues-and-the-built-environment/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:21:56.549Z"
+  },
+  {
+    "id": "architectural-league-2026-10-27-ask-me-anything-with-gauri-bahuguna",
+    "title": "Ask Me Anything with Gauri Bahuguna",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-10-27",
+    "time_start": null,
+    "time_end": null,
+    "description": "SITU Research's deputy director discusses computational methodology and the role of design in human rights advocacy and public investigations.",
+    "url": "https://archleague.org/event/ask-me-anything-with-gauri-bahuguna/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Science & Technology Studies"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:21:56.574Z"
+  },
+  {
+    "id": "poetry-project-2026-11-02--the-future-exists-for-the-most-part-in-",
+    "title": "\"The Future Exists for the Most Part in the Present\": On Poetry, the Avant-Garde, and the Left",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-02",
+    "time_start": null,
+    "time_end": null,
+    "description": "Multi-day program on poetry, the avant-garde, and left politics at The Poetry Project, Nov 2-6, 2026.",
+    "url": "https://www.poetryproject.org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-avant-garde-and-the-left",
+    "price": "$10-25",
+    "format": "conference",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:22:58.163Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-10-26-dark-matter-iron-gall-ink-from-waste",
+    "title": "Dark Matter: Iron Gall Ink from Waste",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-10-26",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "Workshop on making iron gall ink from waste materials with Julian Silverman.",
+    "url": "https://shop.centerforbookarts.org/products/26fpv007i",
+    "price": "$105",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:22:58.183Z"
+  },
+  {
+    "id": "franklin-furnace-2026-11-04-nypl-conversation-martha-wilson-and-anne",
+    "title": "NYPL Conversation: Martha Wilson and Anne Turyn",
+    "venue_id": "franklin-furnace",
+    "venue_name": "Franklin Furnace",
+    "date": "2026-11-04",
+    "time_start": "18:00",
+    "time_end": "21:45",
+    "description": "Conversation between performance/avant-garde artists Martha Wilson and Anne Turyn at NYPL's Schwarzman Building, presented by Franklin Furnace.",
+    "url": "https://franklinfurnace.org/nypl-conversation/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:22:58.195Z"
+  },
+  {
+    "id": "franklin-furnace-2026-11-21-person-place-thing-with-randy-cohen-feat",
+    "title": "Person Place Thing with Randy Cohen featuring Martha Wilson",
+    "venue_id": "franklin-furnace",
+    "venue_name": "Franklin Furnace",
+    "date": "2026-11-21",
+    "time_start": "14:00",
+    "time_end": "15:30",
+    "description": "Live interview series stop with Martha Wilson at P.P.O.W Gallery, celebrating Franklin Furnace's 50th anniversary.",
+    "url": "https://franklinfurnace.org/person-place-thing/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:22:58.195Z"
+  },
+  {
+    "id": "public-records-2026-10-22-mass-moca-records-presents-alyssa-weinbe",
+    "title": "MASS MoCA Records presents Alyssa Weinberg & Gabriel Cabezas – Pieces of Light",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-22",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Listening party and performance for the album Pieces of Light, presented by MASS MoCA Records.",
+    "url": "https://link.dice.fm/q7cc466abef1",
+    "price": null,
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:22:58.218Z"
+  },
+  {
+    "id": "swiss-institute-2026-10-24-scacchi-noise-chess-noise",
+    "title": "Scacchi Noise/Chess Noise",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-10-24",
+    "time_start": "16:00",
+    "time_end": null,
+    "description": "Interdisciplinary sound/game program pairing chess with noise music at Swiss Institute.",
+    "url": "https://swissinstitute.net/programs/scacchi-noise-chess-noise",
+    "price": null,
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "noise"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:23:43.455Z"
+  },
+  {
+    "id": "white-columns-2026-10-24-mieko-meguro-closing-party-zine-launch-c",
+    "title": "Mieko Meguro Closing Party + Zine Launch + Conversation",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-10-24",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "Closing party and zine launch for Mieko Meguro's exhibition, with a conversation featuring Matthew Higgs and Ryan Foerster.",
+    "url": "https://whitecolumns.org/exhibitions/mieko-meguro/",
+    "price": null,
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:23:43.470Z"
   }
 ]
