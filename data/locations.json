@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:32:33.836Z"
+    "last_checked": "2026-10-21T07:34:36.351Z"
   },
   {
     "id": "anthology-film-archives",
@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:32:33.844Z"
+    "last_checked": "2026-10-21T07:34:36.368Z"
   },
   {
     "id": "e-flux",
@@ -531,7 +531,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Correct URL is /events/ not /exhibitions. /exhibitions/ also has show listings.",
-    "last_checked": "2026-10-18T07:32:33.853Z"
+    "last_checked": "2026-10-21T07:34:36.379Z"
   },
   {
     "id": "the-kitchen",
@@ -591,7 +591,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-07T07:22:33.914Z"
+    "last_checked": "2026-10-21T07:34:35.011Z"
   },
   {
     "id": "light-industry",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:32:33.868Z"
+    "last_checked": "2026-10-21T07:34:36.404Z"
   },
   {
     "id": "the-drawing-center",
@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-10-18T07:32:33.882Z"
+    "last_checked": "2026-10-21T07:34:36.418Z"
   },
   {
     "id": "do-not-research",
@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:25:19.257Z"
+    "last_checked": "2026-10-21T07:34:35.040Z"
   },
   {
     "id": "printed-matter",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:18:04.654Z"
+    "last_checked": "2026-10-21T07:34:35.056Z"
   },
   {
     "id": "the-stone",
@@ -3100,7 +3100,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:29:12.159Z"
+    "last_checked": "2026-10-21T07:34:35.670Z"
   },
   {
     "id": "danspace-project",
@@ -3123,7 +3123,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:29:12.168Z"
+    "last_checked": "2026-10-21T07:34:35.690Z"
   },
   {
     "id": "chocolate-factory",
@@ -3170,7 +3170,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:29:12.175Z"
+    "last_checked": "2026-10-21T07:34:35.655Z"
   },
   {
     "id": "the-brick",
@@ -3420,7 +3420,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:24:27.351Z"
+    "last_checked": "2026-10-21T07:34:34.341Z"
   },
   {
     "id": "celebrate-brooklyn",
@@ -3472,7 +3472,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:32:33.772Z"
+    "last_checked": "2026-10-21T07:34:36.310Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3521,7 +3521,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:32:33.815Z"
+    "last_checked": "2026-10-21T07:34:36.329Z"
   },
   {
     "id": "lincoln-center-summer",

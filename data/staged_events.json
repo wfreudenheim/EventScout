@@ -9726,5 +9726,435 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-21T07:27:46.877Z"
+  },
+  {
+    "id": "bam-2027-05-28-danceafrica-50",
+    "title": "DanceAfrica 50",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2027-05-28",
+    "description": "DanceAfrica, BAM's longest-running program, celebrates its 50th anniversary as America's largest celebration of African and African American dance, music, and culture, with the Ndere Troupe and others, plus an outdoor bazaar.",
+    "url": "https://www.bam.org/da50",
+    "price": "varies",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:34.995Z"
+  },
+  {
+    "id": "cooper-union-2026-10-27-new-york-architecture-design-publishing-",
+    "title": "NEW YORK ARCHITECTURE & DESIGN PUBLISHING TODAY",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-27",
+    "time_start": "18:30",
+    "description": "A panel/talk on the current landscape of architecture and design publishing in New York, held at Cooper Union.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/new-york-architecture-design-publishing-today",
+    "format": "talk",
+    "interest_score": 3.1,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Worldbuilding, speculative design, design fiction",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:35.018Z"
+  },
+  {
+    "id": "cooper-union-2026-10-29-primers-for-a-handmade-utopia",
+    "title": "PRIMERS FOR A HANDMADE UTOPIA",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-29",
+    "description": "An exhibition at Cooper Union's architecture school exploring handmade, utopian design approaches, on view October 8 through 29, 2026.",
+    "url": "https://cooper.edu/architecture/exhibitions/primers-handmade-utopia",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding, speculative design, design fiction",
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:35.019Z"
+  },
+  {
+    "id": "movement-research-2026-10-27-studies-project-mr-publishing-open-house",
+    "title": "Studies Project: MR Publishing Open House",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-10-27",
+    "description": "An open house on Movement Research's publishing initiatives with Takahiro Yamamoto, Joshua Lubin-Levy, and Eva Yaa Asantewaa, discussing dance writing and critical discourse.",
+    "url": "https://movementresearch.org/events/1452/",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:35.661Z"
+  },
+  {
+    "id": "danspace-project-2026-12-18-juliette-mapp-vicky-shick",
+    "title": "Juliette Mapp + Vicky Shick",
+    "venue_id": "danspace-project",
+    "venue_name": "Danspace Project",
+    "date": "2026-12-18",
+    "description": "A shared evening of new choreographic work by Juliette Mapp and Vicky Shick at Danspace Project, running December 18-19.",
+    "url": "https://danspaceproject.org/calendar/fw2026-mapp-shick/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Embodied/site-specific work"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:35.675Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-11-10-portraits-of-america-exhibition",
+    "title": "Portraits of America Exhibition",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-11-10",
+    "description": "Group photography exhibition bringing together portraits of individuals whose distinct histories, cultural backgrounds, and lived experiences reflect the evolving idea of American identity. On view Oct 12 - Nov 10, 2026.",
+    "url": "https://www.flushingtownhall.org/show-details/portraits-of-america-exhibition",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.290Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-25-workshop-portraits-of-queens",
+    "title": "Workshop: Portraits of Queens",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-25",
+    "description": "Participatory workshop presented in conjunction with Portraits of America that invites visitors to explore portraiture as a way of seeing, connecting, and building community.",
+    "url": "https://www.flushingtownhall.org/show-details/portraits-of-queens",
+    "price": "see tickets",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.292Z"
+  },
+  {
+    "id": "terraza-7-2026-10-25-rooted-and-something-followed-us-home-bo",
+    "title": "ROOTED and SOMETHING FOLLOWED US HOME - Book Presentation - Q&A with Leopoldo Goût",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-25",
+    "description": "Book presentation and Q&A with author Leopoldo Goût discussing his horror/speculative-fiction novels Rooted and Something Followed Us Home.",
+    "url": "https://www.terraza7.com/detalles-y-registro/rooted-and-something-followed-us-home-book-presentation-q-a-with-leopoldo-gout",
+    "price": "free (RSVP)",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "World Music & Global Traditions",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.317Z"
+  },
+  {
+    "id": "terraza-7-2026-10-25-altar-de-muertos-oaxacan-tradition-nyc-d",
+    "title": "Altar de Muertos | Oaxacan Tradition | NYC DOT Trick-or-Streets",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-25",
+    "description": "A Dia de los Muertos altar installation and related programming in the Oaxacan tradition, presented in conjunction with NYC DOT's Trick-or-Streets event.",
+    "url": "https://www.terraza7.com/detalles-y-registro/altar-de-muertos-oaxacan-tradition-nyc-dot-trick-or-streets",
+    "price": "free (RSVP)",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.317Z"
+  },
+  {
+    "id": "terraza-7-2026-10-24-cristina-candela-ana-villa-antonio-tran-",
+    "title": "Cristina Candela, Ana Villa & Antonio Tran | Flamenco",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-24",
+    "description": "Flamenco performance by Cristina Candela, Ana Villa, and Antonio Tran, played in two sets.",
+    "url": "https://www.terraza7.com/detalles-y-registro/cristina-candela-ana-villa-antonio-tran-flamenco-first-set",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "flamenco"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.317Z"
+  },
+  {
+    "id": "terraza-7-2026-10-25-la-china-sonidera-nyc-ensemble-oaxacan-r",
+    "title": "La China Sonidera | NYC Ensemble | Oaxacan Roots, New York Sounds & Cumbia",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-25",
+    "description": "NYC-based ensemble La China Sonidera performs music blending Oaxacan roots, New York sounds, and cumbia.",
+    "url": "https://www.terraza7.com/detalles-y-registro/la-china-sonidera-nyc-ensemble-oaxacan-roots-new-york-sounds-cumbia",
+    "price": "free (RSVP)",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "cumbia"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.317Z"
+  },
+  {
+    "id": "terraza-7-2026-10-25-pipiris-nights-new-york-venezuelan-jorop",
+    "title": "Pipiris Nights | New York Venezuelan Joropo",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-25",
+    "description": "One-set performance of Venezuelan joropo music by Pipiris Nights.",
+    "url": "https://www.terraza7.com/detalles-y-registro/pipiris-nights-new-york-venezuelan-joropo-one-set-only-2",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.317Z"
+  },
+  {
+    "id": "film-forum-2026-10-23-nationtime-introduced-by-producer-liani-",
+    "title": "NATIONTIME - Introduced by Producer Liani Greaves and IndieCollect Founder Sandra Schulberg",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-23",
+    "time_start": "14:00",
+    "description": "Screening of William Greaves' documentary Nationtime, part of the William Greaves 100 retrospective, introduced by producer Liani Greaves and IndieCollect founder Sandra Schulberg.",
+    "url": "https://filmforum.org/events/event/nationtime-october-23",
+    "price": "$18.00 / $12.00 member",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.335Z"
+  },
+  {
+    "id": "film-forum-2026-10-23-lost-boundaries-post-film-conversation-w",
+    "title": "LOST BOUNDARIES - Post-Film Conversation with Donald Bogle and Bruce Goldstein",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-23",
+    "time_start": "17:50",
+    "description": "Screening of Lost Boundaries as part of the William Greaves 100 retrospective, followed by a post-film conversation with film historian/author Donald Bogle and Film Forum founding repertory artistic director Bruce Goldstein.",
+    "url": "https://filmforum.org/events/event/lost-boundaries-october-23",
+    "price": "$18.00 / $12.00 member",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.335Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-22-abundance-talk-the-alibi-of-capital",
+    "title": "Abundance Talk: The Alibi of Capital",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-22",
+    "time_start": "12:00",
+    "description": "Buell Center talk examining the 'abundance' discourse as an alibi for capital, part of GSAPP's ongoing critical political-economy programming on architecture and urbanism.",
+    "url": "https://www.arch.columbia.edu/events/4362-abundance-talk-the-alibi-of-capital",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.355Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-26-open-house-lecture-emanuel-admassu-olale",
+    "title": "Open House Lecture: Emanuel Admassu & Olalekan Jeyifous",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-26",
+    "time_start": "18:30",
+    "description": "Lecture by architect/designer Emanuel Admassu and artist/designer Olalekan Jeyifous, known for Afrofuturist and speculative design work, presented as part of GSAPP's Open House.",
+    "url": "https://www.arch.columbia.edu/events/4226-open-house-lecture-emanuel-admassu-olalekan-jeyifous",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "speculative-design"
+    ],
+    "matched_categories": [
+      "Worldbuilding, speculative design, design fiction",
+      "Architecture & urbanism",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.355Z"
+  },
+  {
+    "id": "whitney-2026-10-23-la-traducci-n-como-reescritura",
+    "title": "La Traducción Como Reescritura",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-23",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "description": "Spanish-language film and discussion/workshop program exploring translation as a form of rewriting.",
+    "url": "https://whitney.org/events/filnyc",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "translation"
+    ],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.385Z"
+  },
+  {
+    "id": "whitney-2026-10-21-exhibition-tour-the-lost-world-the-art-o",
+    "title": "Exhibition Tour: The Lost World: The Art of Minnie Evans",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-21",
+    "time_start": "14:00",
+    "description": "Free docent-led tour of the exhibition on visionary/outsider artist Minnie Evans.",
+    "url": "https://whitney.org/events/minnie-evans-tour",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.385Z"
+  },
+  {
+    "id": "whitney-2026-10-21-a-closer-look-guided-close-looking-throu",
+    "title": "A Closer Look: Guided Close-Looking Through Dialogue",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-21",
+    "time_start": "16:00",
+    "description": "Interactive, dialogue-based close-looking tour exploring works on view at the Whitney.",
+    "url": "https://whitney.org/events/closer-look-fall2026",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.385Z"
+  },
+  {
+    "id": "whitney-2026-10-23-free-friday-nights",
+    "title": "Free Friday Nights",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-23",
+    "time_start": "17:00",
+    "time_end": "22:00",
+    "description": "Free evening admission to the Whitney's galleries and programming.",
+    "url": "https://whitney.org/visit/free-admission/free-friday-nights",
+    "price": "free",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.385Z"
+  },
+  {
+    "id": "the-drawing-center-2027-01-24-form-shadow-motion-selections-from-the-b",
+    "title": "Form, Shadow, Motion: Selections from the Burger Collection, Hong Kong",
+    "venue_id": "the-drawing-center",
+    "venue_name": "The Drawing Center",
+    "date": "2027-01-24",
+    "description": "Exhibition drawing from the Burger Collection, Hong Kong, on view Oct 23, 2026 - Jan 24, 2027 at The Drawing Center.",
+    "url": "https://drawingcenter.org/exhibitions/form-shadow-motion",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-21T07:34:36.408Z"
   }
 ]
