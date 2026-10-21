@@ -1,26 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "bard-graduate-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-04T07:25:09.825Z",
-    "completed_at": "2026-10-04T07:25:09.825Z",
-    "events_found": 12,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "poetry-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-04T07:25:09.841Z",
-    "completed_at": "2026-10-04T07:25:09.841Z",
-    "events_found": 4,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "center-for-book-arts",
     "scrape_tier_used": 3,
     "started_at": "2026-10-04T07:25:09.850Z",
@@ -4997,6 +4977,26 @@
     "completed_at": "2026-10-21T07:34:36.420Z",
     "events_found": 2,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "elsewhere",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-21T07:37:47.910Z",
+    "completed_at": "2026-10-21T07:37:47.910Z",
+    "events_found": 6,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-brick",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-21T07:37:47.923Z",
+    "completed_at": "2026-10-21T07:37:47.923Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]
