@@ -7471,5 +7471,1132 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-21T07:39:18.053Z"
+  },
+  {
+    "id": "la-mama-2026-10-25-untold-wajda-blokowisko",
+    "title": "Untold Wajda: Blokowisko",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-10-25",
+    "description": "Marking the centenary of director Andrzej Wajda's birth, this piece revives a lost cinematic vision through choreography by Anthony Matsena performed by Battery Dance, created by Blanka Barbara Stahl. A diplomatic cultural exchange supported by the Polish Cultural Institute New York; final day of its run at La MaMa.",
+    "url": "https://lamama.org",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [
+      "cultural-exchange"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.486Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-29-exhibition-tour-goddesses-in-the-machine",
+    "title": "Exhibition Tour: Goddesses in the Machine: Fashion in American Silent Film",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-29",
+    "time_start": "12:30",
+    "time_end": "13:15",
+    "description": "A weekly Thursday gallery tour of the Goddesses in the Machine: Fashion in American Silent Film exhibition, led by a Bard Graduate Center gallery educator.",
+    "url": "https://bgc.bard.edu",
+    "format": "tour",
+    "interest_score": 2.1,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.528Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-10-29-exhibition-tour-goddesses-in-the-machine",
+    "title": "Exhibition Tour: Goddesses in the Machine",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-10-29",
+    "time_start": "12:30",
+    "time_end": "13:15",
+    "description": "Weekly Thursday gallery tour led by a Bard Graduate Center gallery educator through Goddesses in the Machine: Fashion in American Silent Film.",
+    "url": "https://www.bgc.bard.edu",
+    "format": "tour",
+    "interest_score": 2.1,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.528Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-10-28-lost-found-el-guardi-n-u-s-premiere-",
+    "title": "Lost & Found: El Guardián (U.S. Premiere)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-10-28",
+    "description": "The U.S. premiere of Nuria Ibáñez's striking fiction debut about a beach watchman on Mexico's Baja California coast confronting the elusiveness of justice and the fragile boundary between duty and survival.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.551Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-01-book-release-event-twenty-years-later-a-",
+    "title": "Book Release Event: Twenty Years Later: A Man Marked to Die",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-01",
+    "description": "A screening of Eduardo Coutinho's documentary Twenty Years Later: A Man Marked to Die, introduced by Booker-shortlisted writer Itamar Vieira Junior, celebrating the English publication of his new novel Saving the Fire.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.552Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-02-book-release-event-rim-battal-mustang",
+    "title": "Book Release Event: Rim Battal + Mustang",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-02",
+    "description": "A screening of Deniz Gamze Ergüven's Mustang celebrating the English translation of Rim Battal's autobiographical novel I'll Look Myself in the Eyes, followed by a bilingual reading and discussion with Battal and translator Liza Tripp.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "translation"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.552Z"
+  },
+  {
+    "id": "japan-society-2026-11-03-from-portfolios-to-passports-the-path-to",
+    "title": "From Portfolios to Passports: The Path to Work in Korean Animation",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-03",
+    "time_start": "19:30",
+    "time_end": "21:00",
+    "description": "LeSean Thomas, the first American animator hired as permanent staff at a Korean animation studio, and Studio Mir's Kwang Il Han discuss the path for international animators to work in Korea's animation industry. Free, part of the Foreign Exchange: Cross-Cultural Conversations series at Pratt Institute.",
+    "url": "https://www.japansociety.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.587Z"
+  },
+  {
+    "id": "japan-society-2026-11-04-south-korean-animation-the-world-s-anima",
+    "title": "South Korean Animation: The World's Animation Powerhouse",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-04",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "Kwang Il Han (Studio Mir) and LeSean Thomas discuss the origins and global rise of South Korea's animation industry, which animates major projects for the US and Japan including Avatar and X-Men '97. Free, part of the Foreign Exchange series at School of Visual Arts.",
+    "url": "https://www.japansociety.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.587Z"
+  },
+  {
+    "id": "japan-society-2026-11-21-the-oldest-profession",
+    "title": "The Oldest Profession",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-21",
+    "time_start": "16:00",
+    "description": "Noboru Tanaka's 1974 guerrilla-shot Nikkatsu film, screened in a new 4K restoration, part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.588Z"
+  },
+  {
+    "id": "japan-society-2026-11-21-the-world-of-geisha",
+    "title": "The World of Geisha",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-21",
+    "time_start": "18:00",
+    "description": "Tatsumi Kumashiro's 1973 period drama, praised by François Truffaut, screened on imported 35mm as part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.588Z"
+  },
+  {
+    "id": "japan-society-2026-12-05-scent-of-a-spell",
+    "title": "Scent of a Spell",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-12-05",
+    "time_start": "20:00",
+    "description": "Toshiharu Ikeda's 1985 psychological Nikkatsu film, screened in a new 2K restoration, part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.589Z"
+  },
+  {
+    "id": "japan-society-2026-11-20-a-woman-called-sada-abe",
+    "title": "A Woman Called Sada Abe",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-20",
+    "time_start": "19:00",
+    "description": "Noboru Tanaka's 1975 Nikkatsu Roman Porno rendition of the Sada Abe incident, screened on imported 35mm, part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.587Z"
+  },
+  {
+    "id": "japan-society-2026-11-20-shinjuku-midnight-story-man-and-woman",
+    "title": "Shinjuku Midnight Story: Man and Woman",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-20",
+    "time_start": "21:15",
+    "description": "Koyu Ohara's 1972 pop-art-styled Nikkatsu film capturing 70s queer subculture in Tokyo, part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.587Z"
+  },
+  {
+    "id": "japan-society-2026-11-21-watcher-in-the-attic",
+    "title": "Watcher in the Attic",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-21",
+    "time_start": "20:00",
+    "description": "Noboru Tanaka's 1976 ero guro adaptation of Edogawa Ranpo, part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.588Z"
+  },
+  {
+    "id": "japan-society-2026-12-04-love-letter",
+    "title": "Love Letter",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-12-04",
+    "time_start": "19:00",
+    "description": "Yoichi Higashi's 1981 slice-of-life drama made for Roman Porno's 10th anniversary, part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.588Z"
+  },
+  {
+    "id": "japan-society-2026-12-04-angel-guts-red-classroom",
+    "title": "Angel Guts: Red Classroom",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-12-04",
+    "time_start": "21:00",
+    "description": "Chusei Sone's 1979 self-reflexive Nikkatsu film, part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.588Z"
+  },
+  {
+    "id": "japan-society-2026-12-05-top-stripper",
+    "title": "Top Stripper",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-12-05",
+    "time_start": "16:00",
+    "description": "Yoshimitsu Morita's 1982 irreverent take on the seishun eiga, part of the 'Nikkatsu's Golden Age of Eros' retrospective.",
+    "url": "https://www.japansociety.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.588Z"
+  },
+  {
+    "id": "electronic-arts-intermix-2026-11-10-trust-safety-artistic-expression-vs-plat",
+    "title": "Trust & Safety: Artistic Expression vs. Platform Censorship",
+    "venue_id": "electronic-arts-intermix",
+    "venue_name": "Electronic Arts Intermix",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "description": "A screening of challenging works by Peggy Ahwesh, Alex Bag, Ellen Cantor, Barbara Hammer, and Muntadas from EAI's collection, selected in relation to Vimeo's content moderation policies, followed by a conversation with Rebecca Cleman (EAI) and Michael Connor (Rhizome) on building alternative, federated technological infrastructure like PeerTube for circulating challenging media art.",
+    "url": "https://www.eai.org",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "media-art",
+      "infrastructure"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Philosophy & Critical Theory",
+      "Climate & Environment",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.607Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-25-site-interruptions-gabriela-garcez-aka-g",
+    "title": "Site Interruptions: Gabriela Garcez (aka godmin)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-25",
+    "description": "Four alien sculptural forms by Gabriela Garcez, imagined as emissaries from a future in which machines have outlived their human makers, inhabit the Museum and make observations that transform MoMI's home page in real time as people move through the building. Currently on view.",
+    "url": "https://movingimage.org",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.625Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-25-baab",
+    "title": "Baab",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-25",
+    "time_start": "14:00",
+    "description": "The U.S. premiere of Nayla al Khaja's Baab, following a woman haunted by tinnitus and her twin sister's sudden death who seeks solace in the remote Ras Al-Khaimah mountains. Part of Infinite Beauty: Muslim and MENASA Identity Onscreen; free for MoMI members.",
+    "url": "https://movingimage.org",
+    "price": "free for MoMI members",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.623Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-10-30-sneak-preview-the-meltdown-el-deshielo-",
+    "title": "Sneak Preview: The Meltdown (El deshielo)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-10-30",
+    "time_start": "19:00",
+    "description": "A sneak preview, with director Manuela Martelli in person, of Chile's 2027 Oscar submission The Meltdown, set in 1992 against the backdrop of Chile's post-Pinochet economic transformation; part of Las Premieres.",
+    "url": "https://movingimage.org",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.625Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-01-kubrick-the-shining-international-releas",
+    "title": "Kubrick: The Shining (International Release Cut U.S. Theatrical Premiere)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-01",
+    "description": "Opening night of MoMI's complete Stanley Kubrick retrospective, presented by Criterion: the U.S. theatrical premiere of the International Release cut of The Shining followed by the American version, preceded by a conversation with Steadicam inventor Garrett Brown and Criterion box-set producer Michael Chaiken.",
+    "url": "https://movingimage.org",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "criterion"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.623Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-01-day-of-the-dead-2026",
+    "title": "Day of the Dead 2026",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-01",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "A celebration of Day of the Dead featuring Aztec Mexica dance, digital media activities, music from Indigenous dance troupe Yayauhki Tezcatlipoka, and the Mexican Folkloric Ballet of New York.",
+    "url": "https://movingimage.org",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [
+      "folkloric"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.623Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-06-how-to-use-agents-and-not-have-them-kill",
+    "title": "How to Use Agents and Not Have Them Kill You",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-06",
+    "time_start": "18:00",
+    "description": "An hour-long MoMI LAB workshop offering a plain explanation of how AI agents differ from other forms of AI, using metaphors and examples from film, gaming, and other media. Free with RSVP.",
+    "url": "https://movingimage.org",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.624Z"
+  },
+  {
+    "id": "asia-society-2026-10-23-our-century-spiraling-paths-through-arme",
+    "title": "Our Century: Spiraling Paths Through Armenian Cinema",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-23",
+    "description": "Five films guest-curated by Sona Karapoghosyan, following characters whose journeys of displacement unfold across borders, memory, history, identity, and imagination. Runs through October 25 at Asia Society.",
+    "url": "https://www.filmlinc.org",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.651Z"
+  },
+  {
+    "id": "asia-society-2026-10-31-retribution-screening",
+    "title": "Retribution Screening",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-31",
+    "time_start": "18:30",
+    "description": "Asia Society and the editors of Narrow Margin screen Kiyoshi Kurosawa's Retribution, celebrating the director's chronicling of anomie and social malaise in contemporary Japanese cinema.",
+    "url": "https://asiasociety.org",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.651Z"
+  },
+  {
+    "id": "asia-society-2026-10-28-emily-feng-with-michael-forsythe-our-hea",
+    "title": "Emily Feng with Michael Forsythe: Our Hearts Burned for Home",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-28",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "NPR correspondent Emily Feng discusses her book on Uyghur families and militants who fled China's surveillance state into the Syrian Civil War, in conversation with New York Times journalist Michael Forsythe.",
+    "url": "https://asiasociety.org",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.651Z"
+  },
+  {
+    "id": "asia-society-2026-10-30-xiao-hai-with-tony-hao-adrift-in-the-sou",
+    "title": "Xiao Hai with Tony Hao: Adrift in the South",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-10-30",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Xiao Hai discusses his autobiographical account of 23 years as a migrant laborer across seven Chinese cities, in conversation with translator Tony Hao, moderated by China Books Review editor Alec Ash.",
+    "url": "https://asiasociety.org",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.651Z"
+  },
+  {
+    "id": "asia-society-2026-11-20-jung-chang-with-jiayang-fan-fly-wild-swa",
+    "title": "Jung Chang with Jiayang Fan: Fly, Wild Swans",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-20",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Jung Chang, author of the bestseller Wild Swans, discusses her new memoir Fly, Wild Swans: My Mother, Myself, and China, moderated by New Yorker staff writer Jiayang Fan.",
+    "url": "https://asiasociety.org",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.651Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-11-12-cherrie-yu-daily-diversions",
+    "title": "Cherrie Yu: Daily Diversions",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-11-12",
+    "description": "World premiere of a performance work about community building through table tennis, created with Manhattan Chinatown-based table tennis players and multigenerational contemporary dancers during Cherrie Yu's Performance AIRspace Residency. Runs November 12-14.",
+    "url": "https://abronsartscenter.org",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.669Z"
+  },
+  {
+    "id": "data-society-2026-11-06-how-ai-civics-can-build-public-power-ove",
+    "title": "How AI Civics Can Build Public Power Over Tech",
+    "venue_id": "data-society",
+    "venue_name": "Data & Society",
+    "date": "2026-11-06",
+    "time_start": "18:00",
+    "description": "Panel discussion on how 'AI civics' can help the public situate, question, and shape how AI is used in daily life, featuring Meg Young, Khari Johnson, Sareeta Amrute, and Hannah Sassaman, moderated by Justin Hendrix. Hosted online or onsite at the Stavros Niarchos Foundation Library in NYC.",
+    "url": "https://datasociety.net",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.682Z"
+  },
+  {
+    "id": "barbes-2026-10-26-a-b-e-l-a-asociaci-n-de-bateristas-elect",
+    "title": "A.B.E.L.A (Asociación de Bateristas Electrónicos de Latinoamerica)",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-26",
+    "time_start": "21:00",
+    "description": "Tropical Vortex presents a collective of Latinx percussionists exploring the relationship between technology and ancestral rhythms, plus vinyl sets from resident DJs Sonido Chichadelico and Adrian is Hungry.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.700Z"
+  },
+  {
+    "id": "barbes-2026-10-28-shoko-nagai-s-tokala",
+    "title": "Shoko Nagai's Tokala",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-28",
+    "time_start": "20:00",
+    "description": "Accordionist/vocalist Shoko Nagai and percussionist Satoshi Takeishi explore the Silk Road-to-Japan musical connection, with a special guest.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.701Z"
+  },
+  {
+    "id": "barbes-2026-10-30-dingonek-street-band",
+    "title": "Dingonek Street Band",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-30",
+    "time_start": "22:00",
+    "description": "A brass band joyfully mixing Afrobeat, Ethio-jazz, punk rock, post-bop, and Balkan brass music.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "afrobeat",
+      "balkan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.701Z"
+  },
+  {
+    "id": "barbes-2026-11-01-clube-do-choro-with-regional-samauma",
+    "title": "Clube do Choro with Regional Samauma",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-01",
+    "time_start": "15:30",
+    "description": "Weekly choro jam in Barbès' front room with a rotating cast of Brazilian musicians, featuring Regional Samauma.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.702Z"
+  },
+  {
+    "id": "barbes-2026-10-27-reed-turchi-road-ends-in-water-album-rel",
+    "title": "Reed Turchi: \"Road Ends in Water\" Album Release Show",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-27",
+    "time_start": "19:00",
+    "description": "Grammy-winning musician, poet, and producer Reed Turchi celebrates the release of his new album with Seth Barden (bass), Eric Burns (guitar), and Joseph Yount (drums).",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3.1,
+    "tags": [
+      "water"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.700Z"
+  },
+  {
+    "id": "barbes-2026-10-26-dana-lyn-kyle-sanna",
+    "title": "Dana Lyn & Kyle Sanna",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-26",
+    "time_start": "19:00",
+    "description": "Violinist Dana Lyn and guitarist Kyle Sanna take on the Irish repertoire with frequent special guests.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.700Z"
+  },
+  {
+    "id": "barbes-2026-10-28-slavic-soul-party",
+    "title": "Slavic Soul Party",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-28",
+    "time_start": "21:00",
+    "description": "Weekly Balkan brass band bacchanalia.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "balkan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.700Z"
+  },
+  {
+    "id": "barbes-2026-10-28-mamady-kouyate-s-mandingo-ambassadors",
+    "title": "Mamady Kouyate's Mandingo Ambassadors",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-28",
+    "time_start": "22:00",
+    "description": "Guinean 70s funk from a master of the legendary Syliphone label.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.701Z"
+  },
+  {
+    "id": "barbes-2026-10-29-jenny-scheinman-all-species-parade",
+    "title": "Jenny Scheinman: All Species Parade",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-29",
+    "time_start": "19:00",
+    "description": "Violinist Jenny Scheinman performs two sets (7 and 9pm) with Carmen Staaf (piano), Kenny Wollesen (drums), Steve Cardenas (guitar), and Tony Scherr (bass).",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.701Z"
+  },
+  {
+    "id": "barbes-2026-10-30-erik-della-penna-s-byzantine-stompers",
+    "title": "Erik Della Penna's Byzantine Stompers",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-10-30",
+    "time_start": "20:00",
+    "description": "An \"archaeological dig into ancient music\" blending Mediterranean antiquity and American roots music, with Erik Della Penna (guitars, vocals), Daisy Castro (violin), and Wade Schuman (harmonicas).",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.701Z"
+  },
+  {
+    "id": "nyu-game-center-2026-10-23-jamkadium-2026-casual-game-jam-competiti",
+    "title": "JAMKADIUM 2026: Casual Game Jam Competition",
+    "venue_id": "nyu-game-center",
+    "venue_name": "NYU Game Center",
+    "date": "2026-10-23",
+    "description": "A hybrid 48-hour casual game jam hosted by Arkadium and the NYU Game Center at 370 Jay Street in Downtown Brooklyn, running through October 25, with free food, swag, and cash prizes for the top three games.",
+    "url": "https://gamecenter.nyu.edu",
+    "price": "free",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [
+      "game-jam"
+    ],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.725Z"
+  },
+  {
+    "id": "nyu-game-center-2026-10-29-playtest-thursday",
+    "title": "Playtest Thursday",
+    "venue_id": "nyu-game-center",
+    "venue_name": "NYU Game Center",
+    "date": "2026-10-29",
+    "time_start": "17:30",
+    "time_end": "19:30",
+    "description": "Open playtesting session where NYU Game Center community members and external guest designers test works-in-progress games.",
+    "url": "https://gamecenter.nyu.edu",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.725Z"
+  },
+  {
+    "id": "drom-2026-11-08-farah-siraj-featuring-javier-lim-n-miel-",
+    "title": "Farah Siraj featuring Javier Limón: 'Miel y Limón'",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-08",
+    "time_start": "19:30",
+    "description": "WMI Collaborations series concert previewing Farah Siraj's forthcoming album Miel y Limón, produced by 10-time Grammy winner Javier Limón.",
+    "url": "https://www.worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.774Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-25-plaza-by-andrew-schneider",
+    "title": "PLAZA by Andrew Schneider",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-25",
+    "time_start": "17:00",
+    "description": "Final day of ONX Member Andrew Schneider's interactive public-art piece at Josie Robertson Plaza, turning people-watching into a living artwork built from the crowd, strangers, and coincidences of shared presence.",
+    "url": "https://onx.studio",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.849Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-10-30-the-devils-on-35mm",
+    "title": "The Devils on 35mm",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-10-30",
+    "description": "By popular demand, Ken Russell's infamous, long-censored adaptation of Aldous Huxley's novel resumes its record-breaking run on 35mm for Halloween weekend.",
+    "url": "https://www.filmlinc.org",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.848Z"
+  },
+  {
+    "id": "printed-matter-2026-10-25-homes-for-people-not-for-profit-window-i",
+    "title": "Homes for People, Not for Profit: Window Installation Opening",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-10-25",
+    "time_start": "12:00",
+    "time_end": "15:00",
+    "description": "Public opening of a window installation by Art Against Displacement, Alex Strada, and FEC Tenants Against Demolition reactivating a 1985 Storefront for Art and Architecture project about housing and displacement near NYCHA's Fulton and Elliott-Chelsea Houses. Visitors can watch the painting process and contribute stencils to a collective banner.",
+    "url": "https://www.printedmatter.org",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [
+      "painting",
+      "installation",
+      "housing"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.868Z"
+  },
+  {
+    "id": "printed-matter-2026-11-04-charles-bernstein-richard-tuttle-charles",
+    "title": "Charles Bernstein & Richard Tuttle: Charles Bernstein at the Oculus",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-04",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Conversation between poet Charles Bernstein and artist Richard Tuttle at Printed Matter.",
+    "url": "https://www.printedmatter.org",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.869Z"
+  },
+  {
+    "id": "printed-matter-2026-11-05-gregory-sholette-the-radical-unpresent",
+    "title": "Gregory Sholette: The Radical Unpresent",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-05",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Conversation with artist and critic Gregory Sholette at Printed Matter on his book The Radical Unpresent, addressing political art and institutional critique.",
+    "url": "https://www.printedmatter.org",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.869Z"
+  },
+  {
+    "id": "printed-matter-2026-11-13-homes-for-people-not-for-profit-panel-di",
+    "title": "Homes for People, Not for Profit: Panel Discussion",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-13",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Panel discussion with Bench Ansfield (author of Born in Flames), Renee Keitt (Elliott-Chelsea Houses Tenants Association), Alex Strada, and members of Art Against Displacement and Storefront for Art and Architecture, on housing, demolition, and public art.",
+    "url": "https://www.printedmatter.org",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "housing"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.868Z"
+  },
+  {
+    "id": "printed-matter-2026-11-01-some-other-note-books",
+    "title": "Some Other (Note) Books",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-01",
+    "time_start": "12:00",
+    "time_end": "15:00",
+    "description": "A bookmaking workshop at Printed Matter exploring alternative notebook and publication forms.",
+    "url": "https://www.printedmatter.org",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.869Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-03-the-new-social-environment-sr-lejeune-ho",
+    "title": "The New Social Environment: SR Lejeune — Hold Me Up",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-03",
+    "time_start": "13:00",
+    "description": "Zoom conversation with artist SR Lejeune and Rail contributor Joshua Chee Sanford on the exhibition Hold Me Up at HESSE FLATOW.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.881Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-04-the-new-social-environment-eric-aho-the-",
+    "title": "The New Social Environment: Eric Aho — The Meadow's Edge",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-04",
+    "time_start": "13:00",
+    "description": "Zoom conversation with painter Eric Aho and Rail contributor Amanda Millet-Sorsa on his exhibition The Meadow's Edge at DC Moore Gallery.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.881Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-05-the-new-social-environment-robert-ryman-",
+    "title": "The New Social Environment: Robert Ryman — The Real Thing",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-05",
+    "time_start": "13:00",
+    "description": "Zoom conversation with curator Wells Fray-Smith and Rail Editor-at-Large Mark Hudson on the exhibition Robert Ryman: The Real Thing at the Barbican, London.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.881Z"
+  },
+  {
+    "id": "blank-forms-2026-11-12-keiji-haino-with-special-guest-",
+    "title": "Keiji Haino (with special guest)",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-11-12",
+    "description": "Second of three Blank Forms performances by legendary Japanese underground musician Keiji Haino, this night featuring a special guest collaborator.",
+    "url": "https://blankforms.org",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:17:24.904Z"
   }
 ]
