@@ -9358,5 +9358,432 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-25T07:31:11.420Z"
+  },
+  {
+    "id": "index-space-2026-11-08-building-interactive-apps",
+    "title": "Building Interactive Apps",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-11-08",
+    "description": "A workshop on building interactive applications, presented by Index Greenpoint.",
+    "url": "https://www.index-space.org/programming/building-interactive-apps-evt-rxHb9HGqQC5nArW?view=list",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:21.830Z"
+  },
+  {
+    "id": "movement-research-2026-11-03-open-performance-nov-3-2026",
+    "title": "Open Performance | Nov 3, 2026",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-11-03",
+    "description": "An open showcase of works-in-progress by Movement Research artists, in an informal performance format.",
+    "url": "https://movementresearch.org/events/1455/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:21.856Z"
+  },
+  {
+    "id": "drom-2026-10-25-armadi-tsayn",
+    "title": "Armadi Tsayn",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-25",
+    "time_start": "18:30",
+    "description": "Armadi Tsayn (\"Sound of the Roots\" in Armenian) is a contemporary folk ensemble from Boston featuring oud player/composer Samuel Sjostedt, bassist Filippo Novi-Goller, and percussionist Alek Surenian.",
+    "url": "https://dromnyc.com/event/armadi-tsayn/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "oud"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.570Z"
+  },
+  {
+    "id": "drom-2026-10-28-fugu-dugu-the-legend-of-baba-yaga-album-",
+    "title": "Fugu Dugu: The Legend of Baba Yaga Album Release Concert",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-28",
+    "time_start": "18:30",
+    "description": "Chicago's Wild East Punk band Fugu Dugu unleashes its new album live, a theatrical collision of Balkan spirit, Slavic folklore, Americana, klezmer, and punk.",
+    "url": "https://dromnyc.com/event/fugu-dugu-the-legend-of-baba-yaga-album-release-concert/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "balkan",
+      "klezmer"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.572Z"
+  },
+  {
+    "id": "drom-2026-10-29-hey-douglas-republic-day-celebration-",
+    "title": "Hey! Douglas [Republic Day Celebration]",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-29",
+    "time_start": "23:00",
+    "description": "DROM celebrates 103 years of the Turkish Republic and Atatürk's vision of a modern, secular, democratic nation with a late-night set from Hey! Douglas.",
+    "url": "https://dromnyc.com/event/drom-new-years-eve-heydouglas/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.573Z"
+  },
+  {
+    "id": "drom-2026-10-29-baby-blue-sound-collective",
+    "title": "Baby Blue Sound Collective",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-10-29",
+    "time_start": "18:30",
+    "description": "Baby Blue Sound Collective, an international musician-physician led ensemble founded in 2008, returns to DROM for its first performance since 2011, benefitting the Congenital Cardiac Research Collaborative.",
+    "url": "https://dromnyc.com/event/baby-blue-sound-collective/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.572Z"
+  },
+  {
+    "id": "terraza-7-2026-10-26-rom-n-d-az-la-rumba-de-los-lunes",
+    "title": "Román Díaz & La Rumba de los Lunes",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-26",
+    "description": "Cuban rumba specialist Román Díaz leads Terraza 7's weekly Monday rumba session.",
+    "url": "https://www.terraza7.com/detalles-y-registro/roman-diaz-la-rumba-de-los-lunes-41",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.612Z"
+  },
+  {
+    "id": "terraza-7-2026-10-31-guachinangos-new-york-sounds-of-son-jaro",
+    "title": "Guachinangos – New York Sounds of Son Jarocho | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-31",
+    "description": "Guachinangos performs son jarocho, the traditional string and percussion music of Veracruz, Mexico, reinterpreted with New York sounds.",
+    "url": "https://www.terraza7.com/detalles-y-registro/guachinangos-new-york-sounds-of-son-jarocho-first-set-13",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "son-jarocho"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.613Z"
+  },
+  {
+    "id": "terraza-7-2026-10-31-guachinangos-new-york-sounds-of-son-jaro",
+    "title": "Guachinangos – New York Sounds of Son Jarocho | Second Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-31",
+    "description": "Guachinangos performs son jarocho, the traditional string and percussion music of Veracruz, Mexico, reinterpreted with New York sounds.",
+    "url": "https://www.terraza7.com/detalles-y-registro/guachinangos-new-york-sounds-of-son-jarocho-second-set-11",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "son-jarocho"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.613Z"
+  },
+  {
+    "id": "terraza-7-2026-10-29-duduka-da-fonseca-trio-universal-brazili",
+    "title": "Duduka Da Fonseca & Trio Universal | Brazilian Jazz | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-29",
+    "description": "Brazilian jazz drummer Duduka Da Fonseca leads Trio Universal in the first of two sets of Brazilian jazz.",
+    "url": "https://www.terraza7.com/detalles-y-registro/duduka-da-fonseca-trio-universal-brazilian-jazz-first-set-2",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.612Z"
+  },
+  {
+    "id": "terraza-7-2026-10-29-duduka-da-fonseca-trio-universal-brazili",
+    "title": "Duduka Da Fonseca & Trio Universal | Brazilian Jazz | Second Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-10-29",
+    "description": "Brazilian jazz drummer Duduka Da Fonseca leads Trio Universal in the second of two sets of Brazilian jazz.",
+    "url": "https://www.terraza7.com/detalles-y-registro/duduka-da-fonseca-trio-universal-brazilian-jazz-second-set-2",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.612Z"
+  },
+  {
+    "id": "film-forum-2026-10-25-miracle-in-harlem-william-greaves-100-",
+    "title": "Miracle in Harlem (William Greaves 100)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-25",
+    "time_start": "13:00",
+    "description": "A screening of Miracle in Harlem, part of the William Greaves 100 retrospective, introduced by programmer Ina Archer.",
+    "url": "https://filmforum.org/events/event/miracle-in-harlem-october-25",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.630Z"
+  },
+  {
+    "id": "film-forum-2026-10-25-the-colored-harvest-blood-and-fire-and-e",
+    "title": "The Colored Harvest, Blood and Fire, and Emergency Ward (William Greaves 100)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-25",
+    "time_start": "14:40",
+    "description": "A triple-feature screening of archival shorts, part of the William Greaves 100 retrospective, introduced by programmer Ina Archer.",
+    "url": "https://filmforum.org/events/event/the-colored-harvest-blood-and-fire-and-emergency-ward-october-25",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.630Z"
+  },
+  {
+    "id": "film-forum-2026-10-27-a-bronx-tale-nyc-in-transit-",
+    "title": "A Bronx Tale (NYC in Transit)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-10-27",
+    "time_start": "17:50",
+    "description": "Robert De Niro's A Bronx Tale screens as part of the NYC in Transit repertory series.",
+    "url": "https://filmforum.org/series/nyc-in-transit",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.631Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-27-the-lecture-in-planning-series-lips-pane",
+    "title": "The Lecture in Planning Series (LiPS) Panel",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-27",
+    "time_start": "13:30",
+    "description": "A panel discussion in GSAPP's Lecture in Planning Series, held in New York.",
+    "url": "https://www.arch.columbia.edu/events/4364-the-lecture-in-planning-series-li-ps-panel",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.647Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-10-27-tuesday-talks",
+    "title": "Tuesday Talks",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-10-27",
+    "time_start": "12:00",
+    "description": "GSAPP's alumni talk series, held in New York and virtually.",
+    "url": "https://www.arch.columbia.edu/events/4277-tuesday-talks",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.647Z"
+  },
+  {
+    "id": "sculpture-center-2026-12-10-pat-oleszko-fool-disclosure-book-launch",
+    "title": "Pat Oleszko: Fool Disclosure Book Launch",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-12-10",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "A book launch event for Pat Oleszko's Fool Disclosure, tied to the artist's costume/performance-based practice.",
+    "url": "https://www.sculpture-center.org/events/15067/pat-0leszko-fool-disclosure-book-launch-nbsp",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.661Z"
+  },
+  {
+    "id": "whitney-2026-10-25-wayfinding-se-as-del-camino",
+    "title": "Wayfinding: Señas del Camino",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-10-25",
+    "time_start": "17:00",
+    "description": "A Spanish-language program in the Whitney's Floor 3 theater exploring wayfinding and navigation themes.",
+    "url": "https://whitney.org/events/wayfinding",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:22.675Z"
+  },
+  {
+    "id": "elsewhere-2026-11-01-fever-x-frisky-afterhours-revolution",
+    "title": "Fever x Frisky: Afterhours Revolution",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-01",
+    "time_start": "04:00",
+    "description": "Early-morning afterhours rave takeover of Elsewhere's full venue, a joint Fever x Frisky electronic dance party.",
+    "url": "https://www.elsewhere.club/events/2002730051496",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:23.336Z"
+  },
+  {
+    "id": "elsewhere-2026-11-06-emancipator-shrimpnose-lapa",
+    "title": "Emancipator, Shrimpnose, Lapa",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-06",
+    "time_start": "19:00",
+    "description": "Downtempo/melodic electronic producer Emancipator headlines The Hall with support from Shrimpnose and Lapa.",
+    "url": "https://www.elsewhere.club/events/1995465318484",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:23.336Z"
+  },
+  {
+    "id": "elsewhere-2026-11-07-flava-d-made-to-order-dendi-s-dad-ejwize",
+    "title": "Flava D, Made to Order: Dendi's Dad, Ejwize, Imbueless",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-07",
+    "time_start": "22:30",
+    "description": "UK garage/bassline DJ Flava D headlines a club night at Elsewhere's full venue with the Made to Order crew.",
+    "url": "https://www.elsewhere.club/events/2001018252459",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:23.338Z"
+  },
+  {
+    "id": "elsewhere-2026-11-13-cut-copy-dj-rachel-disco-bambino-kristin",
+    "title": "Cut Copy (DJ), Rachel, Disco Bambino, Kristine Barilli, Gravitational",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-13",
+    "time_start": "22:30",
+    "description": "Australian electronic/dance-pop act Cut Copy plays a DJ set at Elsewhere's full venue alongside Rachel, Disco Bambino, Kristine Barilli, and Gravitational.",
+    "url": "https://www.elsewhere.club/events/1998379149832",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:37:23.339Z"
   }
 ]

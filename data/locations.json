@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:34:36.351Z"
+    "last_checked": "2026-10-25T07:37:22.643Z"
   },
   {
     "id": "anthology-film-archives",
@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:34:36.368Z"
+    "last_checked": "2026-10-25T07:37:22.657Z"
   },
   {
     "id": "e-flux",
@@ -531,7 +531,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Correct URL is /events/ not /exhibitions. /exhibitions/ also has show listings.",
-    "last_checked": "2026-10-21T07:34:36.379Z"
+    "last_checked": "2026-10-25T07:37:22.671Z"
   },
   {
     "id": "the-kitchen",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:34:36.404Z"
+    "last_checked": "2026-10-25T07:37:22.686Z"
   },
   {
     "id": "the-drawing-center",
@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-10-21T07:34:36.418Z"
+    "last_checked": "2026-10-25T07:37:22.697Z"
   },
   {
     "id": "do-not-research",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:37:47.907Z",
+    "last_checked": "2026-10-25T07:37:23.360Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -2981,7 +2981,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:45.010Z"
+    "last_checked": "2026-10-25T07:37:21.851Z"
   },
   {
     "id": "babycastles",
@@ -3100,7 +3100,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:34:35.670Z"
+    "last_checked": "2026-10-25T07:37:21.868Z"
   },
   {
     "id": "danspace-project",
@@ -3123,7 +3123,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:34:35.690Z"
+    "last_checked": "2026-10-25T07:37:21.877Z"
   },
   {
     "id": "chocolate-factory",
@@ -3170,7 +3170,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:34:35.655Z"
+    "last_checked": "2026-10-25T07:37:21.886Z"
   },
   {
     "id": "the-brick",
@@ -3193,7 +3193,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:37:47.920Z"
+    "last_checked": "2026-10-25T07:37:23.370Z"
   },
   {
     "id": "morbid-anatomy",
@@ -3242,7 +3242,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:45.035Z"
+    "last_checked": "2026-10-25T07:37:21.896Z"
   },
   {
     "id": "canyon",
@@ -3391,7 +3391,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.804Z"
+    "last_checked": "2026-10-25T07:37:22.595Z"
   },
   {
     "id": "summerstage",
@@ -3472,7 +3472,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:34:36.310Z"
+    "last_checked": "2026-10-25T07:37:22.607Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3521,7 +3521,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:34:36.329Z"
+    "last_checked": "2026-10-25T07:37:22.625Z"
   },
   {
     "id": "lincoln-center-summer",
