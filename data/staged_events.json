@@ -8960,5 +8960,403 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-25T07:23:15.249Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-06-national-sawdust-and-sarah-williams-pres",
+    "title": "National Sawdust and Sarah Williams Present Daniela Mack: 'SUR' Songs of Astor Piazzolla with JP Jofre and His Quintet",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-06",
+    "time_start": "19:30",
+    "description": "Grammy-nominated mezzo-soprano Daniela Mack and bandoneonist JP Jofre reinterpret Astor Piazzolla's music, connecting contemporary classical voice to Buenos Aires tango tradition.",
+    "url": "https://www.nationalsawdust.org/event/daniela-mack-sur-album-release-co-produced-by-national-sawdust-and-sarah-williams",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.195Z"
+  },
+  {
+    "id": "roulette-2026-11-14-triple-canopy-symposium-2026-day-2-",
+    "title": "Triple Canopy Symposium 2026 (Day 2)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-14",
+    "time_start": "13:00",
+    "description": "Conversations, performances, and festivities hosted by Roulette and Public Records, presented with Critical Minded and Durations.",
+    "url": "https://roulette.org/event/triple-canopy-symposium-2026-day-2/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.853Z"
+  },
+  {
+    "id": "roulette-2026-11-15-durations-an-evening-with-terre-thaemlit",
+    "title": "Durations: An Evening with Terre Thaemlitz [Live Piano] + Conversation with Ciarán Finlayson",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-15",
+    "time_start": "20:00",
+    "description": "Terre Thaemlitz presents a debut live solo piano performance followed by a conversation with Ciarán Finlayson, as part of DURATIONS Festival.",
+    "url": "https://roulette.org/event/durations-triple-canopy-terre-thaemlitz-ciaran-finlayson/",
+    "price": "$42.23",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.853Z"
+  },
+  {
+    "id": "cooper-union-2026-10-29-the-diane-lewis-student-lecture-series-c",
+    "title": "The Diane Lewis Student Lecture Series | Christine Chang: Dialogue as Method — Objects, Thresholds & Off-Modern Ruins",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-10-29",
+    "time_start": "18:30",
+    "description": "Christine Chang discusses dialogue as a method for engaging objects, thresholds, and off-modern ruins, as part of the Diane Lewis Student Lecture Series.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/diane-lewis-student-lecture-series-christine-chang-dialogue-method",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.882Z"
+  },
+  {
+    "id": "cooper-union-2026-11-03-the-diane-lewis-student-lecture-series-m",
+    "title": "The Diane Lewis Student Lecture Series | Manuel Bouzas: Reporting from the Field",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-03",
+    "time_start": "18:30",
+    "description": "Manuel Bouzas reports from the field as part of the Diane Lewis Student Lecture Series.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/diane-lewis-student-lecture-series-manuel-bouzas-reporting-field",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.883Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-29-the-pulse-nightclub-memorial-designing-f",
+    "title": "The Pulse Nightclub Memorial: Designing for Remembrance and Healing",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-29",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A program examining the City of Orlando's approach to designing a memorial responding to the Pulse nightclub tragedy, focused on remembrance and healing.",
+    "url": "https://calendar.aiany.org/2026/10/29/the-pulse-nightclub-memorial-designing-for-remembrance-and-healing/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.909Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-27-2026-world-monuments-summit",
+    "title": "2026 World Monuments Summit",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-27",
+    "description": "A summit convening experts on the preservation and future of world monuments, listed as a partner event.",
+    "url": "https://calendar.aiany.org/2026/10/27/2026-world-monuments-summit/",
+    "format": "conference",
+    "interest_score": 3,
+    "tags": [
+      "preservation"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.909Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-27-tour-the-green-wood-cemetery-education-w",
+    "title": "Tour the Green-Wood Cemetery Education & Welcome Center with ARO",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-27",
+    "description": "A guided tour of the Green-Wood Cemetery Education & Welcome Center led by architecture firm ARO.",
+    "url": "https://calendar.aiany.org/2026/10/27/tour-the-green-wood-cemetery-education-welcome-center-with-aro/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.909Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-30-building-of-the-day-vagelos-innovation-l",
+    "title": "Building of the Day: Vagelos Innovation Laboratories",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-30",
+    "time_start": "12:00",
+    "time_end": "13:00",
+    "description": "A tour of the Vagelos Innovation Laboratories, the first purpose-built, all-electric academic research lab building in New York City, expanding Columbia's campus.",
+    "url": "https://calendar.aiany.org/2026/10/30/building-of-the-day-vagelos-innovation-laboratories/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.910Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-31-building-of-the-day-dsny-brooklyn-distri",
+    "title": "Building of the Day: DSNY Brooklyn District 3 Garage",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-31",
+    "time_start": "12:00",
+    "time_end": "13:00",
+    "description": "A tour of the DSNY Brooklyn District 3 Garage, a 220,000 sf sanitation facility in Bedford-Stuyvesant housing 68 vehicles and 120 workers behind glass and faceted precast concrete facades.",
+    "url": "https://calendar.aiany.org/2026/10/31/building-of-the-day-dsny-brooklyn-district-3-garage/",
+    "price": "sold out",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [
+      "housing"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.910Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-25-building-of-the-day-boerum-place",
+    "title": "Building of the Day: Boerum Place",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-25",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "description": "A guided architectural tour of the Boerum Place building in Brooklyn.",
+    "url": "https://calendar.aiany.org/2026/10/25/building-of-the-day-boerum-place/",
+    "price": "sold out",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.908Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-28-pumpkitecture-architectural-pumpkin-carv",
+    "title": "Pumpkitecture! Architectural Pumpkin Carving Competition",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-28",
+    "time_start": "18:00",
+    "time_end": "20:30",
+    "description": "An architecture-themed pumpkin carving competition held as part of Archtober.",
+    "url": "https://calendar.aiany.org/2026/10/28/pumpkitecture-architectural-pumpkin-carving-competition-7/",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.909Z"
+  },
+  {
+    "id": "center-for-architecture-2026-10-28-building-of-the-day-malabar-residences",
+    "title": "Building of the Day: Malabar Residences",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-10-28",
+    "time_start": "13:00",
+    "time_end": "14:00",
+    "description": "A tour of Malabar Residences, which reimagines Midtown residential living through ODA's approach to massing, porosity, and experience.",
+    "url": "https://calendar.aiany.org/2026/10/28/building-of-the-day-malabar-residences/",
+    "price": "sold out",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.909Z"
+  },
+  {
+    "id": "nyas-2026-10-29-chemical-biology-peptide-and-protein-des",
+    "title": "Chemical Biology: Peptide and Protein Design",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-10-29",
+    "description": "A hybrid event on advances in chemical biology focused on peptide and protein design.",
+    "url": "https://www.nyas.org/shaping-science/events/chemical-biology-peptide-and-protein-design",
+    "price": "varies",
+    "format": "conference",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.930Z"
+  },
+  {
+    "id": "nyas-2026-11-18-the-208th-annual-meeting-of-the-new-york",
+    "title": "The 208th Annual Meeting of The New York Academy of Sciences",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-11-18",
+    "description": "The Academy's 208th Annual Meeting, a hybrid gathering of its scientific community.",
+    "url": "https://www.nyas.org/shaping-science/events/208th-annual-meeting-of-the-new-york-academy-of-sciences",
+    "price": "varies",
+    "format": "conference",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.931Z"
+  },
+  {
+    "id": "nyas-2027-03-24-neuroimmunology-and-autoimmunity-from-me",
+    "title": "Neuroimmunology and Autoimmunity: From Mechanisms to Novel Therapeutics",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-03-24",
+    "description": "A hybrid symposium covering mechanisms and novel therapeutics in neuroimmunology and autoimmunity.",
+    "url": "https://www.nyas.org/shaping-science/events/autoimmunity-meets-innovation-drugs-and-devices",
+    "price": "varies",
+    "format": "conference",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.933Z"
+  },
+  {
+    "id": "nyas-2027-06-08-reimagining-neurodegeneration-treatments",
+    "title": "Reimagining Neurodegeneration Treatments: Unraveling Proteinopathy and Neuroimmune Signaling",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-06-08",
+    "description": "A hybrid symposium on new approaches to neurodegeneration treatment, covering proteinopathy and neuroimmune signaling.",
+    "url": "https://www.nyas.org/shaping-science/events/reimagining-neurodegeneration-treatments",
+    "price": "varies",
+    "format": "conference",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:09.934Z"
+  },
+  {
+    "id": "poetry-project-2026-11-03-friendly-criticism-5-session-writing-wor",
+    "title": "Friendly Criticism; 5-Session Writing Workshop with Rainer Diana Hamilton",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-03",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "Five-session writing workshop on literary criticism led by Rainer Diana Hamilton, running November 3 through December 1, 2026.",
+    "url": "https://www.poetryproject.org/events/friendly-criticism-5-session-writing-workshop-with-rainer-diana-hamilton",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:10.611Z"
+  },
+  {
+    "id": "white-columns-2026-11-07-marc-hundley-exhibition-opening-",
+    "title": "Marc Hundley (exhibition opening)",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-11-07",
+    "description": "New exhibition by Marc Hundley opens at White Columns, on view through Dec 19, 2026.",
+    "url": "https://whitecolumns.org/exhibitions-programming/",
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:11.419Z"
+  },
+  {
+    "id": "white-columns-2026-11-07-claire-watson-exhibition-opening-",
+    "title": "Claire Watson (exhibition opening)",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-11-07",
+    "description": "New exhibition by Claire Watson opens at White Columns, on view through Dec 19, 2026.",
+    "url": "https://whitecolumns.org/exhibitions-programming/",
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:31:11.420Z"
   }
 ]
