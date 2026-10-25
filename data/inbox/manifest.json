@@ -6974,5 +6974,413 @@
     "date": "2026-10-21T06:09:46.000Z",
     "file": "data/inbox/872-alberto-savinio-chris-ofili-and-iris-touliatou-at-.html",
     "processed": true
+  },
+  {
+    "uid": 873,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "Rail Weekly",
+    "date": "2026-10-21T12:32:57.000Z",
+    "file": "data/inbox/873-rail-weekly.html",
+    "processed": false
+  },
+  {
+    "uid": 874,
+    "from": "\"La MaMa\" <programs@lamama.org>",
+    "subject": "Bring Your Own Tissues This Week at La MaMa",
+    "date": "2026-10-21T14:18:36.000Z",
+    "file": "data/inbox/874-bring-your-own-tissues-this-week-at-la-mama.html",
+    "processed": false
+  },
+  {
+    "uid": 875,
+    "from": "\"Bard Graduate Center\" <news@bgc.bard.edu>",
+    "subject": "What’s Happening: Adornment, Unexpected Objects & After-Hours Glamour",
+    "date": "2026-10-21T14:06:50.000Z",
+    "file": "data/inbox/875-what-s-happening-adornment-unexpected-objects-afte.html",
+    "processed": false
+  },
+  {
+    "uid": 876,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: Troma-geddon; People’s Poetry Gathering Film Festival; Rosalyn Drexler: WHO DOES SHE THINK SHE IS? & EC",
+    "date": "2026-10-21T15:16:45.000Z",
+    "file": "data/inbox/876-this-week-at-afa-troma-geddon-people-s-poetry-gath.html",
+    "processed": false
+  },
+  {
+    "uid": 877,
+    "from": "\"SummerStage\" <newsletter@cityparksfoundation.org>",
+    "subject": "Thank you for an amazing 40th anniversary SummerStage Season!",
+    "date": "2026-10-21T15:18:21.000Z",
+    "file": "data/inbox/877-thank-you-for-an-amazing-40th-anniversary-summerst.html",
+    "processed": false
+  },
+  {
+    "uid": 878,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "See it first! Brancusi: The Artist and His Studio",
+    "date": "2026-10-21T16:01:55.000Z",
+    "file": "data/inbox/878-see-it-first-brancusi-the-artist-and-his-studio.html",
+    "processed": false
+  },
+  {
+    "uid": 879,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "October Country + Paris is a Woman",
+    "date": "2026-10-21T16:52:12.000Z",
+    "file": "data/inbox/879-october-country-paris-is-a-woman.html",
+    "processed": false
+  },
+  {
+    "uid": 880,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Velychko Gallery presents inaugural exhibition in Limassol: Kyriaki Costa",
+    "date": "2026-10-21T17:10:50.000Z",
+    "file": "data/inbox/880-velychko-gallery-presents-inaugural-exhibition-in-.html",
+    "processed": false
+  },
+  {
+    "uid": 881,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Announcing \"Foreign Exchange\" with LeSean Thomas & Studio Mir's Kwang Il Han",
+    "date": "2026-10-21T17:33:18.000Z",
+    "file": "data/inbox/881-announcing-foreign-exchange-with-lesean-thomas-stu.html",
+    "processed": false
+  },
+  {
+    "uid": 882,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Introducing CAN’T UNSEE",
+    "date": "2026-10-21T18:42:45.000Z",
+    "file": "data/inbox/882-introducing-can-t-unsee.html",
+    "processed": false
+  },
+  {
+    "uid": 883,
+    "from": "\"Lincoln Center\" <Info@lincolncenter.org>",
+    "subject": "Just Announced: Winter at Lincoln Center Presents",
+    "date": "2026-10-21T18:49:41.000Z",
+    "file": "data/inbox/883-just-announced-winter-at-lincoln-center-presents.html",
+    "processed": false
+  },
+  {
+    "uid": 884,
+    "from": "\"The Helix Center\" <info@helixcenter.org>",
+    "subject": "The Play's the Thing",
+    "date": "2026-10-21T19:44:43.000Z",
+    "file": "data/inbox/884-the-play-s-the-thing.html",
+    "processed": false
+  },
+  {
+    "uid": 885,
+    "from": "\"Electronic Arts Intermix\" <info@eai.org>",
+    "subject": "Nov 10 | Rhizome & EAI Present: Trust & Safety",
+    "date": "2026-10-21T20:11:38.000Z",
+    "file": "data/inbox/885-nov-10-rhizome-eai-present-trust-safety.html",
+    "processed": false
+  },
+  {
+    "uid": 886,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "Persona, The Exorcist, MoMI Halloween Party, and more",
+    "date": "2026-10-21T20:32:03.000Z",
+    "file": "data/inbox/886-persona-the-exorcist-momi-halloween-party-and-more.html",
+    "processed": false
+  },
+  {
+    "uid": 887,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Ping Pong Tournament at Abrons!",
+    "date": "2026-10-21T21:01:08.000Z",
+    "file": "data/inbox/887-ping-pong-tournament-at-abrons.html",
+    "processed": false
+  },
+  {
+    "uid": 888,
+    "from": "\"Asia Society NY\" <reply@e.asiasociety.org>",
+    "subject": "Upcoming China books events",
+    "date": "2026-10-21T21:01:11.000Z",
+    "file": "data/inbox/888-upcoming-china-books-events.html",
+    "processed": false
+  },
+  {
+    "uid": 889,
+    "from": "\"Data & Society\" <info@datasociety.net>",
+    "subject": "Join us online and in NYC on 11/6 to talk AI civics! Plus: reckoning with Waymos, older people and AI slop",
+    "date": "2026-10-21T21:03:15.000Z",
+    "file": "data/inbox/889-join-us-online-and-in-nyc-on-11-6-to-talk-ai-civic.html",
+    "processed": false
+  },
+  {
+    "uid": 890,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "Music to Our Ears: Moses Sumney Joins the Lineup on October 23",
+    "date": "2026-10-21T22:46:23.000Z",
+    "file": "data/inbox/890-music-to-our-ears-moses-sumney-joins-the-lineup-on.html",
+    "processed": false
+  },
+  {
+    "uid": 891,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Valerio Adami Archive launches the online general catalogue of the artist’s work",
+    "date": "2026-10-22T06:10:44.000Z",
+    "file": "data/inbox/891-valerio-adami-archive-launches-the-online-general-.html",
+    "processed": false
+  },
+  {
+    "uid": 892,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "Sunday: Dispatches by David Levi Strauss, Book Launch",
+    "date": "2026-10-22T12:03:08.000Z",
+    "file": "data/inbox/892-sunday-dispatches-by-david-levi-strauss-book-launc.html",
+    "processed": false
+  },
+  {
+    "uid": 893,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-10-22T12:09:08.000Z",
+    "file": "data/inbox/893-this-week-at-barbes.html",
+    "processed": false
+  },
+  {
+    "uid": 894,
+    "from": "\"UnionDocs\" <info@uniondocs.org>",
+    "subject": "Khalik Allah, Shevaun Mizrahi and and Jamil GS explore lens-based encounters at Camera Ministry! Plus Kelly Sears’ uncanny worlds and Jeanne C. Finley & Lynne Sachs trace a history of environmental resistance.",
+    "date": "2026-10-22T13:20:17.000Z",
+    "file": "data/inbox/894-khalik-allah-shevaun-mizrahi-and-and-jamil-gs-expl.html",
+    "processed": false
+  },
+  {
+    "uid": 895,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "INTERVIEW: Binna Choi on the Korean Pavilion at the 61st Venice Biennale",
+    "date": "2026-10-22T14:09:51.000Z",
+    "file": "data/inbox/895-interview-binna-choi-on-the-korean-pavilion-at-the.html",
+    "processed": false
+  },
+  {
+    "uid": 896,
+    "from": "\"The Shed\" <members@theshed.org>",
+    "subject": "Get first access to Virgil Abloh: The Codes",
+    "date": "2026-10-22T14:38:33.000Z",
+    "file": "data/inbox/896-get-first-access-to-virgil-abloh-the-codes.html",
+    "processed": false
+  },
+  {
+    "uid": 897,
+    "from": "\"Verso Books\" <verso@versobooks.com>",
+    "subject": "📚 Four new titles, including a collection of essays on cinema, culture, and global politics from Peter Wollen 📚",
+    "date": "2026-10-22T14:50:44.000Z",
+    "file": "data/inbox/897-four-new-titles-including-a-collection-of-essays-o.html",
+    "processed": false
+  },
+  {
+    "uid": 898,
+    "from": "\"NYU Game Center\" <gamecenter@nyu.edu>",
+    "subject": "TONIGHT - Warren Spector Lecture Series! THIS WEEKEND - Arkadium Game Jam!",
+    "date": "2026-10-22T15:03:43.000Z",
+    "file": "data/inbox/898-tonight-warren-spector-lecture-series-this-weekend.html",
+    "processed": false
+  },
+  {
+    "uid": 899,
+    "from": "\"World Music Institute\" <kate@worldmusicinstitute.org>",
+    "subject": "Sarangi, Alt K-Pop & the Sitar Revolution",
+    "date": "2026-10-22T15:41:59.000Z",
+    "file": "data/inbox/899-sarangi-alt-k-pop-the-sitar-revolution.html",
+    "processed": false
+  },
+  {
+    "uid": 900,
+    "from": "\"Nitehawk Cinema\" <newsletter@nitehawkcinema.com>",
+    "subject": "Clayface and the Sun Edition",
+    "date": "2026-10-22T15:47:21.000Z",
+    "file": "data/inbox/900-clayface-and-the-sun-edition.html",
+    "processed": false
+  },
+  {
+    "uid": 901,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Paweł Pawlikowski’s Fatherland + Lee Chang-dong’s Possible Love + More!",
+    "date": "2026-10-22T16:16:12.000Z",
+    "file": "data/inbox/901-pawe-pawlikowski-s-fatherland-lee-chang-dong-s-pos.html",
+    "processed": false
+  },
+  {
+    "uid": 902,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Announcing: “Nikkatsu’s Golden Age of Eros,” a Retrospective Celebrating 55 Years of the “Roman Porno”",
+    "date": "2026-10-22T16:10:29.000Z",
+    "file": "data/inbox/902-announcing-nikkatsu-s-golden-age-of-eros-a-retrosp.html",
+    "processed": false
+  },
+  {
+    "uid": 903,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Society",
+    "date": "2026-10-22T16:41:30.000Z",
+    "file": "data/inbox/903-society.html",
+    "processed": false
+  },
+  {
+    "uid": 904,
+    "from": "\"Rockaway Film Festival\" <hello@rockawayfilmfestival.org>",
+    "subject": "This weekend: Unless Something Goes Terribly Wrong",
+    "date": "2026-10-22T16:47:42.000Z",
+    "file": "data/inbox/904-this-weekend-unless-something-goes-terribly-wrong.html",
+    "processed": false
+  },
+  {
+    "uid": 905,
+    "from": "\"Onassis ONX\" <contact@onx.studio>",
+    "subject": "They Make You Write Your Poems 🌱 ONX Seeds Open Call 🧵 Fabric of Resilience Workshop",
+    "date": "2026-10-22T17:56:25.000Z",
+    "file": "data/inbox/905-they-make-you-write-your-poems-onx-seeds-open-call.html",
+    "processed": false
+  },
+  {
+    "uid": 906,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "Homes for People, Not for Profit — a window installation",
+    "date": "2026-10-22T18:08:23.000Z",
+    "file": "data/inbox/906-homes-for-people-not-for-profit-a-window-installat.html",
+    "processed": false
+  },
+  {
+    "uid": 907,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "Coming to Broadway: Tom Hanks in This World of Tomorrow",
+    "date": "2026-10-22T19:37:27.000Z",
+    "file": "data/inbox/907-coming-to-broadway-tom-hanks-in-this-world-of-tomo.html",
+    "processed": false
+  },
+  {
+    "uid": 908,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "AI and the Future of Education - Video 🎥",
+    "date": "2026-10-22T19:51:32.000Z",
+    "file": "data/inbox/908-ai-and-the-future-of-education-video.html",
+    "processed": false
+  },
+  {
+    "uid": 909,
+    "from": "\"Performance Space New York\" <info@performancespacenewyork.org>",
+    "subject": "[Fri. Oct 23rd] \"HOUSE PARTY\" with Dauan Jacari ✨",
+    "date": "2026-10-22T22:32:38.000Z",
+    "file": "data/inbox/909-fri-oct-23rd-house-party-with-dauan-jacari.html",
+    "processed": false
+  },
+  {
+    "uid": 910,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Norr Cohan presents Tuan Andrew Nguyen: Sacred Forest (Rừng Thiêng)",
+    "date": "2026-10-23T06:09:47.000Z",
+    "file": "data/inbox/910-norr-cohan-presents-tuan-andrew-nguyen-sacred-fore.html",
+    "processed": false
+  },
+  {
+    "uid": 911,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "📆 Register now: Artists in conversation this month",
+    "date": "2026-10-23T12:03:24.000Z",
+    "file": "data/inbox/911-register-now-artists-in-conversation-this-month.html",
+    "processed": false
+  },
+  {
+    "uid": 912,
+    "from": "\"Blank Forms\" <mail@blankforms.org>",
+    "subject": "Coming up at Blank Forms: October 23–November 14",
+    "date": "2026-10-23T14:04:48.000Z",
+    "file": "data/inbox/912-coming-up-at-blank-forms-october-23-november-14.html",
+    "processed": false
+  },
+  {
+    "uid": 913,
+    "from": "\"The Shed\" <info@theshed.org>",
+    "subject": "Get tickets to Virgil Abloh: The Codes 📁",
+    "date": "2026-10-23T16:05:28.000Z",
+    "file": "data/inbox/913-get-tickets-to-virgil-abloh-the-codes.html",
+    "processed": false
+  },
+  {
+    "uid": 914,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Open call for 2027/2028 Nomad ArtResidency in Bangkok",
+    "date": "2026-10-23T17:09:43.000Z",
+    "file": "data/inbox/914-open-call-for-2027-2028-nomad-artresidency-in-bang.html",
+    "processed": false
+  },
+  {
+    "uid": 915,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "See Nicolas Cage at his most unhinged in ‘80s cult fave Vampire’s Kiss this Saturday",
+    "date": "2026-10-23T17:50:39.000Z",
+    "file": "data/inbox/915-see-nicolas-cage-at-his-most-unhinged-in-80s-cult-.html",
+    "processed": false
+  },
+  {
+    "uid": 916,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "Live on Stage: Selected Shorts feat. Midori Francis, Josh Radnor & More 🎤",
+    "date": "2026-10-23T18:15:25.000Z",
+    "file": "data/inbox/916-live-on-stage-selected-shorts-feat-midori-francis-.html",
+    "processed": false
+  },
+  {
+    "uid": 917,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Virgina",
+    "date": "2026-10-23T18:22:43.000Z",
+    "file": "data/inbox/917-virgina.html",
+    "processed": false
+  },
+  {
+    "uid": 918,
+    "from": "\"Pioneer Works Broadcast\" <pioneerworksbroadcast@substack.com>",
+    "subject": "Meet the portal’s keepers",
+    "date": "2026-10-23T20:40:57.000Z",
+    "file": "data/inbox/918-meet-the-portal-s-keepers.html",
+    "processed": false
+  },
+  {
+    "uid": 919,
+    "from": "\"The Helix Center\" <info@helixcenter.org>",
+    "subject": "The Play's the Thing",
+    "date": "2026-10-23T22:59:41.000Z",
+    "file": "data/inbox/919-the-play-s-the-thing.html",
+    "processed": false
+  },
+  {
+    "uid": 920,
+    "from": "\"The Helix Center\" <info@helixcenter.org>",
+    "subject": "The Play's the Thing",
+    "date": "2026-10-24T13:59:45.000Z",
+    "file": "data/inbox/920-the-play-s-the-thing.html",
+    "processed": false
+  },
+  {
+    "uid": 921,
+    "from": "\"Bard Graduate Center\" <news@bgc.bard.edu>",
+    "subject": "What’s Happening: Adornment, Unexpected Objects & After-Hours Glamour",
+    "date": "2026-10-24T14:00:56.000Z",
+    "file": "data/inbox/921-what-s-happening-adornment-unexpected-objects-afte.html",
+    "processed": false
+  },
+  {
+    "uid": 922,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Travis Diehl on Libby Rothfeld’s “The World Is Not Enough” at Bureau, New York",
+    "date": "2026-10-24T14:09:40.000Z",
+    "file": "data/inbox/922-review-travis-diehl-on-libby-rothfeld-s-the-world-.html",
+    "processed": false
+  },
+  {
+    "uid": 923,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Still a Brother: Inside the Negro Middle Class",
+    "date": "2026-10-24T15:31:37.000Z",
+    "file": "data/inbox/923-still-a-brother-inside-the-negro-middle-class.html",
+    "processed": false
   }
 ]

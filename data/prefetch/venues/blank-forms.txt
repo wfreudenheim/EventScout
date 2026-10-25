@@ -1,6 +1,6 @@
 VENUE:blank-forms | Blank Forms
 URL:https://www.blankforms.org/
-FETCHED:2026-10-21T06:56:01.033Z
+FETCHED:2026-10-25T06:50:39.887Z
 
 Skip to main content
 Menu
@@ -48,20 +48,6 @@ UPCOMING
 
 Event [/events]
 
-/events/kou-records-at-blank-forms-fall-2026-season
-
-October 16–December 5, 2026
-
-KOU RECORDS AT BLANK FORMS—FALL 2026 SEASON
-
-[/events/kou-records-at-blank-forms-fall-2026-season]
-
-BLANK FORMS,
-NEW YORK
-
-[https://www.blankforms.org]
-Event [/events]
-
 /events/martin-rev-lary-7
 Oct 23, 2026
 9:00pm (doors), 9:30pm (performance)
@@ -75,6 +61,20 @@ BOURSE DE COMMERCE - PINAULT COLLECTION,
 PARIS
 
 [https://www.pinaultcollection.com/en/boursedecommerce]
+Event [/events]
+
+/events/kou-records-at-blank-forms-fall-2026-season
+
+October 16–December 5, 2026
+
+KOU RECORDS AT BLANK FORMS—FALL 2026 SEASON
+
+[/events/kou-records-at-blank-forms-fall-2026-season]
+
+BLANK FORMS,
+NEW YORK
+
+[https://www.blankforms.org]
 Event [/events]
 
 /events/blank-forms-at-phonetics
@@ -136,6 +136,7 @@ Event [/events]
 /events/fushitsusha
 Nov 14, 2026
 6:30pm (doors), 7:30pm (performance)
+Sold Out
 
 FUSHITSUSHA
 
@@ -169,15 +170,15 @@ SONNY SIMMONS: BETTER DO IT NOW BEFORE YOU DIE LATER
 
 [/publications/sonny-simmons-better-do-it-now-before-you-die-later]
 Record [/blank-forms-editions]
-/publications/the-shadow-ring-hold-onto-id
-THE SHADOW RING: HOLD ONTO I.D.
-
-[/publications/the-shadow-ring-hold-onto-id]
-Record [/blank-forms-editions]
 /publications/the-shadow-ring-wax-work-echoes
 THE SHADOW RING: WAX-WORK ECHOES
 
 [/publications/the-shadow-ring-wax-work-echoes]
+Record [/blank-forms-editions]
+/publications/the-shadow-ring-hold-onto-id
+THE SHADOW RING: HOLD ONTO I.D.
+
+[/publications/the-shadow-ring-hold-onto-id]
 Book [/blank-forms-editions]
 /publications/blank-forms-10-alien-roots-eliane-radigue
 BLANK FORMS 10: ALIEN ROOTS: ÉLIANE RADIGUE
@@ -188,11 +189,6 @@ Record [/blank-forms-editions]
 7038634357: WATERFALL HORIZON
 
 [/publications/7038634357-waterfall-horizon]
-Record [/blank-forms-editions]
-/publications/lippard-arkbro-lindwall-how-do-i-know-if-my-cat-likes-me
-LIPPARD ARKBRO LINDWALL: HOW DO I KNOW IF MY CAT LIKES ME?
-
-[/publications/lippard-arkbro-lindwall-how-do-i-know-if-my-cat-likes-me]
 Apparel [/blank-forms-editions]
 /publications/ellen-arkbro-nightclouds-t-shirt
 ELLEN ARKBRO NIGHTCLOUDS T-SHIRT
@@ -203,6 +199,11 @@ Record [/blank-forms-editions]
 ELLEN ARKBRO: NIGHTCLOUDS
 
 [/publications/ellen-arkbro-nightclouds]
+Record [/blank-forms-editions]
+/publications/lippard-arkbro-lindwall-how-do-i-know-if-my-cat-likes-me
+LIPPARD ARKBRO LINDWALL: HOW DO I KNOW IF MY CAT LIKES ME?
+
+[/publications/lippard-arkbro-lindwall-how-do-i-know-if-my-cat-likes-me]
 Interview
 [/journal]
 /journal/in-the-beginning-was-the-preface

@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-10-21T06:56:01.456Z
+FETCHED:2026-10-25T06:50:40.164Z
 
 CULTUREHUB [/]
 
@@ -23,22 +23,6 @@ EVENTS [/events]
 
 Events
 
-Oct 21
-[/events/expanded-cinema]
-Expanded Cinema: Working with the Materiality of Film and Image [/events/expanded-cinema]
-
-An introduction to expanded cinema and experimental approaches to the moving image with Lívia Sá. Register → [/events/expanded-cinema]
-
-Read more → [/events/expanded-cinema]
-
-Oct 22
-[/events/unconditional]
-LIVESTREAM | Unconditional: A new musical memoir [/events/unconditional]
-
-CultureHub produces monthly livestreams of La MaMa productions using our new broadcasting tool, the CultureHub Broadcaster. Tickets → [https://culturehub.org/events/unconditional]
-
-Read more → [/events/unconditional]
-
 Oct 27
 [/events/a-room-of-our-own]
 a [room] of our own [/events/a-room-of-our-own]
@@ -46,6 +30,14 @@ a [room] of our own [/events/a-room-of-our-own]
 A workshop with Viola He using the Terminal and the command line to navigate and create on a shared computer. Register → [/events/a-rom-of-our-own]
 
 Read more → [/events/a-room-of-our-own]
+
+Nov 12
+[/events/tethering-an-arcade-with-deep-soul-ties]
+Tethering: An Arcade with Deep Soul Ties [/events/tethering-an-arcade-with-deep-soul-ties]
+
+A game show that cultivates ardent ties to people, aliens, angels, land, and music. Tickets → [https://culturehub.org/events/tethering-an-arcade-with-deep-soul-ties]
+
+Read more → [/events/tethering-an-arcade-with-deep-soul-ties]
 
  
  

@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-10-21T06:56:15.969Z
+FETCHED:2026-10-25T06:50:52.282Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,25 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP10.21.2026
+TODAY’SLINEUP10.25.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+MARGEAUX
+
+Margeaux
+
+10.20.2026
+
+ * Play
+ * Detail [/shows/margeaux/2026-10-20-1400]
+ *
+
+/shows/margeaux/2026-10-20-1400
 
 DANGEROUS: DANIRO
 
@@ -37,6 +49,8 @@ Experimental Electronic, Techno, Drill, Alternative Club, Experimental
 /shows/special-guests/2026-10-18-2200
 
 DR. RUBINSTEIN B2B SUPERGLOSS
+
+Dr. Rubinstein , Supergloss
 
 10.18.2026
 
@@ -104,62 +118,48 @@ alternative, Cloud Rap, K-Pop, Soundtrack
 
 /shows/special-guests/2026-10-12-1300
 
-BODY JOURNEY WITH TOTAL XTC
-
-Total XTC
-
-10.10.2026
-
-Alternative Club, Breaks, Experimental Electronic, Soundtrack
-
- * Play
- * Detail [/shows/special-guests/2026-10-10-1800]
- *
-
-/shows/special-guests/2026-10-10-1800
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * AJ_XO
+ * adobeprincess
    R
-   [/artists/ajxo]
- * Samer Ghadry
+   [/artists/adobeprincess]
+ * Kristine Barilli
    R
-   [/artists/samer-ghadry]
- * Juan MacLean
+   [/artists/kristine-barilli]
+ * threehz
    R
-   [/artists/juan-maclean]
- * J. Russ
+   [/artists/threehz]
+ * James Bangura
    R
-   [/artists/j-russ]
- * Clay Wilson
+   [/artists/james-bangura]
+ * Archangel
    R
-   [/artists/clay-wilson]
- * Nick Boyd
+   [/artists/archangel]
+ * Image Man
    R
-   [/artists/nick-boyd]
- * Takaya Nagase
+   [/artists/image-man]
+ * Tito Deler
    R
-   [/artists/takaya-nagase]
- * Cyrus
+   [/artists/tito-deler]
+ * Folarin
    R
-   [/artists/cyrus]
- * Adrian Rew
+   [/artists/folarin]
+ * Marco Weibel
    R
-   [/artists/adrian-rew]
- * The Dance Pit
+   [/artists/marco-weibel]
+ * Hisham Akira Bharoocha
    R
-   [/artists/the-dance-pit]
- * Tommy Castro
+   [/artists/hisham-akira-bharoocha]
+ * Dull Tools
    R
-   [/artists/tommy-castro]
- * Joy Guidry
+   [/artists/dull-tools]
+ * DJ MEO
    R
-   [/artists/joy-guidry]
+   [/artists/dj-meo]
 
 WE ARE THE LOT RADIO
 
@@ -169,37 +169,35 @@ Expect a continuous stream of the best and most varied music New York City has t
 
 About us [/about]
 
- * 12am — 10am
+ * 12am — 11am
    RESTREAM
 
- * 10am — 11am
-   BRIGHT PATTERNS with Vicki Siolos
-
  * 11am — 12pm
-   Compulsory Joy! with Timo Ellis
+   Selective Listening with Alyssa Stowers
+   Experimental
+ * 12pm — 1pm
+   Hercules & Love Affair
 
- * 12pm — 2pm
-   PRINCE LANGUAGE
+ * 1pm — 2pm
+   Auntie.ism with DJ Auntie Spice
 
- * 2pm — 4pm
-   marvelito & hellotones 'El Hijo de PueblaYork'
-   Cumbia, Electronica, Hip Hop
- * 4pm — 5pm
-   FaltyDL
+ * 2pm — 3pm
+   long in the arms with pink must
 
- * 5pm — 6pm
-   Razor-N-Tape with JKriv
-   House, Disco, Global
- * 6pm — 7pm
-   Mind Cargo - Grace & Titino
-   Techno, House, Acid
- * 7pm — 8pm
-   ANYWHERE ON EARTH invites Beewack
+ * 3pm — 4pm
+   The Extrasensory Connection with JHN ADMS
+
+ * 4pm — 6pm
+   456 Dub Street invites DJ Short Mike (Hitmatik Sound)
+   Reggae, Dub, Dancehall
+ * 6pm — 8pm
+   COOL BREEZE with Zephyr Ann
 
  * 8pm — 10pm
-   ANALOG SOUL
-
+   SYNTHICIDE with LLORA and Andi
+   Post Punk, House, Acid, Trance, Synthpop
  * 10pm — 12am
-   Restream
+   Sorry Records with 'nohup' and Nick Boyd
+   Techno, Acid, Electro
 
 THE LOT RADIO

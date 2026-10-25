@@ -1,6 +1,6 @@
 VENUE:anthology-film-archives | Anthology Film Archives
 URL:https://www.anthologyfilmarchives.org/film_screenings/calendar
-FETCHED:2026-10-21T06:56:02.786Z
+FETCHED:2026-10-25T06:50:40.902Z
 
 ANTHOLOGY FILM ARCHIVES
 
@@ -31,7 +31,7 @@ ANTHOLOGY FILM ARCHIVES
  * Mailing List [/contact/mailing-list]
  * Directions [/contact/directions]
 
-FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-21]
+FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-25]
 
 October 2026
 QUARTERLY PDF [/AFA_456_2013Cal_complete.pdf?v=1] | RSS [/rss] Filter by Program Essential Cinema Premieres/Revivals Retrospectives Series Special Screenings AFA Preservations New Filmmakers
@@ -208,15 +208,15 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
 
 24
  * 4:45 PM
-   THE BATTLE OF LOVE’S RETURN [/film_screenings/calendar?view=list&month=10&year=2026#showing-62031]
+   THE BATTLE OF LOVE’S RETURN (Lloyd Kaufman in person!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62031]
  * 6:00 PM
    FUGS FILM! [/film_screenings/calendar?view=list&month=10&year=2026#showing-62000]
  * 7:00 PM
-   WAITRESS! [/film_screenings/calendar?view=list&month=10&year=2026#showing-62033]
+   WAITRESS! (Lloyd Kaufman in person!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62033]
  * 8:30 PM
    OUTRIDER [/film_screenings/calendar?view=list&month=10&year=2026#showing-62002]
  * 9:30 PM
-   CLASS OF NUKE ‘EM HIGH [/film_screenings/calendar?view=list&month=10&year=2026#showing-62035]
+   CLASS OF NUKE ‘EM HIGH (Lloyd Kaufman in person for both screenings!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62035]
 
 25
  * 4:00 PM
@@ -224,7 +224,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 5:30 PM
    IN THE MOMENT: WORLD POETRY DUELS AND IMPROVISATIONS [/film_screenings/calendar?view=list&month=10&year=2026#showing-62004]
  * 6:30 PM
-   SGT. KABUKIMAN NYPD [/film_screenings/calendar?view=list&month=10&year=2026#showing-62040]
+   SGT. KABUKIMAN NYPD (Lloyd Kaufman in person on Sun, Oct 25!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62040]
  * 7:30 PM
    AZUL [/film_screenings/calendar?view=list&month=10&year=2026#showing-62006]
  * 9:00 PM
@@ -254,13 +254,13 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 7:00 PM
    EC: THE FALL OF THE HOUSE OF USHER [/film_screenings/calendar?view=list&month=10&year=2026#showing-61920]
  * 7:30 PM
-   TERROR FIRMER [/film_screenings/calendar?view=list&month=10&year=2026#showing-62061]
+   TERROR FIRMER (Lloyd Kaufman in person on Thurs, Oct 29!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62061]
 
 30
  * 6:30 PM
    EC: NANOOK OF THE NORTH [/film_screenings/calendar?view=list&month=10&year=2026#showing-61921]
  * 7:00 PM
-   CLASS OF NUKE ‘EM HIGH [/film_screenings/calendar?view=list&month=10&year=2026#showing-62036]
+   CLASS OF NUKE ‘EM HIGH (Lloyd Kaufman in person for both screenings!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62036]
  * 8:45 PM
    EC: MAN OF ARAN [/film_screenings/calendar?view=list&month=10&year=2026#showing-61922]
  * 9:15 PM
@@ -268,7 +268,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
 
 31
  * 4:00 PM
-   SGT. KABUKIMAN NYPD [/film_screenings/calendar?view=list&month=10&year=2026#showing-62041]
+   SGT. KABUKIMAN NYPD (Lloyd Kaufman in person on Sun, Oct 25!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62041]
  * 5:30 PM
    EC: HOLLIS FRAMPTON [/film_screenings/calendar?view=list&month=10&year=2026#showing-61923]
  * 6:45 PM

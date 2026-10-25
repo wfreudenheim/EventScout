@@ -1,6 +1,6 @@
 VENUE:elsewhere | Elsewhere
 URL:https://www.elsewhere.club/events
-FETCHED:2026-10-21T06:56:14.329Z
+FETCHED:2026-10-25T06:50:50.271Z
 
 CALENDAR
 
@@ -44,51 +44,6 @@ Genre
  * Metal
  * Other
 
-Fri, Oct 23
-
-ILYKIMCHI, DJ THANK YOU [/events/1997157401550]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/ilykimchi-dj-thank-you-tickets-1997157401550]
-
-Fri, Oct 23
-
-TGIRL BASEBALL WORLD SERIES GAME 1 WATCH PARTY + AFTERPARTY WITH DJS [/events/2002968629088]
- * CLUB
- * CHATROOM
-
-8:00 PM
-Buy Tickets [https://www.eventbrite.com/e/tgirl-baseball-world-series-game-1-watch-party-afterparty-with-djs-tickets-2002968629088]
-
-Fri, Oct 23
-
-FRANC MOODY DJ SET, CODY CURRIE (OPEN TO CLOSE), COSMO, PEI UP + FRIENDS [/events/1994080909680]
- * CLUB
- * FULL VENUE
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/franc-moody-dj-set-cody-currie-open-to-close-cosmo-pei-up-friends-tickets-1994080909680]
-
-Sat, Oct 24
-
-BIG CROWN RECORDS 10 YEAR ANNIVERSARY FT EL MICHELS AFFAIR + SPECIAL GUESTS [/events/1992653482206]
- * LIVE
- * THE HALL
-
-6:00 PM
-Buy Tickets [https://www.eventbrite.com/e/big-crown-records-10-year-anniversary-ft-el-michels-affair-special-guests-tickets-1992653482206]
-
-Sat, Oct 24
-
-BE YOUR OWN PET, FARMER'S WIFE, JOSEPHINE NETWORK [/events/1989224714670]
- * LIVE
- * ZONE ONE
-
-6:30 PM
-Buy Tickets [https://www.eventbrite.com/e/be-your-own-pet-farmers-wife-josephine-network-tickets-1989224714670]
-
 Sat, Oct 24
 
 10 YEARS OF CRUCAST: (A-Z) BLOSSOM, [IVY], SKEPSIS + OOMFRAVE [/events/1996989624725]
@@ -102,7 +57,7 @@ Sun, Oct 25
 
 FURY (CELEBRATING 10 YEARS OF PARAMOUNT), COMBUST, VANITY, SQUARE ONE [/events/2000655982901]
  * LIVE
- * THE HALL
+ * ZONE ONE
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/fury-celebrating-10-years-of-paramount-combust-vanity-square-one-tickets-2000655982901]
@@ -243,21 +198,21 @@ Buy Tickets [https://www.eventbrite.com/e/earth-to-emily-von-tickets-20030055354
 
 Fri, Nov 6
 
-EMANCIPATOR [/events/1995465318484]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/emancipator-tickets-1995465318484]
-
-Fri, Nov 6
-
 LIME GARDEN, NINE PERFECT LIVES [/events/1985145677159]
  * LIVE
  * ZONE ONE
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1985145677159]
+
+Fri, Nov 6
+
+EMANCIPATOR, SHRIMPNOSE, LAPA [/events/1995465318484]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/emancipator-shrimpnose-lapa-tickets-1995465318484]
 
 Fri, Nov 6
 
@@ -270,21 +225,21 @@ Buy Tickets [https://www.eventbrite.com/e/aerea-alex-farell-tickets-198984474820
 
 Sat, Nov 7
 
-AMI TAF RA + KAMASI WASHINGTON [/events/2000207327962]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/ami-taf-ra-kamasi-washington-tickets-2000207327962]
-
-Sat, Nov 7
-
 LIME GARDEN, NINE PERFECT LIVES [/events/1991242169933]
  * LIVE
  * ZONE ONE
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1991242169933]
+
+Sat, Nov 7
+
+AMI TAF RA + KAMASI WASHINGTON [/events/2000207327962]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/ami-taf-ra-kamasi-washington-tickets-2000207327962]
 
 Sat, Nov 7
 
@@ -306,15 +261,6 @@ Buy Tickets [https://www.eventbrite.com/e/flava-d-made-to-order-dendis-dad-ejwiz
 
 Sun, Nov 8
 
-ARDE BOGOTÁ [/events/1990883722808]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/arde-bogota-tickets-1990883722808]
-
-Sun, Nov 8
-
 ATUNE: BACK TO BLACK [/events/2003606756745]
  * LIVE
  * CHATROOM
@@ -330,6 +276,15 @@ KYLE HUME, SAMMY RASH [/events/1985726645852]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/kyle-hume-sammy-rash-tickets-1985726645852]
+
+Sun, Nov 8
+
+ARDE BOGOTÁ [/events/1990883722808]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/arde-bogota-tickets-1990883722808]
 
 Mon, Nov 9
 
@@ -351,12 +306,13 @@ Buy Tickets [https://www.eventbrite.com/e/bed-tickets-1999799576366]
 
 Tue, Nov 10
 
-SOFIE ROYER [/events/1995697933241]
+SOFIE ROYER - POSTPONED [/events/1995697933241]
+ * SOLD OUT
  * LIVE
  * ZONE ONE
 
 7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/sofie-royer-tickets-1995697933241]
+Join Waitlist [https://www.eventbrite.com/e/sofie-royer-postponed-tickets-1995697933241]
 
 Wed, Nov 11
 
@@ -366,3 +322,48 @@ INTERNET GIRL [/events/1996815850963]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/internet-girl-tickets-1996815850963]
+
+Thu, Nov 12
+
+THE BONES OF J.R. JONES, CHRIS KASPER [/events/1993711008295]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/the-bones-of-jr-jones-chris-kasper-tickets-1993711008295]
+
+Fri, Nov 13
+
+OMNI, SAUDI OIL [/events/1999542593724]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/omni-saudi-oil-tickets-1999542593724]
+
+Fri, Nov 13
+
+ELSEWHERE PRESENTS: LUKE ALEXANDER @ 99 SCOTT - DEDRO, SHANKZ, MATTY CHIUCH [/presents/1996804499009]
+ * CLUB
+ * ↗ ELSEWHERE PRESENTS
+
+10:00 PM
+Buy Tickets [https://www.eventbrite.com/e/elsewhere-presents-luke-alexander-99-scott-dedro-shankz-matty-chiuch-tickets-1996804499009]
+
+Fri, Nov 13
+
+CUT COPY (DJ), ራሄል (RACHEL), DISCO BAMBINO, KRISTINE BARILLI, GRAVITATIONAL [/events/1998379149832]
+ * CLUB
+ * FULL VENUE
+
+10:30 PM
+Buy Tickets [https://www.eventbrite.com/e/cut-copy-dj-rachel-disco-bambino-kristine-barilli-gravitational-tickets-1998379149832]
+
+Sat, Nov 14
+
+MOTHER SOKI [/events/2002749580909]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/mother-soki-tickets-2002749580909]

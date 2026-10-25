@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "elsewhere",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-04T07:29:28.627Z",
-    "completed_at": "2026-10-04T07:29:28.627Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "the-brick",
     "scrape_tier_used": 3,
     "started_at": "2026-10-04T07:29:58.905Z",
@@ -4997,6 +4987,16 @@
     "completed_at": "2026-10-21T07:39:18.064Z",
     "events_found": 3,
     "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-10-25T06:50:37.868Z",
+    "completed_at": "2026-10-25T06:50:37.868Z",
+    "events_found": 0,
+    "events_new": 0,
     "status": "completed"
   }
 ]

@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-10-21T06:56:03.378Z
+FETCHED:2026-10-25T06:50:40.960Z
 
 Subscribe
 
@@ -37,20 +37,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783387/bar-laika-presents-playback-0040-with-solpara/
-
-Current & Upcoming
-Bar Laika presents Playback 0040 with Solpara [/events/6783387/bar-laika-presents-playback-0040-with-solpara/]
-October 21, 2026, 7pm
-Bar Laika by e-flux
-
-/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/
-
-Current & Upcoming
-Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings [/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/]
-October 22, 2026, 7pm
-e-flux
-RSVP [https://www.eventbrite.com/e/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings-tickets-2002310373227]
 /events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/
 
 Current & Upcoming
@@ -101,23 +87,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-In-person
-/events/6783387/bar-laika-presents-playback-0040-with-solpara/
-
-Bar Laika presents Playback 0040 with Solpara
-
-[/events/6783387/bar-laika-presents-playback-0040-with-solpara/]
-October 21, 2026, 7pm
-Bar Laika by e-flux
-In-person, Launches
-/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/
-
-Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings
-
-[/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/]
-October 22, 2026, 7pm
-e-flux
-RSVP [https://www.eventbrite.com/e/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings-tickets-2002310373227]
 In-person, Talks
 /events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/
 
@@ -157,9 +126,22 @@ November 18, 2026, 7pm
 Bar Laika by e-flux
 Archive
 
-Advertisement
-/ads/redirect/6747220
-/ads/redirect/6747220
+In-person, Launches
+/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/
+
+Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings
+
+[/events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/]
+October 22, 2026, 7pm
+e-flux
+In-person
+/events/6783387/bar-laika-presents-playback-0040-with-solpara/
+
+Bar Laika presents Playback 0040 with Solpara
+
+[/events/6783387/bar-laika-presents-playback-0040-with-solpara/]
+October 21, 2026, 7pm
+Bar Laika by e-flux
 In-person, Launches, Talks
 /events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/
 
@@ -176,20 +158,6 @@ Sometimes It Was Beautiful
 [/events/6783396/sometimes-it-was-beautiful/]
 October 15, 2026, 6pm
 Logan Center for The Arts, Screening Room 201
-Talks, In-person
-/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/
-
-Charles Mudede, "Exit Envy: BLM, MAGA, and the Continuing Crisis of Longevity"
-
-[/events/6783393/charles-mudede-exit-envy-blm-maga-and-the-continuing-crisis-of-longevity/]
-October 15, 2026, 7pm
-e-flux
-Screenings, In-person, Talks
-/events/6783395/film-at-a-distance-on-artavazd-peleshyan/
-
-Film at a Distance: On Artavazd Peleshyan
-
-[/events/6783395/film-at-a-distance-on-artavazd-peleshyan/]
-October 13, 2026, 7pm
-e-flux Screening Room
 Load more
+Advertisement
+/ads/redirect/6747218

@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-10-21T06:56:11.122Z
+FETCHED:2026-10-25T06:50:47.671Z
 
 Index [/]
 
@@ -17,7 +17,7 @@ New York, NY 10013
 
 Index NYC is a shared studio, event space, and community center in downtown NYC. We offer monthly memberships to our workspace and host regular public programs and happenings. Please reach out by email to request access on a case-by-case basis, or join our waitlist for membership.
 
-More Information [/coworking/index-chinatown]Join [/join]
+More Information [/coworking/index-chinatown]Membership Info [/join]
 /coworking/index-greenpoint
 
 INDEX GREENPOINT
@@ -28,7 +28,7 @@ Brooklyn, NY 11222
 
 Across two floors and a roof deck, Index Greenpoint is a coworking and event space with ample room for members and guests to work, host, meet, and gather.
 
-More Information [/coworking/index-greenpoint]Join [/join]
+More Information [/coworking/index-greenpoint]Membership Info [/join]
 /nodes
 
 NODES
@@ -36,6 +36,10 @@ NODES
 A network of loosely connected, highly aligned physical spaces for gathering across the world.
 
 Learn More [/nodes]
+
+ * CREATIVE SHOWCASE VOL. 7
+
+   [/resources/creative-showcase-vol-7]
 
  * INTERNET ARCHIVE
 
@@ -60,35 +64,11 @@ Learn More [/nodes]
    Demian Conrad
 
    [/resources/graphic-design-in-the-post-digital-age]
-
- * PROTOTYPE NIGHT WITH AIR: A CELEBRATION OF PLAYFUL AI, NEW INTERFACES, AND HUMAN-FIRST TECH
-
-   [/resources/prototype-night-with-air-a-celebration-of-playful-ai-new-interfaces-and-human-first-tech]
  * See All
    Resources [/resources]
 
 FILTER
 All EventsGreenpointChinatown
- * Index Chinatown Open House: October [/programming/index-chinatown-open-house-october-evt-wMuobLpLuDtc8VF?view=list]
-
-   INDEX CHINATOWN OPEN HOUSE: OCTOBER
-
-   Friday, Oct 23, 2026
-
-   Hosted by Index [https://luma.com/user/usr-LvASHhwrum7Bp3P]
-
-   Presented by Index Chinatown
-
- * Workshop on Workshops [/programming/workshop-on-workshops-evt-8FBMZuCN71VMK3N?view=list]
-
-   WORKSHOP ON WORKSHOPS
-
-   Saturday, Oct 24, 2026
-
-   Hosted by Elie Andersen [https://luma.com/user/usr-pt54ROnL0qbHlR3]
-
-   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
-
  * Vibecoding 101 [/programming/vibecoding-101-evt-uDJEA0FMU1Ga7zy?view=list]
 
    VIBECODING 101
@@ -118,6 +98,24 @@ All EventsGreenpointChinatown
    Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
 
    Presented by Index Chinatown
+
+ * Music Industry 101, Session 2: Recordings & Label Deals [/programming/music-industry-101-session-2-recordings-label-deals-evt-lTLAoj5ulLctdgS?view=list]
+
+   MUSIC INDUSTRY 101, SESSION 2: RECORDINGS & LABEL DEALS
+
+   Thursday, Nov 5, 2026
+
+   Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
+
+   Presented by Index Chinatown
+
+ * Building Interactive Apps [/programming/building-interactive-apps-evt-rxHb9HGqQC5nArW?view=list]
+
+   BUILDING INTERACTIVE APPS
+
+   Sunday, Nov 8, 2026
+
+   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
 
 Show More [/programming]
 

@@ -1,6 +1,6 @@
 VENUE:n-plus-one | n+1 Magazine
 URL:https://www.nplusonemag.com/
-FETCHED:2026-10-21T06:56:09.968Z
+FETCHED:2026-10-25T06:50:47.428Z
 
 https://www.nplusonemag.com/subscribe/?affid=hero
 https://www.nplusonemag.com/magazine/issue-54 Current Issue
@@ -124,6 +124,24 @@ Issue 54 Power Play
  * Chad Harbach
 
 [https://www.nplusonemag.com/issue-54/fiction-drama/the-parties/]
+card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
+Online Only
+ * Playing Roulette in the Archives
+ * Amelia Soth
+
+[https://www.nplusonemag.com/online-only/online-only/playing-roulette-in-the-archives/]
+card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
+Online Only
+ * Blue Power in New York
+ * Stuart Schrader, Colin Vanderburg
+
+[https://www.nplusonemag.com/online-only/online-only/blue-power-in-new-york/]
+card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
+Online Only
+ * Trump’s Microphones
+ * Dushko Petrovich Córdova
+
+[https://www.nplusonemag.com/online-only/online-only/trumps-microphones/]
 card-default flavor-home-flow type-online-only term-online-only format-pullquote tax-online-only featured-
 
 HUM 2380: How Can I Survive, Reproduce, and Flourish?
@@ -133,24 +151,6 @@ Online Only
  * Lauren O'Neill-Butler
 
 [https://www.nplusonemag.com/online-only/online-only/death-of-the-mind-in-sarasota/]
-card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
-Online Only
- * EV Listening
- * William Harris
-
-[https://www.nplusonemag.com/online-only/online-only/ev-listening/]
-card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
-Online Only
- * Last Week in End Times Cinema
- * A. S. Hamrah, Will Tavlin
-
-[https://www.nplusonemag.com/online-only/online-only/last-week-in-end-times-cinema-2/]
-card-default flavor-home-flow type-online-only term-gooooaaal format-with_image tax-online-only featured-
-GOOOOAAAL
- * Away Game
- * Liv Veazey
-
-[https://www.nplusonemag.com/online-only/gooooaaal/away-game/]
 
 BOOKSTORE [http://shop.nplusonemag.com/]
 
@@ -180,24 +180,18 @@ $25.00
 
 [https://shop.nplusonemag.com/products/the-twentieth-anniversary-tote]
 Browse the Shop [http://shop.nplusonemag.com/]
-card-default flavor-home-flow type-online-only term-online-only format-pullquote tax-online-only featured-
-
-How many other writers can truly be said to have invented a form?
-
+card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
 Online Only
- * The Freedom of the Weasel
- * Grace Glass
+ * EV Listening
+ * William Harris
 
-[https://www.nplusonemag.com/online-only/online-only/the-freedom-of-the-weasel/]
-card-event flavor-home-flow type-online-only term-events format-pullquote tax-online-only featured-
+[https://www.nplusonemag.com/online-only/online-only/ev-listening/]
+card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
+Online Only
+ * Last Week in End Times Cinema
+ * A. S. Hamrah, Will Tavlin
 
-The Municipal Sublime
-
- * OCT 16
-   2026
- * Archtober in New York
-
-[https://www.nplusonemag.com/online-only/events/the-municipal-sublime/]
+[https://www.nplusonemag.com/online-only/online-only/last-week-in-end-times-cinema-2/]
 
 WATER WORLD
 

@@ -1,6 +1,6 @@
 VENUE:data-society | Data & Society
 URL:https://datasociety.net/
-FETCHED:2026-10-21T06:56:01.251Z
+FETCHED:2026-10-25T06:50:40.001Z
 
 Skip to main content
 Search Search
@@ -72,6 +72,20 @@ Read more [https://datasociety.net/research-library/generative-ais-labor-impacts
 
 THE LATEST FROM DATA & SOCIETY
 
+https://www.nypl.org/events/programs/2026/11/06/how-ai-civics-can-build-public-power-over-tech-data-society
+
+HOW AI CIVICS CAN BUILD PUBLIC POWER OVER TECH
+
+[https://www.nypl.org/events/programs/2026/11/06/how-ai-civics-can-build-public-power-over-tech-data-society]
+Join Meg Young, Khari Johnson, Sareeta Amrute, Hannah Sassaman, and Justin Hendrix to discuss how AI civics can help realize a more democratic vision…
+ * AI civics [/news-events/?subject=ai-civics]
+ * artificial intelligence [/news-events/?subject=artificial-intelligence]
+ * civics [/news-events/?subject=civics]
+ * * community engagement [/news-events/?subject=community-engagement]
+   * democracy [/news-events/?subject=democracy]
+
+November 6, 2026
+Event
 https://datasociety.net/research-library/why-we-are-turning-a-worker-lens-on-the-ai-economy/
 
 WHY WE ARE TURNING A WORKER LENS ON THE AI ECONOMY
@@ -101,18 +115,6 @@ Our research shows that data centers represent a lightning rod issue for broad, 
 
 September 21, 2026
 Report
-https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/
-
-POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
-
-[https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/]
-The authors of "Muskism" and "Against Tech Oligarchy" discuss the structural forces shaping tech and state power.
- * labor [/research-library/?subject=labor]
- * Silicon Valley [/research-library/?subject=silicon-valley]
- * technology industry [/research-library/?subject=technology-industry]
-
-September 14, 2026
-Event
 https://datasociety.net/research-library/our-new-research-and-policy-collection-governing-ai-agents/
 
 OUR NEW RESEARCH AND POLICY COLLECTION: GOVERNING AI AGENTS
@@ -314,23 +316,30 @@ Policy Director Brian J. Chen urges the City Council to protect New Yorkers from
    * technology industry [/research-library/?subject=technology-industry]
 
 https://datasociety.net/research-library/testimony-to-the-nyc-council-hearing-on-examining-the-risks-posed-by-ai/
-News
-September 30, 2026
+Event
+October 7, 2026
 
-NEW PROJECT FROM DATA & SOCIETY WILL TURN A WORKER LENS ON THE AI ECONOMY
+POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
 
-[https://datasociety.net/news-events/new-project-from-data-society-will-turn-a-worker-lens-on-the-ai-economy/]
-This timely, ambitious new program will identify and address the impacts of AI technologies on workers across five industries.
- * artificial intelligence [/news-events/?subject=artificial-intelligence]
- * care industry [/news-events/?subject=care-industry]
- * economic justice [/news-events/?subject=economic-justice]
- * * economy [/news-events/?subject=economy]
-   * future of work [/news-events/?subject=future-of-work]
-   * home care services [/news-events/?subject=home-care-services]
-   * invisible labor [/news-events/?subject=invisible-labor]
-   * labor [/news-events/?subject=labor]
+[https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/]
+The authors of "Muskism" and "Against Tech Oligarchy" discuss the structural forces shaping tech and state power.
+ * labor [/research-library/?subject=labor]
+ * Silicon Valley [/research-library/?subject=silicon-valley]
+ * technology industry [/research-library/?subject=technology-industry]
 
-https://datasociety.net/news-events/new-project-from-data-society-will-turn-a-worker-lens-on-the-ai-economy/
+https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/
+Event
+September 23, 2026
+
+PROTECTING DEMOCRACY’S DATA
+
+[https://datasociety.net/research-library/protecting-democracys-data/]
+Professor, researcher, and Data & Society founder danah boyd discusses her new book and its implications with historian and author Dan Bouk, in a conversation moderated by…
+ * census data [/research-library/?subject=census-data]
+ * datafication [/research-library/?subject=datafication]
+ * democracy [/research-library/?subject=democracy]
+
+https://datasociety.net/research-library/protecting-democracys-data/
 Congressional letter
 September 17, 2026
 
@@ -342,19 +351,6 @@ Recent incidents concerning rogue AI agents committing cyberattacks have catalyz
  * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
 
 https://datasociety.net/research-library/letter-to-congress-on-pacing-the-frontier/
-Event
-September 28, 2026
-
-WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
-
-[https://datasociety.net/research-library/who-gets-to-decide-how-ai-enters-our-schools/]
-We explore how AI's role in classrooms is being shaped in New York City and beyond.
- * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * education [/research-library/?subject=education]
- * educational technology [/research-library/?subject=educational-technology]
- * * young people [/research-library/?subject=young-people]
-
-https://datasociety.net/research-library/who-gets-to-decide-how-ai-enters-our-schools/
 Previous Next
 
 JOIN US AND DONATE TODAY

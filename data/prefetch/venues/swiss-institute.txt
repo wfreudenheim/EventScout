@@ -1,6 +1,6 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-10-21T06:56:10.531Z
+FETCHED:2026-10-25T06:50:47.706Z
 
 * Exhibitions [/exhibitions]
     * Current [/exhibitions]
@@ -77,20 +77,6 @@ Wed Sep 23—Sat Nov 14 2026
 [https://swissinstitute.net/exhibitions/si-offsite-rafał-skoczek-kino-drift]
 Programs
 
-NEW YORK AXIOMATIC CIRCLE
-
-Wed Oct 21 2026, 7:00pm
-
-[https://swissinstitute.net/programs/new-york-axiomatic-circle-2]
-Programs
-
-SCACCHI NOISE/CHESS NOISE
-
-Sat Oct 24 2026, 4:00pm
-
-[https://swissinstitute.net/programs/scacchi-noise-chess-noise]
-Programs
-
 REGIFT | AN EVENING WITH RIRKRIT TIRAVANIJA, AMY SILLMAN, JOHN MILLER, AND CATHARINE CZUDEJ
 
 Mon Oct 26 2026, 7:00pm
@@ -124,18 +110,6 @@ FILM SERIES | MARCHING WITH THE KASAMA
 Wed Nov 11 2026, 7:00pm
 
 [https://swissinstitute.net/programs/film-series-marching-with-the-kasama]
-
-NEW YORK AXIOMATIC CIRCLE
-
-Wed Oct 21 2026, 7:00pm
-
-[https://swissinstitute.net/programs/new-york-axiomatic-circle-2]
-
-SCACCHI NOISE/CHESS NOISE
-
-Sat Oct 24 2026, 4:00pm
-
-[https://swissinstitute.net/programs/scacchi-noise-chess-noise]
 
 REGIFT | AN EVENING WITH RIRKRIT TIRAVANIJA, AMY SILLMAN, JOHN MILLER, AND CATHARINE CZUDEJ
 

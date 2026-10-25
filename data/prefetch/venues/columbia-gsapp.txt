@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-10-21T06:56:12.908Z
+FETCHED:2026-10-25T06:50:48.697Z
 
 /
  * The School
@@ -12,7 +12,7 @@ FETCHED:2026-10-21T06:56:12.908Z
     * Student Work [/student-work]
     * Media Archive [/media-archive/lectures]
     * Alumni [/alumni/]
-    * Campaign [/campaign]
+    * Support [/campaign]
     * Visit [/visit]
     * Contact [/contact]
 
@@ -850,8 +850,8 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=13&month=10&time_range=week&year=2026 /events?day=29&month=10&time_range=week&year=2026
-Oct 21 – Oct 28
+/events?day=17&month=10&time_range=week&year=2026 /events?day=2&month=11&time_range=week&year=2026
+Oct 25 – Nov 1
 Week
 [/events?time_range=week]
 Month
@@ -859,45 +859,7 @@ Month
 Semester
 [/events?time_range=semester]
 
-Today at 1pm
-
-Francois Chatillon
-
-Preservation Lecture Series
-
-[/events/4353-francois-chatillon]
-
-Thu, Oct 22    12pm
-
-GSAPP Admissions at Florida International University Grad Fair
-
-[/events/4358-gsapp-admissions-at-florida-international-university-grad-fair]
-
-Thu, Oct 22    12pm
-
-Abundance Talk: The Alibi of Capital
-
-Buell Center
-
-[/events/4362-abundance-talk-the-alibi-of-capital]
-
-Thu, Oct 22    1pm
-
-MSRED Lecture: Cher Yao, Hines
-
-Lecture
-
-New York
-
-[/events/4298-msred-lecture-cher-yao-hines]
-
-Sat, Oct 24    10am
-
-GSAPP Admissions at Architecture and Design Fair New York City
-
-[/events/4361-gsapp-admissions-at-architecture-and-design-fair-new-york-city]
-
-Sun, Oct 25    10am
+Today at 10am
 
 GSAPP Admissions at Philadelphia Architecture and Design Fair
 
@@ -938,17 +900,27 @@ Tuesday Talks
 
 Alumni
 
-Virtual
+New York, Virtual
 
 [/events/4277-tuesday-talks]
 
-Tue, Oct 27    12:30pm
+Tue, Oct 27    1pm
 
 THE LIBRARY IS OPEN 32: Shelter Cookbook
 
 Library is Open
 
 [/events/4273-the-library-is-open-32-shelter-cookbook]
+
+Tue, Oct 27    1:30pm
+
+The Lecture in Planning Series (LiPS) Panel
+
+Lecture
+
+New York
+
+[/events/4364-the-lecture-in-planning-series-li-ps-panel]
 
 Tue, Oct 27    5pm
 
@@ -1005,3 +977,19 @@ Alumni Connections in Indianapolis
 Alumni
 
 [/events/4288-alumni-connections-in-indianapolis]
+
+Thu, Oct 29    8am
+
+Virtual
+
+Fall 2026 Online Open House: MS Real Estate Development
+
+[/events/4351-fall-2026-online-open-house-ms-real-estate-development]
+
+Thu, Oct 29    9am
+
+Virtual
+
+Fall 2026 Online Open House: Master of Architecture
+
+[/events/4352-fall-2026-online-open-house-master-of-architecture]
