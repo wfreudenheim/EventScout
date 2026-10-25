@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:27:46.898Z"
+    "last_checked": "2026-10-25T07:23:13.873Z"
   },
   {
     "id": "roulette",
@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:27:45.623Z"
+    "last_checked": "2026-10-25T07:23:13.102Z"
   },
   {
     "id": "the-new-school",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:38:16.204Z"
+    "last_checked": "2026-10-25T07:23:14.519Z"
   },
   {
     "id": "artists-space",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:27:46.925Z"
+    "last_checked": "2026-10-25T07:23:14.532Z"
   },
   {
     "id": "center-for-architecture",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:27:46.937Z"
+    "last_checked": "2026-10-25T07:23:14.547Z"
   },
   {
     "id": "microscope-gallery",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:27:45.633Z"
+    "last_checked": "2026-10-25T07:23:13.087Z"
   },
   {
     "id": "caveat",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:45.641Z"
+    "last_checked": "2026-10-25T07:23:13.121Z"
   },
   {
     "id": "rockefeller-university",
@@ -1823,7 +1823,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:47.542Z"
+    "last_checked": "2026-10-25T07:23:14.562Z"
   },
   {
     "id": "montez-press-radio",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:45.648Z"
+    "last_checked": "2026-10-25T07:23:13.129Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2084,7 +2084,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:47.561Z"
+    "last_checked": "2026-10-25T07:23:15.224Z"
   },
   {
     "id": "millennium-film-workshop",
@@ -2108,7 +2108,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:47.569Z"
+    "last_checked": "2026-10-25T07:23:15.234Z"
   },
   {
     "id": "rockaway-film-festival",
@@ -2297,7 +2297,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:46.236Z"
+    "last_checked": "2026-10-25T07:23:13.796Z"
   },
   {
     "id": "blank-forms",
@@ -2721,7 +2721,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:41.767Z"
+    "last_checked": "2026-10-25T07:23:15.243Z"
   },
   {
     "id": "canal-projects",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.865Z"
+    "last_checked": "2026-10-25T07:23:13.815Z"
   },
   {
     "id": "la-mama",
@@ -2934,7 +2934,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:46.296Z"
+    "last_checked": "2026-10-25T07:23:13.824Z"
   },
   {
     "id": "onassis-onx",
@@ -2957,7 +2957,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:46.854Z"
+    "last_checked": "2026-10-25T07:23:13.838Z"
   },
   {
     "id": "index-space",
@@ -3029,7 +3029,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:41.777Z"
+    "last_checked": "2026-10-25T07:23:15.263Z"
   },
   {
     "id": "nyu-game-center",
@@ -3314,7 +3314,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:46.872Z"
+    "last_checked": "2026-10-25T07:23:13.863Z"
   },
   {
     "id": "barbes",

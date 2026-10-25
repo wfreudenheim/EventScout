@@ -8598,5 +8598,367 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-25T07:17:24.904Z"
+  },
+  {
+    "id": "microscope-gallery-2026-10-22-america-on-the-dark-side-of-the-moon",
+    "title": "America on the Dark Side of the Moon",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-10-22",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Opening reception for Marni Kotak's exhibition \"America on the Dark Side of the Moon,\" presented by Microscope Gallery at Grace Exhibition Space, 182 Ave C, New York. On view through November 28, 2026.",
+    "url": "https://microscopegallery.com/marni-kotak-america-on-the-dark-side-of-the-moon/",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:13.070Z"
+  },
+  {
+    "id": "culturehub-2026-11-12-tethering-an-arcade-with-deep-soul-ties",
+    "title": "Tethering: An Arcade with Deep Soul Ties",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-11-12",
+    "description": "A game show that cultivates ardent ties to people, aliens, angels, land, and music.",
+    "url": "https://www.culturehub.org/events/tethering-an-arcade-with-deep-soul-ties",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:13.802Z"
+  },
+  {
+    "id": "onassis-onx-2026-12-18-3etv-on-somerset-house-studios",
+    "title": "3ETV on Somerset House Studios",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-12-18",
+    "description": "A bespoke 9-channel TV station curated and produced by Somerset House Studios, developed in collaboration with HEK, M+, Onassis ONX and Pioneer Works, broadcasting online from Oct 12 through Dec 18, 2026.",
+    "url": "https://www.onx.studio/onx-programming/3etv",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:13.828Z"
+  },
+  {
+    "id": "world-music-institute-2026-10-26-ustad-kamal-sabri",
+    "title": "Ustad Kamal Sabri",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-10-26",
+    "time_start": "18:00",
+    "description": "An online WMI Plus at Home performance by sarangi master Ustad Kamal Sabri.",
+    "url": "https://ci.ovationtix.com/35721/production/1293078?performanceId=11876696",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:13.842Z"
+  },
+  {
+    "id": "bitforms-2026-10-29-lajun-mcmillian-to-see-for-oneself-openi",
+    "title": "LaJuné McMillian: To See for Oneself (Opening Reception)",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-10-29",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Opening reception for LaJuné McMillian's new solo exhibition 'To See for Oneself' at bitforms gallery; the show, which engages digital/motion-capture media and the body, runs through January 9, 2027.",
+    "url": "https://www.bitforms.art/exhibition/to-see-for-oneself",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:14.536Z"
+  },
+  {
+    "id": "interference-archive-2026-11-08-changing-lanes-anti-car-films",
+    "title": "Changing Lanes & Anti-Car Films",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-11-08",
+    "time_start": "18:00",
+    "description": "A screening of four documentaries exploring how social movements have challenged the commodification and policing of urban mobility and pushed back against car-centric city design; doors 5:30pm, pre-show 6pm, main program 6:45pm.",
+    "url": "https://interferencearchive.org/event/changing-lanes-anti-car-films/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:14.551Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-27-ishmael-reed-s-gospel-opera-gethsemane-p",
+    "title": "Ishmael Reed's Gospel Opera: Gethsemane Park",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-27",
+    "description": "A staged gospel opera written by Ishmael Reed, presented at Maysles Documentary Center, blending music, theater, and literary commentary.",
+    "url": "https://www.maysles.org/calendar/gethsemane-park",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Sound & Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.204Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-08-a-sunday-assembly-with-fred-moten-and-jo",
+    "title": "A Sunday Assembly with Fred Moten and Jordan Jones",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-08",
+    "description": "A conversation/reading event featuring poet and critical theorist Fred Moten alongside Jordan Jones, part of Maysles' Sunday Assembly series.",
+    "url": "https://www.maysles.org/calendar/sunday-assembly-fred-moten-jordan-jones",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.204Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-10-31-true-north",
+    "title": "True North",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-10-31",
+    "description": "Documentary film screening at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/true-north",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.204Z"
+  },
+  {
+    "id": "wonderville-2026-11-01-video-art-experimental-film-bingo",
+    "title": "Video Art & Experimental Film Bingo",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-01",
+    "time_start": "14:30",
+    "time_end": "17:30",
+    "description": "A playful bingo night at Wonderville built around clips of video art and experimental film, pairing games culture with experimental moving image.",
+    "url": "https://www.wonderville.nyc/events/video-art-experimental-film-bingo-11-1-26",
+    "format": "other",
+    "interest_score": 4.8,
+    "tags": [
+      "experimental-film",
+      "video-art",
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.249Z"
+  },
+  {
+    "id": "wonderville-2026-10-26-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV (\"FEAR CITY SCREAMS\" OR \"FEAR CITY'S STREAM\" part 1)",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-26",
+    "time_start": "23:00",
+    "description": "A live Halloween-themed pirate-broadcast/video-art performance night at Wonderville, part one of a two-part series.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-fear-city-screams-or-fear-citys-stream-part-10-26-26",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.248Z"
+  },
+  {
+    "id": "wonderville-2026-10-28-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-28",
+    "time_start": "20:00",
+    "description": "An open-play community night at Wonderville centered on the cooperative/competitive arcade cabinet game Killer Queen.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-10-28-26",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.248Z"
+  },
+  {
+    "id": "wonderville-2026-10-30-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV (\"FEAR CITY SCREAMS\" OR \"FEAR CITY'S STREAM\" part 2)",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-30",
+    "time_start": "23:00",
+    "description": "Part two of Wonderville's Halloween-themed pirate-broadcast/video-art performance series.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-fear-city-screams-or-fear-citys-stream-part-2-10-30-26",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.248Z"
+  },
+  {
+    "id": "wonderville-2026-10-30-rocky-horror-picture-show-with-shadow-ca",
+    "title": "Rocky Horror Picture Show with Shadow Cast",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-30",
+    "time_start": "23:00",
+    "description": "A midnight screening of The Rocky Horror Picture Show with a live shadow cast performing alongside the film at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/rocky-horror-picture-show-with-shadow-cast-10-30-26",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.248Z"
+  },
+  {
+    "id": "wonderville-2026-10-31-20xx-con-",
+    "title": "20XX Con!",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-31",
+    "time_start": "14:30",
+    "time_end": "17:30",
+    "description": "A small gaming convention held at Wonderville, Brooklyn's arcade bar for independently made games.",
+    "url": "https://www.wonderville.nyc/events/20xx-con-10-31-26",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.249Z"
+  },
+  {
+    "id": "wonderville-2026-10-31-love-will-tear-us-apart-on-halloween",
+    "title": "Love Will Tear Us Apart On Halloween",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-10-31",
+    "time_start": "19:00",
+    "time_end": "23:59",
+    "description": "A Halloween dance party at Wonderville with a post-punk/goth musical theme (referencing Joy Division).",
+    "url": "https://www.wonderville.nyc/events/halloween2026",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.249Z"
+  },
+  {
+    "id": "wonderville-2026-11-01-dyke-halloween-emo-punk-halloween-cover-",
+    "title": "Dyke Halloween Emo/Punk Halloween Cover Band Nite",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-01",
+    "time_start": "20:00",
+    "description": "A queer Halloween-themed night of emo/punk cover bands at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/dyke-halloween-emo/punk-halloween-cover-band-nite-11-1-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.249Z"
+  },
+  {
+    "id": "wonderville-2026-11-02-trigal-g-t-arpe-salt-mr-mysterease",
+    "title": "Trigal // G.T.Arpe // Salt // Mr. Mysterease",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-02",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A live music lineup at Wonderville featuring Trigal, G.T.Arpe, Salt, and Mr. Mysterease.",
+    "url": "https://www.wonderville.nyc/events/trigal/gtarpe/salt/mr-mysterease-11-2-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-25T07:23:15.249Z"
   }
 ]
