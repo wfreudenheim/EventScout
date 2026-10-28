@@ -1,96 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "swiss-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:04.668Z",
-    "completed_at": "2026-10-07T07:36:04.668Z",
-    "events_found": 8,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "white-columns",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:04.677Z",
-    "completed_at": "2026-10-07T07:36:04.677Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "n-plus-one",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:04.685Z",
-    "completed_at": "2026-10-07T07:36:04.685Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "time-spans",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:04.693Z",
-    "completed_at": "2026-10-07T07:36:04.693Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "recess-art",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:31.679Z",
-    "completed_at": "2026-10-07T07:36:31.679Z",
-    "events_found": 3,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "la-mama",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:31.704Z",
-    "completed_at": "2026-10-07T07:36:31.704Z",
-    "events_found": 7,
-    "events_new": 6,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "index-space",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:31.728Z",
-    "completed_at": "2026-10-07T07:36:31.728Z",
-    "events_found": 5,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "movement-research",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:31.747Z",
-    "completed_at": "2026-10-07T07:36:31.747Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "danspace-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:31.769Z",
-    "completed_at": "2026-10-07T07:36:31.769Z",
-    "events_found": 5,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "jack-arts",
     "scrape_tier_used": 3,
     "started_at": "2026-10-07T07:36:31.780Z",
@@ -4996,6 +4906,96 @@
     "started_at": "2026-10-28T07:18:41.703Z",
     "completed_at": "2026-10-28T07:18:41.703Z",
     "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-architecture",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:20.084Z",
+    "completed_at": "2026-10-28T07:19:20.084Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "columbia-gsapp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:20.113Z",
+    "completed_at": "2026-10-28T07:19:20.113Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "cooper-union",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:20.129Z",
+    "completed_at": "2026-10-28T07:19:20.129Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "creative-time",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:20.148Z",
+    "completed_at": "2026-10-28T07:19:20.148Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "culturehub",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:24.424Z",
+    "completed_at": "2026-10-28T07:19:24.424Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:24.470Z",
+    "completed_at": "2026-10-28T07:19:24.470Z",
+    "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "e-flux",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:24.495Z",
+    "completed_at": "2026-10-28T07:19:24.495Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "electronic-arts-intermix",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:24.515Z",
+    "completed_at": "2026-10-28T07:19:24.515Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "elsewhere",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:19:24.532Z",
+    "completed_at": "2026-10-28T07:19:24.532Z",
+    "events_found": 3,
     "events_new": 0,
     "status": "completed"
   }

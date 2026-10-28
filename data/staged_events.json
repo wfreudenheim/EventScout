@@ -8337,5 +8337,107 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-28T07:18:41.614Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-04-book-talk-claying-architecture-making-ma",
+    "title": "Book Talk: Claying Architecture, Making Machine and Material Kin",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-04",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A roundtable discussion at the Center for Architecture celebrating the launch of the book 'Claying Architecture: Making Machine and Material Kin,' exploring material culture and the relationship between craft, machines, and architectural practice.",
+    "url": "https://calendar.aiany.org/2026/11/04/book-talk-claying-architecture-making-machine-and-material-kin/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "material-culture"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Architecture & Urbanism",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:19:20.056Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-04-celebrating-10-years-of-e-flux-architect",
+    "title": "Celebrating 10 years of e-flux Architecture",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-04",
+    "time_start": "18:30",
+    "description": "A conference event at Columbia GSAPP marking ten years of e-flux Architecture, the online platform known for critical architectural theory and discourse.",
+    "url": "https://www.arch.columbia.edu/events/4282-celebrating-10-years-of-e-flux-architecture",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:19:20.091Z"
+  },
+  {
+    "id": "danspace-project-2026-12-19-draftwork-iliana-penichet-ram-rez-joel-w",
+    "title": "DRAFTWORK: Iliana Penichet-Ramírez + Joel Watson",
+    "venue_id": "danspace-project",
+    "venue_name": "Danspace Project",
+    "date": "2026-12-19",
+    "description": "A Draftwork showing (works-in-progress) by choreographers Iliana Penichet-Ramírez and Joel Watson, presented by Danspace Project at St. Mark's Church.",
+    "url": "https://danspaceproject.org/calendar/draftwork-dec-fw26/",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:19:24.432Z"
+  },
+  {
+    "id": "e-flux-2026-11-07-with-an-acre-an-afternoon-with-the-cca",
+    "title": "With an Acre — An Afternoon with the CCA",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-07",
+    "time_start": "15:00",
+    "description": "An afternoon program presented with the CCA (Canadian Centre for Architecture) at e-flux's Screening Room, combining screenings and discussion on architecture and design.",
+    "url": "https://www.e-flux.com/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:19:24.476Z"
+  },
+  {
+    "id": "electronic-arts-intermix-2026-11-05-nobody-s-dummy-with-sophie-becker-sarah-",
+    "title": "Nobody's Dummy, with Sophie Becker & Sarah Rebecca Kessler",
+    "venue_id": "electronic-arts-intermix",
+    "venue_name": "Electronic Arts Intermix",
+    "date": "2026-11-05",
+    "description": "A program co-presented by Triple Canopy and Electronic Arts Intermix featuring Sophie Becker and Sarah Rebecca Kessler, continuing EAI's public programming on media art.",
+    "url": "https://canopycanopycanopy.com/contents/nobodys-dummy",
+    "format": "talk",
+    "interest_score": 3.5,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:19:24.499Z"
   }
 ]

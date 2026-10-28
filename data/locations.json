@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:37:22.657Z"
+    "last_checked": "2026-10-28T07:19:20.110Z"
   },
   {
     "id": "e-flux",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:13:55.161Z"
+    "last_checked": "2026-10-28T07:19:24.493Z"
   },
   {
     "id": "artists-space",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:31:09.923Z"
+    "last_checked": "2026-10-28T07:19:20.082Z"
   },
   {
     "id": "bitforms",
@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:31:09.895Z"
+    "last_checked": "2026-10-28T07:19:20.125Z"
   },
   {
     "id": "printed-matter",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:37:23.360Z",
+    "last_checked": "2026-10-28T07:19:24.530Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -1749,7 +1749,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.616Z"
+    "last_checked": "2026-10-28T07:19:24.513Z"
   },
   {
     "id": "wendys-subway",
@@ -2721,7 +2721,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:23:15.243Z"
+    "last_checked": "2026-10-28T07:19:20.142Z"
   },
   {
     "id": "canal-projects",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:23:13.815Z"
+    "last_checked": "2026-10-28T07:19:24.421Z"
   },
   {
     "id": "la-mama",
@@ -3123,7 +3123,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:37:21.877Z"
+    "last_checked": "2026-10-28T07:19:24.467Z"
   },
   {
     "id": "chocolate-factory",
