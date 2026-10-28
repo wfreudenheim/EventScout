@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:23:14.547Z"
+    "last_checked": "2026-10-28T07:20:43.007Z"
   },
   {
     "id": "microscope-gallery",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.544Z"
+    "last_checked": "2026-10-28T07:20:42.989Z"
   },
   {
     "id": "the-stone",
@@ -2321,7 +2321,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.916Z"
+    "last_checked": "2026-10-28T07:20:43.023Z"
   },
   {
     "id": "experimental-intermedia",

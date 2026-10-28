@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "jack-arts",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:36:31.780Z",
-    "completed_at": "2026-10-07T07:36:31.780Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "green-wood",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:37:22.330Z",
-    "completed_at": "2026-10-07T07:37:22.330Z",
-    "events_found": 9,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "drom",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-07T07:37:22.357Z",
-    "completed_at": "2026-10-07T07:37:22.357Z",
-    "events_found": 4,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "flushing-town-hall",
     "scrape_tier_used": 3,
     "started_at": "2026-10-07T07:37:22.382Z",
@@ -4995,6 +4965,36 @@
     "scrape_tier_used": 3,
     "started_at": "2026-10-28T07:19:24.532Z",
     "completed_at": "2026-10-28T07:19:24.532Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bard-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:20:42.993Z",
+    "completed_at": "2026-10-28T07:20:42.993Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bitforms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:20:43.009Z",
+    "completed_at": "2026-10-28T07:20:43.009Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "blank-forms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:20:43.026Z",
+    "completed_at": "2026-10-28T07:20:43.026Z",
     "events_found": 3,
     "events_new": 0,
     "status": "completed"
