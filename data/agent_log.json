@@ -1,45 +1,5 @@
 [
   {
-    "agent_type": "venue-agent",
-    "target_id": "union-docs",
-    "scrape_tier_used": 2,
-    "started_at": "2026-10-11T06:55:29.845Z",
-    "completed_at": "2026-10-11T06:55:29.845Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "public-records",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.390Z",
-    "completed_at": "2026-10-11T07:25:38.390Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "roulette",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.410Z",
-    "completed_at": "2026-10-11T07:25:38.410Z",
-    "events_found": 8,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "asia-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.427Z",
-    "completed_at": "2026-10-11T07:25:38.427Z",
-    "events_found": 7,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
     "agent_type": "aggregator-agent",
     "target_id": "new-museum",
     "scrape_tier_used": 3,
@@ -4997,6 +4957,46 @@
     "completed_at": "2026-10-28T07:25:03.469Z",
     "events_found": 1,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "light-industry",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:25:24.328Z",
+    "completed_at": "2026-10-28T07:25:24.328Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "maysles-documentary-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:25:24.352Z",
+    "completed_at": "2026-10-28T07:25:24.352Z",
+    "events_found": 4,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "millennium-film-workshop",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:25:24.375Z",
+    "completed_at": "2026-10-28T07:25:24.375Z",
+    "events_found": 2,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "mono-no-aware",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:25:24.388Z",
+    "completed_at": "2026-10-28T07:25:24.388Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]

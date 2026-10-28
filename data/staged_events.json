@@ -8523,5 +8523,167 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-28T07:25:03.441Z"
+  },
+  {
+    "id": "light-industry-2026-12-01-a-conversation-with-deedee-halleck-and-m",
+    "title": "A Conversation with DeeDee Halleck and Miss Video 4 u",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-12-01",
+    "description": "A conversation with media activist and video art pioneer DeeDee Halleck, co-founder of Paper Tiger TV and Deep Dish TV, exploring her decades of work in community video and media activism, at Light Industry.",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:24.280Z"
+  },
+  {
+    "id": "light-industry-2026-11-10-f-lix-zurita-s-caminos-del-silencio",
+    "title": "Félix Zurita's Caminos del Silencio",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-11-10",
+    "description": "A screening of Félix Zurita's Caminos del Silencio, introduced by critic Tobi Haslett, as part of Light Industry's ongoing program of rare and avant-garde film presentations.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:24.275Z"
+  },
+  {
+    "id": "light-industry-2026-11-17-mat-as-pi-eiro-s-from-where-do-you-start",
+    "title": "Matías Piñeiro's From where do you start when drawing a flower?",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-11-17",
+    "description": "Light Industry presents a screening of Argentine filmmaker Matías Piñeiro's From where do you start when drawing a flower?, continuing the venue's core program of adventurous contemporary and repertory cinema.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:24.279Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-03-blknews-terms-conditions",
+    "title": "BLKNEWS: TERMS & CONDITIONS",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-03",
+    "description": "A program at Maysles Documentary Center exploring Black news media through the lens of 'terms and conditions,' part of the venue's ongoing presentation of socially engaged documentary and media-art work.",
+    "url": "https://www.maysles.org/calendar/blknews-terms-and-conditions",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:24.334Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-21-the-alabama-solution",
+    "title": "The Alabama Solution",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-21",
+    "description": "A screening of the documentary The Alabama Solution, examining conditions and abuses within the Alabama prison system, part of Maysles' core documentary film programming.",
+    "url": "https://www.maysles.org/calendar/the-alabama-solution",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:24.335Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-11-runa-simi",
+    "title": "Runa Simi",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-11",
+    "description": "A documentary screening titled Runa Simi (the Quechua word for the Quechua language), exploring Indigenous Andean language and culture, presented at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/runa-simi",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary",
+      "andean"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:24.335Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-11-02-electo-electro-vote-n-mix-26",
+    "title": "Electo Electro: Vote n Mix '26",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-11-02",
+    "time_start": "15:00",
+    "time_end": "21:00",
+    "description": "An interactive video installation by Mike Richison, produced by Darryl Montgomery-Hell and Sektor 6, on view at Millennium Film Workshop on Election Day.",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Games & Interactive",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:24.356Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-11-13-queer-disabled-and-hiv-positive-in-gaza-",
+    "title": "Queer, Disabled and HIV-positive in Gaza: One Man's Fight to Survive",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-11-13",
+    "time_start": "20:00",
+    "description": "A benefit screening of Afeef Nessouli's documentary on survival as a queer, disabled, HIV-positive person in Gaza, co-presented by Visual AIDS and the Film-Makers' Cooperative at Millennium Film Workshop; doors at 7:30pm, film at 8:00pm.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:24.357Z"
   }
 ]
