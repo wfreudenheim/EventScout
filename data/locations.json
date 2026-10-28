@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:37:22.643Z"
+    "last_checked": "2026-10-28T07:24:32.101Z"
   },
   {
     "id": "anthology-film-archives",
@@ -1919,7 +1919,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:31:10.657Z"
+    "last_checked": "2026-10-28T07:24:32.185Z"
   },
   {
     "id": "emily-harvey-foundation",
@@ -2934,7 +2934,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:23:13.824Z"
+    "last_checked": "2026-10-28T07:24:32.146Z"
   },
   {
     "id": "onassis-onx",
