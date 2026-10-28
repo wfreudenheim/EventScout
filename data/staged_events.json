@@ -8966,5 +8966,184 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-28T07:29:03.012Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-singing-to-ourselves-animating-3d-charac",
+    "title": "Singing to Ourselves: Animating 3D Characters",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 10-week online class with Hiba Ali teaching techniques for animating expressive 3D characters.",
+    "url": "https://sfpc.study/sessions/winter-27/singing-to-ourselves",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.386Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-everything-good-is-collage",
+    "title": "Everything Good Is Collage",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 10-week online class with Claire Hentschker and Jamie Brew (Botnik) on collage, AI, and generative approaches to image and text.",
+    "url": "https://sfpc.study/sessions/winter-27/everything-good-is-collage",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.387Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-aggressive-listening-lab-taking-apart-th",
+    "title": "Aggressive Listening Lab: Taking Apart the Technologies That Listen to Us",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 5-week online class with sound artist Jeremy Toussaint-Baptiste critically examining the technologies and politics of listening and surveillance.",
+    "url": "https://sfpc.study/sessions/winter-27/aggressive-listening-lab",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.388Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-lab-for-the-post-internet",
+    "title": "Lab for the Post-Internet",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 5-week online class with Lee Nok'si Livingston and Andrés Berman examining post-internet art and net-art practices.",
+    "url": "https://sfpc.study/sessions/winter-27/lab-for-the-post-internet",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [
+      "net-art"
+    ],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.389Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-narrative-constellations",
+    "title": "Narrative Constellations",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 10-week online course with April Soetarman exploring speculative and constellation-based approaches to narrative and worldbuilding.",
+    "url": "https://sfpc.study/sessions/winter-27/narrative-constellations",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "worldbuilding"
+    ],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.384Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-expressive-design-with-videogames",
+    "title": "Expressive Design with Videogames",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 10-week online class with Lawra Clark on using videogames as a medium for personal and expressive design.",
+    "url": "https://sfpc.study/sessions/winter-27/expressive-design-with-videogames",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.385Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-indigenous-cartography-gis",
+    "title": "Indigenous Cartography & GIS",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 10-week online class with Yvonne Mpwo examining Indigenous approaches to mapping and geographic information systems.",
+    "url": "https://sfpc.study/sessions/winter-27/indigenous-cartography-and-gis",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.384Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-the-whore-singularity",
+    "title": "The Whore Singularity",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 10-week online class with Tina Horn examining sex work, embodiment, and technology at the edges of culture.",
+    "url": "https://sfpc.study/sessions/winter-27/whore-singularity",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.385Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-experiments-in-digital-security-practice",
+    "title": "Experiments in Digital Security Practice",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "description": "A 5-week online class with Dri Chiu Tattersfield and Ilona Brand exploring hands-on digital security and privacy practices.",
+    "url": "https://sfpc.study/sessions/winter-27/experiments-in-digital-security-practice",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:46.388Z"
   }
 ]

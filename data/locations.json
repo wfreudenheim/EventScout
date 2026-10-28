@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:31:09.876Z"
+    "last_checked": "2026-10-28T07:29:46.332Z"
   },
   {
     "id": "knockdown-center",
@@ -531,7 +531,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Correct URL is /events/ not /exhibitions. /exhibitions/ also has show listings.",
-    "last_checked": "2026-10-25T07:37:22.671Z"
+    "last_checked": "2026-10-28T07:29:46.351Z"
   },
   {
     "id": "the-kitchen",
@@ -840,7 +840,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-09-15T14:59:55.149Z"
+    "last_checked": "2026-10-28T07:29:46.414Z"
   },
   {
     "id": "simons-foundation",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:23:14.532Z"
+    "last_checked": "2026-10-28T07:29:46.373Z"
   },
   {
     "id": "center-for-architecture",
@@ -3420,7 +3420,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:31:09.164Z"
+    "last_checked": "2026-10-28T07:29:46.434Z"
   },
   {
     "id": "celebrate-brooklyn",

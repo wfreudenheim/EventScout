@@ -1,56 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "museum-of-moving-image",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.582Z",
-    "completed_at": "2026-10-11T07:25:38.582Z",
-    "events_found": 11,
-    "events_new": 11,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "film-at-lincoln-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.600Z",
-    "completed_at": "2026-10-11T07:25:38.600Z",
-    "events_found": 12,
-    "events_new": 9,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "barbes",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.622Z",
-    "completed_at": "2026-10-11T07:25:38.622Z",
-    "events_found": 12,
-    "events_new": 11,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "swiss-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.631Z",
-    "completed_at": "2026-10-11T07:25:38.631Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nitehawk",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.647Z",
-    "completed_at": "2026-10-11T07:25:38.647Z",
-    "events_found": 2,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "printed-matter",
     "scrape_tier_used": 3,
     "started_at": "2026-10-11T07:25:38.663Z",
@@ -4996,6 +4946,56 @@
     "started_at": "2026-10-28T07:29:03.051Z",
     "completed_at": "2026-10-28T07:29:03.051Z",
     "events_found": 10,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:29:46.335Z",
+    "completed_at": "2026-10-28T07:29:46.335Z",
+    "events_found": 8,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "sculpture-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:29:46.354Z",
+    "completed_at": "2026-10-28T07:29:46.354Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "simons-foundation",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:29:46.377Z",
+    "completed_at": "2026-10-28T07:29:46.377Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "sfpc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:29:46.418Z",
+    "completed_at": "2026-10-28T07:29:46.418Z",
+    "events_found": 9,
+    "events_new": 9,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "summerstage",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:29:46.436Z",
+    "completed_at": "2026-10-28T07:29:46.436Z",
+    "events_found": 1,
     "events_new": 0,
     "status": "completed"
   }
