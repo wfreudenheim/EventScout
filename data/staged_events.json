@@ -8685,5 +8685,128 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-28T07:25:24.357Z"
+  },
+  {
+    "id": "movement-research-2026-11-04-feldenkrais-method-awareness-through-mov",
+    "title": "Feldenkrais Method®: Awareness Through Movement®",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-11-04",
+    "description": "A weekly movement class series (Wed, Nov 4–25) led by Marion Helfenstein exploring the Feldenkrais Method, a somatic practice using guided movement to build body awareness and embodied cognition.",
+    "url": "https://movementresearch.org/classes/3074/",
+    "format": "workshop",
+    "interest_score": 2.8,
+    "tags": [
+      "embodied-cognition"
+    ],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:32.838Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-20-makemake-presents-ecstatica-feat-joy-gui",
+    "title": "MakeMake Presents Ecstatica feat. Joy Guidry",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-20",
+    "time_start": "21:30",
+    "description": "Bassoonist, improviser, and composer Joy Guidry closes out MakeMake with a live performance of lush, ambient soundscapes rooted in Black sonic traditions.",
+    "url": "https://www.nationalsawdust.org/event/makemake-presents-ecstatica-feat-joy-guidry",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:32.880Z"
+  },
+  {
+    "id": "national-sawdust-2026-12-16-national-sawdust-presents-silkroad-up-cl",
+    "title": "National Sawdust Presents: Silkroad Up-Close Featuring Yacouba Sissoko & Mike Block Duo and Maeve Gilchrist and Seamus Egan",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-12-16",
+    "description": "An intimate Silkroad Ensemble showcase featuring kora player Yacouba Sissoko with cellist Mike Block, and Celtic harpist Maeve Gilchrist with flutist Seamus Egan, tracing global musical lineages and traditions.",
+    "url": "https://www.nationalsawdust.org/event/national-sawdust-presents-silkroad-up-close-featuring-yacouba-sissoko-mike-block-duo-and-maeve-gilchrist-and-seamus-egan",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "global-music",
+      "kora"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:32.885Z"
+  },
+  {
+    "id": "national-sawdust-2027-01-13-national-sawdust-presents-silkroad-up-cl",
+    "title": "National Sawdust Presents: Silkroad Up-Close Featuring Kaoru Watanabe and Layale Chaker",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2027-01-13",
+    "description": "An intimate Silkroad Ensemble showcase featuring Japanese taiko/shakuhachi artist Kaoru Watanabe and Lebanese violinist-composer Layale Chaker, tracing global musical lineages and traditions.",
+    "url": "https://www.nationalsawdust.org/event/national-sawdust-presents-silkroad-up-close-featuring-kaoru-watanabe-and-layale-chaker",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "global-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:32.886Z"
+  },
+  {
+    "id": "national-sawdust-2027-02-10-national-sawdust-presents-silkroad-up-cl",
+    "title": "National Sawdust Presents: Silkroad Up-Close Featuring Shawn Conley and Kinan Azmeh Trio",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2027-02-10",
+    "description": "An intimate Silkroad Ensemble showcase featuring bassist Shawn Conley and the Kinan Azmeh Trio, led by Syrian clarinetist Kinan Azmeh, tracing global musical lineages and traditions.",
+    "url": "https://www.nationalsawdust.org/event/national-sawdust-presents-silkroad-up-close-featuring-shawn-conley-and-kinan-azmeh-trio",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "global-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:32.888Z"
+  },
+  {
+    "id": "national-sawdust-2027-03-17-national-sawdust-presents-silkroad-up-cl",
+    "title": "National Sawdust Presents: Silkroad Up-Close Featuring Shaw Pong Liu and Sandeep Das",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2027-03-17",
+    "description": "An intimate Silkroad Ensemble showcase featuring violinist Shaw Pong Liu and Grammy-winning tabla virtuoso Sandeep Das, tracing global musical lineages and traditions.",
+    "url": "https://www.nationalsawdust.org/event/national-sawdust-presents-silkroad-up-close-featuring-shaw-pong-liu-and-sandeep-das",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "global-music",
+      "tabla"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:32.889Z"
   }
 ]

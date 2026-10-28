@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:31:09.221Z"
+    "last_checked": "2026-10-28T07:25:32.926Z"
   },
   {
     "id": "issue-project-room",
@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:23:13.102Z"
+    "last_checked": "2026-10-28T07:25:32.945Z"
   },
   {
     "id": "the-new-school",
@@ -3100,7 +3100,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:37:21.868Z"
+    "last_checked": "2026-10-28T07:25:32.863Z"
   },
   {
     "id": "danspace-project",
