@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-10-25T06:50:45.243Z
+FETCHED:2026-10-28T06:43:23.113Z
 
 PRINTED MATTER, INC.
 
@@ -168,14 +168,6 @@ October 25 - December 5, 2026
 
 EventChelsea
 
-Nina Katchadourian’s Seat Assignment: eleven years of making art on airplanes
-
-October 27, 2026
-
-[/programs/events/2271]
-
-EventChelsea
-
 RisoLAB Talks vol. 5
 
 Travess Smalley & Kyle Canyon in Conversation — Moderated by Panayiotis Terzis
@@ -222,6 +214,14 @@ November 10 - 20, 2026
 
 [/programs/events/2333]
 
+EventOffsite
+
+Paris Photo — Book Talks
+
+November 12 - 15, 2026
+
+[/programs/events/2336]
+
 EventChelsea
 
 Eric Copeland on Demon Portraits with Dem Passwords
@@ -243,6 +243,14 @@ Moderated by Bradford Thomason
 November 24, 2026
 
 [/programs/events/2340]
+
+EventChelsea
+
+Nina Katchadourian’s Seat Assignment: eleven years of making art on airplanes
+
+October 27, 2026
+
+[/programs/events/2271]
 
 Announcement
 
@@ -267,16 +275,6 @@ AnarkoArtLab—Book Launch & Conversation
 October 15, 2026
 
 [/programs/events/2332]
-
-EventChelsea
-
-Insider Trading II
-
-Panel with Eli Rosenbloom, Miyako Bellizzi, Yusuf Hassan, and Steff Yotka
-
-October 14, 2026
-
-[/programs/events/2331]
 
 See all events [/programs/2-events]
 

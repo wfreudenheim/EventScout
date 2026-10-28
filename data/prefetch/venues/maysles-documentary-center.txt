@@ -1,6 +1,6 @@
 VENUE:maysles-documentary-center | Maysles Documentary Center
 URL:https://www.maysles.org/
-FETCHED:2026-10-25T06:50:42.092Z
+FETCHED:2026-10-28T06:43:19.401Z
 
 /
 
@@ -31,36 +31,6 @@ UPCOMING EVENTS
 
 Featured
 
-Oct 24
-[/calendar/congo-boy-closing-night]
-October 24, 2026
-
-CONGO BOY + CLOSING NIGHT RECEPTION [/calendar/congo-boy-closing-night]
-October 24, 2026
-
-Read more → [/calendar/congo-boy-closing-night]
-October 24, 2026
-
-Oct 26
-[/calendar/black-zombie]
-October 26, 2026
-
-BLACK ZOMBIE [/calendar/black-zombie]
-October 26, 2026
-
-Read more → [/calendar/black-zombie]
-October 26, 2026
-
-Oct 27
-[/calendar/gethsemane-park]
-October 27, 2026
-
-Ishmael Reed’s Gospel Opera GETHSEMANE PARK [/calendar/gethsemane-park]
-October 27, 2026
-
-Read more → [/calendar/gethsemane-park]
-October 27, 2026
-
 Oct 30
 [/calendar/nonfiction-by-any-means-necessary]
 October 30, 2026
@@ -81,6 +51,26 @@ October 31, 2026
 Read more → [/calendar/true-north]
 October 31, 2026
 
+Nov 3
+[/calendar/blknews-terms-and-conditions]
+November 3, 2026
+
+BLKNEWS: TERMS & CONDITIONS [/calendar/blknews-terms-and-conditions]
+November 3, 2026
+
+Read more → [/calendar/blknews-terms-and-conditions]
+November 3, 2026
+
+Nov 7
+[/calendar/dad-stroll-a-morning-of-cartoons-at-maysles]
+November 7, 2026
+
+DAD STROLL: A Morning of Cartoons at Maysles [/calendar/dad-stroll-a-morning-of-cartoons-at-maysles]
+November 7, 2026
+
+Read more → [/calendar/dad-stroll-a-morning-of-cartoons-at-maysles]
+November 7, 2026
+
 Nov 8
 [/calendar/sunday-assembly-fred-moten-jordan-jones]
 November 8, 2026
@@ -90,6 +80,26 @@ November 8, 2026
 
 Read more → [/calendar/sunday-assembly-fred-moten-jordan-jones]
 November 8, 2026
+
+Nov 11
+[/calendar/runa-simi]
+November 11, 2026
+
+RUNA SIMI [/calendar/runa-simi]
+November 11, 2026
+
+Read more → [/calendar/runa-simi]
+November 11, 2026
+
+Nov 21
+[/calendar/the-alabama-solution]
+November 21, 2026
+
+THE ALABAMA SOLUTION [/calendar/the-alabama-solution]
+November 21, 2026
+
+Read more → [/calendar/the-alabama-solution]
+November 21, 2026
 
 Albert Maysles
 

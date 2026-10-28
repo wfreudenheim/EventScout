@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-10-25T06:50:47.671Z
+FETCHED:2026-10-28T06:43:26.199Z
 
 Index [/]
 
@@ -17,7 +17,7 @@ New York, NY 10013
 
 Index NYC is a shared studio, event space, and community center in downtown NYC. We offer monthly memberships to our workspace and host regular public programs and happenings. Please reach out by email to request access on a case-by-case basis, or join our waitlist for membership.
 
-More Information [/coworking/index-chinatown]Membership Info [/join]
+More Information [/coworking/index-chinatown]Join [/join]
 /coworking/index-greenpoint
 
 INDEX GREENPOINT
@@ -28,7 +28,7 @@ Brooklyn, NY 11222
 
 Across two floors and a roof deck, Index Greenpoint is a coworking and event space with ample room for members and guests to work, host, meet, and gather.
 
-More Information [/coworking/index-greenpoint]Membership Info [/join]
+More Information [/coworking/index-greenpoint]Join [/join]
 /nodes
 
 NODES
@@ -69,16 +69,6 @@ Learn More [/nodes]
 
 FILTER
 All EventsGreenpointChinatown
- * Vibecoding 101 [/programming/vibecoding-101-evt-uDJEA0FMU1Ga7zy?view=list]
-
-   VIBECODING 101
-
-   Tuesday, Oct 27, 2026
-
-   Hosted by Bill Roberts [https://luma.com/user/usr-QVBlnuX4RAoHstw]
-
-   Presented by Index Chinatown
-
  * Is Everything Predictable?: AI, Prediction Markets, and the Philosophy of Foresight [/programming/is-everything-predictable-ai-prediction-markets-and-the-philosop-evt-xnCQQKMg0qG8Snk?view=list]
 
    IS EVERYTHING PREDICTABLE?: AI, PREDICTION MARKETS, AND THE PHILOSOPHY OF FORESIGHT
@@ -116,6 +106,16 @@ All EventsGreenpointChinatown
    Sunday, Nov 8, 2026
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
+
+ * Music Industry 101, Session 3: Music Marketing [/programming/music-industry-101-session-3-music-marketing-evt-FQatl5IBT3iMkJF?view=list]
+
+   MUSIC INDUSTRY 101, SESSION 3: MUSIC MARKETING
+
+   Thursday, Nov 12, 2026
+
+   Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
+
+   Presented by Index Chinatown
 
 Show More [/programming]
 

@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-10-25T06:50:52.282Z
+FETCHED:2026-10-28T06:43:44.228Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,95 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP10.25.2026
+TODAY’SLINEUP10.28.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+BEAUTY IN SOUND WITH H31R
+
+H31R
+
+10.26.2026
+
+Hip Hop, Electronica
+
+ * Play
+ * Detail [/shows/beauty-in-sound/2026-10-26-1600]
+ *
+
+/shows/beauty-in-sound/2026-10-26-1600
+
+AVALON EMERSON
+
+Avalon Emerson
+
+10.26.2026
+
+Electronic, Techno, House
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-26-1300]
+ *
+
+/shows/special-guests/2026-10-26-1300
+
+HERCULES & LOVE AFFAIR
+
+Hercules & Love Affair
+
+10.25.2026
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-25-1200]
+ *
+
+/shows/special-guests/2026-10-25-1200
+
+BBE MUSIC WITH PETE BBE, JEFF HIGGINS AND JOHNNY RECKLESS
+
+Pete BBE, Johnny Reckless
+
+10.24.2026
+
+House, Hip Hop, Rnb, Afrobeat, Jazz
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-24-1700]
+ *
+
+/shows/special-guests/2026-10-24-1700
+
+KEN ISHII
+
+Ken Ishii
+
+10.23.2026
+
+Techno, IDM, Soundtrack, Video Game Music
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-23-1900]
+ *
+
+/shows/special-guests/2026-10-23-1900
+
+SABROUT: 1996 RETROSPECTIVE
+
+Sabrout
+
+10.23.2026
+
+Techno, Acid, House, Electro, Jazz
+
+ * Play
+ * Detail [/shows/dysfluency/2026-10-23-1300]
+ *
+
+/shows/dysfluency/2026-10-23-1300
 
 MARGEAUX
 
@@ -34,132 +116,48 @@ Margeaux
 
 /shows/margeaux/2026-10-20-1400
 
-DANGEROUS: DANIRO
-
-DANIRO
-
-10.18.2026
-
-Experimental Electronic, Techno, Drill, Alternative Club, Experimental
-
- * Play
- * Detail [/shows/special-guests/2026-10-18-2200]
- *
-
-/shows/special-guests/2026-10-18-2200
-
-DR. RUBINSTEIN B2B SUPERGLOSS
-
-Dr. Rubinstein , Supergloss
-
-10.18.2026
-
-Trance, Acid
-
- * Play
- * Detail [/shows/special-guests/2026-10-18-1400]
- *
-
-/shows/special-guests/2026-10-18-1400
-
-KINDERGARTEN: MAIN PHASE B2B MA SHA
-
-Main Phase, Ma Sha
-
-10.17.2026
-
-Dub, Techno, UK Garage, Dubstep
-
- * Play
- * Detail [/shows/kindergarten/2026-10-17-2200]
- *
-
-/shows/kindergarten/2026-10-17-2200
-
-CALL SUPER
-
-Call Super
-
-10.16.2026
-
-House, Electronica, Techno, UK Garage
-
- * Play
- * Detail [/shows/special-guests/2026-10-16-1400]
- *
-
-/shows/special-guests/2026-10-16-1400
-
-SUMMER SCHOOL RADIO WITH LOVIE AND CLUB CARTER RADIO
-
-Club Carter Radio, Lovie
-
-10.13.2026
-
-Jazz
-
- * Play
- * Detail [/shows/summer-school-radio/2026-10-13-1000]
- *
-
-/shows/summer-school-radio/2026-10-13-1000
-
-DERRICK GEE
-
-Derrick Gee
-
-10.12.2026
-
-alternative, Cloud Rap, K-Pop, Soundtrack
-
- * Play
- * Detail [/shows/special-guests/2026-10-12-1300]
- *
-
-/shows/special-guests/2026-10-12-1300
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * adobeprincess
+ * Dj Haram
    R
-   [/artists/adobeprincess]
- * Kristine Barilli
+   [/artists/dj-haram]
+ * JWords
    R
-   [/artists/kristine-barilli]
- * threehz
+   [/artists/jwords]
+ * D. Tiffany
    R
-   [/artists/threehz]
- * James Bangura
+   [/artists/d-tiffany]
+ * x3butterfly
    R
-   [/artists/james-bangura]
- * Archangel
+   [/artists/x3butterfly]
+ * JADALAREIGN
    R
-   [/artists/archangel]
- * Image Man
+   [/artists/jadalareign]
+ * Lovie
    R
-   [/artists/image-man]
- * Tito Deler
+   [/artists/lovie]
+ * Sabrout
    R
-   [/artists/tito-deler]
- * Folarin
+   [/artists/sabrout]
+ * Theodore Jahng
    R
-   [/artists/folarin]
- * Marco Weibel
+   [/artists/theodore-jahng]
+ * Ayanna Heaven
    R
-   [/artists/marco-weibel]
- * Hisham Akira Bharoocha
+   [/artists/ayanna-heaven]
+ * Brandon Stosuy
    R
-   [/artists/hisham-akira-bharoocha]
- * Dull Tools
+   [/artists/brandon-stosuy]
+ * LISAS
    R
-   [/artists/dull-tools]
- * DJ MEO
+   [/artists/lisas]
+ * YOUNGBLOODS
    R
-   [/artists/dj-meo]
+   [/artists/youngbloods]
 
 WE ARE THE LOT RADIO
 
@@ -169,35 +167,37 @@ Expect a continuous stream of the best and most varied music New York City has t
 
 About us [/about]
 
- * 12am — 11am
+ * 12am — 10am
    RESTREAM
 
- * 11am — 12pm
-   Selective Listening with Alyssa Stowers
-   Experimental
- * 12pm — 1pm
-   Hercules & Love Affair
+ * 10am — 12pm
+   SECOND HAND LOVE with FATIK
 
- * 1pm — 2pm
-   Auntie.ism with DJ Auntie Spice
+ * 12pm — 2pm
+   Disco Tehran
 
- * 2pm — 3pm
-   long in the arms with pink must
+ * 2pm — 4pm
+   FIRST HAND SMOKE with DJ SWISHA
 
- * 3pm — 4pm
-   The Extrasensory Connection with JHN ADMS
+ * 4pm — 5pm
+   Nick Carroll
 
- * 4pm — 6pm
-   456 Dub Street invites DJ Short Mike (Hitmatik Sound)
-   Reggae, Dub, Dancehall
- * 6pm — 8pm
-   COOL BREEZE with Zephyr Ann
+ * 5pm — 6pm
+   BUNNY BDAY with Honey Bun and Lovie
 
- * 8pm — 10pm
-   SYNTHICIDE with LLORA and Andi
-   Post Punk, House, Acid, Trance, Synthpop
+ * 6pm — 7pm
+   The 8th Path Records with Boston Chery
+
+ * 7pm — 8pm
+   PAURRO
+
+ * 8pm — 9pm
+   Maude Vôs
+   Breaks, Ambient, Electronica, Dubstep, IDM
+ * 9pm — 10pm
+   Monkey Jar with S.Maria
+
  * 10pm — 12am
-   Sorry Records with 'nohup' and Nick Boyd
-   Techno, Acid, Electro
+   World Galaxy - 432hz - with Takaya Nagase
 
 THE LOT RADIO

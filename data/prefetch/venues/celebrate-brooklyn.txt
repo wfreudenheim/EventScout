@@ -1,6 +1,6 @@
 VENUE:celebrate-brooklyn | BRIC Celebrate Brooklyn!
 URL:https://bricartsmedia.org/celebrate-brooklyn/
-FETCHED:2026-10-25T06:50:43.590Z
+FETCHED:2026-10-28T06:43:20.685Z
 
 Skip Navigation
 
@@ -284,62 +284,6 @@ Classes [https://bricartsmedia.org/classes/]
 MEMBERSHIP
 
 Membership [https://bricartsmedia.org/about/support/membership-2/]
-
- * About [https://bricartsmedia.org/about/]
-    * History [https://bricartsmedia.org/about/history/]
-    * Mission [https://bricartsmedia.org/about/mission/]
-    * Support BRIC [https://bricartsmedia.org/about/support/]
-    * Leadership [https://bricartsmedia.org/about/leadership/]
-    * News [https://bricartsmedia.org/about/news/]
-    * Careers [https://bricartsmedia.org/about/careers/]
-    * studio BK [https://bricartsmedia.org/studio-bk/]
-    * Contact Us [https://bricartsmedia.org/about/contact-us/]
-    * Accessibility [https://bricartsmedia.org/about/accessibility/]
-    * All About BRIC [https://bricartsmedia.org/about/]
-
- * Events [https://bricartsmedia.org/events/]
-    * Calendar [https://bricartsmedia.org/events/calendar/]
-    * Exhibitions [https://bricartsmedia.org/events/exhibitions/]
-    * Classes [https://bricartsmedia.org/classes/]
-    * BRIC Celebrate Brooklyn! [https://bricartsmedia.org/celebrate-brooklyn/]
-    * BRIC House Party [https://bricartsmedia.org/bric-house-party/]
-    * Brooklyn Poetry Slam [https://bricartsmedia.org/brooklyn-poetry-slam/]
-    * Family Days [https://bricartsmedia.org/community-resources/community-initiatives/family-days/]
-    * Space Rentals [https://bricartsmedia.org/about/spacerentals/]
-    * Stoop Share [https://bricartsmedia.org/community-resources/community-initiatives/stoop-share/]
-    * All Events [https://bricartsmedia.org/events/]
-
- * TV, Films & Podcasts [https://bricartsmedia.org/tv-films-podcasts/]
-    * BRIC TV [https://bricartsmedia.org/tv-films-podcasts/bric-tv/]
-    * BRIC Radio [https://bricartsmedia.org/tv-films-podcasts/bric-radio/]
-    * Brooklyn Free Speech TV [https://bricartsmedia.org/tv-films-podcasts/brooklyn-free-speech-tv/]
-    * Community Producers [https://bricartsmedia.org/tv-films-podcasts/brooklyn-free-speech-tv/community-producers/]
-    * All Media [https://bricartsmedia.org/tv-films-podcasts/]
-
- * Classes [https://bricartsmedia.org/classes/]
-    * Audio & Podcasting [https://bricartsmedia.org/classes/audio-podcasting/]
-    * Graphic Design [https://bricartsmedia.org/classes/graphic-design/]
-    * Marketing [https://bricartsmedia.org/classes/marketing/]
-    * Photography [https://bricartsmedia.org/classes/photography/]
-    * Production [https://bricartsmedia.org/classes/production/]
-    * Video Editing [https://bricartsmedia.org/classes/video/]
-    * Writing [https://bricartsmedia.org/classes/writing/]
-    * All Classes [https://bricartsmedia.org/classes/]
-
- * Art & Artists [https://bricartsmedia.org/art-artists/]
-    * Exhibitions [https://bricartsmedia.org/events/exhibitions/]
-    * BRIClab [https://bricartsmedia.org/art-artists/opportunity/briclab/]
-    * Grants, Prizes, & Partnerships [https://bricartsmedia.org/art-artists/opportunity/grants-prizes-partnerships/]
-    * Youth Education [https://bricartsmedia.org/art-artists/opportunity/youth-opportunities/]
-    * Archives [https://bricartsmedia.org/archives/]
-    * All Art & Artists [https://bricartsmedia.org/art-artists/]
-
- * Community Resources [https://bricartsmedia.org/community-resources/]
-    * Community Initiatives [https://bricartsmedia.org/community-resources/community-initiatives/]
-    * For Educators [https://bricartsmedia.org/community-resources/for-educators/]
-    * Brooklyn Free Speech TV [https://bricartsmedia.org/tv-films-podcasts/brooklyn-free-speech-tv/]
-    * Space Rentals [https://bricartsmedia.org/about/spacerentals/]
-    * All Community Resources [https://bricartsmedia.org/community-resources/]
 
 Follow us
  * https://www.youtube.com/c/BRICbrooklyn

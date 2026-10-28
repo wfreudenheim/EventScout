@@ -1,6 +1,6 @@
 VENUE:jack-arts | JACK
 URL:https://www.jackny.org/
-FETCHED:2026-10-25T06:50:47.995Z
+FETCHED:2026-10-28T06:43:26.485Z
 
 0
 [/cart]
@@ -39,4 +39,4 @@ Slide 2 Slide 2 (current slide)
 
 what's on this fall [/fall-2026-season]
 
-support JACK
+support JACK [/supportjack]

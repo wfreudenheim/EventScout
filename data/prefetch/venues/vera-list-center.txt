@@ -1,6 +1,6 @@
 VENUE:vera-list-center | Vera List Center for Art and Politics
 URL:https://veralistcenter.org/events/
-FETCHED:2026-10-25T06:50:42.821Z
+FETCHED:2026-10-28T06:43:19.711Z
 
 Skip to Content
 
@@ -24,8 +24,6 @@ OCT 9–OCT 31, 2026
 
 [/events/black-feminist-study-group]
 
-UPCOMING
-
 LECTURE, PARSONS VISITING ARTIST SERIES
 
 JOYCE JOUMAA: PROVISIONAL RECOVERY
@@ -34,6 +32,8 @@ OCT 28, 2026
 
 [/events/joyce-joumaa-provisional-recovery]
 
+UPCOMING
+
 BOOK LAUNCH, LECTURE
 
 EYAL WEIZMAN: UNGROUNDING
@@ -41,6 +41,14 @@ EYAL WEIZMAN: UNGROUNDING
 OCT 29, 2026
 
 [/events/eyal-weizman-ungrounding]
+
+SEMINAR
+
+SEMINAR 8: COLLECTIVE INTELLIGENCE, COLLECTIVE AGENCY
+
+NOV 17, 2026
+
+[/events/seminar-8-collective-intelligence-collective-agency]
 
 SYMPOSIUM
 

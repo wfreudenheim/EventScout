@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-10-25T06:50:40.164Z
+FETCHED:2026-10-28T06:43:17.339Z
 
 CULTUREHUB [/]
 
@@ -22,14 +22,6 @@ MEET THE ARTISTS [/residency#residency-resident-artists-anchor]
 EVENTS [/events]
 
 Events
-
-Oct 27
-[/events/a-room-of-our-own]
-a [room] of our own [/events/a-room-of-our-own]
-
-A workshop with Viola He using the Terminal and the command line to navigate and create on a shared computer. Register → [/events/a-rom-of-our-own]
-
-Read more → [/events/a-room-of-our-own]
 
 Nov 12
 [/events/tethering-an-arcade-with-deep-soul-ties]

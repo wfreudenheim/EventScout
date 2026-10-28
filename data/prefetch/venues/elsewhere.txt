@@ -1,6 +1,6 @@
 VENUE:elsewhere | Elsewhere
 URL:https://www.elsewhere.club/events
-FETCHED:2026-10-25T06:50:50.271Z
+FETCHED:2026-10-28T06:43:29.595Z
 
 CALENDAR
 
@@ -43,24 +43,6 @@ Genre
  * World
  * Metal
  * Other
-
-Sat, Oct 24
-
-10 YEARS OF CRUCAST: (A-Z) BLOSSOM, [IVY], SKEPSIS + OOMFRAVE [/events/1996989624725]
- * CLUB
- * FULL VENUE
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/10-years-of-crucast-a-z-blossom-ivy-skepsis-oomfrave-tickets-1996989624725]
-
-Sun, Oct 25
-
-FURY (CELEBRATING 10 YEARS OF PARAMOUNT), COMBUST, VANITY, SQUARE ONE [/events/2000655982901]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/fury-celebrating-10-years-of-paramount-combust-vanity-square-one-tickets-2000655982901]
 
 Wed, Oct 28
 
@@ -109,6 +91,15 @@ Buy Tickets [https://www.eventbrite.com/e/out-abt-halloween-edition-tickets-1996
 
 Fri, Oct 30
 
+DEV LEMONS, VENUS & THE FLYTRAPS [/events/1993710192856]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/dev-lemons-venus-the-flytraps-tickets-1993710192856]
+
+Fri, Oct 30
+
 GUERILLA TOSS, BEN KATZMAN'S DEGREASER [/events/2001020403894]
  * LIVE
  * ZONE ONE
@@ -118,12 +109,12 @@ Buy Tickets [https://www.eventbrite.com/e/guerilla-toss-ben-katzmans-degreaser-t
 
 Fri, Oct 30
 
-DEV LEMONS, VENUS & THE FLYTRAPS [/events/1993710192856]
- * LIVE
- * THE HALL
+ELSEWHERE X H0L0: MACHINE GIRL 5 YR NYC HALLOWEEN ANNIVERSARY AFTERPARTY [/events/2003971839718]
+ * CLUB
+ * H0L0
 
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/dev-lemons-venus-the-flytraps-tickets-1993710192856]
+10:00 PM
+Buy Tickets [https://www.eventbrite.com/e/elsewhere-x-h0l0-machine-girl-5-yr-nyc-halloween-anniversary-afterparty-tickets-2003971839718]
 
 Fri, Oct 30
 
@@ -198,21 +189,21 @@ Buy Tickets [https://www.eventbrite.com/e/earth-to-emily-von-tickets-20030055354
 
 Fri, Nov 6
 
-LIME GARDEN, NINE PERFECT LIVES [/events/1985145677159]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1985145677159]
-
-Fri, Nov 6
-
 EMANCIPATOR, SHRIMPNOSE, LAPA [/events/1995465318484]
  * LIVE
  * THE HALL
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/emancipator-shrimpnose-lapa-tickets-1995465318484]
+
+Fri, Nov 6
+
+LIME GARDEN, NINE PERFECT LIVES [/events/1985145677159]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1985145677159]
 
 Fri, Nov 6
 
@@ -225,21 +216,21 @@ Buy Tickets [https://www.eventbrite.com/e/aerea-alex-farell-tickets-198984474820
 
 Sat, Nov 7
 
-LIME GARDEN, NINE PERFECT LIVES [/events/1991242169933]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1991242169933]
-
-Sat, Nov 7
-
 AMI TAF RA + KAMASI WASHINGTON [/events/2000207327962]
  * LIVE
  * THE HALL
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/ami-taf-ra-kamasi-washington-tickets-2000207327962]
+
+Sat, Nov 7
+
+LIME GARDEN, NINE PERFECT LIVES [/events/1991242169933]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1991242169933]
 
 Sat, Nov 7
 
@@ -261,21 +252,21 @@ Buy Tickets [https://www.eventbrite.com/e/flava-d-made-to-order-dendis-dad-ejwiz
 
 Sun, Nov 8
 
-ATUNE: BACK TO BLACK [/events/2003606756745]
- * LIVE
- * CHATROOM
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/atune-back-to-black-tickets-2003606756745]
-
-Sun, Nov 8
-
 KYLE HUME, SAMMY RASH [/events/1985726645852]
  * LIVE
  * ZONE ONE
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/kyle-hume-sammy-rash-tickets-1985726645852]
+
+Sun, Nov 8
+
+ATUNE: BACK TO BLACK [/events/2003606756745]
+ * LIVE
+ * CHATROOM
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/atune-back-to-black-tickets-2003606756745]
 
 Sun, Nov 8
 
@@ -367,3 +358,12 @@ MOTHER SOKI [/events/2002749580909]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/mother-soki-tickets-2002749580909]
+
+Sat, Nov 14
+
+FREAK SLUG, MILA DEGRAY, LUCKY [/events/1992976963748]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/freak-slug-mila-degray-lucky-tickets-1992976963748]

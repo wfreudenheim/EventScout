@@ -1,20 +1,10 @@
 VENUE:architectural-league | Architectural League of New York
 URL:https://archleague.org/events/
-FETCHED:2026-10-25T06:50:44.821Z
+FETCHED:2026-10-28T06:43:22.659Z
 
 /
 
 UPCOMING EVENTS
-
-https://archleague.org/event/ask-me-anything-with-gauri-bahuguna/
-
-OCTOBER 27, 2026
-
-ASK ME ANYTHING WITH GAURI BAHUGUNA
-
-[https://archleague.org/event/ask-me-anything-with-gauri-bahuguna/]
-
-The deputy director of research at SITU Research will join students and discuss computational methodology, the role of design in human rights advocacy, and navigating high-stakes public investigations.
 
 https://archleague.org/event/after-hours-nycsca/
 
@@ -77,6 +67,16 @@ In this virtual studio visit, Tatiana Bilbao ESTUDIO will guide League members t
 After Hours
 
 PAST EVENTS
+
+https://archleague.org/event/ask-me-anything-with-gauri-bahuguna/
+
+OCTOBER 27, 2026
+
+ASK ME ANYTHING WITH GAURI BAHUGUNA
+
+[https://archleague.org/event/ask-me-anything-with-gauri-bahuguna/]
+
+The deputy director of research at SITU Research will join students and discuss computational methodology, the role of design in human rights advocacy, and navigating high-stakes public investigations.
 
 https://archleague.org/event/beaux-arts-ball-2026-home-sweet-home/
 
@@ -183,13 +183,3 @@ CURRENT WORK: TOWARD CIRCULAR CONSTRUCTION, WITH FELIX HEISEL
 The founder of Cornell’s Circular Construction Lab discusses the built environment as a material depot for reuse and reconfiguration. A circularity-themed trade fair featuring New York–based organizations and vendors preceded the lecture.
 
 Current Work
-
-https://archleague.org/event/deportation-inc-investigating-the-business-of-migrant-detention/
-
-MAY 7, 2026
-
-DEPORTATION INC.: INVESTIGATING THE BUSINESS OF MIGRANT DETENTION
-
-[https://archleague.org/event/deportation-inc-investigating-the-business-of-migrant-detention/]
-
-This screening and conversation traced the evolution of U.S. immigration enforcement into a multi-billion-dollar industry, as shaped by private profit and political power.

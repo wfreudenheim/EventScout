@@ -1,6 +1,6 @@
 VENUE:whitney | Whitney Museum of American Art
 URL:https://whitney.org/events
-FETCHED:2026-10-25T06:50:48.911Z
+FETCHED:2026-10-28T06:43:27.971Z
 
 Skip to main content
 /
@@ -59,18 +59,18 @@ SERVICES
 
 Close filters
 En español Online Members
-/events/closer-look-fall2026
+/events/exhibition-tour-lichtenstein
 
 TODAY’S EVENTS
 
  * 12 pm
 
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
 
-   Floor 7
+   Floor 5, Neil Bluhm Family Galleries
 
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
 
  * 1 pm
 
@@ -99,120 +99,29 @@ TODAY’S EVENTS
    [/events/exhibition-tour-lichtenstein]
    Tours [/events?tags%5B%5D=free_tours]
 
- * 5 pm
+ * 4 pm
 
-   WAYFINDING: SEÑAS DEL CAMINO
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
 
-   Floor 3, Theater
+   Floor 7
 
-   [/events/wayfinding]
-   En español [/events?tags%5B%5D=en_espanol]
+   [/events/closer-look-fall2026]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ * 7 pm
+
+   POP PARTY
+
+   Throughout the Whitney
+
+   [/events/member-night-pop-party]
+   Members [/events?tags%5B%5D=member_events] Member Nights [/events?tags%5B%5D=member_nights]
 
 View more
 
 ----------------------------------------
 
 ALL UPCOMING EVENTS
-
- * OCT 25
-
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
-
-   Sunday, October 25, 2026
-   12 pm
-
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Sunday, October 25, 2026
-   1 pm
-
-   [/events/untitled-america-exh-tour-2026]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Sunday, October 25, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Sunday, October 25, 2026
-   3 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   WAYFINDING: SEÑAS DEL CAMINO
-
-   Sunday, October 25, 2026
-   5 pm
-
-   [/events/wayfinding]
-   En español [/events?tags%5B%5D=en_espanol]
-
- * OCT 26
-
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
-
-   Monday, October 26, 2026
-   11 am
-
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, October 26, 2026
-   12 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Monday, October 26, 2026
-   1 pm
-
-   [/events/untitled-america-exh-tour-2026]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Monday, October 26, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, October 26, 2026
-   3 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
 
  * OCT 28
 
@@ -277,7 +186,107 @@ ALL UPCOMING EVENTS
 
    Members [/events?tags%5B%5D=member_events] Member Nights [/events?tags%5B%5D=member_nights]
 
-793 events
+ * OCT 29
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Thursday, October 29, 2026
+   12 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Thursday, October 29, 2026
+   1 pm
+
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Thursday, October 29, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Thursday, October 29, 2026
+   3 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   WALTER ANNENBERG LECTURE: ALEX DA CORTE 
+
+   Thursday, October 29, 2026
+   6:30 pm
+
+   [/events/annenberg-26-alex-da-corte]
+   Talks & readings [/events?tags%5B%5D=talks_and_readings]
+
+ * OCT 30
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, October 30, 2026
+   12 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Friday, October 30, 2026
+   1 pm
+
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Friday, October 30, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, October 30, 2026
+   3 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   HALLOWEEN TEEN NIGHT
+
+   Friday, October 30, 2026
+   4–7 pm
+
+   [/events/halloween-teen-night-2026]
+   Teens [/events?tags%5B%5D=teen_events]
+
+788 events
 
 ON THE HOUR
 

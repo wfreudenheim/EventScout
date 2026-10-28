@@ -1,6 +1,6 @@
 VENUE:issue-project-room | Issue Project Room
 URL:https://issueprojectroom.org/events
-FETCHED:2026-10-25T06:50:41.057Z
+FETCHED:2026-10-28T06:43:18.338Z
 
 /
 https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue-project-room/ https://www.instagram.com/issueprojectroom https://soundcloud.com/issueprojectroom
@@ -22,16 +22,6 @@ https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue
 
 UPCOMING EVENTS
 
-/event/liturgy /event/liturgy
-
-LITURGY [/event/liturgy]
-
-Saturday, October 24, 2026 - 8:00 pm
-22 Boerum Place, Brooklyn 11201
-
-For this anniversary season, Haela Hunt-Hendrix presents a limited capacity solo program for looped electric guitar, voice, electronics, and piano. Drawing from the Liturgy oeuvre, the evening also features new compositions presented at ISSUE for the first time.
-
-More [/event/liturgy] Tickets [https://issueprojectroom.ticketspice.com/liturgy]
 /event/noveller-axine-m /event/noveller-axine-m
 
 NOVELLER / AXINE M [/event/noveller-axine-m]
@@ -106,6 +96,16 @@ PAST EVENTS
  * 2004 [/events/archive/2004]
  * 2003 [/events/archive/2003]
 
+/event/liturgy /event/liturgy
+
+LITURGY [/event/liturgy]
+
+Sat 24 Oct, 2026, 8pm
+22 Boerum Place, Brooklyn 11201
+
+For this anniversary season, Haela Hunt-Hendrix presents a limited capacity solo program for looped electric guitar, voice, electronics, and piano. Drawing from the Liturgy oeuvre, the evening also features new compositions presented at ISSUE for the first time.
+
+More [/event/liturgy]
 /event/conversation-kim-brandt-isabella-thorpe-woods /event/conversation-kim-brandt-isabella-thorpe-woods
 
 ISSUE Online
@@ -182,17 +182,4 @@ Fri 10 Jul, 2026, 8pm
 "Spiriting Off" is a new solo work by luthier Webb Crawford (2026 AIR) for electric guitar, tenor banjo, and five-string banjo.
 
 More [/event/webb-crawford-spiriting]
-/event/sold-out-jade-manns-ella-dawn-w-s /event/sold-out-jade-manns-ella-dawn-w-s
-
-Suzanne Fiol Curatorial Fellowship 2026
-
-SOLD OUT! JADE MANNS / ELLA DAWN W-S [/event/sold-out-jade-manns-ella-dawn-w-s]
-
-Wed 01 Jul, 2026, 6pm
-Wed 01 Jul, 2026, 8pm
-22 Boerum Place, Brooklyn 11201
-
-Isabella Thorpe-Woods presents "Envelop/e," her second program as ISSUE’s 2026 Suzanne Fiol Curatorial Fellow. Bringing together choreographers Jade Manns and Ella Dawn W-S for site-specific duets, they navigate presence and absence, repetition and rupture, and the tension between inherited geometries and shifting landscapes.
-
-More [/event/sold-out-jade-manns-ella-dawn-w-s]
  * Load More [?page=1]

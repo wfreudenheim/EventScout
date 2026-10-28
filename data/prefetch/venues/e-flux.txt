@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-10-25T06:50:40.960Z
+FETCHED:2026-10-28T06:43:18.793Z
 
 Subscribe
 
@@ -37,13 +37,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/
-
-Current & Upcoming
-How To (Not) Be Heard: Steve Goodman & Bogna Konior [/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/]
-October 27, 2026, 7pm
-e-flux
-RSVP [https://www.eventbrite.com/e/how-not-to-be-heard-steve-goodman-bogna-konior-tickets-2003580488175]
 /events/6783399/la-merde-the-mole-nbsp/
 
 Current & Upcoming
@@ -51,6 +44,13 @@ La Merde! The Mole!   [/events/6783399/la-merde-the-mole-nbsp/]
 November 5, 2026, 7pm
 e-flux Screening Room
 Get tickets [https://www.eventbrite.com/e/la-merde-the-mole-tickets-2003685100072]
+/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/
+
+Current & Upcoming
+With an Acre — An Afternoon with the CCA [/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/]
+November 7, 2026, 3pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/with-an-acre-an-afternoon-with-the-cca-tickets-2003930941390]
 /events/6783397/here-already/
 
 Current & Upcoming
@@ -87,15 +87,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-In-person, Talks
-/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/
-
-How To (Not) Be Heard: Steve Goodman & Bogna Konior
-
-[/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/]
-October 27, 2026, 7pm
-e-flux
-RSVP [https://www.eventbrite.com/e/how-not-to-be-heard-steve-goodman-bogna-konior-tickets-2003580488175]
 In-person, Screenings, Talks
 /events/6783399/la-merde-the-mole-nbsp/
 
@@ -107,6 +98,15 @@ La Merde! The Mole!
 November 5, 2026, 7pm
 e-flux Screening Room
 Get tickets [https://www.eventbrite.com/e/la-merde-the-mole-tickets-2003685100072]
+In-person, Screenings, Talks
+/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/
+
+With an Acre — An Afternoon with the CCA
+
+[/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/]
+November 7, 2026, 3pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/with-an-acre-an-afternoon-with-the-cca-tickets-2003930941390]
 In-person, Screenings
 /events/6783397/here-already/
 
@@ -126,6 +126,14 @@ November 18, 2026, 7pm
 Bar Laika by e-flux
 Archive
 
+In-person, Talks
+/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/
+
+How To (Not) Be Heard: Steve Goodman & Bogna Konior
+
+[/events/6783398/how-to-not-be-heard-steve-goodman-amp-bogna-konior/]
+October 27, 2026, 7pm
+e-flux
 In-person, Launches
 /events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/
 
@@ -150,14 +158,6 @@ Incomputable Earth: Technology and the Anthropocene Hypothesis
 [/events/6783394/incomputable-earth-technology-and-the-anthropocene-hypothesis/]
 October 20, 2026, 7pm
 e-flux
-In-person, Screenings
-/events/6783396/sometimes-it-was-beautiful/
-
-Sometimes It Was Beautiful
-
-[/events/6783396/sometimes-it-was-beautiful/]
-October 15, 2026, 6pm
-Logan Center for The Arts, Screening Room 201
 Load more
 Advertisement
-/ads/redirect/6747218
+/ads/redirect/6747217

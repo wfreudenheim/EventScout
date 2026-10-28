@@ -1,6 +1,6 @@
 VENUE:blank-forms | Blank Forms
 URL:https://www.blankforms.org/
-FETCHED:2026-10-25T06:50:39.887Z
+FETCHED:2026-10-28T06:43:17.143Z
 
 Skip to main content
 Menu
@@ -48,21 +48,6 @@ UPCOMING
 
 Event [/events]
 
-/events/martin-rev-lary-7
-Oct 23, 2026
-9:00pm (doors), 9:30pm (performance)
-Sold Out
-
-MARTIN REV + LARY 7
-
-[/events/martin-rev-lary-7]
-
-BOURSE DE COMMERCE - PINAULT COLLECTION,
-PARIS
-
-[https://www.pinaultcollection.com/en/boursedecommerce]
-Event [/events]
-
 /events/kou-records-at-blank-forms-fall-2026-season
 
 October 16–December 5, 2026
@@ -108,6 +93,7 @@ Event [/events]
 /events/keiji-haino-solo-duo-with-loren-connors
 Nov 10, 2026
 6:30pm (doors), 7:30pm (performance)
+Sold Out
 
 KEIJI HAINO SOLO & DUO WITH LOREN CONNORS
 
@@ -119,13 +105,13 @@ NEW YORK
 [https://www.blankforms.org]
 Event [/events]
 
-/events/keiji-haino-special-guest
+/events/keiji-haino
 Nov 12, 2026
 6:30pm (doors), 7:30pm (performance)
 
-KEIJI HAINO & SPECIAL GUEST
+KEIJI HAINO
 
-[/events/keiji-haino-special-guest]
+[/events/keiji-haino]
 
 BLANK FORMS,
 NEW YORK
@@ -170,15 +156,15 @@ SONNY SIMMONS: BETTER DO IT NOW BEFORE YOU DIE LATER
 
 [/publications/sonny-simmons-better-do-it-now-before-you-die-later]
 Record [/blank-forms-editions]
-/publications/the-shadow-ring-wax-work-echoes
-THE SHADOW RING: WAX-WORK ECHOES
-
-[/publications/the-shadow-ring-wax-work-echoes]
-Record [/blank-forms-editions]
 /publications/the-shadow-ring-hold-onto-id
 THE SHADOW RING: HOLD ONTO I.D.
 
 [/publications/the-shadow-ring-hold-onto-id]
+Record [/blank-forms-editions]
+/publications/the-shadow-ring-wax-work-echoes
+THE SHADOW RING: WAX-WORK ECHOES
+
+[/publications/the-shadow-ring-wax-work-echoes]
 Book [/blank-forms-editions]
 /publications/blank-forms-10-alien-roots-eliane-radigue
 BLANK FORMS 10: ALIEN ROOTS: ÉLIANE RADIGUE

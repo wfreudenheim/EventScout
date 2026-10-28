@@ -1,6 +1,6 @@
 VENUE:anthology-film-archives | Anthology Film Archives
 URL:https://www.anthologyfilmarchives.org/film_screenings/calendar
-FETCHED:2026-10-25T06:50:40.902Z
+FETCHED:2026-10-28T06:43:18.636Z
 
 ANTHOLOGY FILM ARCHIVES
 
@@ -31,7 +31,7 @@ ANTHOLOGY FILM ARCHIVES
  * Mailing List [/contact/mailing-list]
  * Directions [/contact/directions]
 
-FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-25]
+FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-28]
 
 October 2026
 QUARTERLY PDF [/AFA_456_2013Cal_complete.pdf?v=1] | RSS [/rss] Filter by Program Essential Cinema Premieres/Revivals Retrospectives Series Special Screenings AFA Preservations New Filmmakers
@@ -238,23 +238,23 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
 
 27
  * 6:45 PM
-   TROMEO AND JULIET [/film_screenings/calendar?view=list&month=10&year=2026#showing-62051]
+   TROMEO AND JULIET (Lloyd Kaufman in person on Sun, Nov 1!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62051]
  * 9:15 PM
    BUGGED! [/film_screenings/calendar?view=list&month=10&year=2026#showing-62054]
 
 28
  * 6:30 PM
-   CITIZEN TOXIE: THE TOXIC AVENGER IV [/film_screenings/calendar?view=list&month=10&year=2026#showing-62056]
+   CITIZEN TOXIE: THE TOXIC AVENGER IV (Lloyd Kaufman in person on Wed, Oct 28!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62056]
  * 7:00 PM
-   EL GUARDIÁN [/film_screenings/calendar?view=list&month=10&year=2026#showing-61979]
+   EL GUARDIÁN (filmmaker in person!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-61979]
  * 9:15 PM
-   #SHAKESPEARE’S SHITSTORM [/film_screenings/calendar?view=list&month=10&year=2026#showing-62059]
+   #SHAKESPEARE’S SHITSTORM (Lloyd Kaufman in person on Wed, Oct 28!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62059]
 
 29
  * 7:00 PM
    EC: THE FALL OF THE HOUSE OF USHER [/film_screenings/calendar?view=list&month=10&year=2026#showing-61920]
  * 7:30 PM
-   TERROR FIRMER (Lloyd Kaufman in person on Thurs, Oct 29!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62061]
+   TERROR FIRMER (Lloyd Kaufman in person for both screenings!) [/film_screenings/calendar?view=list&month=10&year=2026#showing-62061]
 
 30
  * 6:30 PM

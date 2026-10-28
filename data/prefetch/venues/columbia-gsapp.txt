@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-10-25T06:50:48.697Z
+FETCHED:2026-10-28T06:43:27.766Z
 
 /
  * The School
@@ -850,8 +850,8 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=17&month=10&time_range=week&year=2026 /events?day=2&month=11&time_range=week&year=2026
-Oct 25 – Nov 1
+/events?day=20&month=10&time_range=week&year=2026 /events?day=5&month=11&time_range=week&year=2026
+Oct 28 – Nov 4
 Week
 [/events?time_range=week]
 Month
@@ -859,88 +859,7 @@ Month
 Semester
 [/events?time_range=semester]
 
-Today at 10am
-
-GSAPP Admissions at Philadelphia Architecture and Design Fair
-
-[/events/4360-gsapp-admissions-at-philadelphia-architecture-and-design-fair]
-Mon, Oct 26
-
-Open House for Prospective Students
-
-[/events/4301-open-house-for-prospective-students]
-
-Mon, Oct 26    6:30pm
-
-Open House Lecture: Emanuel Admassu & Olalekan Jeyifous
-
-Lecture
-
-[/events/4226-open-house-lecture-emanuel-admassu-olalekan-jeyifous]
-
-Tue, Oct 27    9am
-
-Virtual
-
-Fall 2026 Online Open House: MS Historic Preservation
-
-[/events/4345-fall-2026-online-open-house-ms-historic-preservation]
-
-Tue, Oct 27    10am
-
-Virtual
-
-Fall 2026 Online Open House: MS Architecture and Urban Design
-
-[/events/4346-fall-2026-online-open-house-ms-architecture-and-urban-design]
-
-Tue, Oct 27    12pm
-
-Tuesday Talks
-
-Alumni
-
-New York, Virtual
-
-[/events/4277-tuesday-talks]
-
-Tue, Oct 27    1pm
-
-THE LIBRARY IS OPEN 32: Shelter Cookbook
-
-Library is Open
-
-[/events/4273-the-library-is-open-32-shelter-cookbook]
-
-Tue, Oct 27    1:30pm
-
-The Lecture in Planning Series (LiPS) Panel
-
-Lecture
-
-New York
-
-[/events/4364-the-lecture-in-planning-series-li-ps-panel]
-
-Tue, Oct 27    5pm
-
-Alumni Connections in Miami
-
-Alumni
-
-Miami
-
-[/events/4289-alumni-connections-in-miami]
-
-Tue, Oct 27    7pm
-
-Virtual
-
-Fall 2026 Online Open House: MS Critical, Curatorial, and Conceptual Practices
-
-[/events/4347-fall-2026-online-open-house-ms-critical-curatorial-and-conceptual-practices]
-
-Wed, Oct 28    9am
+Today at 9am
 
 Virtual
 
@@ -948,7 +867,7 @@ Fall 2026 Online Open House: MS Advanced Architectural Design
 
 [/events/4348-fall-2026-online-open-house-ms-advanced-architectural-design]
 
-Wed, Oct 28    9am
+Today at 9am
 
 Virtual
 
@@ -956,7 +875,7 @@ Fall 2026 Online Open House: MS Computational Design Practices
 
 [/events/4349-fall-2026-online-open-house-ms-computational-design-practices]
 
-Wed, Oct 28    10am
+Today at 10am
 
 Virtual
 
@@ -964,13 +883,13 @@ Fall 2026 Online Open House: MS Urban Planning
 
 [/events/4350-fall-2026-online-open-house-ms-urban-planning]
 
-Wed, Oct 28    11am
+Today at 11am
 
 GSAPP Admissions at University of Illinois Chicago Grad Fair
 
 [/events/4357-gsapp-admissions-at-university-of-illinois-chicago-grad-fair]
 
-Wed, Oct 28    7:30pm
+Today at 7:30pm
 
 Alumni Connections in Indianapolis
 
@@ -993,3 +912,17 @@ Virtual
 Fall 2026 Online Open House: Master of Architecture
 
 [/events/4352-fall-2026-online-open-house-master-of-architecture]
+
+Wed, Nov 4    11am
+
+GSAPP Admissions at University of Southern California Grad Fair
+
+[/events/4359-gsapp-admissions-at-university-of-southern-california-grad-fair]
+
+Wed, Nov 4    6:30pm
+
+Celebrating 10 years of e-flux Architecture
+
+Conference
+
+[/events/4282-celebrating-10-years-of-e-flux-architecture]

@@ -1,6 +1,6 @@
 VENUE:national-sawdust | National Sawdust
 URL:https://www.nationalsawdust.org/performances
-FETCHED:2026-10-25T06:50:43.991Z
+FETCHED:2026-10-28T06:43:21.269Z
 
 /
 
@@ -177,6 +177,45 @@ This is some text inside of a div block.
 This is some text inside of a div block.
 [/event/visionintoart-in-residence-sensorium-world]
 Buy Tickets [https://ci.ovationtix.com/36490/production/1280641]
+
+Disabled-queer-led non-profit Cuéntame curates the debut edition of Ecstatica, a new late-night DJ series at National Sawdust. Expect immersive sound, radical inclusion, and a dancefloor designed for every body. Featuring selectors from Cuéntame's DJ Cohort including starlybri, DJ L, pinkting and CVNTEMPT. This is nightlife reimagined. Late night. Loud love. No barriers.
+
+NOVEMBER 19, 2026
+
+-
+
+MAKEMAKE PRESENTS ECSTATICA FEAT. CUÉNTAME
+
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/makemake-presents-ecstatica-feat-cuentame]
+Buy Tickets [https://ci.ovationtix.com/36490/production/1293939]
+
+Moore's new podcast, Active Listening, is a filmed program blending music and conversation, and is designed to be an intimate listening experience about history and discovery. Much like his written work, this new show invites artists across disciplines — musicians, writers, actors and other visionaries — to share the sounds that shape them, as Moore dives deep into their creative practices, inspirations and personal journeys. Here, Moore and Guidry will play Julius Eastman’s radical music and discuss its profound impact on Guidry’s life, artistry, and career.
+
+NOVEMBER 20, 2026
+
+-
+
+MAKEMAKE PRESENTS MARCUS J. MOORE'S ACTIVE LISTENING WITH JOY GUIDRY
+
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/makemake-presents-active-listening-with-marcus-j-moore-and-joy-guidry]
+Buy Tickets [https://ci.ovationtix.com/36490/production/1294421]
+
+Bassoonist, versatile improviser, performance artist and composer Joy Guidry closes out makemake with a special live performance. A stalwart in the experimental and avant-garde scene, Guidry is known for her lush, ambient sound and deep connection to Black sonic traditions. We invite you to immerse yourself in an introspective soundscape and reflect on how to carry the work of centering care, curiosity, and connection into the future.
+
+NOVEMBER 20, 2026
+
+-
+
+MAKEMAKE PRESENTS ECSTATICA FEAT. JOY GUIDRY
+
+This is some text inside of a div block.
+This is some text inside of a div block.
+[/event/makemake-presents-ecstatica-feat-joy-guidry]
+Buy Tickets [https://ci.ovationtix.com/36490/production/1294421]
 
 In Appalachia, farmers still practice the ancestral tradition of companion planting. Corn grows tall as a trellis, beans climb the corn, and squash provides the ground cover. Rising Appalachia cultivates a similar symbiosis in their music, where Southern folk traditions, New Orleans swamp culture, and Atlanta’s street spirit strengthen each other. Known for their seamless harmonies, songcatching and storytelling, the band has released ten albums and toured throughout North America, South America, Europe, the Celtic Isles, Australia and beyond — performing everywhere from the Telluride Bluegrass Festival and Red Rocks to NPR’s Tiny Desk. All the while, the band has cultivated a devoted grassroots following traveling to communities big and small by train, horseback, bio-diesel bus and sailboat.
 
@@ -529,50 +568,34 @@ What happens when technology stops speaking for us and begins listening to us? S
 
 [/event/visionintoart-in-residence-sensorium-world]
 
+NOVEMBER 19, 2026 10:00 PM
+
+MAKEMAKE PRESENTS ECSTATICA FEAT. CUÉNTAME
+
+Disabled-queer-led non-profit Cuéntame curates the debut edition of Ecstatica, a new late-night DJ series at National Sawdust. Expect immersive sound, radical inclusion, and a dancefloor designed for every body. Featuring selectors from Cuéntame's DJ Cohort including starlybri, DJ L, pinkting and CVNTEMPT. This is nightlife reimagined. Late night. Loud love. No barriers.
+
+[/event/makemake-presents-ecstatica-feat-cuentame]
+
+NOVEMBER 20, 2026 8:00 PM
+
+MAKEMAKE PRESENTS MARCUS J. MOORE'S ACTIVE LISTENING WITH JOY GUIDRY
+
+Moore's new podcast, Active Listening, is a filmed program blending music and conversation, and is designed to be an intimate listening experience about history and discovery. Much like his written work, this new show invites artists across disciplines — musicians, writers, actors and other visionaries — to share the sounds that shape them, as Moore dives deep into their creative practices, inspirations and personal journeys. Here, Moore and Guidry will play Julius Eastman’s radical music and discuss its profound impact on Guidry’s life, artistry, and career.
+
+[/event/makemake-presents-active-listening-with-marcus-j-moore-and-joy-guidry]
+
+NOVEMBER 20, 2026 9:30 PM
+
+MAKEMAKE PRESENTS ECSTATICA FEAT. JOY GUIDRY
+
+Bassoonist, versatile improviser, performance artist and composer Joy Guidry closes out makemake with a special live performance. A stalwart in the experimental and avant-garde scene, Guidry is known for her lush, ambient sound and deep connection to Black sonic traditions. We invite you to immerse yourself in an introspective soundscape and reflect on how to carry the work of centering care, curiosity, and connection into the future.
+
+[/event/makemake-presents-ecstatica-feat-joy-guidry]
+
 NOVEMBER 21, 2026 7:30 PM
 
 LPR PRESENTS: RISING APPALACHIA WITH SUPPORT FROM VIV & RILEY
 
-In Appalachia, farmers still practice the ancestral tradition of companion planting. Corn grows tall as a trellis, beans climb the corn, and squash provides the ground cover. Rising Appalachia cultivates a similar symbiosis in their music, where Southern folk traditions, New Orleans swamp culture, and Atlanta’s street spirit strengthen each other. Known for their seamless harmonies, songcatching and storytelling, the band has released ten albums and toured throughout North America, South America, Europe, the Celtic Isles, Australia and beyond — performing everywhere from the Telluride Bluegrass Festival and Red Rocks to NPR’s Tiny Desk. All the while, the band has cultivated a devoted grassroots following traveling to communities big and small by train, horseback, bio-diesel bus and sailboat.
-
-[/event/lpr-presents-rising-appalachia-with-support-from-viv-riley]
-
-NOVEMBER 22, 2026 7:30 PM
-
-LPR PRESENTS: RISING APPALACHIA
-
-In Appalachia, farmers still practice the ancestral tradition of companion planting. Corn grows tall as a trellis, beans climb the corn, and squash provides the ground cover. Rising Appalachia cultivates a similar symbiosis in their music, where Southern folk traditions, New Orleans swamp culture, and Atlanta’s street spirit strengthen each other. Known for their seamless harmonies, songcatching and storytelling, the band has released ten albums and toured throughout North America, South America, Europe, the Celtic Isles, Australia and beyond — performing everywhere from the Telluride Bluegrass Festival and Red Rocks to NPR’s Tiny Desk. All the while, the band has cultivated a devoted grassroots following traveling to communities big and small by train, horseback, bio-diesel bus and sailboat.
-
-[/event/lpr-presents-rising-appalachia]
-
-DECEMBER 1, 2026 7:30 PM
-
-HANNAH ISHIZAKI, CHIORI MIYAGAWA, AND MARK CAMPBELL: A THOUSAND GENERATIONS
-
-Composer Hannah Ishizaki is writing a one-act chamber opera in 11 scenes in collaboration with librettists Mark Campbell and Chiori Miyagawa for three vocalists, chamber ensemble, and electronics, based on the Japanese folk story, “Tsuru no Ongaeshi.” The story is split between a retelling of Tsuru no Ongaeshi (The Crane’s Gratitude) in 15th-century Japan and contemporary U.S. and Japan.
-
-[/event/hannah-ishizaki-chiori-miyagawa-and-mark-campbell-a-thousand-generations]
-
-DECEMBER 5, 2026 8:00 PM
-
-HANDEL + HENDRIX WITH DITHER, R.B. SCHLATHER, AND RUCKUS
-
-Two radical innovators. Three centuries apart. One evening. Handel and Hendrix lived in adjacent homes in London's Mayfair district — separated by 250 years, divided by a single wall, now joined as the Handel Hendrix House museum. In honor of the museum's 25th anniversary, National Sawdust and Handel Hendrix House America present an evening that brings these two radical innovators into direct confrontation. Electric guitar quartet Dither open the evening with newly commissioned works that channel Hendrix's experimental language. Director R.B. Schlather and early music ensemble Ruckus then bring Handel's Deidamia — his final opera — to chamber scale in National Sawdust's intimate acoustic space.
-
-[/event/handel-hendrix-with-dither-r-b-schlather-and-ruckus-12-5-26]
-
-DECEMBER 6, 2026 7:30 PM
-
-LPR PRESENTS: S. CAREY
-
-S. Carey is the moniker of Eau Claire, Wisconsin-based multi-instrumentalist, songwriter, and producer Sean Carey, commonly recognized as the drummer, backing vocalist, and second longest serving member of Bon Iver. Over the past decade and a half, Carey has fostered his flourishing solo career via themes of nature and sustainability, songwriting built from jazz beginnings, and heartfelt, emotive lyricism. His latest release, Watercress, adds to a discography of four full-length releases, two EPs, and countless collaborations, including Unbound with Bizhiki and Shadowlands with John Raymond.
-
-[/event/lpr-presents-s-carey]
-
-DECEMBER 10, 2026 7:30 PM
-
-HILDEGARD COMMISSION CONCERT 2026
-
-The Hildegard Commission Concert returns with groundbreaking premieres from our four winners, today’s most exciting rising composers—che buford, Līva Blūma, Fjóla Evans, and Maria-Eduarda Mendes Martin—along with works from our four brilliant finalists. The namesake of our commission, 12th-century mystic Hilde
+In Appalachia, farmers still practice the ancestral tradition of companion planting. Corn grows tall as a trellis, beans climb the corn, and squash provides the ground cover. Rising Appalachia cultivates a similar symbiosis in
 
 [truncated]

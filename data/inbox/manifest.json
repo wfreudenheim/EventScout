@@ -7382,5 +7382,269 @@
     "date": "2026-10-24T15:31:37.000Z",
     "file": "data/inbox/923-still-a-brother-inside-the-negro-middle-class.html",
     "processed": true
+  },
+  {
+    "uid": 924,
+    "from": "\"Flushing Town Hall\" <boxoffice@flushingtownhall.ccsend.com>",
+    "subject": "Diwali, The People's Theatre, Queens Jazz Orchestra & More!",
+    "date": "2026-10-25T14:30:27.000Z",
+    "file": "data/inbox/924-diwali-the-people-s-theatre-queens-jazz-orchestra-.html",
+    "processed": false
+  },
+  {
+    "uid": 925,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "After Dreaming",
+    "date": "2026-10-25T15:19:42.000Z",
+    "file": "data/inbox/925-after-dreaming.html",
+    "processed": false
+  },
+  {
+    "uid": 926,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Gabriela Löffel: The Grammar of Interstices at Kunsthalle Appenzell",
+    "date": "2026-10-26T06:09:45.000Z",
+    "file": "data/inbox/926-gabriela-l-ffel-the-grammar-of-interstices-at-kuns.html",
+    "processed": false
+  },
+  {
+    "uid": 927,
+    "from": "\"Vera List Center\" <vlc@newschool.edu>",
+    "subject": "This week! Joyce Joumaa artist lecture 10/28, Eyal Weizman book launch 10/29 + Black Feminist Study Group IV 10/31",
+    "date": "2026-10-26T13:03:21.000Z",
+    "file": "data/inbox/927-this-week-joyce-joumaa-artist-lecture-10-28-eyal-w.html",
+    "processed": false
+  },
+  {
+    "uid": 928,
+    "from": "\"e-flux Events\" <events@mailer.e-flux.com>",
+    "subject": "This week at e-flux: Bogna Konior and Steve Goodman",
+    "date": "2026-10-26T13:07:18.000Z",
+    "file": "data/inbox/928-this-week-at-e-flux-bogna-konior-and-steve-goodman.html",
+    "processed": false
+  },
+  {
+    "uid": 929,
+    "from": "\"The New York Public Library\" <friends@email.nypl.org>",
+    "subject": "Our Book Fund Match is extended!",
+    "date": "2026-10-26T13:25:52.000Z",
+    "file": "data/inbox/929-our-book-fund-match-is-extended.html",
+    "processed": false
+  },
+  {
+    "uid": 930,
+    "from": "\"Lincoln Center\" <Info@lincolncenter.org>",
+    "subject": "This week at Lincoln Center Presents",
+    "date": "2026-10-26T16:04:56.000Z",
+    "file": "data/inbox/930-this-week-at-lincoln-center-presents.html",
+    "processed": false
+  },
+  {
+    "uid": 931,
+    "from": "\"SOF/Heyman\" <sofheyman@news.mail.columbia.edu>",
+    "subject": "Monstrous bitch, science & storytelling, and Edward Said",
+    "date": "2026-10-26T16:49:46.000Z",
+    "file": "data/inbox/931-monstrous-bitch-science-storytelling-and-edward-sa.html",
+    "processed": false
+  },
+  {
+    "uid": 932,
+    "from": "\"NYU Game Center\" <gamecenter@nyu.edu>",
+    "subject": "Announcing - AP Thomson and Kenny Sun Lecture Series!",
+    "date": "2026-10-26T17:02:44.000Z",
+    "file": "data/inbox/932-announcing-ap-thomson-and-kenny-sun-lecture-series.html",
+    "processed": false
+  },
+  {
+    "uid": 933,
+    "from": "\"Nitehawk Cinema\" <newsletter@nitehawkcinema.com>",
+    "subject": "This week: The final week of Spooky Season 🎃",
+    "date": "2026-10-26T17:02:49.000Z",
+    "file": "data/inbox/933-this-week-the-final-week-of-spooky-season.html",
+    "processed": false
+  },
+  {
+    "uid": 934,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Paprika",
+    "date": "2026-10-26T17:03:37.000Z",
+    "file": "data/inbox/934-paprika.html",
+    "processed": false
+  },
+  {
+    "uid": 935,
+    "from": "\"The New York Academy of Sciences\" <nyas@nyas.org>",
+    "subject": "Academy eNews: October 2026",
+    "date": "2026-10-26T18:02:59.000Z",
+    "file": "data/inbox/935-academy-enews-october-2026.html",
+    "processed": false
+  },
+  {
+    "uid": 936,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "Queen at Sea",
+    "date": "2026-10-26T18:26:54.000Z",
+    "file": "data/inbox/936-queen-at-sea.html",
+    "processed": false
+  },
+  {
+    "uid": 937,
+    "from": "\"Data & Society Research Institute\" <events@datasociety.net>",
+    "subject": "How AI Civics Can Build Public Power Over Tech",
+    "date": "2026-10-26T19:01:24.000Z",
+    "file": "data/inbox/937-how-ai-civics-can-build-public-power-over-tech.html",
+    "processed": false
+  },
+  {
+    "uid": 938,
+    "from": "\"Asia Society NY\" <reply@e.asiasociety.org>",
+    "subject": "Halloween screening 🦇, Diwali 🪔, Maya Lin 🏛️, Aga Khan Master Musicians 🪈, and more upcoming events",
+    "date": "2026-10-26T21:01:27.000Z",
+    "file": "data/inbox/938-halloween-screening-diwali-maya-lin-aga-khan-maste.html",
+    "processed": false
+  },
+  {
+    "uid": 939,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Giorgio de Chirico: The Contemporary Enigma at Mazzoleni",
+    "date": "2026-10-26T23:42:46.000Z",
+    "file": "data/inbox/939-giorgio-de-chirico-the-contemporary-enigma-at-mazz.html",
+    "processed": false
+  },
+  {
+    "uid": 940,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "🔊 Listen in: Upcoming artist conversations",
+    "date": "2026-10-27T12:02:21.000Z",
+    "file": "data/inbox/940-listen-in-upcoming-artist-conversations.html",
+    "processed": false
+  },
+  {
+    "uid": 941,
+    "from": "\"Casey Lardner, Genspace\" <genspace@ghost.io>",
+    "subject": "The class where nobody made a book",
+    "date": "2026-10-27T12:30:05.000Z",
+    "file": "data/inbox/941-the-class-where-nobody-made-a-book.html",
+    "processed": false
+  },
+  {
+    "uid": 942,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "Is MoMA Haunted?",
+    "date": "2026-10-27T13:25:10.000Z",
+    "file": "data/inbox/942-is-moma-haunted.html",
+    "processed": false
+  },
+  {
+    "uid": 943,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Natasha Marie Llorens on “The Defeated: The Aesthetics of Resistance 2026” at Bonniers Konsthall, Stockholm",
+    "date": "2026-10-27T14:12:35.000Z",
+    "file": "data/inbox/943-review-natasha-marie-llorens-on-the-defeated-the-a.html",
+    "processed": false
+  },
+  {
+    "uid": 944,
+    "from": "\"Verso Books\" <verso@versobooks.com>",
+    "subject": "📚 Now available: Rashid Khalidi and Tariq Ali's latest in our Palestine Pamphlet series 📚",
+    "date": "2026-10-27T14:30:12.000Z",
+    "file": "data/inbox/944-now-available-rashid-khalidi-and-tariq-ali-s-lates.html",
+    "processed": false
+  },
+  {
+    "uid": 945,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "Can America Overcome Its Divisions? Annette Gordon-Reed & David Reynolds Discuss \"Two Ships\"",
+    "date": "2026-10-27T14:46:10.000Z",
+    "file": "data/inbox/945-can-america-overcome-its-divisions-annette-gordon-.html",
+    "processed": false
+  },
+  {
+    "uid": 946,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "The wait is over!",
+    "date": "2026-10-27T15:01:00.000Z",
+    "file": "data/inbox/946-the-wait-is-over.html",
+    "processed": false
+  },
+  {
+    "uid": 947,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "Out now: Fear Eats Ali by Edwin Nasr, co-published with Wirklichkeit Books",
+    "date": "2026-10-27T15:02:00.000Z",
+    "file": "data/inbox/947-out-now-fear-eats-ali-by-edwin-nasr-co-published-w.html",
+    "processed": false
+  },
+  {
+    "uid": 948,
+    "from": "\"Asia Society Museum\" <reply@e.asiasociety.org>",
+    "subject": "Carved in Stone, Carried Across Deserts: The Art of the Silk Road",
+    "date": "2026-10-27T15:31:09.000Z",
+    "file": "data/inbox/948-carved-in-stone-carried-across-deserts-the-art-of-.html",
+    "processed": false
+  },
+  {
+    "uid": 949,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Taking of Pelham One Two Three",
+    "date": "2026-10-27T16:37:43.000Z",
+    "file": "data/inbox/949-the-taking-of-pelham-one-two-three.html",
+    "processed": false
+  },
+  {
+    "uid": 950,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "Next Thursday: On ventriloquism with Sarah Kessler & Sophie Becker",
+    "date": "2026-10-27T19:01:24.000Z",
+    "file": "data/inbox/950-next-thursday-on-ventriloquism-with-sarah-kessler-.html",
+    "processed": false
+  },
+  {
+    "uid": 951,
+    "from": "\"Rhizome News\" <info@rhizome.org>",
+    "subject": "Apply for a Rhizome Microgrant!",
+    "date": "2026-10-27T19:23:52.000Z",
+    "file": "data/inbox/951-apply-for-a-rhizome-microgrant.html",
+    "processed": false
+  },
+  {
+    "uid": 952,
+    "from": "\"The Kitchen\" <info@thekitchen.org>",
+    "subject": "Jonathan González on What It Takes to Get There",
+    "date": "2026-10-27T19:31:33.000Z",
+    "file": "data/inbox/952-jonathan-gonz-lez-on-what-it-takes-to-get-there.html",
+    "processed": false
+  },
+  {
+    "uid": 953,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "Education Services at Printed Matter",
+    "date": "2026-10-27T20:02:26.000Z",
+    "file": "data/inbox/953-education-services-at-printed-matter.html",
+    "processed": false
+  },
+  {
+    "uid": 954,
+    "from": "\"Jalopy Theatre and School of Music\" <mail@jalopytheatre.org>",
+    "subject": "⏰👀💥 The Brooklyn Folk Fest is Next Week",
+    "date": "2026-10-27T20:21:35.000Z",
+    "file": "data/inbox/954-the-brooklyn-folk-fest-is-next-week.html",
+    "processed": false
+  },
+  {
+    "uid": 955,
+    "from": "\"Verso Books\" <verso@versobooks.com>",
+    "subject": "🗓️ NYC – We've got Verso authors in town! 🗓️",
+    "date": "2026-10-27T20:40:28.000Z",
+    "file": "data/inbox/955-nyc-we-ve-got-verso-authors-in-town.html",
+    "processed": false
+  },
+  {
+    "uid": 956,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "Announcing: 2027 Suzanne Fiol Curatorial Fellow",
+    "date": "2026-10-27T23:02:03.000Z",
+    "file": "data/inbox/956-announcing-2027-suzanne-fiol-curatorial-fellow.html",
+    "processed": false
   }
 ]

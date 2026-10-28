@@ -1,6 +1,6 @@
 VENUE:aaww | Asian American Writers' Workshop
 URL:https://aaww.org/
-FETCHED:2026-10-25T06:50:40.427Z
+FETCHED:2026-10-28T06:43:17.617Z
 
 ASIAN
 AMERICAN WRITERS'
@@ -125,6 +125,13 @@ Poetry [/category/poetry-2/]Fiction [/category/fiction-2/]Essays [/category/essa
 MUST READ
 
 Poetry
+[https://aaww.org/rain-studies/]
+By Chen Poyu [https://aaww.org/postauthor/chen-poyu/]
+研究雨 | Rain Studies [https://aaww.org/rain-studies/]
+
+你只能等待雨 | You can only wait for the rain
+
+Poetry
 [https://aaww.org/four-poems-by-jess-x-snow/]
 By Jess X. Snow [https://aaww.org/postauthor/jess-x-snow/]
 Four Poems by Jess X. Snow [https://aaww.org/four-poems-by-jess-x-snow/]
@@ -137,13 +144,6 @@ By Jun Chou [https://aaww.org/postauthor/jun-chou/]
 Off-Flight Entertainment [https://aaww.org/off-flight-entertainment/]
 
 A good stewardess always has eyes on the emergency exits.
-
-Poetry
-[https://aaww.org/rain-studies/]
-By Chen Poyu [https://aaww.org/postauthor/chen-poyu/]
-研究雨 | Rain Studies [https://aaww.org/rain-studies/]
-
-你只能等待雨 | You can only wait for the rain
 
 /project/poetry-tuesday
 Poetry
@@ -182,28 +182,27 @@ Tastes of Beiping [https://aaww.org/tlp-tastes-of-beiping/]
 
 Selections from Essays from a Cottager’s Sketchbook 雅舍小品
 
-Poetry
-[https://aaww.org/osipon-omegang-babayi-omega-woman/]
-By Francisco V. Peñones, Jr. [https://aaww.org/postauthor/francisco-v-penones-jr/]
-A Omegang Babayi | The Omega Woman [https://aaww.org/osipon-omegang-babayi-omega-woman/]
+Fiction
+[https://aaww.org/osipon-bangkera-the-boatwoman/]
+By Emmanuel Barrameda [https://aaww.org/postauthor/emmanuel-barrameda/]
+Bangkera | The Boatwoman [https://aaww.org/osipon-bangkera-the-boatwoman/]
 
-Lumuwas ika o magraan dagos |
-Get out of the ring, or you’ll die in pain
+Hanggang sa maging desperado, sasayaw at mag-aalay ng itlog kay Sta. Clara sa Obando, magdadasal sa iba pang Santa at Birhen, maglalakad nang paluhod sa simbahan ng Quiapo at Baclaran. | Desperation sets in, and they dance and offer eggs to Santa Clara in Obando, walk on their knees inside the Quiapo and Baclaran shrines.
 
 /project/open-city
-Reportage
-[https://aaww.org/the-syrians-next-door/]
-By Saliha Bayrak [https://aaww.org/postauthor/saliha-bayrak/]
- The Syrians Next Door [https://aaww.org/the-syrians-next-door/]
-
-Syrians in New York weigh the decision to stay in the U.S. or return home.
-
 Reportage
 [https://aaww.org/farming-in-the-heartland/]
 By Shannon Daniels [https://aaww.org/postauthor/shannon-daniels/]
 Farming in the Heartland [https://aaww.org/farming-in-the-heartland/]
 
 How Asian American farmers in Michigan are finding success with alternative food systems
+
+Reportage
+[https://aaww.org/the-syrians-next-door/]
+By Saliha Bayrak [https://aaww.org/postauthor/saliha-bayrak/]
+ The Syrians Next Door [https://aaww.org/the-syrians-next-door/]
+
+Syrians in New York weigh the decision to stay in the U.S. or return home.
 
 /project/cages
 Poetry
