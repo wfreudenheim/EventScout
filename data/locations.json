@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-10-25T07:37:22.697Z"
+    "last_checked": "2026-10-28T07:28:54.961Z"
   },
   {
     "id": "do-not-research",
@@ -2768,7 +2768,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:31:11.413Z"
+    "last_checked": "2026-10-28T07:28:54.868Z"
   },
   {
     "id": "white-columns",
@@ -3193,7 +3193,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:37:23.370Z"
+    "last_checked": "2026-10-28T07:28:54.924Z"
   },
   {
     "id": "morbid-anatomy",

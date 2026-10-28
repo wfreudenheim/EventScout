@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "center-for-architecture",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.489Z",
-    "completed_at": "2026-10-11T07:25:38.489Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "amant",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.506Z",
-    "completed_at": "2026-10-11T07:25:38.506Z",
-    "events_found": 4,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "brooklyn-raga-massive",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.521Z",
-    "completed_at": "2026-10-11T07:25:38.521Z",
-    "events_found": 2,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "la-mama",
     "scrape_tier_used": 3,
     "started_at": "2026-10-11T07:25:38.539Z",
@@ -4995,6 +4965,36 @@
     "scrape_tier_used": 3,
     "started_at": "2026-10-28T07:25:32.951Z",
     "completed_at": "2026-10-28T07:25:32.951Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "swiss-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:28:54.873Z",
+    "completed_at": "2026-10-28T07:28:54.873Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-brick",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:28:54.930Z",
+    "completed_at": "2026-10-28T07:28:54.930Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-drawing-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:28:54.966Z",
+    "completed_at": "2026-10-28T07:28:54.966Z",
     "events_found": 1,
     "events_new": 0,
     "status": "completed"

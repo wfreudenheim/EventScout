@@ -8808,5 +8808,44 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-28T07:25:32.889Z"
+  },
+  {
+    "id": "swiss-institute-2026-12-12-book-launch-nolan-oswald-dennis-ecliptic",
+    "title": "Book Launch | Nolan Oswald Dennis: Ecliptics",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-12-12",
+    "time_start": "14:00",
+    "time_end": "16:00",
+    "description": "Book launch at Swiss Institute for Nolan Oswald Dennis's publication Ecliptics, accompanying the artist's ongoing practice and exhibition program.",
+    "url": "https://swissinstitute.net/programs/book-launch-nolan-oswald-dennis-ecliptics",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:28:54.836Z"
+  },
+  {
+    "id": "the-brick-2026-11-15-i-can-steal-your-mother",
+    "title": "I Can Steal Your Mother",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-11-15",
+    "description": "Illustrated comedy hour from artist and comedian Max Wittert, composed of over 1,200 original drawings forming an autobiographical surreal storytime. Running October 30–November 15, 2026 at The Brick Theater; running time 65 minutes.",
+    "url": "https://www.bricktheater.com/event/i-can-steal-your-mother/2026-10-30/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:28:54.879Z"
   }
 ]
