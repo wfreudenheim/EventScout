@@ -8503,5 +8503,25 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-28T07:24:32.111Z"
+  },
+  {
+    "id": "japan-society-2026-11-03-foreign-exchange-cross-cultural-conversa",
+    "title": "Foreign Exchange: Cross-Cultural Conversations",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-03",
+    "description": "A free panel bringing animation creator LeSean Thomas and Studio Mir executive producer Kwang Il Han to NYC to discuss breaking into Korean animation and the cross-border production of the series Bass X Machina ahead of its Netflix debut. Held at Pratt Institute, School of Visual Arts, and the Korean Cultural Center New York, promoted via Japan Society (runs Nov 3-5).",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3.8,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:25:03.441Z"
   }
 ]

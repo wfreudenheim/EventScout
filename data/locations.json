@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:23:13.873Z"
+    "last_checked": "2026-10-28T07:25:03.410Z"
   },
   {
     "id": "roulette",
@@ -1823,7 +1823,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:23:14.562Z"
+    "last_checked": "2026-10-28T07:25:03.382Z"
   },
   {
     "id": "montez-press-radio",
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.603Z"
+    "last_checked": "2026-10-28T07:25:03.466Z"
   },
   {
     "id": "asia-society",
@@ -2624,7 +2624,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:31:11.386Z"
+    "last_checked": "2026-10-28T07:25:03.361Z"
   },
   {
     "id": "data-society",
@@ -3170,7 +3170,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:37:21.886Z"
+    "last_checked": "2026-10-28T07:25:03.430Z"
   },
   {
     "id": "the-brick",
