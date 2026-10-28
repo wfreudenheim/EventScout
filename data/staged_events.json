@@ -8319,5 +8319,23 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-28T07:13:55.344Z"
+  },
+  {
+    "id": "abrons-arts-center-2027-01-13-under-the-radar-symara-sarai-angelic-arc",
+    "title": "Under the Radar: Symara Sarai: Angelic Architectures",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2027-01-13",
+    "description": "Part of the Under the Radar festival, Symara Sarai presents Angelic Architectures, a new performance work at Abrons Arts Center, running January 13-23, 2027.",
+    "url": "https://abronsartscenter.org/programs/UTR-angelic-architectures",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:18:41.614Z"
   }
 ]
