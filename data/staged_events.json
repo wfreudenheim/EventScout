@@ -9145,5 +9145,142 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-28T07:29:46.388Z"
+  },
+  {
+    "id": "poetry-project-2026-11-09-christeene-geo-wyex",
+    "title": "Christeene + Geo Wyex",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-09",
+    "time_start": "20:00",
+    "description": "A reading pairing performance artist Christeene with Geo Wyex at The Poetry Project.",
+    "url": "https://www.poetryproject.org/events/christeene-geo-wyex",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:33:51.166Z"
+  },
+  {
+    "id": "poetry-project-2026-10-28-weakness-and-strength-five-session-writi",
+    "title": "Weakness and Strength: Five-Session Writing Workshop with Benjamin Krusling",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-10-28",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A five-session writing workshop led by Benjamin Krusling, running Oct 28 - Nov 25, 2026, at The Poetry Project.",
+    "url": "https://www.poetryproject.org/events/weakness-and-strength-five-session-workshop-with-benjamin-krusling",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:33:51.165Z"
+  },
+  {
+    "id": "poetry-project-2026-10-28-matt-longabucco-susana-plotts-pineda",
+    "title": "Matt Longabucco + Susana Plotts-Pineda",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-10-28",
+    "time_start": "20:00",
+    "description": "A poetry reading featuring Matt Longabucco and Susana Plotts-Pineda at The Poetry Project.",
+    "url": "https://www.poetryproject.org/events/matt-longabucco-susana-plotts-pineda",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:33:51.165Z"
+  },
+  {
+    "id": "poetry-project-2026-11-03-friendly-criticism-five-session-writing-",
+    "title": "Friendly Criticism: Five-Session Writing Workshop with Rainer Diana Hamilton",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-03",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A five-session writing workshop led by Rainer Diana Hamilton, running Nov 3 - Dec 1, 2026, at The Poetry Project.",
+    "url": "https://www.poetryproject.org/events/friendly-criticism-5-session-writing-workshop-with-rainer-diana-hamilton",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:33:51.165Z"
+  },
+  {
+    "id": "printed-matter-2026-11-24-tellus-audio-cassette-magazine-anthology",
+    "title": "Tellus Audio Cassette Magazine Anthology Vol. 1: Listening Session and Conversation",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-24",
+    "description": "A listening session and conversation on the Tellus Audio Cassette Magazine anthology with Joseph Nechvatal, Carol Parkinson, and Claudia Gould, moderated by Bradford Thomason, at Printed Matter.",
+    "url": "https://www.printedmatter.org/programs/events/2340",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:33:51.200Z"
+  },
+  {
+    "id": "printed-matter-2026-11-19-eric-copeland-on-demon-portraits-with-de",
+    "title": "Eric Copeland on Demon Portraits with Dem Passwords",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-19",
+    "description": "A launch event for Eric Copeland's Demon Portraits with Dem Passwords at Printed Matter.",
+    "url": "https://www.printedmatter.org/programs/events/2338",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:33:51.200Z"
+  },
+  {
+    "id": "public-records-2026-10-29-international-anthem-presents-jeremiah-c",
+    "title": "International Anthem presents Jeremiah Chiu – 'Edge Conditions' Album Release",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-10-29",
+    "time_start": "19:00",
+    "description": "Album release show for Jeremiah Chiu's 'Edge Conditions,' presented by experimental jazz/ambient label International Anthem, at Public Records.",
+    "url": "https://link.dice.fm/Kb1f10e60ca5",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:33:51.258Z"
   }
 ]
