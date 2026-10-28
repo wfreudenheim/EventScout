@@ -8847,5 +8847,124 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-28T07:28:54.879Z"
+  },
+  {
+    "id": "wonderville-2026-11-04-nyc-indie-games-november-social",
+    "title": "NYC Indie Games November Social",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-04",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A monthly meetup and social for NYC's independent game development community hosted at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/nyc-indie-games-november-social-11-4-26",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [
+      "indie-games",
+      "game-development"
+    ],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:03.011Z"
+  },
+  {
+    "id": "wonderville-2026-11-02-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-02",
+    "time_start": "20:00",
+    "description": "A live broadcast-style video performance event staged at Wonderville as part of the recurring FORT90 TV series.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-2-26",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:03.011Z"
+  },
+  {
+    "id": "wonderville-2026-11-03-rhythm-dance-games-night",
+    "title": "Rhythm & Dance Games Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-03",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A community arcade night at Wonderville centered on rhythm and dance arcade games.",
+    "url": "https://www.wonderville.nyc/events/rhythm-dance-games-night-11-3-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:03.011Z"
+  },
+  {
+    "id": "wonderville-2026-11-04-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-04",
+    "time_start": "20:00",
+    "description": "An open-play community night on Wonderville's Killer Queen cabinets, the independently made multiplayer arcade game.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-11-4-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:03.011Z"
+  },
+  {
+    "id": "wonderville-2026-11-05-red-parry-nyc-vs-wonderville",
+    "title": "Red Parry NYC vs. Wonderville",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-05",
+    "time_start": "19:00",
+    "description": "A competitive arcade/fighting-game crew event pitting Red Parry NYC against Wonderville regulars.",
+    "url": "https://www.wonderville.nyc/events/red-parry-11-5-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:03.012Z"
+  },
+  {
+    "id": "wonderville-2026-11-06--street-fighter-and-tekken-vs-waffle-hou",
+    "title": "「STREET FIGHTER AND TEKKEN VS WAFFLE HOUSE & HOOTERS FIGHTING GAME AND CHAIN RESTAURANT RAVE」",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-06",
+    "time_start": "21:00",
+    "description": "A themed fighting-game night and rave at Wonderville built around Street Fighter and Tekken play.",
+    "url": "https://www.wonderville.nyc/events/street-fighter-and-tekken-vs-waffle-house-hooters-fighting-game-and-chain-restaurant-rave-11-6-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-10-28T07:29:03.012Z"
   }
 ]

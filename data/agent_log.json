@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "la-mama",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.539Z",
-    "completed_at": "2026-10-11T07:25:38.539Z",
-    "events_found": 6,
-    "events_new": 6,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "union-docs",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.548Z",
-    "completed_at": "2026-10-11T07:25:38.548Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "anthology-film-archives",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.565Z",
-    "completed_at": "2026-10-11T07:25:38.565Z",
-    "events_found": 8,
-    "events_new": 8,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "museum-of-moving-image",
     "scrape_tier_used": 3,
     "started_at": "2026-10-11T07:25:38.582Z",
@@ -4996,6 +4966,36 @@
     "started_at": "2026-10-28T07:28:54.966Z",
     "completed_at": "2026-10-28T07:28:54.966Z",
     "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "white-columns",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:29:02.995Z",
+    "completed_at": "2026-10-28T07:29:02.995Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:29:03.037Z",
+    "completed_at": "2026-10-28T07:29:03.037Z",
+    "events_found": 7,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "world-music-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-10-28T07:29:03.051Z",
+    "completed_at": "2026-10-28T07:29:03.051Z",
+    "events_found": 10,
     "events_new": 0,
     "status": "completed"
   }
