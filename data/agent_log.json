@@ -1,86 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "movement-research",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:21.190Z",
-    "completed_at": "2026-10-11T07:42:21.190Z",
-    "events_found": 0,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "danspace-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:21.201Z",
-    "completed_at": "2026-10-11T07:42:21.201Z",
-    "events_found": 4,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "green-wood",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:27.153Z",
-    "completed_at": "2026-10-11T07:42:27.153Z",
-    "events_found": 0,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "drom",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:27.183Z",
-    "completed_at": "2026-10-11T07:42:27.183Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "terraza-7",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:27.201Z",
-    "completed_at": "2026-10-11T07:42:27.201Z",
-    "events_found": 6,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "film-forum",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:27.222Z",
-    "completed_at": "2026-10-11T07:42:27.222Z",
-    "events_found": 11,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "whitney",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:27.241Z",
-    "completed_at": "2026-10-11T07:42:27.241Z",
-    "events_found": 8,
-    "events_new": 8,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "flushing-town-hall",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:27.258Z",
-    "completed_at": "2026-10-11T07:42:27.258Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "the-drawing-center",
     "scrape_tier_used": 3,
     "started_at": "2026-10-11T07:42:34.892Z",
@@ -4996,6 +4916,86 @@
     "started_at": "2026-11-01T07:20:59.182Z",
     "completed_at": "2026-11-01T07:20:59.182Z",
     "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bisr",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:23:35.115Z",
+    "completed_at": "2026-11-01T07:23:35.115Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "helix-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:23:35.137Z",
+    "completed_at": "2026-11-01T07:23:35.138Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "data-society",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:23:35.149Z",
+    "completed_at": "2026-11-01T07:23:35.149Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "n-plus-one",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:23:35.160Z",
+    "completed_at": "2026-11-01T07:23:35.160Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "creative-time",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:23:35.176Z",
+    "completed_at": "2026-11-01T07:23:35.176Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "mono-no-aware",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:23:39.545Z",
+    "completed_at": "2026-11-01T07:23:39.545Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "maysles-documentary-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:23:39.583Z",
+    "completed_at": "2026-11-01T07:23:39.583Z",
+    "events_found": 7,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "millennium-film-workshop",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:23:39.599Z",
+    "completed_at": "2026-11-01T07:23:39.599Z",
+    "events_found": 2,
     "events_new": 0,
     "status": "completed"
   }

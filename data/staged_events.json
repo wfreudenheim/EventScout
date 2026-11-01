@@ -8692,5 +8692,89 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-01T07:20:59.153Z"
+  },
+  {
+    "id": "bisr-2026-11-20-occasional-evenings-kozintsev-s-king-lea",
+    "title": "Occasional Evenings: Kozintsev's King Lear — a Screening and Discussion",
+    "venue_id": "bisr",
+    "venue_name": "Brooklyn Institute for Social Research",
+    "date": "2026-11-20",
+    "time_start": "19:00",
+    "description": "A screening of Grigori Kozintsev's film adaptation of King Lear followed by a discussion, presented by the Brooklyn Institute for Social Research as part of its Occasional Evenings series.",
+    "url": "https://thebrooklyninstitute.com/items/events/occasional-evenings-kozintsevs-king-lear-a-screening-and-discussion/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:23:35.094Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-13-future-beyond-rikers-a-film-festival-nov",
+    "title": "FUTURE BEYOND RIKERS: A Film Festival (Nov 13)",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-13",
+    "description": "First night of a two-day documentary film festival at Maysles exploring life, justice, and release beyond Rikers Island.",
+    "url": "https://www.maysles.org/calendar/future-beyond-rikers-film-festival-friday",
+    "format": "festival",
+    "interest_score": 2.5,
+    "tags": [
+      "film-festival",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:23:39.553Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-14-future-beyond-rikers-a-film-festival-nov",
+    "title": "FUTURE BEYOND RIKERS: A Film Festival (Nov 14)",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-14",
+    "description": "Second night of a two-day documentary film festival at Maysles exploring life, justice, and release beyond Rikers Island.",
+    "url": "https://www.maysles.org/calendar/future-beyond-rikers-film-festival-saturday",
+    "format": "festival",
+    "interest_score": 2.5,
+    "tags": [
+      "film-festival",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:23:39.553Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-04-maysles-education-a-new-season",
+    "title": "Maysles Education: A New Season",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-04",
+    "description": "A soft-launch reception introducing Maysles Documentary Center's new education season and youth filmmaking programs.",
+    "url": "https://www.maysles.org/calendar/education-soft-launch-reception",
+    "format": "other",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:23:39.552Z"
   }
 ]
