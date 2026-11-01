@@ -9057,5 +9057,96 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-01T07:28:45.895Z"
+  },
+  {
+    "id": "white-columns-2026-11-14-a-screening-of-maya-hardinge-s-penny-201",
+    "title": "A Screening of Maya Hardinge's Penny (2018, 65 min)",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-11-14",
+    "time_start": "19:00",
+    "description": "Screening of Maya Hardinge's 65-minute film Penny (2018), presented with the Jenni Crain Foundation; doors at 6:30pm, followed by a Q&A and book signing with the filmmaker.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:35.743Z"
+  },
+  {
+    "id": "white-columns-2026-11-07-marc-hundley-satellites-are-out-tonight",
+    "title": "Marc Hundley: Satellites Are Out Tonight",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-11-07",
+    "description": "Exhibition of new work by Marc Hundley, on view November 7–December 19, 2026.",
+    "url": "https://whitecolumns.org/exhibitions/marc-hundley/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:35.745Z"
+  },
+  {
+    "id": "white-columns-2026-11-07-claire-watson-re-assembled",
+    "title": "Claire Watson: Re-Assembled",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-11-07",
+    "description": "Solo exhibition by Claire Watson, on view November 7–December 19, 2026.",
+    "url": "https://whitecolumns.org/exhibitions/claire-watson/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:35.745Z"
+  },
+  {
+    "id": "white-columns-2026-11-21-claire-watson-in-conversation-with-gemma",
+    "title": "Claire Watson in conversation with Gemma Cirignano",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-11-21",
+    "time_start": "16:00",
+    "description": "Gallery talk with artist Claire Watson and curator Gemma Cirignano tied to Watson's exhibition Re-Assembled.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:35.743Z"
+  },
+  {
+    "id": "participant-inc-2026-12-20-the-janiken-dansen-show-with-special-gue",
+    "title": "The Janiken Dansen Show, with Special Guest Claywoman",
+    "venue_id": "participant-inc",
+    "venue_name": "Participant Inc",
+    "date": "2026-12-20",
+    "time_start": "19:00",
+    "description": "Performance show starring Claywoman, Erin Markey, and more, part of Participant Inc's Season 25 program.",
+    "url": "https://participantinc.org/seasons/season-25/the-janiken-dansen-show-with-special-guestclaywoman",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:35.773Z"
   }
 ]

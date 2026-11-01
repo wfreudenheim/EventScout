@@ -1,86 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "printed-matter",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:17:50.240Z",
-    "completed_at": "2026-10-14T07:17:50.240Z",
-    "events_found": 5,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "museum-of-moving-image",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:17:50.262Z",
-    "completed_at": "2026-10-14T07:17:50.262Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "asia-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:17:50.284Z",
-    "completed_at": "2026-10-14T07:17:50.284Z",
-    "events_found": 12,
-    "events_new": 7,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "swiss-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:17:50.299Z",
-    "completed_at": "2026-10-14T07:17:50.299Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "lincoln-center-summer",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:19:07.321Z",
-    "completed_at": "2026-10-14T07:19:07.321Z",
-    "events_found": 7,
-    "events_new": 7,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyu-itp",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:25:11.233Z",
-    "completed_at": "2026-10-14T07:25:11.233Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "microscope-gallery",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:25:11.251Z",
-    "completed_at": "2026-10-14T07:25:11.251Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "vera-list-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:25:11.271Z",
-    "completed_at": "2026-10-14T07:25:11.271Z",
-    "events_found": 5,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "mono-no-aware",
     "scrape_tier_used": 3,
     "started_at": "2026-10-14T07:25:11.278Z",
@@ -4997,6 +4917,86 @@
     "completed_at": "2026-11-01T07:28:45.918Z",
     "events_found": 11,
     "events_new": 11,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "swiss-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:35.740Z",
+    "completed_at": "2026-11-01T07:29:35.740Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "white-columns",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:35.766Z",
+    "completed_at": "2026-11-01T07:29:35.766Z",
+    "events_found": 4,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "participant-inc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:35.788Z",
+    "completed_at": "2026-11-01T07:29:35.788Z",
+    "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:35.799Z",
+    "completed_at": "2026-11-01T07:29:35.799Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "amant",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:35.811Z",
+    "completed_at": "2026-11-01T07:29:35.811Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "culturehub",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:35.820Z",
+    "completed_at": "2026-11-01T07:29:35.820Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "harvestworks",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:35.831Z",
+    "completed_at": "2026-11-01T07:29:35.831Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "onassis-onx",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:35.840Z",
+    "completed_at": "2026-11-01T07:29:35.840Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]
