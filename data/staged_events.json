@@ -9324,5 +9324,107 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-01T07:29:50.219Z"
+  },
+  {
+    "id": "index-space-2026-11-15-woven-speakers-hands-on-etextiles-worksh",
+    "title": "Woven Speakers: Hands on eTextiles Workshop",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-11-15",
+    "description": "A hands-on workshop building woven fabric speakers, led by Craftwork, blending DIY electronics and textile craft.",
+    "url": "https://www.index-space.org/programming/woven-speakers-hands-on-etextiles-workshop-evt-Rqo5fG0w5UgP9D1?view=list",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "diy-electronics"
+    ],
+    "matched_categories": [
+      "Hackerspaces & creative tech — makerspaces, DIY electronics, creative coding workshops",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:59.927Z"
+  },
+  {
+    "id": "wonderville-2026-11-10-bacon-eggs-toons-a-free-animation-screen",
+    "title": "Bacon, Eggs, & Toons - A Free Animation Screening presented by K Downs x BODEGA x BEC",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-10",
+    "time_start": "19:30",
+    "time_end": "23:00",
+    "description": "A free animation screening night presented by K Downs, BODEGA, and BEC at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/bacon-eggs-toons-a-free-animation-screening-presented-by-k-downs-x-bodega-x-bec-11-10-26",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:59.961Z"
+  },
+  {
+    "id": "wonderville-2026-11-02-the-fort90-broadcast-system-presents-the",
+    "title": "the FORT90 BROADCAST SYSTEM presents: the FORT90 FILM CLUB (\"LEFTOVERS\" VOLUME 4, PART 1)",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-02",
+    "time_start": "20:00",
+    "description": "A film club screening night curated by the FORT90 Broadcast System, part of an ongoing \"Leftovers\" video series.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-2-26",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:59.958Z"
+  },
+  {
+    "id": "wonderville-2026-11-09-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-09",
+    "time_start": "20:00",
+    "description": "Another installment of the FORT90 Broadcast System's video/film programming night at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-9-26",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:59.961Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-11-11-from-yesterday-to-tomorrow-buttermilk-bi",
+    "title": "From Yesterday to Tomorrow: Buttermilk Biscuits Meet Brioche",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-11-11",
+    "time_start": "19:00",
+    "description": "A community conversation and gathering exploring food, migration, and culinary tradition on the Lower East Side.",
+    "url": "https://abronsartscenter.org/programs/yesterday-biscuits-brioche",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Indonesian/Southeast Asian culture, language exchange, Asian American, diaspora"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:59.989Z"
   }
 ]

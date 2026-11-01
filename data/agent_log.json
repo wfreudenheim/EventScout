@@ -1,56 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "harvestworks",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:25:46.142Z",
-    "completed_at": "2026-10-14T07:25:46.142Z",
-    "events_found": 4,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "maysles-documentary-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:25:55.483Z",
-    "completed_at": "2026-10-14T07:25:55.483Z",
-    "events_found": 8,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "millennium-film-workshop",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:25:55.500Z",
-    "completed_at": "2026-10-14T07:25:55.500Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "japan-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:25:55.519Z",
-    "completed_at": "2026-10-14T07:25:55.519Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "creative-time",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:25:55.538Z",
-    "completed_at": "2026-10-14T07:25:55.538Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "world-music-institute",
     "scrape_tier_used": 3,
     "started_at": "2026-10-14T07:28:38.444Z",
@@ -4997,6 +4947,56 @@
     "completed_at": "2026-11-01T07:29:50.238Z",
     "events_found": 3,
     "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:59.953Z",
+    "completed_at": "2026-11-01T07:29:59.953Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:29:59.985Z",
+    "completed_at": "2026-11-01T07:29:59.985Z",
+    "events_found": 9,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "abrons-arts-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:30:00.005Z",
+    "completed_at": "2026-11-01T07:30:00.005Z",
+    "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "movement-research",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:30:00.016Z",
+    "completed_at": "2026-11-01T07:30:00.016Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:30:00.028Z",
+    "completed_at": "2026-11-01T07:30:00.028Z",
+    "events_found": 5,
+    "events_new": 0,
     "status": "completed"
   }
 ]
