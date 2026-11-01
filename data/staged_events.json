@@ -8818,27 +8818,6 @@
     "discovered_at": "2026-11-01T07:25:41.055Z"
   },
   {
-    "id": "flushing-town-hall-2026-10-12-portraits-of-america-exhibition",
-    "title": "Portraits of America Exhibition",
-    "venue_id": "flushing-town-hall",
-    "venue_name": "Flushing Town Hall",
-    "date": "2026-10-12",
-    "description": "A group photography exhibition bringing together portraits of individuals whose distinct histories, cultural backgrounds, and lived experiences reflect the complex and evolving idea of American identity. On view through November 10, 2026.",
-    "url": "https://www.flushingtownhall.org/show-details/portraits-of-america-exhibition",
-    "format": "gallery",
-    "interest_score": 2.2,
-    "tags": [
-      "photography"
-    ],
-    "matched_categories": [
-      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography",
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-11-01T07:28:45.869Z"
-  },
-  {
     "id": "terraza-7-2026-11-01-max-pollak-the-rumbatap-jam",
     "title": "Max Pollak | The RumbaTap Jam",
     "venue_id": "terraza-7",
