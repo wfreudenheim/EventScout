@@ -1,76 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "pioneer-works",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.766Z",
-    "completed_at": "2026-10-11T07:25:38.766Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nublu",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.774Z",
-    "completed_at": "2026-10-11T07:25:38.774Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "joe-s-pub",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.782Z",
-    "completed_at": "2026-10-11T07:25:38.782Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "kaufman-music-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.790Z",
-    "completed_at": "2026-10-11T07:25:38.790Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "columbia-gsapp",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.805Z",
-    "completed_at": "2026-10-11T07:25:38.805Z",
-    "events_found": 7,
-    "events_new": 6,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyu-itp",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:26:38.335Z",
-    "completed_at": "2026-10-11T07:26:38.335Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "vera-list-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:26:38.362Z",
-    "completed_at": "2026-10-11T07:26:38.362Z",
-    "events_found": 4,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "microscope-gallery",
     "scrape_tier_used": 3,
     "started_at": "2026-10-11T07:26:38.373Z",
@@ -4996,6 +4926,76 @@
     "started_at": "2026-11-01T06:37:16.031Z",
     "completed_at": "2026-11-01T06:37:16.031Z",
     "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:13:17.049Z",
+    "completed_at": "2026-11-01T07:13:17.049Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:13:17.061Z",
+    "completed_at": "2026-11-01T07:13:17.061Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "la-mama",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:13:17.094Z",
+    "completed_at": "2026-11-01T07:13:17.094Z",
+    "events_found": 4,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "sculpture-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:13:17.111Z",
+    "completed_at": "2026-11-01T07:13:17.111Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "anthology-film-archives",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:13:17.127Z",
+    "completed_at": "2026-11-01T07:13:17.127Z",
+    "events_found": 5,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-drawing-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:13:17.145Z",
+    "completed_at": "2026-11-01T07:13:17.145Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "japan-society",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:13:17.157Z",
+    "completed_at": "2026-11-01T07:13:17.157Z",
+    "events_found": 2,
     "events_new": 0,
     "status": "completed"
   }

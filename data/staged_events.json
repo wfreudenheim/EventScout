@@ -40,26 +40,6 @@
     "discovered_at": "2026-07-24T14:57:54.991Z"
   },
   {
-    "id": "pioneer-works-2026-10-30-machine-girl-halloween",
-    "title": "Machine Girl Halloween",
-    "venue_id": "pioneer-works",
-    "venue_name": "Pioneer Works",
-    "date": "2026-10-30",
-    "description": "A special Devil's Night performance from the electronic music duo.",
-    "url": "https://www.eventbrite.com/e/machine-girl-halloween-tickets-1992857867528",
-    "format": "performance",
-    "interest_score": 2.1,
-    "tags": [
-      "electronic-music"
-    ],
-    "matched_categories": [
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:eventbrite",
-    "status": "staged",
-    "discovered_at": "2026-07-24T14:57:54.992Z"
-  },
-  {
     "id": "national-sawdust-2026-11-19-sensorium-ex-visionintoart-residency-",
     "title": "Sensorium Ex (VisionIntoArt residency)",
     "venue_id": "national-sawdust",
@@ -224,29 +204,6 @@
     "discovered_at": "2026-07-25T13:23:12.707Z"
   },
   {
-    "id": "pioneer-works-2026-10-29-leenalchi-wmi-at-pioneer-works-",
-    "title": "Leenalchi (WMI at Pioneer Works)",
-    "venue_id": "pioneer-works",
-    "venue_name": "Pioneer Works",
-    "date": "2026-10-29",
-    "time_start": "20:00",
-    "description": "Seoul alt-pop built on pansori vocal tradition — traditional Korean narrative singing over bass-driven grooves.",
-    "url": "https://www.worldmusicinstitute.org/leenalchi-at-pioneer-works/",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "pansori"
-    ],
-    "matched_categories": [
-      "world_music",
-      "experimental_music",
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:wmi",
-    "status": "staged",
-    "discovered_at": "2026-07-27T15:32:29.487Z"
-  },
-  {
     "id": "adler-hall-2026-11-05-niladri-kumar-wmi-",
     "title": "Niladri Kumar (WMI)",
     "venue_id": "adler-hall",
@@ -393,51 +350,6 @@
     "discovered_at": "2026-08-09T17:46:03.831Z"
   },
   {
-    "id": "vera-list-center-2026-10-29-eyal-weizman-ungrounding-lecture-book-la",
-    "title": "Eyal Weizman: Ungrounding — Lecture & Book Launch",
-    "venue_id": "vera-list-center",
-    "venue_name": "Vera List Center for Art and Politics",
-    "date": "2026-10-29",
-    "time_start": "18:30",
-    "time_end": "20:00",
-    "description": "Forensic Architecture founder Eyal Weizman in conversation with Carin Kuoni on Ungrounding, his investigation into violence, territory, and the built environment in Gaza and Palestine. Wollman Hall, The New School.",
-    "url": "https://veralistcenter.org",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & Urbanism",
-      "Philosophy & Critical Theory",
-      "Art & Technology"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-15T14:55:26.169Z"
-  },
-  {
-    "id": "vera-list-center-2026-10-28-joyce-joumaa-provisional-recovery-parson",
-    "title": "Joyce Joumaa: Provisional Recovery (Parsons Visiting Artist Lecture)",
-    "venue_id": "vera-list-center",
-    "venue_name": "Vera List Center for Art and Politics",
-    "date": "2026-10-28",
-    "time_start": "19:00",
-    "time_end": "20:30",
-    "description": "VLC Fellow Joyce Joumaa on her project Calibrated Alien — collapse as a condition to be inhabited, and the image as a technology for living inside a crisis. Starr Foundation Hall, The New School.",
-    "url": "https://veralistcenter.org",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art",
-      "Experimental Animation & Moving Image"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-15T14:55:26.169Z"
-  },
-  {
     "id": "vera-list-center-2026-11-30-saidiya-hartman-aica-usa-kippy-stroud-di",
     "title": "Saidiya Hartman: AICA-USA Kippy Stroud Distinguished Critic Lecture",
     "venue_id": "vera-list-center",
@@ -461,26 +373,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-09-15T14:55:26.169Z"
-  },
-  {
-    "id": "bard-graduate-center-2026-10-28-dressing-the-goddesses-wardrobe-departme",
-    "title": "Dressing the Goddesses: Wardrobe Departments in the Silent Era",
-    "venue_id": "bard-graduate-center",
-    "venue_name": "Bard Graduate Center",
-    "date": "2026-10-28",
-    "time_start": "18:00",
-    "description": "Lecture by Emma Cormack (BGC) on Hollywood wardrobe departments of the silent era. BGC Lecture Hall.",
-    "url": "https://www.bgc.bard.edu",
-    "price": "varies",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-15T14:55:26.184Z"
   },
   {
     "id": "bard-graduate-center-2026-11-11-detours-constellations-and-failure-resea",
@@ -524,26 +416,6 @@
     "discovered_at": "2026-09-15T14:55:26.184Z"
   },
   {
-    "id": "issue-project-room-2026-10-29-noveller-axine-m",
-    "title": "Noveller / Axine M",
-    "venue_id": "issue-project-room",
-    "venue_name": "Issue Project Room",
-    "date": "2026-10-29",
-    "time_start": "20:00",
-    "description": "Noveller (Sarah Lipstate) debuts selections from I Am The Weather (2026) with electric guitar, pedals and looping; Axine M performs with fretless guitar, voice, and computer. Doors 7:30. 22 Boerum Pl.",
-    "url": "https://issueprojectroom.org",
-    "price": "varies",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Experimental Music & Sound"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-15T14:55:26.218Z"
-  },
-  {
     "id": "the-kitchen-2026-11-07-improvisation-archive-and-homage-symposi",
     "title": "Improvisation, Archive and Homage — Symposium",
     "venue_id": "the-kitchen",
@@ -566,28 +438,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-09-15T14:55:26.254Z"
-  },
-  {
-    "id": "wendys-subway-2026-10-31-study-session-with-elizabeth-povinelli-c",
-    "title": "Study Session with Elizabeth Povinelli (Combat Breathing Vol. II)",
-    "venue_id": "wendys-subway",
-    "venue_name": "Wendy's Subway",
-    "date": "2026-10-31",
-    "time_start": "12:00",
-    "time_end": "14:30",
-    "description": "Concluding study session working from Elizabeth Povinelli's scholarship in political economy, aesthetic philosophy, and Indigenous studies: aesthetic practice under ongoing colonial catastrophe, liberalism, settler colonialism, and extractivism. Wendy's Subway, Bushwick.",
-    "url": "https://wendyssubway.com",
-    "price": "free",
-    "format": "workshop",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Philosophy & Critical Theory",
-      "Climate & Environment"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-15T14:55:26.261Z"
   },
   {
     "id": "japan-society-2026-12-11-white-stones-kaoru-watanabe-kite-world-p",
@@ -658,49 +508,6 @@
     "discovered_at": "2026-09-15T14:55:26.369Z"
   },
   {
-    "id": "world-music-institute-2026-10-29-leenalchi-at-pioneer-works",
-    "title": "Leenalchi at Pioneer Works",
-    "venue_id": "world-music-institute",
-    "venue_name": "World Music Institute",
-    "date": "2026-10-29",
-    "description": "Korean alternative pop band fusing pansori vocals with disco and post-punk bass, presented by World Music Institute at Pioneer Works, Red Hook.",
-    "url": "https://www.worldmusicinstitute.org",
-    "price": "varies",
-    "format": "music",
-    "interest_score": 2,
-    "tags": [
-      "world-music",
-      "pansori"
-    ],
-    "matched_categories": [
-      "Experimental Music & Sound",
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-15T14:55:26.415Z"
-  },
-  {
-    "id": "columbia-heyman-2026-10-28-helen-deutsch-edward-w-said-memorial-lec",
-    "title": "Helen Deutsch: Edward W. Said Memorial Lecture",
-    "venue_id": "columbia-heyman",
-    "venue_name": "Columbia Society of Fellows / Heyman Center",
-    "date": "2026-10-28",
-    "time_start": "18:15",
-    "description": "Helen Deutsch on the unfinished conversation between Said and Jonathan Swift. Co-presented by the Italian Academy for Advanced Studies, Columbia.",
-    "url": "https://sofheyman.org",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Philosophy & Critical Theory"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-15T14:55:42.132Z"
-  },
-  {
     "id": "pioneer-works-2026-11-12-eiko-ishibashi",
     "title": "Eiko Ishibashi",
     "venue_id": "pioneer-works",
@@ -718,24 +525,6 @@
     "source_agent": "aggregator:eventbrite",
     "status": "staged",
     "discovered_at": "2026-09-15T14:57:18.556Z"
-  },
-  {
-    "id": "caveat-2026-10-29-planet-x-killer-asteroids-other-things-l",
-    "title": "Planet X, Killer Asteroids & Other Things Lurking in Space",
-    "venue_id": "caveat",
-    "venue_name": "Caveat",
-    "date": "2026-10-29",
-    "description": "Join Carnegie for a night of interactive activities and high-energy scientific entertainment with fellow science enthusiasts!",
-    "url": "https://www.eventbrite.com/e/planet-x-killer-asteroids-other-things-lurking-in-space-tickets-1999048189949",
-    "format": "other",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Science & Technology Studies"
-    ],
-    "source_agent": "tier3-claude",
-    "status": "staged",
-    "discovered_at": "2026-09-15T14:57:21.067Z"
   },
   {
     "id": "caveat-2026-11-11-sagematch-nycf-",
@@ -824,30 +613,6 @@
     "discovered_at": "2026-09-15T14:59:55.179Z"
   },
   {
-    "id": "harvestworks-2026-10-28-live-processing-paint-and-sound-liz-phil",
-    "title": "Live Processing Paint and Sound: Liz Phillips and Heidi Howard",
-    "venue_id": "harvestworks",
-    "venue_name": "Harvestworks",
-    "date": "2026-10-28",
-    "description": "Performance exploring live processing of paint and sound by interactive sound-installation pioneer Liz Phillips and painter Heidi Howard. Harvestworks Digital Media Arts Center.",
-    "url": "https://www.harvestworks.org/event/live-processing-paint-and-sound-liz-phillips-and-heidi-howard/",
-    "price": "varies",
-    "format": "performance",
-    "interest_score": 4,
-    "tags": [
-      "media-art",
-      "installation"
-    ],
-    "matched_categories": [
-      "Experimental Music & Sound",
-      "Art & Technology",
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-15T15:01:41.917Z"
-  },
-  {
     "id": "creative-time-2026-11-05-we-keep-us-safe-the-whores-feast-and-fee",
     "title": "We Keep Us Safe: The Whores Feast and Feeding — Red Canary Song",
     "venue_id": "creative-time",
@@ -909,25 +674,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-15T15:13:23.646Z"
-  },
-  {
-    "id": "bam-2026-10-29-next-wave-2026-be-holding-ross-gay-with-",
-    "title": "Next Wave 2026: Be Holding — Ross Gay with Tyshawn Sorey",
-    "venue_id": "bam",
-    "venue_name": "Brooklyn Academy of Music",
-    "date": "2026-10-29",
-    "description": "Reading of Ross Gay's book-length poem connecting Dr. J's impossible move to Black flight and joy, with music by Tyshawn Sorey and video accompaniment. Part of Hanif Abdurraqib's poetry series at BAM.",
-    "url": "https://www.bam.org/poetry/2026/be-holding",
-    "price": "varies",
-    "format": "performance",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Experimental Music & Sound"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-15T15:13:23.644Z"
   },
   {
     "id": "bam-2026-11-18-next-wave-2026-la-distance-tiago-rodrigu",
@@ -994,29 +740,6 @@
     "discovered_at": "2026-09-15T15:14:57.153Z"
   },
   {
-    "id": "index-space-2026-10-29-is-everything-predictable-ai-prediction-",
-    "title": "Is Everything Predictable? AI, Prediction Markets, and the Philosophy of Foresight — Emma Stamm",
-    "venue_id": "index-space",
-    "venue_name": "Index Space",
-    "date": "2026-10-29",
-    "description": "Talk by media theorist Emma Stamm on AI, prediction markets, and the philosophy of foresight. Index Greenpoint.",
-    "url": "https://luma.com/index-evt-xnCQQKMg0qG8Snk",
-    "price": "varies",
-    "format": "talk",
-    "interest_score": 4,
-    "tags": [
-      "foresight"
-    ],
-    "matched_categories": [
-      "Philosophy & Critical Theory",
-      "Neuroscience, AI & Cognitive Science",
-      "Worldbuilding & Speculative Design"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-15T15:17:35.057Z"
-  },
-  {
     "id": "danspace-project-2026-11-05-kyle-marshall-choreography-bound",
     "title": "Kyle Marshall Choreography: Bound",
     "venue_id": "danspace-project",
@@ -1034,45 +757,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-15T15:17:35.068Z"
-  },
-  {
-    "id": "the-brick-2026-10-30-i-can-steal-your-mother-illustrated-come",
-    "title": "I Can Steal Your Mother — Illustrated Comedy",
-    "venue_id": "the-brick",
-    "venue_name": "The Brick",
-    "date": "2026-10-30",
-    "description": "Illustrated comedy built from over 1,200 original drawings — autobiographical surreal storytelling about haunting memories and neurotic fantasies. The Brick, Williamsburg.",
-    "url": "https://www.bricktheater.com/event/i-can-steal-your-mother/2026-10-30/",
-    "price": "$25",
-    "format": "performance",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Experimental Animation & Moving Image"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-15T15:20:13.949Z"
-  },
-  {
-    "id": "lincoln-center-summer-2026-10-28-ambrose-akinmusire-and-aszure-barton-a-a",
-    "title": "Ambrose Akinmusire and Aszure Barton: A a | a B: Bend",
-    "venue_id": "lincoln-center-summer",
-    "venue_name": "Lincoln Center (Summer for the City / Atrium)",
-    "date": "2026-10-28",
-    "time_start": "19:30",
-    "description": "Cross-genre performance (Oct 28–30) where choreographer Aszure Barton and trumpeter/composer Ambrose Akinmusire build a provocative world of puzzling beauty and raw physical emotion. Rose Theater.",
-    "url": "https://www.lincolncenter.org/lincoln-center-presents",
-    "price": "varies",
-    "format": "performance",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Experimental Music & Sound"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-15T15:21:32.903Z"
   },
   {
     "id": "mono-no-aware-2026-12-02-mono-no-aware-xx-20th-anniversary-expand",
@@ -1151,26 +835,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-09-23T07:18:14.522Z"
-  },
-  {
-    "id": "blank-forms-2026-10-31-oren-ambarchi-randall-dunn",
-    "title": "Oren Ambarchi / Randall Dunn",
-    "venue_id": "blank-forms",
-    "venue_name": "Blank Forms",
-    "date": "2026-10-31",
-    "description": "Oren Ambarchi's first US performances since 2020, celebrating his new solo record Prophetic Perfect Tense; Randall Dunn also performs solo material, followed by an artist talk.",
-    "format": "music",
-    "interest_score": 5,
-    "tags": [
-      "artist-talk"
-    ],
-    "matched_categories": [
-      "Experimental/electronic music",
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-23T07:18:14.623Z"
   },
   {
     "id": "blank-forms-2026-11-01-oren-ambarchi-andrew-cyrille-cyro-baptis",
@@ -1549,25 +1213,6 @@
     "discovered_at": "2026-09-23T07:23:28.670Z"
   },
   {
-    "id": "printed-matter-2026-10-28-risolab-talks-vol-5-travess-smalley-kyle",
-    "title": "RisoLAB Talks vol. 5: Travess Smalley & Kyle Canyon in Conversation",
-    "venue_id": "printed-matter",
-    "venue_name": "Printed Matter",
-    "date": "2026-10-28",
-    "description": "Digital and glitch artist Travess Smalley talks with Kyle Canyon about riso printing, digital tools, and image-making, moderated by Panayiotis Terzis.",
-    "url": "https://www.printedmatter.org/programs/events/2289",
-    "format": "talk",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Art & technology, generative art, creative coding, new media, interactive installation",
-      "Contemporary art (general)"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-23T07:23:31.895Z"
-  },
-  {
     "id": "printed-matter-2026-11-05-the-radical-unpresent-gregory-sholette-i",
     "title": "The Radical Unpresent — Gregory Sholette in conversation with Naeem Mohaiemen",
     "venue_id": "printed-matter",
@@ -1604,25 +1249,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-23T07:23:31.917Z"
-  },
-  {
-    "id": "bard-graduate-center-2026-10-29-gallery-tour-goddesses-in-the-machine",
-    "title": "Gallery Tour: Goddesses in the Machine",
-    "venue_id": "bard-graduate-center",
-    "venue_name": "Bard Graduate Center",
-    "date": "2026-10-29",
-    "description": "A guided gallery tour of the exhibition Goddesses in the Machine: Fashion, exploring the intersection of fashion and mechanization.",
-    "url": "https://www.bgc.bard.edu/events/1647/29-oct-2026-gallery-tour",
-    "format": "tour",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Art & technology, generative art, creative coding, new media, interactive installation",
-      "Contemporary art (general)"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-23T07:23:31.933Z"
   },
   {
     "id": "bard-graduate-center-2026-11-05-gallery-tour-goddesses-in-the-machine",
@@ -1866,26 +1492,6 @@
     "discovered_at": "2026-09-23T07:23:35.989Z"
   },
   {
-    "id": "swiss-institute-2026-10-28-new-york-axiomatic-circle",
-    "title": "New York Axiomatic Circle",
-    "venue_id": "swiss-institute",
-    "venue_name": "Swiss Institute",
-    "date": "2026-10-28",
-    "time_start": "19:00",
-    "description": "A recurring discussion circle exploring axiomatic and theoretical frameworks in philosophy and science.",
-    "url": "https://swissinstitute.net/programs/new-york-axiomatic-circle",
-    "format": "talk",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
-      "Science & technology studies, history of science, philosophy of science"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-23T07:27:11.983Z"
-  },
-  {
     "id": "swiss-institute-2026-11-11-film-series-marching-with-the-kasama",
     "title": "Film Series | Marching with the Kasama",
     "venue_id": "swiss-institute",
@@ -1944,25 +1550,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-09-27T07:19:53.582Z"
-  },
-  {
-    "id": "world-music-institute-2026-10-29-leenalchi",
-    "title": "Leenalchi",
-    "venue_id": "world-music-institute",
-    "venue_name": "World Music Institute",
-    "date": "2026-10-29",
-    "description": "World Music Institute presents a performance by Leenalchi at Pioneer Works.",
-    "format": "music",
-    "interest_score": 2,
-    "tags": [
-      "world-music"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-27T07:19:53.642Z"
   },
   {
     "id": "world-music-institute-2026-11-05-niladri-kumaar",
@@ -2185,25 +1772,6 @@
     "discovered_at": "2026-09-27T07:25:50.272Z"
   },
   {
-    "id": "nyas-2026-10-29-fire-after-fire-the-global-wildfire-chal",
-    "title": "Fire After Fire: The Global Wildfire Challenge and the Hidden Risks of Recovery",
-    "venue_id": "nyas",
-    "venue_name": "New York Academy of Sciences",
-    "date": "2026-10-29",
-    "description": "A virtual talk examining the growing global wildfire crisis and the often-overlooked risks communities face during post-fire recovery.",
-    "url": "https://www.nyas.org/shaping-science/events/fire-after-fire-the-global-wildfire-challenge-and-the-hidden-risks-of-recovery",
-    "price": "varies",
-    "format": "talk",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Climate & Environment"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-27T07:25:50.291Z"
-  },
-  {
     "id": "moma-ps1-2027-02-08-homeroom-artists-against-the-bomb",
     "title": "Homeroom: Artists Against the Bomb",
     "venue_id": "moma-ps1",
@@ -2319,25 +1887,6 @@
     "discovered_at": "2026-09-27T07:32:18.013Z"
   },
   {
-    "id": "drom-2026-10-30-nevermore-goth-rave-halloween-edition",
-    "title": "Nevermore [Goth Rave] Halloween Edition",
-    "venue_id": "drom",
-    "venue_name": "DROM",
-    "date": "2026-10-30",
-    "time_start": "23:00",
-    "description": "VampireFreaks and GBH present a goth rave Halloween edition at DROM with DJs Jet, Swabby and guests.",
-    "url": "https://dromnyc.com/event/nevermore-goth-rave-halloween-edition-2/",
-    "format": "music",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-27T07:32:18.057Z"
-  },
-  {
     "id": "film-forum-2026-11-13-threeasfour-full-circle",
     "title": "ThreeAsFour: Full Circle",
     "venue_id": "film-forum",
@@ -2356,26 +1905,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:32:18.102Z"
-  },
-  {
-    "id": "public-records-2026-10-30-shungu-faith-in-the-unknown-live-film-sc",
-    "title": "Shungu – FAITH IN THE UNKNOWN Live Film & Score",
-    "venue_id": "public-records",
-    "venue_name": "Public Records",
-    "date": "2026-10-30",
-    "time_start": "19:00",
-    "description": "Live scored screening pairing film with an original live musical performance.",
-    "url": "https://link.dice.fm/Nf5461b24901",
-    "format": "screening",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Film & Cinema",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-27T07:34:14.690Z"
   },
   {
     "id": "public-records-2026-11-09-durations-festival-2026",
@@ -2438,27 +1967,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-09-27T07:34:14.752Z"
-  },
-  {
-    "id": "wendys-subway-2026-10-31-combat-breathing-vol-ii-study-session-wi",
-    "title": "Combat Breathing Vol. II: Study Session with Elizabeth Povinelli",
-    "venue_id": "wendys-subway",
-    "venue_name": "Wendy's Subway",
-    "date": "2026-10-31",
-    "time_start": "12:00",
-    "time_end": "14:30",
-    "description": "Concluding study session working from Elizabeth Povinelli's scholarship in political economy, aesthetic philosophy, and Indigenous studies — colonial catastrophe, liberalism, settler colonialism, and capitalist extractivism.",
-    "url": "https://wendyssubway.com/",
-    "price": "free",
-    "format": "workshop",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Philosophy & Critical Theory"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-09-30T07:14:17.019Z"
   },
   {
     "id": "world-music-institute-2027-01-23-caama-o-ameixeiras",
@@ -2686,29 +2194,6 @@
     "discovered_at": "2026-09-30T07:28:56.211Z"
   },
   {
-    "id": "film-forum-2026-10-29-the-harder-they-come",
-    "title": "The Harder They Come",
-    "venue_id": "film-forum",
-    "venue_name": "Film Forum",
-    "date": "2026-10-29",
-    "time_start": "20:20",
-    "description": "A repertory screening of Perry Henzell's 1972 Jamaican classic 'The Harder They Come,' famous for its landmark reggae soundtrack.",
-    "url": "https://filmforum.org/film/the-harder-they-come",
-    "format": "screening",
-    "interest_score": 3,
-    "tags": [
-      "repertory-screening",
-      "reggae"
-    ],
-    "matched_categories": [
-      "Film & Cinema",
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-09-30T07:33:19.458Z"
-  },
-  {
     "id": "participant-inc-2026-11-06-gabrielle-civil-black-weirdo-school-psyc",
     "title": "Gabrielle Civil, Black Weirdo School Psychic Defense Club",
     "venue_id": "participant-inc",
@@ -2749,43 +2234,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-04T07:18:40.025Z"
-  },
-  {
-    "id": "national-sawdust-2026-10-30-eleanor-alberga-the-string-quartet-cycle",
-    "title": "Eleanor Alberga: The String Quartet Cycle with Support from Solaris",
-    "venue_id": "national-sawdust",
-    "venue_name": "National Sawdust",
-    "date": "2026-10-30",
-    "time_start": "19:30",
-    "description": "U.S. premiere cycle of composer Eleanor Alberga's Three String Quartets and the world premiere of her Second Piano Quintet, performed with the composer at piano.",
-    "url": "https://www.nationalsawdust.org/event/eleanor-alberga-the-string-quartet-cycle",
-    "format": "performance",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "experimental music/sound art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-04T07:25:08.310Z"
-  },
-  {
-    "id": "cooper-union-2026-10-31-guild-greyshkul",
-    "title": "Guild & Greyshkul",
-    "venue_id": "cooper-union",
-    "venue_name": "Cooper Union",
-    "date": "2026-10-31",
-    "description": "Ongoing exhibition at Cooper Union, on view September 16 through October 31.",
-    "url": "https://cooper.edu/events-and-exhibitions/exhibitions/guild-greyshkul",
-    "format": "gallery",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary art (general)"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-04T07:25:09.080Z"
   },
   {
     "id": "printed-matter-2026-11-29-new-openings-against-old-surfaces-on-gor",
@@ -3019,49 +2467,6 @@
     "discovered_at": "2026-10-04T07:29:26.643Z"
   },
   {
-    "id": "film-forum-2026-10-30-citizen-ruth",
-    "title": "CITIZEN RUTH",
-    "venue_id": "film-forum",
-    "venue_name": "Film Forum",
-    "date": "2026-10-30",
-    "description": "New theatrical run opens at Film Forum: Alexander Payne's 1996 satire CITIZEN RUTH, running through November 5.",
-    "url": "https://filmforum.org/film/citizen-ruth",
-    "format": "screening",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-04T07:29:27.922Z"
-  },
-  {
-    "id": "elsewhere-2026-10-28-elsewhere-presents-ak-chamel-market-hote",
-    "title": "Elsewhere Presents: Ak'chamel @ Market Hotel (w/ Ecology Homestones)",
-    "venue_id": "elsewhere",
-    "venue_name": "Elsewhere",
-    "date": "2026-10-28",
-    "time_start": "19:00",
-    "description": "Elsewhere-presented show at Market Hotel featuring ritualistic experimental noise duo Ak'chamel, the Giver of Illness, with ecology-themed support act Ecology Homestones.",
-    "url": "https://www.elsewhere.club/presents/1991242313362",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [
-      "ecology",
-      "noise"
-    ],
-    "matched_categories": [
-      "Climate & environmental art, ecology, speculative futures",
-      "Experimental music, electronic music, sound art, noise, modular synth",
-      "Climate & Environment",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-04T07:29:28.608Z"
-  },
-  {
     "id": "public-records-2026-11-10-hurricane-in-the-fog-machine",
     "title": "Hurricane in the Fog Machine",
     "venue_id": "public-records",
@@ -3201,29 +2606,6 @@
     "discovered_at": "2026-10-07T07:19:46.952Z"
   },
   {
-    "id": "amant-2026-10-29-gary-zhexi-zhang-performance-lecture",
-    "title": "Gary Zhexi Zhang: Performance Lecture",
-    "venue_id": "amant",
-    "venue_name": "Amant",
-    "date": "2026-10-29",
-    "description": "Amant resident artist Gary Zhexi Zhang's performance lecture centers on his experiments with autonomous actors staged within a self-directing game engine.",
-    "url": "https://amant.org",
-    "price": "free",
-    "format": "performance",
-    "interest_score": 5,
-    "tags": [
-      "game-engine"
-    ],
-    "matched_categories": [
-      "Experimental Animation & Moving Image",
-      "Art & Technology",
-      "Games & Interactive"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:19:47.071Z"
-  },
-  {
     "id": "issue-project-room-2026-11-07-caminos",
     "title": "Caminos",
     "venue_id": "issue-project-room",
@@ -3322,28 +2704,6 @@
     "discovered_at": "2026-10-07T07:22:33.858Z"
   },
   {
-    "id": "pioneer-works-2026-10-29-leenalchi",
-    "title": "Leenalchi",
-    "venue_id": "pioneer-works",
-    "venue_name": "Pioneer Works",
-    "date": "2026-10-29",
-    "time_start": "19:00",
-    "description": "Seoul alternative band blending Korea's pansori tradition with bass-forward grooves and striking visuals. WMI Next Gen Series.",
-    "url": "https://worldmusicinstitute.org",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "pansori"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:22:33.956Z"
-  },
-  {
     "id": "adler-hall-2026-11-05-niladri-kumaar",
     "title": "Niladri Kumaar",
     "venue_id": "adler-hall",
@@ -3398,105 +2758,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-07T07:22:34.063Z"
-  },
-  {
-    "id": "columbia-science-society-2026-10-28-the-tin-centuries-technology-and-statecr",
-    "title": "The Tin Centuries: Technology and Statecraft in Qing China",
-    "venue_id": "columbia-science-society",
-    "venue_name": "Columbia Center for Science and Society",
-    "date": "2026-10-28",
-    "time_start": "18:30",
-    "time_end": "20:00",
-    "description": "Book launch and conversation on how a mundane metal bound miners and officials to global capitalism and an emerging technocratic state in early modern China.",
-    "url": "https://scienceandsociety.columbia.edu",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Science & Technology Studies / History of Science"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:23:05.151Z"
-  },
-  {
-    "id": "nitehawk-2026-10-28-the-craft-w-drag-pre-show-",
-    "title": "The Craft (w/ drag pre-show)",
-    "venue_id": "nitehawk",
-    "venue_name": "Nitehawk Cinema",
-    "date": "2026-10-28",
-    "description": "Miss Malice Presents gets witchy with a drag pre-show ahead of a screening of The Craft.",
-    "url": "https://nitehawkcinema.com",
-    "format": "screening",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:23:05.167Z"
-  },
-  {
-    "id": "asia-society-2026-10-28-our-hearts-burned-for-home-book-talk-wit",
-    "title": "Our Hearts Burned for Home: Book Talk with Emily Feng and Michael Forsythe",
-    "venue_id": "asia-society",
-    "venue_name": "Asia Society",
-    "date": "2026-10-28",
-    "time_start": "18:30",
-    "time_end": "20:00",
-    "description": "NPR's Emily Feng discusses her reportage tracing Uyghurs who fled China's surveillance state only to end up in the Syrian Civil War, with the New York Times' Michael Forsythe.",
-    "url": "https://asiasociety.org",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Language & Culture"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:23:05.212Z"
-  },
-  {
-    "id": "asia-society-2026-10-31-film-screening-retribution",
-    "title": "Film Screening: Retribution",
-    "venue_id": "asia-society",
-    "venue_name": "Asia Society",
-    "date": "2026-10-31",
-    "time_start": "18:30",
-    "time_end": "20:15",
-    "description": "Kiyoshi Kurosawa's ghost story follows a detective haunted by a murder victim as an earthquake threatens the city.",
-    "url": "https://asiasociety.org",
-    "format": "screening",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:23:05.212Z"
-  },
-  {
-    "id": "anthology-film-archives-2026-10-31-ec-hollis-frampton",
-    "title": "EC: Hollis Frampton",
-    "venue_id": "anthology-film-archives",
-    "venue_name": "Anthology Film Archives",
-    "date": "2026-10-31",
-    "time_start": "17:30",
-    "description": "Essential Cinema program devoted to Hollis Frampton, a foundational figure of structural/experimental American cinema.",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61923",
-    "format": "screening",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Experimental Animation & Moving Image",
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:23:52.371Z"
   },
   {
     "id": "bitforms-2027-04-01-time-frames-siebren-versteeg",
@@ -3657,27 +2918,6 @@
     "discovered_at": "2026-10-07T07:36:31.752Z"
   },
   {
-    "id": "elsewhere-2026-10-30-guerilla-toss-ben-katzman-s-degreaser",
-    "title": "Guerilla Toss, Ben Katzman's Degreaser",
-    "venue_id": "elsewhere",
-    "venue_name": "Elsewhere",
-    "date": "2026-10-30",
-    "time_start": "19:00",
-    "description": "Experimental art-punk/noise-pop band Guerilla Toss performs in Zone One with Ben Katzman's Degreaser.",
-    "url": "https://www.elsewhere.club/events/2001020403894",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [
-      "noise"
-    ],
-    "matched_categories": [
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-07T07:37:43.086Z"
-  },
-  {
     "id": "elsewhere-2026-11-05-deerhoof-mercy-my-trio",
     "title": "Deerhoof, Mercy, My Trio",
     "venue_id": "elsewhere",
@@ -3733,51 +2973,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-07T07:37:43.108Z"
-  },
-  {
-    "id": "amant-2026-10-29-autodrama-with-gary-zhexi-zhang",
-    "title": "Autodrama with Gary Zhexi Zhang",
-    "venue_id": "amant",
-    "venue_name": "Amant",
-    "date": "2026-10-29",
-    "time_start": "19:00",
-    "time_end": "21:00",
-    "description": "Resident artist Gary Zhexi Zhang presents a performance lecture centered on his experiments with autonomous actors staged within a self-directing game engine, exploring parasociality and the cybernetics of identity.",
-    "price": "free",
-    "format": "performance",
-    "interest_score": 5,
-    "tags": [
-      "cybernetics",
-      "game-engine"
-    ],
-    "matched_categories": [
-      "Experimental Animation & Moving Image",
-      "Philosophy & Critical Theory",
-      "Games & Interactive"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-11T07:25:38.492Z"
-  },
-  {
-    "id": "museum-of-moving-image-2026-10-30-seeing-the-cinema-theaters-on-screen-goo",
-    "title": "Seeing the Cinema: Theaters on Screen – Goodbye, Dragon Inn",
-    "venue_id": "museum-of-moving-image",
-    "venue_name": "Museum of the Moving Image",
-    "date": "2026-10-30",
-    "description": "The new ongoing screening series pairing the movie-theater-themed photography exhibition with films about cinema-going begins with Tsai Ming-liang's Goodbye, Dragon Inn.",
-    "format": "screening",
-    "interest_score": 3,
-    "tags": [
-      "photography"
-    ],
-    "matched_categories": [
-      "Film & Cinema",
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-11T07:25:38.569Z"
   },
   {
     "id": "nitehawk-2027-04-07-nitehawk-shorts-festival-2027",
@@ -3953,74 +3148,6 @@
     "discovered_at": "2026-10-11T07:26:52.482Z"
   },
   {
-    "id": "abrons-arts-center-2026-10-30-artist-to-artist-convening",
-    "title": "Artist to Artist Convening",
-    "venue_id": "abrons-arts-center",
-    "venue_name": "Abrons Arts Center",
-    "date": "2026-10-30",
-    "time_start": "17:30",
-    "time_end": "20:30",
-    "description": "A gathering and discussion event bringing artists together at Abrons Arts Center to share practice and ideas.",
-    "url": "https://abronsartscenter.org/programs/Fall2025-artisttoartist",
-    "format": "conference",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-11T07:35:54.047Z"
-  },
-  {
-    "id": "roulette-2026-10-28-live-processing-paint-and-sound-liz-phil",
-    "title": "Live Processing Paint and Sound: Liz Phillips and Heidi Howard",
-    "venue_id": "roulette",
-    "venue_name": "Roulette",
-    "date": "2026-10-28",
-    "time_start": "20:00",
-    "description": "Interactive sound art pioneer Liz Phillips and painter/sculptor Heidi Howard celebrate Harvestworks' 50th anniversary, plus a conversation with e-flux Performance Curator Sanna Almajedi.",
-    "url": "https://roulette.org/event/live-processing-paint-sound-liz-phillips-heidi-howard/",
-    "price": "$25",
-    "format": "performance",
-    "interest_score": 4,
-    "tags": [
-      "sound-art"
-    ],
-    "matched_categories": [
-      "Art & Technology",
-      "Contemporary Art",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-11T07:36:00.468Z"
-  },
-  {
-    "id": "roulette-2026-10-30-memory-as-a-rock-out-of-reach-ema-and-ta",
-    "title": "Memory as a Rock Out of Reach: EMA and Tabitha Nikolai",
-    "venue_id": "roulette",
-    "venue_name": "Roulette",
-    "date": "2026-10-30",
-    "time_start": "20:00",
-    "description": "A duet of video game visuals, modular synth, guitar, and voice exploring the psycho-sexual inner world of a girl-child in the '80s.",
-    "url": "https://roulette.org/event/erika-m-anderson-ema-tabitha-nikolai/",
-    "price": "$25",
-    "format": "performance",
-    "interest_score": 4,
-    "tags": [
-      "modular-synth"
-    ],
-    "matched_categories": [
-      "Experimental Animation & Moving Image",
-      "Games & Interactive",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-11T07:36:00.468Z"
-  },
-  {
     "id": "roulette-2026-11-03-cecilia-lopez-s-filter-four-melissa-alma",
     "title": "Cecilia Lopez's Filter Four // Melissa Almaguer",
     "venue_id": "roulette",
@@ -4180,65 +3307,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-11T07:42:27.206Z"
-  },
-  {
-    "id": "elsewhere-2026-10-28-julio-torres-presents-the-cursed-amulet-",
-    "title": "Julio Torres Presents: The Cursed Amulet III",
-    "venue_id": "elsewhere",
-    "venue_name": "Elsewhere",
-    "date": "2026-10-28",
-    "time_start": "21:00",
-    "description": "Comedian/artist Julio Torres hosts a surreal, absurdist variety show full of speculative and fantastical bits, the third installment of The Cursed Amulet.",
-    "url": "https://www.elsewhere.club/events/2002969188762",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Worldbuilding & Speculative Design",
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-11T07:42:34.903Z"
-  },
-  {
-    "id": "elsewhere-2026-10-30-elsewhere-presents-the-hellp-dj-set-99-s",
-    "title": "Elsewhere Presents: The Hellp (DJ Set) @ 99 Scott",
-    "venue_id": "elsewhere",
-    "venue_name": "Elsewhere",
-    "date": "2026-10-30",
-    "time_start": "22:00",
-    "description": "Elsewhere-presented DJ set from hyperpop/electronic act The Hellp at 99 Scott.",
-    "url": "https://www.elsewhere.club/presents/2000656207573",
-    "format": "music",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-11T07:42:34.905Z"
-  },
-  {
-    "id": "columbia-heyman-2026-10-29-edward-said-jonathan-swift-and-the-deman",
-    "title": "Edward Said, Jonathan Swift, and the Demands of Literature",
-    "venue_id": "columbia-heyman",
-    "venue_name": "Columbia Society of Fellows / Heyman Center",
-    "date": "2026-10-29",
-    "time_start": "18:15",
-    "description": "Helen Deutsch delivers the Edward W. Said Memorial Lecture on Said's unfinished conversation with Jonathan Swift, at the Italian Academy.",
-    "url": "https://sof-heyman.columbia.edu/events",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Philosophy & Critical Theory"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-14T07:17:50.087Z"
   },
   {
     "id": "nitehawk-2026-11-02-darkroom-screening-salon",
@@ -4515,51 +3583,6 @@
     "discovered_at": "2026-10-14T07:28:38.417Z"
   },
   {
-    "id": "anthology-film-archives-2026-10-29-ec-the-fall-of-the-house-of-usher",
-    "title": "EC: The Fall of the House of Usher",
-    "venue_id": "anthology-film-archives",
-    "venue_name": "Anthology Film Archives",
-    "date": "2026-10-29",
-    "time_start": "19:00",
-    "description": "Avant-garde silent adaptation of Poe's 'The Fall of the House of Usher,' screened as part of the Essential Cinema repertory series.",
-    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61920",
-    "format": "screening",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Experimental animation, video art, moving image, game engine cinema",
-      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-14T07:28:38.454Z"
-  },
-  {
-    "id": "anthology-film-archives-2026-10-31-ec-franju-genet",
-    "title": "EC: Franju / Genet",
-    "venue_id": "anthology-film-archives",
-    "venue_name": "Anthology Film Archives",
-    "date": "2026-10-31",
-    "time_start": "20:00",
-    "description": "Program pairing Georges Franju's poetic-realist horror with Jean Genet's landmark queer experimental film 'Un Chant d'Amour,' screened as part of the Essential Cinema repertory series.",
-    "url": "https://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-61924",
-    "format": "screening",
-    "interest_score": 4,
-    "tags": [
-      "experimental-film",
-      "horror"
-    ],
-    "matched_categories": [
-      "Experimental animation, video art, moving image, game engine cinema",
-      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
-      "Experimental Animation & Moving Image",
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-14T07:28:38.455Z"
-  },
-  {
     "id": "architectural-league-2026-11-11-from-field-to-form-ocean-flora",
     "title": "From Field to Form: Ocean Flora",
     "venue_id": "architectural-league",
@@ -4577,27 +3600,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-14T07:34:53.535Z"
-  },
-  {
-    "id": "architectural-league-2026-10-29-after-hours-new-york-city-school-constru",
-    "title": "After Hours: New York City School Construction Authority",
-    "venue_id": "architectural-league",
-    "venue_name": "Architectural League of New York",
-    "date": "2026-10-29",
-    "time_start": "18:00",
-    "time_end": "20:00",
-    "description": "League members visit the NYC School Construction Authority's Long Island City office for a behind-the-scenes studio visit.",
-    "url": "https://archleague.org/event/after-hours-nycsca/",
-    "price": "members only",
-    "format": "tour",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & urbanism"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-14T07:34:53.534Z"
   },
   {
     "id": "architectural-league-2026-11-19-after-hours-inc-architecture-design",
@@ -4813,28 +3815,6 @@
     "discovered_at": "2026-10-14T07:42:04.038Z"
   },
   {
-    "id": "the-kitchen-2026-10-28-reading-discussion-series-josiah-mcelhen",
-    "title": "Reading & Discussion Series: Josiah McElheny's Instrument Object (Session 2)",
-    "venue_id": "the-kitchen",
-    "venue_name": "The Kitchen",
-    "date": "2026-10-28",
-    "time_start": "18:00",
-    "time_end": "20:00",
-    "description": "Second session of The Kitchen's reading and discussion series accompanying Josiah McElheny: Instrument Object, exploring how art is in conversation with the past, present, and future through shared readings and discussion.",
-    "price": "free",
-    "format": "reading",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Philosophy & Critical Theory",
-      "Sound & Music",
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:18:04.490Z"
-  },
-  {
     "id": "the-kitchen-2026-11-04-reading-discussion-series-josiah-mcelhen",
     "title": "Reading & Discussion Series: Josiah McElheny's Instrument Object (Session 3)",
     "venue_id": "the-kitchen",
@@ -4876,23 +3856,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-18T07:18:04.491Z"
-  },
-  {
-    "id": "la-mama-2026-10-30-global-indigenous-theatre-festival",
-    "title": "Global Indigenous Theatre Festival",
-    "venue_id": "la-mama",
-    "venue_name": "La MaMa",
-    "date": "2026-10-30",
-    "description": "A multi-day festival at La MaMa showcasing Indigenous theatre-makers and performance traditions from around the world; runs October 30 through November 7.",
-    "format": "festival",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Language & Culture"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:18:04.541Z"
   },
   {
     "id": "union-docs-2026-11-05-a-radical-thread-with-jeanne-c-finley-an",
@@ -4972,23 +3935,6 @@
     "discovered_at": "2026-10-18T07:18:04.835Z"
   },
   {
-    "id": "japan-society-2026-10-28-annual-sake-tasting",
-    "title": "Annual Sake Tasting",
-    "venue_id": "japan-society",
-    "venue_name": "Japan Society",
-    "date": "2026-10-28",
-    "description": "Brooklyn Kura's Brandon Doughan and sake expert Timothy Sullivan open the evening with a talk on American craft sake and Japanese tradition, followed by tastings from local and historic Japanese breweries.",
-    "format": "other",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Language & Culture"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:18:04.874Z"
-  },
-  {
     "id": "museum-of-moving-image-2026-11-22-momi-merch-meet",
     "title": "MoMI Merch Meet",
     "venue_id": "museum-of-moving-image",
@@ -5029,63 +3975,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-18T07:18:04.950Z"
-  },
-  {
-    "id": "brooklyn-rail-2026-10-28-the-new-social-environment-lauren-levato",
-    "title": "The New Social Environment: Lauren Levato Coyne — Medusa's Bestiary",
-    "venue_id": "brooklyn-rail",
-    "venue_name": "The Brooklyn Rail",
-    "date": "2026-10-28",
-    "time_start": "13:00",
-    "description": "Artist Lauren Levato Coyne joins critic Chenoa Baker for a Zoom conversation on the occasion of Medusa's Bestiary: Embodiments & Ecologies.",
-    "format": "talk",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art",
-      "Climate & Environment"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:18:04.968Z"
-  },
-  {
-    "id": "brooklyn-rail-2026-10-29-the-new-social-environment-aesthetic-con",
-    "title": "The New Social Environment: Aesthetic Confessions — 10 Years of Magenta Plains",
-    "venue_id": "brooklyn-rail",
-    "venue_name": "The Brooklyn Rail",
-    "date": "2026-10-29",
-    "time_start": "13:00",
-    "description": "Magenta Plains co-founders Olivia Smith, Chris Dorland, and David Deutsch join Andrew Woolbright for a Zoom conversation celebrating the gallery's 10th anniversary.",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:18:04.968Z"
-  },
-  {
-    "id": "maysles-documentary-center-2026-10-30-nonfiction-by-any-means-necessary",
-    "title": "NONFICTION BY ANY MEANS NECESSARY",
-    "venue_id": "maysles-documentary-center",
-    "venue_name": "Maysles Documentary Center",
-    "date": "2026-10-30",
-    "description": "Documentary program \"Nonfiction by Any Means Necessary\" at Maysles Documentary Center.",
-    "url": "https://www.maysles.org/calendar/nonfiction-by-any-means-necessary",
-    "format": "screening",
-    "interest_score": 2.1,
-    "tags": [
-      "documentary"
-    ],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:20:23.514Z"
   },
   {
     "id": "simons-foundation-2026-11-20-a-universe-of-grief",
@@ -5312,27 +4201,6 @@
     "discovered_at": "2026-10-18T07:27:50.589Z"
   },
   {
-    "id": "poetry-project-2026-10-28-weakness-and-strength-five-session-works",
-    "title": "Weakness and Strength; Five-Session Workshop with Benjamin Krusling",
-    "venue_id": "poetry-project",
-    "venue_name": "The Poetry Project",
-    "date": "2026-10-28",
-    "time_start": "19:00",
-    "time_end": "21:00",
-    "description": "A five-session poetry workshop (running through Nov 25) led by poet Benjamin Krusling.",
-    "url": "https://www.poetryproject.org/events/weakness-and-strength-five-session-workshop-with-benjamin-krusling",
-    "price": "$200",
-    "format": "workshop",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Language & Culture"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:31:09.386Z"
-  },
-  {
     "id": "public-records-2026-11-15-durations-new-people-s-cinema-club-x-uns",
     "title": "DURATIONS: New People's Cinema Club x Unsound New York present River Of Fundament: In Conversation with Matthew Barney & Jonathan Bepler, moderated by Andy Battaglia",
     "venue_id": "public-records",
@@ -5356,28 +4224,6 @@
     "discovered_at": "2026-10-18T07:31:09.467Z"
   },
   {
-    "id": "public-records-2026-10-30-unsound-new-york-listening-session-jim-o",
-    "title": "Unsound New York: Listening session: Jim O'Rourke and Eiko Ishibashi present 'Kotonski Reworked'",
-    "venue_id": "public-records",
-    "venue_name": "Public Records",
-    "date": "2026-10-30",
-    "time_start": "17:30",
-    "description": "A listening session presented by the experimental/avant-garde Unsound festival, featuring major experimental musicians Jim O'Rourke and Eiko Ishibashi reworking composer Kotonski's work.",
-    "url": "https://link.dice.fm/b6924d5d7e3f",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "experimental-music"
-    ],
-    "matched_categories": [
-      "Sound & Music",
-      "Art & Technology"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:31:09.464Z"
-  },
-  {
     "id": "elsewhere-2026-11-09-adult-a-place-to-bury-strangers-kill-alt",
     "title": "ADULT. + A Place to Bury Strangers, Kill Alters",
     "venue_id": "elsewhere",
@@ -5397,50 +4243,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-18T07:32:23.177Z"
-  },
-  {
-    "id": "terraza-7-2026-10-30-baracutanga-south-american-roots-experie",
-    "title": "Baracutanga | South American Roots Experience (First Set)",
-    "venue_id": "terraza-7",
-    "venue_name": "Terraza 7",
-    "date": "2026-10-30",
-    "time_start": "19:00",
-    "description": "Baracutanga performs a blend of cumbia, chicha, and Andean folk traditions drawing on South American roots music.",
-    "url": "https://www.terraza7.com/detalles-y-registro/baracutanga-south-american-roots-experience-first-set-2",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "cumbia",
-      "andean"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:32:33.796Z"
-  },
-  {
-    "id": "terraza-7-2026-10-30-baracutanga-south-american-roots-experie",
-    "title": "Baracutanga | South American Roots Experience (Second Set)",
-    "venue_id": "terraza-7",
-    "venue_name": "Terraza 7",
-    "date": "2026-10-30",
-    "time_start": "21:00",
-    "description": "Second set of Baracutanga's South American roots program, blending cumbia, chicha, and Andean folk traditions.",
-    "url": "https://www.terraza7.com/detalles-y-registro/baracutanga-south-american-roots-experience-second-set-1",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "cumbia",
-      "andean"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-18T07:32:33.796Z"
   },
   {
     "id": "film-forum-2026-11-20-rossellini-120",
@@ -5701,25 +4503,6 @@
     "discovered_at": "2026-10-21T07:22:58.195Z"
   },
   {
-    "id": "green-wood-2026-10-30-hereafter-hours",
-    "title": "Hereafter Hours",
-    "venue_id": "green-wood",
-    "venue_name": "Green-Wood Cemetery",
-    "date": "2026-10-30",
-    "time_start": "19:00",
-    "time_end": "21:00",
-    "description": "After-dark walking tour of Green-Wood Cemetery's monuments and mausoleums, with rare access to the Catacombs.",
-    "url": "https://www.green-wood.com/event/hereafter-hours-4/",
-    "price": null,
-    "format": "tour",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-21T07:27:45.027Z"
-  },
-  {
     "id": "bam-2027-05-28-danceafrica-50",
     "title": "DanceAfrica 50",
     "venue_id": "bam",
@@ -5737,25 +4520,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-21T07:34:34.995Z"
-  },
-  {
-    "id": "cooper-union-2026-10-29-primers-for-a-handmade-utopia",
-    "title": "PRIMERS FOR A HANDMADE UTOPIA",
-    "venue_id": "cooper-union",
-    "venue_name": "Cooper Union",
-    "date": "2026-10-29",
-    "description": "An exhibition at Cooper Union's architecture school exploring handmade, utopian design approaches, on view October 8 through 29, 2026.",
-    "url": "https://cooper.edu/architecture/exhibitions/primers-handmade-utopia",
-    "format": "gallery",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Worldbuilding, speculative design, design fiction",
-      "Architecture & urbanism"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-21T07:34:35.019Z"
   },
   {
     "id": "danspace-project-2026-12-18-juliette-mapp-vicky-shick",
@@ -5815,50 +4579,6 @@
     "discovered_at": "2026-10-21T07:34:36.408Z"
   },
   {
-    "id": "the-new-school-2026-10-28-joyce-joumaa-provisional-recovery",
-    "title": "Joyce Joumaa: Provisional Recovery",
-    "venue_id": "the-new-school",
-    "venue_name": "The New School",
-    "date": "2026-10-28",
-    "time_start": "19:00",
-    "time_end": "20:30",
-    "description": "Parsons Visiting Artist Lecture by Vera List Center Fellow Joyce Joumaa on image, documentation and collapse as a condition to be inhabited, including her fellowship project Calibrated Alien.",
-    "url": "",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Experimental animation / video art / moving image",
-      "Philosophy / critical theory / media theory"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-21T07:38:16.220Z"
-  },
-  {
-    "id": "the-new-school-2026-10-29-eyal-weizman-ungrounding",
-    "title": "Eyal Weizman: Ungrounding",
-    "venue_id": "the-new-school",
-    "venue_name": "The New School",
-    "date": "2026-10-29",
-    "time_start": "18:30",
-    "time_end": "20:00",
-    "description": "Lecture and book launch with Forensic Architecture founder Eyal Weizman on violence, territory and the built environment in Gaza and Palestine.",
-    "url": "",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & urbanism",
-      "Philosophy / critical theory / media theory"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-21T07:38:16.221Z"
-  },
-  {
     "id": "the-new-school-2026-12-12-war-trash",
     "title": "War Trash",
     "venue_id": "the-new-school",
@@ -5902,51 +4622,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-21T07:38:16.255Z"
-  },
-  {
-    "id": "guggenheim-2026-10-30-2026-fall-teen-fest-imagining-futures",
-    "title": "2026 Fall Teen Fest: Imagining Futures",
-    "venue_id": "guggenheim",
-    "venue_name": "Guggenheim",
-    "date": "2026-10-30",
-    "time_start": "16:00",
-    "time_end": "18:00",
-    "description": "Teen program (ages 13-19) with activations on imagining futures led by educator/comedian Sam Anzer, storyteller Natali Nicole, and Urban Word.",
-    "url": "",
-    "price": "free",
-    "format": "workshop",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Worldbuilding / speculative design"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-21T07:38:16.270Z"
-  },
-  {
-    "id": "nitehawk-2026-10-30-begotten-4k-restoration-",
-    "title": "Begotten (4K restoration)",
-    "venue_id": "nitehawk",
-    "venue_name": "Nitehawk Cinema",
-    "date": "2026-10-30",
-    "time_start": "00:00",
-    "description": "New 4K restoration of the experimental horror film Begotten, screening at midnight for Halloween weekend (also Oct 31).",
-    "url": "",
-    "price": "varies",
-    "format": "screening",
-    "interest_score": 4,
-    "tags": [
-      "horror",
-      "restoration"
-    ],
-    "matched_categories": [
-      "Film & cinema",
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-21T07:38:16.308Z"
   },
   {
     "id": "nitehawk-2026-11-04-you-can-color-outside-the-lines-the-stor",
@@ -6040,70 +4715,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-21T07:39:18.010Z"
-  },
-  {
-    "id": "bard-graduate-center-2026-10-29-exhibition-tour-goddesses-in-the-machine",
-    "title": "Exhibition Tour: Goddesses in the Machine: Fashion in American Silent Film",
-    "venue_id": "bard-graduate-center",
-    "venue_name": "Bard Graduate Center",
-    "date": "2026-10-29",
-    "time_start": "12:30",
-    "time_end": "13:15",
-    "description": "A weekly Thursday gallery tour of the Goddesses in the Machine: Fashion in American Silent Film exhibition, led by a Bard Graduate Center gallery educator.",
-    "url": "https://bgc.bard.edu",
-    "format": "tour",
-    "interest_score": 2.1,
-    "tags": [
-      "silent-film"
-    ],
-    "matched_categories": [
-      "Film & Cinema",
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.528Z"
-  },
-  {
-    "id": "bard-graduate-center-2026-10-29-exhibition-tour-goddesses-in-the-machine",
-    "title": "Exhibition Tour: Goddesses in the Machine",
-    "venue_id": "bard-graduate-center",
-    "venue_name": "Bard Graduate Center",
-    "date": "2026-10-29",
-    "time_start": "12:30",
-    "time_end": "13:15",
-    "description": "Weekly Thursday gallery tour led by a Bard Graduate Center gallery educator through Goddesses in the Machine: Fashion in American Silent Film.",
-    "url": "https://www.bgc.bard.edu",
-    "format": "tour",
-    "interest_score": 2.1,
-    "tags": [
-      "silent-film"
-    ],
-    "matched_categories": [
-      "Contemporary Art",
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.528Z"
-  },
-  {
-    "id": "anthology-film-archives-2026-10-28-lost-found-el-guardi-n-u-s-premiere-",
-    "title": "Lost & Found: El Guardián (U.S. Premiere)",
-    "venue_id": "anthology-film-archives",
-    "venue_name": "Anthology Film Archives",
-    "date": "2026-10-28",
-    "description": "The U.S. premiere of Nuria Ibáñez's striking fiction debut about a beach watchman on Mexico's Baja California coast confronting the elusiveness of justice and the fragile boundary between duty and survival.",
-    "url": "https://anthologyfilmarchives.org",
-    "format": "screening",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.551Z"
   },
   {
     "id": "anthology-film-archives-2026-11-01-book-release-event-twenty-years-later-a-",
@@ -6404,25 +5015,6 @@
     "discovered_at": "2026-10-25T07:17:24.607Z"
   },
   {
-    "id": "museum-of-moving-image-2026-10-30-sneak-preview-the-meltdown-el-deshielo-",
-    "title": "Sneak Preview: The Meltdown (El deshielo)",
-    "venue_id": "museum-of-moving-image",
-    "venue_name": "Museum of the Moving Image",
-    "date": "2026-10-30",
-    "time_start": "19:00",
-    "description": "A sneak preview, with director Manuela Martelli in person, of Chile's 2027 Oscar submission The Meltdown, set in 1992 against the backdrop of Chile's post-Pinochet economic transformation; part of Las Premieres.",
-    "url": "https://movingimage.org",
-    "format": "screening",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.625Z"
-  },
-  {
     "id": "museum-of-moving-image-2026-11-01-kubrick-the-shining-international-releas",
     "title": "Kubrick: The Shining (International Release Cut U.S. Theatrical Premiere)",
     "venue_id": "museum-of-moving-image",
@@ -6485,67 +5077,6 @@
     "discovered_at": "2026-10-25T07:17:24.624Z"
   },
   {
-    "id": "asia-society-2026-10-31-retribution-screening",
-    "title": "Retribution Screening",
-    "venue_id": "asia-society",
-    "venue_name": "Asia Society",
-    "date": "2026-10-31",
-    "time_start": "18:30",
-    "description": "Asia Society and the editors of Narrow Margin screen Kiyoshi Kurosawa's Retribution, celebrating the director's chronicling of anomie and social malaise in contemporary Japanese cinema.",
-    "url": "https://asiasociety.org",
-    "format": "screening",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.651Z"
-  },
-  {
-    "id": "asia-society-2026-10-28-emily-feng-with-michael-forsythe-our-hea",
-    "title": "Emily Feng with Michael Forsythe: Our Hearts Burned for Home",
-    "venue_id": "asia-society",
-    "venue_name": "Asia Society",
-    "date": "2026-10-28",
-    "time_start": "18:30",
-    "time_end": "20:00",
-    "description": "NPR correspondent Emily Feng discusses her book on Uyghur families and militants who fled China's surveillance state into the Syrian Civil War, in conversation with New York Times journalist Michael Forsythe.",
-    "url": "https://asiasociety.org",
-    "price": "varies",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Language & Culture"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.651Z"
-  },
-  {
-    "id": "asia-society-2026-10-30-xiao-hai-with-tony-hao-adrift-in-the-sou",
-    "title": "Xiao Hai with Tony Hao: Adrift in the South",
-    "venue_id": "asia-society",
-    "venue_name": "Asia Society",
-    "date": "2026-10-30",
-    "time_start": "18:30",
-    "time_end": "20:00",
-    "description": "Xiao Hai discusses his autobiographical account of 23 years as a migrant laborer across seven Chinese cities, in conversation with translator Tony Hao, moderated by China Books Review editor Alec Ash.",
-    "url": "https://asiasociety.org",
-    "price": "varies",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Language & Culture"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.651Z"
-  },
-  {
     "id": "asia-society-2026-11-20-jung-chang-with-jiayang-fan-fly-wild-swa",
     "title": "Jung Chang with Jiayang Fan: Fly, Wild Swans",
     "venue_id": "asia-society",
@@ -6605,48 +5136,6 @@
     "discovered_at": "2026-10-25T07:17:24.682Z"
   },
   {
-    "id": "barbes-2026-10-28-shoko-nagai-s-tokala",
-    "title": "Shoko Nagai's Tokala",
-    "venue_id": "barbes",
-    "venue_name": "Barbès",
-    "date": "2026-10-28",
-    "time_start": "20:00",
-    "description": "Accordionist/vocalist Shoko Nagai and percussionist Satoshi Takeishi explore the Silk Road-to-Japan musical connection, with a special guest.",
-    "url": "https://www.barbesbrooklyn.com/",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "World Music & Global Traditions",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.701Z"
-  },
-  {
-    "id": "barbes-2026-10-30-dingonek-street-band",
-    "title": "Dingonek Street Band",
-    "venue_id": "barbes",
-    "venue_name": "Barbès",
-    "date": "2026-10-30",
-    "time_start": "22:00",
-    "description": "A brass band joyfully mixing Afrobeat, Ethio-jazz, punk rock, post-bop, and Balkan brass music.",
-    "url": "https://www.barbesbrooklyn.com/",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "afrobeat",
-      "balkan"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.701Z"
-  },
-  {
     "id": "barbes-2026-11-01-clube-do-choro-with-regional-samauma",
     "title": "Clube do Choro with Regional Samauma",
     "venue_id": "barbes",
@@ -6666,105 +5155,6 @@
     "discovered_at": "2026-10-25T07:17:24.702Z"
   },
   {
-    "id": "barbes-2026-10-28-slavic-soul-party",
-    "title": "Slavic Soul Party",
-    "venue_id": "barbes",
-    "venue_name": "Barbès",
-    "date": "2026-10-28",
-    "time_start": "21:00",
-    "description": "Weekly Balkan brass band bacchanalia.",
-    "url": "https://www.barbesbrooklyn.com/",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [
-      "balkan"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.700Z"
-  },
-  {
-    "id": "barbes-2026-10-28-mamady-kouyate-s-mandingo-ambassadors",
-    "title": "Mamady Kouyate's Mandingo Ambassadors",
-    "venue_id": "barbes",
-    "venue_name": "Barbès",
-    "date": "2026-10-28",
-    "time_start": "22:00",
-    "description": "Guinean 70s funk from a master of the legendary Syliphone label.",
-    "url": "https://www.barbesbrooklyn.com/",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.701Z"
-  },
-  {
-    "id": "barbes-2026-10-29-jenny-scheinman-all-species-parade",
-    "title": "Jenny Scheinman: All Species Parade",
-    "venue_id": "barbes",
-    "venue_name": "Barbès",
-    "date": "2026-10-29",
-    "time_start": "19:00",
-    "description": "Violinist Jenny Scheinman performs two sets (7 and 9pm) with Carmen Staaf (piano), Kenny Wollesen (drums), Steve Cardenas (guitar), and Tony Scherr (bass).",
-    "url": "https://www.barbesbrooklyn.com/",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.701Z"
-  },
-  {
-    "id": "barbes-2026-10-30-erik-della-penna-s-byzantine-stompers",
-    "title": "Erik Della Penna's Byzantine Stompers",
-    "venue_id": "barbes",
-    "venue_name": "Barbès",
-    "date": "2026-10-30",
-    "time_start": "20:00",
-    "description": "An \"archaeological dig into ancient music\" blending Mediterranean antiquity and American roots music, with Erik Della Penna (guitars, vocals), Daisy Castro (violin), and Wade Schuman (harmonicas).",
-    "url": "https://www.barbesbrooklyn.com/",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.701Z"
-  },
-  {
-    "id": "nyu-game-center-2026-10-29-playtest-thursday",
-    "title": "Playtest Thursday",
-    "venue_id": "nyu-game-center",
-    "venue_name": "NYU Game Center",
-    "date": "2026-10-29",
-    "time_start": "17:30",
-    "time_end": "19:30",
-    "description": "Open playtesting session where NYU Game Center community members and external guest designers test works-in-progress games.",
-    "url": "https://gamecenter.nyu.edu",
-    "price": "free",
-    "format": "workshop",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Games & Interactive"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.725Z"
-  },
-  {
     "id": "drom-2026-11-08-farah-siraj-featuring-javier-lim-n-miel-",
     "title": "Farah Siraj featuring Javier Limón: 'Miel y Limón'",
     "venue_id": "drom",
@@ -6782,24 +5172,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-25T07:17:24.774Z"
-  },
-  {
-    "id": "film-at-lincoln-center-2026-10-30-the-devils-on-35mm",
-    "title": "The Devils on 35mm",
-    "venue_id": "film-at-lincoln-center",
-    "venue_name": "Film at Lincoln Center",
-    "date": "2026-10-30",
-    "description": "By popular demand, Ken Russell's infamous, long-censored adaptation of Aldous Huxley's novel resumes its record-breaking run on 35mm for Halloween weekend.",
-    "url": "https://www.filmlinc.org",
-    "format": "screening",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:17:24.848Z"
   },
   {
     "id": "printed-matter-2026-11-04-charles-bernstein-richard-tuttle-charles",
@@ -6999,27 +5371,6 @@
     "discovered_at": "2026-10-25T07:23:13.828Z"
   },
   {
-    "id": "bitforms-2026-10-29-lajun-mcmillian-to-see-for-oneself-openi",
-    "title": "LaJuné McMillian: To See for Oneself (Opening Reception)",
-    "venue_id": "bitforms",
-    "venue_name": "bitforms gallery",
-    "date": "2026-10-29",
-    "time_start": "18:00",
-    "time_end": "20:00",
-    "description": "Opening reception for LaJuné McMillian's new solo exhibition 'To See for Oneself' at bitforms gallery; the show, which engages digital/motion-capture media and the body, runs through January 9, 2027.",
-    "url": "https://www.bitforms.art/exhibition/to-see-for-oneself",
-    "format": "opening",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Art & Technology",
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:23:14.536Z"
-  },
-  {
     "id": "interference-archive-2026-11-08-changing-lanes-anti-car-films",
     "title": "Changing Lanes & Anti-Car Films",
     "venue_id": "interference-archive",
@@ -7059,26 +5410,6 @@
     "discovered_at": "2026-10-25T07:23:15.204Z"
   },
   {
-    "id": "maysles-documentary-center-2026-10-31-true-north",
-    "title": "True North",
-    "venue_id": "maysles-documentary-center",
-    "venue_name": "Maysles Documentary Center",
-    "date": "2026-10-31",
-    "description": "Documentary film screening at Maysles Documentary Center.",
-    "url": "https://www.maysles.org/calendar/true-north",
-    "format": "screening",
-    "interest_score": 3,
-    "tags": [
-      "documentary"
-    ],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:23:15.204Z"
-  },
-  {
     "id": "wonderville-2026-11-01-video-art-experimental-film-bingo",
     "title": "Video Art & Experimental Film Bingo",
     "venue_id": "wonderville",
@@ -7098,106 +5429,6 @@
     "matched_categories": [
       "Experimental Animation & Moving Image",
       "Games & Interactive"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:23:15.249Z"
-  },
-  {
-    "id": "wonderville-2026-10-28-killer-queen-open-hive-night",
-    "title": "Killer Queen Open Hive Night",
-    "venue_id": "wonderville",
-    "venue_name": "Wonderville",
-    "date": "2026-10-28",
-    "time_start": "20:00",
-    "description": "An open-play community night at Wonderville centered on the cooperative/competitive arcade cabinet game Killer Queen.",
-    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-10-28-26",
-    "format": "other",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Games & Interactive"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:23:15.248Z"
-  },
-  {
-    "id": "wonderville-2026-10-30-the-fort90-broadcast-system-presents-for",
-    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV (\"FEAR CITY SCREAMS\" OR \"FEAR CITY'S STREAM\" part 2)",
-    "venue_id": "wonderville",
-    "venue_name": "Wonderville",
-    "date": "2026-10-30",
-    "time_start": "23:00",
-    "description": "Part two of Wonderville's Halloween-themed pirate-broadcast/video-art performance series.",
-    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-fear-city-screams-or-fear-citys-stream-part-2-10-30-26",
-    "format": "performance",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Experimental Animation & Moving Image",
-      "Art & Technology"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:23:15.248Z"
-  },
-  {
-    "id": "wonderville-2026-10-30-rocky-horror-picture-show-with-shadow-ca",
-    "title": "Rocky Horror Picture Show with Shadow Cast",
-    "venue_id": "wonderville",
-    "venue_name": "Wonderville",
-    "date": "2026-10-30",
-    "time_start": "23:00",
-    "description": "A midnight screening of The Rocky Horror Picture Show with a live shadow cast performing alongside the film at Wonderville.",
-    "url": "https://www.wonderville.nyc/events/rocky-horror-picture-show-with-shadow-cast-10-30-26",
-    "format": "screening",
-    "interest_score": 3,
-    "tags": [
-      "horror"
-    ],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:23:15.248Z"
-  },
-  {
-    "id": "wonderville-2026-10-31-20xx-con-",
-    "title": "20XX Con!",
-    "venue_id": "wonderville",
-    "venue_name": "Wonderville",
-    "date": "2026-10-31",
-    "time_start": "14:30",
-    "time_end": "17:30",
-    "description": "A small gaming convention held at Wonderville, Brooklyn's arcade bar for independently made games.",
-    "url": "https://www.wonderville.nyc/events/20xx-con-10-31-26",
-    "format": "festival",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Games & Interactive"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:23:15.249Z"
-  },
-  {
-    "id": "wonderville-2026-10-31-love-will-tear-us-apart-on-halloween",
-    "title": "Love Will Tear Us Apart On Halloween",
-    "venue_id": "wonderville",
-    "venue_name": "Wonderville",
-    "date": "2026-10-31",
-    "time_start": "19:00",
-    "time_end": "23:59",
-    "description": "A Halloween dance party at Wonderville with a post-punk/goth musical theme (referencing Joy Division).",
-    "url": "https://www.wonderville.nyc/events/halloween2026",
-    "format": "music",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Sound & Music"
     ],
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
@@ -7305,25 +5536,6 @@
     "discovered_at": "2026-10-25T07:31:09.853Z"
   },
   {
-    "id": "cooper-union-2026-10-29-the-diane-lewis-student-lecture-series-c",
-    "title": "The Diane Lewis Student Lecture Series | Christine Chang: Dialogue as Method — Objects, Thresholds & Off-Modern Ruins",
-    "venue_id": "cooper-union",
-    "venue_name": "Cooper Union",
-    "date": "2026-10-29",
-    "time_start": "18:30",
-    "description": "Christine Chang discusses dialogue as a method for engaging objects, thresholds, and off-modern ruins, as part of the Diane Lewis Student Lecture Series.",
-    "url": "https://cooper.edu/events-and-exhibitions/events/diane-lewis-student-lecture-series-christine-chang-dialogue-method",
-    "format": "talk",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & Urbanism"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:31:09.882Z"
-  },
-  {
     "id": "cooper-union-2026-11-03-the-diane-lewis-student-lecture-series-m",
     "title": "The Diane Lewis Student Lecture Series | Manuel Bouzas: Reporting from the Field",
     "venue_id": "cooper-union",
@@ -7341,131 +5553,6 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-10-25T07:31:09.883Z"
-  },
-  {
-    "id": "center-for-architecture-2026-10-29-the-pulse-nightclub-memorial-designing-f",
-    "title": "The Pulse Nightclub Memorial: Designing for Remembrance and Healing",
-    "venue_id": "center-for-architecture",
-    "venue_name": "Center for Architecture / AIA New York",
-    "date": "2026-10-29",
-    "time_start": "18:00",
-    "time_end": "20:00",
-    "description": "A program examining the City of Orlando's approach to designing a memorial responding to the Pulse nightclub tragedy, focused on remembrance and healing.",
-    "url": "https://calendar.aiany.org/2026/10/29/the-pulse-nightclub-memorial-designing-for-remembrance-and-healing/",
-    "format": "talk",
-    "interest_score": 4,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & Urbanism",
-      "Philosophy & Critical Theory"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:31:09.909Z"
-  },
-  {
-    "id": "center-for-architecture-2026-10-30-building-of-the-day-vagelos-innovation-l",
-    "title": "Building of the Day: Vagelos Innovation Laboratories",
-    "venue_id": "center-for-architecture",
-    "venue_name": "Center for Architecture / AIA New York",
-    "date": "2026-10-30",
-    "time_start": "12:00",
-    "time_end": "13:00",
-    "description": "A tour of the Vagelos Innovation Laboratories, the first purpose-built, all-electric academic research lab building in New York City, expanding Columbia's campus.",
-    "url": "https://calendar.aiany.org/2026/10/30/building-of-the-day-vagelos-innovation-laboratories/",
-    "format": "tour",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & Urbanism",
-      "Climate & Environment"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:31:09.910Z"
-  },
-  {
-    "id": "center-for-architecture-2026-10-31-building-of-the-day-dsny-brooklyn-distri",
-    "title": "Building of the Day: DSNY Brooklyn District 3 Garage",
-    "venue_id": "center-for-architecture",
-    "venue_name": "Center for Architecture / AIA New York",
-    "date": "2026-10-31",
-    "time_start": "12:00",
-    "time_end": "13:00",
-    "description": "A tour of the DSNY Brooklyn District 3 Garage, a 220,000 sf sanitation facility in Bedford-Stuyvesant housing 68 vehicles and 120 workers behind glass and faceted precast concrete facades.",
-    "url": "https://calendar.aiany.org/2026/10/31/building-of-the-day-dsny-brooklyn-district-3-garage/",
-    "price": "sold out",
-    "format": "tour",
-    "interest_score": 3,
-    "tags": [
-      "housing"
-    ],
-    "matched_categories": [
-      "Architecture & Urbanism"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:31:09.910Z"
-  },
-  {
-    "id": "center-for-architecture-2026-10-28-pumpkitecture-architectural-pumpkin-carv",
-    "title": "Pumpkitecture! Architectural Pumpkin Carving Competition",
-    "venue_id": "center-for-architecture",
-    "venue_name": "Center for Architecture / AIA New York",
-    "date": "2026-10-28",
-    "time_start": "18:00",
-    "time_end": "20:30",
-    "description": "An architecture-themed pumpkin carving competition held as part of Archtober.",
-    "url": "https://calendar.aiany.org/2026/10/28/pumpkitecture-architectural-pumpkin-carving-competition-7/",
-    "format": "other",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & Urbanism"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:31:09.909Z"
-  },
-  {
-    "id": "center-for-architecture-2026-10-28-building-of-the-day-malabar-residences",
-    "title": "Building of the Day: Malabar Residences",
-    "venue_id": "center-for-architecture",
-    "venue_name": "Center for Architecture / AIA New York",
-    "date": "2026-10-28",
-    "time_start": "13:00",
-    "time_end": "14:00",
-    "description": "A tour of Malabar Residences, which reimagines Midtown residential living through ODA's approach to massing, porosity, and experience.",
-    "url": "https://calendar.aiany.org/2026/10/28/building-of-the-day-malabar-residences/",
-    "price": "sold out",
-    "format": "tour",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & Urbanism"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:31:09.909Z"
-  },
-  {
-    "id": "nyas-2026-10-29-chemical-biology-peptide-and-protein-des",
-    "title": "Chemical Biology: Peptide and Protein Design",
-    "venue_id": "nyas",
-    "venue_name": "New York Academy of Sciences",
-    "date": "2026-10-29",
-    "description": "A hybrid event on advances in chemical biology focused on peptide and protein design.",
-    "url": "https://www.nyas.org/shaping-science/events/chemical-biology-peptide-and-protein-design",
-    "price": "varies",
-    "format": "conference",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Science & Technology Studies / History of Science"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:31:09.930Z"
   },
   {
     "id": "nyas-2026-11-18-the-208th-annual-meeting-of-the-new-york",
@@ -7619,144 +5706,6 @@
     "discovered_at": "2026-10-25T07:37:21.856Z"
   },
   {
-    "id": "drom-2026-10-28-fugu-dugu-the-legend-of-baba-yaga-album-",
-    "title": "Fugu Dugu: The Legend of Baba Yaga Album Release Concert",
-    "venue_id": "drom",
-    "venue_name": "DROM",
-    "date": "2026-10-28",
-    "time_start": "18:30",
-    "description": "Chicago's Wild East Punk band Fugu Dugu unleashes its new album live, a theatrical collision of Balkan spirit, Slavic folklore, Americana, klezmer, and punk.",
-    "url": "https://dromnyc.com/event/fugu-dugu-the-legend-of-baba-yaga-album-release-concert/",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "balkan",
-      "klezmer"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:37:22.572Z"
-  },
-  {
-    "id": "drom-2026-10-29-hey-douglas-republic-day-celebration-",
-    "title": "Hey! Douglas [Republic Day Celebration]",
-    "venue_id": "drom",
-    "venue_name": "DROM",
-    "date": "2026-10-29",
-    "time_start": "23:00",
-    "description": "DROM celebrates 103 years of the Turkish Republic and Atatürk's vision of a modern, secular, democratic nation with a late-night set from Hey! Douglas.",
-    "url": "https://dromnyc.com/event/drom-new-years-eve-heydouglas/",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:37:22.573Z"
-  },
-  {
-    "id": "drom-2026-10-29-baby-blue-sound-collective",
-    "title": "Baby Blue Sound Collective",
-    "venue_id": "drom",
-    "venue_name": "DROM",
-    "date": "2026-10-29",
-    "time_start": "18:30",
-    "description": "Baby Blue Sound Collective, an international musician-physician led ensemble founded in 2008, returns to DROM for its first performance since 2011, benefitting the Congenital Cardiac Research Collaborative.",
-    "url": "https://dromnyc.com/event/baby-blue-sound-collective/",
-    "format": "music",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:37:22.572Z"
-  },
-  {
-    "id": "terraza-7-2026-10-31-guachinangos-new-york-sounds-of-son-jaro",
-    "title": "Guachinangos – New York Sounds of Son Jarocho | First Set",
-    "venue_id": "terraza-7",
-    "venue_name": "Terraza 7",
-    "date": "2026-10-31",
-    "description": "Guachinangos performs son jarocho, the traditional string and percussion music of Veracruz, Mexico, reinterpreted with New York sounds.",
-    "url": "https://www.terraza7.com/detalles-y-registro/guachinangos-new-york-sounds-of-son-jarocho-first-set-13",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "son-jarocho"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:37:22.613Z"
-  },
-  {
-    "id": "terraza-7-2026-10-31-guachinangos-new-york-sounds-of-son-jaro",
-    "title": "Guachinangos – New York Sounds of Son Jarocho | Second Set",
-    "venue_id": "terraza-7",
-    "venue_name": "Terraza 7",
-    "date": "2026-10-31",
-    "description": "Guachinangos performs son jarocho, the traditional string and percussion music of Veracruz, Mexico, reinterpreted with New York sounds.",
-    "url": "https://www.terraza7.com/detalles-y-registro/guachinangos-new-york-sounds-of-son-jarocho-second-set-11",
-    "format": "music",
-    "interest_score": 4,
-    "tags": [
-      "son-jarocho"
-    ],
-    "matched_categories": [
-      "World Music & Global Traditions"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:37:22.613Z"
-  },
-  {
-    "id": "terraza-7-2026-10-29-duduka-da-fonseca-trio-universal-brazili",
-    "title": "Duduka Da Fonseca & Trio Universal | Brazilian Jazz | First Set",
-    "venue_id": "terraza-7",
-    "venue_name": "Terraza 7",
-    "date": "2026-10-29",
-    "description": "Brazilian jazz drummer Duduka Da Fonseca leads Trio Universal in the first of two sets of Brazilian jazz.",
-    "url": "https://www.terraza7.com/detalles-y-registro/duduka-da-fonseca-trio-universal-brazilian-jazz-first-set-2",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "World Music & Global Traditions",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:37:22.612Z"
-  },
-  {
-    "id": "terraza-7-2026-10-29-duduka-da-fonseca-trio-universal-brazili",
-    "title": "Duduka Da Fonseca & Trio Universal | Brazilian Jazz | Second Set",
-    "venue_id": "terraza-7",
-    "venue_name": "Terraza 7",
-    "date": "2026-10-29",
-    "description": "Brazilian jazz drummer Duduka Da Fonseca leads Trio Universal in the second of two sets of Brazilian jazz.",
-    "url": "https://www.terraza7.com/detalles-y-registro/duduka-da-fonseca-trio-universal-brazilian-jazz-second-set-2",
-    "format": "music",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "World Music & Global Traditions",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-25T07:37:22.612Z"
-  },
-  {
     "id": "sculpture-center-2026-12-10-pat-oleszko-fool-disclosure-book-launch",
     "title": "Pat Oleszko: Fool Disclosure Book Launch",
     "venue_id": "sculpture-center",
@@ -7853,26 +5802,6 @@
     "discovered_at": "2026-10-25T07:37:23.339Z"
   },
   {
-    "id": "flushing-town-hall-2026-10-29-wayfinding-se-as-del-camino",
-    "title": "Wayfinding: Señas del Camino",
-    "venue_id": "flushing-town-hall",
-    "venue_name": "Flushing Town Hall",
-    "date": "2026-10-29",
-    "time_start": "19:00",
-    "description": "Devised, multilingual theater piece with The People's Theatre weaving myths and real-life journeys of its cast, celebrating Uptown Manhattan's voices.",
-    "price": "free",
-    "format": "performance",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art",
-      "Language & Culture"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.086Z"
-  },
-  {
     "id": "flushing-town-hall-2026-11-01-diwali-festival-the-indian-wedding",
     "title": "Diwali Festival: The Indian Wedding",
     "venue_id": "flushing-town-hall",
@@ -7890,134 +5819,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-28T07:13:55.088Z"
-  },
-  {
-    "id": "vera-list-center-2026-10-28-parsons-visiting-artist-lecture-joyce-jo",
-    "title": "Parsons Visiting Artist Lecture: Joyce Joumaa, Provisional Recovery",
-    "venue_id": "vera-list-center",
-    "venue_name": "Vera List Center for Art and Politics",
-    "date": "2026-10-28",
-    "time_start": "19:00",
-    "time_end": "20:30",
-    "description": "2025-2027 VLC Fellow Joyce Joumaa discusses her practice treating collapse as a condition to be inhabited rather than an event to be witnessed, including her fellowship project Calibrated Alien.",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art",
-      "Philosophy & Critical Theory"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.115Z"
-  },
-  {
-    "id": "vera-list-center-2026-10-29-eyal-weizman-ungrounding-book-launch-tal",
-    "title": "Eyal Weizman: Ungrounding (Book Launch & Talk)",
-    "venue_id": "vera-list-center",
-    "venue_name": "Vera List Center for Art and Politics",
-    "date": "2026-10-29",
-    "time_start": "18:30",
-    "time_end": "20:00",
-    "description": "Forensic Architecture founder Eyal Weizman launches Ungrounding, his investigation into violence, territory, and the built environment in Gaza and Palestine, in conversation with Carin Kuoni.",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Architecture & Urbanism",
-      "Philosophy & Critical Theory"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.115Z"
-  },
-  {
-    "id": "vera-list-center-2026-10-31-black-feminist-study-group-iv",
-    "title": "Black Feminist Study Group IV",
-    "venue_id": "vera-list-center",
-    "venue_name": "Vera List Center for Art and Politics",
-    "date": "2026-10-31",
-    "time_start": "14:00",
-    "time_end": "15:30",
-    "description": "Final session of a study group anchored by Rosana Paulino's prize exhibition, with OlaRonke Akinmowo leading a reading and discussion of Saidiya Hartman's Wayward Lives, Beautiful Experiments.",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Philosophy & Critical Theory"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.115Z"
-  },
-  {
-    "id": "e-flux-2026-10-27-how-to-not-be-heard-steve-goodman-bogna-",
-    "title": "How To (Not) Be Heard: Steve Goodman & Bogna Konior",
-    "venue_id": "e-flux",
-    "venue_name": "e-flux",
-    "date": "2026-10-27",
-    "time_start": "19:00",
-    "description": "Part of Unsound New York: talks by Bogna Konior and Steve Goodman on synthetic intelligence, augmented perception, and sound/noise as strategic configuration, followed by discussion.",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 4,
-    "tags": [
-      "perception",
-      "noise"
-    ],
-    "matched_categories": [
-      "Sound & Music",
-      "Philosophy & Critical Theory",
-      "Art & Technology",
-      "Neuroscience, AI & Cognitive Science"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.148Z"
-  },
-  {
-    "id": "lincoln-center-summer-2026-10-31-friday-the-13th-part-viii-jason-takes-ma",
-    "title": "Friday the 13th Part VIII: Jason Takes Manhattan (live Hip-Hop score)",
-    "venue_id": "lincoln-center-summer",
-    "venue_name": "Lincoln Center (Summer for the City / Atrium)",
-    "date": "2026-10-31",
-    "time_start": "19:30",
-    "description": "Halloween screening of the horror sequel with a live Hip-Hop musical soundtrack, presented with Shaolin Jazz.",
-    "price": "free",
-    "format": "screening",
-    "interest_score": 2.1,
-    "tags": [
-      "horror"
-    ],
-    "matched_categories": [
-      "Film & Cinema",
-      "Sound & Music"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.172Z"
-  },
-  {
-    "id": "columbia-heyman-2026-10-30-revolutionary-echoes-chinese-language-ra",
-    "title": "Revolutionary Echoes: Chinese-Language Radio in the Cold War Era",
-    "venue_id": "columbia-heyman",
-    "venue_name": "Columbia Society of Fellows / Heyman Center",
-    "date": "2026-10-30",
-    "time_start": "12:00",
-    "description": "Talk examining how Cold War Chinese-language radio broadcasting shaped mass movements, organized by the Weatherhead East Asian Institute.",
-    "price": "free",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Science & Technology Studies / History of Science"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.190Z"
   },
   {
     "id": "nyu-game-center-2026-11-05-nyu-game-center-lecture-series-ap-thomso",
@@ -8078,26 +5879,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-28T07:13:55.230Z"
-  },
-  {
-    "id": "nitehawk-2026-10-31-godzilla-1954-",
-    "title": "Godzilla [1954]",
-    "venue_id": "nitehawk",
-    "venue_name": "Nitehawk Cinema",
-    "date": "2026-10-31",
-    "description": "Classic kaiju repertory screening at brunch, runs through 11/1.",
-    "price": "varies",
-    "format": "screening",
-    "interest_score": 2.1,
-    "tags": [
-      "repertory-screening"
-    ],
-    "matched_categories": [
-      "Film & Cinema"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.231Z"
   },
   {
     "id": "nitehawk-2026-11-07-my-brother-s-wedding-4k-restoration-",
@@ -8176,26 +5957,6 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-10-28T07:13:55.278Z"
-  },
-  {
-    "id": "asia-society-2026-10-30-adrift-in-the-south-china-s-migrant-lite",
-    "title": "Adrift in the South: China's Migrant Literature",
-    "venue_id": "asia-society",
-    "venue_name": "Asia Society",
-    "date": "2026-10-30",
-    "time_start": "18:30",
-    "time_end": "20:00",
-    "description": "China Books Review conversation with migrant-worker-literature author Xiao Hai and translator Tony Hao on bringing migrant voices into the literary mainstream.",
-    "price": "varies",
-    "format": "talk",
-    "interest_score": 2,
-    "tags": [],
-    "matched_categories": [
-      "Language & Culture"
-    ],
-    "source_agent": "aggregator:inbox",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:13:55.277Z"
   },
   {
     "id": "asia-society-2026-11-02-king-of-the-yees-lauren-yee-david-henry-",
@@ -9169,43 +6930,6 @@
     "discovered_at": "2026-10-28T07:33:51.166Z"
   },
   {
-    "id": "poetry-project-2026-10-28-weakness-and-strength-five-session-writi",
-    "title": "Weakness and Strength: Five-Session Writing Workshop with Benjamin Krusling",
-    "venue_id": "poetry-project",
-    "venue_name": "The Poetry Project",
-    "date": "2026-10-28",
-    "time_start": "19:00",
-    "time_end": "21:00",
-    "description": "A five-session writing workshop led by Benjamin Krusling, running Oct 28 - Nov 25, 2026, at The Poetry Project.",
-    "url": "https://www.poetryproject.org/events/weakness-and-strength-five-session-workshop-with-benjamin-krusling",
-    "price": "$200",
-    "format": "workshop",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:33:51.165Z"
-  },
-  {
-    "id": "poetry-project-2026-10-28-matt-longabucco-susana-plotts-pineda",
-    "title": "Matt Longabucco + Susana Plotts-Pineda",
-    "venue_id": "poetry-project",
-    "venue_name": "The Poetry Project",
-    "date": "2026-10-28",
-    "time_start": "20:00",
-    "description": "A poetry reading featuring Matt Longabucco and Susana Plotts-Pineda at The Poetry Project.",
-    "url": "https://www.poetryproject.org/events/matt-longabucco-susana-plotts-pineda",
-    "price": "$10",
-    "format": "reading",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-10-28T07:33:51.165Z"
-  },
-  {
     "id": "poetry-project-2026-11-03-friendly-criticism-five-session-writing-",
     "title": "Friendly Criticism: Five-Session Writing Workshop with Rainer Diana Hamilton",
     "venue_id": "poetry-project",
@@ -9263,24 +6987,193 @@
     "discovered_at": "2026-10-28T07:33:51.200Z"
   },
   {
-    "id": "public-records-2026-10-29-international-anthem-presents-jeremiah-c",
-    "title": "International Anthem presents Jeremiah Chiu – 'Edge Conditions' Album Release",
-    "venue_id": "public-records",
-    "venue_name": "Public Records",
-    "date": "2026-10-29",
-    "time_start": "19:00",
-    "description": "Album release show for Jeremiah Chiu's 'Edge Conditions,' presented by experimental jazz/ambient label International Anthem, at Public Records.",
-    "url": "https://link.dice.fm/Kb1f10e60ca5",
-    "format": "music",
+    "id": "la-mama-2026-11-06-maayuma-li-mubirr-healing-scars-",
+    "title": "Maayuma li Mubirr (Healing Scars)",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-06",
+    "description": "Part of Spiderwoman's Global Indigenous Theatre Festival at La MaMa, running Nov 4-6.",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.065Z"
+  },
+  {
+    "id": "la-mama-2026-11-06-all-my-r-el-ations",
+    "title": "All My R(el)ations",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-06",
+    "description": "Part of Spiderwoman's Global Indigenous Theatre Festival at La MaMa, running Nov 4-6.",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.065Z"
+  },
+  {
+    "id": "la-mama-2026-11-07-kate-rigg-with-slanty-eyed-mama",
+    "title": "Kate Rigg with Slanty Eyed Mama",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-07",
+    "description": "Kate Rigg and electric violinist Lyris Hung present Slanty Eyed Mama, an Asian American sound combining rock, spoken word and comedy; running Nov 1-7 at La MaMa, part of Spiderwoman's Global Indigenous Theatre Festival.",
+    "format": "performance",
     "interest_score": 4,
     "tags": [
-      "ambient"
+      "asian-american"
     ],
     "matched_categories": [
+      "Language & Culture",
       "Sound & Music"
     ],
-    "source_agent": "aggregator:web-sweep",
+    "source_agent": "aggregator:inbox",
     "status": "staged",
-    "discovered_at": "2026-10-28T07:33:51.258Z"
+    "discovered_at": "2026-11-01T07:13:17.064Z"
+  },
+  {
+    "id": "la-mama-2026-11-08-the-greatest-story-ever",
+    "title": "The Greatest Story Ever",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-08",
+    "description": "Paul Budraitis performs an intimate blend of sci-fi and lo-fi theater about a spaceship pilot who refuses to come home; running Oct 29-Nov 8 at La MaMa.",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.064Z"
+  },
+  {
+    "id": "sculpture-center-2026-12-10-pat-oleszko-fool-disclosure-publication-",
+    "title": "Pat Oleszko: Fool Disclosure — Publication Launch",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-12-10",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Launch of Pat Oleszko's survey publication, with the artist leading a conversation and signing copies, released on the occasion of her SculptureCenter exhibition.",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.100Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-02-rim-battal-mustang-book-release-event",
+    "title": "Rim Battal + Mustang — Book Release Event",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-02",
+    "time_start": "19:00",
+    "description": "Screening of Deniz Gamze Ergüven's Mustang (2015) followed by a bilingual reading and discussion with author Rim Battal and translator Liza Tripp, celebrating the English translation of her autobiographical novel.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "translation"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.114Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-04-german-punk",
+    "title": "German Punk",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-04",
+    "description": "Series (Nov 4-11) guest-programmed by Sukhdev Sandhu, Sara Stevenson, and Zach Feldman on the impact of punk culture in East and West Germany, 1970s-90s, screening rarely-seen documentary films shot 1979-99.",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.115Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-07-white-snail-new-york-premiere-",
+    "title": "White Snail (New York Premiere)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-07",
+    "description": "Filmmakers Elsa Kremser and Levin Peter present the New York premiere of their narrative feature set in contemporary Belarus, with filmmakers in person; running Nov 7-9.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.115Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-10-j-hoberman-across-the-movi-verse",
+    "title": "J. Hoberman: Across the Movi-verse",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-10",
+    "description": "Two curated evenings of film criticism and screenings guest-curated by critic J. Hoberman, celebrating publication of his new essay collection.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.115Z"
+  },
+  {
+    "id": "the-drawing-center-2026-12-12-nolan-oswald-dennis-ecliptics-book-launc",
+    "title": "Nolan Oswald Dennis: Ecliptics — Book Launch",
+    "venue_id": "the-drawing-center",
+    "venue_name": "The Drawing Center",
+    "date": "2026-12-12",
+    "time_start": "14:00",
+    "description": "Launch of the first monograph by artist Nolan Oswald Dennis, exploring a 'black consciousness of space' across fiction, astronomy, and anti-imperial thought; Dennis in conversation with Zoë Hopkins and editor KJ Abudu, with a collective reading exercise.",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [
+      "consciousness"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Science & Technology Studies / History of Science",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:13:17.134Z"
   }
 ]
