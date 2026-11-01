@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "public-records",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:36:12.864Z",
-    "completed_at": "2026-10-11T07:36:12.864Z",
-    "events_found": 12,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "n-plus-one",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:21.087Z",
-    "completed_at": "2026-10-11T07:42:21.087Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "white-columns",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:21.115Z",
-    "completed_at": "2026-10-11T07:42:21.115Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "participant-inc",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:21.147Z",
-    "completed_at": "2026-10-11T07:42:21.147Z",
-    "events_found": 5,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "recess-art",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:21.160Z",
-    "completed_at": "2026-10-11T07:42:21.160Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "index-space",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:42:21.179Z",
-    "completed_at": "2026-10-11T07:42:21.179Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "movement-research",
     "scrape_tier_used": 3,
     "started_at": "2026-10-11T07:42:21.190Z",
@@ -4995,6 +4935,66 @@
     "scrape_tier_used": 3,
     "started_at": "2026-11-01T07:20:03.804Z",
     "completed_at": "2026-11-01T07:20:03.804Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "moma-ps1",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:20:59.070Z",
+    "completed_at": "2026-11-01T07:20:59.070Z",
+    "events_found": 9,
+    "events_new": 9,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "film-forum",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:20:59.098Z",
+    "completed_at": "2026-11-01T07:20:59.098Z",
+    "events_found": 9,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "national-sawdust",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:20:59.133Z",
+    "completed_at": "2026-11-01T07:20:59.133Z",
+    "events_found": 12,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "issue-project-room",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:20:59.147Z",
+    "completed_at": "2026-11-01T07:20:59.147Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:20:59.172Z",
+    "completed_at": "2026-11-01T07:20:59.172Z",
+    "events_found": 10,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyu-itp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:20:59.182Z",
+    "completed_at": "2026-11-01T07:20:59.182Z",
     "events_found": 1,
     "events_new": 0,
     "status": "completed"

@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:31:09.190Z"
+    "last_checked": "2026-11-01T07:20:59.067Z"
   },
   {
     "id": "new-museum",
@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:24:32.101Z"
+    "last_checked": "2026-11-01T07:20:59.096Z"
   },
   {
     "id": "anthology-film-archives",
@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:19:24.289Z"
+    "last_checked": "2026-11-01T07:20:59.130Z"
   },
   {
     "id": "issue-project-room",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:25:03.410Z"
+    "last_checked": "2026-11-01T07:20:59.144Z"
   },
   {
     "id": "roulette",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:13:17.059Z"
+    "last_checked": "2026-11-01T07:20:59.170Z"
   },
   {
     "id": "knockdown-center",
@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:25:32.945Z"
+    "last_checked": "2026-11-01T07:20:59.180Z"
   },
   {
     "id": "the-new-school",
