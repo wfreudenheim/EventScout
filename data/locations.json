@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:25:32.926Z"
+    "last_checked": "2026-11-01T07:19:24.289Z"
   },
   {
     "id": "issue-project-room",
@@ -591,7 +591,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:31:09.958Z"
+    "last_checked": "2026-11-01T07:19:24.328Z"
   },
   {
     "id": "light-industry",
@@ -840,7 +840,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:29:46.414Z"
+    "last_checked": "2026-11-01T07:19:46.499Z"
   },
   {
     "id": "simons-foundation",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:29:46.373Z"
+    "last_checked": "2026-11-01T07:19:46.521Z"
   },
   {
     "id": "center-for-architecture",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:19:20.082Z"
+    "last_checked": "2026-11-01T07:19:46.530Z"
   },
   {
     "id": "bitforms",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:20:43.007Z"
+    "last_checked": "2026-11-01T07:19:46.545Z"
   },
   {
     "id": "microscope-gallery",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:23:13.087Z"
+    "last_checked": "2026-11-01T07:19:46.561Z"
   },
   {
     "id": "caveat",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:17:24.858Z"
+    "last_checked": "2026-11-01T07:19:24.308Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:17:24.643Z"
+    "last_checked": "2026-11-01T07:19:24.099Z"
   },
   {
     "id": "moma",
@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:19:20.125Z"
+    "last_checked": "2026-11-01T07:19:46.578Z"
   },
   {
     "id": "printed-matter",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-10-28T07:33:51.218Z"
+    "last_checked": "2026-11-01T07:19:46.594Z"
   },
   {
     "id": "the-shed",
@@ -1236,7 +1236,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-23T07:18:51.787Z"
+    "last_checked": "2026-11-01T07:19:24.197Z"
   },
   {
     "id": "secret-science-club",
@@ -1334,7 +1334,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-07T07:22:33.851Z",
+    "last_checked": "2026-11-01T07:19:24.363Z",
     "scrape_notes": "Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
   },
   {
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:13:17.156Z"
+    "last_checked": "2026-11-01T07:19:24.347Z"
   },
   {
     "id": "asia-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:13:55.296Z"
+    "last_checked": "2026-11-01T07:19:24.143Z"
   },
   {
     "id": "aaww",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:13:17.046Z"
+    "last_checked": "2026-11-01T07:19:24.234Z"
   },
   {
     "id": "nowadays",
@@ -2624,7 +2624,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:25:03.361Z"
+    "last_checked": "2026-11-01T07:19:24.373Z"
   },
   {
     "id": "data-society",
@@ -3077,7 +3077,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:18:41.671Z"
+    "last_checked": "2026-11-01T07:19:24.113Z"
   },
   {
     "id": "movement-research",
@@ -3338,7 +3338,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.712Z"
+    "last_checked": "2026-11-01T07:19:24.170Z"
   },
   {
     "id": "jalopy-theatre",
@@ -3391,7 +3391,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:37:22.595Z"
+    "last_checked": "2026-11-01T07:19:24.207Z"
   },
   {
     "id": "summerstage",
@@ -3641,7 +3641,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-10-25T07:17:24.827Z"
+    "last_checked": "2026-11-01T07:19:24.244Z"
   },
   {
     "id": "nublu",
@@ -3655,7 +3655,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-10-25T07:17:24.811Z"
+    "last_checked": "2026-11-01T07:19:24.224Z"
   },
   {
     "id": "kaufman-music-center",
@@ -3669,7 +3669,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-10-25T07:17:24.835Z"
+    "last_checked": "2026-11-01T07:19:24.255Z"
   },
   {
     "id": "webster-hall",
@@ -3683,7 +3683,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-10-25T07:17:24.843Z"
+    "last_checked": "2026-11-01T07:19:24.266Z"
   },
   {
     "id": "bronx-park",

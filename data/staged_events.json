@@ -7175,5 +7175,898 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-11-01T07:13:17.134Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-08-small-file-media-festival-screening-and-",
+    "title": "Small File Media Festival: Screening and Workshop",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-08",
+    "time_start": "13:00",
+    "time_end": "16:30",
+    "description": "First New York appearance of the Small File Media Festival, bringing together artists pioneering small-file eco-media; a screening followed by a workshop on video compression techniques.",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environmental Art",
+      "Experimental Animation & Moving Image",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.062Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-05-visible-humans",
+    "title": "Visible Humans",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-05",
+    "time_start": "18:00",
+    "description": "A screening of the short film Visible Woman paired with a presentation by ophthalmologist and photographer Benjamin Freeman and a discussion with curator Elisabeth Sherman. Part of Science on Screen.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Science & Technology Studies",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.062Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-07-sloan-showcase-after-yang-verse",
+    "title": "Sloan Showcase: After Yang + Verse",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-07",
+    "time_start": "15:00",
+    "description": "Directors Kogonada and Noam Argov appear in person for a screening of their Sloan Foundation-supported films After Yang and Verse. Part of Science on Screen.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Philosophy & Critical Theory",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.063Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-08-the-killing-35mm-",
+    "title": "The Killing (35mm)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-08",
+    "time_start": "12:00",
+    "description": "Kubrick and Jim Thompson's darkly comic racetrack-heist noir, a narrative breakthrough in Kubrick's filmography. Part of the Kubrick retrospective.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "noir"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.063Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-09-criterion-presents-the-craft-of-acting-l",
+    "title": "Criterion presents The Craft of Acting: Léa Seydoux",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "A special live recording of the Criterion Channel's series The Craft of Acting, an intimate conversation between actress Léa Seydoux and author Isaac Butler about her career and craft.",
+    "format": "talk",
+    "interest_score": 2.1,
+    "tags": [
+      "criterion"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.064Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-01-the-shining-international-version-u-s-th",
+    "title": "The Shining: International Version (U.S. Theatrical Premiere)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-01",
+    "time_start": "12:00",
+    "description": "U.S. theatrical premiere of Kubrick's shorter International Release cut of The Shining, preceded by a conversation with Steadicam inventor Garrett Brown and Kubrick archivist Michael Chaiken.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.059Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-06-a-clockwork-orange-35mm-",
+    "title": "A Clockwork Orange (35mm)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-06",
+    "time_start": "18:30",
+    "description": "Stanley Kubrick's savage, controversial adaptation of Anthony Burgess's 1962 novel. Part of the Kubrick retrospective.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.062Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-07-testament-35mm-",
+    "title": "Testament (35mm)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-07",
+    "time_start": "12:30",
+    "description": "With director Lynne Littman in person: a harrowing Cold War-era drama starring Jane Alexander as a mother holding her family together after a nuclear strike on the U.S.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.062Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-07-james-gray-s-new-york",
+    "title": "James Gray's New York",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-07",
+    "description": "A film series (Nov 7-22) of NYC-set classics personally selected by Queens-born director James Gray, on the occasion of the release of his film Paper Tiger.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.063Z"
+  },
+  {
+    "id": "asia-society-2026-11-02-king-of-the-yees-lauren-yee-francis-jue-",
+    "title": "King of the Yees: Lauren Yee, Francis Jue, and David Henry Hwang",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-02",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Playwrights David Henry Hwang and Lauren Yee, with actor Francis Jue, discuss family, cultural identity, and personal storytelling in theater, drawing on their relationships with their fathers.",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Asian Diaspora & SE Asian Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.120Z"
+  },
+  {
+    "id": "asia-society-2026-11-18-concert-aga-khan-master-musicians-with-v",
+    "title": "Concert: Aga Khan Master Musicians with Vincent Peirani",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-18",
+    "time_start": "19:30",
+    "time_end": "21:00",
+    "description": "The Aga Khan Master Musicians perform alongside French accordionist Vincent Peirani, drawing on musical traditions from Central Asia, the Middle East, and the Mediterranean.",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.123Z"
+  },
+  {
+    "id": "asia-society-2026-11-17-dansaekhwa-korean-abstract-art-and-its-c",
+    "title": "Dansaekhwa: Korean Abstract Art and Its Cultural Impact",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-17",
+    "time_start": "18:30",
+    "time_end": "19:30",
+    "description": "Launch of a book on Dansaekhwa, the 1970s South Korean abstract art movement, with author Dr. Yeon Shim Chung and Artnet critic Andrew Russeth.",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.123Z"
+  },
+  {
+    "id": "asia-society-2026-12-02-museum-salon-series-living-national-trea",
+    "title": "Museum Salon Series: Living National Treasure Ōsumi Yukie and the Way of Metal",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-12-02",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "A conversation with Ōsumi Yukie, the first female metalcraft artist designated a Japanese Living National Treasure, moderated by specialist Boxi Liu.",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.124Z"
+  },
+  {
+    "id": "asia-society-2026-11-19-70-after-dark-festival-of-light",
+    "title": "70 After Dark: Festival of Light",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-19",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "An after-hours 21+ party marking Asia Society's 70th anniversary, inspired by Diwali and festivals of light across Asia, with a live DJ, henna, fortune telling, and museum access.",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.120Z"
+  },
+  {
+    "id": "barbes-2026-11-01-giancarlo-vulcano-s-radio-hour",
+    "title": "Giancarlo Vulcano's Radio Hour",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-01",
+    "time_start": "18:00",
+    "description": "Composer and guitarist Giancarlo Vulcano creates live scores for narratives from various sources, read live.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music & Sound Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.149Z"
+  },
+  {
+    "id": "barbes-2026-11-02-musics",
+    "title": "Musics",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-02",
+    "time_start": "19:00",
+    "description": "Meditative musings with Georgian brothers Ilusha and Gocha Tsinadze on guitars, with Chris Tordini on bass and Jason Nazary on drums.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.150Z"
+  },
+  {
+    "id": "barbes-2026-11-03-slavic-soul-party",
+    "title": "Slavic Soul Party",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-03",
+    "time_start": "21:00",
+    "description": "A weekly brass bacchanalia of Balkan brass band music.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "balkan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.151Z"
+  },
+  {
+    "id": "barbes-2026-11-04-the-andy-statman-trio",
+    "title": "The Andy Statman Trio",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-04",
+    "time_start": "20:00",
+    "description": "Klezmer clarinet and mandolin master Andy Statman performs with Larry Eagle on drums and Jim Whitney on bass.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "klezmer"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.151Z"
+  },
+  {
+    "id": "barbes-2026-11-04-mamady-kouyate-s-mandingo-ambassadors",
+    "title": "Mamady Kouyate's Mandingo Ambassadors",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-04",
+    "time_start": "22:00",
+    "description": "The sound of Guinea's 1970s funk from one of the masters of the legendary Syliphone label.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.151Z"
+  },
+  {
+    "id": "barbes-2026-11-05-imal-gnawa",
+    "title": "Imal Gnawa",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-05",
+    "time_start": "22:00",
+    "description": "A contemporary take on traditional Moroccan Gnawa music.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "gnawa"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.152Z"
+  },
+  {
+    "id": "barbes-2026-11-07-banda-de-los-muertos",
+    "title": "Banda de los Muertos",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-07",
+    "time_start": "22:00",
+    "description": "Jacob Garchik and Oscar Noriega lead this Sinaloa-style Mexican banda.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.154Z"
+  },
+  {
+    "id": "barbes-2026-11-08-clube-do-choro-with-regional-samauma",
+    "title": "Clube do Choro with Regional Samauma",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-08",
+    "time_start": "15:30",
+    "description": "A weekly choro jam in Barbès' front room with a rotating cast of the finest Brazilian musicians.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.154Z"
+  },
+  {
+    "id": "barbes-2026-11-08-ben-monder-theo-bleckmann",
+    "title": "Ben Monder / Theo Bleckmann",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-08",
+    "time_start": "18:00",
+    "description": "A duo performance of electric guitar and effected vocals.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music & Sound Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.155Z"
+  },
+  {
+    "id": "barbes-2026-11-06-big-lazy",
+    "title": "Big Lazy",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-06",
+    "time_start": "22:00",
+    "description": "Stephen Ulrich's noir guitar trio with Andrew Hall on bass and Yayo Serka on drums.",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "noir"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.153Z"
+  },
+  {
+    "id": "barbes-2026-11-01-stephane-wrembel",
+    "title": "Stephane Wrembel",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-01",
+    "time_start": "18:00",
+    "description": "Barbès' resident Gypsy jazz master continues his weekly dominical djangologie.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.150Z"
+  },
+  {
+    "id": "performance-space-ny-2026-11-05-playing-safe-queering-the-indigenous-arc",
+    "title": "Playing Safe: Queering the Indigenous Archive",
+    "venue_id": "performance-space-ny",
+    "venue_name": "Performance Space New York",
+    "date": "2026-11-05",
+    "time_start": "19:00",
+    "description": "grunt gallery brings three evenings of screenings and performances (Nov 5-7) curated by Tania Willard and Dana Claxton, featuring new performances by Vance Wright drawn from grunt gallery's archive of Indigenous performance art, exploring sacred sexuality, decolonial kink, and the body and land as archive.",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.177Z"
+  },
+  {
+    "id": "nublu-2026-11-08-bia-ferreira",
+    "title": "Bia Ferreira",
+    "venue_id": "nublu",
+    "venue_name": "Nublu",
+    "date": "2026-11-08",
+    "time_start": "20:00",
+    "description": "Brazilian singer, songwriter, multi-instrumentalist, and artivist Bia Ferreira performs.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.213Z"
+  },
+  {
+    "id": "national-sawdust-2027-02-27-peni-candri-reni-s-jiwa-kala-w-shahzad-i",
+    "title": "Peni Candri Reni's Jiwa Kala w/ Shahzad Ismaily & Andy McGraw",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2027-02-27",
+    "description": "A World Music Institute collaboration bringing together Indonesian artist Peni Candri Reni with experimental bassist Shahzad Ismaily and gamelan scholar-performer Andy McGraw.",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "indonesian",
+      "world-music",
+      "gamelan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Asian Diaspora & SE Asian Culture",
+      "Experimental Music & Sound Art",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.271Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-11-05-the-devils-35mm-",
+    "title": "The Devils (35mm)",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-11-05",
+    "description": "Ken Russell's infamous, long-censored adaptation of Aldous Huxley's book about the apparent demonic possession of nuns, concluding its record-breaking run on Nov 5. NYFF64 Revivals selection.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.294Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-11-25-all-of-a-sudden",
+    "title": "All of a Sudden",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-11-25",
+    "description": "Ryûsuke Hamaguchi's NYFF64 Main Slate film about a nursing home director promoting a radical new care program, with Virginie Efira and Tao Okamoto sharing Cannes' Best Actress prize. Opens Nov 25.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.295Z"
+  },
+  {
+    "id": "bam-2026-11-06-playback-the-brooklyn-watch-party",
+    "title": "Playback: The Brooklyn Watch Party",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-11-06",
+    "description": "A selection of exceptional films returns to the big screen (Nov 6-7), created by Nicholas Ma and Clara Wu Tsai and hosted by Spike Lee, with curators Questlove, Bryan Stevenson, and John Turturro.",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.316Z"
+  },
+  {
+    "id": "japan-society-2026-11-06-free-first-fridays-gen-ichir-inokuma-s-n",
+    "title": "Free First Fridays: Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-06",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "description": "Free gallery admission to view Gen'ichirō Inokuma's NYC Salon exhibition, held every first Friday of the month.",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.334Z"
+  },
+  {
+    "id": "mcnally-jackson-2026-11-02-freedom-s-gate",
+    "title": "Freedom's Gate",
+    "venue_id": "mcnally-jackson",
+    "venue_name": "McNally Jackson",
+    "date": "2026-11-02",
+    "time_start": "19:00",
+    "description": "Soyica Diggs Colbert presents Freedom's Gate, a portrait of five Black women artists (Maya Angelou, Lorraine Hansberry, Abbey Lincoln, Miriam Makeba, and Nina Simone) and the NY nightclub that helped inspire the Civil Rights Movement, in conversation with Salamishah Tillet.",
+    "price": "$5",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.351Z"
+  },
+  {
+    "id": "printed-matter-2026-11-19-demon-portraits-with-eric-copeland",
+    "title": "Demon Portraits with Eric Copeland",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "New York launch of a letter-by-letter, cut-and-paste book written over Aldous Huxley's Brave New World, the result of over 11,000 hours of work by visual artist and Black Dice member Eric Copeland.",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.378Z"
+  },
+  {
+    "id": "printed-matter-2026-11-11-correspondences-de-appel-1975-2025",
+    "title": "Correspondences: de Appel 1975-2025",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-11",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "New York book launch and archival display tracing fifty years of Amsterdam institution de Appel's history through letters, telegrams, postcards, and faxes, with panelists Jeremy Johnston, Ben DuVall, Martha Jager, and Nell Donkers.",
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:24.378Z"
+  },
+  {
+    "id": "simons-foundation-2026-11-11-how-to-build-a-black-hole",
+    "title": "How to Build a Black Hole",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-11-11",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "description": "A free Presidential Lecture by physicist Silke Weinfurtner on simulating and understanding black holes, part of the Simons Foundation's physics lecture series.",
+    "url": "https://www.simonsfoundation.org/events/how-to-build-a-black-hole/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "STS / history & philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.508Z"
+  },
+  {
+    "id": "bitforms-2027-01-09-lajun-mcmillian-to-see-for-oneself",
+    "title": "LaJuné McMillian: To See for Oneself",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2027-01-09",
+    "description": "An exhibition by LaJuné McMillian, whose work uses motion-capture and new media to build Black movement archives. Runs October 29, 2026 through January 9, 2027 (opening reception already took place October 29).",
+    "url": "https://www.bitforms.art/exhibition/to-see-for-oneself",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "new-media"
+    ],
+    "matched_categories": [
+      "Art & technology / new media",
+      "Contemporary art",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.536Z"
+  },
+  {
+    "id": "microscope-gallery-2026-11-03-marni-kotak-midterms-moonshot",
+    "title": "Marni Kotak: Midterms Moonshot",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-11-03",
+    "time_start": "18:00",
+    "time_end": "22:00",
+    "description": "A live performance event by Marni Kotak presented by Microscope Gallery at Grace Exhibition Space, tied to the 2026 midterm elections.",
+    "url": "https://microscopegallery.com/marni-kotak-midterms-moonshot/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.550Z"
+  },
+  {
+    "id": "microscope-gallery-2026-11-28-marni-kotak-america-on-the-dark-side-of-",
+    "title": "Marni Kotak: America on the Dark Side of the Moon",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-11-28",
+    "description": "A solo exhibition by performance artist Marni Kotak, presented by Microscope Gallery at Grace Exhibition Space. Runs October 22 through November 28, 2026.",
+    "url": "https://microscopegallery.com/marni-kotak-america-on-the-dark-side-of-the-moon/",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary art",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.549Z"
+  },
+  {
+    "id": "cooper-union-2026-11-12-representation-lecture-mark-west-seeing-",
+    "title": "Representation Lecture | Mark West: Seeing Things, Pareidolia and the Discovery of Form",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-12",
+    "time_start": "18:30",
+    "description": "Mark West explores pareidolia and the perception of form as it relates to design and representation, bridging cognitive science and architectural theory.",
+    "url": "https://cooper.edu/index.php/events-and-exhibitions/events/representation-lecture-mark-west-seeing-things-pareidolia-and",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "cognitive-science",
+      "perception"
+    ],
+    "matched_categories": [
+      "Neuroscience / AI / cognitive science",
+      "Philosophy / critical theory",
+      "Architecture & urbanism",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.568Z"
+  },
+  {
+    "id": "cooper-union-2026-11-15-primers-for-a-handmade-utopia",
+    "title": "Primers for a Handmade Utopia",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-15",
+    "description": "An architecture exhibition exploring handmade, speculative approaches to utopian design and construction. Runs October 8 through November 15, 2026.",
+    "url": "https://cooper.edu/index.php/architecture/exhibitions/primers-handmade-utopia",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding / speculative design",
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.568Z"
+  },
+  {
+    "id": "cooper-union-2026-11-10-stanley-wolukau-wanambwa-henry-wolf-chai",
+    "title": "Stanley Wolukau-Wanambwa: Henry Wolf Chair in Photography Artist Talk",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "description": "Photographer and critic Stanley Wolukau-Wanambwa delivers an artist talk as the Henry Wolf Chair in Photography at Cooper Union.",
+    "url": "https://cooper.edu/index.php/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "photography",
+      "artist-talk"
+    ],
+    "matched_categories": [
+      "Contemporary art",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.568Z"
+  },
+  {
+    "id": "cooper-union-2026-11-25-publishing-architecture-at-the-cooper-un",
+    "title": "Publishing Architecture at the Cooper Union",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-25",
+    "description": "An exhibition examining the history and practice of architectural publishing at Cooper Union. Runs October 29 through November 25, 2026.",
+    "url": "https://cooper.edu/index.php/events-and-exhibitions/exhibitions/publishing-architecture-cooper-union",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.568Z"
+  },
+  {
+    "id": "cooper-union-2026-11-05-native-voices-karenna-lay-our-vibration-",
+    "title": "Native Voices Karenna—Lay Our Vibration Down",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-05",
+    "time_start": "19:00",
+    "description": "An installment of Cooper Union's Native Voices series, Karenna presents 'Lay Our Vibration Down.'",
+    "url": "https://cooper.edu/index.php/events-and-exhibitions/events/native-voices-karenna-lay-our-vibration-down",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World music / global traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.568Z"
+  },
+  {
+    "id": "cooper-union-2026-11-09-conversations-in-tusculum",
+    "title": "Conversations in Tusculum",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "A talk in Cooper Union's Conversations in Tusculum series.",
+    "url": "https://cooper.edu/index.php/events-and-exhibitions/events/conversations-tusculum",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.568Z"
+  },
+  {
+    "id": "printed-matter-2026-12-05-homes-for-people-not-for-profit-window-i",
+    "title": "Homes for People, Not for Profit (Window Installation)",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-12-05",
+    "description": "A storefront window installation by Art Against Displacement, Alex Strada, and FEC Tenants Against Demolition on housing and displacement. Runs October 25 through December 5, 2026.",
+    "url": "https://www.printedmatter.org/programs/events/2337",
+    "format": "gallery",
+    "interest_score": 2.1,
+    "tags": [
+      "installation",
+      "housing"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Contemporary Art",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:46.584Z"
   }
 ]
