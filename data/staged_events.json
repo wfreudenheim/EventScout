@@ -9148,5 +9148,181 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-01T07:29:35.773Z"
+  },
+  {
+    "id": "the-brick-2026-11-01-i-can-steal-your-mother",
+    "title": "I Can Steal Your Mother",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-11-01",
+    "description": "A fully-illustrated autobiographical comedy hour by artist-comedian Max Wittert, composed of over 1,200 original drawings, playing October 30-November 15, 2026 at The Brick Theater. Running time 65 minutes.",
+    "url": "https://www.bricktheater.com/event/i-can-steal-your-mother/2026-11-01/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.149Z"
+  },
+  {
+    "id": "green-wood-2026-11-07-secrets-in-stone",
+    "title": "Secrets in Stone",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-07",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "description": "A walking tour decoding the Victorian-era symbolism carved into Green-Wood's monuments -- flowers, angels, and emblems that tell stories of the dead.",
+    "url": "https://www.green-wood.com/event/secrets-in-stone-13/2026-11-07/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.176Z"
+  },
+  {
+    "id": "green-wood-2026-11-07-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-07",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "description": "An after-dark walking tour through Green-Wood's history and legends, including rare access inside the normally-locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-58/2026-11-07/1/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.177Z"
+  },
+  {
+    "id": "green-wood-2026-11-07-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-07",
+    "time_start": "17:30",
+    "time_end": "19:30",
+    "description": "A second after-dark walking tour through Green-Wood's history and legends, including rare access inside the normally-locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-58/2026-11-07/2/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.177Z"
+  },
+  {
+    "id": "green-wood-2026-11-14-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-14",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "description": "An after-dark walking tour through Green-Wood's history and legends, including rare access inside the normally-locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-59/2026-11-14/1/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.179Z"
+  },
+  {
+    "id": "green-wood-2026-11-14-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-14",
+    "time_start": "17:30",
+    "time_end": "19:30",
+    "description": "A second after-dark walking tour through Green-Wood's history and legends, including rare access inside the normally-locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-59/2026-11-14/2/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.179Z"
+  },
+  {
+    "id": "drom-2026-11-05-cem-adrian",
+    "title": "Cem Adrian",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-05",
+    "time_start": "19:00",
+    "description": "Turkish singer-songwriter Cem Adrian performs live at DROM, part of a multi-night run (Nov 5-7), bringing his distinctive voice and emotionally charged style to NYC.",
+    "url": "https://dromnyc.com/event/cem-adrian-nov-5/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.219Z"
+  },
+  {
+    "id": "drom-2026-11-06-cem-adrian",
+    "title": "Cem Adrian",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-06",
+    "time_start": "19:00",
+    "description": "Turkish singer-songwriter Cem Adrian performs live at DROM, part of a multi-night run (Nov 5-7), bringing his distinctive voice and emotionally charged style to NYC.",
+    "url": "https://dromnyc.com/event/cem-adrian-nov-6/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.219Z"
+  },
+  {
+    "id": "drom-2027-01-16-secret-planet",
+    "title": "Secret Planet",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2027-01-16",
+    "time_start": "18:30",
+    "description": "Secret Planet's annual NYC showcase highlighting emerging international music acts and cross-cultural sounds, hosted at DROM.",
+    "url": "https://dromnyc.com/event/secret-planet/",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:29:50.219Z"
   }
 ]
