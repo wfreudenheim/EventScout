@@ -8068,5 +8068,289 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-01T07:19:46.584Z"
+  },
+  {
+    "id": "vera-list-center-2026-11-17-seminar-8-collective-intelligence-collec",
+    "title": "Seminar 8: Collective Intelligence, Collective Agency",
+    "venue_id": "vera-list-center",
+    "venue_name": "Vera List Center for Art and Politics",
+    "date": "2026-11-17",
+    "description": "Part of the Matter of Intelligence Seminar Series, this session examines collective intelligence and collective agency across art, science, and critical theory.",
+    "url": "https://veralistcenter.org/events/seminar-8-collective-intelligence-collective-agency",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [
+      "critical-theory"
+    ],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:59.686Z"
+  },
+  {
+    "id": "nyas-2026-11-02-lyceum-society-the-nobel-prize-for-physi",
+    "title": "Lyceum Society: The Nobel Prize for Physics 2026",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-11-02",
+    "description": "A Lyceum Society virtual talk unpacking the science behind the 2026 Nobel Prize in Physics.",
+    "url": "https://www.nyas.org/shaping-science/events/lyceum-society-the-nobel-prize-for-physics-2026",
+    "price": "free for members",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:59.702Z"
+  },
+  {
+    "id": "elsewhere-2026-11-06-chatroom-osgemeos",
+    "title": "Chatroom: OSGEMEOS",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-06",
+    "time_start": "21:00",
+    "description": "A free RSVP club night in Elsewhere's Chatroom space themed around the work of Brazilian street-art duo OSGEMEOS.",
+    "url": "https://www.eventbrite.com/e/chatroom-osgemeos-free-w-rsvp-tickets-2004032654617",
+    "price": "free",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:19:59.743Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-05-the-encounters-series-american-environme",
+    "title": "The Encounters Series: \"American Environmental Machines, 1500-2026\"",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-05",
+    "time_start": "12:00",
+    "description": "A GSAPP Encounters Series talk tracing the history of environmental machines and technologies in America from 1500 to the present.",
+    "url": "https://www.arch.columbia.edu/events/4376-the-encounters-series-american-environmental-machines-1500-2026",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.701Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-06-the-library-is-open-33-material-variance",
+    "title": "THE LIBRARY IS OPEN 33: Material Variance",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-06",
+    "time_start": "13:00",
+    "description": "The 33rd installment of GSAPP's 'The Library Is Open' series, examining variance in architectural materials.",
+    "url": "https://www.arch.columbia.edu/events/4228-the-library-is-open-33-material-variance",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.701Z"
+  },
+  {
+    "id": "e-flux-2026-11-19-tellus-with-paul-demarinis-and-birdcalls",
+    "title": "TELLUS with Paul DeMarinis and \"Birdcalls\" by Louise Lawler",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-19",
+    "time_start": "19:00",
+    "description": "An evening of sound art at e-flux featuring pioneering media artist Paul DeMarinis, referencing the Tellus audio-art cassette series, alongside Louise Lawler's conceptual sound piece 'Birdcalls'.",
+    "url": "https://www.e-flux.com/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "media-art",
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Art & Technology",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.734Z"
+  },
+  {
+    "id": "e-flux-2026-11-04-celebrating-10-years-of-e-flux-architect",
+    "title": "Celebrating 10 Years of e-flux Architecture",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-04",
+    "time_start": "18:30",
+    "description": "A conference held at Columbia GSAPP celebrating ten years of e-flux Architecture, with talks and screenings reflecting on a decade of architectural discourse.",
+    "url": "https://www.e-flux.com/events/6783405/celebrating-10-years-of-e-flux-architecture/",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.728Z"
+  },
+  {
+    "id": "e-flux-2026-11-05-bar-laika-presents-playback-0041-with-sm",
+    "title": "Bar Laika presents Playback 0041 with Smalltown Supersound",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-05",
+    "time_start": "19:00",
+    "description": "A listening session and talk spotlighting the Norwegian experimental and electronic label Smalltown Supersound, at Bar Laika by e-flux.",
+    "url": "https://www.e-flux.com/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.729Z"
+  },
+  {
+    "id": "e-flux-2026-11-12-and-the-dogs-were-silent-a-convening-by-",
+    "title": "And the Dogs Were Silent: A Convening by Sharifa Rhodes-Pitts",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-12",
+    "time_start": "18:00",
+    "description": "Writer Sharifa Rhodes-Pitts convenes a gathering of speakers at the e-flux Screening Room, its title drawn from Aimé Césaire's work of the same name.",
+    "url": "https://www.e-flux.com/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.733Z"
+  },
+  {
+    "id": "e-flux-2026-11-17-theory-of-seeing",
+    "title": "Theory of Seeing",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-17",
+    "time_start": "19:00",
+    "description": "A program at the e-flux Screening Room exploring theories of perception and visuality.",
+    "url": "https://www.e-flux.com/events/6783400/theory-of-seeing/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "perception"
+    ],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.733Z"
+  },
+  {
+    "id": "e-flux-2026-11-18-bar-laika-presents-playback-0042-with-ch",
+    "title": "Bar Laika presents Playback 0042 with Chantal Michelle",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-18",
+    "time_start": "19:00",
+    "description": "A performance by Chantal Michelle at Bar Laika by e-flux, part of the Playback series.",
+    "url": "https://www.e-flux.com/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.733Z"
+  },
+  {
+    "id": "whitney-2026-11-01-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-01",
+    "time_start": "13:00",
+    "description": "A guided tour of the exhibition 'Untitled' (America) at the Whitney.",
+    "url": "https://whitney.org/events/untitled-america-exh-tour-2026",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.781Z"
+  },
+  {
+    "id": "whitney-2026-11-01-exhibition-tour-the-lost-world-the-art-o",
+    "title": "Exhibition Tour: The Lost World: The Art of Minnie Evans",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-01",
+    "time_start": "14:00",
+    "description": "A guided tour of 'The Lost World: The Art of Minnie Evans,' surveying the visionary painter's mystical, nature-inspired drawings.",
+    "url": "https://whitney.org/events/minnie-evans-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.782Z"
+  },
+  {
+    "id": "whitney-2026-11-01-exhibition-tour-roy-lichtenstein-like-ne",
+    "title": "Exhibition Tour: Roy Lichtenstein: Like New",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-01",
+    "time_start": "15:00",
+    "description": "A guided tour of the Roy Lichtenstein: Like New exhibition at the Whitney.",
+    "url": "https://whitney.org/events/exhibition-tour-lichtenstein",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:20:03.782Z"
   }
 ]

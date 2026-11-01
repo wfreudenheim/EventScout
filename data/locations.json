@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:19:20.110Z"
+    "last_checked": "2026-11-01T07:20:03.719Z"
   },
   {
     "id": "e-flux",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:19:24.493Z"
+    "last_checked": "2026-11-01T07:20:03.755Z"
   },
   {
     "id": "artists-space",
@@ -591,7 +591,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:19:24.328Z"
+    "last_checked": "2026-11-01T07:20:03.764Z"
   },
   {
     "id": "light-industry",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-28T07:25:24.326Z"
+    "last_checked": "2026-11-01T07:20:03.774Z"
   },
   {
     "id": "union-docs",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-25T07:37:22.686Z"
+    "last_checked": "2026-11-01T07:20:03.794Z"
   },
   {
     "id": "the-drawing-center",
@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-11-01T07:13:17.144Z"
+    "last_checked": "2026-11-01T07:20:03.803Z"
   },
   {
     "id": "do-not-research",
@@ -1310,7 +1310,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:18:41.701Z"
+    "last_checked": "2026-11-01T07:19:59.680Z"
   },
   {
     "id": "mcnally-jackson",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:19:24.530Z",
+    "last_checked": "2026-11-01T07:19:59.754Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:13:55.140Z"
+    "last_checked": "2026-11-01T07:19:59.697Z"
   },
   {
     "id": "rockefeller-university",
@@ -1653,7 +1653,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:13:55.254Z"
+    "last_checked": "2026-11-01T07:19:59.714Z"
   },
   {
     "id": "bard-graduate-center",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:20:42.989Z"
+    "last_checked": "2026-11-01T07:19:59.727Z"
   },
   {
     "id": "the-stone",
@@ -1749,7 +1749,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:19:24.513Z"
+    "last_checked": "2026-11-01T07:19:59.737Z"
   },
   {
     "id": "wendys-subway",
