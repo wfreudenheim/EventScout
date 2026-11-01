@@ -1,6 +1,6 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-10-28T06:43:26.028Z
+FETCHED:2026-11-01T06:37:29.965Z
 
 * Exhibitions [/exhibitions]
     * Current [/exhibitions]
@@ -34,7 +34,7 @@ FETCHED:2026-10-28T06:43:26.028Z
     * Individual Giving [https://swissinstitute.net/support/individualsupport]
     * Corporate Opportunities [https://swissinstitute.net/support/corporate-opportunities]
     * Institutional Partners [https://swissinstitute.net/support/institutional-partners]
-    * Benefit Gala [https://swissinstitute.net/support/benefit-gala]
+    * Benefit Gala & Auction [https://swissinstitute.net/support/benefit-gala]
     * TimeForArt [https://swissinstitute.net/support/timeforart]
     * Rentals & Events [https://swissinstitute.net/support/rentals-events]
     * Planned Giving [https://swissinstitute.net/support/planned-giving]
@@ -77,13 +77,6 @@ Wed Sep 23—Sat Nov 14 2026
 [https://swissinstitute.net/exhibitions/si-offsite-rafał-skoczek-kino-drift]
 Programs
 
-NEW YORK AXIOMATIC CIRCLE
-
-Wed Oct 28 2026, 7:00pm
-
-[https://swissinstitute.net/programs/new-york-axiomatic-circle]
-Programs
-
 FILM SERIES | FILMCLUB POPULAIRE
 
 Wed Nov 4 2026, 7:00pm
@@ -91,7 +84,7 @@ Wed Nov 4 2026, 7:00pm
 [https://swissinstitute.net/programs/film-series-filmclub-populaire]
 Support
 
-BENEFIT GALA
+BENEFIT GALA & AUCTION
 
 Sat Nov 7 2026, 6:00pm
 
@@ -107,15 +100,9 @@ Programs
 
 BOOK LAUNCH | NOLAN OSWALD DENNIS: ECLIPTICS
 
-Sat Dec 12 2026, 2:00—4:00pm
+Sat Dec 12 2026, 12:00—2:00pm
 
 [https://swissinstitute.net/programs/book-launch-nolan-oswald-dennis-ecliptics]
-
-NEW YORK AXIOMATIC CIRCLE
-
-Wed Oct 28 2026, 7:00pm
-
-[https://swissinstitute.net/programs/new-york-axiomatic-circle]
 
 FILM SERIES | FILMCLUB POPULAIRE
 
@@ -131,7 +118,7 @@ Wed Nov 11 2026, 7:00pm
 
 BOOK LAUNCH | NOLAN OSWALD DENNIS: ECLIPTICS
 
-Sat Dec 12 2026, 2:00—4:00pm
+Sat Dec 12 2026, 12:00—2:00pm
 
 [https://swissinstitute.net/programs/book-launch-nolan-oswald-dennis-ecliptics]
 Residencies
@@ -177,13 +164,6 @@ NOLAN OSWALD DENNIS: ECLIPTICS
 $45.00
 
 [https://swissinstitute.net/shop/nolan-oswald-dennis-ecliptics]
-Prints & Editions
-
-RIRKRIT TIRAVANIJA, (LUCKY NO.2), 2026
-
-$21.00
-
-[https://swissinstitute.net/shop/rirkrit-tiravanija-lucky-no2]
 Prints & Editions
 
 JOHN MILLER, UNTITLED (12-18-25), 2025

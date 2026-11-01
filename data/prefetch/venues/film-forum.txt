@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-10-28T06:43:28.139Z
+FETCHED:2026-11-01T06:37:31.432Z
 
 Skip to Content
 
@@ -10,13 +10,12 @@ FILM FORUM [https://filmforum.org/]
 
 SLIDESHOW
 
+ * https://filmforum.org/film/citizen-ruth
  * https://filmforum.org/film/fatherland
- * https://filmforum.org/series/william-greaves-100
  * https://filmforum.org/film/once-upon-a-time-in-harlem
  * https://filmforum.org/film/my-undesirable-friends-part-ii-exile
  * https://filmforum.org/film/unzipped-2026
  *
- * https://filmforum.org/film/citizen-ruth
  * https://filmforum.org/film/coco-ffjr-2026
  *
  * https://filmforum.org/film/the-red-balloon-ffjr-2026
@@ -51,106 +50,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
+ * SUN
+ * MON
+ * TUE
  * WED
  * THU
  * FRI
  * SAT
- * SUN
- * MON
- * TUE
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 6:00 7:00 8:15 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-4:15
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-SYMBIOPSYCHOTAXIPLASM: TAKE 2½ [https://filmforum.org/film/symbiopsychotaxiplasm-take-2-william-greaves-100]
-12:30
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-MIRACLE IN HARLEM [https://filmforum.org/film/miracle-in-harlem-william-greaves-100]
-2:40
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-FROM THESE ROOTS and BLACK POWER IN AMERICA: MYTH… OR REALITY? [https://filmforum.org/film/from-these-roots-black-power-in-america-william-greaves-100]
-4:20
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-FREDERICK DOUGLASS: AN AMERICAN LIFE and BOOKER T. WASHINGTON: THE LIFE AND THE LEGACY [https://filmforum.org/film/frederick-douglass-an-american-life-booker-t-washington-the-life-and-the-legacy-william-greaves-100]
-6:30
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-STILL A BROTHER: INSIDE THE NEGRO MIDDLE CLASS and IN THE COMPANY OF MEN [https://filmforum.org/film/still-a-brother-inside-the-negro-middle-class-in-the-company-of-men-william-greaves-100]
-8:00
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 6:00 7:00 8:15 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-4:15
-
-Ends Today!WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-NATIONTIME [https://filmforum.org/film/nationtime-william-greaves-100]
-1:00
-
-Ends Today!WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-LOST BOUNDARIES [https://filmforum.org/film/lost-boundaries-william-greaves-100]
-3:10
-
-Ends Today!WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-WHERE DREAMS COME TRUE and SPACE FOR WOMEN [https://filmforum.org/film/where-dreams-come-true-space-for-women-william-greaves-100-william-greaves-100]
-5:20
-
-Ends Today!WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-SYMBIOPSYCHOTAXIPLASM: TAKE ONE [https://filmforum.org/film/symbiopsychotaxiplasm-take-one-william-greaves-100]
-6:45
-
-Special Screening!THE HARDER THEY COME [https://filmforum.org/film/the-harder-they-come]
-8:20
-
-Opens Today!CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:00 3:20 5:40 8:00
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:15 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 8:10 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-6:20
-
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:00 3:20 5:40 8:00
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25(OC) 4:15 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15(OC) 2:30 4:45 7:00 8:10 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-6:20
 
 FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
 COCO [https://filmforum.org/film/coco-ffjr-2026]
@@ -208,6 +114,40 @@ NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
 PICKUP ON SOUTH STREET [https://filmforum.org/film/pick-up-on-south-street-nyc-in-transit]
 8:00
 
+CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
+1:00 3:20 5:40 8:00
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:15 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15 2:30 4:45 7:00 8:10 9:15
+
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:30
+
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+6:20
+
+CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
+1:00 3:20 5:40 8:00
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 3:50 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:15 2:30 4:45 7:00 7:45 9:15
+
+Ends Today!MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
+12:30
+
+Ends Today!UNZIPPED [https://filmforum.org/film/unzipped-2026]
+5:50
+
+Showtimes coming soon!
+
+Showtimes coming soon!
+
 Donate [https://donate.filmforum.org/give/]
 
 SUPPORT OUR NONPROFIT CINEMA
@@ -226,12 +166,6 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-THE HARDER THEY COME
-INTRODUCED BY FILM PROGRAMMER AND AUTHOR ASHLEY CLARK [https://filmforum.org/events/event/the-harder-they-come-october-29]
-
-Thursday, October 29
-8:20
-
 MY UNDESIRABLE FRIENDS:
 PART II – EXILE
 INTRODUCED BY EXECUTIVE PRODUCER
@@ -249,6 +183,12 @@ Chapters 4-5
 Sunday, November 1
 4:20
 
+CITIZEN RUTH
+POST-FILM CONVERSATION WITH SCREENWRITER JIM TAYLOR [https://filmforum.org/events/event/citizen-ruth-november-2]
+
+Monday, November 2
+8:00
+
 GET EMAIL NEWS
 
 Our email newsletter comes to your inbox every week with Film Forum's upcoming films and events.
@@ -264,55 +204,40 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+COCO [https://filmforum.org/film/coco-ffjr-2026]
+11:00
+
+CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
+1:20 3:40 6:00 8:20
+
 FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
+12:25 2:25(OC) 4:30 6:30 8:30
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 6:00 7:00 8:15 9:15
+12:15(OC) 2:30 4:45 7:00 9:15
 
 MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
 12:30
 
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-4:15
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-SYMBIOPSYCHOTAXIPLASM: TAKE 2½ [https://filmforum.org/film/symbiopsychotaxiplasm-take-2-william-greaves-100]
-12:30
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-MIRACLE IN HARLEM [https://filmforum.org/film/miracle-in-harlem-william-greaves-100]
-2:40
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-FROM THESE ROOTS and BLACK POWER IN AMERICA: MYTH… OR REALITY? [https://filmforum.org/film/from-these-roots-black-power-in-america-william-greaves-100]
+MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
 4:20
 
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-FREDERICK DOUGLASS: AN AMERICAN LIFE and BOOKER T. WASHINGTON: THE LIFE AND THE LEGACY [https://filmforum.org/film/frederick-douglass-an-american-life-booker-t-washington-the-life-and-the-legacy-william-greaves-100]
-6:30
-
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100]
-STILL A BROTHER: INSIDE THE NEGRO MIDDLE CLASS and IN THE COMPANY OF MEN [https://filmforum.org/film/still-a-brother-inside-the-negro-middle-class-in-the-company-of-men-william-greaves-100]
-8:00
+UNZIPPED [https://filmforum.org/film/unzipped-2026]
+8:00(OC)
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
+https://filmforum.org/film/citizen-ruth
+Alexander Payne’s
+CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
+
+Friday, October 30 – Thursday, November 5
+
+SHOWTIME & TICKETS [https://my.filmforum.org/events/citizen-ruth]
 https://filmforum.org/film/fatherland
 FATHERLAND [https://filmforum.org/film/fatherland]
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/fatherland-pawel] Watch Trailer [https://filmforum.org/film/fatherland#trailer]
-https://filmforum.org/series/william-greaves-100#now-playing
-WILLIAM GREAVES 100 [https://filmforum.org/series/william-greaves-100#now-playing]
-
-Friday, October 23 – Thursday, October 29
-
-Films in this Series VOICE OF LA RAZA
-and THE FIRST WORLD FESTIVAL OF NEGRO ARTS STILL A BROTHER: INSIDE THE NEGRO MIDDLE CLASS
-and IN THE COMPANY OF MEN SYMBIOPSYCHOTAXIPLASM: TAKE ONE SYMBIOPSYCHOTAXIPLASM: TAKE 2½ MIRACLE IN HARLEM FROM THESE ROOTS and BLACK POWER IN AMERICA: MYTH… OR REALITY? FREDERICK DOUGLASS:
-AN AMERICAN LIFE
-and BOOKER T. WASHINGTON:
-THE LIFE AND THE LEGACY NATIONTIME LOST BOUNDARIES WHERE DREAMS COME TRUE
-and SPACE FOR WOMEN
 https://filmforum.org/film/once-upon-a-time-in-harlem
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/once-upon-a-time-in-harlem] Watch Trailer [https://filmforum.org/film/once-upon-a-time-in-harlem#trailer]
@@ -330,17 +255,6 @@ UNZIPPED [https://filmforum.org/film/unzipped-2026]
 MUST END THURSDAY, NOVEMBER 5
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer [https://filmforum.org/film/unzipped-2026#trailer]
-https://filmforum.org/series/nyc-in-transit#now-playing
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
-
-A BRONX TALE
-Tuesday, October 27
-5:50
-
-Films in this Series Robert De Niro’s
-A BRONX TALE Samuel Fuller’s
-PICKUP ON SOUTH STREET Amir Naderi’s
-MANHATTAN BY NUMBERS
 https://filmforum.org/series/film-forum-jr.-series-page#now-playing
 FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
 
@@ -355,26 +269,19 @@ LITTLE FUGITIVE Walt Disney’s
 PINOCCHIO Ingrid Bergman & Bing Crosby in
 THE BELLS OF ST. MARY’S Nancy Meyers’
 THE PARENT TRAP
+https://filmforum.org/series/nyc-in-transit#now-playing
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
+
+PICKUP ON SOUTH STREET
+Tuesday, November 3
+8:00
+
+Films in this Series Samuel Fuller’s
+PICKUP ON SOUTH STREET Amir Naderi’s
+MANHATTAN BY NUMBERS
 
 COMING SOON [https://filmforum.org/coming_soon]
 
-https://filmforum.org/film/the-harder-they-come
-
-PERRY HENZELL’S
-THE HARDER THEY COME [https://filmforum.org/film/the-harder-they-come]
-
-Thursday, October 29
-8:20
-
-Buy Tickets [https://my.filmforum.org/the-harder-they-come]
-https://filmforum.org/film/citizen-ruth
-
-ALEXANDER PAYNE’S
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-
-Friday, October 30 – Thursday, November 5
-
-SHOWTIME & TICKETS [https://my.filmforum.org/events/citizen-ruth]
 https://filmforum.org/film/raise-the-red-lantern
 
 ZHANG YIMOU’S
@@ -383,6 +290,15 @@ RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
 Friday, November 6 – Thursday, November 19
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/raise-the-red-lantern] Watch Trailer [ https://filmforum.org/film/raise-the-red-lantern#trailer ]
+https://filmforum.org/film/displacement-film-fund
+
+5 SHORT FILMS SUPPORTED BY THE DISPLACEMENT FILM FUND
+HOSTED BY CATE BLANCHETT WITH MARYNA ER GORBACH AND MO HARAWE IN PERSON [https://filmforum.org/film/displacement-film-fund]
+
+Wednesday, November 11
+6:00   7:00
+
+Buy Tickets [https://my.filmforum.org/events/displacement-film-fund-shorts]
 https://filmforum.org/film/threeasfour-full-circle
 
 THREEASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
@@ -404,6 +320,7 @@ ROSSELLINI 120 [https://filmforum.org/series/rossellini]
 
 Friday, November 20 – Thursday, December 10
 
+Watch Trailer [ https://filmforum.org/series/rossellini#trailer ]
 https://filmforum.org/film/all-of-a-sudden
 
 ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
@@ -411,6 +328,14 @@ ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
 Opens Wednesday, November 25
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/all-of-a-sudden] Watch Trailer [ https://filmforum.org/film/all-of-a-sudden#trailer ]
+https://filmforum.org/film/when-caesar-was-king-2026
+
+WHEN CAESAR WAS KING
+THE COMEDY GENIUS OF SID CAESAR [https://filmforum.org/film/when-caesar-was-king-2026]
+
+Sunday, November 29
+3:40
+
 https://filmforum.org/film/the-friends-house-is-here
 
 THE FRIEND’S HOUSE IS HERE [https://filmforum.org/film/the-friends-house-is-here]

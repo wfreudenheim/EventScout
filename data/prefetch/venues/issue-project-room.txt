@@ -1,6 +1,6 @@
 VENUE:issue-project-room | Issue Project Room
 URL:https://issueprojectroom.org/events
-FETCHED:2026-10-28T06:43:18.338Z
+FETCHED:2026-11-01T06:37:19.916Z
 
 /
 https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue-project-room/ https://www.instagram.com/issueprojectroom https://soundcloud.com/issueprojectroom
@@ -22,16 +22,6 @@ https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue
 
 UPCOMING EVENTS
 
-/event/noveller-axine-m /event/noveller-axine-m
-
-NOVELLER / AXINE M [/event/noveller-axine-m]
-
-Thursday, October 29, 2026 - 8:00 pm
-22 Boerum Place, Brooklyn 11201
-
-Noveller (2009 AIR) debuts selections from her latest album, I Am The Weather, alongside music drawn from across her catalog. Axine M (2024 AIR) performs with fretless guitar, voice, and computer
-
-More [/event/noveller-axine-m] Tickets [https://issueprojectroom.ticketspice.com/noveller-axine-m]
 /event/rocio-sanchez-caminos /event/rocio-sanchez-caminos
 
 Artists-In-Residence 2026 [/program/artists-residence-2026]
@@ -96,6 +86,16 @@ PAST EVENTS
  * 2004 [/events/archive/2004]
  * 2003 [/events/archive/2003]
 
+/event/noveller-axine-m /event/noveller-axine-m
+
+NOVELLER / AXINE M [/event/noveller-axine-m]
+
+Thu 29 Oct, 2026, 8pm
+22 Boerum Place, Brooklyn 11201
+
+Noveller (2009 AIR) debuts selections from her latest album, I Am The Weather, alongside music drawn from across her catalog. Axine M (2024 AIR) performs with fretless guitar, voice, and computer
+
+More [/event/noveller-axine-m]
 /event/liturgy /event/liturgy
 
 LITURGY [/event/liturgy]
@@ -170,16 +170,4 @@ Sat 18 Jul, 2026, 8pm
 ISSUE closes the summer season with the return of Matana Roberts (2009 AIR). Opening the evening, Ben Vida (2013 AIR) will perform music from his 2026 release, "Oblivion Seekers" with vocalist Sara Magenheimer.
 
 More [/event/matana-roberts-ben-vida-sara-magenheimer]
-/event/webb-crawford-spiriting /event/webb-crawford-spiriting
-
-Artists-In-Residence 2026
-
-WEBB CRAWFORD: SPIRITING OFF [/event/webb-crawford-spiriting]
-
-Fri 10 Jul, 2026, 8pm
-22 Boerum Place, Brooklyn 11201
-
-"Spiriting Off" is a new solo work by luthier Webb Crawford (2026 AIR) for electric guitar, tenor banjo, and five-string banjo.
-
-More [/event/webb-crawford-spiriting]
  * Load More [?page=1]

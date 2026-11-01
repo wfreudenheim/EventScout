@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-10-28T06:43:44.228Z
+FETCHED:2026-11-01T06:37:34.709Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,41 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP10.28.2026
+TODAY’SLINEUP11.01.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+THE DJ SHANNON SHOW WITH STACEY "HOTWAXX" HALE
+
+DJ Shannon, Stacey "Hotwaxx" Hale
+
+10.29.2026
+
+House
+
+ * Play
+ * Detail [/shows/the-dj-shannon-show/2026-10-29-1200]
+ *
+
+/shows/the-dj-shannon-show/2026-10-29-1200
+
+PAURRO
+
+Paurro
+
+10.28.2026
+
+Electronica, Acid, Electro, Breaks
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-28-1900]
+ *
+
+/shows/special-guests/2026-10-28-1900
 
 BEAUTY IN SOUND WITH H31R
 
@@ -90,74 +118,48 @@ Techno, IDM, Soundtrack, Video Game Music
 
 /shows/special-guests/2026-10-23-1900
 
-SABROUT: 1996 RETROSPECTIVE
-
-Sabrout
-
-10.23.2026
-
-Techno, Acid, House, Electro, Jazz
-
- * Play
- * Detail [/shows/dysfluency/2026-10-23-1300]
- *
-
-/shows/dysfluency/2026-10-23-1300
-
-MARGEAUX
-
-Margeaux
-
-10.20.2026
-
- * Play
- * Detail [/shows/margeaux/2026-10-20-1400]
- *
-
-/shows/margeaux/2026-10-20-1400
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * Dj Haram
+ * Jeff Mendoza
    R
-   [/artists/dj-haram]
- * JWords
+   [/artists/jeff-mendoza]
+ * Ella Hussle
    R
-   [/artists/jwords]
- * D. Tiffany
-   R
-   [/artists/d-tiffany]
- * x3butterfly
-   R
-   [/artists/x3butterfly]
+   [/artists/ella-hussle]
  * JADALAREIGN
    R
    [/artists/jadalareign]
- * Lovie
+ * Relaxer
    R
-   [/artists/lovie]
- * Sabrout
-   R
-   [/artists/sabrout]
- * Theodore Jahng
-   R
-   [/artists/theodore-jahng]
- * Ayanna Heaven
-   R
-   [/artists/ayanna-heaven]
- * Brandon Stosuy
-   R
-   [/artists/brandon-stosuy]
+   [/artists/relaxer]
  * LISAS
    R
    [/artists/lisas]
- * YOUNGBLOODS
+ * Kristine Barilli
    R
-   [/artists/youngbloods]
+   [/artists/kristine-barilli]
+ * Dee Diggs
+   R
+   [/artists/dee-diggs]
+ * Ayanna Heaven
+   R
+   [/artists/ayanna-heaven]
+ * Millz 'El Negro Mezclador'
+   R
+   [/artists/millz-el-negro-mezclador]
+ * Dave Stringer Hughes
+   R
+   [/artists/dave-stringer-hughes]
+ * Toribio
+   R
+   [/artists/toribio]
+ * Ryan Schreiber
+   R
+   [/artists/ryan-schreiber]
 
 WE ARE THE LOT RADIO
 
@@ -171,33 +173,40 @@ About us [/about]
    RESTREAM
 
  * 10am — 12pm
-   SECOND HAND LOVE with FATIK
+   misc. with DJ Tara
 
- * 12pm — 2pm
-   Disco Tehran
+ * 12pm — 1pm
+   DJ Koolt
 
- * 2pm — 4pm
-   FIRST HAND SMOKE with DJ SWISHA
+ * 1pm — 2pm
+   Strictly Gogo with Amal
+
+ * 2pm — 3pm
+   Special Instructions with Ella Hussle
+   Hip Hop, Soul, Funk
+ * 3pm — 4pm
+   Lynn Avery (Pink Must/Iceblink)
 
  * 4pm — 5pm
-   Nick Carroll
-
+   OLIVER CLEGG (the hairer half of radio quebrada)
+   Techno, Acid, Experimental Electronic, Dub
  * 5pm — 6pm
-   BUNNY BDAY with Honey Bun and Lovie
+   Mathew Jonson
 
  * 6pm — 7pm
-   The 8th Path Records with Boston Chery
+   NIGHT MIMOSA with Ted McGrath
 
  * 7pm — 8pm
-   PAURRO
-
+   Palestine Forever with Elina Arbo and Omar Ahmad
+   Experimental Electronic, Ambient, Electronica, House, Techno
  * 8pm — 9pm
-   Maude Vôs
-   Breaks, Ambient, Electronica, Dubstep, IDM
+   RHR
+
  * 9pm — 10pm
-   Monkey Jar with S.Maria
+   Ritual Signal with Kamran Sadeghi
 
  * 10pm — 12am
-   World Galaxy - 432hz - with Takaya Nagase
+   Club Moment
+   House, Techno
 
 THE LOT RADIO

@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "world-music-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-11T07:25:38.750Z",
-    "completed_at": "2026-10-11T07:25:38.750Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "pioneer-works",
     "scrape_tier_used": 3,
     "started_at": "2026-10-11T07:25:38.766Z",
@@ -4997,6 +4987,16 @@
     "completed_at": "2026-10-28T07:33:51.297Z",
     "events_found": 12,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-11-01T06:37:16.031Z",
+    "completed_at": "2026-11-01T06:37:16.031Z",
+    "events_found": 0,
+    "events_new": 0,
     "status": "completed"
   }
 ]

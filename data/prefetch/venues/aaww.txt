@@ -1,6 +1,6 @@
 VENUE:aaww | Asian American Writers' Workshop
 URL:https://aaww.org/
-FETCHED:2026-10-28T06:43:17.617Z
+FETCHED:2026-11-01T06:37:20.068Z
 
 ASIAN
 AMERICAN WRITERS'
@@ -182,27 +182,27 @@ Tastes of Beiping [https://aaww.org/tlp-tastes-of-beiping/]
 
 Selections from Essays from a Cottager’s Sketchbook 雅舍小品
 
-Fiction
-[https://aaww.org/osipon-bangkera-the-boatwoman/]
-By Emmanuel Barrameda [https://aaww.org/postauthor/emmanuel-barrameda/]
-Bangkera | The Boatwoman [https://aaww.org/osipon-bangkera-the-boatwoman/]
+Poetry
+[https://aaww.org/osipon-revolt-from-hymen/]
+By Angela Manalang-Gloria [https://aaww.org/postauthor/angela-manalang-gloria/]
+Revolt from Hymen [https://aaww.org/osipon-revolt-from-hymen/]
 
-Hanggang sa maging desperado, sasayaw at mag-aalay ng itlog kay Sta. Clara sa Obando, magdadasal sa iba pang Santa at Birhen, maglalakad nang paluhod sa simbahan ng Quiapo at Baclaran. | Desperation sets in, and they dance and offer eggs to Santa Clara in Obando, walk on their knees inside the Quiapo and Baclaran shrines.
+O to be free at last
 
 /project/open-city
-Reportage
-[https://aaww.org/farming-in-the-heartland/]
-By Shannon Daniels [https://aaww.org/postauthor/shannon-daniels/]
-Farming in the Heartland [https://aaww.org/farming-in-the-heartland/]
-
-How Asian American farmers in Michigan are finding success with alternative food systems
-
 Reportage
 [https://aaww.org/the-syrians-next-door/]
 By Saliha Bayrak [https://aaww.org/postauthor/saliha-bayrak/]
  The Syrians Next Door [https://aaww.org/the-syrians-next-door/]
 
 Syrians in New York weigh the decision to stay in the U.S. or return home.
+
+Reportage
+[https://aaww.org/farming-in-the-heartland/]
+By Shannon Daniels [https://aaww.org/postauthor/shannon-daniels/]
+Farming in the Heartland [https://aaww.org/farming-in-the-heartland/]
+
+How Asian American farmers in Michigan are finding success with alternative food systems
 
 /project/cages
 Poetry

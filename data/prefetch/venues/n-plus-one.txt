@@ -1,6 +1,6 @@
 VENUE:n-plus-one | n+1 Magazine
 URL:https://www.nplusonemag.com/
-FETCHED:2026-10-28T06:43:25.378Z
+FETCHED:2026-11-01T06:37:29.408Z
 
 https://www.nplusonemag.com/subscribe/?affid=hero
 https://www.nplusonemag.com/magazine/issue-54 Current Issue
@@ -124,33 +124,36 @@ Issue 54 Power Play
  * Chad Harbach
 
 [https://www.nplusonemag.com/issue-54/fiction-drama/the-parties/]
+card-default flavor-home-flow type-online-only term-election-special format-with_image tax-online-only featured-
+Election Special
+ * Rally for Hallie
+ * Olivia Paschal
+
+[https://www.nplusonemag.com/online-only/election-special/rally-for-hallie/]
+card-default flavor-home-flow type-online-only term-election-special format-pullquote tax-online-only featured-
+
+THEY DESPERATELY WANT TROY JACKSON TO JOIN THEM, the mailer read.
+
+Election Special
+ * Send Some of These Guys Packing
+ * Miles Berry
+
+[https://www.nplusonemag.com/online-only/election-special/send-some-of-these-guys-packing/]
+card-event flavor-home-flow type-online-only term-events format-pullquote tax-online-only featured-
+
+How We Can Build a World for All
+
+ * NOV 11
+   2026
+ * New visions for US foreign policy
+
+[https://www.nplusonemag.com/online-only/events/how-we-can-build-a-world-for-all/]
 card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
 Online Only
  * Playing Roulette in the Archives
  * Amelia Soth
 
 [https://www.nplusonemag.com/online-only/online-only/playing-roulette-in-the-archives/]
-card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
-Online Only
- * Blue Power in New York
- * Stuart Schrader, Colin Vanderburg
-
-[https://www.nplusonemag.com/online-only/online-only/blue-power-in-new-york/]
-card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
-Online Only
- * Trump’s Microphones
- * Dushko Petrovich Córdova
-
-[https://www.nplusonemag.com/online-only/online-only/trumps-microphones/]
-card-default flavor-home-flow type-online-only term-online-only format-pullquote tax-online-only featured-
-
-HUM 2380: How Can I Survive, Reproduce, and Flourish?
-
-Online Only
- * Death of the Mind in Sarasota
- * Lauren O'Neill-Butler
-
-[https://www.nplusonemag.com/online-only/online-only/death-of-the-mind-in-sarasota/]
 
 BOOKSTORE [http://shop.nplusonemag.com/]
 
@@ -182,16 +185,16 @@ $25.00
 Browse the Shop [http://shop.nplusonemag.com/]
 card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
 Online Only
- * EV Listening
- * William Harris
+ * Blue Power in New York
+ * Stuart Schrader, Colin Vanderburg
 
-[https://www.nplusonemag.com/online-only/online-only/ev-listening/]
+[https://www.nplusonemag.com/online-only/online-only/blue-power-in-new-york/]
 card-default flavor-home-flow type-online-only term-online-only format-with_image tax-online-only featured-
 Online Only
- * Last Week in End Times Cinema
- * A. S. Hamrah, Will Tavlin
+ * Trump’s Microphones
+ * Dushko Petrovich Córdova
 
-[https://www.nplusonemag.com/online-only/online-only/last-week-in-end-times-cinema-2/]
+[https://www.nplusonemag.com/online-only/online-only/trumps-microphones/]
 
 WATER WORLD
 
@@ -249,7 +252,7 @@ n+1 writers on Tinseltown.
 
 card-default flavor-home-feature-2 type-magazine term-issue-49 format-pullquote tax-issue featured-
 
-Every week Netflix seemed to deliver a new movie no one had ever heard of that somehow broke every viewing record in the world.
+Blockbuster punished customers for being forgetful; Netflix rewarded them for being mindless.
 
 Issue 49 Rerun
  * Casual Viewing

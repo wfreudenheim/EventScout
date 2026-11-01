@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-10-28T06:43:18.793Z
+FETCHED:2026-11-01T06:37:20.712Z
 
 Subscribe
 
@@ -37,6 +37,13 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
+/events/6783405/celebrating-10-years-of-e-flux-architecture/
+
+Current & Upcoming
+Celebrating 10 Years of e-flux Architecture [/events/6783405/celebrating-10-years-of-e-flux-architecture/]
+November 4, 2026, 6:30pm
+Columbia University Graduate School of Architecture, Planning and Preservation
+RSVP [https://www.eventbrite.com/e/e-fluxgsapp-celebration-of-10-years-of-e-flux-architecture-tickets-1999544995909]
 /events/6783399/la-merde-the-mole-nbsp/
 
 Current & Upcoming
@@ -44,6 +51,13 @@ La Merde! The Mole!   [/events/6783399/la-merde-the-mole-nbsp/]
 November 5, 2026, 7pm
 e-flux Screening Room
 Get tickets [https://www.eventbrite.com/e/la-merde-the-mole-tickets-2003685100072]
+/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/
+
+Current & Upcoming
+Bar Laika presents Playback 0041 with Smalltown Supersound [/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/]
+November 5, 2026, 7pm
+Bar Laika by e-flux
+
 /events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/
 
 Current & Upcoming
@@ -58,12 +72,37 @@ Here, Already [/events/6783397/here-already/]
 November 10, 2026, 7pm
 e-flux Screening Room
 Get tickets [https://www.eventbrite.com/e/here-already-tickets-2003581975624]
-/events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/
+/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/
 
 Current & Upcoming
-Bar Laika presents Playback 0041 with Chantal Michelle [/events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/]
+And the Dogs Were Silent: A Convening by Sharifa Rhodes-Pitts [/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/]
+November 12, 2026, 6pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts-tickets-2004036302528]
+/events/6783400/theory-of-seeing/
+
+Current & Upcoming
+Theory of Seeing [/events/6783400/theory-of-seeing/]
+November 17, 2026, 7pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/theory-of-seeing-tickets-2004033142075]
+/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/
+
+Current & Upcoming
+Bar Laika presents Playback 0042 with Chantal Michelle [/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/]
 November 18, 2026, 7pm
 Bar Laika by e-flux
+
+/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/
+
+Current & Upcoming
+
+TELLUS with Paul DeMarinis and "Birdcalls" by Louise Lawler  
+
+[/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/]
+November 19, 2026, 7pm
+e-flux
+Get tickets [https://www.eventbrite.com/e/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler-tickets-2004033514188]
 
 With our international collaborators, e-flux organizes a wide range of symposia, screenings, and performances, many of which are livestreamed and archived on e-flux Events.
 
@@ -87,6 +126,15 @@ Calendar
 Filter
 Done
 Current & Upcoming
+Talks, In-person
+/events/6783405/celebrating-10-years-of-e-flux-architecture/
+
+Celebrating 10 Years of e-flux Architecture
+
+[/events/6783405/celebrating-10-years-of-e-flux-architecture/]
+November 4, 2026, 6:30pm
+Columbia University Graduate School of Architecture, Planning and Preservation
+RSVP [https://www.eventbrite.com/e/e-fluxgsapp-celebration-of-10-years-of-e-flux-architecture-tickets-1999544995909]
 In-person, Screenings, Talks
 /events/6783399/la-merde-the-mole-nbsp/
 
@@ -98,6 +146,14 @@ La Merde! The Mole!
 November 5, 2026, 7pm
 e-flux Screening Room
 Get tickets [https://www.eventbrite.com/e/la-merde-the-mole-tickets-2003685100072]
+In-person
+/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/
+
+Bar Laika presents Playback 0041 with Smalltown Supersound
+
+[/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/]
+November 5, 2026, 7pm
+Bar Laika by e-flux
 In-person, Screenings, Talks
 /events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/
 
@@ -116,14 +172,43 @@ Here, Already
 November 10, 2026, 7pm
 e-flux Screening Room
 Get tickets [https://www.eventbrite.com/e/here-already-tickets-2003581975624]
+Screenings, In-person, Talks
+/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/
+
+And the Dogs Were Silent: A Convening by Sharifa Rhodes-Pitts
+
+[/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/]
+November 12, 2026, 6pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts-tickets-2004036302528]
+In-person, Screenings, Talks
+/events/6783400/theory-of-seeing/
+
+Theory of Seeing
+
+[/events/6783400/theory-of-seeing/]
+November 17, 2026, 7pm
+e-flux Screening Room
+Get tickets [https://www.eventbrite.com/e/theory-of-seeing-tickets-2004033142075]
 In-person
-/events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/
+/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/
 
-Bar Laika presents Playback 0041 with Chantal Michelle
+Bar Laika presents Playback 0042 with Chantal Michelle
 
-[/events/6783388/bar-laika-presents-playback-0041-with-chantal-michelle/]
+[/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/]
 November 18, 2026, 7pm
 Bar Laika by e-flux
+Performances, In-person
+/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/
+
+TELLUS with Paul DeMarinis and "Birdcalls" by Louise Lawler
+
+ 
+
+[/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/]
+November 19, 2026, 7pm
+e-flux
+Get tickets [https://www.eventbrite.com/e/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler-tickets-2004033514188]
 Archive
 
 In-person, Talks
@@ -135,6 +220,7 @@ How To (Not) Be Heard: Steve Goodman & Bogna Konior
 October 27, 2026, 7pm
 e-flux
 In-person, Launches
+Documentation
 /events/6783390/tim-altenhof-breathing-space-the-architecture-of-pneumatic-beings/
 
 Tim Altenhof, Breathing Space: The Architecture of Pneumatic Beings
@@ -160,4 +246,4 @@ October 20, 2026, 7pm
 e-flux
 Load more
 Advertisement
-/ads/redirect/6747217
+/ads/redirect/6747218

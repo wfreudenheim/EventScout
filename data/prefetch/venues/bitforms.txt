@@ -1,12 +1,12 @@
 VENUE:bitforms | bitforms gallery
 URL:https://www.bitforms.art/
-FETCHED:2026-10-28T06:43:19.206Z
+FETCHED:2026-11-01T06:37:21.079Z
 
 /Menu
 
 /exhibition/to-see-for-oneself
 
-upcoming
+current
 
 LaJuné McMillianTo See for Oneself [/exhibition/to-see-for-oneself]
 

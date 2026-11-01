@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-10-28T06:43:22.774Z
+FETCHED:2026-11-01T06:37:26.402Z
 
 /
 
@@ -14,66 +14,63 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/events-and-exhibitions/events/aaron-gilbert-alex-katz-chair-painting-artist-talk
+/index.php/events-and-exhibitions/events/diane-lewis-student-lecture-series-manuel-bouzas-reporting-field
 
-AARON GILBERT: ALEX KATZ CHAIR IN PAINTING ARTIST TALK [/events-and-exhibitions/events/aaron-gilbert-alex-katz-chair-painting-artist-talk]
+THE DIANE LEWIS STUDENT LECTURE SERIES | MANUEL BOUZAS: REPORTING FROM THE FIELD [/index.php/events-and-exhibitions/events/diane-lewis-student-lecture-series-manuel-bouzas-reporting-field]
 
-October 27, 2026
-6:00pm
+November 3, 2026
+6:30pm
 
-Gilbert is known for depicting scenes from private everyday life while invoking the weight of institutional forces
+Manuel Bouzas will present his work in a public lecture. 
 
-Event Details [/events-and-exhibitions/events/aaron-gilbert-alex-katz-chair-painting-artist-talk]
- * /events-and-exhibitions/events/new-york-architecture-design-publishing-today
+Event Details [/index.php/events-and-exhibitions/events/diane-lewis-student-lecture-series-manuel-bouzas-reporting-field]
+ * /index.php/events-and-exhibitions/events/native-voices-karenna-lay-our-vibration-down
 
-   NEW YORK ARCHITECTURE & DESIGN PUBLISHING TODAY [/events-and-exhibitions/events/new-york-architecture-design-publishing-today]
+   NATIVE VOICES KARENNA—LAY OUR VIBRATION DOWN [/index.php/events-and-exhibitions/events/native-voices-karenna-lay-our-vibration-down]
 
-   October 27, 2026
-   6:30pm
- * /events-and-exhibitions/events/class-lecture-rebecca-olivieri-rinaldo-olivieri-architecture-and
+   November 5, 2026
+   7:00pm
+ * /index.php/events-and-exhibitions/events/conversations-tusculum
 
-   IN-CLASS LECTURE | REBECCA OLIVIERI: RINALDO OLIVIERI — ARCHITECTURE AND THEATRE [/events-and-exhibitions/events/class-lecture-rebecca-olivieri-rinaldo-olivieri-architecture-and]
+   CONVERSATIONS IN TUSCULUM [/index.php/events-and-exhibitions/events/conversations-tusculum]
 
-   October 29, 2026
-   2:00pm
- * /events-and-exhibitions/events/diane-lewis-student-lecture-series-christine-chang-dialogue-method
+   November 9, 2026
+   7:00pm
+ * /index.php/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk
 
-   THE DIANE LEWIS STUDENT LECTURE SERIES | CHRISTINE CHANG: DIALOGUE AS METHOD — OBJECTS,THRESHOLDS & OFF-MODERN RUINS [/events-and-exhibitions/events/diane-lewis-student-lecture-series-christine-chang-dialogue-method]
+   STANLEY WOLUKAU-WANAMBWA: HENRY WOLF CHAIR IN PHOTOGRAPHY ARTIST TALK [/index.php/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk]
 
-   October 29, 2026
-   6:30pm
- * /events-and-exhibitions/events/diane-lewis-student-lecture-series-manuel-bouzas-reporting-field
+   November 10, 2026
+   7:00pm
+ * /index.php/events-and-exhibitions/events/representation-lecture-mark-west-seeing-things-pareidolia-and
 
-   THE DIANE LEWIS STUDENT LECTURE SERIES | MANUEL BOUZAS: REPORTING FROM THE FIELD [/events-and-exhibitions/events/diane-lewis-student-lecture-series-manuel-bouzas-reporting-field]
+   REPRESENTATION LECTURE | MARK WEST: SEEING THINGS, PAREIDOLIA AND THE DISCOVERY OF FORM [/index.php/events-and-exhibitions/events/representation-lecture-mark-west-seeing-things-pareidolia-and]
 
-   November 3, 2026
+   November 12, 2026
    6:30pm
 
 ONGOING EXHIBITIONS
 
- * /events-and-exhibitions/exhibitions/guild-greyshkul
+ * /index.php/events-and-exhibitions/exhibitions/guild-greyshkul
 
-   GUILD & GREYSHKUL [/events-and-exhibitions/exhibitions/guild-greyshkul]
+   GUILD & GREYSHKUL [/index.php/events-and-exhibitions/exhibitions/guild-greyshkul]
 
    September 16, 2026 to October 31, 2026
- * /architecture/exhibitions/primers-handmade-utopia
+ * /index.php/architecture/exhibitions/primers-handmade-utopia
 
-   PRIMERS FOR A HANDMADE UTOPIA [/architecture/exhibitions/primers-handmade-utopia]
+   PRIMERS FOR A HANDMADE UTOPIA [/index.php/architecture/exhibitions/primers-handmade-utopia]
 
    October 08, 2026 to November 15, 2026
- * /events-and-exhibitions/exhibitions/october-27-view-exhibitions
+ * /index.php/events-and-exhibitions/exhibitions/october-27-view-exhibitions
 
-   OCTOBER 27 ON VIEW EXHIBITIONS [/events-and-exhibitions/exhibitions/october-27-view-exhibitions]
-
-   October 27, 2026 to October 31, 2026
-
-UPCOMING EXHIBITIONS
-
- * /events-and-exhibitions/exhibitions/october-27-view-exhibitions
-
-   OCTOBER 27 ON VIEW EXHIBITIONS [/events-and-exhibitions/exhibitions/october-27-view-exhibitions]
+   OCTOBER 27 ON VIEW EXHIBITIONS [/index.php/events-and-exhibitions/exhibitions/october-27-view-exhibitions]
 
    October 27, 2026 to October 31, 2026
+ * /index.php/events-and-exhibitions/exhibitions/publishing-architecture-cooper-union
+
+   PUBLISHING ARCHITECTURE AT THE COOPER UNION [/index.php/events-and-exhibitions/exhibitions/publishing-architecture-cooper-union]
+
+   October 29, 2026 to November 25, 2026
 
  * Founded by inventor, industrialist and philanthropist Peter Cooper in 1859, The Cooper Union for the Advancement of Science and Art offers education in art, architecture and engineering, as well as courses in the humanities and social sciences.
 

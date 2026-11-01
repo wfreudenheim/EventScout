@@ -1,22 +1,10 @@
 VENUE:architectural-league | Architectural League of New York
 URL:https://archleague.org/events/
-FETCHED:2026-10-28T06:43:22.659Z
+FETCHED:2026-11-01T06:37:26.007Z
 
 /
 
 UPCOMING EVENTS
-
-https://archleague.org/event/after-hours-nycsca/
-
-OCTOBER 29, 2026
-
-AFTER HOURS: NEW YORK CITY SCHOOL CONSTRUCTION AUTHORITY
-
-[https://archleague.org/event/after-hours-nycsca/]
-
-The city authority opens the door of its Long Island City office to League members.
-
-After Hours
 
 https://archleague.org/event/from-field-to-form-ocean-flora/
 
@@ -67,6 +55,18 @@ In this virtual studio visit, Tatiana Bilbao ESTUDIO will guide League members t
 After Hours
 
 PAST EVENTS
+
+https://archleague.org/event/after-hours-nycsca/
+
+OCTOBER 29, 2026
+
+AFTER HOURS: NEW YORK CITY SCHOOL CONSTRUCTION AUTHORITY
+
+[https://archleague.org/event/after-hours-nycsca/]
+
+The city authority opens the door of its Long Island City office to League members.
+
+After Hours
 
 https://archleague.org/event/ask-me-anything-with-gauri-bahuguna/
 
@@ -171,15 +171,3 @@ MICHAEL BIERUT
 On May 18, 2026, the League presented its President's Medal to Michael Bierut.
 
 President's Medal
-
-https://archleague.org/event/current-work-toward-circular-construction-with-felix-heisel/
-
-MAY 14, 2026
-
-CURRENT WORK: TOWARD CIRCULAR CONSTRUCTION, WITH FELIX HEISEL
-
-[https://archleague.org/event/current-work-toward-circular-construction-with-felix-heisel/]
-
-The founder of Cornell’s Circular Construction Lab discusses the built environment as a material depot for reuse and reconfiguration. A circularity-themed trade fair featuring New York–based organizations and vendors preceded the lecture.
-
-Current Work

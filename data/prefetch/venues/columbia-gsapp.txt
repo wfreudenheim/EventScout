@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-10-28T06:43:27.766Z
+FETCHED:2026-11-01T06:37:31.416Z
 
 /
  * The School
@@ -850,68 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=20&month=10&time_range=week&year=2026 /events?day=5&month=11&time_range=week&year=2026
-Oct 28 – Nov 4
+/events?day=24&month=10&time_range=week&year=2026 /events?day=9&month=11&time_range=week&year=2026
+Nov 1 – Nov 8
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Today at 9am
-
-Virtual
-
-Fall 2026 Online Open House: MS Advanced Architectural Design
-
-[/events/4348-fall-2026-online-open-house-ms-advanced-architectural-design]
-
-Today at 9am
-
-Virtual
-
-Fall 2026 Online Open House: MS Computational Design Practices
-
-[/events/4349-fall-2026-online-open-house-ms-computational-design-practices]
-
-Today at 10am
-
-Virtual
-
-Fall 2026 Online Open House: MS Urban Planning
-
-[/events/4350-fall-2026-online-open-house-ms-urban-planning]
-
-Today at 11am
-
-GSAPP Admissions at University of Illinois Chicago Grad Fair
-
-[/events/4357-gsapp-admissions-at-university-of-illinois-chicago-grad-fair]
-
-Today at 7:30pm
-
-Alumni Connections in Indianapolis
-
-Alumni
-
-[/events/4288-alumni-connections-in-indianapolis]
-
-Thu, Oct 29    8am
-
-Virtual
-
-Fall 2026 Online Open House: MS Real Estate Development
-
-[/events/4351-fall-2026-online-open-house-ms-real-estate-development]
-
-Thu, Oct 29    9am
-
-Virtual
-
-Fall 2026 Online Open House: Master of Architecture
-
-[/events/4352-fall-2026-online-open-house-master-of-architecture]
 
 Wed, Nov 4    11am
 
@@ -926,3 +872,27 @@ Celebrating 10 years of e-flux Architecture
 Conference
 
 [/events/4282-celebrating-10-years-of-e-flux-architecture]
+
+Thu, Nov 5    12pm
+
+The Encounters Series: “American Environmental Machines, 1500-2026”
+
+[/events/4376-the-encounters-series-american-environmental-machines-1500-2026]
+
+Thu, Nov 5    1pm
+
+MSRED Lecture: Will Harsh, Tryline Capital
+
+Lecture
+
+New York
+
+[/events/4299-msred-lecture-will-harsh-tryline-capital]
+
+Fri, Nov 6    1pm
+
+THE LIBRARY IS OPEN 33: Material Variance
+
+Library is Open
+
+[/events/4228-the-library-is-open-33-material-variance]

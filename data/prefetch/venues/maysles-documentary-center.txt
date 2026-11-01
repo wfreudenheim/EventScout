@@ -1,6 +1,6 @@
 VENUE:maysles-documentary-center | Maysles Documentary Center
 URL:https://www.maysles.org/
-FETCHED:2026-10-28T06:43:19.401Z
+FETCHED:2026-11-01T06:37:21.715Z
 
 /
 
@@ -31,16 +31,6 @@ UPCOMING EVENTS
 
 Featured
 
-Oct 30
-[/calendar/nonfiction-by-any-means-necessary]
-October 30, 2026
-
-NONFICTION BY ANY MEANS NECESSARY [/calendar/nonfiction-by-any-means-necessary]
-October 30, 2026
-
-Read more → [/calendar/nonfiction-by-any-means-necessary]
-October 30, 2026
-
 Oct 31
 [/calendar/true-north]
 October 31, 2026
@@ -52,14 +42,24 @@ Read more → [/calendar/true-north]
 October 31, 2026
 
 Nov 3
-[/calendar/blknews-terms-and-conditions]
+[/calendar/blknws-terms-and-conditions]
 November 3, 2026
 
-BLKNEWS: TERMS & CONDITIONS [/calendar/blknews-terms-and-conditions]
+ELECTION NIGHT at MAYSLES + BLKNEWS: TERMS & CONDITIONS [/calendar/blknws-terms-and-conditions]
 November 3, 2026
 
-Read more → [/calendar/blknews-terms-and-conditions]
+Read more → [/calendar/blknws-terms-and-conditions]
 November 3, 2026
+
+Nov 4
+[/calendar/education-soft-launch-reception]
+November 4, 2026
+
+Maysles Education: A New Season [/calendar/education-soft-launch-reception]
+November 4, 2026
+
+Read more → [/calendar/education-soft-launch-reception]
+November 4, 2026
 
 Nov 7
 [/calendar/dad-stroll-a-morning-of-cartoons-at-maysles]
@@ -90,6 +90,26 @@ November 11, 2026
 
 Read more → [/calendar/runa-simi]
 November 11, 2026
+
+Nov 13
+[/calendar/future-beyond-rikers-film-festival-friday]
+November 13, 2026
+
+FUTURE BEYOND RIKERS: A Film Festival (Nov 13) [/calendar/future-beyond-rikers-film-festival-friday]
+November 13, 2026
+
+Read more → [/calendar/future-beyond-rikers-film-festival-friday]
+November 13, 2026
+
+Nov 14
+[/calendar/future-beyond-rikers-film-festival-saturday]
+November 14, 2026
+
+FUTURE BEYOND RIKERS: A Film Festival (Nov 14) [/calendar/future-beyond-rikers-film-festival-saturday]
+November 14, 2026
+
+Read more → [/calendar/future-beyond-rikers-film-festival-saturday]
+November 14, 2026
 
 Nov 21
 [/calendar/the-alabama-solution]

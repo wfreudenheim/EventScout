@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-10-28T06:43:26.199Z
+FETCHED:2026-11-01T06:37:29.782Z
 
 Index [/]
 
@@ -69,26 +69,6 @@ Learn More [/nodes]
 
 FILTER
 All EventsGreenpointChinatown
- * Is Everything Predictable?: AI, Prediction Markets, and the Philosophy of Foresight [/programming/is-everything-predictable-ai-prediction-markets-and-the-philosop-evt-xnCQQKMg0qG8Snk?view=list]
-
-   IS EVERYTHING PREDICTABLE?: AI, PREDICTION MARKETS, AND THE PHILOSOPHY OF FORESIGHT
-
-   Thursday, Oct 29, 2026
-
-   Hosted by Emma Stamm [https://luma.com/user/usr-0eBXjyZteuWudxW]
-
-   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
-
- * Music Industry 101, Session 1: Songwriting & Publishing [/programming/music-industry-101-session-1-songwriting-publishing-evt-DFvKo6hdq0TMH5j?view=list]
-
-   MUSIC INDUSTRY 101, SESSION 1: SONGWRITING & PUBLISHING
-
-   Thursday, Oct 29, 2026
-
-   Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
-
-   Presented by Index Chinatown
-
  * Music Industry 101, Session 2: Recordings & Label Deals [/programming/music-industry-101-session-2-recordings-label-deals-evt-lTLAoj5ulLctdgS?view=list]
 
    MUSIC INDUSTRY 101, SESSION 2: RECORDINGS & LABEL DEALS
@@ -112,6 +92,26 @@ All EventsGreenpointChinatown
    MUSIC INDUSTRY 101, SESSION 3: MUSIC MARKETING
 
    Thursday, Nov 12, 2026
+
+   Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
+
+   Presented by Index Chinatown
+
+ * Woven Speakers: Hands on eTextiles Workshop [/programming/woven-speakers-hands-on-etextiles-workshop-evt-Rqo5fG0w5UgP9D1?view=list]
+
+   WOVEN SPEAKERS: HANDS ON ETEXTILES WORKSHOP
+
+   Sunday, Nov 15, 2026
+
+   Hosted by Craftwork [https://luma.com/user/usr-vxZ1anb4VpBR19D]
+
+   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
+
+ * Music Industry 101, Session 4: Live Music & Touring [/programming/music-industry-101-session-4-live-music-touring-evt-QEK4YLmXXnLk8Or?view=list]
+
+   MUSIC INDUSTRY 101, SESSION 4: LIVE MUSIC & TOURING
+
+   Thursday, Nov 19, 2026
 
    Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
 
