@@ -8776,5 +8776,45 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-01T07:23:39.552Z"
+  },
+  {
+    "id": "fridman-gallery-2026-11-11-mirrored-in-time",
+    "title": "Mirrored in Time",
+    "venue_id": "fridman-gallery",
+    "venue_name": "Fridman Gallery",
+    "date": "2026-11-11",
+    "description": "Group exhibition featuring Alexa Kumiko Hatanaka, Naomi Lisiki, Will Maxen, and sound artist Daniel Neumann, on view November 11 through December 13, 2026.",
+    "url": "https://fridmangallery.com/2026/10/11/exhibitions-mirrored-in-time-11-11-12-13-2026/",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:25:41.055Z"
+  },
+  {
+    "id": "fridman-gallery-2026-11-11-a-world-of-her-own",
+    "title": "A World of Her Own",
+    "venue_id": "fridman-gallery",
+    "venue_name": "Fridman Gallery",
+    "date": "2026-11-11",
+    "description": "Solo exhibition by Madeleine Skzrynecka in Fridman Gallery's project room, on view November 11 through December 13, 2026.",
+    "url": "https://fridmangallery.com/2026/10/11/madeleine-skrzynecka-a-world-of-her-own-nov-11-dec-13-2026/",
+    "format": "opening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:25:41.055Z"
   }
 ]
