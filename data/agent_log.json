@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "brooklyn-rail",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:17:50.193Z",
-    "completed_at": "2026-10-14T07:17:50.193Z",
-    "events_found": 4,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "cuny-graduate-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:17:50.214Z",
-    "completed_at": "2026-10-14T07:17:50.214Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "film-at-lincoln-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:17:50.231Z",
-    "completed_at": "2026-10-14T07:17:50.231Z",
-    "events_found": 8,
-    "events_new": 8,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "printed-matter",
     "scrape_tier_used": 3,
     "started_at": "2026-10-14T07:17:50.240Z",
@@ -4997,6 +4967,36 @@
     "completed_at": "2026-11-01T07:25:41.087Z",
     "events_found": 12,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "summerstage",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:28:45.862Z",
+    "completed_at": "2026-11-01T07:28:45.862Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "flushing-town-hall",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:28:45.888Z",
+    "completed_at": "2026-11-01T07:28:45.888Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "terraza-7",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-01T07:28:45.918Z",
+    "completed_at": "2026-11-01T07:28:45.918Z",
+    "events_found": 11,
+    "events_new": 11,
     "status": "completed"
   }
 ]

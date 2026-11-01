@@ -8816,5 +8816,246 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-01T07:25:41.055Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-10-12-portraits-of-america-exhibition",
+    "title": "Portraits of America Exhibition",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-10-12",
+    "description": "A group photography exhibition bringing together portraits of individuals whose distinct histories, cultural backgrounds, and lived experiences reflect the complex and evolving idea of American identity. On view through November 10, 2026.",
+    "url": "https://www.flushingtownhall.org/show-details/portraits-of-america-exhibition",
+    "format": "gallery",
+    "interest_score": 2.2,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.869Z"
+  },
+  {
+    "id": "terraza-7-2026-11-01-max-pollak-the-rumbatap-jam",
+    "title": "Max Pollak | The RumbaTap Jam",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-01",
+    "description": "Tap-dance innovator Max Pollak leads a RumbaTap jam session, fusing Afro-Cuban rumba rhythms with improvised tap dance.",
+    "url": "https://www.terraza7.com/detalles-y-registro/max-pollak-the-rumbatap-jam-2",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc."
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.892Z"
+  },
+  {
+    "id": "terraza-7-2026-11-05-xiomara-torres-la-voz-del-mar-colombian-",
+    "title": "Xiomara Torres | \"La Voz del Mar\" | Colombian Pacific Coast Music | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-05",
+    "description": "Vocalist Xiomara Torres performs traditional music of Colombia's Pacific coast in the first of two sets.",
+    "url": "https://www.terraza7.com/detalles-y-registro/xiomara-torres-la-voz-del-mar-colombian-pacific-coast-music-first-set-3",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "traditional-music"
+    ],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc.",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.892Z"
+  },
+  {
+    "id": "terraza-7-2026-11-05-xiomara-torres-la-voz-del-mar-colombian-",
+    "title": "Xiomara Torres | \"La Voz del Mar\" | Colombian Pacific Coast Music | Second Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-05",
+    "description": "Vocalist Xiomara Torres performs traditional music of Colombia's Pacific coast in the second of two sets.",
+    "url": "https://www.terraza7.com/detalles-y-registro/xiomara-torres-la-voz-del-mar-colombian-pacific-coast-music-second-set-2",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "traditional-music"
+    ],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc.",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.892Z"
+  },
+  {
+    "id": "terraza-7-2026-11-06-fernando-garc-a-the-lux-quintet-afro-pue",
+    "title": "Fernando García & The Lux Quintet | Afro-Puerto Rican Jazz | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-06",
+    "description": "Fernando García and the Lux Quintet perform Afro-Puerto Rican jazz, blending Puerto Rican folkloric rhythms with jazz improvisation.",
+    "url": "https://www.terraza7.com/detalles-y-registro/fernando-garcia-the-lux-quintet-afro-puerto-rican-jazz-first-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "improvisation",
+      "folkloric"
+    ],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc.",
+      "Sound & Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.893Z"
+  },
+  {
+    "id": "terraza-7-2026-11-06-fernando-garc-a-the-lux-quintet-afro-pue",
+    "title": "Fernando García & The Lux Quintet | Afro-Puerto Rican Jazz | Second Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-06",
+    "description": "Fernando García and the Lux Quintet perform Afro-Puerto Rican jazz, blending Puerto Rican folkloric rhythms with jazz improvisation, in the second of two sets.",
+    "url": "https://www.terraza7.com/detalles-y-registro/fernando-garcia-the-lux-quintet-afro-puerto-rican-jazz-second-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "improvisation",
+      "folkloric"
+    ],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc.",
+      "Sound & Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.893Z"
+  },
+  {
+    "id": "terraza-7-2026-11-07-juan-cala-nueva-york-flamenco-city-flame",
+    "title": "Juan Cala & Nueva York Flamenco City | Flamenco | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-07",
+    "description": "Juan Cala performs with Nueva York Flamenco City in a live flamenco set.",
+    "url": "https://www.terraza7.com/detalles-y-registro/juan-cala-nueva-york-flamenco-city-flamenco-first-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "flamenco"
+    ],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc.",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.893Z"
+  },
+  {
+    "id": "terraza-7-2026-11-07-xianix-barrera-nueva-york-flamenco-city-",
+    "title": "Xianix Barrera & Nueva York Flamenco City | Flamenco | Second Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-07",
+    "description": "Xianix Barrera performs with Nueva York Flamenco City in a live flamenco set, the second of the evening.",
+    "url": "https://www.terraza7.com/detalles-y-registro/xianix-barrera-nueva-york-flamenco-city-flamenco-second-set-3",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "flamenco"
+    ],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc.",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.894Z"
+  },
+  {
+    "id": "terraza-7-2026-11-08-sheffa-music-trio-candombe-jazz-concert-",
+    "title": "SHEFFA MUSIC TRIO | Candombe Jazz Concert & Jam | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-08",
+    "description": "Sheffa Music Trio performs Candombe jazz, fusing Afro-Uruguayan candombe rhythms with jazz, followed by a jam.",
+    "url": "https://www.terraza7.com/detalles-y-registro/sheffa-music-trio-candombe-jazz-concert-jam-first-set-2",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc."
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.894Z"
+  },
+  {
+    "id": "terraza-7-2026-11-08-sheffa-music-trio-candombe-jazz-night-se",
+    "title": "SHEFFA MUSIC TRIO | Candombe Jazz Night | Second Set Jam Session",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-08",
+    "description": "Sheffa Music Trio continues their Candombe jazz night with a second-set jam session blending Afro-Uruguayan rhythms with jazz.",
+    "url": "https://www.terraza7.com/detalles-y-registro/sheffa-music-trio-candombe-jazz-night-second-set-jam-session-2",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc."
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.894Z"
+  },
+  {
+    "id": "terraza-7-2026-12-11-di-spora-alex-apolo-ayala-the-b-mbula-pr",
+    "title": "DIÁSPORA | Alex \"Apolo\" Ayala & The Bámbula Project | Afro-Puerto Rican Jazz | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-12-11",
+    "description": "Alex \"Apolo\" Ayala leads The Bámbula Project in Afro-Puerto Rican jazz rooted in Puerto Rican bomba and Afro-diasporic traditions.",
+    "url": "https://www.terraza7.com/detalles-y-registro/diaspora-alex-apolo-ayala-the-bambula-project-afro-puerto-rican-jazz-first-set-1",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc."
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.894Z"
+  },
+  {
+    "id": "terraza-7-2026-12-11-di-spora-alex-apolo-ayala-the-b-mbula-pr",
+    "title": "DIÁSPORA | Alex \"Apolo\" Ayala & The Bámbula Project | Afro-Puerto Rican Jazz | Second Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-12-11",
+    "description": "Alex \"Apolo\" Ayala leads The Bámbula Project in Afro-Puerto Rican jazz rooted in Puerto Rican bomba and Afro-diasporic traditions, in the second of two sets.",
+    "url": "https://www.terraza7.com/detalles-y-registro/diaspora-alex-apolo-ayala-the-bambula-project-afro-puerto-rican-jazz-second-set",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc."
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-01T07:28:45.895Z"
   }
 ]
