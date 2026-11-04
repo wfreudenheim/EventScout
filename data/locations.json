@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:59.067Z"
+    "last_checked": "2026-11-04T07:30:45.252Z"
   },
   {
     "id": "new-museum",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:03.774Z"
+    "last_checked": "2026-11-04T07:30:45.123Z"
   },
   {
     "id": "union-docs",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:19:46.561Z"
+    "last_checked": "2026-11-04T07:30:45.206Z"
   },
   {
     "id": "caveat",
@@ -2084,7 +2084,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:23:39.580Z"
+    "last_checked": "2026-11-04T07:30:45.170Z"
   },
   {
     "id": "millennium-film-workshop",
@@ -2108,7 +2108,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:23:39.597Z"
+    "last_checked": "2026-11-04T07:30:45.219Z"
   },
   {
     "id": "rockaway-film-festival",
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:24.347Z"
+    "last_checked": "2026-11-04T07:30:45.094Z"
   },
   {
     "id": "asia-society",

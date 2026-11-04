@@ -9746,5 +9746,191 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:29:23.962Z"
+  },
+  {
+    "id": "japan-society-2026-11-05-foreign-exchange-cross-cultural-conversa",
+    "title": "Foreign Exchange: Cross-Cultural Conversations",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-05",
+    "description": "Free three-night series (Nov 3-5) bringing Bass X Machina creator LeSean Thomas and Studio Mir Executive Producer Kwang Il Han to NYC to discuss breaking into Korean animation and how the show's Wild West world came together across two countries. Hosted across Pratt Institute, School of Visual Arts, and Korean Cultural Center New York, presented by Japan Society.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.072Z"
+  },
+  {
+    "id": "japan-society-2026-11-04-gen-ichir-inokuma-s-nyc-salon",
+    "title": "Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-04",
+    "description": "Exhibition on the mid-century master painter Gen'ichirō Inokuma and the avant-garde circle he moved in during his years in New York. On view October 6, 2026 through January 10, 2027.",
+    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.074Z"
+  },
+  {
+    "id": "light-industry-2026-11-10-a-benefit-for-la-voz-popular",
+    "title": "A Benefit for La Voz Popular",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-11-10",
+    "description": "Benefit film screening introduced by critic Tobi Haslett, presented at Light Industry in support of La Voz Popular.",
+    "url": "https://www.lightindustry.org/lavozpopularbenefit",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.101Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-13-future-beyond-rikers-a-film-festival-fri",
+    "title": "Future Beyond Rikers: A Film Festival (Friday)",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-13",
+    "description": "Opening night of a documentary film festival at Maysles Documentary Center exploring life beyond incarceration at Rikers Island.",
+    "url": "https://www.maysles.org/calendar/future-beyond-rikers-film-festival-friday",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "film-festival",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.131Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-14-future-beyond-rikers-a-film-festival-sat",
+    "title": "Future Beyond Rikers: A Film Festival (Saturday)",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-14",
+    "description": "Second day of the documentary film festival at Maysles Documentary Center exploring life beyond incarceration at Rikers Island.",
+    "url": "https://www.maysles.org/calendar/future-beyond-rikers-film-festival-saturday",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "film-festival",
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.131Z"
+  },
+  {
+    "id": "microscope-gallery-2026-11-04-marni-kotak-america-on-the-dark-side-of-",
+    "title": "Marni Kotak: America on the Dark Side of the Moon",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-11-04",
+    "description": "Exhibition by performance artist Marni Kotak, presented by Microscope Gallery at Grace Exhibition Space (182 Ave C), running October 22 through November 28, 2026.",
+    "url": "https://microscopegallery.com/marni-kotak-america-on-the-dark-side-of-the-moon/",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.186Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-04-courtyard-commission-precious-okoyomon-a",
+    "title": "Courtyard Commission: Precious Okoyomon — Among the Flowers I Learned to Love: A Garden of Decreation",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-04",
+    "description": "Artist and poet Precious Okoyomon transforms the MoMA PS1 courtyard into a living forest of plants, interactive sculpture, and sound, bringing together native and invasive species, cultivated and wild growth. On view through 2028.",
+    "url": "https://www.momaps1.org/en/programs/747-courtyard-commission-precious-okoyomon",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.226Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-04-teresa-margolles-en-el-lugar-de-los-hech",
+    "title": "Teresa Margolles: En el Lugar de los Hechos (At the Scene)",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-04",
+    "description": "Exhibition by forensic-pathologist-turned-artist Teresa Margolles examining transnational violence and disappearances along the US-Mexico border through site-responsive interventions. Ends February 8, 2027.",
+    "url": "https://www.momaps1.org/en/programs/760-teresa-margolles",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.226Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-04-homeroom-artists-against-the-bomb",
+    "title": "Homeroom: Artists Against the Bomb",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-04",
+    "description": "An exhibition of posters, design, film, photography, literature, music, sculpture, and ephemera from the international Artists Against the Bomb campaign supporting the Treaty on the Prohibition of Nuclear Weapons. Ends February 8, 2027.",
+    "url": "https://www.momaps1.org/en/programs/838-homeroom-artists-against-the-bomb",
+    "format": "gallery",
+    "interest_score": 2.5,
+    "tags": [
+      "sculpture",
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:30:45.226Z"
   }
 ]
