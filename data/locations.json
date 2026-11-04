@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:59.180Z"
+    "last_checked": "2026-11-04T07:33:55.687Z"
   },
   {
     "id": "the-new-school",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-11-01T07:19:46.594Z"
+    "last_checked": "2026-11-04T07:33:55.850Z"
   },
   {
     "id": "the-shed",
@@ -1871,7 +1871,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:25:09.248Z"
+    "last_checked": "2026-11-04T07:33:55.815Z"
   },
   {
     "id": "center-for-book-arts",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:25:41.085Z"
+    "last_checked": "2026-11-04T07:33:55.902Z"
   },
   {
     "id": "nowadays",
@@ -2815,7 +2815,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:35.786Z"
+    "last_checked": "2026-11-04T07:33:55.778Z"
   },
   {
     "id": "recess-art",
@@ -2957,7 +2957,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:35.838Z"
+    "last_checked": "2026-11-04T07:33:55.738Z"
   },
   {
     "id": "index-space",

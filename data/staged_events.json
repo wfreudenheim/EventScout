@@ -9992,5 +9992,212 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:31:06.465Z"
+  },
+  {
+    "id": "onassis-onx-2026-11-04-3etv-on-somerset-house-studios",
+    "title": "3ETV on Somerset House Studios",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-11-04",
+    "description": "A bespoke 9-channel TV station curated and produced by Somerset House Studios in collaboration with HEK Basel, M+ Hong Kong, Onassis ONX, and Pioneer Works, broadcasting experimental art and media online through December 18, 2026.",
+    "url": "https://3etv.net/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental animation, video art, moving image, game engine cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.705Z"
+  },
+  {
+    "id": "poetry-project-2026-11-06--the-future-exists-for-the-most-part-in-",
+    "title": "\"The Future Exists for the Most Part in the Present\": On Poetry, the Avant-Garde, and the Left",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-06",
+    "description": "A multi-day program of readings and discussion exploring poetry, the avant-garde, and left political thought.",
+    "url": "https://www.poetryproject.org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-avant-garde-and-the-left",
+    "price": "$10-25",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.789Z"
+  },
+  {
+    "id": "poetry-project-2026-11-13-published-at-the-poetry-project-dis-cour",
+    "title": "Published at the Poetry Project: Dis/Course with Nick Sturm",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-13",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A talk and reading spotlighting recently published poetry work, this installment featuring poet Nick Sturm.",
+    "url": "https://www.poetryproject.org/events/published-at-the-poetry-project-dis-course-with-nick-sturm",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.790Z"
+  },
+  {
+    "id": "poetry-project-2026-11-19-reading-and-writing-through-alice-notley",
+    "title": "Reading and Writing Through Alice Notley's Early Works: Five-Session Workshop with Hoa Nguyen",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-19",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A five-session workshop on Alice Notley's early poetry led by Hoa Nguyen, running October 22 through November 19, 2026. The workshop is currently full.",
+    "url": "https://www.poetryproject.org/events/reading-and-writing-through-alice-notley-s-early-works-five-session-workshop-with-hoa-nguyen",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.787Z"
+  },
+  {
+    "id": "poetry-project-2026-11-25-weakness-and-strength-five-session-works",
+    "title": "Weakness and Strength: Five-Session Workshop with Benjamin Krusling",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-25",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A five-session writing workshop led by poet Benjamin Krusling, running October 28 through November 25, 2026.",
+    "url": "https://www.poetryproject.org/events/weakness-and-strength-five-session-workshop-with-benjamin-krusling",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.788Z"
+  },
+  {
+    "id": "poetry-project-2026-12-01-friendly-criticism-5-session-writing-wor",
+    "title": "Friendly Criticism: 5-Session Writing Workshop with Rainer Diana Hamilton",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-12-01",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A five-session writing workshop led by poet and critic Rainer Diana Hamilton, running November 3 through December 1, 2026.",
+    "url": "https://www.poetryproject.org/events/friendly-criticism-5-session-writing-workshop-with-rainer-diana-hamilton",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.789Z"
+  },
+  {
+    "id": "printed-matter-2026-11-13-panel-discussion-homes-for-people-not-fo",
+    "title": "Panel Discussion: Homes for People, Not for Profit",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-13",
+    "description": "A panel with Art Against Displacement, Bench Ansfield, Renee Keitt, Alex Strada, and Storefront for Art and Architecture addressing housing, displacement, and public space.",
+    "url": "https://www.printedmatter.org/programs/events/2342",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "public-space",
+      "housing"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Contemporary art (general)",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.829Z"
+  },
+  {
+    "id": "printed-matter-2026-12-08-our-gay-children-new-york-city-gay-liber",
+    "title": "Our Gay Children: New York City Gay Liberation Marches, 1979-80 (Book Presentation & Signing)",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-12-08",
+    "description": "A book presentation and signing with Armando Alleyne on the history of NYC's early gay liberation marches.",
+    "url": "https://www.printedmatter.org/programs/events/2343",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.830Z"
+  },
+  {
+    "id": "public-records-2026-12-19-dos-santos",
+    "title": "Dos Santos",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-19",
+    "time_start": "19:00",
+    "description": "A live performance by Latin psych/cumbia band Dos Santos at Public Records's Sound Room.",
+    "url": "https://link.dice.fm/nf2c2c423652",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "cumbia"
+    ],
+    "matched_categories": [
+      "World music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.883Z"
+  },
+  {
+    "id": "public-records-2026-11-11-durations-remember-we-are-born-in-the-ga",
+    "title": "DURATIONS: Remember, We Are Born In The Garden - A Dinner with Breadtree Farms x Public Records",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-11",
+    "time_start": "18:00",
+    "description": "An ecology-themed dinner collaboration between Breadtree Farms and Public Records, part of the DURATIONS festival.",
+    "url": "https://resy.com/cities/new-york-ny/venues/public-records/events/durations-remember-we-are-born-in-the-garden-a-dinner-with-breadtree-farms-x-pr-2026-11-11-6",
+    "format": "other",
+    "interest_score": 3.1,
+    "tags": [
+      "ecology"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:33:55.867Z"
   }
 ]
