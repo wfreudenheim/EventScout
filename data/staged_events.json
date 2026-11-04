@@ -10256,5 +10256,231 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:36:34.678Z"
+  },
+  {
+    "id": "whitney-2026-11-04-exhibition-tour-roy-lichtenstein-like-ne",
+    "title": "Exhibition Tour: Roy Lichtenstein: Like New",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-04",
+    "time_start": "12:00",
+    "description": "Docent-led walkthrough of the Whitney's Roy Lichtenstein: Like New exhibition on Floor 5, looking closely at his Pop Art practice.",
+    "url": "https://whitney.org/events/exhibition-tour-lichtenstein",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.502Z"
+  },
+  {
+    "id": "whitney-2026-11-04-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-04",
+    "time_start": "13:00",
+    "description": "Guided tour through the Whitney's \"Untitled\" (America) exhibition on Floor 7, recurring daily.",
+    "url": "https://whitney.org/events/untitled-america-exh-tour-2026",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.505Z"
+  },
+  {
+    "id": "whitney-2026-11-04-exhibition-tour-the-lost-world-the-art-o",
+    "title": "Exhibition Tour: The Lost World: The Art of Minnie Evans",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-04",
+    "time_start": "14:00",
+    "description": "Guided tour surveying visionary self-taught artist Minnie Evans's work on Floor 8.",
+    "url": "https://whitney.org/events/minnie-evans-tour",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.505Z"
+  },
+  {
+    "id": "wonderville-2026-11-12-loadcard-phl-coolant-shadowdaddy",
+    "title": "Loadcard (PHL), Coolant, Shadowdaddy",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-12",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "description": "A live music lineup at Wonderville featuring Loadcard (Philadelphia), Coolant, and Shadowdaddy, suggesting electronic/noise-leaning acts.",
+    "url": "https://www.wonderville.nyc/events/loadcard-phl-coolant-shadowdaddy-11-12-26",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "noise"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.546Z"
+  },
+  {
+    "id": "wonderville-2026-11-13-free-play-jake-korolev-stjarnafaen-frien",
+    "title": "FREE PLAY: Jake Korolev + stjarnafaen & Friends",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-13",
+    "time_start": "23:00",
+    "description": "A late-night electronic music set at Wonderville from Jake Korolev, stjarnafaen, and friends.",
+    "url": "https://www.wonderville.nyc/events/free-play-jake-korolev-stjarnafaen-amp-friends",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "electronic-music"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.548Z"
+  },
+  {
+    "id": "wonderville-2026-11-14-monthly-2-hr-gamejam-club-drawing-lookin",
+    "title": "Monthly 2 Hr GameJam Club: Drawing & Looking Games",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-14",
+    "time_start": "13:00",
+    "time_end": "17:00",
+    "description": "A monthly two-hour game jam session at Wonderville focused on drawing- and looking-based game mechanics, open to indie game makers.",
+    "url": "https://www.wonderville.nyc/events/monthly-2-hr-gamejam-club-11-14-26",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "game-jam"
+    ],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR",
+      "Hackerspaces & creative tech — makerspaces, DIY electronics, creative coding workshops",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.548Z"
+  },
+  {
+    "id": "wonderville-2026-11-07-flow-mercy",
+    "title": "FLOW MERCY",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-07",
+    "time_start": "20:00",
+    "description": "Live music performance at Wonderville; billing suggests an electronic/experimental act.",
+    "url": "https://www.wonderville.nyc/events/flow-mercy-11-7-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.545Z"
+  },
+  {
+    "id": "wonderville-2026-11-09-the-variety-show-variety-party-",
+    "title": "The Variety Show Variety Party!",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "A variety show and party at Wonderville featuring a mixed lineup of acts.",
+    "url": "https://www.wonderville.nyc/events/the-variety-show-variety-party-11-9-26",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.545Z"
+  },
+  {
+    "id": "wonderville-2026-11-13-lackey-rearranged-face-lo-fives",
+    "title": "LACKEY / Rearranged Face / Lo-Fives",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-13",
+    "time_start": "20:30",
+    "time_end": "23:00",
+    "description": "A three-band live music bill at Wonderville: LACKEY, Rearranged Face, and Lo-Fives.",
+    "url": "https://www.wonderville.nyc/events/lackey-/-rearranged-face-/-lo-fives-11-13-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:29.546Z"
+  },
+  {
+    "id": "roulette-2026-11-20-breaks-a-solo-performance-by-jessica-coo",
+    "title": "Breaks: A Solo Performance by Jessica Cook (Night 2)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-20",
+    "time_start": "20:00",
+    "description": "Choreographer Jessica Cook explores nonsense-making through fragmentation, the compression of sound, and movement scores for her Roulette Commission.",
+    "url": "https://roulette.org/event/jessica-cook-night-2/",
+    "price": "$25",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:34.390Z"
+  },
+  {
+    "id": "sfpc-2027-01-17-play-and-pedagogy",
+    "title": "Play and Pedagogy",
+    "venue_id": "sfpc",
+    "venue_name": "School for Poetic Computation",
+    "date": "2027-01-17",
+    "time_start": "12:00",
+    "description": "A 10-week online class with Alia Elkattan and Fred Wordie exploring play as a pedagogical method, offered through School for Poetic Computation.",
+    "url": "https://sfpc.study/sessions/winter-27/play-and-pedagogy",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:37:34.446Z"
   }
 ]

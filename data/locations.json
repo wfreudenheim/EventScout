@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:59.170Z"
+    "last_checked": "2026-11-04T07:37:34.417Z"
   },
   {
     "id": "knockdown-center",
@@ -531,7 +531,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Correct URL is /events/ not /exhibitions. /exhibitions/ also has show listings.",
-    "last_checked": "2026-11-01T07:13:17.109Z"
+    "last_checked": "2026-11-04T07:37:34.434Z"
   },
   {
     "id": "the-kitchen",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:03.794Z"
+    "last_checked": "2026-11-04T07:37:29.536Z"
   },
   {
     "id": "the-drawing-center",
@@ -840,7 +840,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:19:46.499Z"
+    "last_checked": "2026-11-04T07:37:34.474Z"
   },
   {
     "id": "simons-foundation",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:19:46.521Z"
+    "last_checked": "2026-11-04T07:37:34.494Z"
   },
   {
     "id": "center-for-architecture",
@@ -2839,7 +2839,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:35.798Z"
+    "last_checked": "2026-11-04T07:37:34.371Z"
   },
   {
     "id": "amant",
@@ -3029,7 +3029,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:59.983Z"
+    "last_checked": "2026-11-04T07:37:29.564Z"
   },
   {
     "id": "nyu-game-center",
@@ -3314,7 +3314,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:50.211Z"
+    "last_checked": "2026-11-04T07:37:29.578Z"
   },
   {
     "id": "barbes",
