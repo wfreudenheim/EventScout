@@ -1,56 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "film-forum",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:42:04.057Z",
-    "completed_at": "2026-10-14T07:42:04.057Z",
-    "events_found": 11,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "venue-agent",
-    "target_id": "union-docs",
-    "scrape_tier_used": 2,
-    "started_at": "2026-10-18T06:49:13.533Z",
-    "completed_at": "2026-10-18T06:49:13.533Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "the-kitchen",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:18:04.534Z",
-    "completed_at": "2026-10-18T07:18:04.534Z",
-    "events_found": 5,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "la-mama",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:18:04.565Z",
-    "completed_at": "2026-10-18T07:18:04.565Z",
-    "events_found": 5,
-    "events_new": 5,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "prospect-park-bandshell",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:18:04.595Z",
-    "completed_at": "2026-10-18T07:18:04.595Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "union-docs",
     "scrape_tier_used": 3,
     "started_at": "2026-10-18T07:18:04.611Z",
@@ -4997,6 +4947,56 @@
     "completed_at": "2026-11-04T07:26:13.556Z",
     "events_found": 1,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "fridman-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:29:23.895Z",
+    "completed_at": "2026-11-04T07:29:23.895Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "green-wood",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:29:23.935Z",
+    "completed_at": "2026-11-04T07:29:23.935Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:29:23.956Z",
+    "completed_at": "2026-11-04T07:29:23.956Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "interference-archive",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:29:23.991Z",
+    "completed_at": "2026-11-04T07:29:23.991Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "jack-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:29:24.007Z",
+    "completed_at": "2026-11-04T07:29:24.007Z",
+    "events_found": 2,
+    "events_new": 0,
     "status": "completed"
   }
 ]

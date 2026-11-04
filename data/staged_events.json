@@ -9728,5 +9728,23 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:26:13.534Z"
+  },
+  {
+    "id": "interference-archive-2026-11-04-call-and-response-songbooks-to-power-the",
+    "title": "Call and Response: Songbooks to Power the Movement",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-11-04",
+    "description": "An exhibition of songbooks from Interference Archive's collection drawn from the labor movement, civil rights movement, and socialist schools, exploring why social movements sing together. On view October 15, 2026 through January 31, 2027.",
+    "url": "https://interferencearchive.org/exhibition/call-and-response-songbooks-to-power-the-movement/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:29:23.962Z"
   }
 ]
