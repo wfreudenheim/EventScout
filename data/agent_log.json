@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "movement-research",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:40:32.972Z",
-    "completed_at": "2026-10-14T07:40:32.972Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "danspace-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:42:03.973Z",
-    "completed_at": "2026-10-14T07:42:03.973Z",
-    "events_found": 5,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "jack-arts",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:42:03.983Z",
-    "completed_at": "2026-10-14T07:42:03.983Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "green-wood",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:42:04.004Z",
-    "completed_at": "2026-10-14T07:42:04.005Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "drom",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:42:04.015Z",
-    "completed_at": "2026-10-14T07:42:04.015Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "flushing-town-hall",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:42:04.034Z",
-    "completed_at": "2026-10-14T07:42:04.034Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "film-forum",
     "scrape_tier_used": 3,
     "started_at": "2026-10-14T07:42:04.057Z",
@@ -4996,6 +4936,66 @@
     "started_at": "2026-11-04T07:23:17.089Z",
     "completed_at": "2026-11-04T07:23:17.089Z",
     "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "aaww",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:26:13.413Z",
+    "completed_at": "2026-11-04T07:26:13.413Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "abrons-arts-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:26:13.442Z",
+    "completed_at": "2026-11-04T07:26:13.442Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "amant",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:26:13.465Z",
+    "completed_at": "2026-11-04T07:26:13.465Z",
+    "events_found": 2,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "anthology-film-archives",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:26:13.499Z",
+    "completed_at": "2026-11-04T07:26:13.499Z",
+    "events_found": 12,
+    "events_new": 12,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "architectural-league",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:26:13.530Z",
+    "completed_at": "2026-11-04T07:26:13.530Z",
+    "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "austrian-cultural-forum",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:26:13.556Z",
+    "completed_at": "2026-11-04T07:26:13.556Z",
+    "events_found": 1,
     "events_new": 1,
     "status": "completed"
   }

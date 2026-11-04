@@ -9381,5 +9381,352 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:23:17.075Z"
+  },
+  {
+    "id": "amant-2026-11-04-sentient-earth",
+    "title": "Sentient Earth",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-11-04",
+    "description": "A group exhibition on view at Amant through February 14, 2027, exploring ecological and planetary themes through contemporary art.",
+    "url": "https://www.amant.org/exhibitions/360-sentient-earth",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "contemporary-art"
+    ],
+    "matched_categories": [
+      "Climate & environmental art",
+      "Contemporary art",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.446Z"
+  },
+  {
+    "id": "amant-2026-11-04-the-mud-room-itinerant-artists-folk-spec",
+    "title": "The Mud Room: Itinerant Artists, Folk Spectacles, and Painted Walls",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-11-04",
+    "description": "Matthew Lutz Kinoy's exhibition on view at Amant through November 29, 2026, exploring itinerant artist traditions, folk spectacle, and painted environments.",
+    "url": "https://www.amant.org/exhibitions/393-the-mud-room-itinerant-artists-folk-spectacles-and-painted-walls",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.446Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-14-ec-eggeling-grant-jacobs-fleischner",
+    "title": "EC: Eggeling / Grant / Jacobs & Fleischner",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-14",
+    "time_start": "20:15",
+    "description": "Essential Cinema program of abstract and experimental animation works, including pioneering absolute-film artist Viking Eggeling alongside Jacobs and Fleischner.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62230",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "animation",
+      "experimental-animation"
+    ],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.475Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-16-dorsky-hiler-pgm-1-nathaniel-dorsky",
+    "title": "Dorsky & Hiler, Pgm 1: Nathaniel Dorsky",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-16",
+    "time_start": "19:00",
+    "description": "A program of lyrical silent 16mm films by major contemporary experimental filmmaker Nathaniel Dorsky.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62321",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.476Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-17-dorsky-hiler-pgm-2-jerome-hiler",
+    "title": "Dorsky & Hiler, Pgm 2: Jerome Hiler",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-17",
+    "time_start": "19:00",
+    "description": "A program of silent 16mm films by experimental filmmaker Jerome Hiler, Dorsky's longtime collaborator.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62323",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.476Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-18-dorsky-hiler-pgm-3-nathaniel-dorsky-s-ar",
+    "title": "Dorsky & Hiler, Pgm 3: Nathaniel Dorsky's 'Arboretum Cycle'",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-18",
+    "time_start": "19:00",
+    "description": "A screening of Nathaniel Dorsky's 'Arboretum Cycle,' a major work of contemporary lyrical silent cinema.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62325",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.477Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-19-cinematic-correspondences-theresa-hak-ky",
+    "title": "Cinematic Correspondences: Theresa Hak Kyung Cha and Her Filmic Influences",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-19",
+    "time_start": "19:00",
+    "description": "A program examining the filmic influences on conceptual artist and writer Theresa Hak Kyung Cha, known for experimental work spanning video, language, and the body.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62180",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "conceptual-art"
+    ],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Philosophy / critical theory / media theory",
+      "Film & cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.477Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-21-ec-tom-tom-the-piper-s-son",
+    "title": "EC: Tom, Tom, the Piper's Son",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-21",
+    "time_start": "15:15",
+    "description": "Essential Cinema screening of Ken Jacobs' seminal structural/found-footage experimental film.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62234",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.478Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-22-ec-lawrence-jordan",
+    "title": "EC: Lawrence Jordan",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-22",
+    "time_start": "14:45",
+    "description": "Essential Cinema program dedicated to Lawrence Jordan, a pioneering collage animator.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62235",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.478Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-04-the-drawing-center-presents-form-shadow-",
+    "title": "The Drawing Center Presents: Form, Shadow, Motion",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-04",
+    "time_start": "19:00",
+    "description": "A free screening co-presented with The Drawing Center exploring the relationship between drawing, shadow, and moving-image form.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62166",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.469Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-06-girls-bite-back-road-movie-gudrun-gut-in",
+    "title": "Girls Bite Back + Road Movie (Gudrun Gut in person)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-06",
+    "time_start": "18:30",
+    "description": "Screening with pioneering German electronic/post-punk musician Gudrun Gut (Malaria!, Monika Enterprise) appearing in person.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62266",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music / sound art",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.472Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-06-einst-rzende-neubauten-liebeslieder-gudr",
+    "title": "Einstürzende Neubauten: Liebeslieder (Gudrun Gut in person)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-06",
+    "time_start": "21:00",
+    "description": "A documentary on legendary German industrial/noise band Einstürzende Neubauten, with musician Gudrun Gut appearing in person.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62268",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary",
+      "noise"
+    ],
+    "matched_categories": [
+      "Experimental music / sound art",
+      "Film & cinema",
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.472Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-08-berlin-super-80-films-from-the-west-germ",
+    "title": "Berlin Super 80: Films from the West German Underground",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-08",
+    "time_start": "17:00",
+    "description": "A compilation program of experimental Super 8 films from the 1980s West German underground film scene.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62280",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.473Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-11-the-creation-of-the-humanoids-sins-of-th",
+    "title": "The Creation of the Humanoids + Sins of the Fleshapoids",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-11",
+    "time_start": "19:00",
+    "description": "A double feature of vintage science-fiction films exploring android creation and artificial consciousness.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62223",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "consciousness"
+    ],
+    "matched_categories": [
+      "Neuroscience / AI / cognitive science",
+      "Film & cinema",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.474Z"
+  },
+  {
+    "id": "architectural-league-2026-12-01-current-work-forms-of-intelligence-labor",
+    "title": "Current Work | Forms of Intelligence: Labor",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-12-01",
+    "description": "A talk examining how architects' work may change as AI is forecast to eliminate much routine labor, questioning what architectural practice should prioritize instead.",
+    "url": "https://archleague.org/event/current-work-forms-of-intelligence-labor/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Neuroscience / AI / cognitive science",
+      "Philosophy / critical theory / media theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.503Z"
+  },
+  {
+    "id": "austrian-cultural-forum-2026-11-04-erwin-wurm-chamber-play-with-jackson-pol",
+    "title": "Erwin Wurm: Chamber Play with Jackson Pollock and Samuel Beckett",
+    "venue_id": "austrian-cultural-forum",
+    "venue_name": "Austrian Cultural Forum",
+    "date": "2026-11-04",
+    "description": "Current exhibition at the Austrian Cultural Forum by Erwin Wurm, staging a conceptual dialogue between the artist's work and the legacies of Jackson Pollock and Samuel Beckett.",
+    "url": "https://acfny.org/exhibition/erwin-wurm/",
+    "price": "$25",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:26:13.534Z"
   }
 ]

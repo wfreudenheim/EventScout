@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:13:17.126Z"
+    "last_checked": "2026-11-04T07:26:13.497Z"
   },
   {
     "id": "spectacle-theater",
@@ -1310,7 +1310,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:59.680Z"
+    "last_checked": "2026-11-04T07:26:13.528Z"
   },
   {
     "id": "mcnally-jackson",
@@ -2297,7 +2297,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:25:41.027Z"
+    "last_checked": "2026-11-04T07:26:13.410Z"
   },
   {
     "id": "blank-forms",
@@ -2863,7 +2863,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:35.809Z"
+    "last_checked": "2026-11-04T07:26:13.463Z"
   },
   {
     "id": "culturehub",
@@ -3077,7 +3077,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:30:00.004Z"
+    "last_checked": "2026-11-04T07:26:13.440Z"
   },
   {
     "id": "movement-research",
@@ -3291,7 +3291,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-15T15:20:13.902Z"
+    "last_checked": "2026-11-04T07:26:13.553Z"
   },
   {
     "id": "world-music-institute",
