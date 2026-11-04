@@ -1,6 +1,6 @@
 VENUE:anthology-film-archives | Anthology Film Archives
 URL:https://www.anthologyfilmarchives.org/film_screenings/calendar
-FETCHED:2026-11-01T06:37:20.240Z
+FETCHED:2026-11-04T06:39:52.741Z
 
 ANTHOLOGY FILM ARCHIVES
 
@@ -31,7 +31,7 @@ ANTHOLOGY FILM ARCHIVES
  * Mailing List [/contact/mailing-list]
  * Directions [/contact/directions]
 
-FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-01]
+FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-04]
 
 November 2026
 QUARTERLY PDF [/AFA_456_2013Cal_complete.pdf?v=1] | RSS [/rss] Filter by Program Essential Cinema Premieres/Revivals Retrospectives Series Special Screenings AFA Preservations New Filmmakers
@@ -39,7 +39,7 @@ QUARTERLY PDF [/AFA_456_2013Cal_complete.pdf?v=1] | RSS [/rss] Filter by Program
 Sunday Monday Tuesday Wednesday Thursday Friday Saturday
 1
  * 3:30 PM
-   TROMEO AND JULIET (Lloyd Kaufman in person on Sun, Nov 1!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62052]
+   TROMEO AND JULIET (Will Keenan in person on Sun, Nov 1!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62052]
  * 4:30 PM
    EC: ERNIE GEHR [/film_screenings/calendar?view=list&month=11&year=2026#showing-62228]
  * 6:15 PM
@@ -84,7 +84,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 7:15 PM
    RIOTS AND LOVE [/film_screenings/calendar?view=list&month=11&year=2026#showing-62259]
  * 7:30 PM
-   WHITE SNAIL [/film_screenings/calendar?view=list&month=11&year=2026#showing-62186]
+   WHITE SNAIL (filmmakers in person on Sat, Nov 7!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62186]
  * 9:15 PM
    whisper & SHOUT / flüstern & SCHREIEN [/film_screenings/calendar?view=list&month=11&year=2026#showing-62274]
 
@@ -94,7 +94,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 5:00 PM
    BERLIN SUPER 80: FILMS FROM THE WEST GERMAN UNDERGROUND [/film_screenings/calendar?view=list&month=11&year=2026#showing-62280]
  * 7:30 PM
-   WHITE SNAIL [/film_screenings/calendar?view=list&month=11&year=2026#showing-62187]
+   WHITE SNAIL (filmmakers in person on Sat, Nov 7!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62187]
  * 7:45 PM
    NINA HAGEN = PUNK + GLORY [/film_screenings/calendar?view=list&month=11&year=2026#showing-62282]
 
@@ -102,7 +102,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 6:30 PM
    BULKY TRASH + THE FREE ORCHESTRA [/film_screenings/calendar?view=list&month=11&year=2026#showing-62264]
  * 7:30 PM
-   WHITE SNAIL [/film_screenings/calendar?view=list&month=11&year=2026#showing-62188]
+   WHITE SNAIL (filmmakers in person on Sat, Nov 7!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62188]
  * 8:45 PM
    IT’LL BE OK / ALLES WIRD GUT [/film_screenings/calendar?view=list&month=11&year=2026#showing-62272]
 

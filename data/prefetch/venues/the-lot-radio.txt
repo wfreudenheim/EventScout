@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-11-01T06:37:34.709Z
+FETCHED:2026-11-04T06:40:03.727Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,95 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP11.01.2026
+TODAY’SLINEUP11.04.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+ALPHA STATE WITH JG THIRLWELL AND KEITH FULLERTON WHITMAN
+
+JG Thirlwell
+
+11.02.2026
+
+Experimental Electronic, Hyperpop, alternative, Punk
+
+ * Play
+ * Detail [/shows/alpha-state/2026-11-02-1900]
+ *
+
+/shows/alpha-state/2026-11-02-1900
+
+SHAKOLIN
+
+Shakolin
+
+11.02.2026
+
+Techno, House, Electro
+
+ * Play
+ * Detail [/shows/special-guests/2026-11-02-1300]
+ *
+
+/shows/special-guests/2026-11-02-1300
+
+RHR
+
+RHR
+
+11.01.2026
+
+ * Play
+ * Detail [/shows/special-guests/2026-11-01-2000]
+ *
+
+/shows/special-guests/2026-11-01-2000
+
+STRICTLY GOGO WITH AMAL
+
+Amal
+
+11.01.2026
+
+Funk, Hip Hop, Rnb, Punk
+
+ * Play
+ * Detail [/shows/special-guests/2026-11-01-1300]
+ *
+
+/shows/special-guests/2026-11-01-1300
+
+QENDRESA
+
+QENDRESA
+
+10.31.2026
+
+Rnb, Rap, Baile Funk, Cumbia, Boogie
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-31-1400]
+ *
+
+/shows/special-guests/2026-10-31-1400
+
+4THE5BIRDS WITH CHRISTINE-RENÉE
+
+Christine-Renee
+
+10.30.2026
+
+Trance, Techno, Beats, Alternative Club, Dub
+
+ * Play
+ * Detail [/shows/special-guests/2026-10-30-1200]
+ *
+
+/shows/special-guests/2026-10-30-1200
 
 THE DJ SHANNON SHOW WITH STACEY "HOTWAXX" HALE
 
@@ -36,130 +118,48 @@ House
 
 /shows/the-dj-shannon-show/2026-10-29-1200
 
-PAURRO
-
-Paurro
-
-10.28.2026
-
-Electronica, Acid, Electro, Breaks
-
- * Play
- * Detail [/shows/special-guests/2026-10-28-1900]
- *
-
-/shows/special-guests/2026-10-28-1900
-
-BEAUTY IN SOUND WITH H31R
-
-H31R
-
-10.26.2026
-
-Hip Hop, Electronica
-
- * Play
- * Detail [/shows/beauty-in-sound/2026-10-26-1600]
- *
-
-/shows/beauty-in-sound/2026-10-26-1600
-
-AVALON EMERSON
-
-Avalon Emerson
-
-10.26.2026
-
-Electronic, Techno, House
-
- * Play
- * Detail [/shows/special-guests/2026-10-26-1300]
- *
-
-/shows/special-guests/2026-10-26-1300
-
-HERCULES & LOVE AFFAIR
-
-Hercules & Love Affair
-
-10.25.2026
-
- * Play
- * Detail [/shows/special-guests/2026-10-25-1200]
- *
-
-/shows/special-guests/2026-10-25-1200
-
-BBE MUSIC WITH PETE BBE, JEFF HIGGINS AND JOHNNY RECKLESS
-
-Pete BBE, Johnny Reckless
-
-10.24.2026
-
-House, Hip Hop, Rnb, Afrobeat, Jazz
-
- * Play
- * Detail [/shows/special-guests/2026-10-24-1700]
- *
-
-/shows/special-guests/2026-10-24-1700
-
-KEN ISHII
-
-Ken Ishii
-
-10.23.2026
-
-Techno, IDM, Soundtrack, Video Game Music
-
- * Play
- * Detail [/shows/special-guests/2026-10-23-1900]
- *
-
-/shows/special-guests/2026-10-23-1900
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * Jeff Mendoza
+ * Margeaux
    R
-   [/artists/jeff-mendoza]
- * Ella Hussle
+   [/artists/margeaux]
+ * Honey Bun
    R
-   [/artists/ella-hussle]
- * JADALAREIGN
+   [/artists/honey-bun]
+ * Escaflowne
    R
-   [/artists/jadalareign]
- * Relaxer
+   [/artists/escaflowne]
+ * JWords
    R
-   [/artists/relaxer]
- * LISAS
+   [/artists/jwords]
+ * Lauren Flax
    R
-   [/artists/lisas]
- * Kristine Barilli
+   [/artists/lauren-flax]
+ * Sticky Dojah
    R
-   [/artists/kristine-barilli]
- * Dee Diggs
-   R
-   [/artists/dee-diggs]
+   [/artists/sticky-dojah]
  * Ayanna Heaven
    R
    [/artists/ayanna-heaven]
- * Millz 'El Negro Mezclador'
+ * deep creep
    R
-   [/artists/millz-el-negro-mezclador]
- * Dave Stringer Hughes
+   [/artists/deep-creep]
+ * True Panther
    R
-   [/artists/dave-stringer-hughes]
- * Toribio
+   [/artists/true-panther]
+ * Andrew Devlin
    R
-   [/artists/toribio]
- * Ryan Schreiber
+   [/artists/andrew-devlin]
+ * Marco Weibel
    R
-   [/artists/ryan-schreiber]
+   [/artists/marco-weibel]
+ * k.tea
+   R
+   [/artists/k-tea]
 
 WE ARE THE LOT RADIO
 
@@ -173,40 +173,31 @@ About us [/about]
    RESTREAM
 
  * 10am — 12pm
-   misc. with DJ Tara
+   Oblique Slice with Will Shore
 
  * 12pm — 1pm
-   DJ Koolt
-
+   ETHERNET with Ryan Schreiber & Justin Strauss
+   Electronica, House, Techno, Electro
  * 1pm — 2pm
-   Strictly Gogo with Amal
+   Conducta
 
  * 2pm — 3pm
-   Special Instructions with Ella Hussle
-   Hip Hop, Soul, Funk
+   GUT radio
+
  * 3pm — 4pm
-   Lynn Avery (Pink Must/Iceblink)
+   FUTURESHOCK!
 
- * 4pm — 5pm
-   OLIVER CLEGG (the hairer half of radio quebrada)
-   Techno, Acid, Experimental Electronic, Dub
- * 5pm — 6pm
-   Mathew Jonson
+ * 4pm — 6pm
+   Nothing in Moderation with DJ Voices
 
- * 6pm — 7pm
-   NIGHT MIMOSA with Ted McGrath
+ * 6pm — 8pm
+   Magic City with Jubilee and Mike Gip
 
- * 7pm — 8pm
-   Palestine Forever with Elina Arbo and Omar Ahmad
-   Experimental Electronic, Ambient, Electronica, House, Techno
- * 8pm — 9pm
-   RHR
+ * 8pm — 10pm
+   Part Time Punk
 
- * 9pm — 10pm
-   Ritual Signal with Kamran Sadeghi
-
- * 10pm — 12am
-   Club Moment
+ * 10pm — 11pm
+   angelboy
    House, Techno
 
 THE LOT RADIO

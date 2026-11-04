@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-11-01T06:37:31.432Z
+FETCHED:2026-11-04T06:40:01.238Z
 
 Skip to Content
 
@@ -16,7 +16,6 @@ SLIDESHOW
  * https://filmforum.org/film/my-undesirable-friends-part-ii-exile
  * https://filmforum.org/film/unzipped-2026
  *
- * https://filmforum.org/film/coco-ffjr-2026
  *
  * https://filmforum.org/film/the-red-balloon-ffjr-2026
  * https://filmforum.org/film/threeasfour-full-circle
@@ -50,69 +49,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
- * SUN
- * MON
- * TUE
  * WED
  * THU
  * FRI
  * SAT
-
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-COCO [https://filmforum.org/film/coco-ffjr-2026]
-11:00
-
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:20 3:40 6:00 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25(OC) 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15(OC) 2:30 4:45 7:00 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-4:20
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-8:00(OC)
-
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:00 3:20 5:40 8:00
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25(OC) 4:15 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 7:00 8:10(OC) 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-6:20(OC)
-
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:00 3:20 5:40
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 3:50 4:30 6:30(OC) 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15(OC) 2:30 4:45 7:00 7:45 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-5:50
-
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
-PICKUP ON SOUTH STREET [https://filmforum.org/film/pick-up-on-south-street-nyc-in-transit]
-8:00
+ * SUN
+ * MON
+ * TUE
 
 CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
 1:00 3:20 5:40 8:00
@@ -129,7 +72,7 @@ MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/f
 UNZIPPED [https://filmforum.org/film/unzipped-2026]
 6:20
 
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
+Ends Today!CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
 1:00 3:20 5:40 8:00
 
 FATHERLAND [https://filmforum.org/film/fatherland]
@@ -144,9 +87,58 @@ Ends Today!MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://film
 Ends Today!UNZIPPED [https://filmforum.org/film/unzipped-2026]
 5:50
 
-Showtimes coming soon!
+Opens Today!RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 1:30 3:00 4:15 5:40 7:00 8:20
 
-Showtimes coming soon!
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 6:00 8:15
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 1:30 3:00 4:15 5:40 7:00 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25(OC) 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45(OC) 6:00 8:15
+
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+THE RED BALLOON [https://filmforum.org/film/the-red-balloon-ffjr-2026]
+11:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:40 1:30 3:20 4:15 6:00 7:00 8:40
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:45(OC) 2:40 4:40 6:40 8:40
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45(OC) 6:00 8:15
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 1:30 3:00 4:15 5:40 7:00 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25(OC) 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45(OC) 6:00 8:15
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 1:30 3:00 4:15 7:00 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30(OC)
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 6:00(OC) 8:15
+
+Ends Today!NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
+MANHATTAN BY NUMBERS [https://filmforum.org/film/manhattan-by-numbers-nyc-in-transit]
+6:00
 
 Donate [https://donate.filmforum.org/give/]
 
@@ -166,28 +158,23 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-MY UNDESIRABLE FRIENDS:
-PART II – EXILE
-INTRODUCED BY EXECUTIVE PRODUCER
-MERYL STREEP [https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-november-1-1230]
+RAISE THE RED LANTERN
+SCREENING CO-PRESENTED BY CINECINA FILM FESTIVAL [https://filmforum.org/events/event/raise-the-red-lantern-november-7]
 
-Chapters 1-3
-Sunday, November 1
-12:30
+Saturday, November 7
+3:00
 
-MY UNDESIRABLE FRIENDS:
-PART II – EXILE
-Q&A WITH FILMMAKER JULIA LOKTEV AND SUBJECTS KSENIA MIRONOVA & ELENA KOSTYUCHENKO [https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-november-1-420]
+5 SHORT FILMS SUPPORTED BY THE DISPLACEMENT FILM FUND
+HOSTED BY CATE BLANCHETT WITH MARYNA ER GORBACH AND MO HARAWE IN PERSON [https://filmforum.org/events/event/displacement-film-fund-november-11]
 
-Chapters 4-5
-Sunday, November 1
-4:20
+Wednesday, November 11
+6:00   7:00
 
-CITIZEN RUTH
-POST-FILM CONVERSATION WITH SCREENWRITER JIM TAYLOR [https://filmforum.org/events/event/citizen-ruth-november-2]
+THREEASFOUR: FULL CIRCLE
+Q&A WITH FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL [https://filmforum.org/events/event/threeasfour-full-circle-november-13]
 
-Monday, November 2
-8:00
+Friday, November 13
+7:00
 
 GET EMAIL NEWS
 
@@ -204,30 +191,33 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-COCO [https://filmforum.org/film/coco-ffjr-2026]
-11:00
-
 CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:20 3:40 6:00 8:20
+1:00 3:20 5:40 8:00
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25(OC) 4:30 6:30 8:30
+12:25 2:25 4:15 4:30 6:30 8:30
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15(OC) 2:30 4:45 7:00 9:15
+12:15 2:30 4:45 7:00 8:10 9:15
 
 MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
 12:30
 
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-4:20
-
 UNZIPPED [https://filmforum.org/film/unzipped-2026]
-8:00(OC)
+6:20
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
+https://filmforum.org/series/nyc-in-transit#now-playing
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
+
+PICKUP ON SOUTH STREET
+Tuesday, November 3
+8:00
+
+Films in this Series Samuel Fuller’s
+PICKUP ON SOUTH STREET Amir Naderi’s
+MANHATTAN BY NUMBERS
 https://filmforum.org/film/citizen-ruth
 Alexander Payne’s
 CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
@@ -258,27 +248,16 @@ SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer 
 https://filmforum.org/series/film-forum-jr.-series-page#now-playing
 FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
 
-COCO
-Sunday, November 1
+THE RED BALLOON
+Sunday, November 8
 11:00
 
-Films in this Series Pixar’s
-COCO THE RED BALLOON and Keaton's THE BOAT (1921) Danny Kaye in
+Films in this Series THE RED BALLOON and Keaton’s THE BOAT (1921) Danny Kaye in
 THE COURT JESTER Morris Engel & Ruth Orkin’s
 LITTLE FUGITIVE Walt Disney’s
 PINOCCHIO Ingrid Bergman & Bing Crosby in
 THE BELLS OF ST. MARY’S Nancy Meyers’
 THE PARENT TRAP
-https://filmforum.org/series/nyc-in-transit#now-playing
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
-
-PICKUP ON SOUTH STREET
-Tuesday, November 3
-8:00
-
-Films in this Series Samuel Fuller’s
-PICKUP ON SOUTH STREET Amir Naderi’s
-MANHATTAN BY NUMBERS
 
 COMING SOON [https://filmforum.org/coming_soon]
 

@@ -1,6 +1,6 @@
 VENUE:national-sawdust | National Sawdust
 URL:https://www.nationalsawdust.org/performances
-FETCHED:2026-11-01T06:37:24.432Z
+FETCHED:2026-11-04T06:39:56.327Z
 
 /
 
@@ -8,19 +8,6 @@ UPCOMING PERFORMANCES
 
 Grid View
 List View
-
-Confessional, raw, poetic-alt-art-pop-piano in Spanish. From Chile to the world. Francisca is one of the boldest and daring artists of her generation in the Spanish language. From Santiago, Chile, to the world, album after album, era after era, she explores themes that are tremendously personal and intimate, raw, in an unapologetic confessional, poetic, piano-based form, with stories and truths that are very universal and compelling.
-
-NOVEMBER 4, 2026
-
--
-
-FRANCISCA VALENZUELA
-
-This is some text inside of a div block.
-This is some text inside of a div block.
-[/event/francisca-valenzuela]
-Buy Tickets [https://ci.ovationtix.com/36490/production/1277795]
 
 A collaborative series exploring boleros, boogaloo and afrolatin rhythms. Born from a love of boleros and the community spirit of spaces like the Nuyorican Poets Café, Salón Parcha is a welcoming space for experimentation and collaboration, for flirting with strangers and singing with friends. Our next edition features a special set by Gabriel Garzon Montano doing his takes on classic and original boleros and salsa tunes he loves, with the powerhouse Ella Bric as music director and her backing band. El Garo holds it down with vinyl selections throughout the night.
 
@@ -477,13 +464,18 @@ This is some text inside of a div block.
 [/event/national-sawdust-presents-silkroad-up-close-featuring-shane-shanahan-quartet-and-edward-perez-trio-with-guest-mahya-hamedi]
 Buy Tickets [https://ci.ovationtix.com/36490/performance/11878497]
 
-NOVEMBER 4, 2026 7:30 PM
+Confessional, raw, poetic-alt-art-pop-piano in Spanish. From Chile to the world. Francisca is one of the boldest and daring artists of her generation in the Spanish language. From Santiago, Chile, to the world, album after album, era after era, she explores themes that are tremendously personal and intimate, raw, in an unapologetic confessional, poetic, piano-based form, with stories and truths that are very universal and compelling.
+
+JULY 22, 2027
+
+-
 
 FRANCISCA VALENZUELA
 
-Confessional, raw, poetic-alt-art-pop-piano in Spanish. From Chile to the world. Francisca is one of the boldest and daring artists of her generation in the Spanish language. From Santiago, Chile, to the world, album after album, era after era, she explores themes that are tremendously personal and intimate, raw, in an unapologetic confessional, poetic, piano-based form, with stories and truths that are very universal and compelling.
-
+This is some text inside of a div block.
+This is some text inside of a div block.
 [/event/francisca-valenzuela]
+Buy Tickets [https://ci.ovationtix.com/36490/production/1277795]
 
 NOVEMBER 5, 2026 8:00 PM
 
@@ -601,6 +593,6 @@ NOVEMBER 21, 2026 7:30 PM
 
 LPR PRESENTS: RISING APPALACHIA WITH SUPPORT FROM VIV & RILEY
 
-In Appalachia, farmers still practice the ancestral tradition of companion plantin
+In Appalachia, farmers still practice the ancestral tradition of companion planting. Corn grows tall as a trellis, beans climb the corn, and squash provides the ground cover. Rising Appalachia cultivates a similar symbiosis in their music, where Southern folk traditions, New Orleans swamp culture, and Atlanta’s street spirit strengthen each other. Known for their seamless harmonies, songcatching and storytelling, the band has released ten albums and toured throughout North America, South America, Europe, the Celtic Isles, Australia and beyond — performing everywhere from the Telluride Bluegrass F
 
 [truncated]

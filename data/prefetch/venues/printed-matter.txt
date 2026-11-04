@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-11-01T06:37:26.977Z
+FETCHED:2026-11-04T06:39:57.413Z
 
 PRINTED MATTER, INC.
 
@@ -103,6 +103,16 @@ September 9 - November 29, 2026
 
 [/programs/events/2276]
 
+WindowChelseaExhibition
+
+Homes for People, Not for Profit
+
+Window installation by Art Against Displacement, Alex Strada, and FEC Tenants Against Demolition
+
+October 25 - December 5, 2026
+
+[/programs/events/2337]
+
 ExhibitionChelsea
 
 Chang Yuchen: a dictionary, a loom, a manifesto, a note, a kite, a phone call, a class, a universe, an echo, a cube, a treehole, some wrapping paper, 3 poems, 6 drinks, 7 letters, 20 snakes, 24 words on personhood, and my mom
@@ -156,26 +166,6 @@ September 9 - November 29, 2026
 
 [/programs/events/2280]
 
-WindowChelsea
-
-Homes for People, Not for Profit
-
-Window installation by Art Against Displacement, Alex Strada, and FEC Tenants Against Demolition
-
-October 25 - December 5, 2026
-
-[/programs/events/2337]
-
-EventChelsea
-
-Some Other (Note) Books
-
-A Bookmaking Workshop
-
-November 1, 2026
-
-[/programs/events/2334]
-
 Event
 
 Charles Bernstein at the Oculus
@@ -214,9 +204,9 @@ November 12 - 15, 2026
 
 EventChelsea
 
-Homes for People, Not for Profit
+Panel Discussion: Homes for People, Not for Profit
 
-Panel Discussion with Art Against Displacement, Bench Ansfield, Renee Keitt, Alex Strada, and Storefront for Art and Architecture
+with Art Against Displacement, Bench Ansfield, Renee Keitt, Alex Strada, and Storefront for Art and Architecture
 
 November 13, 2026
 
@@ -257,6 +247,16 @@ December 8, 2026
 
 EventChelsea
 
+Some Other (Note) Books
+
+A Bookmaking Workshop
+
+November 1, 2026
+
+[/programs/events/2334]
+
+EventChelsea
+
 RisoLAB Talks vol. 5
 
 Travess Smalley & Kyle Canyon in Conversation — Moderated by Panayiotis Terzis
@@ -280,14 +280,6 @@ Jason Polan Award — 2026 Winners Announced!
 September 24 - October 24, 2026
 
 [/programs/events/2341]
-
-EventChelsea
-
-Roaming A Flushing Mall: Rong Xin Book Talk
-
-October 20, 2026
-
-[/programs/events/2287]
 
 See all events [/programs/2-events]
 

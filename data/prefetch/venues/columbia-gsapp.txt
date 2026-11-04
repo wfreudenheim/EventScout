@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-11-01T06:37:31.416Z
+FETCHED:2026-11-04T06:40:01.409Z
 
 /
  * The School
@@ -850,8 +850,8 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=24&month=10&time_range=week&year=2026 /events?day=9&month=11&time_range=week&year=2026
-Nov 1 – Nov 8
+/events?day=27&month=10&time_range=week&year=2026 /events?day=12&month=11&time_range=week&year=2026
+Nov 4 – Nov 11
 Week
 [/events?time_range=week]
 Month
@@ -859,13 +859,13 @@ Month
 Semester
 [/events?time_range=semester]
 
-Wed, Nov 4    11am
+Today at 11am
 
 GSAPP Admissions at University of Southern California Grad Fair
 
 [/events/4359-gsapp-admissions-at-university-of-southern-california-grad-fair]
 
-Wed, Nov 4    6:30pm
+Today at 6:30pm
 
 Celebrating 10 years of e-flux Architecture
 
@@ -896,3 +896,77 @@ THE LIBRARY IS OPEN 33: Material Variance
 Library is Open
 
 [/events/4228-the-library-is-open-33-material-variance]
+
+Mon, Nov 9    11am
+
+Resume & Spring 2027 Recruiting Preparation Workshop
+
+Career Services
+
+New York
+
+[/events/2658-resume-spring-2027-recruiting-preparation-workshop]
+
+Tue, Nov 10    9am
+
+Tuesday Talks
+
+Alumni
+
+New York, Virtual
+
+[/events/4278-tuesday-talks]
+
+Tue, Nov 10    9am
+
+Virtual
+
+Fall 2026 Online Info Session: PhD in Historic Preservation
+
+[/events/4369-fall-2026-online-info-session-ph-d-in-historic-preservation]
+
+Tue, Nov 10    5pm
+
+[/events/4305]
+
+Tue, Nov 10    5pm
+
+Virtual
+
+GSAPP Admissions Info Session
+
+[/events/4306-gsapp-admissions-info-session]
+
+Wed, Nov 11    12:15pm
+
+The Encounters Series: “Ibero-American Patterns”
+
+[/events/4377-the-encounters-series-ibero-american-patterns]
+
+Wed, Nov 11    2pm
+
+Resume & Spring 2027 Recruiting Preparation Workshop
+
+Career Services
+
+New York
+
+[/events/4375-resume-spring-2027-recruiting-preparation-workshop]
+
+Wed, Nov 11    6pm
+
+Virtual
+
+Fall 2026 Online Info Session: PhD in Architecture
+
+[/events/4368-fall-2026-online-info-session-ph-d-in-architecture]
+
+Wed, Nov 11    6:15pm
+
+Distinguished Leaders: A conversation with Laurie Golub, Chief Operating Officer of Affinius Capital
+
+Lecture
+
+New York
+
+[/events/4363-distinguished-leaders-a-conversation-with-laurie-golub-chief-operating-officer-of-affinius-capital]

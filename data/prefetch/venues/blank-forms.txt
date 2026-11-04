@@ -1,6 +1,6 @@
 VENUE:blank-forms | Blank Forms
 URL:https://www.blankforms.org/
-FETCHED:2026-11-01T06:37:18.446Z
+FETCHED:2026-11-04T06:39:51.500Z
 
 Skip to main content
 Menu
@@ -46,34 +46,6 @@ Record [/blank-forms-editions]
 
 UPCOMING
 
-Event [/events]
-
-/events/kou-records-at-blank-forms-fall-2026-season
-
-October 16–December 5, 2026
-
-KOU RECORDS AT BLANK FORMS—FALL 2026 SEASON
-
-[/events/kou-records-at-blank-forms-fall-2026-season]
-
-BLANK FORMS,
-NEW YORK
-
-[https://www.blankforms.org]
-Event [/events]
-
-/events/blank-forms-at-phonetics
-
-October 30–November 1, 2026
-
-BLANK FORMS AT PHONETICS
-
-[/events/blank-forms-at-phonetics]
-
-PAINT IT BLACK,
-TURIN
-
-[https://www.paintitblack.ink/]
 Event [/events]
 
 /events/blank-forms-at-tokyo-jazz-club
