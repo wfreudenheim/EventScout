@@ -1,56 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "drom",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:18:04.713Z",
-    "completed_at": "2026-10-18T07:18:04.713Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nublu",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:18:04.722Z",
-    "completed_at": "2026-10-18T07:18:04.722Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "public-records",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:18:04.735Z",
-    "completed_at": "2026-10-18T07:18:04.735Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "joe-s-pub",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:18:04.745Z",
-    "completed_at": "2026-10-18T07:18:04.745Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "kaufman-music-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:18:04.754Z",
-    "completed_at": "2026-10-18T07:18:04.754Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "barbes",
     "scrape_tier_used": 3,
     "started_at": "2026-10-18T07:18:04.774Z",
@@ -4997,6 +4947,56 @@
     "completed_at": "2026-11-04T07:30:45.254Z",
     "events_found": 12,
     "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "mono-no-aware",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:31:06.368Z",
+    "completed_at": "2026-11-04T07:31:06.368Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "morus",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:31:06.394Z",
+    "completed_at": "2026-11-04T07:31:06.394Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "national-sawdust",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:31:06.437Z",
+    "completed_at": "2026-11-04T07:31:06.437Z",
+    "events_found": 12,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyas",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:31:06.461Z",
+    "completed_at": "2026-11-04T07:31:06.461Z",
+    "events_found": 5,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyu-game-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:31:06.480Z",
+    "completed_at": "2026-11-04T07:31:06.480Z",
+    "events_found": 1,
+    "events_new": 1,
     "status": "completed"
   }
 ]

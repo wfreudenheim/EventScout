@@ -9932,5 +9932,65 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:30:45.226Z"
+  },
+  {
+    "id": "morus-2026-11-07-radical-history-walking-tour",
+    "title": "Radical History Walking Tour",
+    "venue_id": "morus",
+    "venue_name": "Museum of Reclaimed Urban Space",
+    "date": "2026-11-07",
+    "time_start": "15:00",
+    "description": "MoRUS's recurring walking tour (every Saturday and Sunday at 3pm) through legendary sites of community gardens, squats, and tenements where residents faced off with gentrification and financial power.",
+    "url": "https://morusnyc.org/join-our-tours/",
+    "format": "walk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:31:06.375Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-20-makemake-presents-marcus-j-moore-s-activ",
+    "title": "MakeMake Presents Marcus J. Moore's Active Listening with Joy Guidry",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-20",
+    "time_start": "20:00",
+    "description": "A filmed conversation-and-music program in which Marcus J. Moore and bassoonist Joy Guidry discuss Julius Eastman's radical music and its impact on Guidry's artistry.",
+    "url": "https://www.nationalsawdust.org/event/makemake-presents-active-listening-with-marcus-j-moore-and-joy-guidry",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:31:06.402Z"
+  },
+  {
+    "id": "nyu-game-center-2026-11-05-playtest-thursdays",
+    "title": "Playtest Thursdays",
+    "venue_id": "nyu-game-center",
+    "venue_name": "NYU Game Center",
+    "date": "2026-11-05",
+    "description": "A recurring weekly playtesting event at the NYU Game Center where designers bring work-in-progress games for public feedback, helping develop the practice of game design in NYC.",
+    "url": "https://gamecenter.nyu.edu/events/playtest-thursdays/",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "game-design"
+    ],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:31:06.465Z"
   }
 ]
