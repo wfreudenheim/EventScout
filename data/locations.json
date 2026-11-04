@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:59.144Z"
+    "last_checked": "2026-11-04T07:17:15.479Z"
   },
   {
     "id": "roulette",
@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:03.719Z"
+    "last_checked": "2026-11-04T07:17:15.270Z"
   },
   {
     "id": "e-flux",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:03.755Z"
+    "last_checked": "2026-11-04T07:17:15.287Z"
   },
   {
     "id": "artists-space",
@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-11-01T07:20:03.803Z"
+    "last_checked": "2026-11-04T07:17:15.413Z"
   },
   {
     "id": "do-not-research",
@@ -1503,7 +1503,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:13:55.320Z"
+    "last_checked": "2026-11-04T07:17:15.361Z"
   },
   {
     "id": "columbia-soa-lenfest",
@@ -1580,7 +1580,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:13:55.205Z"
+    "last_checked": "2026-11-04T07:17:15.383Z"
   },
   {
     "id": "vera-list-center",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:59.697Z"
+    "last_checked": "2026-11-04T07:17:15.247Z"
   },
   {
     "id": "rockefeller-university",
@@ -1749,7 +1749,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:59.737Z"
+    "last_checked": "2026-11-04T07:17:15.424Z"
   },
   {
     "id": "wendys-subway",
@@ -2223,7 +2223,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:13:55.243Z"
+    "last_checked": "2026-11-04T07:17:15.502Z"
   },
   {
     "id": "japan-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:24.143Z"
+    "last_checked": "2026-11-04T07:17:15.305Z"
   },
   {
     "id": "aaww",
@@ -2600,7 +2600,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:39:18.031Z"
+    "last_checked": "2026-11-04T07:17:15.231Z"
   },
   {
     "id": "helix-center",
@@ -2624,7 +2624,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:23:35.135Z"
+    "last_checked": "2026-11-04T07:17:15.330Z"
   },
   {
     "id": "data-society",
@@ -2768,7 +2768,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:35.737Z"
+    "last_checked": "2026-11-04T07:17:15.395Z"
   },
   {
     "id": "white-columns",
@@ -2910,7 +2910,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:13:17.092Z"
+    "last_checked": "2026-11-04T07:17:15.449Z"
   },
   {
     "id": "harvestworks",
@@ -3123,7 +3123,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:30:00.026Z"
+    "last_checked": "2026-11-04T07:17:15.460Z"
   },
   {
     "id": "chocolate-factory",
@@ -3472,7 +3472,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:28:45.886Z"
+    "last_checked": "2026-11-04T07:17:15.159Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3521,7 +3521,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:28:45.915Z"
+    "last_checked": "2026-11-04T07:17:15.205Z"
   },
   {
     "id": "lincoln-center-summer",

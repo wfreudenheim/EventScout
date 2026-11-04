@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "wendys-subway-2026-11-01-after-hours-film-school-natalia-lassalle",
+    "title": "After Hours Film School: Natalia Lassalle-Morillo",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-11-01",
+    "time_start": "14:00",
+    "time_end": "16:30",
+    "description": "A seminar-style workshop with filmmaker Natalia Lassalle-Morillo on the porous boundary between theater and film, centered on her multiyear project En Parábola/Conversations on Tragedy, developed with an ensemble of nontraditional performers across the Puerto Rican diaspora reworking the myth of Antigone through lived experiences of migration.",
+    "price": "$25-75 sliding scale",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-18T07:18:04.950Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-01-book-release-event-twenty-years-later-a-",
+    "title": "Book Release Event: Twenty Years Later: A Man Marked to Die",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-01",
+    "description": "A screening of Eduardo Coutinho's documentary Twenty Years Later: A Man Marked to Die, introduced by Booker-shortlisted writer Itamar Vieira Junior, celebrating the English publication of his new novel Saving the Fire.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.552Z"
+  },
+  {
+    "id": "barbes-2026-11-01-clube-do-choro-with-regional-samauma",
+    "title": "Clube do Choro with Regional Samauma",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-01",
+    "time_start": "15:30",
+    "description": "Weekly choro jam in Barbès' front room with a rotating cast of Brazilian musicians, featuring Regional Samauma.",
+    "url": "https://www.barbesbrooklyn.com/",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.702Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-01-day-of-the-dead-2026",
+    "title": "Day of the Dead 2026",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-01",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "A celebration of Day of the Dead featuring Aztec Mexica dance, digital media activities, music from Indigenous dance troupe Yayauhki Tezcatlipoka, and the Mexican Folkloric Ballet of New York.",
+    "url": "https://movingimage.org",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [
+      "folkloric"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.623Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-11-01-diwali-festival-the-indian-wedding",
+    "title": "Diwali Festival: The Indian Wedding",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-11-01",
+    "time_start": "12:00",
+    "description": "Diwali festival with hands-on workshops (cooking, henna, dance, rangoli) and a dance drama by Abha B. Roy and Srijan Dance Company.",
+    "price": "varies",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:13:55.088Z"
+  },
+  {
+    "id": "wonderville-2026-11-01-dyke-halloween-emo-punk-halloween-cover-",
+    "title": "Dyke Halloween Emo/Punk Halloween Cover Band Nite",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-01",
+    "time_start": "20:00",
+    "description": "A queer Halloween-themed night of emo/punk cover bands at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/dyke-halloween-emo/punk-halloween-cover-band-nite-11-1-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:23:15.249Z"
+  },
+  {
+    "id": "whitney-2026-11-01-exhibition-tour-untitled-america-",
+    "title": "Exhibition Tour: \"Untitled\" (America)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-01",
+    "time_start": "13:00",
+    "description": "A guided tour of the exhibition 'Untitled' (America) at the Whitney.",
+    "url": "https://whitney.org/events/untitled-america-exh-tour-2026",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:20:03.781Z"
+  },
+  {
+    "id": "whitney-2026-11-01-exhibition-tour-roy-lichtenstein-like-ne",
+    "title": "Exhibition Tour: Roy Lichtenstein: Like New",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-01",
+    "time_start": "15:00",
+    "description": "A guided tour of the Roy Lichtenstein: Like New exhibition at the Whitney.",
+    "url": "https://whitney.org/events/exhibition-tour-lichtenstein",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:20:03.782Z"
+  },
+  {
+    "id": "whitney-2026-11-01-exhibition-tour-the-lost-world-the-art-o",
+    "title": "Exhibition Tour: The Lost World: The Art of Minnie Evans",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-01",
+    "time_start": "14:00",
+    "description": "A guided tour of 'The Lost World: The Art of Minnie Evans,' surveying the visionary painter's mystical, nature-inspired drawings.",
+    "url": "https://whitney.org/events/minnie-evans-tour",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:20:03.782Z"
+  },
+  {
+    "id": "elsewhere-2026-11-01-fever-x-frisky-afterhours-revolution",
+    "title": "Fever x Frisky: Afterhours Revolution",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-01",
+    "time_start": "04:00",
+    "description": "Early-morning afterhours rave takeover of Elsewhere's full venue, a joint Fever x Frisky electronic dance party.",
+    "url": "https://www.elsewhere.club/events/2002730051496",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:37:23.336Z"
+  },
+  {
+    "id": "harvestworks-2026-11-01-filmmaker-jeff-preiss-and-artist-josiah-",
+    "title": "Filmmaker Jeff Preiss and Artist Josiah McElheny in Conversation with Zeena Parkins and Blinn and Lambert",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-11-01",
+    "description": "Filmmaker Jeff Preiss and artist Josiah McElheny join experimental musician Zeena Parkins and the duo Blinn and Lambert for a cross-disciplinary conversation spanning film, visual art, and sound at Harvestworks.",
+    "url": "https://www.harvestworks.org/event/filmmaker-jeff-preiss-and-artist-josiah-mcelheny-in-conversation-with-zeena-parkins-and-blinn-and-lambert/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "experimental-music"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:24:32.111Z"
+  },
+  {
+    "id": "barbes-2026-11-01-giancarlo-vulcano-s-radio-hour",
+    "title": "Giancarlo Vulcano's Radio Hour",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-01",
+    "time_start": "18:00",
+    "description": "Composer and guitarist Giancarlo Vulcano creates live scores for narratives from various sources, read live.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music & Sound Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.149Z"
+  },
+  {
+    "id": "the-brick-2026-11-01-i-can-steal-your-mother",
+    "title": "I Can Steal Your Mother",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-11-01",
+    "description": "A fully-illustrated autobiographical comedy hour by artist-comedian Max Wittert, composed of over 1,200 original drawings, playing October 30-November 15, 2026 at The Brick Theater. Running time 65 minutes.",
+    "url": "https://www.bricktheater.com/event/i-can-steal-your-mother/2026-11-01/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:29:50.149Z"
+  },
+  {
+    "id": "harvestworks-2026-11-01-in-other-forms",
+    "title": "In Other Forms",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-11-01",
+    "description": "A group exhibition at Harvestworks' digital media arts center running August 29 through November 1, 2026.",
+    "url": "https://www.harvestworks.org/event/in-other-forms/",
+    "format": "gallery",
+    "interest_score": 3.5,
+    "tags": [
+      "media-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:16:17.524Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-01-kubrick-the-shining-international-releas",
+    "title": "Kubrick: The Shining (International Release Cut U.S. Theatrical Premiere)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-01",
+    "description": "Opening night of MoMI's complete Stanley Kubrick retrospective, presented by Criterion: the U.S. theatrical premiere of the International Release cut of The Shining followed by the American version, preceded by a conversation with Steadicam inventor Garrett Brown and Criterion box-set producer Michael Chaiken.",
+    "url": "https://movingimage.org",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "criterion"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.623Z"
+  },
+  {
+    "id": "terraza-7-2026-11-01-max-pollak-the-rumbatap-jam",
+    "title": "Max Pollak | The RumbaTap Jam",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-01",
+    "description": "Tap-dance innovator Max Pollak leads a RumbaTap jam session, fusing Afro-Cuban rumba rhythms with improvised tap dance.",
+    "url": "https://www.terraza7.com/detalles-y-registro/max-pollak-the-rumbatap-jam-2",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc."
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:28:45.892Z"
+  },
+  {
+    "id": "film-forum-2026-11-01-my-undesirable-friends-part-ii-exile-cha",
+    "title": "My Undesirable Friends: Part II – Exile (Chapters 1-3)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-01",
+    "time_start": "12:30",
+    "description": "Julia Loktev's documentary 'My Undesirable Friends: Part II – Exile' screens with an introduction by executive producer Meryl Streep. Chapters 1-3 follow independent Russian journalists navigating exile and censorship.",
+    "url": "https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-november-1-1230",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:24:32.011Z"
+  },
+  {
+    "id": "film-forum-2026-11-01-my-undesirable-friends-part-ii-exile-cha",
+    "title": "My Undesirable Friends: Part II – Exile (Chapters 4-5) — Q&A",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-01",
+    "time_start": "16:20",
+    "description": "Chapters 4-5 of Julia Loktev's documentary screen followed by a Q&A with the filmmaker and subjects Ksenia Mironova and Elena Kostyuchenko, journalists covering Russia from exile.",
+    "url": "https://filmforum.org/events/event/my-undesirable-friends-part-ii-exile-november-1-420",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:24:32.015Z"
+  },
+  {
+    "id": "metrograph-2026-11-01-news-from-home-interior-ny-subway-14th-s",
+    "title": "News From Home + Interior NY Subway, 14th Street",
+    "venue_id": "metrograph",
+    "venue_name": "Metrograph",
+    "date": "2026-11-01",
+    "time_start": "17:45",
+    "description": "Chantal Akerman's landmark 1976 structural-film essay News From Home, paired with G.W. \"Billy\" Bitzer's early actuality short, with an introduction by series curator Genevieve Yue.",
+    "url": "https://metrograph.com/film/9999005065-news-from-home-interior-ny-subway-14th-street/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-11T07:36:00.522Z"
+  },
+  {
+    "id": "blank-forms-2026-11-01-oren-ambarchi-andrew-cyrille-cyro-baptis",
+    "title": "Oren Ambarchi, Andrew Cyrille, Cyro Baptista",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-11-01",
+    "description": "First-ever trio encounter between experimental guitarist Oren Ambarchi, master jazz percussionist Andrew Cyrille and Brazilian percussionist/vocalist Cyro Baptista, spanning two sets across three distinct musical worlds.",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental/electronic music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:18:14.624Z"
+  },
+  {
+    "id": "printed-matter-2026-11-01-some-other-note-books",
+    "title": "Some Other (Note) Books",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-01",
+    "time_start": "12:00",
+    "time_end": "15:00",
+    "description": "A bookmaking workshop at Printed Matter exploring alternative notebook and publication forms.",
+    "url": "https://www.printedmatter.org",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.869Z"
+  },
+  {
+    "id": "barbes-2026-11-01-stephane-wrembel",
+    "title": "Stephane Wrembel",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-01",
+    "time_start": "18:00",
+    "description": "Barbès' resident Gypsy jazz master continues his weekly dominical djangologie.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.150Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-01-the-shining-international-version-u-s-th",
+    "title": "The Shining: International Version (U.S. Theatrical Premiere)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-01",
+    "time_start": "12:00",
+    "description": "U.S. theatrical premiere of Kubrick's shorter International Release cut of The Shining, preceded by a conversation with Steadicam inventor Garrett Brown and Kubrick archivist Michael Chaiken.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.059Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-01-twenty-years-later-a-man-marked-to-die-b",
+    "title": "Twenty Years Later: A Man Marked to Die — Book Release Screening",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-01",
+    "description": "Screening of Eduardo Coutinho's 1984 documentary, introduced by Booker-shortlisted writer Itamar Vieira Junior.",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:13:55.344Z"
+  },
+  {
+    "id": "wonderville-2026-11-01-video-art-experimental-film-bingo",
+    "title": "Video Art & Experimental Film Bingo",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-01",
+    "time_start": "14:30",
+    "time_end": "17:30",
+    "description": "A playful bingo night at Wonderville built around clips of video art and experimental film, pairing games culture with experimental moving image.",
+    "url": "https://www.wonderville.nyc/events/video-art-experimental-film-bingo-11-1-26",
+    "format": "other",
+    "interest_score": 4.8,
+    "tags": [
+      "experimental-film",
+      "video-art",
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:23:15.249Z"
+  },
+  {
+    "id": "poetry-project-2026-11-02--the-future-exists-for-the-most-part-in-",
+    "title": "\"The Future Exists for the Most Part in the Present\": On Poetry, the Avant-Garde, and the Left",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-02",
+    "time_start": null,
+    "time_end": null,
+    "description": "Multi-day program on poetry, the avant-garde, and left politics at The Poetry Project, Nov 2-6, 2026.",
+    "url": "https://www.poetryproject.org/events/the-future-exists-for-the-most-part-in-the-present-poetry-the-avant-garde-and-the-left",
+    "price": "$10-25",
+    "format": "conference",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-21T07:22:58.163Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-02-book-release-event-rim-battal-mustang",
+    "title": "Book Release Event: Rim Battal + Mustang",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-02",
+    "description": "A screening of Deniz Gamze Ergüven's Mustang celebrating the English translation of Rim Battal's autobiographical novel I'll Look Myself in the Eyes, followed by a bilingual reading and discussion with Battal and translator Liza Tripp.",
+    "url": "https://anthologyfilmarchives.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "translation"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.552Z"
+  },
+  {
+    "id": "film-forum-2026-11-02-citizen-ruth-post-film-conversation-with",
+    "title": "Citizen Ruth: Post-Film Conversation with Screenwriter Jim Taylor",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-02",
+    "time_start": "20:00",
+    "description": "Screening of Alexander Payne's Citizen Ruth followed by a conversation with screenwriter Jim Taylor.",
+    "url": "https://filmforum.org/events/event/citizen-ruth-november-2",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:20:59.076Z"
+  },
+  {
+    "id": "nitehawk-2026-11-02-darkroom-screening-salon",
+    "title": "Darkroom Screening & Salon",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-02",
+    "description": "Non Films' secret monthly mixtape of short films from around the globe.",
+    "url": "https://nitehawkcinema.com/",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-14T07:17:50.131Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-11-02-electo-electro-vote-n-mix-26",
+    "title": "Electo Electro: Vote n Mix '26",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-11-02",
+    "time_start": "15:00",
+    "time_end": "21:00",
+    "description": "An interactive video installation by Mike Richison, produced by Darryl Montgomery-Hell and Sektor 6, on view at Millennium Film Workshop on Election Day.",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Games & Interactive",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:25:24.356Z"
+  },
+  {
+    "id": "mcnally-jackson-2026-11-02-freedom-s-gate",
+    "title": "Freedom's Gate",
+    "venue_id": "mcnally-jackson",
+    "venue_name": "McNally Jackson",
+    "date": "2026-11-02",
+    "time_start": "19:00",
+    "description": "Soyica Diggs Colbert presents Freedom's Gate, a portrait of five Black women artists (Maya Angelou, Lorraine Hansberry, Abbey Lincoln, Miriam Makeba, and Nina Simone) and the NY nightclub that helped inspire the Civil Rights Movement, in conversation with Salamishah Tillet.",
+    "price": "$5",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.351Z"
+  },
+  {
+    "id": "asia-society-2026-11-02-king-of-the-yees-lauren-yee-david-henry-",
+    "title": "King of the Yees: Lauren Yee, David Henry Hwang, and Francis Jue in Conversation",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-02",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Playwrights Lauren Yee and David Henry Hwang with actor Francis Jue discuss family and fatherhood in their stage work.",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:13:55.277Z"
+  },
+  {
+    "id": "asia-society-2026-11-02-king-of-the-yees-lauren-yee-francis-jue-",
+    "title": "King of the Yees: Lauren Yee, Francis Jue, and David Henry Hwang",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-02",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Playwrights David Henry Hwang and Lauren Yee, with actor Francis Jue, discuss family, cultural identity, and personal storytelling in theater, drawing on their relationships with their fathers.",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Asian Diaspora & SE Asian Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.120Z"
+  },
+  {
+    "id": "nyas-2026-11-02-lyceum-society-the-nobel-prize-for-physi",
+    "title": "Lyceum Society: The Nobel Prize for Physics 2026",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2026-11-02",
+    "description": "A Lyceum Society virtual talk unpacking the science behind the 2026 Nobel Prize in Physics.",
+    "url": "https://www.nyas.org/shaping-science/events/lyceum-society-the-nobel-prize-for-physics-2026",
+    "price": "free for members",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies, history of science, philosophy of science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:59.702Z"
+  },
+  {
+    "id": "barbes-2026-11-02-musics",
+    "title": "Musics",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-02",
+    "time_start": "19:00",
+    "description": "Meditative musings with Georgian brothers Ilusha and Gocha Tsinadze on guitars, with Chris Tordini on bass and Jason Nazary on drums.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.150Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-02-rim-battal-mustang-book-release-event",
+    "title": "Rim Battal + Mustang — Book Release Event",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-02",
+    "time_start": "19:00",
+    "description": "Screening of Deniz Gamze Ergüven's Mustang (2015) followed by a bilingual reading and discussion with author Rim Battal and translator Liza Tripp, celebrating the English translation of her autobiographical novel.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "translation"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:13:17.114Z"
+  },
+  {
+    "id": "wonderville-2026-11-02-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-02",
+    "time_start": "20:00",
+    "description": "A live broadcast-style video performance event staged at Wonderville as part of the recurring FORT90 TV series.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-2-26",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:29:03.011Z"
+  },
+  {
+    "id": "wonderville-2026-11-02-the-fort90-broadcast-system-presents-the",
+    "title": "the FORT90 BROADCAST SYSTEM presents: the FORT90 FILM CLUB (\"LEFTOVERS\" VOLUME 4, PART 1)",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-02",
+    "time_start": "20:00",
+    "description": "A film club screening night curated by the FORT90 Broadcast System, part of an ongoing \"Leftovers\" video series.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-2-26",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:29:59.958Z"
+  },
+  {
+    "id": "wonderville-2026-11-02-trigal-g-t-arpe-salt-mr-mysterease",
+    "title": "Trigal // G.T.Arpe // Salt // Mr. Mysterease",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-02",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A live music lineup at Wonderville featuring Trigal, G.T.Arpe, Salt, and Mr. Mysterease.",
+    "url": "https://www.wonderville.nyc/events/trigal/gtarpe/salt/mr-mysterease-11-2-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:23:15.249Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-03-blknews-terms-conditions",
+    "title": "BLKNEWS: TERMS & CONDITIONS",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-03",
+    "description": "A program at Maysles Documentary Center exploring Black news media through the lens of 'terms and conditions,' part of the venue's ongoing presentation of socially engaged documentary and media-art work.",
+    "url": "https://www.maysles.org/calendar/blknews-terms-and-conditions",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:25:24.334Z"
+  },
+  {
+    "id": "nitehawk-2026-11-03-bringing-out-the-dead-35mm-blank-check-s",
+    "title": "Bringing Out the Dead (35mm) — Blank Check Selects",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-03",
+    "description": "35mm screening of Scorsese's Bringing Out the Dead, introduced by the Blank Check podcast hosts.",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:13:55.231Z"
+  },
+  {
+    "id": "roulette-2026-11-03-cecilia-lopez-s-filter-four-melissa-alma",
+    "title": "Cecilia Lopez's Filter Four // Melissa Almaguer",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-03",
+    "time_start": "20:00",
+    "description": "A new quartet explores acoustic-electronic boundaries, opened with an immersive solo performance of experimental tap dancing by Melissa Almaguer.",
+    "url": "https://roulette.org/event/cecilia-lopez-trevor-dunn-dan-peck-ingrid-laubrock/",
+    "price": "$25",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-11T07:36:00.469Z"
+  },
+  {
+    "id": "japan-society-2026-11-03-foreign-exchange-cross-cultural-conversa",
+    "title": "Foreign Exchange: Cross-Cultural Conversations",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-03",
+    "description": "A free panel bringing animation creator LeSean Thomas and Studio Mir executive producer Kwang Il Han to NYC to discuss breaking into Korean animation and the cross-border production of the series Bass X Machina ahead of its Netflix debut. Held at Pratt Institute, School of Visual Arts, and the Korean Cultural Center New York, promoted via Japan Society (runs Nov 3-5).",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3.8,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:25:03.441Z"
+  },
+  {
+    "id": "poetry-project-2026-11-03-friendly-criticism-5-session-writing-wor",
+    "title": "Friendly Criticism; 5-Session Writing Workshop with Rainer Diana Hamilton",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-03",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "Five-session writing workshop on literary criticism led by Rainer Diana Hamilton, running November 3 through December 1, 2026.",
+    "url": "https://www.poetryproject.org/events/friendly-criticism-5-session-writing-workshop-with-rainer-diana-hamilton",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:31:10.611Z"
+  },
+  {
+    "id": "poetry-project-2026-11-03-friendly-criticism-five-session-writing-",
+    "title": "Friendly Criticism: Five-Session Writing Workshop with Rainer Diana Hamilton",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-03",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "description": "A five-session writing workshop led by Rainer Diana Hamilton, running Nov 3 - Dec 1, 2026, at The Poetry Project.",
+    "url": "https://www.poetryproject.org/events/friendly-criticism-5-session-writing-workshop-with-rainer-diana-hamilton",
+    "price": "$200",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:33:51.165Z"
+  },
+  {
+    "id": "japan-society-2026-11-03-from-portfolios-to-passports-the-path-to",
+    "title": "From Portfolios to Passports: The Path to Work in Korean Animation",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-03",
+    "time_start": "19:30",
+    "time_end": "21:00",
+    "description": "LeSean Thomas, the first American animator hired as permanent staff at a Korean animation studio, and Studio Mir's Kwang Il Han discuss the path for international animators to work in Korea's animation industry. Free, part of the Foreign Exchange: Cross-Cultural Conversations series at Pratt Institute.",
+    "url": "https://www.japansociety.org",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.587Z"
+  },
+  {
+    "id": "microscope-gallery-2026-11-03-marni-kotak-midterms-moonshot",
+    "title": "Marni Kotak: Midterms Moonshot",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-11-03",
+    "time_start": "18:00",
+    "time_end": "22:00",
+    "description": "A live performance event by Marni Kotak presented by Microscope Gallery at Grace Exhibition Space, tied to the 2026 midterm elections.",
+    "url": "https://microscopegallery.com/marni-kotak-midterms-moonshot/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:46.550Z"
+  },
+  {
+    "id": "movement-research-2026-11-03-open-performance-nov-3-2026",
+    "title": "Open Performance | Nov 3, 2026",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-11-03",
+    "description": "An open showcase of works-in-progress by Movement Research artists, in an informal performance format.",
+    "url": "https://movementresearch.org/events/1455/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:37:21.856Z"
+  },
+  {
+    "id": "wonderville-2026-11-03-rhythm-dance-games-night",
+    "title": "Rhythm & Dance Games Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-03",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A community arcade night at Wonderville centered on rhythm and dance arcade games.",
+    "url": "https://www.wonderville.nyc/events/rhythm-dance-games-night-11-3-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:29:03.011Z"
+  },
+  {
+    "id": "barbes-2026-11-03-slavic-soul-party",
+    "title": "Slavic Soul Party",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-03",
+    "time_start": "21:00",
+    "description": "A weekly brass bacchanalia of Balkan brass band music.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "balkan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.151Z"
+  },
+  {
+    "id": "cooper-union-2026-11-03-the-diane-lewis-student-lecture-series-m",
+    "title": "The Diane Lewis Student Lecture Series | Manuel Bouzas: Reporting from the Field",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-03",
+    "time_start": "18:30",
+    "description": "Manuel Bouzas reports from the field as part of the Diane Lewis Student Lecture Series.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/diane-lewis-student-lecture-series-manuel-bouzas-reporting-field",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:31:09.883Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-03-the-new-social-environment-sr-lejeune-ho",
+    "title": "The New Social Environment: SR Lejeune — Hold Me Up",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-03",
+    "time_start": "13:00",
+    "description": "Zoom conversation with artist SR Lejeune and Rail contributor Joshua Chee Sanford on the exhibition Hold Me Up at HESSE FLATOW.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.881Z"
+  }
+]
