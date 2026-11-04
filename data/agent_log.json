@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "franklin-furnace",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:35:12.870Z",
-    "completed_at": "2026-10-14T07:35:12.870Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "rooftop-films",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:35:12.890Z",
-    "completed_at": "2026-10-14T07:35:12.890Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "fridman-gallery",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:35:12.917Z",
-    "completed_at": "2026-10-14T07:35:12.917Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "time-spans",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-14T07:35:12.927Z",
-    "completed_at": "2026-10-14T07:35:12.927Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "helix-center",
     "scrape_tier_used": 3,
     "started_at": "2026-10-14T07:35:12.939Z",
@@ -4997,6 +4957,46 @@
     "completed_at": "2026-11-04T07:17:15.504Z",
     "events_found": 7,
     "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bam",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:22:21.028Z",
+    "completed_at": "2026-11-04T07:22:21.028Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bard-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:22:21.054Z",
+    "completed_at": "2026-11-04T07:22:21.054Z",
+    "events_found": 7,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bitforms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:22:21.081Z",
+    "completed_at": "2026-11-04T07:22:21.081Z",
+    "events_found": 4,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "blank-forms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-04T07:22:21.093Z",
+    "completed_at": "2026-11-04T07:22:21.093Z",
+    "events_found": 3,
+    "events_new": 0,
     "status": "completed"
   }
 ]

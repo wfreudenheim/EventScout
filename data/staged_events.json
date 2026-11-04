@@ -8786,5 +8786,111 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-11-04T07:17:15.487Z"
+  },
+  {
+    "id": "bam-2026-11-15-next-wave-2026",
+    "title": "Next Wave 2026",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2026-11-15",
+    "description": "BAM's signature contemporary performance festival returns with bold productions from artists who have presented work at BAM for decades, alongside new creations by artists appearing on its stages for the first time. The festival runs across dance, music, performance art, and theater through December 2026.",
+    "url": "https://www.bam.org/next-wave",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:22:21.006Z"
+  },
+  {
+    "id": "bitforms-2026-11-04-lajun-mcmillian-child-ren-of-the-bloom",
+    "title": "LaJuné McMillian: Child/ren of the Bloom",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-11-04",
+    "description": "An interactive, multidisciplinary installation at Pioneer Works (Brooklyn) exploring the threshold between land and sea and the body's return to its origins, drawing on research into phytoplankton, algal blooms, and bioluminescence. Supported by bitforms-affiliated artist LaJuné McMillian's 2026 OceanX residency; on view through December 20, 2026.",
+    "url": "https://pioneerworks.org/exhibitions/lajune-mcmillian-child-ren-of-the-bloom",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Climate & environmental art, ecology, speculative futures",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:22:21.058Z"
+  },
+  {
+    "id": "bitforms-2026-11-04-lajun-mcmillian-to-see-for-oneself",
+    "title": "LaJuné McMillian: To See for Oneself",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-11-04",
+    "description": "Solo exhibition by LaJuné McMillian, an artist working with motion capture, movement, and Afrofuturist world-building, on view at bitforms gallery through January 9, 2027.",
+    "url": "https://www.bitforms.art/exhibition/to-see-for-oneself",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Games & interactive art, game design, VR/AR"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:22:21.058Z"
+  },
+  {
+    "id": "bitforms-2026-11-04-dear-data",
+    "title": "Dear Data",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-11-04",
+    "description": "Group exhibition featuring Amor Muñoz, Claudia Hart, and Maya Man, on view at bitforms gallery through December 13, 2026; the artists work across generative art, digital/VR art, and net art.",
+    "url": "https://www.bitforms.art/exhibition/dear-data",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "generative-art",
+      "net-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:22:21.058Z"
+  },
+  {
+    "id": "bitforms-2026-11-04-siebren-versteeg-time-frames",
+    "title": "Siebren Versteeg: TIME FRAMES",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-11-04",
+    "description": "Five live-feed video artworks at Yeh Art Gallery (St. John's University, Queens) that transform familiar places through re-cropping, mirroring, pixelation, and other digital manipulation, installed in flat-screen vitrines with painted frames made in collaboration with April Childers. On view through spring 2027.",
+    "url": "https://sjuartgallery.org/Siebren-Versteeg",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:22:21.059Z"
   }
 ]
