@@ -10199,5 +10199,62 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:33:55.867Z"
+  },
+  {
+    "id": "the-brick-2026-11-05-i-can-steal-your-mother",
+    "title": "I Can Steal Your Mother",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-11-05",
+    "description": "A fully-illustrated comedy hour from artist and comedian Max Wittert, composed of over 1,200 original drawings. An autobiographical, surreal storytime touching on haunting memories, neurotic fantasies, and reincarnated goddesses. Running October 30-November 15, 2026 at The Brick.",
+    "url": "https://www.bricktheater.com/event/i-can-steal-your-mother/2026-11-05/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:36:34.646Z"
+  },
+  {
+    "id": "white-columns-2026-11-07-shop-artists-who-do-shirts",
+    "title": "SHOP: Artists Who Do Shirts",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-11-07",
+    "description": "A group exhibition of artist-made shirts presented in White Columns' SHOP space, on view November 7 through December 19, 2026.",
+    "url": "https://whitecolumns.org/exhibitions/shop-artists-who-do-shirts/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:36:34.678Z"
+  },
+  {
+    "id": "white-columns-2026-12-11-white-columns-online-38-clothes-not-fash",
+    "title": "White Columns Online #38: Clothes, not Fashion",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-12-11",
+    "description": "The 38th installment of White Columns' online exhibition series, curated by Gemma Cirignano around the theme 'Clothes, not Fashion.' On view October 30 through December 11, 2026.",
+    "url": "https://whitecolumns.org/exhibitions/white-columns-online-38-clothesnot-fashion-curated-by-gemma-cirignano/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:36:34.678Z"
   }
 ]
