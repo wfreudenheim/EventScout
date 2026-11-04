@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:20:59.096Z"
+    "last_checked": "2026-11-04T07:23:12.784Z"
   },
   {
     "id": "anthology-film-archives",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:19:46.530Z"
+    "last_checked": "2026-11-04T07:23:16.961Z"
   },
   {
     "id": "bitforms",
@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:46.578Z"
+    "last_checked": "2026-11-04T07:23:17.054Z"
   },
   {
     "id": "printed-matter",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:59.754Z",
+    "last_checked": "2026-11-04T07:23:12.741Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -1895,7 +1895,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:25:09.257Z"
+    "last_checked": "2026-11-04T07:23:16.988Z"
   },
   {
     "id": "franklin-furnace",
@@ -1919,7 +1919,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:25:09.271Z"
+    "last_checked": "2026-11-04T07:23:12.828Z"
   },
   {
     "id": "emily-harvey-foundation",
@@ -1988,7 +1988,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-09-30T07:34:36.939Z"
+    "last_checked": "2026-11-04T07:23:17.029Z"
   },
   {
     "id": "morus",
@@ -2060,7 +2060,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:47.552Z"
+    "last_checked": "2026-11-04T07:23:12.813Z"
   },
   {
     "id": "maysles-documentary-center",
@@ -2649,7 +2649,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:23:35.147Z"
+    "last_checked": "2026-11-04T07:23:12.625Z"
   },
   {
     "id": "n-plus-one",
@@ -2721,7 +2721,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:23:35.173Z"
+    "last_checked": "2026-11-04T07:23:17.068Z"
   },
   {
     "id": "canal-projects",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:35.819Z"
+    "last_checked": "2026-11-04T07:23:17.088Z"
   },
   {
     "id": "la-mama",
@@ -3146,7 +3146,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-21T07:27:45.023Z"
+    "last_checked": "2026-11-04T07:23:17.009Z"
   },
   {
     "id": "jack-arts",
@@ -3391,7 +3391,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:50.237Z"
+    "last_checked": "2026-11-04T07:23:12.674Z"
   },
   {
     "id": "summerstage",

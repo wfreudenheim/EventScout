@@ -8892,5 +8892,494 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:22:21.059Z"
+  },
+  {
+    "id": "drom-2026-11-07-disco-turco-presents-seran-bilgi-turkish",
+    "title": "Disco Turco Presents Seran Bilgi: \"Turkish Pop Night\"",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-07",
+    "time_start": "22:00",
+    "description": "Turkish pop vocalist Seran Bilgi headlines a Disco Turco night at DROM, drawing on an international career connecting her to NYC and Broadway collaborators.",
+    "url": "https://dromnyc.com/event/disco-turco-presents-seran-bilgi-turkish-pop-night/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions (raga, gamelan, flamenco, afrobeat, cumbia, etc.)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:12.639Z"
+  },
+  {
+    "id": "elsewhere-2026-11-06-aerea-alex-farell-julia-govor-vyper-mach",
+    "title": "Aerea, Alex Farell, Julia Govor, Vyper, Machine Thirst: Firebunny + Nikitau",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-06",
+    "time_start": "22:30",
+    "description": "A full-venue club night of electronic DJ sets at Elsewhere featuring Aerea, Alex Farell, Julia Govor, Vyper, and Machine Thirst.",
+    "url": "https://www.eventbrite.com/e/aerea-alex-farell-julia-govor-vyper-machine-thirst-firebunny-nikitau-tickets-1989844748207",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:12.689Z"
+  },
+  {
+    "id": "elsewhere-2026-11-07-flava-d-don-ri-made-to-order-dendi-s-dad",
+    "title": "Flava D, Don-Ri, Made to Order: Dendi's Dad, Ejwize, Imbueless",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-07",
+    "time_start": "22:30",
+    "description": "UK bassline/garage DJ Flava D headlines a full-venue electronic club night with Don-Ri and the Made to Order collective.",
+    "url": "https://www.eventbrite.com/e/flava-d-don-ri-made-to-order-dendis-dad-ejwize-imbueless-tickets-2001018252459",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:12.690Z"
+  },
+  {
+    "id": "elsewhere-2026-11-13-omni-saudi-oil",
+    "title": "Omni, Saudi Oil",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-13",
+    "time_start": "19:00",
+    "description": "Art-punk band Omni plays Zone One with Saudi Oil.",
+    "url": "https://www.eventbrite.com/e/omni-saudi-oil-tickets-1999542593724",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:12.691Z"
+  },
+  {
+    "id": "film-forum-2026-11-07-raise-the-red-lantern-screening-co-prese",
+    "title": "Raise the Red Lantern - Screening Co-Presented by CineCina Film Festival",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-07",
+    "time_start": "15:00",
+    "description": "A special co-presented screening of Zhang Yimou's RAISE THE RED LANTERN during its theatrical run at Film Forum, presented with the CineCina Film Festival.",
+    "url": "https://filmforum.org/events/event/raise-the-red-lantern-november-7",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:12.755Z"
+  },
+  {
+    "id": "filmmakers-coop-2026-11-21-forrest-sprague-s-epiphany-",
+    "title": "Forrest Sprague's \"Epiphany\"",
+    "venue_id": "filmmakers-coop",
+    "venue_name": "Film-Makers' Cooperative",
+    "date": "2026-11-21",
+    "time_start": "19:00",
+    "description": "A screening of Forrest Sprague's seven-part experimental feature EPIPHANY, followed by a discussion and Q&A with filmmaker and curator Giovanni Santia.",
+    "url": "https://film-makerscoop.com/screenings/forrest-spragues-epiphany",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:12.791Z"
+  },
+  {
+    "id": "filmmakers-coop-2026-11-14-non-films-presents-darkroom-screening-sa",
+    "title": "Non Films Presents DarkRoom: Screening & Salon (No. 5)",
+    "venue_id": "filmmakers-coop",
+    "venue_name": "Film-Makers' Cooperative",
+    "date": "2026-11-14",
+    "time_start": "19:00",
+    "description": "DarkRoom's experimental screening and salon series returns to the historic Film-Makers' Cooperative for its fifth edition.",
+    "url": "https://film-makerscoop.com/screenings/non-films-presents-darkroom-screening-and-salon-no-5-at-the-2",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:12.792Z"
+  },
+  {
+    "id": "filmmakers-coop-2026-11-14-queer-disabled-and-hiv-positive-in-gaza",
+    "title": "Queer, Disabled, and HIV-Positive in Gaza",
+    "venue_id": "filmmakers-coop",
+    "venue_name": "Film-Makers' Cooperative",
+    "date": "2026-11-14",
+    "time_start": "19:30",
+    "description": "A documentary screening, fundraiser, and conversation with journalist Afeef Nessouli, presented by Visual AIDS, The Film-Makers' Cooperative, and Millennium Film Workshop.",
+    "url": "https://film-makerscoop.com/screenings/queer-disabled-and-hiv-positive-in-gaza",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:12.792Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-07-walking-tour-mid-century-modernism-along",
+    "title": "Walking Tour: Mid-Century Modernism Along Manhattan's 53rd Street",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-07",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A guided walking tour of Manhattan's 53rd Street corridor, a benchmark for the development of NYC's mid-century modernist architecture.",
+    "url": "https://calendar.aiany.org/2026/11/07/walking-tour-mid-century-modernism-along-manhattans-53rd-street-8/",
+    "format": "walk",
+    "interest_score": 4,
+    "tags": [
+      "modernism"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.931Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-11-reclaiming-highway-infrastructure-commun",
+    "title": "Reclaiming Highway Infrastructure: Community Visions for Public Space",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-11",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A talk exploring community-driven visions for transforming highway infrastructure into public space in New York City.",
+    "url": "https://calendar.aiany.org/2026/11/11/reclaiming-highway-infrastructure-community-visions-for-public-space/",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "infrastructure",
+      "public-space"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Climate & Environment",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.932Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-11-field-connections-community-based-organi",
+    "title": "Field Connections: Community-Based Organizations",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-11",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A talk on the role community-based organizations play in shaping NYC's urban landscape, from community gardens to public-space advocacy.",
+    "url": "https://calendar.aiany.org/2026/11/11/field-connections-community-based-organizations/",
+    "format": "talk",
+    "interest_score": 3.1,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.932Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-10-world-trade-center-transportation-master",
+    "title": "World Trade Center Transportation Master Planning and Design: 25 Years Later",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-10",
+    "time_start": "18:00",
+    "time_end": "19:30",
+    "description": "A talk revisiting the master-plan framework for Lower Manhattan transportation systems established after 9/11, reflecting 25 years on from the rebuilding of the World Trade Center site.",
+    "url": "https://calendar.aiany.org/2026/11/10/world-trade-center-transportation-master-planning-and-design-25-years-later/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "transportation"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.932Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-04-methods-of-measurement-health-safety-wel",
+    "title": "Methods of Measurement: Health, Safety, Welfare in Architecture and Happy Hour",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-04",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A Center for Architecture talk on health, safety, and welfare standards in architecture, followed by a networking happy hour.",
+    "url": "https://calendar.aiany.org/2026/11/04/methods-of-measurement-health-safety-welfare-in-architecture-and-happy-hour/",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.928Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-06-deans-roundtable-2026",
+    "title": "Deans' Roundtable 2026",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-06",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "AIA New York's annual Deans' Roundtable, bringing together representatives from more than a dozen architecture schools to discuss architectural education.",
+    "url": "https://calendar.aiany.org/2026/11/06/deans-roundtable-2026/",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.931Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-09-booktalk-curious-matter-exhibitions-book",
+    "title": "Booktalk: Curious Matter: Exhibitions, Books, and the Practice of Inquiry",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "Raymond E. Mingst and Arthur Bruso discuss their exhibitions, artists' books, and inquiry-based curatorial practice.",
+    "url": "https://shop.centerforbookarts.org/products/book-talk-curious-matter-exhibitions-books-and-the-practice-of-inquiry",
+    "price": "$5",
+    "format": "talk",
+    "interest_score": 2.2,
+    "tags": [
+      "curatorial"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.973Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-19-riso-ii-analog-and-digital-workflows-for",
+    "title": "Riso II: Analog and Digital Workflows for Multipage Zines",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "A hands-on in-person workshop with Becca Josephson covering analog and digital risograph workflows for making multipage zines, running Thursdays through December 17.",
+    "url": "https://shop.centerforbookarts.org/products/26fri150i",
+    "price": "$420 + $25 materials fee",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & creative tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.973Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-19-2026-annual-chapbook-contest-reading",
+    "title": "2026 Annual Chapbook Contest Reading",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "description": "A reading celebrating the 2026 Annual Chapbook Contest, featuring Nikky Finney, ansel elkins, Roni Gross, Rebecca Josephson, Barbara Henry, and Myong Jin.",
+    "url": "https://shop.centerforbookarts.org/products/2026-annual-chapbook-contest-1",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.974Z"
+  },
+  {
+    "id": "chocolate-factory-2026-11-06-next-dance",
+    "title": "Next Dance",
+    "venue_id": "chocolate-factory",
+    "venue_name": "The Chocolate Factory Theater",
+    "date": "2026-11-06",
+    "description": "Neil Greenberg's new 50-minute dance work investigating 'next-ness': proceeding from the materials at hand toward new potentialities, and performing possibility as a negotiation with constraints.",
+    "url": "https://chocolatefactorytheater.org/neil-greenberg-2026/",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.994Z"
+  },
+  {
+    "id": "chocolate-factory-2026-11-06-lecture-on-the-history-of-skywriting",
+    "title": "Lecture on the History of Skywriting",
+    "venue_id": "chocolate-factory",
+    "venue_name": "The Chocolate Factory Theater",
+    "date": "2026-11-06",
+    "description": "A performance-lecture by Paul Lazar set in the sky, with visits from singer Hai-Ting Chinn, text by Anne Carson, and music by Michael Gordon.",
+    "url": "https://chocolatefactorytheater.org/paul-lazar-2027/",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.994Z"
+  },
+  {
+    "id": "chocolate-factory-2026-11-06-broken-iteration-iii-for-lic-",
+    "title": "broken (iteration III - for LIC)",
+    "venue_id": "chocolate-factory",
+    "venue_name": "The Chocolate Factory Theater",
+    "date": "2026-11-06",
+    "description": "Findlay//Sandsmark present a swan-song performance piece, created after the duo lost their venue RIMI/IMIR SceneKunst in Stavanger, reflecting on how stages can disappear into the ether.",
+    "url": "https://chocolatefactorytheater.org/findlay-sandsmark-2026/",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.995Z"
+  },
+  {
+    "id": "chocolate-factory-2026-11-06-boiling-rain",
+    "title": "boiling rain",
+    "venue_id": "chocolate-factory",
+    "venue_name": "The Chocolate Factory Theater",
+    "date": "2026-11-06",
+    "description": "Devynn Emory's performance gathering honors health care workers enduring the durational toll of caring for bodies under ongoing colonialism, inviting the audience to gather around a medical mannequin as she departs into the next plane.",
+    "url": "https://chocolatefactorytheater.org/devynn-emory-2026/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:16.995Z"
+  },
+  {
+    "id": "city-reliquary-2026-11-14-mystery-movie-night-at-the-city-reliquar",
+    "title": "Mystery Movie Night at the City Reliquary: Presented by Miss Subways 2026!",
+    "venue_id": "city-reliquary",
+    "venue_name": "City Reliquary",
+    "date": "2026-11-14",
+    "description": "A surprise film screening event at the City Reliquary, presented by Miss Subways 2026.",
+    "url": "https://www.cityreliquary.org/mystery-movie-night-at-the-city-reliquary-presented-by-miss-subways-2026/",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:17.017Z"
+  },
+  {
+    "id": "cooper-union-2026-11-12-public-art-fund-talks-camille-henrot",
+    "title": "Public Art Fund Talks: Camille Henrot",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-12",
+    "time_start": "18:30",
+    "description": "Artist Camille Henrot, known for interdisciplinary video and installation work, speaks as part of the Public Art Fund Talks series at Cooper Union.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/public-art-fund-talks-camille-henrot",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image",
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:17.037Z"
+  },
+  {
+    "id": "culturehub-2026-11-21-we-talked-a-door-into-being",
+    "title": "We Talked a Door Into Being",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-11-21",
+    "description": "An interactive work featuring three AI-driven puppets that wait for their creator to return, hoping one day to venture outside and see the real world.",
+    "url": "https://www.culturehub.org/events/we-talked-a-door-into-being",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science, brain-computer interfaces",
+      "Art & technology, generative art, creative coding, new media"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-04T07:23:17.075Z"
   }
 ]
