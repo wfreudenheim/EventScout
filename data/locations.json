@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:31:06.435Z"
+    "last_checked": "2026-11-08T08:18:00.657Z"
   },
   {
     "id": "issue-project-room",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:37:34.417Z"
+    "last_checked": "2026-11-08T08:18:00.722Z"
   },
   {
     "id": "knockdown-center",
@@ -645,7 +645,7 @@
     "scrape_tier": 2,
     "structured_source": null,
     "generated_scraper": "scrapers/union-docs.ts",
-    "last_checked": "2026-11-08T06:37:07.274Z"
+    "last_checked": "2026-11-08T08:18:00.550Z"
   },
   {
     "id": "whitney",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:19:24.308Z"
+    "last_checked": "2026-11-08T08:18:00.674Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-01T07:19:24.099Z"
+    "last_checked": "2026-11-08T08:18:00.607Z"
   },
   {
     "id": "moma",
@@ -1108,7 +1108,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.584Z",
+    "last_checked": "2026-11-08T08:18:00.522Z",
     "scrape_notes": "Sweep 2026-07: now 403s via WebFetch too (worked in March). | Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
   },
   {
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:22:21.052Z"
+    "last_checked": "2026-11-08T08:18:00.567Z"
   },
   {
     "id": "the-stone",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:17:15.305Z"
+    "last_checked": "2026-11-08T08:18:00.597Z"
   },
   {
     "id": "aaww",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:33:55.902Z"
+    "last_checked": "2026-11-08T08:18:00.640Z"
   },
   {
     "id": "nowadays",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.900Z"
+    "last_checked": "2026-11-08T08:18:00.699Z"
   },
   {
     "id": "nypl-live",
@@ -2721,7 +2721,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:23:17.068Z"
+    "last_checked": "2026-11-08T08:18:00.686Z"
   },
   {
     "id": "canal-projects",
@@ -3077,7 +3077,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:26:13.440Z"
+    "last_checked": "2026-11-08T08:18:00.585Z"
   },
   {
     "id": "movement-research",
@@ -3338,7 +3338,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:24.170Z"
+    "last_checked": "2026-11-08T08:18:00.710Z"
   },
   {
     "id": "jalopy-theatre",
@@ -3391,7 +3391,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:23:12.674Z"
+    "last_checked": "2026-11-08T08:18:00.630Z"
   },
   {
     "id": "summerstage",
@@ -3655,7 +3655,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-11-01T07:19:24.224Z"
+    "last_checked": "2026-11-08T08:18:00.618Z"
   },
   {
     "id": "kaufman-music-center",

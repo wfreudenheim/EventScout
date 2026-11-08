@@ -7168,5 +7168,344 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-04T07:37:34.446Z"
+  },
+  {
+    "id": "moma-2026-11-14-na-mira-no-smoking",
+    "title": "Na Mira: NO SMOKING",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-11-14",
+    "description": "Na Mira's first solo museum exhibition in New York: a newly commissioned media installation filling the Kravis Studio with shifting projections exploring the edges of perception, drawing on Korean shamanism and structural filmmaking.",
+    "url": "https://www.moma.org",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [
+      "perception",
+      "museum-exhibition",
+      "installation"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Neuroscience, AI & Cognitive Science",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.491Z"
+  },
+  {
+    "id": "moma-2026-11-17-moma-after-hours-taking-back-our-space",
+    "title": "MoMA After Hours: Taking Back Our Space",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-11-17",
+    "time_start": "19:00",
+    "time_end": "22:00",
+    "description": "A late-night party inspired by the Taking Back Our Space exhibition, featuring a performance by K8 Hardy, readings from the Whitney Review, a dance performance by Amanda Krische, a participatory textile installation by Megumi Shauna Arai, and a DJ set by Mui Mui.",
+    "url": "https://www.moma.org",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.489Z"
+  },
+  {
+    "id": "union-docs-2026-11-19-undo-spotlight-a-showcase-of-supported-p",
+    "title": "UNDO Spotlight: A Showcase of Supported Projects (Night 1)",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-11-19",
+    "time_start": "19:30",
+    "description": "First of two free evenings showcasing works-in-progress from UnionDocs Fiscal Sponsorship artists, spanning documentary, audio storytelling, and experimental cinema, with the artists in attendance.",
+    "url": "https://www.uniondocs.org",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary",
+      "experimental-cinema"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.533Z"
+  },
+  {
+    "id": "union-docs-2026-11-21-undo-spotlight-a-showcase-of-supported-p",
+    "title": "UNDO Spotlight: A Showcase of Supported Projects (Night 2)",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-11-21",
+    "time_start": "19:30",
+    "description": "Second of two free evenings showcasing works-in-progress from UnionDocs Fiscal Sponsorship artists, spanning documentary, audio storytelling, and experimental cinema, with the artists in attendance.",
+    "url": "https://www.uniondocs.org",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary",
+      "experimental-cinema"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.533Z"
+  },
+  {
+    "id": "union-docs-2026-11-12-field-niggas-with-khalik-allah-kazembe-b",
+    "title": "Field Niggas, with Khalik Allah & Kazembe Balagun",
+    "venue_id": "union-docs",
+    "venue_name": "UnionDocs",
+    "date": "2026-11-12",
+    "time_start": "19:30",
+    "description": "Screening of Khalik Allah's film shot entirely at night on the corner of 125th and Lexington in Harlem, followed by a conversation with Kazembe Balagun.",
+    "url": "https://www.uniondocs.org",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.533Z"
+  },
+  {
+    "id": "national-sawdust-2027-02-27-peni-candri-reni-s-jiwa-kala-with-shahza",
+    "title": "Peni Candri Reni's Jiwa Kala, with Shahzad Ismaily & Andy McGraw",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2027-02-27",
+    "description": "Indonesian gamelan artist Peni Candri Reni performs Jiwa Kala with Shahzad Ismaily and Andy McGraw, presented by World Music Institute.",
+    "url": "https://worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "indonesian",
+      "world-music",
+      "gamelan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.646Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-11-10-the-2nd-indiechina-film-festival",
+    "title": "The 2nd IndieChina Film Festival",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-11-10",
+    "description": "Underground documentaries, hybrid works, and narrative features by U-Wei Bin HajiSaari, Tan Chui Mui, Zhao Dayong and more, reflecting authenticity, innovation, and social critique. Runs through Nov 15.",
+    "url": "https://www.filmlinc.org",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.662Z"
+  },
+  {
+    "id": "creative-time-2026-11-12-studies-in-sanctuary",
+    "title": "Studies in Sanctuary",
+    "venue_id": "creative-time",
+    "venue_name": "Creative Time",
+    "date": "2026-11-12",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Artists invite participants to rethink how we learn and cultivate sanctuary together, reframing the classroom and teacher's lounge as sites of collective study.",
+    "url": "https://creativetime.org",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.678Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-10-the-new-social-environment-imagining-an-",
+    "title": "The New Social Environment: Imagining an Archipelago",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-10",
+    "time_start": "13:00",
+    "description": "Curator Jessamine Batario and artists Juana Valdés, Thea Canlas, Isa Gagarin, and Mariana Ramos Ortiz discuss Imagining an Archipelago: Art from Cuba, Guam, the Philippines, Puerto Rico, and Their Diasporas.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.690Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-12-the-new-social-environment-the-bowery-de",
+    "title": "The New Social Environment: The Bowery: Devil's Mile",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-12",
+    "time_start": "13:00",
+    "description": "Curators Lisa Phillips and Thalia Stefaniuk join curator Anthony Huberman for a conversation on the occasion of The Bowery: Devil's Mile, on view at the New Museum, exploring the history of the Bowery.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.691Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-19-the-new-social-environment-petrit-halila",
+    "title": "The New Social Environment: Petrit Halilaj: The Biography of a Building",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-19",
+    "time_start": "13:00",
+    "description": "Artist Petrit Halilaj joins Rail Director of Programs Chloe Stagaman for a conversation on the occasion of The Biography of a Building, on view at Storefront for Art & Architecture.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.691Z"
+  },
+  {
+    "id": "barbes-2026-11-11-brooklyn-maqam-presents-tan-haw",
+    "title": "Brooklyn Maqam presents: Tan Haw",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-11",
+    "time_start": "19:00",
+    "description": "New interpretations of traditional Iranian classic ballads (Tasnifs).",
+    "url": "https://www.barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "maqam"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.703Z"
+  },
+  {
+    "id": "barbes-2026-11-11-mamady-kouyate-s-mandingo-ambassadors",
+    "title": "Mamady Kouyate's Mandingo Ambassadors",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-11",
+    "time_start": "22:00",
+    "description": "The sound of Guinea's 1970s funk from one of the masters of the legendary Syliphone label.",
+    "url": "https://www.barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.703Z"
+  },
+  {
+    "id": "barbes-2026-11-13-living-language",
+    "title": "Living Language",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-13",
+    "time_start": "22:00",
+    "description": "Nikhil P. Yerawadekar's (Antibalas, Low Mentality) soulful homage to Fela Kuti's Afrobeat.",
+    "url": "https://www.barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "afrobeat"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.703Z"
+  },
+  {
+    "id": "barbes-2026-11-14-yotoco",
+    "title": "Yotoco",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-14",
+    "time_start": "22:00",
+    "description": "Jibaro cumbia from Brooklyn, Puerto Rico, and Colombia.",
+    "url": "https://www.barbesbrooklyn.com",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "cumbia"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.703Z"
+  },
+  {
+    "id": "roulette-2026-11-15-terre-thaemlitz-solo-piano-performance",
+    "title": "Terre Thaemlitz: Solo Piano Performance",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-15",
+    "description": "The latest iteration of Thaemlitz's ongoing series of solo piano works, followed by a conversation with Triple Canopy contributing editor Ciarán Finlayson. A joint presentation of the 2026 Triple Canopy Symposium and Public Records' Durations festival.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:18:00.714Z"
   }
 ]
