@@ -7507,5 +7507,323 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-11-08T08:18:00.714Z"
+  },
+  {
+    "id": "microscope-gallery-2026-11-08-luc-a-hinojosa-gaxiola-sonando-gravedad-",
+    "title": "Lucía Hinojosa Gaxiola: \"Sonando Gravedad\" Album Release (preceded by Stepančić.Gidron)",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-11-08",
+    "time_start": "18:00",
+    "time_end": null,
+    "description": "Album release performance by Lucía Hinojosa Gaxiola for \"Sonando Gravedad,\" preceded by a set from Stepančić.Gidron (Teodora Stepančić & Assaf Gidron), at Microscope Gallery.",
+    "url": "https://microscopegallery.com/lucia-honijosa-gaxiola-album-release/",
+    "price": null,
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:09.625Z"
+  },
+  {
+    "id": "harvestworks-2026-11-19-tellus-with-paul-demarinis-and-birdcalls",
+    "title": "TELLUS with Paul DeMarinis and \"Birdcalls\" by Louise Lawler",
+    "venue_id": "harvestworks",
+    "venue_name": "Harvestworks",
+    "date": "2026-11-19",
+    "description": "A discussion and performance event featuring pioneering electronic/sound artist Paul DeMarinis alongside Louise Lawler's conceptual sound piece \"Birdcalls,\" part of Harvestworks' Tellus series on media art.",
+    "url": "https://www.harvestworks.org/event/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler/",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "media-art",
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Art & Technology",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:13.797Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-15-ec-jerome-hill",
+    "title": "EC: JEROME HILL",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-15",
+    "time_start": "18:15",
+    "description": "Essential Cinema program spotlighting the work of experimental filmmaker Jerome Hill.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62232",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation/moving image",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.803Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-15-ec-hugo-jacobs-levitt-maas",
+    "title": "EC: HUGO / JACOBS / LEVITT / MAAS",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-15",
+    "time_start": "20:30",
+    "description": "Essential Cinema program of avant-garde shorts by Ian Hugo, Ken Jacobs, Helen Levitt, and Willard Maas.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62233",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation/moving image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.803Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-21-andy-warhol-s-screen-tests-conrad-ventur",
+    "title": "ANDY WARHOL'S 'SCREEN TESTS' + CONRAD VENTUR'S 'SCREEN TESTS REVISITED', PGM 1",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-21",
+    "time_start": "20:00",
+    "description": "A program pairing Andy Warhol's iconic silent \"Screen Tests\" portrait films with Conrad Ventur's contemporary restaging/response, \"Screen Tests Revisited.\"",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62292",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation/moving image",
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.804Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-23-cin-maton-program-1",
+    "title": "CINÉMATON, PROGRAM 1",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-23",
+    "time_start": "20:45",
+    "description": "First program drawn from Gérard Courant's \"Cinématon,\" an ongoing project of thousands of short silent portrait-films of artists and filmmakers — one of the longest film projects ever made.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62302",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation/moving image",
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.805Z"
+  },
+  {
+    "id": "light-industry-2026-11-17-mat-as-pi-eiro-s-keep-your-archive-to-yo",
+    "title": "Matías Piñeiro's Keep Your Archive to Yourself!",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-11-17",
+    "description": "A screening of work by Argentine filmmaker Matías Piñeiro, part of Light Industry's microcinema program of experimental and arthouse cinema.",
+    "url": "https://www.lightindustry.org/drawingaflower",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "arthouse"
+    ],
+    "matched_categories": [
+      "Film & cinema (experimental)",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.850Z"
+  },
+  {
+    "id": "simons-foundation-2026-11-18-statistics-in-the-era-of-computation",
+    "title": "Statistics in the Era of Computation",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-11-18",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "description": "Presidential Lecture by AI and machine-learning researcher Kyunghyun Cho on statistics in the era of large-scale computation.",
+    "url": "https://www.simonsfoundation.org/events/statistics-in-the-era-of-computation/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience/AI/cognitive science",
+      "Science & technology studies"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.864Z"
+  },
+  {
+    "id": "simons-foundation-2026-12-02-the-search-for-randomness",
+    "title": "The Search for Randomness",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-12-02",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "description": "Presidential Lecture by mathematician Persi Diaconis on randomness, probability, and chance.",
+    "url": "https://www.simonsfoundation.org/events/the-search-for-randomness/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.864Z"
+  },
+  {
+    "id": "bitforms-2027-04-01-siebren-versteeg-time-frames",
+    "title": "Siebren Versteeg: TIME FRAMES",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2027-04-01",
+    "description": "Siebren Versteeg presents five live-feed video artworks that re-crop, mirror, and pixelate familiar places, installed in flat-screen vitrines along a corridor at St. John's University's Yeh Art Gallery (Jamaica, Queens). On view through Spring 2027; nominal date used here.",
+    "url": "https://sjuartgallery.org/Siebren-Versteeg",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Art & technology/new media",
+      "Contemporary art",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.878Z"
+  },
+  {
+    "id": "interference-archive-2026-11-13-film-screening-wahenga-the-ancestors-201",
+    "title": "Film Screening: Wahenga (The Ancestors) 2018",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-11-13",
+    "time_start": "19:00",
+    "description": "Screening of the documentary \"Wahenga (The Ancestors),\" celebrating liberation music from the international left, with a post-screening talkback with co-director Rebecca Mzengi Corey.",
+    "url": "https://interferencearchive.org/event/film-screening-wahenga-the-ancestors-2018/",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema (documentary)",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:17.891Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-11-19-becoming-and-i-like-what-i-ve-found-the-",
+    "title": "Becoming, and I Like What I've Found: The Personal Cinema of Andrew Tamburrino",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-11-19",
+    "time_start": "20:00",
+    "description": "A 16mm screening program surveying the personal, diaristic cinema of filmmaker Andrew Tamburrino, presented at Millennium Film Workshop.",
+    "url": "https://www.millenniumfilm.org/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:21.592Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-11-14-queer-disabled-and-hiv-positive-in-gaza-",
+    "title": "Queer, Disabled, and HIV-Positive in Gaza: One Man's Fight to Survive",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-11-14",
+    "time_start": "19:30",
+    "description": "A benefit documentary screening and conversation with journalist Afeef Nessouli, co-presented by Visual AIDS, The Film-Makers' Cooperative, and Millennium Film Workshop, on queerness, disability, and survival in Gaza.",
+    "url": "https://film-makerscoop.com/screenings/queer-disabled-and-hiv-positive-in-gaza",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:21.592Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-10-remake",
+    "title": "REMAKE",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-10",
+    "description": "A documentary film screening presented at Maysles Documentary Center as part of its ongoing community film program.",
+    "url": "https://www.maysles.org/calendar/remake",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:21.607Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-12-the-be-troit-experience",
+    "title": "THE BE-TROIT EXPERIENCE",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-12",
+    "description": "A documentary screening exploring Detroit culture and community, presented at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/be-troit-experience",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:22:21.607Z"
   }
 ]

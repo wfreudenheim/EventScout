@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:26:13.497Z"
+    "last_checked": "2026-11-08T08:22:17.823Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:17:15.479Z"
+    "last_checked": "2026-11-08T08:22:17.835Z"
   },
   {
     "id": "roulette",
@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:33:55.687Z"
+    "last_checked": "2026-11-08T08:22:09.613Z"
   },
   {
     "id": "the-new-school",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:17:15.287Z"
+    "last_checked": "2026-11-08T08:22:17.844Z"
   },
   {
     "id": "artists-space",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:30:45.123Z"
+    "last_checked": "2026-11-08T08:22:17.859Z"
   },
   {
     "id": "union-docs",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:37:34.494Z"
+    "last_checked": "2026-11-08T08:22:17.873Z"
   },
   {
     "id": "center-for-architecture",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:22:21.079Z"
+    "last_checked": "2026-11-08T08:22:17.887Z"
   },
   {
     "id": "microscope-gallery",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:30:45.206Z"
+    "last_checked": "2026-11-08T08:22:09.656Z"
   },
   {
     "id": "caveat",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:17:15.247Z"
+    "last_checked": "2026-11-08T08:22:09.668Z"
   },
   {
     "id": "rockefeller-university",
@@ -1823,7 +1823,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:29:23.984Z"
+    "last_checked": "2026-11-08T08:22:17.900Z"
   },
   {
     "id": "montez-press-radio",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:31:06.364Z"
+    "last_checked": "2026-11-08T08:22:09.679Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2060,7 +2060,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:23:12.813Z"
+    "last_checked": "2026-11-08T08:22:21.586Z"
   },
   {
     "id": "maysles-documentary-center",
@@ -2084,7 +2084,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:30:45.170Z"
+    "last_checked": "2026-11-08T08:22:21.623Z"
   },
   {
     "id": "millennium-film-workshop",
@@ -2108,7 +2108,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:30:45.219Z"
+    "last_checked": "2026-11-08T08:22:21.602Z"
   },
   {
     "id": "rockaway-film-festival",
@@ -2297,7 +2297,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:26:13.410Z"
+    "last_checked": "2026-11-08T08:22:13.747Z"
   },
   {
     "id": "blank-forms",
@@ -2321,7 +2321,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:22:21.092Z"
+    "last_checked": "2026-11-08T08:22:13.769Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2554,7 +2554,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:23:35.112Z"
+    "last_checked": "2026-11-08T08:22:13.780Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2721,7 +2721,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:18:00.686Z"
+    "last_checked": "2026-11-08T08:22:21.631Z"
   },
   {
     "id": "canal-projects",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:23:17.088Z"
+    "last_checked": "2026-11-08T08:22:13.791Z"
   },
   {
     "id": "la-mama",
@@ -2934,7 +2934,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:29:35.828Z"
+    "last_checked": "2026-11-08T08:22:13.808Z"
   },
   {
     "id": "onassis-onx",
@@ -3314,7 +3314,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:37:29.578Z"
+    "last_checked": "2026-11-08T08:22:13.821Z"
   },
   {
     "id": "barbes",
