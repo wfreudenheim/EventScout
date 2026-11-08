@@ -1,6 +1,6 @@
 VENUE:elsewhere | Elsewhere
 URL:https://www.elsewhere.club/events
-FETCHED:2026-11-04T06:40:02.340Z
+FETCHED:2026-11-08T06:37:21.470Z
 
 CALENDAR
 
@@ -44,78 +44,6 @@ Genre
  * Metal
  * Other
 
-Thu, Nov 5
-
-EARTH TO EMILY, VON [/events/2003005535476]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/earth-to-emily-von-tickets-2003005535476]
-
-Thu, Nov 5
-
-DEERHOOF, MERCY, MY TRIO [/events/1992954959934]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/deerhoof-mercy-my-trio-tickets-1992954959934]
-
-Fri, Nov 6
-
-EMANCIPATOR, SHRIMPNOSE, LAPA [/events/1995465318484]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/emancipator-shrimpnose-lapa-tickets-1995465318484]
-
-Fri, Nov 6
-
-LIME GARDEN, NINE PERFECT LIVES [/events/1985145677159]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1985145677159]
-
-Fri, Nov 6
-
-CHATROOM: OSGEMEOS - FREE W/ RSVP [/events/2004032654617]
- * CLUB
- * CHATROOM
-
-9:00 PM
-Buy Tickets [https://www.eventbrite.com/e/chatroom-osgemeos-free-w-rsvp-tickets-2004032654617]
-
-Fri, Nov 6
-
-AEREA, ALEX FARELL, JULIA GOVOR, VYPER, MACHINE THIRST: FIREBUNNY + NIKITAU [/events/1989844748207]
- * CLUB
- * FULL VENUE
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/aerea-alex-farell-julia-govor-vyper-machine-thirst-firebunny-nikitau-tickets-1989844748207]
-
-Sat, Nov 7
-
-AMI TAF RA + KAMASI WASHINGTON [/events/2000207327962]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/ami-taf-ra-kamasi-washington-tickets-2000207327962]
-
-Sat, Nov 7
-
-LIME GARDEN, NINE PERFECT LIVES [/events/1991242169933]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/lime-garden-nine-perfect-lives-tickets-1991242169933]
-
 Sat, Nov 7
 
 ELSEWHERE PRESENTS: BENWAL, KYLE STARKEY, PAIGE TOMLINSON, STÜM @ 99 SCOTT [/presents/2001092095325]
@@ -136,15 +64,6 @@ Buy Tickets [https://www.eventbrite.com/e/flava-d-don-ri-made-to-order-dendis-da
 
 Sun, Nov 8
 
-ATUNE: BACK TO BLACK [/events/2003606756745]
- * LIVE
- * CHATROOM
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/atune-back-to-black-tickets-2003606756745]
-
-Sun, Nov 8
-
 ARDE BOGOTÁ [/events/1990883722808]
  * LIVE
  * THE HALL
@@ -160,6 +79,15 @@ KYLE HUME, SAMMY RASH [/events/1985726645852]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/kyle-hume-sammy-rash-tickets-1985726645852]
+
+Sun, Nov 8
+
+ATUNE: BACK TO BLACK [/events/2003606756745]
+ * LIVE
+ * CHATROOM
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/atune-back-to-black-tickets-2003606756745]
 
 Mon, Nov 9
 
@@ -200,12 +128,21 @@ Buy Tickets [https://www.eventbrite.com/e/the-bones-of-jr-jones-chris-kasper-tic
 
 Fri, Nov 13
 
-OMNI, SAUDI OIL [/events/1999542593724]
+OMNI, SAUDI OIL, BOYSCOUTMARIE [/events/1999542593724]
  * LIVE
  * ZONE ONE
 
 7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/omni-saudi-oil-tickets-1999542593724]
+Buy Tickets [https://www.eventbrite.com/e/omni-saudi-oil-boyscoutmarie-tickets-1999542593724]
+
+Fri, Nov 13
+
+CHATROOM LISTENING SESSION: CLASSICNEWWAVE + MTALI BANDA - FREE W/ RSVP [/events/2004443927746]
+ * CLUB
+ * CHATROOM
+
+9:00 PM
+Buy Tickets [https://www.eventbrite.com/e/chatroom-listening-session-classicnewwave-mtali-banda-free-w-rsvp-tickets-2004443927746]
 
 Fri, Nov 13
 
@@ -227,15 +164,6 @@ Buy Tickets [https://www.eventbrite.com/e/cut-copy-dj-rachel-disco-bambino-krist
 
 Sat, Nov 14
 
-FREAK SLUG, MILA DEGRAY, LUCKY [/events/1992976963748]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/freak-slug-mila-degray-lucky-tickets-1992976963748]
-
-Sat, Nov 14
-
 MOTHER SOKI, EVIL ADELINE, LOCKIMARA [/events/2002749580909]
  * LIVE
  * ZONE ONE
@@ -245,12 +173,21 @@ Buy Tickets [https://www.eventbrite.com/e/mother-soki-evil-adeline-lockimara-tic
 
 Sat, Nov 14
 
-X-COAST (OPEN TO CLOSE), 6 SENSE, K.ONE, PAN!C ROOM [/events/1996459381754]
+FREAK SLUG, MILA DEGRAY, LUCKY [/events/1992976963748]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/freak-slug-mila-degray-lucky-tickets-1992976963748]
+
+Sat, Nov 14
+
+X-COAST, 6 SENSE, PAN!C ROOM: WADDLE, Y2AURA, NIJEII, DUCO [/events/1996459381754]
  * CLUB
  * FULL VENUE
 
 10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/x-coast-open-to-close-6-sense-kone-panc-room-tickets-1996459381754]
+Buy Tickets [https://www.eventbrite.com/e/x-coast-6-sense-panc-room-waddle-y2aura-nijeii-duco-tickets-1996459381754]
 
 Sun, Nov 15
 
@@ -270,15 +207,6 @@ SAHN [/events/2002953848880]
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/sahn-tickets-2002953848880]
 
-Tue, Nov 17
-
-EBRIL W/ ACOUSTIC SETS BY KRISTIANE AND NECTARINE GIRL [/events/1998385993301]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/ebril-w-acoustic-sets-by-kristiane-and-nectarine-girl-tickets-1998385993301]
-
 Wed, Nov 18
 
 MAGI MERLIN [/events/1999055438630]
@@ -290,21 +218,21 @@ Buy Tickets [https://www.eventbrite.com/e/magi-merlin-tickets-1999055438630]
 
 Thu, Nov 19
 
-JAMES IVY, HARRY TEARDROP [/events/2001020213324]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/james-ivy-harry-teardrop-tickets-2001020213324]
-
-Thu, Nov 19
-
 SASSY 009 - IN THE ROUND, LIPSTICISM [/events/1990894268350]
  * LIVE
  * THE HALL
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/sassy-009-in-the-round-lipsticism-tickets-1990894268350]
+
+Thu, Nov 19
+
+JAMES IVY, HARRY TEARDROP [/events/2001020213324]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/james-ivy-harry-teardrop-tickets-2001020213324]
 
 Fri, Nov 20
 
@@ -368,3 +296,75 @@ DICKAPPOINTMENT INVITES: TROMAC WITH KENNI JAVON AND LIBBY BROTHERS [/events/200
 
 10:30 PM
 Buy Tickets [https://www.eventbrite.com/e/dickappointment-invites-tromac-with-kenni-javon-and-libby-brothers-tickets-2003791519375]
+
+Wed, Dec 2
+
+PUPSIES [/events/2003616332386]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/pupsies-tickets-2003616332386]
+
+Thu, Dec 3
+
+STATIC DRESS, I PROMISED THE WORLD, SEPTEMBERISTHEONLYTIMEIDONTTHINKOFYOU [/events/1996807683534]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/static-dress-i-promised-the-world-septemberistheonlytimeidontthinkofyou-tickets-1996807683534]
+
+Fri, Dec 4
+
+LAYLIT [/events/2002090179622]
+ * CLUB
+ * FULL VENUE
+
+10:00 PM
+Buy Tickets [https://www.eventbrite.com/e/laylit-tickets-2002090179622]
+
+Sat, Dec 5
+
+SAM QUEALY: NORTH AMERICA TOUR, JACK POWERS [/events/1992955422317]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/sam-quealy-north-america-tour-jack-powers-tickets-1992955422317]
+
+Sat, Dec 5
+
+MALIBU, KELLY MORAN [/events/2000485821945]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/malibu-kelly-moran-tickets-2000485821945]
+
+Sat, Dec 5
+
+DOST ELSEWHERE TAKEOVER [/events/2004484033704]
+ * CLUB
+ * FULL VENUE
+
+10:30 PM
+Buy Tickets [https://www.eventbrite.com/e/dost-elsewhere-takeover-tickets-2004484033704]
+
+Sun, Dec 6
+
+DAINE, EILISH CONSTANCE [/events/1997150902110]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/daine-eilish-constance-tickets-1997150902110]
+
+Tue, Dec 8
+
+BIKE ROUTES, GOOD SLEEPY [/events/2002813604405]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/bike-routes-good-sleepy-tickets-2002813604405]

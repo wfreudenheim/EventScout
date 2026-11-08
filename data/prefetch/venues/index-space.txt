@@ -1,6 +1,6 @@
 VENUE:index-space | Index Space
 URL:https://www.index-space.org/
-FETCHED:2026-11-04T06:39:59.856Z
+FETCHED:2026-11-08T06:37:18.894Z
 
 Index [/]
 
@@ -69,41 +69,13 @@ Learn More [/nodes]
 
 FILTER
 All EventsGreenpointChinatown
- * Music Industry 101, Session 2: Recordings & Label Deals [/programming/music-industry-101-session-2-recordings-label-deals-evt-lTLAoj5ulLctdgS?view=list]
-
-   MUSIC INDUSTRY 101, SESSION 2: RECORDINGS & LABEL DEALS
-
-   Thursday, Nov 5, 2026
-
-   Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
-
-   Presented by Index Chinatown
-
- * Index Chinatown Open House: November [/programming/index-chinatown-open-house-november-evt-dPfWBrBJOGsexZs?view=list]
-
-   INDEX CHINATOWN OPEN HOUSE: NOVEMBER
-
-   Friday, Nov 6, 2026
-
-   Hosted by Index [https://luma.com/user/usr-LvASHhwrum7Bp3P]
-
-   Presented by Index Chinatown
-
- * Index Greenpoint Open House: November [/programming/index-greenpoint-open-house-november-evt-ELHORlvH7lH4DYj?view=list]
-
-   INDEX GREENPOINT OPEN HOUSE: NOVEMBER
-
-   Friday, Nov 6, 2026
-
-   Hosted by Index [https://luma.com/user/usr-LvASHhwrum7Bp3P]
-
-   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
-
  * Building Interactive Apps [/programming/building-interactive-apps-evt-rxHb9HGqQC5nArW?view=list]
 
    BUILDING INTERACTIVE APPS
 
    Sunday, Nov 8, 2026
+
+   Hosted by Jillian Leedy [https://luma.com/user/usr-kaBiHdLqVmC2ilQ]
 
    Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
 
@@ -116,6 +88,36 @@ All EventsGreenpointChinatown
    Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
 
    Presented by Index Chinatown
+
+ * Woven Speakers: Hands on eTextiles Workshop [/programming/woven-speakers-hands-on-etextiles-workshop-evt-Rqo5fG0w5UgP9D1?view=list]
+
+   WOVEN SPEAKERS: HANDS ON ETEXTILES WORKSHOP
+
+   Sunday, Nov 15, 2026
+
+   Hosted by Craftwork [https://luma.com/user/usr-vxZ1anb4VpBR19D]
+
+   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
+
+ * Music Industry 101, Session 4: Live Music & Touring [/programming/music-industry-101-session-4-live-music-touring-evt-QEK4YLmXXnLk8Or?view=list]
+
+   MUSIC INDUSTRY 101, SESSION 4: LIVE MUSIC & TOURING
+
+   Thursday, Nov 19, 2026
+
+   Hosted by Pablo Max [https://luma.com/user/usr-MmDkx3FpRvzxNxc]
+
+   Presented by Index Chinatown
+
+ * Intro to Close Reading [/programming/intro-to-close-reading-evt-IsNtaSaFxjbB3SI?view=list]
+
+   INTRO TO CLOSE READING
+
+   Sunday, Nov 22, 2026
+
+   Hosted by Grace Perri Barnes [https://luma.com/user/usr-1ZYmTiy4jKy1L6m]
+
+   Presented by Index Greenpoint [https://luma.com/calendar/cal-qdFtD4iSoH7Xj4m]
 
 Show More [/programming]
 

@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-11-04T06:40:01.409Z
+FETCHED:2026-11-08T06:37:20.384Z
 
 /
  * The School
@@ -850,52 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=27&month=10&time_range=week&year=2026 /events?day=12&month=11&time_range=week&year=2026
-Nov 4 – Nov 11
+/events?day=31&month=10&time_range=week&year=2026 /events?day=16&month=11&time_range=week&year=2026
+Nov 8 – Nov 15
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Today at 11am
-
-GSAPP Admissions at University of Southern California Grad Fair
-
-[/events/4359-gsapp-admissions-at-university-of-southern-california-grad-fair]
-
-Today at 6:30pm
-
-Celebrating 10 years of e-flux Architecture
-
-Conference
-
-[/events/4282-celebrating-10-years-of-e-flux-architecture]
-
-Thu, Nov 5    12pm
-
-The Encounters Series: “American Environmental Machines, 1500-2026”
-
-[/events/4376-the-encounters-series-american-environmental-machines-1500-2026]
-
-Thu, Nov 5    1pm
-
-MSRED Lecture: Will Harsh, Tryline Capital
-
-Lecture
-
-New York
-
-[/events/4299-msred-lecture-will-harsh-tryline-capital]
-
-Fri, Nov 6    1pm
-
-THE LIBRARY IS OPEN 33: Material Variance
-
-Library is Open
-
-[/events/4228-the-library-is-open-33-material-variance]
 
 Mon, Nov 9    11am
 
@@ -924,6 +886,16 @@ Virtual
 Fall 2026 Online Info Session: PhD in Historic Preservation
 
 [/events/4369-fall-2026-online-info-session-ph-d-in-historic-preservation]
+
+Tue, Nov 10    1:30pm
+
+The Lecture in Planning Series (LiPS) Panel
+
+Lecture
+
+New York
+
+[/events/4379-the-lecture-in-planning-series-li-ps-panel]
 
 Tue, Nov 10    5pm
 
@@ -970,3 +942,39 @@ Lecture
 New York
 
 [/events/4363-distinguished-leaders-a-conversation-with-laurie-golub-chief-operating-officer-of-affinius-capital]
+
+Thu, Nov 12    12:45pm
+
+MSRED Architect-Developer Dialogue: Claire Weisz, WXY + Sally Gilliland, Hudson Properties
+
+Lecture
+
+New York
+
+[/events/4354-msred-architect-developer-dialogue-claire-weisz-wxy-sally-gilliland-hudson-properties]
+
+Thu, Nov 12    2pm
+
+Virtual
+
+Fall 2026 Online Info Session: PhD in Urban Planning
+
+[/events/4367-fall-2026-online-info-session-ph-d-in-urban-planning]
+
+Thu, Nov 12    6:30pm
+
+Alumni Conversations: Frankie Lui ‘07 MSAUD, Yunchao Xu '07 MSAAD, Ziyu Zhuang '07 MSAUD
+
+Alumni
+
+New York
+
+[/events/4370-alumni-conversations-frankie-lui-07-msaud-yunchao-xu-07-msaad-ziyu-zhuang-07-msaud]
+
+Fri, Nov 13    10am
+
+CONSTRUCTING (unorthodox) PRACTICE
+
+Conference
+
+[/events/4283-constructing-unorthodox-practice]

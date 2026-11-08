@@ -1,6 +1,6 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-11-04T06:39:59.868Z
+FETCHED:2026-11-08T06:37:18.642Z
 
 * Exhibitions [/exhibitions]
     * Current [/exhibitions]
@@ -77,20 +77,6 @@ Wed Sep 23—Sat Nov 14 2026
 [https://swissinstitute.net/exhibitions/si-offsite-rafał-skoczek-kino-drift]
 Programs
 
-FILM SERIES | FILMCLUB POPULAIRE
-
-Wed Nov 4 2026, 7:00pm
-
-[https://swissinstitute.net/programs/film-series-filmclub-populaire]
-Support
-
-BENEFIT GALA & AUCTION
-
-Sat Nov 7 2026, 6:00pm
-
-[https://swissinstitute.net/support/benefit-gala-auction]
-Programs
-
 FILM SERIES | MARCHING WITH THE KASAMA
 
 Wed Nov 11 2026, 7:00pm
@@ -103,12 +89,6 @@ BOOK LAUNCH | NOLAN OSWALD DENNIS: ECLIPTICS
 Sat Dec 12 2026, 12:00—2:00pm
 
 [https://swissinstitute.net/programs/book-launch-nolan-oswald-dennis-ecliptics]
-
-FILM SERIES | FILMCLUB POPULAIRE
-
-Wed Nov 4 2026, 7:00pm
-
-[https://swissinstitute.net/programs/film-series-filmclub-populaire]
 
 FILM SERIES | MARCHING WITH THE KASAMA
 

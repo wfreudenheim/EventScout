@@ -1,6 +1,6 @@
 VENUE:blank-forms | Blank Forms
 URL:https://www.blankforms.org/
-FETCHED:2026-11-04T06:39:51.500Z
+FETCHED:2026-11-08T06:37:09.786Z
 
 Skip to main content
 Menu
@@ -129,15 +129,15 @@ SONNY SIMMONS: BETTER DO IT NOW BEFORE YOU DIE LATER
 
 [/publications/sonny-simmons-better-do-it-now-before-you-die-later]
 Record [/blank-forms-editions]
-/publications/the-shadow-ring-hold-onto-id
-THE SHADOW RING: HOLD ONTO I.D.
-
-[/publications/the-shadow-ring-hold-onto-id]
-Record [/blank-forms-editions]
 /publications/the-shadow-ring-wax-work-echoes
 THE SHADOW RING: WAX-WORK ECHOES
 
 [/publications/the-shadow-ring-wax-work-echoes]
+Record [/blank-forms-editions]
+/publications/the-shadow-ring-hold-onto-id
+THE SHADOW RING: HOLD ONTO I.D.
+
+[/publications/the-shadow-ring-hold-onto-id]
 Book [/blank-forms-editions]
 /publications/blank-forms-10-alien-roots-eliane-radigue
 BLANK FORMS 10: ALIEN ROOTS: ÉLIANE RADIGUE

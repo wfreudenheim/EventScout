@@ -1,6 +1,6 @@
 VENUE:printed-matter | Printed Matter
 URL:https://www.printedmatter.org/programs
-FETCHED:2026-11-04T06:39:57.413Z
+FETCHED:2026-11-08T06:37:16.122Z
 
 PRINTED MATTER, INC.
 
@@ -166,24 +166,6 @@ September 9 - November 29, 2026
 
 [/programs/events/2280]
 
-Event
-
-Charles Bernstein at the Oculus
-
-Charles Bernstein and Richard Tuttle
-
-November 4, 2026
-
-[/programs/events/2335]
-
-EventChelsea
-
-The Radical Unpresent — Gregory Sholette in conversation with Naeem Mohaiemen
-
-November 5, 2026
-
-[/programs/events/2291]
-
 EventGlass Case Display
 
 Correspondences: de Appel 1975–2025
@@ -211,6 +193,14 @@ with Art Against Displacement, Bench Ansfield, Renee Keitt, Alex Strada, and Sto
 November 13, 2026
 
 [/programs/events/2342]
+
+EventChelsea
+
+Back to the Present: 50 Years of Free Expression with Franklin Furnace
+
+November 18, 2026
+
+[/programs/events/2344]
 
 EventChelsea
 
@@ -247,6 +237,24 @@ December 8, 2026
 
 EventChelsea
 
+The Radical Unpresent — Gregory Sholette in conversation with Naeem Mohaiemen
+
+November 5, 2026
+
+[/programs/events/2291]
+
+Event
+
+Charles Bernstein at the Oculus
+
+Charles Bernstein and Richard Tuttle
+
+November 4, 2026
+
+[/programs/events/2335]
+
+EventChelsea
+
 Some Other (Note) Books
 
 A Bookmaking Workshop
@@ -264,22 +272,6 @@ Travess Smalley & Kyle Canyon in Conversation — Moderated by Panayiotis Terzis
 October 28, 2026
 
 [/programs/events/2289]
-
-EventChelsea
-
-Nina Katchadourian’s Seat Assignment: eleven years of making art on airplanes
-
-October 27, 2026
-
-[/programs/events/2271]
-
-Announcement
-
-Jason Polan Award — 2026 Winners Announced!
-
-September 24 - October 24, 2026
-
-[/programs/events/2341]
 
 See all events [/programs/2-events]
 

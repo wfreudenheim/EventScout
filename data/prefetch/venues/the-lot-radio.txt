@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-11-04T06:40:03.727Z
+FETCHED:2026-11-08T06:37:23.249Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,41 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP11.04.2026
+TODAY’SLINEUP11.08.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+DJ KOOLT
+
+DJ Koolt
+
+11.04.2026
+
+Techno
+
+ * Play
+ * Detail [/shows/special-guests/2026-11-04-1500]
+ *
+
+/shows/special-guests/2026-11-04-1500
+
+CONDUCTA
+
+Conducta
+
+11.04.2026
+
+House
+
+ * Play
+ * Detail [/shows/special-guests/2026-11-04-1300]
+ *
+
+/shows/special-guests/2026-11-04-1300
 
 ALPHA STATE WITH JG THIRLWELL AND KEITH FULLERTON WHITMAN
 
@@ -90,76 +118,48 @@ Rnb, Rap, Baile Funk, Cumbia, Boogie
 
 /shows/special-guests/2026-10-31-1400
 
-4THE5BIRDS WITH CHRISTINE-RENÉE
-
-Christine-Renee
-
-10.30.2026
-
-Trance, Techno, Beats, Alternative Club, Dub
-
- * Play
- * Detail [/shows/special-guests/2026-10-30-1200]
- *
-
-/shows/special-guests/2026-10-30-1200
-
-THE DJ SHANNON SHOW WITH STACEY "HOTWAXX" HALE
-
-DJ Shannon, Stacey "Hotwaxx" Hale
-
-10.29.2026
-
-House
-
- * Play
- * Detail [/shows/the-dj-shannon-show/2026-10-29-1200]
- *
-
-/shows/the-dj-shannon-show/2026-10-29-1200
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * Margeaux
+ * S.Maria
    R
-   [/artists/margeaux]
- * Honey Bun
+   [/artists/s-maria]
+ * Simisea
    R
-   [/artists/honey-bun]
- * Escaflowne
+   [/artists/simisea]
+ * J. Russ
    R
-   [/artists/escaflowne]
- * JWords
+   [/artists/j-russ]
+ * Ryan Schreiber
    R
-   [/artists/jwords]
- * Lauren Flax
+   [/artists/ryan-schreiber]
+ * Off-Brand
    R
-   [/artists/lauren-flax]
- * Sticky Dojah
+   [/artists/off-brand]
+ * Uptown Vinyl Supreme
    R
-   [/artists/sticky-dojah]
- * Ayanna Heaven
+   [/artists/uptown-vinyl-supreme]
+ * Boston Chery
    R
-   [/artists/ayanna-heaven]
- * deep creep
+   [/artists/boston-chery]
+ * Dan Tager
    R
-   [/artists/deep-creep]
- * True Panther
+   [/artists/dan-tager]
+ * Pique-nique
    R
-   [/artists/true-panther]
- * Andrew Devlin
+   [/artists/pique-nique]
+ * ciringe
    R
-   [/artists/andrew-devlin]
- * Marco Weibel
+   [/artists/ciringe]
+ * Nabihah Iqbal
    R
-   [/artists/marco-weibel]
- * k.tea
+   [/artists/nabihah-iqbal]
+ * Jason Evans
    R
-   [/artists/k-tea]
+   [/artists/jason-evans]
 
 WE ARE THE LOT RADIO
 
@@ -173,31 +173,30 @@ About us [/about]
    RESTREAM
 
  * 10am — 12pm
-   Oblique Slice with Will Shore
+   Roulette Intermedium
 
  * 12pm — 1pm
-   ETHERNET with Ryan Schreiber & Justin Strauss
-   Electronica, House, Techno, Electro
+   Signal To Noise with Ida B
+   Experimental, Ambient, Experimental Electronic, Lo-fi
  * 1pm — 2pm
-   Conducta
+   Hayes Bradley b2b Very J
 
  * 2pm — 3pm
-   GUT radio
-
+   Dj Nico
+   Breaks
  * 3pm — 4pm
-   FUTURESHOCK!
+   Positive Reality with Marcus
 
  * 4pm — 6pm
-   Nothing in Moderation with DJ Voices
-
+   Moods & Grooves with Cam and Sean
+   Disco, Jazz, Reggae, Funk, Soul
  * 6pm — 8pm
-   Magic City with Jubilee and Mike Gip
-
+   Teeyam
+   Experimental Electronic, Downtempo, Techno, Acid
  * 8pm — 10pm
-   Part Time Punk
+   BRIAN SEARS
 
  * 10pm — 11pm
-   angelboy
-   House, Techno
+   Softgel Sunday
 
 THE LOT RADIO

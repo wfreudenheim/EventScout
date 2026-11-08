@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-11-04T06:39:57.087Z
+FETCHED:2026-11-08T06:37:15.715Z
 
 /
 
@@ -14,22 +14,16 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/events-and-exhibitions/events/native-voices-karenna-lay-our-vibration-down
+/events-and-exhibitions/events/conversations-tusculum
 
-NATIVE VOICES KARENNA—LAY OUR VIBRATION DOWN [/events-and-exhibitions/events/native-voices-karenna-lay-our-vibration-down]
+CONVERSATIONS IN TUSCULUM [/events-and-exhibitions/events/conversations-tusculum]
 
-November 5, 2026
+November 9, 2026
 7:00pm
 
-The Gardiner Foundation Great Hall Forum presents the New York-stage premieres of two short operas, Trials and Tears and Sacajawea: Women of Many Names
+The play is written and directed by Richard Nelson
 
-Event Details [/events-and-exhibitions/events/native-voices-karenna-lay-our-vibration-down]
- * /events-and-exhibitions/events/conversations-tusculum
-
-   CONVERSATIONS IN TUSCULUM [/events-and-exhibitions/events/conversations-tusculum]
-
-   November 9, 2026
-   7:00pm
+Event Details [/events-and-exhibitions/events/conversations-tusculum]
  * /events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk
 
    STANLEY WOLUKAU-WANAMBWA: HENRY WOLF CHAIR IN PHOTOGRAPHY ARTIST TALK [/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk]
@@ -48,6 +42,12 @@ Event Details [/events-and-exhibitions/events/native-voices-karenna-lay-our-vibr
 
    November 12, 2026
    6:30pm
+ * /events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century
+
+   ESPINOSA NOVA, A REVIVAL FROM THE MEXICAN 16TH CENTURY [/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century]
+
+   November 16, 2026
+   12:30pm
 
 ONGOING EXHIBITIONS
 
@@ -61,11 +61,6 @@ ONGOING EXHIBITIONS
    PUBLISHING ARCHITECTURE AT THE COOPER UNION [/events-and-exhibitions/exhibitions/publishing-architecture-cooper-union]
 
    October 29, 2026 to November 25, 2026
- * /events-and-exhibitions/exhibitions/november-3-view-exhibitions
-
-   NOVEMBER 3 ON VIEW EXHIBITIONS [/events-and-exhibitions/exhibitions/november-3-view-exhibitions]
-
-   November 03, 2026 to November 7, 2026
 
  * Founded by inventor, industrialist and philanthropist Peter Cooper in 1859, The Cooper Union for the Advancement of Science and Art offers education in art, architecture and engineering, as well as courses in the humanities and social sciences.
 

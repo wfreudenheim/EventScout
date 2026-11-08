@@ -1,6 +1,6 @@
 VENUE:data-society | Data & Society
 URL:https://datasociety.net/
-FETCHED:2026-11-04T06:39:51.528Z
+FETCHED:2026-11-08T06:37:09.819Z
 
 Skip to main content
 Search Search
@@ -86,6 +86,32 @@ Join Meg Young, Khari Johnson, Sareeta Amrute, Hannah Sassaman, and Justin Hendr
 
 November 6, 2026
 Event
+https://datasociety.net/news-events/a-referendum-on-the-tech-industry-our-statement-on-the-midterm-elections/
+
+A REFERENDUM ON THE TECH INDUSTRY: OUR STATEMENT ON THE MIDTERM ELECTIONS
+
+[https://datasociety.net/news-events/a-referendum-on-the-tech-industry-our-statement-on-the-midterm-elections/]
+Through their ballots, Americans spoke out against the industry’s vision of an unstoppable AI-dominated future.
+ * democracy [/news-events/?subject=democracy]
+ * artificial intelligence [/news-events/?subject=artificial-intelligence]
+ * governance of artificial intelligence [/news-events/?subject=governance-of-artificial-intelligence]
+ * * government regulation [/news-events/?subject=government-regulation]
+
+November 4, 2026
+News
+https://datasociety.net/research-library/the-questions-litigators-and-enforcers-should-be-asking-tech-companies/
+
+THE QUESTIONS LITIGATORS AND ENFORCERS SHOULD BE ASKING TECH COMPANIES
+
+[https://datasociety.net/research-library/the-questions-litigators-and-enforcers-should-be-asking-tech-companies/]
+To determine where accountability for harm lies, its important for enforcers to understand how the generative AI tech stack operates.
+ * law [/research-library/?subject=law]
+ * accountability [/research-library/?subject=accountability]
+ * artificial intelligence [/research-library/?subject=artificial-intelligence]
+ * * technology industry [/research-library/?subject=technology-industry]
+
+November 4, 2026
+Points
 https://datasociety.net/research-library/why-we-are-turning-a-worker-lens-on-the-ai-economy/
 
 WHY WE ARE TURNING A WORKER LENS ON THE AI ECONOMY
@@ -102,31 +128,6 @@ It is critical to focus on the reality of how AI is playing out for workers: to 
    * invisible labor [/research-library/?subject=invisible-labor]
 
 September 30, 2026
-Points
-https://datasociety.net/research-library/the-ai-factory-data-centers-power-and-resistance-in-late-industrial-pennsylvania/
-
-THE AI FACTORY: DATA CENTERS, POWER, AND RESISTANCE IN LATE INDUSTRIAL PENNSYLVANIA
-
-[https://datasociety.net/research-library/the-ai-factory-data-centers-power-and-resistance-in-late-industrial-pennsylvania/]
-Our research shows that data centers represent a lightning rod issue for broad, diverse communities that desire both prosperity and power.
- * data center [/research-library/?subject=data-center]
- * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * Pennsylvania [/research-library/?subject=pennsylvania]
-
-September 21, 2026
-Report
-https://datasociety.net/research-library/our-new-research-and-policy-collection-governing-ai-agents/
-
-OUR NEW RESEARCH AND POLICY COLLECTION: GOVERNING AI AGENTS
-
-[https://datasociety.net/research-library/our-new-research-and-policy-collection-governing-ai-agents/]
-However novel OpenAI agents’ hack of Hugging Face may be, it would be a mistake to let it eclipse what we already know about AI governance.
- * AI agents [/research-library/?subject=ai-agents]
- * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * automation [/research-library/?subject=automation]
- * * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
-
-September 10, 2026
 Points
 
 ----------------------------------------
@@ -300,6 +301,28 @@ Explore full library [https://datasociety.net/research-library/] View Curated Co
 NEWS AND EVENTS
 
 All News and Events [https://datasociety.net/news-events/]
+Audio
+November 6, 2026
+
+ASSESSING THE IMPACT OF THE MIDTERM ELECTIONS ON US TECH POLICY
+
+[https://www.techpolicy.press/assessing-the-impact-of-the-midterm-elections-on-us-tech-policy/]
+To unpack what the election results could mean for the future of US tech policy, Tech Policy Press pulled together a live podcast discussion with guests including Brian J. Chen…
+ * artificial intelligence [/research-library/?subject=artificial-intelligence]
+ * politics [/research-library/?subject=politics]
+ * technology governance [/research-library/?subject=technology-governance]
+
+https://www.techpolicy.press/assessing-the-impact-of-the-midterm-elections-on-us-tech-policy/
+Press
+November 5, 2026
+
+AFTER THE MIDTERMS, A BIGGER CLASH OVER DATA CENTERS COULD BE COMING
+
+[https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/]
+Maia Woluchem, program director of Trustworthy Infrastructures discusses why she believes that changes to energy regulations, land rights, and other environmental policies could…
+ * data center [/research-library/?subject=data-center]
+
+https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/
 Testimony
 October 9, 2026
 
@@ -316,30 +339,6 @@ Policy Director Brian J. Chen urges the City Council to protect New Yorkers from
    * technology industry [/research-library/?subject=technology-industry]
 
 https://datasociety.net/research-library/testimony-to-the-nyc-council-hearing-on-examining-the-risks-posed-by-ai/
-Event
-October 7, 2026
-
-POWER AND RESISTANCE IN THE AGE OF TECH OLIGARCHY
-
-[https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/]
-The authors of "Muskism" and "Against Tech Oligarchy" discuss the structural forces shaping tech and state power.
- * labor [/research-library/?subject=labor]
- * Silicon Valley [/research-library/?subject=silicon-valley]
- * technology industry [/research-library/?subject=technology-industry]
-
-https://datasociety.net/research-library/power-and-resistance-in-the-age-of-tech-oligarchy/
-Event
-September 23, 2026
-
-PROTECTING DEMOCRACY’S DATA
-
-[https://datasociety.net/research-library/protecting-democracys-data/]
-Professor, researcher, and Data & Society founder danah boyd discusses her new book and its implications with historian and author Dan Bouk, in a conversation moderated by…
- * census data [/research-library/?subject=census-data]
- * datafication [/research-library/?subject=datafication]
- * democracy [/research-library/?subject=democracy]
-
-https://datasociety.net/research-library/protecting-democracys-data/
 Congressional letter
 September 17, 2026
 

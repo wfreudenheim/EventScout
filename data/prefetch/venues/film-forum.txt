@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-11-04T06:40:01.238Z
+FETCHED:2026-11-08T06:37:20.297Z
 
 Skip to Content
 
@@ -10,14 +10,11 @@ FILM FORUM [https://filmforum.org/]
 
 SLIDESHOW
 
- * https://filmforum.org/film/citizen-ruth
+ *
  * https://filmforum.org/film/fatherland
  * https://filmforum.org/film/once-upon-a-time-in-harlem
- * https://filmforum.org/film/my-undesirable-friends-part-ii-exile
- * https://filmforum.org/film/unzipped-2026
- *
- *
  * https://filmforum.org/film/the-red-balloon-ffjr-2026
+ *
  * https://filmforum.org/film/threeasfour-full-circle
  * https://filmforum.org/film/the-court-jester-ffjr-2026
  *
@@ -49,61 +46,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
+ * SUN
+ * MON
+ * TUE
  * WED
  * THU
  * FRI
  * SAT
- * SUN
- * MON
- * TUE
-
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:00 3:20 5:40 8:00
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:15 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 7:00 8:10 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-6:20
-
-Ends Today!CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:00 3:20 5:40 8:00
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 3:50 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 7:00 7:45 9:15
-
-Ends Today!MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 4-5 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-Ends Today!UNZIPPED [https://filmforum.org/film/unzipped-2026]
-5:50
-
-Opens Today!RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 1:30 3:00 4:15 5:40 7:00 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00 8:15
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 1:30 3:00 4:15 5:40 7:00 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25(OC) 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45(OC) 6:00 8:15
 
 FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
 THE RED BALLOON [https://filmforum.org/film/the-red-balloon-ffjr-2026]
@@ -140,6 +89,31 @@ Ends Today!NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
 MANHATTAN BY NUMBERS [https://filmforum.org/film/manhattan-by-numbers-nyc-in-transit]
 6:00
 
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 1:30 3:00 4:15 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45
+
+Special Screening!5 Short Films Supported by the Displacement Film Fund [https://filmforum.org/film/displacement-film-fund]
+6:00 7:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 1:30 3:00 4:15 5:40 7:00 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 6:00 8:15
+
+Showtimes coming soon!
+
+Showtimes coming soon!
+
 Donate [https://donate.filmforum.org/give/]
 
 SUPPORT OUR NONPROFIT CINEMA
@@ -158,11 +132,11 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-RAISE THE RED LANTERN
-SCREENING CO-PRESENTED BY CINECINA FILM FESTIVAL [https://filmforum.org/events/event/raise-the-red-lantern-november-7]
+MANHATTAN BY NUMBERS
+INTRODUCED BY STAR JOHN WOJDA  [https://filmforum.org/events/event/manhattan-by-numbers-november-10]
 
-Saturday, November 7
-3:00
+Tuesday, November 10
+6:00
 
 5 SHORT FILMS SUPPORTED BY THE DISPLACEMENT FILM FUND
 HOSTED BY CATE BLANCHETT WITH MARYNA ER GORBACH AND MO HARAWE IN PERSON [https://filmforum.org/events/event/displacement-film-fund-november-11]
@@ -191,60 +165,34 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-1:00 3:20 5:40 8:00
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+THE RED BALLOON [https://filmforum.org/film/the-red-balloon-ffjr-2026]
+11:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:40 1:30 3:20 4:15 6:00 7:00 8:40
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:15 4:30 6:30 8:30
+12:45(OC) 2:40 4:40 6:40 8:40
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-12:15 2:30 4:45 7:00 8:10 9:15
-
-MY UNDESIRABLE FRIENDS: PART II – EXILE: Chapters 1-3 [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-12:30
-
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-6:20
+1:00 3:45(OC) 6:00 8:15
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
-https://filmforum.org/series/nyc-in-transit#now-playing
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
+https://filmforum.org/film/raise-the-red-lantern
+Zhang Yimou’s
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
 
-PICKUP ON SOUTH STREET
-Tuesday, November 3
-8:00
+Friday, November 6 – Thursday, November 19
 
-Films in this Series Samuel Fuller’s
-PICKUP ON SOUTH STREET Amir Naderi’s
-MANHATTAN BY NUMBERS
-https://filmforum.org/film/citizen-ruth
-Alexander Payne’s
-CITIZEN RUTH [https://filmforum.org/film/citizen-ruth]
-
-Friday, October 30 – Thursday, November 5
-
-SHOWTIME & TICKETS [https://my.filmforum.org/events/citizen-ruth]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/raise-the-red-lantern] Watch Trailer [https://filmforum.org/film/raise-the-red-lantern#trailer]
 https://filmforum.org/film/fatherland
 FATHERLAND [https://filmforum.org/film/fatherland]
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/fatherland-pawel] Watch Trailer [https://filmforum.org/film/fatherland#trailer]
 https://filmforum.org/film/once-upon-a-time-in-harlem
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/once-upon-a-time-in-harlem] Watch Trailer [https://filmforum.org/film/once-upon-a-time-in-harlem#trailer]
-https://filmforum.org/film/my-undesirable-friends-part-ii-exile
-MY UNDESIRABLE FRIENDS:
-PART II – EXILE [https://filmforum.org/film/my-undesirable-friends-part-ii-exile]
-
-MUST END THURSDAY, NOVEMBER 5
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/my-undesirable-friends-part-2] Watch Trailer [https://filmforum.org/film/my-undesirable-friends-part-ii-exile#trailer]
-https://filmforum.org/film/unzipped-2026
-Isaac Mizrahi in
-UNZIPPED [https://filmforum.org/film/unzipped-2026]
-
-MUST END THURSDAY, NOVEMBER 5
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/unzipped-4k] Watch Trailer [https://filmforum.org/film/unzipped-2026#trailer]
 https://filmforum.org/series/film-forum-jr.-series-page#now-playing
 FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
 
@@ -258,17 +206,18 @@ LITTLE FUGITIVE Walt Disney’s
 PINOCCHIO Ingrid Bergman & Bing Crosby in
 THE BELLS OF ST. MARY’S Nancy Meyers’
 THE PARENT TRAP
+https://filmforum.org/series/nyc-in-transit#now-playing
+NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
+
+MANHATTAN BY NUMBERS
+Tuesday, November 10
+6:00
+
+Films in this Series Amir Naderi’s
+MANHATTAN BY NUMBERS
 
 COMING SOON [https://filmforum.org/coming_soon]
 
-https://filmforum.org/film/raise-the-red-lantern
-
-ZHANG YIMOU’S
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-
-Friday, November 6 – Thursday, November 19
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/raise-the-red-lantern] Watch Trailer [ https://filmforum.org/film/raise-the-red-lantern#trailer ]
 https://filmforum.org/film/displacement-film-fund
 
 5 SHORT FILMS SUPPORTED BY THE DISPLACEMENT FILM FUND
@@ -299,6 +248,7 @@ ROSSELLINI 120 [https://filmforum.org/series/rossellini]
 
 Friday, November 20 – Thursday, December 10
 
+Films in this Series ROME, OPEN CITY PAISAN VOYAGE TO ITALY (JOURNEY TO ITALY) L’AMORE GERMANY, YEAR ZERO DOV’È LA LIBERTÀ? (WHERE IS FREEDOM?) THE MAN WITH A CROSS GENERAL DELLA ROVERE LES CARABINIERS THE ROSSELLINIS THE FLOWERS OF ST. FRANCIS EUROPA ’51 STROMBOLI THE MACHINE TO KILL BAD PEOPLE INDIA: MATRI BHUMI FEAR JOAN OF ARC AT THE STAKE JOAN OF ARC ANNO UNO VIVA L’ITALIA!
 Watch Trailer [ https://filmforum.org/series/rossellini#trailer ]
 https://filmforum.org/film/all-of-a-sudden
 
@@ -313,7 +263,7 @@ WHEN CAESAR WAS KING
 THE COMEDY GENIUS OF SID CAESAR [https://filmforum.org/film/when-caesar-was-king-2026]
 
 Sunday, November 29
-3:40
+3:30
 
 https://filmforum.org/film/the-friends-house-is-here
 
@@ -327,6 +277,8 @@ https://filmforum.org/film/to-hold-a-mountain
 TO HOLD A MOUNTAIN [https://filmforum.org/film/to-hold-a-mountain]
 
 Opens Wednesday, December 16
+
+Watch Trailer [ https://filmforum.org/film/to-hold-a-mountain#trailer ]
 
 NEWS AND OFFERS
 

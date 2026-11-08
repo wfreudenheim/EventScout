@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "mono-no-aware",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-18T07:19:00.324Z",
-    "completed_at": "2026-10-18T07:19:00.324Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "rockaway-film-festival",
     "scrape_tier_used": 3,
     "started_at": "2026-10-18T07:19:00.333Z",
@@ -4996,6 +4986,16 @@
     "started_at": "2026-11-04T07:37:34.497Z",
     "completed_at": "2026-11-04T07:37:34.497Z",
     "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-11-08T06:37:07.275Z",
+    "completed_at": "2026-11-08T06:37:07.275Z",
+    "events_found": 0,
     "events_new": 0,
     "status": "completed"
   }
