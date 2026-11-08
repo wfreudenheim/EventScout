@@ -7825,5 +7825,415 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-08T08:22:21.607Z"
+  },
+  {
+    "id": "wonderville-2026-11-15-disasterpiece-movie-night-jason-x",
+    "title": "Disasterpiece Movie Night: Jason X",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-15",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "description": "A horror movie night screening of Jason X as part of Wonderville's recurring Disasterpiece series.",
+    "url": "https://www.wonderville.nyc/events/disasterpiece-movie-night-11-15-26",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:23.083Z"
+  },
+  {
+    "id": "wonderville-2026-11-16-unregistered-hypercam-tales-from-the-aug",
+    "title": "Unregistered HyperCam: Tales From the Aughts",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-16",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "description": "A nostalgic screening/clip-show night revisiting early-2000s internet video and screen-capture culture (named for the watermarked HyperCam screen recorder), at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/unregistered-hypercam-tales-from-the-aughts-11-16-26",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:23.083Z"
+  },
+  {
+    "id": "wonderville-2026-11-11-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-11",
+    "time_start": "20:00",
+    "description": "A community play night for Killer Queen, the three-player-per-side cooperative/competitive arcade cabinet game, open to all skill levels.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-11-11-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:23.082Z"
+  },
+  {
+    "id": "wonderville-2026-11-15-a-magical-mathy-afternoon",
+    "title": "A Magical Mathy Afternoon",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-15",
+    "time_start": "14:30",
+    "time_end": "17:30",
+    "description": "An adults-only (Wonderville is 21+) afternoon of math- and puzzle-themed games and activities at the arcade.",
+    "url": "https://www.wonderville.nyc/events/a-magical-mathy-afternoon-11-15-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:23.083Z"
+  },
+  {
+    "id": "national-sawdust-2026-11-20-makemake-presents-ben-tweel-s-continuum-",
+    "title": "Makemake Presents Ben Tweel's Continuum: Listening Session and Happy Hour",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2026-11-20",
+    "time_start": "18:00",
+    "description": "A free happy-hour listening session for Ben Tweel's sound installation Continuum, presented on National Sawdust's Meyer Sound Constellation acoustic system.",
+    "url": "https://www.nationalsawdust.org/event/makemake-presents-ben-tweels-continuum-listening-session-and-happy-hour",
+    "price": "free",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [
+      "installation",
+      "sound-installation"
+    ],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Contemporary Art",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:26.636Z"
+  },
+  {
+    "id": "roulette-2026-11-22-henry-threadgill-s-zooid",
+    "title": "Henry Threadgill's Zooid",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-22",
+    "time_start": "20:00",
+    "description": "Pulitzer-winning composer, saxophonist and flutist Henry Threadgill returns with Zooid, performing music from new album Cut You Where You Was (Pi Recordings).",
+    "url": "https://roulette.org/event/henry-threadgill-zooid-cut-you-where-you-was/",
+    "price": "$55",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:26.669Z"
+  },
+  {
+    "id": "roulette-2026-11-23-talujon-with-brian-chase-and-john-hollen",
+    "title": "Talujon with Brian Chase and John Hollenbeck",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-11-23",
+    "time_start": "20:00",
+    "description": "Percussion ensemble Talujon joins composers/soloists Brian Chase and John Hollenbeck to premiere two new works.",
+    "url": "https://roulette.org/event/talujon-brian-chase-john-hollenbeck/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:26.669Z"
+  },
+  {
+    "id": "roulette-2026-12-01-amelia-heintzelman-how-dogs-play-night-1",
+    "title": "Amelia Heintzelman: How Dogs Play (Night 1)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-01",
+    "time_start": "20:00",
+    "description": "Three performers collide, spin, fall, and intertwine in an athletic maze of child's play and menacing acts, for Heintzelman's Roulette Commission.",
+    "url": "https://roulette.org/event/amelia-heintzelman-how-dogs-play/",
+    "price": "$25",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:26.670Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-11-community-centered-design-building-belon",
+    "title": "Community-Centered Design: Building Belonging Seminar",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-11",
+    "time_start": "09:00",
+    "description": "A two-day seminar (continuing Nov 12) hosted by AIA New York on community-centered design practices and building a sense of belonging through architecture.",
+    "url": "https://calendar.aiany.org/2026/11/11/community-centered-design-building-belonging-seminar/",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:26.686Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-13-what-is-building-science-right-now-",
+    "title": "What Is \"Building Science\" Right Now?",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-13",
+    "time_start": "09:00",
+    "time_end": "18:30",
+    "description": "A day-long program on how building performance has evolved beyond energy and materials into a far more complex conversation encompassing carbon and climate concerns.",
+    "url": "https://calendar.aiany.org/2026/11/13/what-is-building-science-right-now/",
+    "format": "conference",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space",
+      "Climate & environmental art, ecology, speculative futures"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:26.686Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-14-walking-tour-medieval-lower-manhattan",
+    "title": "Walking Tour: Medieval Lower Manhattan",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-14",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A walking tour exploring medieval-influenced architecture and history in Lower Manhattan, meeting near Trinity Church.",
+    "url": "https://calendar.aiany.org/2026/11/14/walking-tour-medieval-lower-manhattan-8/",
+    "format": "walk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:26.686Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-14-walking-tour-madison-avenue-high-fashion",
+    "title": "Walking Tour: Madison Avenue, High Fashion, and Historic Preservation",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-14",
+    "time_start": "13:00",
+    "time_end": "15:00",
+    "description": "A walking tour examining Madison Avenue's architecture through the lens of high fashion retail and historic preservation.",
+    "url": "https://calendar.aiany.org/2026/11/14/walking-tour-madison-avenue-high-fashion-and-historic-preservation-47/",
+    "format": "walk",
+    "interest_score": 3,
+    "tags": [
+      "preservation"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:26.687Z"
+  },
+  {
+    "id": "printed-matter-2026-11-18-back-to-the-present-50-years-of-free-exp",
+    "title": "Back to the Present: 50 Years of Free Expression with Franklin Furnace",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-18",
+    "description": "A conversation marking the launch of Franklin Furnace's 50th-anniversary anthology on avant-garde art and the ongoing fight to defend creative freedom.",
+    "url": "https://www.printedmatter.org/programs/events/2344",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art",
+      "Philosophy & critical theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:30.590Z"
+  },
+  {
+    "id": "poetry-project-2026-11-16-sophia-dahlin-harron-walker",
+    "title": "Sophia Dahlin + Harron Walker",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-16",
+    "time_start": "20:00",
+    "description": "A poetry and prose reading featuring Sophia Dahlin and writer Harron Walker.",
+    "url": "https://www.poetryproject.org/events/sophia-dahlin-harron-walker",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:30.633Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-10-bookbinding-iii-hardcover-editioning",
+    "title": "Bookbinding III: Hardcover Editioning",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-10",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "A multi-session hands-on workshop (Tuesdays through December 8) on hardcover edition bookbinding with Hadley Vogel.",
+    "url": "https://shop.centerforbookarts.org/products/26fbb300i",
+    "price": "$525",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & creative tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:30.648Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-18-make-your-mark-printing-a-flexagon-book",
+    "title": "Make Your Mark: Printing a Flexagon Book",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-18",
+    "time_start": "13:00",
+    "time_end": "16:00",
+    "description": "A virtual paper-engineering workshop with Maria G. Pisano on printing a flexagon book.",
+    "url": "https://shop.centerforbookarts.org/products/26fpe103v",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & creative tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:30.648Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-19-2026-annual-chapbook-reading",
+    "title": "2026 Annual Chapbook Reading",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "description": "A reading by chapbook contest honorees Nikky Finney, ansel elkins, Hajer Requiq, and Michael Prior, with Roni Gross, Rebecca Josephson, Barbara Henry, and Myong Jin.",
+    "url": "https://shop.centerforbookarts.org/products/2026-annual-chapbook-contest-1",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:30.648Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-19-image-making-on-letterpress-2-cmyk-photo",
+    "title": "Image Making on Letterpress #2: CMYK Photopolymer Printing",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "A hybrid virtual/in-person letterpress workshop with Elizabeth Castaldo on CMYK photopolymer printing (virtual session Nov 19, in-person Dec 5–6).",
+    "url": "https://shop.centerforbookarts.org/products/26flp302i",
+    "price": "$490",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & creative tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:30.649Z"
+  },
+  {
+    "id": "public-records-2026-11-12-durations-ballet-buttechno-klein-matana-",
+    "title": "DURATIONS: Ballet: buttechno, Klein, Matana Roberts & Lesley Mok, Significant Other",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-12",
+    "time_start": "19:00",
+    "description": "An avant-garde music lineup featuring experimental producer buttechno, genre-defying artist Klein, and experimental jazz saxophonist Matana Roberts with Lesley Mok, at the DURATIONS festival.",
+    "url": "https://link.dice.fm/Uf3b609e4a5b",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:34.288Z"
+  },
+  {
+    "id": "public-records-2026-11-13-durations-in-conversation-with-meredith-",
+    "title": "DURATIONS: In Conversation with Meredith Graves",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-13",
+    "time_start": "18:00",
+    "description": "A conversation with musician and cultural critic Meredith Graves, part of the DURATIONS festival programming.",
+    "url": "https://link.dice.fm/Y64d64669e75",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:27:34.288Z"
   }
 ]
