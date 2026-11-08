@@ -8235,5 +8235,536 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-08T08:27:34.288Z"
+  },
+  {
+    "id": "white-columns-2026-12-19-marc-hundley-satellites-are-out-tonight",
+    "title": "Marc Hundley: SATELLITES ARE OUT TONIGHT",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-12-19",
+    "description": "Exhibition of new work by Marc Hundley at White Columns, on view November 7 through December 19, 2026.",
+    "url": "https://whitecolumns.org/exhibitions/marc-hundley/",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.371Z"
+  },
+  {
+    "id": "white-columns-2026-12-19-claire-watson-re-assembled",
+    "title": "Claire Watson: Re-Assembled",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-12-19",
+    "description": "Exhibition of new work by Claire Watson at White Columns, on view November 7 through December 19, 2026.",
+    "url": "https://whitecolumns.org/exhibitions/claire-watson/",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.373Z"
+  },
+  {
+    "id": "white-columns-2026-12-19-shop-artists-who-do-shirts",
+    "title": "SHOP: Artists Who Do Shirts",
+    "venue_id": "white-columns",
+    "venue_name": "White Columns",
+    "date": "2026-12-19",
+    "description": "Group exhibition/shop of artist-made shirts at White Columns, on view November 7 through December 19, 2026.",
+    "url": "https://whitecolumns.org/exhibitions/shop-artists-who-do-shirts/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.373Z"
+  },
+  {
+    "id": "recess-art-2026-11-11-iron-palm-wine-koneh-pelawoe",
+    "title": "Iron + Palm Wine: Koneh Pelawoe",
+    "venue_id": "recess-art",
+    "venue_name": "Recess",
+    "date": "2026-11-11",
+    "description": "Exhibition at Recess on view November 11 through December 19, 2026, part of the YATTA project exploring iron and palm wine traditions.",
+    "url": "https://www.recessart.org/projects/613-iron-palm-wine-koneh-pelawoe",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.409Z"
+  },
+  {
+    "id": "amant-2026-12-08-images-a-revelation-by-gideon-jacobs",
+    "title": "IMAGES: A Revelation by Gideon Jacobs",
+    "venue_id": "amant",
+    "venue_name": "Amant",
+    "date": "2026-12-08",
+    "description": "Performance work by Gideon Jacobs at Amant, running December 8-10, 2026.",
+    "url": "https://www.amant.org/programs/3132-images-a-revelation-by-gideon-jacobs",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.424Z"
+  },
+  {
+    "id": "la-mama-2026-11-09-12-angry-electrics-a-poetry-electric-bea",
+    "title": "12 Angry Electrics: a Poetry Electric beat",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-09",
+    "description": "A Poetry Electric reading event at La MaMa titled \"12 Angry Electrics.\"",
+    "url": "https://lamama.org/poetryelectric-12angryelectrics/",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.443Z"
+  },
+  {
+    "id": "index-space-2026-11-22-intro-to-close-reading",
+    "title": "Intro to Close Reading",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-11-22",
+    "description": "Workshop at Index Greenpoint introducing close-reading techniques, hosted by Grace Perri Barnes.",
+    "url": "https://www.index-space.org/programming/intro-to-close-reading-evt-IsNtaSaFxjbB3SI?view=list",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.461Z"
+  },
+  {
+    "id": "movement-research-2026-11-09-movement-research-at-the-judson-church-n",
+    "title": "Movement Research at the Judson Church | Nov 9, 2026",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-11-09",
+    "description": "Performance program at Judson Church featuring Laura Coe and Ángel De Paz, Chloë Engel, Bao Nguyen, and Dahlia Qumhiyeh.",
+    "url": "https://movementresearch.org/events/1471/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.474Z"
+  },
+  {
+    "id": "movement-research-2026-11-16-movement-research-at-the-judson-church-n",
+    "title": "Movement Research at the Judson Church | Nov 16, 2026",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-11-16",
+    "description": "Performance program at Judson Church featuring Miranda Brown & Noa Rui-Piin Weiss, Leah Fournier, Celeste Goldes, and Chloe London.",
+    "url": "https://movementresearch.org/events/1472/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.474Z"
+  },
+  {
+    "id": "movement-research-2026-11-17-open-performance",
+    "title": "Open Performance",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-11-17",
+    "description": "An open, uncurated performance platform for movement artists presented by Movement Research.",
+    "url": "https://movementresearch.org/events/1457/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:09.474Z"
+  },
+  {
+    "id": "green-wood-2026-11-21-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-21",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "description": "An after-dark walking tour through Green-Wood's history, legends, and secrets, with rare access inside the normally-locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-60/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:13.626Z"
+  },
+  {
+    "id": "green-wood-2026-11-08-green-wood-s-greatest-hits",
+    "title": "Green-Wood's Greatest Hits",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-08",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "description": "A walking tour hitting the highlights of Green-Wood Cemetery's history, monuments, and notable stories.",
+    "url": "https://www.green-wood.com/event/green-woods-greatest-hits-18/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:13.625Z"
+  },
+  {
+    "id": "green-wood-2026-11-15-green-wood-s-greatest-hits",
+    "title": "Green-Wood's Greatest Hits",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-15",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "description": "A walking tour hitting the highlights of Green-Wood Cemetery's history, monuments, and notable stories.",
+    "url": "https://www.green-wood.com/event/green-woods-greatest-hits-19/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:13.626Z"
+  },
+  {
+    "id": "terraza-7-2026-11-11-julian-miltenberger-trio-jazz",
+    "title": "Julian Miltenberger Trio— Jazz",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-11",
+    "description": "Live jazz trio performance by Julian Miltenberger (first and second sets).",
+    "url": "https://www.terraza7.com/detalles-y-registro/julian-miltenberger-trio-jazz-first-set-2",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.063Z"
+  },
+  {
+    "id": "terraza-7-2026-11-15-the-queens-college-jazz-jam",
+    "title": "The Queens College Jazz Jam",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-15",
+    "description": "Student and faculty jazz jam session hosted with Queens College musicians.",
+    "url": "https://www.terraza7.com/detalles-y-registro/the-queens-college-jazz-jam-3",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.063Z"
+  },
+  {
+    "id": "terraza-7-2026-11-17-polish-roots-bogna-kici-ska-kuba-cichock",
+    "title": "Polish Roots | Bogna Kicińska & Kuba Cichocki Group",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-17",
+    "description": "Polish jazz-folk fusion performance by the Bogna Kicińska & Kuba Cichocki Group (first and second sets).",
+    "url": "https://www.terraza7.com/detalles-y-registro/polish-roots-bogna-kicinska-kuba-cichocki-group-first-set-2",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.064Z"
+  },
+  {
+    "id": "terraza-7-2026-11-18-filtron-m-jazz-fusion",
+    "title": "Filtron M | Jazz Fusion",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-18",
+    "description": "Jazz fusion sets performed by Filtron M.",
+    "url": "https://www.terraza7.com/detalles-y-registro/filtron-m-jazz-fusion-first-set",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.064Z"
+  },
+  {
+    "id": "film-forum-2026-11-10-manhattan-by-numbers",
+    "title": "MANHATTAN BY NUMBERS",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-10",
+    "time_start": "18:00",
+    "description": "Final screening in the 'NYC in Transit' series of Amir Naderi's 1993 independent film about New York City, introduced in person by star John Wojda.",
+    "url": "https://filmforum.org/film/manhattan-by-numbers-nyc-in-transit",
+    "price": "$18 general / $12 member",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.096Z"
+  },
+  {
+    "id": "film-forum-2026-11-08-raise-the-red-lantern",
+    "title": "RAISE THE RED LANTERN",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-08",
+    "time_start": "12:40",
+    "description": "Repertory run of Zhang Yimou's 1991 Chinese drama, playing through Thursday, November 19.",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "price": "$18 general / $12 member",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.096Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-10-the-lecture-in-planning-series-lips-pane",
+    "title": "The Lecture in Planning Series (LiPS) Panel",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-10",
+    "time_start": "13:30",
+    "description": "A panel discussion in GSAPP's Lecture in Planning Series, part of the Urban Planning program.",
+    "url": "https://www.arch.columbia.edu/events/4379-the-lecture-in-planning-series-li-ps-panel",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "urban-planning"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.113Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-11-the-encounters-series-ibero-american-pat",
+    "title": "The Encounters Series: \"Ibero-American Patterns\"",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-11",
+    "time_start": "12:15",
+    "description": "A talk in GSAPP's Encounters Series examining Ibero-American architectural and spatial patterns.",
+    "url": "https://www.arch.columbia.edu/events/4377-the-encounters-series-ibero-american-patterns",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.113Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-12-msred-architect-developer-dialogue-clair",
+    "title": "MSRED Architect-Developer Dialogue: Claire Weisz, WXY + Sally Gilliland, Hudson Properties",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-12",
+    "time_start": "12:45",
+    "description": "A dialogue between architect Claire Weisz (WXY) and developer Sally Gilliland (Hudson Properties) on the intersection of architecture and real estate development in New York.",
+    "url": "https://www.arch.columbia.edu/events/4354-msred-architect-developer-dialogue-claire-weisz-wxy-sally-gilliland-hudson-properties",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.114Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-13-constructing-unorthodox-practice",
+    "title": "CONSTRUCTING (unorthodox) PRACTICE",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-13",
+    "time_start": "10:00",
+    "description": "A GSAPP conference examining unorthodox models and approaches to architectural practice.",
+    "url": "https://www.arch.columbia.edu/events/4283-constructing-unorthodox-practice",
+    "format": "conference",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.114Z"
+  },
+  {
+    "id": "sculpture-center-2026-12-10-pat-0leszko-fool-disclosure-book-launch",
+    "title": "Pat 0leszko: Fool Disclosure Book Launch",
+    "venue_id": "sculpture-center",
+    "venue_name": "SculptureCenter",
+    "date": "2026-12-10",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Book launch for performance and costume artist Pat Oleszko's publication \"Fool Disclosure.\"",
+    "url": "https://www.sculpture-center.org/events/15067/pat-0leszko-fool-disclosure-book-launch-nbsp",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.133Z"
+  },
+  {
+    "id": "the-drawing-center-2026-11-08-form-shadow-motion-selections-from-the-b",
+    "title": "Form, Shadow, Motion: Selections from the Burger Collection, Hong Kong",
+    "venue_id": "the-drawing-center",
+    "venue_name": "The Drawing Center",
+    "date": "2026-11-08",
+    "description": "Group exhibition of works on paper from the Burger Collection, Hong Kong, exploring form, shadow, and motion through drawing; on view through January 24, 2027.",
+    "url": "https://drawingcenter.org/exhibitions/form-shadow-motion",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:17.155Z"
+  },
+  {
+    "id": "elsewhere-2026-12-05-malibu-kelly-moran",
+    "title": "Malibu, Kelly Moran",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-12-05",
+    "time_start": "19:00",
+    "description": "A live bill at The Hall pairing dream-pop artist Malibu with Kelly Moran, the experimental/ambient composer known for prepared-piano work and collaborations with Oneohtrix Point Never.",
+    "url": "https://www.elsewhere.club/events/2000485821945",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Experimental / electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:20.666Z"
+  },
+  {
+    "id": "elsewhere-2026-11-13-chatroom-listening-session-classicnewwav",
+    "title": "Chatroom Listening Session: classicnewwave + Mtali Banda - Free w/ RSVP",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-13",
+    "time_start": "21:00",
+    "description": "A free, RSVP curated listening session in Elsewhere's Chatroom space featuring electronic producers classicnewwave and Mtali Banda.",
+    "url": "https://www.elsewhere.club/events/2004443927746",
+    "price": "free",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental / electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:20.666Z"
+  },
+  {
+    "id": "the-brick-2026-11-08-i-can-steal-your-mother",
+    "title": "I Can Steal Your Mother",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-11-08",
+    "description": "A fully-illustrated, autobiographical comedy hour from artist/comedian Max Wittert, composed of over 1,200 original drawings presented as a surreal live storytime; running through November 15.",
+    "url": "https://www.bricktheater.com/event/i-can-steal-your-mother/2026-11-08/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-08T08:32:20.688Z"
   }
 ]
