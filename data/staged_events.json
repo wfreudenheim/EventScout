@@ -7466,5 +7466,577 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-08T08:32:20.666Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-11-19-mapping-queens-stewards-of-historic-hous",
+    "title": "Mapping Queens: Stewards of Historic Houses & Heritage Sites",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "description": "A talk on the stewards of Queens' historic houses and heritage sites as part of Flushing Town Hall's Mapping Queens series.",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.781Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-11-11-monthly-jazz-jam-honoring-military-veter",
+    "title": "Monthly Jazz Jam: Honoring Military Veteran Musicians",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-11-11",
+    "time_start": "19:00",
+    "description": "Veterans Day open jazz jam inspired by veteran musicians including John Coltrane, Tony Bennett, and B.B. King, led by Carol Sudhalter; open to musicians of all levels.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.781Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-11-14-global-mashup-hollywood-meets-bollywood",
+    "title": "Global Mashup: Hollywood Meets Bollywood",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-11-14",
+    "time_start": "19:00",
+    "description": "Hollywood and Bollywood musicians share the stage for the first time, opening with a dance lesson and closing with a one-of-a-kind mashup finale combining both bands.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.779Z"
+  },
+  {
+    "id": "columbia-heyman-2026-11-18-new-books-series-celebrating-recent-work",
+    "title": "New Books Series: Celebrating Recent Work by Branka Arsić (Ambient Life)",
+    "venue_id": "columbia-heyman",
+    "venue_name": "Columbia Society of Fellows / Heyman Center",
+    "date": "2026-11-18",
+    "time_start": "18:15",
+    "description": "Branka Arsić discusses Ambient Life, reframing Herman Melville as an environmental thinker who reoriented human identity, perception, and relation through ecology.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3.3,
+    "tags": [
+      "ecology",
+      "perception",
+      "ambient"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Neuroscience, AI & Cognitive Science",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.812Z"
+  },
+  {
+    "id": "columbia-heyman-2026-11-12-thursday-lecture-series-prophetic-curves",
+    "title": "Thursday Lecture Series: Prophetic Curves: Graphic Methods of Statistical Prediction Around 1900",
+    "venue_id": "columbia-heyman",
+    "venue_name": "Columbia Society of Fellows / Heyman Center",
+    "date": "2026-11-12",
+    "time_start": "12:15",
+    "description": "Hannah Pivo examines the early history of statistical/mathematical curves as forecasting tools, arguing confidence in these graphic methods relied on geometric practice and emergent historical notions as much as statistics itself. Open to Columbia-affiliated faculty, students, and invited guests only.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.809Z"
+  },
+  {
+    "id": "columbia-heyman-2026-11-12-sparking-and-sustaining-climate-action-i",
+    "title": "Sparking (and Sustaining) Climate Action: Individual Changes and Systemic Responses",
+    "venue_id": "columbia-heyman",
+    "venue_name": "Columbia Society of Fellows / Heyman Center",
+    "date": "2026-11-12",
+    "time_start": "16:15",
+    "description": "A roundtable of scholars, activists, and scholar-activists discussing successful strategies and ongoing challenges in catalyzing and scaling up climate action.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.810Z"
+  },
+  {
+    "id": "columbia-heyman-2026-11-17-new-books-series-celebrating-recent-work",
+    "title": "New Books Series: Celebrating Recent Work by Claudia Breger (Art's Assemblies)",
+    "venue_id": "columbia-heyman",
+    "venue_name": "Columbia Society of Fellows / Heyman Center",
+    "date": "2026-11-17",
+    "time_start": "18:15",
+    "description": "Claudia Breger discusses Art's Assemblies, which reconnects twenty-first-century philosophical frameworks to the political aesthetics of European modernisms developed in response to historical fascism.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "aesthetics"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.810Z"
+  },
+  {
+    "id": "columbia-heyman-2026-11-19-new-books-series-celebrating-recent-work",
+    "title": "New Books Series: Celebrating Recent Work by Whitney Laemmli (Making Movement Modern)",
+    "venue_id": "columbia-heyman",
+    "venue_name": "Columbia Society of Fellows / Heyman Center",
+    "date": "2026-11-19",
+    "time_start": "18:15",
+    "description": "Whitney Laemmli discusses Making Movement Modern, tracing the movement-visualization technique Labanotation from expressionist dance and military discipline to its use in factories and offices decades later.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.812Z"
+  },
+  {
+    "id": "asia-society-2026-12-03-time-life-beauty-dj-spooky-michael-sakam",
+    "title": "time/life/beauty: DJ Spooky, Michael Sakamoto, and Barges",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-12-03",
+    "time_start": "19:30",
+    "time_end": "21:00",
+    "description": "A suite of four interdisciplinary performance works fusing butoh dance theater, hip-hop mixology, and multimedia, by Michael Sakamoto and DJ Spooky with Palestinian dancer Barges, inspired by Ryuichi Sakamoto.",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.829Z"
+  },
+  {
+    "id": "asia-society-2026-11-21-friendsgiving-film-screening-luck-my-lif",
+    "title": "Friendsgiving Film Screening: Luck My Life! (我的人生我自摸)",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-21",
+    "time_start": "14:00",
+    "time_end": "17:00",
+    "description": "Singaporean Friendsgiving celebration with a screening of Eric Wong's Luck My Life, followed by discussion and Q&A with the director, presented with Supermomos and the Singapore Global Network.",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.828Z"
+  },
+  {
+    "id": "asia-society-2026-11-19-70-after-dark-a-festival-of-light",
+    "title": "70 After Dark: A Festival of Light",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-19",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A party celebrating Asia Society's 70th anniversary inspired by Diwali and traditions of light across Asia, with live DJ, henna, and after-hours museum access.",
+    "price": "varies",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.828Z"
+  },
+  {
+    "id": "asia-society-2026-12-01-film-screening-possible-love",
+    "title": "Film Screening: Possible Love",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-12-01",
+    "time_start": "20:00",
+    "time_end": "22:45",
+    "description": "Lee Chang-dong's first feature in eight years, following two married couples facing hidden desires and shifting emotions; presented with an introduction by the director and star Jeon Do-yeon.",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.829Z"
+  },
+  {
+    "id": "asia-society-2026-12-08-from-survival-to-renewal-morad-tahbaz-in",
+    "title": "From Survival to Renewal: Morad Tahbaz in Conversation",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-12-08",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Morad Tahbaz, who tracked Persian leopards and Asiatic cheetahs before being imprisoned in Iran, discusses his memoir Green Parrots on survival, conservation, and art.",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.829Z"
+  },
+  {
+    "id": "the-new-school-2026-11-17-matter-of-intelligence-seminar-8-collect",
+    "title": "Matter of Intelligence Seminar 8: Collective Intelligence, Collective Agency",
+    "venue_id": "the-new-school",
+    "venue_name": "The New School",
+    "date": "2026-11-17",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Artist Agnieszka Kurant in conversation with neuroscientist/AI researcher Ida Momennejad on collective intelligence as an emergent property of ecosystems, drawing on living systems, AI agent swarms, and the digital economy.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Art & Technology",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.856Z"
+  },
+  {
+    "id": "wendys-subway-2026-11-21-accessing-black-utopia-member-workshop-",
+    "title": "Accessing Black Utopia (Member Workshop)",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-11-21",
+    "time_start": "13:00",
+    "time_end": "15:00",
+    "description": "Ariana Faye Allensworth and Babette Thomas lead a workshop on how Black communities have used utopian imagination for political experimentation and spatial reclamation, including the Black Town Movement.",
+    "price": "free (members)",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.881Z"
+  },
+  {
+    "id": "wendys-subway-2026-11-20-book-launch-states-of-emergency-a-spatia",
+    "title": "Book Launch: States of Emergency: A Spatial History of the French Colonial Continuum by Léopold Lambert",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-11-20",
+    "time_start": "19:00",
+    "description": "Lambert discusses his book tracing a colonial continuum across the Algerian Revolution, the Kanak Insurrection, and France's banlieue uprisings, in conversation with Meriam Soltan and Miriam Ticktin.",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.881Z"
+  },
+  {
+    "id": "wendys-subway-2026-11-11-book-launch-bone-symphony-by-michelle-ph",
+    "title": "Book Launch: Bone Symphony by Michelle Phương Hồ",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-11-11",
+    "time_start": "18:00",
+    "description": "Launch of Michelle Phương Hồ's debut poetry collection Bone Symphony, with readings and a conversation with poet Tobi Kassim on intimacy, surveillance, and the archive.",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.881Z"
+  },
+  {
+    "id": "moma-2026-11-30-writing-club-with-zoe-imani-sharpe-on-fi",
+    "title": "Writing Club with Zoe Imani Sharpe: On Figure/Ground",
+    "venue_id": "moma",
+    "venue_name": "MoMA",
+    "date": "2026-11-30",
+    "time_start": "19:00",
+    "time_end": "20:30",
+    "description": "First session of a Wendy's Subway writing club co-hosted with MoMA, exploring connections between scale, bodily movement, and spatial regulation through artworks in Gallery 215: Refractions.",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.894Z"
+  },
+  {
+    "id": "nitehawk-2026-11-16-paprika-35mm-",
+    "title": "Paprika (35mm)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-16",
+    "description": "Satoshi Kon's final film screens on 35mm as part of Nitehawk's Anime After Dark series.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.906Z"
+  },
+  {
+    "id": "nitehawk-2026-11-14-the-devils-4k-restoration-",
+    "title": "The Devils (4K restoration)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-14",
+    "description": "The new, uncut 4K restoration of Ken Russell's controversial horror classic comes to brunch this weekend.",
+    "format": "screening",
+    "interest_score": 2.5,
+    "tags": [
+      "horror",
+      "restoration"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.906Z"
+  },
+  {
+    "id": "nitehawk-2026-11-13-master-of-the-flying-guillotine-4k-resto",
+    "title": "Master of the Flying Guillotine (4K restoration)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-13",
+    "description": "New 4K restoration of the wuxia classic, screening as Nitehawk's Friday midnite movie.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.906Z"
+  },
+  {
+    "id": "nitehawk-2026-11-16-nobudge-live-53-w-q-a-",
+    "title": "NoBudge Live 53 (w/ Q&A)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-16",
+    "description": "NoBudge returns to Nitehawk with another program of short films from emerging indie filmmakers, followed by a Q&A.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.906Z"
+  },
+  {
+    "id": "nitehawk-2026-11-17-the-thing-35mm-",
+    "title": "The Thing (35mm)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-17",
+    "description": "John Carpenter's once critically reviled horror masterpiece, this year's pick for Nitehawk's No-Brainer November.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "horror"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.906Z"
+  },
+  {
+    "id": "nitehawk-2026-11-28-the-last-waltz",
+    "title": "The Last Waltz",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-28",
+    "description": "Martin Scorsese's documentary on The Band's final performance, Nitehawk's November Classic Pictures brunch pick.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.907Z"
+  },
+  {
+    "id": "nitehawk-2026-11-14-castle-in-the-sky-35mm-english-dub-",
+    "title": "Castle in the Sky (35mm, English dub)",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-14",
+    "description": "A print of the English dub of Hayao Miyazaki's animated classic screens at weekend brunch.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [
+      "dub"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.906Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-16-tschabalala-self-derek-fordjour-in-dialo",
+    "title": "Tschabalala Self & Derek Fordjour in Dialogue",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-16",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "In-person conversation between artist Tschabalala Self and artist Derek Fordjour on the occasion of Self's exhibition Tools of Worship at Petzel Gallery, part of the Rail's New Social Environment series.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.919Z"
+  },
+  {
+    "id": "cuny-graduate-center-2026-11-18-unworlding-unbuilding-and-trans-anarchit",
+    "title": "Unworlding, Unbuilding, and Trans Anarchitectures: Jack Halberstam and Nicole Eisenman in Conversation with Claire Bishop",
+    "venue_id": "cuny-graduate-center",
+    "venue_name": "CUNY Graduate Center",
+    "date": "2026-11-18",
+    "time_start": "18:30",
+    "description": "Queer theorist Jack Halberstam and MacArthur-winning artist Nicole Eisenman discuss the 1970s idea of 'anarchitecture,' connecting bodily transformation to the unmaking of the built environment, moderated by art historian Claire Bishop.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Architecture & Urbanism",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.930Z"
+  },
+  {
+    "id": "printed-matter-2026-11-24-tellus-audio-cassette-magazine-anthology",
+    "title": "Tellus Audio Cassette Magazine Anthology Vol. 1 (Listening Session & Conversation)",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-24",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Listening session and conversation marking the publication of an anthology drawn from Tellus Audio Cassette Magazine, a historic experimental sound-art publishing project.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.949Z"
+  },
+  {
+    "id": "la-mama-2026-11-13-tiresias-presents-new-weird-future-a-wor",
+    "title": "Tiresias Presents New Weird Future: A Work in Process",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-13",
+    "time_start": "20:30",
+    "description": "A livestreamed speculative eco-opera and puppet pageant-in-process by the company Tiresias, imagining futures of multispecies flourishing in the ruins of the Anthropocene.",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "anthropocene"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:07.976Z"
   }
 ]

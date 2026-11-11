@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:22:17.823Z"
+    "last_checked": "2026-11-11T08:19:07.966Z"
   },
   {
     "id": "spectacle-theater",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:27:26.682Z"
+    "last_checked": "2026-11-11T08:19:07.876Z"
   },
   {
     "id": "knockdown-center",
@@ -419,7 +419,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:38:16.236Z"
+    "last_checked": "2026-11-11T08:19:07.866Z"
   },
   {
     "id": "columbia-gsapp",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:22:17.844Z"
+    "last_checked": "2026-11-11T08:19:07.852Z"
   },
   {
     "id": "artists-space",
@@ -1108,7 +1108,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:18:00.522Z",
+    "last_checked": "2026-11-11T08:19:07.901Z",
     "scrape_notes": "Sweep 2026-07: now 403s via WebFetch too (worked in March). | Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
   },
   {
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-11-08T08:27:30.610Z"
+    "last_checked": "2026-11-11T08:19:07.958Z"
   },
   {
     "id": "the-shed",
@@ -1503,7 +1503,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:17:15.361Z"
+    "last_checked": "2026-11-11T08:19:07.937Z"
   },
   {
     "id": "columbia-soa-lenfest",
@@ -1580,7 +1580,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:17:15.383Z"
+    "last_checked": "2026-11-11T08:19:07.823Z"
   },
   {
     "id": "vera-list-center",
@@ -1774,7 +1774,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-18T07:18:04.963Z"
+    "last_checked": "2026-11-11T08:19:07.889Z"
   },
   {
     "id": "cybernetics-library",
@@ -2223,7 +2223,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:17:15.502Z"
+    "last_checked": "2026-11-11T08:19:07.915Z"
   },
   {
     "id": "japan-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:18:00.597Z"
+    "last_checked": "2026-11-11T08:19:07.841Z"
   },
   {
     "id": "aaww",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:18:00.699Z"
+    "last_checked": "2026-11-11T08:19:07.927Z"
   },
   {
     "id": "nypl-live",
@@ -2721,7 +2721,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:21.631Z"
+    "last_checked": "2026-11-11T08:19:07.973Z"
   },
   {
     "id": "canal-projects",
@@ -2768,7 +2768,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:27:34.312Z"
+    "last_checked": "2026-11-11T08:19:07.945Z"
   },
   {
     "id": "white-columns",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:13.791Z"
+    "last_checked": "2026-11-11T08:19:07.989Z"
   },
   {
     "id": "la-mama",
@@ -2910,7 +2910,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:32:09.452Z"
+    "last_checked": "2026-11-11T08:19:07.983Z"
   },
   {
     "id": "harvestworks",
@@ -3472,7 +3472,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:32:13.651Z"
+    "last_checked": "2026-11-11T08:19:07.802Z"
   },
   {
     "id": "brooklyn-raga-massive",
