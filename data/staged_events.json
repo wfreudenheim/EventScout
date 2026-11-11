@@ -8513,5 +8513,126 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:24:23.669Z"
+  },
+  {
+    "id": "poetry-project-2026-11-18-amy-ching-yan-lam-jacqueline-waters",
+    "title": "Amy Ching-Yan Lam + Jacqueline Waters",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-18",
+    "time_start": "20:00",
+    "description": "A reading with interdisciplinary artist/writer Amy Ching-Yan Lam and poet Jacqueline Waters.",
+    "url": "https://www.poetryproject.org/events/amy-ching-yan-lam-jacqueline-waters",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:26:25.872Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-12-02-vicos-spiral-half-century-of-artists-boo",
+    "title": "Vicos' Spiral: Half Century of Artists' Books at the University of Florida – University Galleries",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-12-02",
+    "description": "Exhibition surveying fifty years of artists' books from the University of Florida's University Galleries collection.",
+    "url": "https://centerforbookarts.org/exhibitions/vicos-spiral-half-century-of-artists-books-at-the-university-of-florida-university-galleries",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:26:25.886Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-12-12-paper-cuts-independent-publishing-in-the",
+    "title": "Paper Cuts: Independent Publishing in the United States, 2000-2025",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-12-12",
+    "description": "Group exhibition surveying independent publishing in the US from 2000-2025. Free and open to the public.",
+    "url": "https://centerforbookarts.org/exhibitions/paper-cuts",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:26:25.886Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-12-12-catalogue-launch-zine-swap-closing-recep",
+    "title": "Catalogue Launch & Zine Swap: Closing Reception of Paper Cuts",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-12-12",
+    "time_start": "17:00",
+    "description": "Closing reception and zine swap celebrating the Paper Cuts: Independent Publishing in the United States, 2000-2025 exhibition catalogue launch.",
+    "url": "https://shop.centerforbookarts.org/products/closing-reception-of-paper-cuts-independent-publishing-in-the-united-states-2000-2025-zine-swap",
+    "format": "opening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:26:25.887Z"
+  },
+  {
+    "id": "public-records-2027-04-14-horse-lords-charmaine-lee",
+    "title": "Horse Lords, Charmaine Lee",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2027-04-14",
+    "time_start": "19:00",
+    "description": "A live performance by avant-rock group Horse Lords with experimental vocalist/sound artist Charmaine Lee.",
+    "url": "https://link.dice.fm/T234dad75b92",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:26:25.922Z"
+  },
+  {
+    "id": "public-records-2026-11-13-durations-dasha-rush-decoder-innersha-li",
+    "title": "DURATIONS: Dasha Rush, Decoder, Innersha [Live] / Human Space Machine, Claudio PRC & Francis Harris / Afrikan Sciences",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-13",
+    "time_start": "22:00",
+    "description": "A multi-room Durations club night featuring experimental techno/ambient artists Dasha Rush and Afrikan Sciences.",
+    "url": "https://link.dice.fm/Ee9c099f8483",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:26:25.917Z"
   }
 ]

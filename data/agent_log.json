@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "moma-ps1",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:42.412Z",
-    "completed_at": "2026-10-21T07:27:42.412Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "national-sawdust",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:42.428Z",
-    "completed_at": "2026-10-21T07:27:42.428Z",
-    "events_found": 6,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "roulette",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:42.436Z",
-    "completed_at": "2026-10-21T07:27:42.436Z",
-    "events_found": 7,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "center-for-architecture",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.053Z",
-    "completed_at": "2026-10-21T07:27:43.053Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "architectural-league",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.066Z",
-    "completed_at": "2026-10-21T07:27:43.066Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyas",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.076Z",
-    "completed_at": "2026-10-21T07:27:43.076Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "printed-matter",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:27:43.087Z",
@@ -4997,6 +4937,66 @@
     "completed_at": "2026-11-11T08:25:44.860Z",
     "events_found": 10,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bard-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:26:25.866Z",
+    "completed_at": "2026-11-11T08:26:25.866Z",
+    "events_found": 6,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "poetry-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:26:25.883Z",
+    "completed_at": "2026-11-11T08:26:25.883Z",
+    "events_found": 6,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-book-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:26:25.897Z",
+    "completed_at": "2026-11-11T08:26:25.897Z",
+    "events_found": 4,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "franklin-furnace",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:26:25.905Z",
+    "completed_at": "2026-11-11T08:26:25.905Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "fridman-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:26:25.913Z",
+    "completed_at": "2026-11-11T08:26:25.913Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:26:25.932Z",
+    "completed_at": "2026-11-11T08:26:25.932Z",
+    "events_found": 12,
+    "events_new": 2,
     "status": "completed"
   }
 ]
