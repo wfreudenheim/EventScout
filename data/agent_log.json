@@ -1,76 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "swiss-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:44.362Z",
-    "completed_at": "2026-10-21T07:27:44.362Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "white-columns",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:44.372Z",
-    "completed_at": "2026-10-21T07:27:44.372Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "participant-inc",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:44.388Z",
-    "completed_at": "2026-10-21T07:27:44.388Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "recess-art",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:44.398Z",
-    "completed_at": "2026-10-21T07:27:44.398Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "la-mama",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:45.003Z",
-    "completed_at": "2026-10-21T07:27:45.003Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "index-space",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:45.011Z",
-    "completed_at": "2026-10-21T07:27:45.011Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "chocolate-factory",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:45.024Z",
-    "completed_at": "2026-10-21T07:27:45.024Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "green-wood",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:27:45.037Z",
@@ -4997,6 +4927,76 @@
     "completed_at": "2026-11-11T08:31:11.148Z",
     "events_found": 4,
     "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:21.558Z",
+    "completed_at": "2026-11-11T08:31:21.558Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "amant",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:21.572Z",
+    "completed_at": "2026-11-11T08:31:21.572Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "la-mama",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:21.590Z",
+    "completed_at": "2026-11-11T08:31:21.590Z",
+    "events_found": 4,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:21.602Z",
+    "completed_at": "2026-11-11T08:31:21.602Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "movement-research",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:21.612Z",
+    "completed_at": "2026-11-11T08:31:21.612Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:21.623Z",
+    "completed_at": "2026-11-11T08:31:21.623Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "jack-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:21.634Z",
+    "completed_at": "2026-11-11T08:31:21.634Z",
+    "events_found": 2,
+    "events_new": 0,
     "status": "completed"
   }
 ]

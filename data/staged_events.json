@@ -8813,5 +8813,41 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:31:11.135Z"
+  },
+  {
+    "id": "la-mama-2026-11-12-assortment",
+    "title": "Assortment",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-12",
+    "description": "A La MaMa performance program running November 12–December 6, 2026.",
+    "url": "http://lamama.org/assortment/",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:21.576Z"
+  },
+  {
+    "id": "la-mama-2026-11-12-experiments-reading-seder",
+    "title": "Experiments Reading: SEDER",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-12",
+    "description": "A staged reading titled SEDER, presented as part of La MaMa's Experiments reading series.",
+    "url": "http://lamama.org/experiments-reading-seder/",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:21.576Z"
   }
 ]
