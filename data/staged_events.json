@@ -8421,5 +8421,97 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:23:05.439Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-15-exclusive-tour-of-the-amateur-comedy-clu",
+    "title": "Exclusive Tour of The Amateur Comedy Club in Sniffen Court",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-15",
+    "description": "An 'Elsewhere' pick: an exclusive guided tour of the historic Amateur Comedy Club building in the hidden Sniffen Court mews.",
+    "url": "https://calendar.aiany.org/2026/11/15/exclusive-tour-of-the-amateur-comedy-club-in-sniffen-court/",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:24:23.602Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-12-art-furniture-a-conversation-with-dennis",
+    "title": "Art + Furniture: A Conversation with Dennis Miller",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-12",
+    "description": "A conversation about the intersection of art and furniture design, listed as an 'Elsewhere' pick on the Center for Architecture calendar.",
+    "url": "https://calendar.aiany.org/2026/11/12/art-furniture-a-conversation-with-dennis-miller/",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:24:23.602Z"
+  },
+  {
+    "id": "cooper-union-2026-11-17-visiting-lecture-sean-lally-snags-glitch",
+    "title": "Visiting Lecture | Sean Lally: Snags, Glitches and Unintended Consequences",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-17",
+    "time_start": "18:30",
+    "description": "A visiting lecture by architect Sean Lally on unintended consequences, snags, and glitches in architectural and design processes.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/visiting-lecture-sean-lally-snags-glitches-and-unintended",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:24:23.625Z"
+  },
+  {
+    "id": "printed-matter-2026-11-20-correspondences-de-appel-1975-2025",
+    "title": "Correspondences: de Appel 1975–2025",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-20",
+    "description": "A program and archival display at Printed Matter marking 50 years of de Appel, the Amsterdam-based art space, running Nov 10-20.",
+    "url": "https://www.printedmatter.org/programs/events/2333",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:24:23.642Z"
+  },
+  {
+    "id": "nyas-2027-05-06-trust-in-science-and-medicine",
+    "title": "Trust in Science and Medicine",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-05-06",
+    "description": "A hybrid event examining public and institutional trust in science and medicine.",
+    "url": "https://www.nyas.org/shaping-science/events/trust-in-science-and-medicine",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:24:23.669Z"
   }
 ]

@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:27:26.697Z"
+    "last_checked": "2026-11-11T08:24:23.620Z"
   },
   {
     "id": "bitforms",
@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:27:26.705Z"
+    "last_checked": "2026-11-11T08:24:23.635Z"
   },
   {
     "id": "printed-matter",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-11-11T08:19:07.958Z"
+    "last_checked": "2026-11-11T08:24:23.654Z"
   },
   {
     "id": "the-shed",
@@ -1310,7 +1310,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:27:30.621Z"
+    "last_checked": "2026-11-11T08:24:23.663Z"
   },
   {
     "id": "mcnally-jackson",
@@ -1653,7 +1653,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:27:30.628Z"
+    "last_checked": "2026-11-11T08:24:23.682Z"
   },
   {
     "id": "bard-graduate-center",
