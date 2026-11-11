@@ -1,6 +1,6 @@
 VENUE:whitney | Whitney Museum of American Art
 URL:https://whitney.org/events
-FETCHED:2026-11-08T06:37:20.485Z
+FETCHED:2026-11-11T06:39:55.905Z
 
 Skip to main content
 /
@@ -59,64 +59,47 @@ SERVICES
 
 Close filters
 En español Online Members
-/events/member-morning-lichtenstein
+/events/exhibition-tour-lichtenstein
 
 TODAY’S EVENTS
 
- * 9:30 am
+ * 12 pm
 
-   MEMBER MORNING
-
-   Floor 5
-
-   [/events/member-morning-lichtenstein]
-   Members [/events?tags%5B%5D=member_events]
-
- * 10:30 am
-
-   FREE SECOND SUNDAYS
-
-   [/visit/free-admission/second-sundays]
-   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- * 11 am
-
-   CMOM POP-UP PLAY LOUNGE
-
-   Floor 3, Artspace
-
-   [/events/cmom-pop-up-nov8]
-   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
-   ALL AGES ARTMAKING: SKY SKETCHES
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
 
    Floor 5, Neil Bluhm Family Galleries
 
-   [/events/artmaking-sky-sketches]
-   Free Second Sundays [/events?tags%5B%5D=free_second_sundays] Families [/events?tags%5B%5D=family_programs]
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
 
-   MUSICAL NOTES AND BRUSH STROKES: JAZZ AT LINCOLN CENTER PRESENTS A FAMILY CONCERT
-
-   Floor 3, Theater
-
-   [/events/jazz-at-lincoln-center-family-concert]
-   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
-   STORYTIME
-
-   Lobby
-
-   [/events/storytime-nov2026]
-   Free Second Sundays [/events?tags%5B%5D=free_second_sundays] Families [/events?tags%5B%5D=family_programs]
-
- * 12 pm
+ * 1 pm
 
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
    Floor 7
 
-   [/events/untitled-america-exb-tour-fss]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ * 2 pm
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Floor 8
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ * 3 pm
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Floor 5, Neil Bluhm Family Galleries
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ * 4 pm
 
    A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
 
@@ -124,33 +107,6 @@ TODAY’S EVENTS
 
    [/events/closer-look-fall2026]
    Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- * 1:30 pm
-
-   ALL AGES PRINTMAKING: ROY LICHTENSTEIN WITH BLACKBURN PRINTSHOP
-
-   Theater
-
-   [/events/all-ages-printmaking-nov8]
-   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- * 2 pm
-
-   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Floor 8
-
-   [/events/minnie-evans-15-min-tours]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- * 2:30 pm
-
-   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Floor 8
-
-   [/events/minnie-evans-15-min-tours]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
 View more
 
@@ -158,134 +114,11 @@ View more
 
 ALL UPCOMING EVENTS
 
- * NOV 8
-
-   MEMBER MORNING
-
-   Sunday, November 8, 2026
-   9:30–10:30 am
-
-   [/events/member-morning-lichtenstein]
-
-   Open to all members
-
-   Members [/events?tags%5B%5D=member_events]
-
- *  
-
-   FREE SECOND SUNDAYS
-
-   Sunday, November 8, 2026
-   10:30 am–6 pm
-
-   [/visit/free-admission/second-sundays]
-   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   CMOM POP-UP PLAY LOUNGE
-
-   Sunday, November 8, 2026
-   11 am–3 pm
-
-   [/events/cmom-pop-up-nov8]
-   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   STORYTIME
-
-   Sunday, November 8, 2026
-   11–11:30 am
-
-   [/events/storytime-nov2026]
-   Free Second Sundays [/events?tags%5B%5D=free_second_sundays] Families [/events?tags%5B%5D=family_programs]
-
- *  
-
-   MUSICAL NOTES AND BRUSH STROKES: JAZZ AT LINCOLN CENTER PRESENTS A FAMILY CONCERT
-
-   Sunday, November 8, 2026
-   11 am
-
-   [/events/jazz-at-lincoln-center-family-concert]
-   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   ALL AGES ARTMAKING: SKY SKETCHES
-
-   Sunday, November 8, 2026
-   11 am–2 pm
-
-   [/events/artmaking-sky-sketches]
-   Free Second Sundays [/events?tags%5B%5D=free_second_sundays] Families [/events?tags%5B%5D=family_programs]
-
- *  
-
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
-
-   Sunday, November 8, 2026
-   12 pm
-
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Sunday, November 8, 2026
-   12 pm
-
-   [/events/untitled-america-exb-tour-fss]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   ALL AGES PRINTMAKING: ROY LICHTENSTEIN WITH BLACKBURN PRINTSHOP
-
-   Sunday, November 8, 2026
-   1:30–5 pm
-
-   [/events/all-ages-printmaking-nov8]
-   Families [/events?tags%5B%5D=family_programs] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Sunday, November 8, 2026
-   2 pm
-
-   [/events/minnie-evans-15-min-tours]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Sunday, November 8, 2026
-   2:30 pm
-
-   [/events/minnie-evans-15-min-tours]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- * NOV 9
-
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
-
-   Monday, November 9, 2026
-   11 am
-
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
+ * NOV 11
 
    EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
 
-   Monday, November 9, 2026
+   Wednesday, November 11, 2026
    12 pm
 
    [/events/exhibition-tour-lichtenstein]
@@ -295,7 +128,7 @@ ALL UPCOMING EVENTS
 
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Monday, November 9, 2026
+   Wednesday, November 11, 2026
    1 pm
 
    [/events/untitled-america-exh-tour-2026]
@@ -305,7 +138,7 @@ ALL UPCOMING EVENTS
 
    EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
 
-   Monday, November 9, 2026
+   Wednesday, November 11, 2026
    2 pm
 
    [/events/minnie-evans-tour]
@@ -315,13 +148,133 @@ ALL UPCOMING EVENTS
 
    EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
 
-   Monday, November 9, 2026
+   Wednesday, November 11, 2026
    3 pm
 
    [/events/exhibition-tour-lichtenstein]
    Tours [/events?tags%5B%5D=free_tours]
 
-725 events
+ *  
+
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+
+   Wednesday, November 11, 2026
+   4 pm
+
+   [/events/closer-look-fall2026]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ * NOV 12
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Thursday, November 12, 2026
+   12 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Thursday, November 12, 2026
+   1 pm
+
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Thursday, November 12, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Thursday, November 12, 2026
+   3 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ * NOV 13
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, November 13, 2026
+   12 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Friday, November 13, 2026
+   1 pm
+
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Friday, November 13, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, November 13, 2026
+   3 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   FREE FRIDAY NIGHTS
+
+   Friday, November 13, 2026
+   5–10 pm
+
+   [/visit/free-admission/free-friday-nights]
+   Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   15-MINUTE TOUR: HIGHLIGHTS OF THE EXHIBITION “UNTITLED” (AMERICA)
+
+   Friday, November 13, 2026
+   6 pm
+
+   [/events/untitled-america-15min-ffn]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   LIVE MUSIC BY EMILY A. SPRAGUE AND LEYA 
+
+   Friday, November 13, 2026
+   6:30 pm
+
+   [/events/emily-sprague-leya]
+   Performances [/events?tags%5B%5D=performances] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+709 events
 
 ON THE HOUR
 

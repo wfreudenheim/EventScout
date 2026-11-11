@@ -1,6 +1,6 @@
 VENUE:aaww | Asian American Writers' Workshop
 URL:https://aaww.org/
-FETCHED:2026-11-08T06:37:10.239Z
+FETCHED:2026-11-11T06:39:47.613Z
 
 ASIAN
 AMERICAN WRITERS'
@@ -124,13 +124,6 @@ Poetry [/category/poetry-2/]Fiction [/category/fiction-2/]Essays [/category/essa
 
 MUST READ
 
-Fiction
-[https://aaww.org/off-flight-entertainment/]
-By Jun Chou [https://aaww.org/postauthor/jun-chou/]
-Off-Flight Entertainment [https://aaww.org/off-flight-entertainment/]
-
-A good stewardess always has eyes on the emergency exits.
-
 Poetry
 [https://aaww.org/rain-studies/]
 By Chen Poyu [https://aaww.org/postauthor/chen-poyu/]
@@ -144,6 +137,13 @@ By Jess X. Snow [https://aaww.org/postauthor/jess-x-snow/]
 Four Poems by Jess X. Snow [https://aaww.org/four-poems-by-jess-x-snow/]
 
 There are some stories / too sacred to be retold
+
+Fiction
+[https://aaww.org/off-flight-entertainment/]
+By Jun Chou [https://aaww.org/postauthor/jun-chou/]
+Off-Flight Entertainment [https://aaww.org/off-flight-entertainment/]
+
+A good stewardess always has eyes on the emergency exits.
 
 /project/poetry-tuesday
 Poetry
@@ -182,11 +182,12 @@ Tastes of Beiping [https://aaww.org/tlp-tastes-of-beiping/]
 
 Selections from Essays from a Cottager’s Sketchbook 雅舍小品
 
-https://aaww.org/osipon-angela-buruka-angela-manalang-gloria/
-By Niles Jordan Breis [https://aaww.org/postauthor/niles-jordan-breis/]
-Kung Tawagin Siya’y Angela Buruka: Sa Alaala ni Angela Manalang-Gloria | And We Call Her Angela Buruka: In Memory of Angela Manalang-Gloria [https://aaww.org/osipon-angela-buruka-angela-manalang-gloria/]
+Fiction
+[https://aaww.org/osipon-bangkera-the-boatwoman/]
+By Emmanuel Barrameda [https://aaww.org/postauthor/emmanuel-barrameda/]
+Bangkera | The Boatwoman [https://aaww.org/osipon-bangkera-the-boatwoman/]
 
-A writer contends with the legacy of a difficult, much-hated local woman who was also a giant of Philippine letters.
+Hanggang sa maging desperado, sasayaw at mag-aalay ng itlog kay Sta. Clara sa Obando, magdadasal sa iba pang Santa at Birhen, maglalakad nang paluhod sa simbahan ng Quiapo at Baclaran. | Desperation sets in, and they dance and offer eggs to Santa Clara in Obando, walk on their knees inside the Quiapo and Baclaran shrines.
 
 /project/open-city
 Reportage

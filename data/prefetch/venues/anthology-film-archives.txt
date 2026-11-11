@@ -1,6 +1,6 @@
 VENUE:anthology-film-archives | Anthology Film Archives
 URL:https://www.anthologyfilmarchives.org/film_screenings/calendar
-FETCHED:2026-11-08T06:37:11.017Z
+FETCHED:2026-11-11T06:39:47.205Z
 
 ANTHOLOGY FILM ARCHIVES
 
@@ -31,7 +31,7 @@ ANTHOLOGY FILM ARCHIVES
  * Mailing List [/contact/mailing-list]
  * Directions [/contact/directions]
 
-FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-08]
+FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-11]
 
 November 2026
 QUARTERLY PDF [/AFA_456_2013Cal_complete.pdf?v=1] | RSS [/rss] Filter by Program Essential Cinema Premieres/Revivals Retrospectives Series Special Screenings AFA Preservations New Filmmakers
@@ -140,7 +140,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 4:30 PM
    EC: INTOLERANCE [/film_screenings/calendar?view=list&month=11&year=2026#showing-62229]
  * 5:45 PM
-   ZORN I + II [/film_screenings/calendar?view=list&month=11&year=2026#showing-62193]
+   ZORN I + II (Amalric & Zorn in person for selected screenings!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62193]
  * 8:15 PM
    EC: EGGELING / GRANT / JACOBS & FLEISCHNER [/film_screenings/calendar?view=list&month=11&year=2026#showing-62230]
  * 8:45 PM
@@ -152,7 +152,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 4:15 PM
    EC: UNE SIMPLE HISTOIRE [/film_screenings/calendar?view=list&month=11&year=2026#showing-62231]
  * 5:45 PM
-   ZORN I + II [/film_screenings/calendar?view=list&month=11&year=2026#showing-62194]
+   ZORN I + II (Amalric & Zorn in person for selected screenings!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62194]
  * 6:15 PM
    EC: JEROME HILL [/film_screenings/calendar?view=list&month=11&year=2026#showing-62232]
  * 8:30 PM
@@ -162,7 +162,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
 
 16
  * 6:30 PM
-   ZORN I + II [/film_screenings/calendar?view=list&month=11&year=2026#showing-62195]
+   ZORN I + II (Amalric & Zorn in person for selected screenings!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62195]
  * 7:00 PM
    DORSKY & HILER, PGM 1: NATHANIEL DORSKY [/film_screenings/calendar?view=list&month=11&year=2026#showing-62321]
  * 9:15 PM
@@ -188,7 +188,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 6:30 PM
    GALAXIE [/film_screenings/calendar?view=list&month=11&year=2026#showing-62284]
  * 7:30 PM
-   NO FOOD NO MONEY NO JEWELS + NOTES FROM THE INTERZONE [/film_screenings/calendar?view=list&month=11&year=2026#showing-62182]
+   NO FOOD NO MONEY NO JEWELS (AND MORE!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62182]
  * 8:45 PM
    MAX TURNHEIM [/film_screenings/calendar?view=list&month=11&year=2026#showing-62287]
 
@@ -196,7 +196,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 3:15 PM
    EC: TOM, TOM, THE PIPER’S SON [/film_screenings/calendar?view=list&month=11&year=2026#showing-62234]
  * 5:00 PM
-   ZORN I + II [/film_screenings/calendar?view=list&month=11&year=2026#showing-62196]
+   ZORN I + II (Amalric & Zorn in person for selected screenings!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62196]
  * 6:00 PM
    FILM NO. 5 (SMILE) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62289]
  * 7:45 PM
@@ -230,7 +230,7 @@ Sunday Monday Tuesday Wednesday Thursday Friday Saturday
  * 6:45 PM
    DYNAMIC PORTRAITS [/film_screenings/calendar?view=list&month=11&year=2026#showing-62306]
  * 7:00 PM
-   ZORN I + II [/film_screenings/calendar?view=list&month=11&year=2026#showing-62197]
+   ZORN I + II (Amalric & Zorn in person for selected screenings!) [/film_screenings/calendar?view=list&month=11&year=2026#showing-62197]
  * 8:30 PM
    PORTRAITS OF THE ARTIST [/film_screenings/calendar?view=list&month=11&year=2026#showing-62309]
 

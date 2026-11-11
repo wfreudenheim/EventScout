@@ -1,6 +1,6 @@
 VENUE:blank-forms | Blank Forms
 URL:https://www.blankforms.org/
-FETCHED:2026-11-08T06:37:09.786Z
+FETCHED:2026-11-11T06:39:46.212Z
 
 Skip to main content
 Menu
@@ -46,20 +46,6 @@ Record [/blank-forms-editions]
 
 UPCOMING
 
-Event [/events]
-
-/events/blank-forms-at-tokyo-jazz-club
-
-November 3–6, 2026
-
-BLANK FORMS AT TOKYO JAZZ CLUB
-
-[/events/blank-forms-at-tokyo-jazz-club]
-
-TOKYO JAZZ CLUB,
-TOKYO
-
-[https://tokyojazzclub.jp/]
 Event [/events]
 
 /events/keiji-haino-solo-duo-with-loren-connors
@@ -205,9 +191,4 @@ Record [/blank-forms-editions]
 GRAY/SMITH: HEELS IN THE AISLE
 
 [/publications/graysmith-heels-in-the-aisle]
-Book [/blank-forms-editions]
-/publications/wesley-brown-blue-in-green
-WESLEY BROWN: BLUE IN GREEN
-
-[/publications/wesley-brown-blue-in-green]
 Index Page [/index]

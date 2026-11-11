@@ -1,6 +1,6 @@
 VENUE:sculpture-center | SculptureCenter
 URL:https://www.sculpture-center.org/events/
-FETCHED:2026-11-08T06:37:20.448Z
+FETCHED:2026-11-11T06:39:55.970Z
 
 /
  * Exhibitions [/exhibitions/]
@@ -18,7 +18,7 @@ FETCHED:2026-11-08T06:37:20.448Z
  * Shop [/shop/]
 
 Closed until
-12pm Sunday
+12pm tomorrow
 
  * Exhibitions [/exhibitions/]
  * Events [/events/]
@@ -36,7 +36,7 @@ Closed until
  * Shop [/shop/]
 
 Closed until
-12pm Sunday
+12pm tomorrow
 
 44–19 Purves Street
 Long Island City, NY 11101
@@ -704,6 +704,6 @@ Sat, Feb 6, 2016
 The Eccentrics
 Performance Program: Georgia Sagri [/events/909/the-eccentrics-performance-program-georgia-sagri]
 Tue, Feb 2, 2016
-7–8pm [/events/909/the-eccentrics-performance-p
+7–8pm [/events/909/the-eccentrics-performan
 
 [truncated]

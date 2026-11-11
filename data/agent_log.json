@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "e-flux",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:18:39.492Z",
-    "completed_at": "2026-10-21T07:18:39.492Z",
-    "events_found": 4,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "anthology-film-archives",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:18:39.515Z",
@@ -4997,6 +4987,16 @@
     "completed_at": "2026-11-08T08:32:20.703Z",
     "events_found": 2,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-11-11T06:39:44.055Z",
+    "completed_at": "2026-11-11T06:39:44.055Z",
+    "events_found": 0,
+    "events_new": 0,
     "status": "completed"
   }
 ]

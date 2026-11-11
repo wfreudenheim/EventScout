@@ -1,6 +1,6 @@
 VENUE:wonderville | Wonderville
 URL:https://www.wonderville.nyc/
-FETCHED:2026-11-08T06:37:13.481Z
+FETCHED:2026-11-11T06:39:49.843Z
 
 WONDERVILLE [/]
 
@@ -75,86 +75,6 @@ EVENTS
 
 Featured
 
-Nov 6
-[/events/street-fighter-and-tekken-vs-waffle-house-hooters-fighting-game-and-chain-restaurant-rave-11-6-26]
-9:00 PM21:009:00 PM
-November 6, 2026 – November 7, 2026
-「STREET FIGHTER AND TEKKEN VS WAFFLE HOUSE & HOOTERS FIGHTING GAME AND CHAIN RESTAURANT RAVE」 [/events/street-fighter-and-tekken-vs-waffle-house-hooters-fighting-game-and-chain-restaurant-rave-11-6-26]
-9:00 PM21:009:00 PM
-November 6, 2026 – November 7, 2026
-Read more → [/events/street-fighter-and-tekken-vs-waffle-house-hooters-fighting-game-and-chain-restaurant-rave-11-6-26]
-9:00 PM21:009:00 PM
-November 6, 2026 – November 7, 2026
-Nov 7
-[/events/dragon-dance-11-7-26]
-2:30 PM – 5:30 PM14:30 – 17:302:30 PM – 5:30 PM
-November 7, 2026
-Dragon Dance! [/events/dragon-dance-11-7-26]
-2:30 PM – 5:30 PM14:30 – 17:302:30 PM – 5:30 PM
-November 7, 2026
-Read more → [/events/dragon-dance-11-7-26]
-2:30 PM – 5:30 PM14:30 – 17:302:30 PM – 5:30 PM
-November 7, 2026
-Nov 7
-[/events/flow-mercy-11-7-26]
-8:00 PM20:008:00 PM
-November 7, 2026 – November 8, 2026
-FLOW MERCY [/events/flow-mercy-11-7-26]
-8:00 PM20:008:00 PM
-November 7, 2026 – November 8, 2026
-Read more → [/events/flow-mercy-11-7-26]
-8:00 PM20:008:00 PM
-November 7, 2026 – November 8, 2026
-Nov 8
-[/events/composition-11-8-26]
-2:30 PM – 6:00 PM14:30 – 18:002:30 PM – 6:00 PM
-November 8, 2026
-Composition [/events/composition-11-8-26]
-2:30 PM – 6:00 PM14:30 – 18:002:30 PM – 6:00 PM
-November 8, 2026
-Read more → [/events/composition-11-8-26]
-2:30 PM – 6:00 PM14:30 – 18:002:30 PM – 6:00 PM
-November 8, 2026
-Nov 8
-[/events/wonderville-karaoke-11-8-26]
-8:00 PM – 11:00 PM20:00 – 23:008:00 PM – 11:00 PM
-November 8, 2026
-Wonderville Karaoke [/events/wonderville-karaoke-11-8-26]
-8:00 PM – 11:00 PM20:00 – 23:008:00 PM – 11:00 PM
-November 8, 2026
-Read more → [/events/wonderville-karaoke-11-8-26]
-8:00 PM – 11:00 PM20:00 – 23:008:00 PM – 11:00 PM
-November 8, 2026
-Nov 9
-[/events/the-variety-show-variety-party-11-9-26]
-7:00 PM19:007:00 PM
-November 9, 2026 – November 10, 2026
-The Variety Show Variety Party! [/events/the-variety-show-variety-party-11-9-26]
-7:00 PM19:007:00 PM
-November 9, 2026 – November 10, 2026
-Read more → [/events/the-variety-show-variety-party-11-9-26]
-7:00 PM19:007:00 PM
-November 9, 2026 – November 10, 2026
-Nov 9
-[/events/the-fort90-broadcast-system-presents-fort90-tv-11-9-26]
-8:00 PM20:008:00 PM
-November 9, 2026 – November 10, 2026
-the FORT90 BROADCAST SYSTEM presents: FORT90 TV [/events/the-fort90-broadcast-system-presents-fort90-tv-11-9-26]
-8:00 PM20:008:00 PM
-November 9, 2026 – November 10, 2026
-Read more → [/events/the-fort90-broadcast-system-presents-fort90-tv-11-9-26]
-8:00 PM20:008:00 PM
-November 9, 2026 – November 10, 2026
-Nov 10
-[/events/bacon-eggs-toons-a-free-animation-screening-presented-by-k-downs-x-bodega-x-bec-11-10-26]
-7:30 PM – 11:00 PM19:30 – 23:007:30 PM – 11:00 PM
-November 10, 2026
-Bacon, Eggs, & Toons - A Free Animation Screening presented by K Downs x BODEGA x BEC [/events/bacon-eggs-toons-a-free-animation-screening-presented-by-k-downs-x-bodega-x-bec-11-10-26]
-7:30 PM – 11:00 PM19:30 – 23:007:30 PM – 11:00 PM
-November 10, 2026
-Read more → [/events/bacon-eggs-toons-a-free-animation-screening-presented-by-k-downs-x-bodega-x-bec-11-10-26]
-7:30 PM – 11:00 PM19:30 – 23:007:30 PM – 11:00 PM
-November 10, 2026
 Nov 11
 [/events/kq-open-hive-night-11-11-26]
 8:00 PM20:008:00 PM
@@ -245,6 +165,86 @@ November 16, 2026
 Read more → [/events/unregistered-hypercam-tales-from-the-aughts-11-16-26]
 8:00 PM – 11:00 PM20:00 – 23:008:00 PM – 11:00 PM
 November 16, 2026
+Nov 16
+[/events/the-fort90-broadcast-system-presents-fort90-tv-11-16-26]
+8:00 PM20:008:00 PM
+November 16, 2026 – November 17, 2026
+the FORT90 BROADCAST SYSTEM presents: FORT90 TV [/events/the-fort90-broadcast-system-presents-fort90-tv-11-16-26]
+8:00 PM20:008:00 PM
+November 16, 2026 – November 17, 2026
+Read more → [/events/the-fort90-broadcast-system-presents-fort90-tv-11-16-26]
+8:00 PM20:008:00 PM
+November 16, 2026 – November 17, 2026
+Nov 17
+[/events/nico-davis-friends-11-17-26]
+8:00 PM20:008:00 PM
+November 17, 2026 – November 18, 2026
+Nico Davis & Friends [/events/nico-davis-friends-11-17-26]
+8:00 PM20:008:00 PM
+November 17, 2026 – November 18, 2026
+Read more → [/events/nico-davis-friends-11-17-26]
+8:00 PM20:008:00 PM
+November 17, 2026 – November 18, 2026
+Nov 18
+[/events/kq-open-hive-night-11-18-26]
+8:00 PM20:008:00 PM
+November 18, 2026 – November 19, 2026
+Killer Queen Open Hive Night [/events/kq-open-hive-night-11-18-26]
+8:00 PM20:008:00 PM
+November 18, 2026 – November 19, 2026
+Read more → [/events/kq-open-hive-night-11-18-26]
+8:00 PM20:008:00 PM
+November 18, 2026 – November 19, 2026
+Nov 19
+[/events/wordhack-11-19-26]
+7:00 PM – 10:00 PM19:00 – 22:007:00 PM – 10:00 PM
+November 19, 2026
+WordHack feat. Kameelah Janan Rasheed, Ramsey Nasser and Jenn Schiffer [/events/wordhack-11-19-26]
+7:00 PM – 10:00 PM19:00 – 22:007:00 PM – 10:00 PM
+November 19, 2026
+Read more → [/events/wordhack-11-19-26]
+7:00 PM – 10:00 PM19:00 – 22:007:00 PM – 10:00 PM
+November 19, 2026
+Nov 20
+[/events/club-massive-jungle-is-hardcore-11-20-26]
+8:00 PM20:008:00 PM
+November 20, 2026 – November 21, 2026
+Club Massive: Jungle Is Hardcore [/events/club-massive-jungle-is-hardcore-11-20-26]
+8:00 PM20:008:00 PM
+November 20, 2026 – November 21, 2026
+Read more → [/events/club-massive-jungle-is-hardcore-11-20-26]
+8:00 PM20:008:00 PM
+November 20, 2026 – November 21, 2026
+Nov 21
+[/events/rhythm-rave-11-21-26]
+2:30 PM – 5:30 PM14:30 – 17:302:30 PM – 5:30 PM
+November 21, 2026
+Rhythm Rave [/events/rhythm-rave-11-21-26]
+2:30 PM – 5:30 PM14:30 – 17:302:30 PM – 5:30 PM
+November 21, 2026
+Read more → [/events/rhythm-rave-11-21-26]
+2:30 PM – 5:30 PM14:30 – 17:302:30 PM – 5:30 PM
+November 21, 2026
+Nov 21
+[/events/dualism-11-21-26]
+9:00 PM21:009:00 PM
+November 21, 2026 – November 22, 2026
+Dualism [/events/dualism-11-21-26]
+9:00 PM21:009:00 PM
+November 21, 2026 – November 22, 2026
+Read more → [/events/dualism-11-21-26]
+9:00 PM21:009:00 PM
+November 21, 2026 – November 22, 2026
+Nov 22
+[/events/flapo-the-flash-laptop-and-phone-orchestra-11-22-26]
+3:00 PM – 5:00 PM15:00 – 17:003:00 PM – 5:00 PM
+November 22, 2026
+FLAPO (the Flash Laptop And Phone Orchestra) [/events/flapo-the-flash-laptop-and-phone-orchestra-11-22-26]
+3:00 PM – 5:00 PM15:00 – 17:003:00 PM – 5:00 PM
+November 22, 2026
+Read more → [/events/flapo-the-flash-laptop-and-phone-orchestra-11-22-26]
+3:00 PM – 5:00 PM15:00 – 17:003:00 PM – 5:00 PM
+November 22, 2026
 
 View all events [https://www.wonderville.nyc/events]
 

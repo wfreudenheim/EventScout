@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-11-08T06:37:20.297Z
+FETCHED:2026-11-11T06:39:56.064Z
 
 Skip to Content
 
@@ -13,8 +13,6 @@ SLIDESHOW
  *
  * https://filmforum.org/film/fatherland
  * https://filmforum.org/film/once-upon-a-time-in-harlem
- * https://filmforum.org/film/the-red-balloon-ffjr-2026
- *
  * https://filmforum.org/film/threeasfour-full-circle
  * https://filmforum.org/film/the-court-jester-ffjr-2026
  *
@@ -46,48 +44,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
- * SUN
- * MON
- * TUE
  * WED
  * THU
  * FRI
  * SAT
-
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-THE RED BALLOON [https://filmforum.org/film/the-red-balloon-ffjr-2026]
-11:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:40 1:30 3:20 4:15 6:00 7:00 8:40
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:45(OC) 2:40 4:40 6:40 8:40
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45(OC) 6:00 8:15
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 1:30 3:00 4:15 5:40 7:00 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25(OC) 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45(OC) 6:00 8:15
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 1:30 3:00 4:15 7:00 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30(OC)
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00(OC) 8:15
-
-Ends Today!NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit]
-MANHATTAN BY NUMBERS [https://filmforum.org/film/manhattan-by-numbers-nyc-in-transit]
-6:00
+ * SUN
+ * MON
+ * TUE
 
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
 12:20 1:30 3:00 4:15 5:40 8:20
@@ -110,9 +73,73 @@ FATHERLAND [https://filmforum.org/film/fatherland]
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
 1:00 3:45 6:00 8:15
 
-Showtimes coming soon!
+Opens Today!threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 4:40 7:00
 
-Showtimes coming soon!
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 6:00 8:15
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 4:40 7:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25(OC) 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45(OC) 6:00 8:15
+
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+THE COURT JESTER [https://filmforum.org/film/the-court-jester-ffjr-2026]
+11:00
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 6:20 8:30
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+1:10 3:40 6:20 8:50
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+1:20(OC) 3:20 5:20 7:20
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45(OC) 6:00 8:15
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 4:40 6:50 9:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 8:00
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:20(OC) 2:20 4:20 6:00 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45(OC) 6:00 8:15
+
+Opens Today!SILENT LUBITSCH [https://filmforum.org/series/silent-lubitsch]
+SO THIS IS PARIS [https://filmforum.org/film/so-this-is-paris-silent-lubitsch]
+6:20
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 4:40 6:50 9:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30(OC) 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 8:50(OC)
 
 Donate [https://donate.filmforum.org/give/]
 
@@ -132,12 +159,6 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-MANHATTAN BY NUMBERS
-INTRODUCED BY STAR JOHN WOJDA  [https://filmforum.org/events/event/manhattan-by-numbers-november-10]
-
-Tuesday, November 10
-6:00
-
 5 SHORT FILMS SUPPORTED BY THE DISPLACEMENT FILM FUND
 HOSTED BY CATE BLANCHETT WITH MARYNA ER GORBACH AND MO HARAWE IN PERSON [https://filmforum.org/events/event/displacement-film-fund-november-11]
 
@@ -148,6 +169,12 @@ THREEASFOUR: FULL CIRCLE
 Q&A WITH FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL [https://filmforum.org/events/event/threeasfour-full-circle-november-13]
 
 Friday, November 13
+7:00
+
+THREEASFOUR: FULL CIRCLE
+Q&A WITH FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL [https://filmforum.org/events/event/threeasfour-full-circle-november-14]
+
+Saturday, November 14
 7:00
 
 GET EMAIL NEWS
@@ -165,21 +192,28 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-THE RED BALLOON [https://filmforum.org/film/the-red-balloon-ffjr-2026]
-11:00
-
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:40 1:30 3:20 4:15 6:00 7:00 8:40
+12:20 1:30 3:00 4:15 5:40 8:20
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-12:45(OC) 2:40 4:40 6:40 8:40
+12:25 2:25 4:30 6:30 8:30
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45(OC) 6:00 8:15
+1:00 3:45
+
+Special Screening!5 Short Films Supported by the Displacement Film Fund [https://filmforum.org/film/displacement-film-fund]
+6:00 7:00
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
+https://filmforum.org/film/displacement-film-fund
+5 Short Films Supported by the Displacement Film Fund
+Hosted by Cate Blanchett with Maryna Er Gorbach and Mo Harawe in person [https://filmforum.org/film/displacement-film-fund]
+
+Wednesday, November 11
+6:00   7:00
+
+Buy Tickets [https://my.filmforum.org/events/displacement-film-fund-shorts]
 https://filmforum.org/film/raise-the-red-lantern
 Zhang Yimou’s
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
@@ -196,37 +230,19 @@ SHOWTIMES & TICKETS [https://my.filmforum.org/events/once-upon-a-time-in-harlem]
 https://filmforum.org/series/film-forum-jr.-series-page#now-playing
 FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
 
-THE RED BALLOON
-Sunday, November 8
+THE COURT JESTER
+Sunday, November 15
 11:00
 
-Films in this Series THE RED BALLOON and Keaton’s THE BOAT (1921) Danny Kaye in
+Films in this Series Danny Kaye in
 THE COURT JESTER Morris Engel & Ruth Orkin’s
 LITTLE FUGITIVE Walt Disney’s
 PINOCCHIO Ingrid Bergman & Bing Crosby in
 THE BELLS OF ST. MARY’S Nancy Meyers’
 THE PARENT TRAP
-https://filmforum.org/series/nyc-in-transit#now-playing
-NYC IN TRANSIT [https://filmforum.org/series/nyc-in-transit#now-playing]
-
-MANHATTAN BY NUMBERS
-Tuesday, November 10
-6:00
-
-Films in this Series Amir Naderi’s
-MANHATTAN BY NUMBERS
 
 COMING SOON [https://filmforum.org/coming_soon]
 
-https://filmforum.org/film/displacement-film-fund
-
-5 SHORT FILMS SUPPORTED BY THE DISPLACEMENT FILM FUND
-HOSTED BY CATE BLANCHETT WITH MARYNA ER GORBACH AND MO HARAWE IN PERSON [https://filmforum.org/film/displacement-film-fund]
-
-Wednesday, November 11
-6:00   7:00
-
-Buy Tickets [https://my.filmforum.org/events/displacement-film-fund-shorts]
 https://filmforum.org/film/threeasfour-full-circle
 
 THREEASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
@@ -250,6 +266,15 @@ Friday, November 20 – Thursday, December 10
 
 Films in this Series ROME, OPEN CITY PAISAN VOYAGE TO ITALY (JOURNEY TO ITALY) L’AMORE GERMANY, YEAR ZERO DOV’È LA LIBERTÀ? (WHERE IS FREEDOM?) THE MAN WITH A CROSS GENERAL DELLA ROVERE LES CARABINIERS THE ROSSELLINIS THE FLOWERS OF ST. FRANCIS EUROPA ’51 STROMBOLI THE MACHINE TO KILL BAD PEOPLE INDIA: MATRI BHUMI FEAR JOAN OF ARC AT THE STAKE JOAN OF ARC ANNO UNO VIVA L’ITALIA!
 Watch Trailer [ https://filmforum.org/series/rossellini#trailer ]
+https://filmforum.org/film/nelly-and-monsieur-arnaud
+
+CLAUDE SAUTET’S
+NELLY AND MONSIEUR ARNAUD [https://filmforum.org/film/nelly-and-monsieur-arnaud]
+
+Tuesday, November 24
+6:10
+
+Buy Tickets [https://my.filmforum.org/nelly-and-monsieur-arnaud]
 https://filmforum.org/film/all-of-a-sudden
 
 ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
@@ -265,20 +290,29 @@ THE COMEDY GENIUS OF SID CAESAR [https://filmforum.org/film/when-caesar-was-king
 Sunday, November 29
 3:30
 
+Buy Tickets [https://my.filmforum.org/when-caesar-was-king-26]
 https://filmforum.org/film/the-friends-house-is-here
 
 THE FRIEND’S HOUSE IS HERE [https://filmforum.org/film/the-friends-house-is-here]
 
 Opens Friday, December 4
 
-Watch Trailer [ https://filmforum.org/film/the-friends-house-is-here#trailer ]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/the-friends-house-is-here] Watch Trailer [ https://filmforum.org/film/the-friends-house-is-here#trailer ]
+https://filmforum.org/film/linnocente
+
+LUCHINO VISCONTI’S
+L’INNOCENTE [https://filmforum.org/film/linnocente]
+
+Friday, December 11 – Thursday, December 17
+
+Watch Trailer [ https://filmforum.org/film/linnocente#trailer ]
 https://filmforum.org/film/to-hold-a-mountain
 
 TO HOLD A MOUNTAIN [https://filmforum.org/film/to-hold-a-mountain]
 
 Opens Wednesday, December 16
 
-Watch Trailer [ https://filmforum.org/film/to-hold-a-mountain#trailer ]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/to-hold-a-mountain] Watch Trailer [ https://filmforum.org/film/to-hold-a-mountain#trailer ]
 
 NEWS AND OFFERS
 

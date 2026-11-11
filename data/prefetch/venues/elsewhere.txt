@@ -1,6 +1,6 @@
 VENUE:elsewhere | Elsewhere
 URL:https://www.elsewhere.club/events
-FETCHED:2026-11-08T06:37:21.470Z
+FETCHED:2026-11-11T06:39:57.007Z
 
 CALENDAR
 
@@ -43,70 +43,6 @@ Genre
  * World
  * Metal
  * Other
-
-Sat, Nov 7
-
-ELSEWHERE PRESENTS: BENWAL, KYLE STARKEY, PAIGE TOMLINSON, STÜM @ 99 SCOTT [/presents/2001092095325]
- * CLUB
- * ↗ ELSEWHERE PRESENTS
-
-10:00 PM
-Buy Tickets [https://www.eventbrite.com/e/elsewhere-presents-benwal-kyle-starkey-paige-tomlinson-stum-99-scott-tickets-2001092095325]
-
-Sat, Nov 7
-
-FLAVA D, DON-RI, MADE TO ORDER: DENDI'S DAD, EJWIZE, IMBUELESS [/events/2001018252459]
- * CLUB
- * FULL VENUE
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/flava-d-don-ri-made-to-order-dendis-dad-ejwize-imbueless-tickets-2001018252459]
-
-Sun, Nov 8
-
-ARDE BOGOTÁ [/events/1990883722808]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/arde-bogota-tickets-1990883722808]
-
-Sun, Nov 8
-
-KYLE HUME, SAMMY RASH [/events/1985726645852]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/kyle-hume-sammy-rash-tickets-1985726645852]
-
-Sun, Nov 8
-
-ATUNE: BACK TO BLACK [/events/2003606756745]
- * LIVE
- * CHATROOM
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/atune-back-to-black-tickets-2003606756745]
-
-Mon, Nov 9
-
-ADULT. + A PLACE TO BURY STRANGERS, KILL ALTERS [/events/1989618769298]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/adult-a-place-to-bury-strangers-kill-alters-tickets-1989618769298]
-
-Tue, Nov 10
-
-SOFIE ROYER - POSTPONED [/events/1995697933241]
- * SOLD OUT
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Join Waitlist [https://www.eventbrite.com/e/sofie-royer-postponed-tickets-1995697933241]
 
 Wed, Nov 11
 
@@ -164,21 +100,21 @@ Buy Tickets [https://www.eventbrite.com/e/cut-copy-dj-rachel-disco-bambino-krist
 
 Sat, Nov 14
 
-MOTHER SOKI, EVIL ADELINE, LOCKIMARA [/events/2002749580909]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/mother-soki-evil-adeline-lockimara-tickets-2002749580909]
-
-Sat, Nov 14
-
 FREAK SLUG, MILA DEGRAY, LUCKY [/events/1992976963748]
  * LIVE
  * THE HALL
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/freak-slug-mila-degray-lucky-tickets-1992976963748]
+
+Sat, Nov 14
+
+MOTHER SOKI, EVIL ADELINE, LOCKIMARA [/events/2002749580909]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/mother-soki-evil-adeline-lockimara-tickets-2002749580909]
 
 Sat, Nov 14
 
@@ -245,12 +181,21 @@ Buy Tickets [https://www.eventbrite.com/e/brooke-candy-bbyafricka-mel-4evr-ticke
 
 Fri, Nov 20
 
-MISS MADELINE [/events/2003920745895]
+MISS MADELINE, SOMEWHERE SPECIAL (DJ SET), CUTE DOOR [/events/2003920745895]
  * LIVE
  * ZONE ONE
 
 7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/miss-madeline-tickets-2003920745895]
+Buy Tickets [https://www.eventbrite.com/e/miss-madeline-somewhere-special-dj-set-cute-door-tickets-2003920745895]
+
+Fri, Nov 20
+
+CHATROOM: JORRELL & KRISTEN LONDON (VINYL SET) - FREE W/ RSVP [/events/2004614002444]
+ * CLUB
+ * CHATROOM
+
+9:00 PM
+Buy Tickets [https://www.eventbrite.com/e/chatroom-jorrell-kristen-london-vinyl-set-free-w-rsvp-tickets-2004614002444]
 
 Fri, Nov 20
 
@@ -263,21 +208,21 @@ Buy Tickets [https://www.eventbrite.com/e/49th-main-dj-set-mona-matsuoka-tre-rey
 
 Sat, Nov 21
 
-SNAKEHIPS, TWOFACED [/events/1993478754618]
+SNAKEHIPS, L3NI, TWOFACED, K.ONE, ANYTHING GOES: TONE TROY + MORE [/events/1993478754618]
  * CLUB
  * FULL VENUE
 
 10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/snakehips-twofaced-tickets-1993478754618]
+Buy Tickets [https://www.eventbrite.com/e/snakehips-l3ni-twofaced-kone-anything-goes-tone-troy-more-tickets-1993478754618]
 
 Wed, Nov 25
 
-DAYBREAK [/events/2003715932292]
+DAYBREAK - WOAH NELLIE, HUGE MILES & TRAVIS GEORGE [/events/2003715932292]
  * CLUB
  * FULL VENUE
 
 10:00 PM
-Buy Tickets [https://www.eventbrite.com/e/daybreak-tickets-2003715932292]
+Buy Tickets [https://www.eventbrite.com/e/daybreak-woah-nellie-huge-miles-travis-george-tickets-2003715932292]
 
 Fri, Nov 27
 
@@ -362,9 +307,63 @@ Buy Tickets [https://www.eventbrite.com/e/daine-eilish-constance-tickets-1997150
 
 Tue, Dec 8
 
+LUNA, STARCLEANER REUNION, JIMMY CICERO [/events/2001389466771]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/luna-starcleaner-reunion-jimmy-cicero-tickets-2001389466771]
+
+Tue, Dec 8
+
 BIKE ROUTES, GOOD SLEEPY [/events/2002813604405]
  * LIVE
  * ZONE ONE
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/bike-routes-good-sleepy-tickets-2002813604405]
+
+Wed, Dec 9
+
+THEY ARE GUTTING A BODY OF WATER, TAXIDERMISTS [/events/2002961522833]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/they-are-gutting-a-body-of-water-taxidermists-tickets-2002961522833]
+
+Fri, Dec 11
+
+SCENIC ROUTE PRESENTS: MARK WILLIAM LEWIS, SLAUSON MALONE 1, OPERELLY +MORE [/events/2003988300954]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/scenic-route-presents-mark-william-lewis-slauson-malone-1-operelly-more-tickets-2003988300954]
+
+Fri, Dec 11
+
+CHATROOM: BLOODSPORTS (DJ SET ) - FREE W/ RSVP [/events/2002961012306]
+ * CLUB
+ * CHATROOM
+
+9:00 PM
+Buy Tickets [https://www.eventbrite.com/e/chatroom-bloodsports-dj-set-free-w-rsvp-tickets-2002961012306]
+
+Fri, Dec 11
+
+ONLY FIRE + GUESTS TBA [/events/2002958858865]
+ * CLUB
+ * FULL VENUE
+
+10:30 PM
+Buy Tickets [https://www.eventbrite.com/e/only-fire-guests-tba-tickets-2002958858865]
+
+Sat, Dec 12
+
+LIP CRITIC & THE HOUSE OF 1,000 DRUMS [/events/2003473419931]
+ * LIVE
+ * FULL VENUE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/lip-critic-the-house-of-1000-drums-tickets-2003473419931]

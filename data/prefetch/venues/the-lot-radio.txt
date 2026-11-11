@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-11-08T06:37:23.249Z
+FETCHED:2026-11-11T06:39:58.131Z
 
 THE LOT RADIO [/]
 
@@ -14,13 +14,41 @@ Search by
  * Next
  * Toggle Mute
 
-TODAY’SLINEUP11.08.2026
+TODAY’SLINEUP11.11.2026
 
 STAFFPICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+NYKSAN
+
+Nyksan
+
+11.09.2026
+
+Techno, Electro, Experimental Electronic, IDM, Alternative Club
+
+ * Play
+ * Detail [/shows/special-guests/2026-11-09-1900]
+ *
+
+/shows/special-guests/2026-11-09-1900
+
+KUSH JONES
+
+Kush Jones
+
+11.07.2026
+
+House, Techno, Dub
+
+ * Play
+ * Detail [/shows/special-guests/2026-11-07-1400]
+ *
+
+/shows/special-guests/2026-11-07-1400
 
 DJ KOOLT
 
@@ -90,76 +118,48 @@ RHR
 
 /shows/special-guests/2026-11-01-2000
 
-STRICTLY GOGO WITH AMAL
-
-Amal
-
-11.01.2026
-
-Funk, Hip Hop, Rnb, Punk
-
- * Play
- * Detail [/shows/special-guests/2026-11-01-1300]
- *
-
-/shows/special-guests/2026-11-01-1300
-
-QENDRESA
-
-QENDRESA
-
-10.31.2026
-
-Rnb, Rap, Baile Funk, Cumbia, Boogie
-
- * Play
- * Detail [/shows/special-guests/2026-10-31-1400]
- *
-
-/shows/special-guests/2026-10-31-1400
-
 FEATUREDRESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * S.Maria
+ * Lise & Vito
    R
-   [/artists/s-maria]
- * Simisea
+   [/artists/lise-and-vito]
+ * Tom Noble
    R
-   [/artists/simisea]
- * J. Russ
+   [/artists/tom-noble]
+ * Keith Fullerton Whitman
    R
-   [/artists/j-russ]
+   [/artists/keith-fullerton-whitman]
+ * Samer Ghadry
+   R
+   [/artists/samer-ghadry]
+ * Dull Tools
+   R
+   [/artists/dull-tools]
+ * Russell E. L. Butler
+   R
+   [/artists/russell-e-l-butler]
+ * The Dance Pit
+   R
+   [/artists/the-dance-pit]
+ * Tristan Arp
+   R
+   [/artists/tristan-arp]
+ * Eli Goldstein
+   R
+   [/artists/eli-goldstein]
+ * Black Rave Culture
+   R
+   [/artists/black-rave-culture]
+ * MoMA Ready
+   R
+   [/artists/moma-ready]
  * Ryan Schreiber
    R
    [/artists/ryan-schreiber]
- * Off-Brand
-   R
-   [/artists/off-brand]
- * Uptown Vinyl Supreme
-   R
-   [/artists/uptown-vinyl-supreme]
- * Boston Chery
-   R
-   [/artists/boston-chery]
- * Dan Tager
-   R
-   [/artists/dan-tager]
- * Pique-nique
-   R
-   [/artists/pique-nique]
- * ciringe
-   R
-   [/artists/ciringe]
- * Nabihah Iqbal
-   R
-   [/artists/nabihah-iqbal]
- * Jason Evans
-   R
-   [/artists/jason-evans]
 
 WE ARE THE LOT RADIO
 
@@ -173,30 +173,36 @@ About us [/about]
    RESTREAM
 
  * 10am — 12pm
-   Roulette Intermedium
+   Pique-nique A.M.
 
- * 12pm — 1pm
-   Signal To Noise with Ida B
-   Experimental, Ambient, Experimental Electronic, Lo-fi
- * 1pm — 2pm
-   Hayes Bradley b2b Very J
+ * 12pm — 2pm
+   untitled (halo)
 
  * 2pm — 3pm
-   Dj Nico
-   Breaks
+   EMA
+
  * 3pm — 4pm
-   Positive Reality with Marcus
+   That Good Sh*t Radio with Linda Diaz
 
- * 4pm — 6pm
-   Moods & Grooves with Cam and Sean
-   Disco, Jazz, Reggae, Funk, Soul
- * 6pm — 8pm
-   Teeyam
-   Experimental Electronic, Downtempo, Techno, Acid
- * 8pm — 10pm
-   BRIAN SEARS
+ * 4pm — 5pm
+   Jio
 
- * 10pm — 11pm
-   Softgel Sunday
+ * 5pm — 6pm
+   Regal86
+
+ * 6pm — 7pm
+   the x3butterfly effect invites asha & runa
+   Techno, Breaks
+ * 7pm — 8pm
+   Divaa, Where's my Purse? with Kilopatrah Jones
+
+ * 8pm — 9pm
+   Courtney Bailey
+   House, Techno, Acid, Dub
+ * 9pm — 11pm
+   Mind Cargo Takeover: Alien D b2b fleet.dreams, DJ Female
+
+ * 11pm — 12am
+   Restream
 
 THE LOT RADIO

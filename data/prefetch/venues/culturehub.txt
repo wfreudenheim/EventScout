@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-11-08T06:37:10.078Z
+FETCHED:2026-11-11T06:39:46.341Z
 
 CULTUREHUB [/]
 
@@ -30,6 +30,14 @@ Tethering: An Arcade with Deep Soul Ties [/events/tethering-an-arcade-with-deep-
 A game show that cultivates ardent ties to people, aliens, angels, land, and music. Tickets → [https://culturehub.org/events/tethering-an-arcade-with-deep-soul-ties]
 
 Read more → [/events/tethering-an-arcade-with-deep-soul-ties]
+
+Nov 13
+[/events/tiresias-presents-new-weird-future]
+LIVESTREAM | Tiresias Presents New Weird Future [/events/tiresias-presents-new-weird-future]
+
+CultureHub produces monthly livestreams of La MaMa productions using our new broadcasting tool, the CultureHub Broadcaster. Tickets → [https://culturehub.org/events/tiresias-presents-new-weird-future]
+
+Read more → [/events/tiresias-presents-new-weird-future]
 
 Nov 21
 [/events/we-talked-a-door-into-being]

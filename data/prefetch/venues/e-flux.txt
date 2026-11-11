@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-11-08T06:37:11.186Z
+FETCHED:2026-11-11T06:39:47.672Z
 
 Subscribe
 
@@ -37,13 +37,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783397/here-already/
-
-Current & Upcoming
-Here, Already [/events/6783397/here-already/]
-November 10, 2026, 7pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/here-already-tickets-2003581975624]
 /events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/
 
 Current & Upcoming
@@ -98,15 +91,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-In-person, Screenings
-/events/6783397/here-already/
-
-Here, Already
-
-[/events/6783397/here-already/]
-November 10, 2026, 7pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/here-already-tickets-2003581975624]
 Screenings, In-person, Talks
 /events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/
 
@@ -146,6 +130,14 @@ e-flux
 Get tickets [https://www.eventbrite.com/e/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler-tickets-2004033514188]
 Archive
 
+In-person, Screenings
+/events/6783397/here-already/
+
+Here, Already
+
+[/events/6783397/here-already/]
+November 10, 2026, 7pm
+e-flux Screening Room
 In-person, Screenings, Talks
 /events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/
 
@@ -154,14 +146,6 @@ With an Acre — An Afternoon with the CCA
 [/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/]
 November 7, 2026, 3pm
 e-flux Screening Room
-In-person
-/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/
-
-Bar Laika presents Playback 0041 with Smalltown Supersound
-
-[/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/]
-November 5, 2026, 7pm
-Bar Laika by e-flux
 In-person, Screenings, Talks
 /events/6783399/la-merde-the-mole-nbsp/
 
@@ -172,12 +156,12 @@ La Merde! The Mole!
 [/events/6783399/la-merde-the-mole-nbsp/]
 November 5, 2026, 7pm
 e-flux Screening Room
-Talks, In-person
-/events/6783405/celebrating-10-years-of-e-flux-architecture/
+In-person
+/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/
 
-Celebrating 10 Years of e-flux Architecture
+Bar Laika presents Playback 0041 with Smalltown Supersound
 
-[/events/6783405/celebrating-10-years-of-e-flux-architecture/]
-November 4, 2026, 6:30pm
-Columbia University Graduate School of Architecture, Planning and Preservation
+[/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/]
+November 5, 2026, 7pm
+Bar Laika by e-flux
 Load more

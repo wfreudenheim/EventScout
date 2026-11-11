@@ -1,6 +1,6 @@
 VENUE:moma-ps1 | MoMA PS1
 URL:https://www.momaps1.org/en/calendar
-FETCHED:2026-11-08T06:37:14.405Z
+FETCHED:2026-11-11T06:39:50.747Z
 
 Skip to content
 EN [/en/calendar?save_locale=true] ES [/es/calendar?save_locale=true]
@@ -102,9 +102,8 @@ Close
 Close
 
 Change Date
-Today, Sun, Nov 8
-Open
-12–6 p.m.
+Today, Wed, Nov 11
+The building is closed today
 Expand All Collapse all
 MoMA PS1
 

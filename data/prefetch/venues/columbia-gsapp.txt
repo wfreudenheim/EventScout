@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-11-08T06:37:20.384Z
+FETCHED:2026-11-11T06:39:55.895Z
 
 /
  * The School
@@ -850,8 +850,8 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=31&month=10&time_range=week&year=2026 /events?day=16&month=11&time_range=week&year=2026
-Nov 8 – Nov 15
+/events?day=3&month=11&time_range=week&year=2026 /events?day=19&month=11&time_range=week&year=2026
+Nov 11 – Nov 18
 Week
 [/events?time_range=week]
 Month
@@ -859,63 +859,21 @@ Month
 Semester
 [/events?time_range=semester]
 
-Mon, Nov 9    11am
-
-Resume & Spring 2027 Recruiting Preparation Workshop
-
-Career Services
-
-New York
-
-[/events/2658-resume-spring-2027-recruiting-preparation-workshop]
-
-Tue, Nov 10    9am
-
-Tuesday Talks
-
-Alumni
-
-New York, Virtual
-
-[/events/4278-tuesday-talks]
-
-Tue, Nov 10    9am
-
-Virtual
-
-Fall 2026 Online Info Session: PhD in Historic Preservation
-
-[/events/4369-fall-2026-online-info-session-ph-d-in-historic-preservation]
-
-Tue, Nov 10    1:30pm
-
-The Lecture in Planning Series (LiPS) Panel
-
-Lecture
-
-New York
-
-[/events/4379-the-lecture-in-planning-series-li-ps-panel]
-
-Tue, Nov 10    5pm
-
-[/events/4305]
-
-Tue, Nov 10    5pm
-
-Virtual
-
-GSAPP Admissions Info Session
-
-[/events/4306-gsapp-admissions-info-session]
-
-Wed, Nov 11    12:15pm
+Today at 12:15pm
 
 The Encounters Series: “Ibero-American Patterns”
 
 [/events/4377-the-encounters-series-ibero-american-patterns]
 
-Wed, Nov 11    2pm
+Today at 1pm
+
+Brick, Mortar, and Memory: Architecture and Placemaking in Jackson Ward
+
+Preservation Lecture Series
+
+[/events/4284-brick-mortar-and-memory-architecture-and-placemaking-in-jackson-ward]
+
+Today at 2pm
 
 Resume & Spring 2027 Recruiting Preparation Workshop
 
@@ -925,7 +883,7 @@ New York
 
 [/events/4375-resume-spring-2027-recruiting-preparation-workshop]
 
-Wed, Nov 11    6pm
+Today at 6pm
 
 Virtual
 
@@ -933,7 +891,7 @@ Fall 2026 Online Info Session: PhD in Architecture
 
 [/events/4368-fall-2026-online-info-session-ph-d-in-architecture]
 
-Wed, Nov 11    6:15pm
+Today at 6:15pm
 
 Distinguished Leaders: A conversation with Laurie Golub, Chief Operating Officer of Affinius Capital
 
@@ -978,3 +936,23 @@ CONSTRUCTING (unorthodox) PRACTICE
 Conference
 
 [/events/4283-constructing-unorthodox-practice]
+
+Mon, Nov 16    6:30pm
+
+Alumni Conversations: Karl Wadia ‘06 MSAAD
+
+Alumni
+
+New York
+
+[/events/4371-alumni-conversations-karl-wadia-06-msaad]
+
+Tue, Nov 17    8:30pm
+
+World Architecture Festival / GSAPP Dinner
+
+Alumni
+
+New York
+
+[/events/4372-world-architecture-festival-gsapp-dinner]
