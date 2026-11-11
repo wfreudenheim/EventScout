@@ -1,174 +1,27 @@
-# Event Scout · Week of Sun, Nov 8
+# Event Scout · Week of Wed, Nov 11
 
-135 events scoring 3+ from Sun, Nov 8 to Sun, Nov 15.
+135 events scoring 3+ from Wed, Nov 11 to Wed, Nov 18.
 
 ## Top picks
 
-- **Sun, Nov 8 · 1pm** — Small File Media Festival: Screening and Workshop (5)  
-  Museum of the Moving Image · Astoria · free  
-  First New York appearance of the Small File Media Festival, bringing together artists pioneering small-file eco-media; a screening followed by a workshop on video compression techniques.
-- **Mon, Nov 9 · 6pm** — [DURATIONS: Triple Canopy presents Civic Crash Course with Chloë Bass, Jeremy Toussaint-Baptiste, Hal Foster](https://link.dice.fm/Ua4a0f349521) (5)  
+- **Wed, Nov 11 · 7pm** — [DURATIONS: William Basinski, Chantal Michelle](https://link.dice.fm/V1e99becf1b8) (5)  
   Public Records · Gowanus  
-  Part of the DURATIONS festival: arts/critical-theory publication Triple Canopy hosts a discussion with artists Chloë Bass and Jeremy Toussaint-Baptiste and critic Hal Foster.
-- **Mon, Nov 9 · 7pm** — [DURATIONS: William Basinski + Cholla](https://link.dice.fm/e57306599f8c) (5)  
+  Part of the DURATIONS festival: a third night of ambient work from William Basinski.
+- **Wed, Nov 11** — [adaku, part 2 (Okwui Okpokwasili + Peter Born)](https://www.bam.org/dance/2026/adaku2) (5)  
+  Brooklyn Academy of Music · Fort Greene  
+  Rendering spiritual awakening through hypnotic sound, song, and movement.
+- **Thu, Nov 12 · 6pm** — [DURATIONS: Acid Horizon presents Civilization Is Over with Emma Stamm, Stuart Kendall, essentialsalts](https://link.dice.fm/ee6fb19cbb45) (5)  
   Public Records · Gowanus  
-  Tape-loop legend William Basinski (The Disintegration Loops) performs in the Sound Room as part of Public Records' DURATIONS festival; second night Nov 10 with muein.
-- **Mon, Nov 9** — [Triple Canopy Symposium 2026 (Nov 9–15, Public Records + Roulette)](https://www.canopycanopycanopy.com/) (5)  
-  Triple Canopy · Chinatown  
-  Five days of conversations, performances, and festivities with Critical Minded; Nov 9–10 at Public Records (part of the Durations festival), Nov 13–15 at Roulette. Lineup and registration TBA.
-- **Tue, Nov 10 · 7pm** — [DURATIONS: William Basinski, muein](https://link.dice.fm/rb97ee1b56f3) (5)  
+  Part of the DURATIONS festival: the continental-philosophy collective Acid Horizon hosts a discussion on civilizational collapse.
+- **Thu, Nov 12 · 7pm** — [DURATIONS: Ballet: buttechno, Matana Roberts, Klein, Significant Other](https://link.dice.fm/Uf3b609e4a5b) (5)  
   Public Records · Gowanus  
-  Part of the DURATIONS festival: a second night of ambient/tape-loop work from William Basinski.
-- **Tue, Nov 10 · 7pm** — [Trust & Safety: Artistic Expression vs. Platform Censorship](https://www.eai.org) (5)  
-  Electronic Arts Intermix · Chelsea · free  
-  A screening of challenging works by Peggy Ahwesh, Alex Bag, Ellen Cantor, Barbara Hammer, and Muntadas from EAI's collection, selected in relation to Vimeo's content moderation policies, followed by a conversation with…
-
-## Sunday, November 8
-
-- **12:40pm** — [RAISE THE RED LANTERN](https://filmforum.org/film/raise-the-red-lantern) (3)  
-  Film Forum · West Village · $18 general / $12 member  
-  Repertory run of Zhang Yimou's 1991 Chinese drama, playing through Thursday, November 19.
-- **1pm** — Small File Media Festival: Screening and Workshop (5)  
-  Museum of the Moving Image · Astoria · free  
-  First New York appearance of the Small File Media Festival, bringing together artists pioneering small-file eco-media; a screening followed by a workshop on video compression techniques.
-- **2pm** — Improvisation, Archive and Homage Symposium (Day 2) (4)  
-  The Kitchen · Chelsea  
-  Second day of the two-day symposium on improvisation, archive, and homage, part of Josiah McElheny: Instrument Object, with musicians and composers Claire Chase, Mary Halvorson, Ikue Mori, Tomeka Reid, Jason Moran, and…
-- **3:30pm** — Clube do Choro with Regional Samauma (3)  
-  Barbès · Park Slope  
-  A weekly choro jam in Barbès' front room with a rotating cast of the finest Brazilian musicians.
-- **5pm** — [Berlin Super 80: Films from the West German Underground](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62280) (4)  
-  Anthology Film Archives · East Village  
-  A compilation program of experimental Super 8 films from the 1980s West German underground film scene.
-- **6pm** — [Changing Lanes & Anti-Car Films](https://interferencearchive.org/event/changing-lanes-anti-car-films/) (3)  
-  Interference Archive · Gowanus  
-  A screening of four documentaries exploring how social movements have challenged the commodification and policing of urban mobility and pushed back against car-centric city design; doors 5:30pm, pre-show 6pm, main…
-- **6pm** — Ben Monder / Theo Bleckmann (3)  
-  Barbès · Park Slope  
-  A duo performance of electric guitar and effected vocals.
-- **6pm** — [Lucía Hinojosa Gaxiola: "Sonando Gravedad" Album Release (preceded by Stepančić.Gidron)](https://microscopegallery.com/lucia-honijosa-gaxiola-album-release/) (3)  
-  Microscope Gallery · Bushwick  
-  Album release performance by Lucía Hinojosa Gaxiola for "Sonando Gravedad," preceded by a set from Stepančić.Gidron (Teodora Stepančić & Assaf Gidron), at Microscope Gallery.
-- **7:30pm** — [Farah Siraj featuring Javier Limón: 'Miel y Limón'](https://www.worldmusicinstitute.org) (4)  
-  DROM · East Village  
-  WMI Collaborations series concert previewing Farah Siraj's forthcoming album Miel y Limón, produced by 10-time Grammy winner Javier Limón.
-- **8pm** — Bia Ferreira (3)  
-  Nublu  
-  Brazilian singer, songwriter, multi-instrumentalist, and artivist Bia Ferreira performs.
-- [Josiah McElheny: Instrument Object](https://thekitchen.org/on-view/instrument-object/) (4)  
-  The Kitchen · Chelsea  
-  An exhibition by Josiah McElheny on view September 10 through November 8, exploring musical instruments as sculptural objects at the intersection of sound and visual art.
-- [Farah Siraj 'Miel y Límon'](https://worldmusicinstitute.org) (3)  
-  DROM · East Village  
-  World Music Institute concert blending Jordanian and Latin musical traditions.
-- [A Sunday Assembly with Fred Moten and Jordan Jones](https://www.maysles.org/calendar/sunday-assembly-fred-moten-jordan-jones) (4)  
-  Maysles Documentary Center · Harlem  
-  A conversation/reading event featuring poet and critical theorist Fred Moten alongside Jordan Jones, part of Maysles' Sunday Assembly series.
-- The Greatest Story Ever (4)  
-  La MaMa · East Village  
-  Paul Budraitis performs an intimate blend of sci-fi and lo-fi theater about a spaceship pilot who refuses to come home; running Oct 29-Nov 8 at La MaMa.
-- [SHEFFA MUSIC TRIO | Candombe Jazz Concert & Jam | First Set](https://www.terraza7.com/detalles-y-registro/sheffa-music-trio-candombe-jazz-concert-jam-first-set-2) (3)  
-  Terraza 7 · Elmhurst  
-  Sheffa Music Trio performs Candombe jazz, fusing Afro-Uruguayan candombe rhythms with jazz, followed by a jam.
-- [SHEFFA MUSIC TRIO | Candombe Jazz Night | Second Set Jam Session](https://www.terraza7.com/detalles-y-registro/sheffa-music-trio-candombe-jazz-night-second-set-jam-session-2) (3)  
-  Terraza 7 · Elmhurst  
-  Sheffa Music Trio continues their Candombe jazz night with a second-set jam session blending Afro-Uruguayan rhythms with jazz.
-- [Form, Shadow, Motion: Selections from the Burger Collection, Hong Kong](https://drawingcenter.org/exhibitions/form-shadow-motion) (3)  
-  The Drawing Center · SoHo  
-  Group exhibition of works on paper from the Burger Collection, Hong Kong, exploring form, shadow, and motion through drawing; on view through January 24, 2027.
-- [I Can Steal Your Mother](https://www.bricktheater.com/event/i-can-steal-your-mother/2026-11-08/) (3)  
-  The Brick · Williamsburg · $25-50  
-  A fully-illustrated, autobiographical comedy hour from artist/comedian Max Wittert, composed of over 1,200 original drawings presented as a surreal live storytime; running through November 15.
-
-## Monday, November 9
-
-- **6pm** — [DURATIONS: Civic Crash Course — Chloë Bass, Jeremy Toussaint-Baptiste, Hal Foster](https://link.dice.fm/Ua4a0f349521) (4)  
-  Public Records · Gowanus  
-  Discussion on civic engagement and duration in art with artist Chloë Bass, sound artist Jeremy Toussaint-Baptiste, and critic Hal Foster. DURATIONS festival, Public Records.
-- **6pm** — [DURATIONS: Triple Canopy presents Civic Crash Course with Chloë Bass, Jeremy Toussaint-Baptiste, Hal Foster](https://link.dice.fm/Ua4a0f349521) (5)  
-  Public Records · Gowanus  
-  Part of the DURATIONS festival: arts/critical-theory publication Triple Canopy hosts a discussion with artists Chloë Bass and Jeremy Toussaint-Baptiste and critic Hal Foster.
-- **6:30pm** — Amos Gitai & the Challenge of Archives (3)  
-  LIVE from NYPL · Midtown  
-  Filmmaker Amos Gitai discusses his book on archives and his lectures at the Collège de France, accompanied by a screening of his short film The Book of Amos.
-- **7pm** — [DURATIONS: William Basinski + Cholla](https://link.dice.fm/e57306599f8c) (5)  
-  Public Records · Gowanus  
-  Tape-loop legend William Basinski (The Disintegration Loops) performs in the Sound Room as part of Public Records' DURATIONS festival; second night Nov 10 with muein.
-- **7pm** — [DURATIONS Festival 2026](https://link.dice.fm/B0381fb292fc) (4)  
-  Public Records · Gowanus  
-  Opening of the multi-day DURATIONS Festival at Public Records, spanning experimental music, talks, and interdisciplinary programming through November 15.
-- **7pm** — [ADULT. + A Place to Bury Strangers, Kill Alters](https://www.elsewhere.club/events/1989618769298) (3)  
-  Elsewhere · Bushwick  
-  Electro-industrial/noise pioneers ADULT. co-headline with noise-rock/shoegaze act A Place to Bury Strangers, plus experimental noise project Kill Alters, at The Hall.
-- **8pm** — [Christeene + Geo Wyex](https://www.poetryproject.org/events/christeene-geo-wyex) (4)  
-  The Poetry Project · East Village · $10  
-  A reading pairing performance artist Christeene with Geo Wyex at The Poetry Project.
-- **8pm** — [the FORT90 BROADCAST SYSTEM presents: FORT90 TV](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-9-26) (3)  
-  Wonderville · Bushwick  
-  Another installment of the FORT90 Broadcast System's video/film programming night at Wonderville.
-- [Triple Canopy Symposium 2026 (Nov 9–15, Public Records + Roulette)](https://www.canopycanopycanopy.com/) (5)  
-  Triple Canopy · Chinatown  
-  Five days of conversations, performances, and festivities with Critical Minded; Nov 9–10 at Public Records (part of the Durations festival), Nov 13–15 at Roulette. Lineup and registration TBA.
-- [Movement Research at the Judson Church | Nov 9, 2026](https://movementresearch.org/events/1471/) (4)  
-  Movement Research · East Village  
-  Performance program at Judson Church featuring Laura Coe and Ángel De Paz, Chloë Engel, Bao Nguyen, and Dahlia Qumhiyeh.
-
-## Tuesday, November 10
-
-- **1pm** — [The New Social Environment: Imagining an Archipelago](https://brooklynrail.org) (3)  
-  The Brooklyn Rail · Online/Various  
-  Curator Jessamine Batario and artists Juana Valdés, Thea Canlas, Isa Gagarin, and Mariana Ramos Ortiz discuss Imagining an Archipelago: Art from Cuba, Guam, the Philippines, Puerto Rico, and Their Diasporas.
-- **1:30pm** — [The Lecture in Planning Series (LiPS) Panel](https://www.arch.columbia.edu/events/4379-the-lecture-in-planning-series-li-ps-panel) (3)  
-  Columbia GSAPP · Morningside Heights  
-  A panel discussion in GSAPP's Lecture in Planning Series, part of the Urban Planning program.
-- **5pm** — Framing America: Portraiture, Identity, and Belonging (3)  
-  Flushing Town Hall · Flushing · free  
-  Closing reception and panel discussion with participating photographers from Portraits of America, moderated by curator Stephanie S. Lee, exploring identity, representation, and belonging through portraiture.
-- **6pm** — [World Trade Center Transportation Master Planning and Design: 25 Years Later](https://calendar.aiany.org/2026/11/10/world-trade-center-transportation-master-planning-and-design-25-years-later/) (3)  
-  Center for Architecture / AIA New York · Greenwich Village  
-  A talk revisiting the master-plan framework for Lower Manhattan transportation systems established after 9/11, reflecting 25 years on from the rebuilding of the World Trade Center site.
-- **6pm** — [MANHATTAN BY NUMBERS](https://filmforum.org/film/manhattan-by-numbers-nyc-in-transit) (4)  
-  Film Forum · West Village · $18 general / $12 member  
-  Final screening in the 'NYC in Transit' series of Amir Naderi's 1993 independent film about New York City, introduced in person by star John Wojda.
-- **6:30pm** — [AI and India: Navigating the AI Revolution](https://asiasociety.org/new-york) (3)  
-  Asia Society · Upper East Side  
-  A panel on how India can use AI to expand opportunity while managing risks to workers, inequality, and democratic institutions.
-- **7pm** — [DURATIONS: William Basinski, muein](https://link.dice.fm/rb97ee1b56f3) (5)  
-  Public Records · Gowanus  
-  Part of the DURATIONS festival: a second night of ambient/tape-loop work from William Basinski.
-- **7pm** — [Hurricane in the Fog Machine](https://canopycanopycanopy.com) (4)  
-  Public Records · Gowanus  
-  Jesús Hilario-Reyes & Benjamin Krusling with Mira Dayal discuss sirens, emergency signals, transmission, and transcendence — on the street and in the club. Part of the Triple Canopy Symposium, presented with Durations.
-- **7pm** — [Trust & Safety: Artistic Expression vs. Platform Censorship](https://www.eai.org) (5)  
-  Electronic Arts Intermix · Chelsea · free  
-  A screening of challenging works by Peggy Ahwesh, Alex Bag, Ellen Cantor, Barbara Hammer, and Muntadas from EAI's collection, selected in relation to Vimeo's content moderation policies, followed by a conversation with…
-- **7pm** — [Stanley Wolukau-Wanambwa: Henry Wolf Chair in Photography Artist Talk](https://cooper.edu/index.php/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk) (3)  
-  Cooper Union · East Village  
-  Photographer and critic Stanley Wolukau-Wanambwa delivers an artist talk as the Henry Wolf Chair in Photography at Cooper Union.
-- **7:30pm** — [Keiji Haino Solo & Duo with Loren Connors](https://www.blankforms.org/events/keiji-haino-solo-duo-with-loren-connors) (5)  
+  Part of the DURATIONS festival: experimental sound artists buttechno, Matana Roberts and Klein perform.
+- **Thu, Nov 12 · 7:30pm** — [Keiji Haino & Special Guest](https://www.blankforms.org/events/keiji-haino-special-guest) (5)  
   Blank Forms · Clinton Hill  
-  Legendary Japanese noise/free-improvisation artist Keiji Haino performs solo and in duo with guitarist Loren Connors at Blank Forms. Doors 6:30pm, performance 7:30pm.
-- **7:30pm** — [Bacon, Eggs, & Toons - A Free Animation Screening presented by K Downs x BODEGA x BEC](https://www.wonderville.nyc/events/bacon-eggs-toons-a-free-animation-screening-presented-by-k-downs-x-bodega-x-bec-11-10-26) (4)  
-  Wonderville · Bushwick · free  
-  A free animation screening night presented by K Downs, BODEGA, and BEC at Wonderville.
-- [Correspondences: de Appel 1975–2025](https://www.printedmatter.org/programs/events/2333) (3)  
-  Printed Matter · Chelsea  
-  A program and archival display exploring 50 years of de Appel, the pioneering Amsterdam experimental art space.
-- [Portraits of America Exhibition](https://www.flushingtownhall.org/show-details/portraits-of-america-exhibition) (3)  
-  Flushing Town Hall · Flushing  
-  Group photography exhibition bringing together portraits of individuals whose distinct histories, cultural backgrounds, and lived experiences reflect the evolving idea of American identity. On view Oct 12 - Nov 10, 2026.
-- Paprika (35mm) — Anime After Dark (3)  
-  Nitehawk Cinema · Williamsburg  
-  35mm screenings of Satoshi Kon's final film Paprika, part of monthly Anime After Dark series. Also screens 11/16.
-- Félix Zurita's Caminos del Silencio (4)  
-  Light Industry · Brooklyn  
-  A screening of Félix Zurita's Caminos del Silencio, introduced by critic Tobi Haslett, as part of Light Industry's ongoing program of rare and avant-garde film presentations.
-- J. Hoberman: Across the Movi-verse (3)  
-  Anthology Film Archives · East Village  
-  Two curated evenings of film criticism and screenings guest-curated by critic J. Hoberman, celebrating publication of his new essay collection.
-- [The 2nd IndieChina Film Festival](https://www.filmlinc.org) (3)  
-  Film at Lincoln Center · Upper West Side  
-  Underground documentaries, hybrid works, and narrative features by U-Wei Bin HajiSaari, Tan Chui Mui, Zhao Dayong and more, reflecting authenticity, innovation, and social critique. Runs through Nov 15.
+  Second night of Keiji Haino's New York residency at Blank Forms, performing with a special guest. Doors 6:30pm, performance 7:30pm.
+- **Thu, Nov 12** — [Eiko Ishibashi](https://www.eventbrite.com/e/eiko-ishibashi-tickets-1998215661835) (5)  
+  Pioneer Works · Red Hook  
+  GIFT: A Live Score by Eiko Ishibashi & Film by Ryusuke Hamaguchi
 
 ## Wednesday, November 11
 
@@ -178,6 +31,9 @@
 - **12:15pm** — [The Encounters Series: "Ibero-American Patterns"](https://www.arch.columbia.edu/events/4377-the-encounters-series-ibero-american-patterns) (3)  
   Columbia GSAPP · Morningside Heights  
   A talk in GSAPP's Encounters Series examining Ibero-American architectural and spatial patterns.
+- **1pm** — [Brick, Mortar, and Memory: Architecture and Placemaking in Jackson Ward](https://www.arch.columbia.edu/events/4284-brick-mortar-and-memory-architecture-and-placemaking-in-jackson-ward) (4)  
+  Columbia GSAPP · Morningside Heights  
+  A Preservation Lecture Series talk on architecture and placemaking in Richmond's historic Jackson Ward neighborhood.
 - **6pm** — [DURATIONS: Breadtree Farms presents Remember, We Are Born In The Garden with Meredith Graves](https://link.dice.fm/ta4226949b96) (4)  
   Public Records · Gowanus  
   DURATIONS Festival talk on ecology and land/food systems presented by Breadtree Farms with musician/writer Meredith Graves.
@@ -211,6 +67,9 @@
 - **7pm** — [Brooklyn Maqam presents: Tan Haw](https://www.barbesbrooklyn.com) (3)  
   Barbès · Park Slope  
   New interpretations of traditional Iranian classic ballads (Tasnifs).
+- **7pm** — [Film Series | Moonless March](https://swissinstitute.net/programs/film-series-marching-with-the-kasama) (3)  
+  Swiss Institute · East Village  
+  A film screening in Swiss Institute's program series, screened in connection with its offsite exhibition program.
 - **8pm** — [Matana Roberts Presents: "Off the Record..."](https://roulette.org/event/matana-roberts-presents-off-the-record/) (3)  
   Roulette · Boerum Hill · $25  
   A new live solo performance from the world of the COIN COIN project, moving between memory, imagination, and lived experience.
@@ -244,12 +103,18 @@
 - **9am** — [NY-NJ Harbor & Estuary Program Conference 2026](https://www.eventbrite.com/e/ny-nj-harbor-estuary-program-conference-2026-tickets-1992075422213) (3)  
   CUNY Graduate Center · Midtown  
   Conference on the NY-NJ Harbor and Estuary — water, infrastructure, and ecology of the harbor. CUNY Graduate Center.
+- **12:15pm** — Thursday Lecture Series: Prophetic Curves: Graphic Methods of Statistical Prediction Around 1900 (3)  
+  Columbia Society of Fellows / Heyman Center · Morningside Heights · free  
+  Hannah Pivo examines the early history of statistical/mathematical curves as forecasting tools, arguing confidence in these graphic methods relied on geometric practice and emergent historical notions as much as…
 - **12:45pm** — [MSRED Architect-Developer Dialogue: Claire Weisz, WXY + Sally Gilliland, Hudson Properties](https://www.arch.columbia.edu/events/4354-msred-architect-developer-dialogue-claire-weisz-wxy-sally-gilliland-hudson-properties) (3)  
   Columbia GSAPP · Morningside Heights  
   A dialogue between architect Claire Weisz (WXY) and developer Sally Gilliland (Hudson Properties) on the intersection of architecture and real estate development in New York.
 - **1pm** — [The New Social Environment: The Bowery: Devil's Mile](https://brooklynrail.org) (3)  
   The Brooklyn Rail · Online/Various  
   Curators Lisa Phillips and Thalia Stefaniuk join curator Anthony Huberman for a conversation on the occasion of The Bowery: Devil's Mile, on view at the New Museum, exploring the history of the Bowery.
+- **4:15pm** — Sparking (and Sustaining) Climate Action: Individual Changes and Systemic Responses (3)  
+  Columbia Society of Fellows / Heyman Center · Morningside Heights · free  
+  A roundtable of scholars, activists, and scholar-activists discussing successful strategies and ongoing challenges in catalyzing and scaling up climate action.
 - **6pm** — [DURATIONS: Acid Horizon presents Civilization Is Over with Emma Stamm, Stuart Kendall, essentialsalts](https://link.dice.fm/ee6fb19cbb45) (5)  
   Public Records · Gowanus  
   Part of the DURATIONS festival: the continental-philosophy collective Acid Horizon hosts a discussion on civilizational collapse.
@@ -277,6 +142,9 @@
 - **7pm** — [DURATIONS: Ballet: buttechno, Klein, Matana Roberts & Lesley Mok, Significant Other](https://link.dice.fm/Uf3b609e4a5b) (4)  
   Public Records · Gowanus  
   An avant-garde music lineup featuring experimental producer buttechno, genre-defying artist Klein, and experimental jazz saxophonist Matana Roberts with Lesley Mok, at the DURATIONS festival.
+- **7pm** — [Postcolonial Motion: Taxis and Travelogues](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62218) (4)  
+  Anthology Film Archives · East Village  
+  Screening program examining postcolonial mobility and travel through essay films and travelogues.
 - **7:30pm** — [Daily Diversions (World Premiere)](https://abronsartscenter.org/programs/dailydiversions) (3)  
   Abrons Arts Center · Lower East Side  
   Cherrie Yu premieres a new performance work at Abrons Arts Center, running November 12–14.
@@ -322,6 +190,12 @@
 - **6pm** — [DURATIONS: In Conversation with Meredith Graves](https://link.dice.fm/Y64d64669e75) (3)  
   Public Records · Gowanus  
   A conversation with musician and cultural critic Meredith Graves, part of the DURATIONS festival programming.
+- **6:30pm** — [Live Music by Emily A. Sprague and Leya](https://whitney.org/events/emily-sprague-leya) (4)  
+  Whitney Museum of American Art · Meatpacking · free  
+  Ambient/modular-synth artist Emily A. Sprague performs alongside experimental duo Leya as part of the Whitney's Free Friday Nights, pairing live electronic and textural sound with the museum's galleries.
+- **6:30pm** — [LPR Presents Why?](https://dromnyc.com/event/lpr-presents-why/) (3)  
+  DROM · East Village  
+  Yoni Wolf's genre-blending project Why? brings its introspective, lyrically dense indie-hip-hop/alt songwriting to DROM.
 - **7pm** — [DURATIONS: Suzanne Ciani, Courtney Bailey [Live]](https://link.dice.fm/N27939e25678) (5)  
   Public Records · Gowanus  
   Part of the DURATIONS festival: modular-synthesis pioneer Suzanne Ciani performs live.
@@ -343,9 +217,15 @@
 - **8pm** — Queer, Disabled and HIV-positive in Gaza: One Man's Fight to Survive (4)  
   Millennium Film Workshop · Bushwick  
   A benefit screening of Afeef Nessouli's documentary on survival as a queer, disabled, HIV-positive person in Gaza, co-presented by Visual AIDS and the Film-Makers' Cooperative at Millennium Film Workshop; doors at…
+- **8:30pm** — Tiresias Presents New Weird Future: A Work in Process (4)  
+  La MaMa · East Village  
+  A livestreamed speculative eco-opera and puppet pageant-in-process by the company Tiresias, imagining futures of multispecies flourishing in the ruins of the Anthropocene.
 - **10pm** — [Living Language](https://www.barbesbrooklyn.com) (3)  
   Barbès · Park Slope  
   Nikhil P. Yerawadekar's (Antibalas, Low Mentality) soulful homage to Fela Kuti's Afrobeat.
+- **10pm** — [DURATIONS: Dasha Rush, Decoder, Innersha [Live] / Human Space Machine, Claudio PRC & Francis Harris / Afrikan Sciences](https://link.dice.fm/Ee9c099f8483) (3)  
+  Public Records · Gowanus  
+  A multi-room Durations club night featuring experimental techno/ambient artists Dasha Rush and Afrikan Sciences.
 - **11pm** — [FREE PLAY: Jake Korolev + stjarnafaen & Friends](https://www.wonderville.nyc/events/free-play-jake-korolev-stjarnafaen-amp-friends) (3)  
   Wonderville · Bushwick  
   A late-night electronic music set at Wonderville from Jake Korolev, stjarnafaen, and friends.
@@ -355,6 +235,9 @@
 - [Panel Discussion: Homes for People, Not for Profit](https://www.printedmatter.org/programs/events/2342) (3)  
   Printed Matter · Chelsea  
   A panel with Art Against Displacement, Bench Ansfield, Renee Keitt, Alex Strada, and Storefront for Art and Architecture addressing housing, displacement, and public space.
+- [LIVESTREAM | Tiresias Presents New Weird Future](https://www.culturehub.org/events/tiresias-presents-new-weird-future) (4)  
+  CultureHub · East Village  
+  CultureHub's monthly livestream of a La MaMa production, broadcast using its new CultureHub Broadcaster tool; a speculative, myth-inflected theatrical work.
 
 ## Saturday, November 14
 
@@ -376,9 +259,15 @@
 - **3pm** — [Technomisoginary](https://canopycanopycanopy.com) (4)  
   Roulette · Boerum Hill  
   Sophie Lewis & Kalindi Vora with Rachel Ossip on how misogyny shapes current technologies, and how we might reimagine a future in which human life flourishes. Part of the Triple Canopy Symposium.
+- **3pm** — [Radical History Walking Tour](https://morusnyc.org/join-our-tours/) (4)  
+  Museum of Reclaimed Urban Space · East Village  
+  MoRUS's signature walking tour visits community gardens, former squats, and tenement sites where residents faced off with gentrification and financial power; runs every Saturday and Sunday at 3pm.
 - **5pm** — [Bets in a Burning House](https://canopycanopycanopy.com) (3)  
   Roulette · Boerum Hill  
   David Hill, Ayesha A. Siddiqi & Jacob Silverman with Ha Duong on the history and rise of prediction markets, and the costs of borrowing from the future. Part of the Triple Canopy Symposium.
+- **5:45pm** — [ZORN I + II / ZORN III](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62193) (4)  
+  Anthology Film Archives · East Village  
+  Multi-part film/concert program centered on avant-garde composer John Zorn, with actor-musician Mathieu Amalric and Zorn appearing in person for select screenings. Repeats several times through Nov 25.
 - **7pm** — [DURATIONS: JJJJJerome Ellis, Fred Moten & Brandon Lopez](https://link.dice.fm/q378bf53cceb) (5)  
   Public Records · Gowanus  
   Part of the DURATIONS festival: interdisciplinary sound/disability artist JJJJJerome Ellis performs alongside poet and critical theorist Fred Moten and bassist Brandon Lopez.
@@ -388,6 +277,9 @@
 - **7pm** — [Non Films Presents DarkRoom: Screening & Salon (No. 5)](https://film-makerscoop.com/screenings/non-films-presents-darkroom-screening-and-salon-no-5-at-the-2) (3)  
   Film-Makers' Cooperative · Midtown  
   DarkRoom's experimental screening and salon series returns to the historic Film-Makers' Cooperative for its fifth edition.
+- **7pm** — [threeASFOUR: Full Circle — Q&A with Sean Ono Lennon](https://filmforum.org/events/event/threeasfour-full-circle-november-14) (3)  
+  Film Forum · West Village  
+  Documentary on the fashion/art collective threeASFOUR, with a post-screening Q&A featuring filmmaker Sean Ono Lennon and subjects Gabi Asfour, Angela Donhauser, and Adi Gil.
 - **7:30pm** — [Murmrr Presents Numero Group - 23rd Anniversary Celebration w/ Laraaji, The Album Leaf, Shira Small](https://www.nationalsawdust.org/event/murmrr-presents-numero-group-23rd-anniversary-celebration-w-laraaji-the-album-leaf-shira-small-11-14-26) (4)  
   National Sawdust · Williamsburg  
   A night of live music spanning the Numero-verse catalog to commemorate Numero Group's 23rd anniversary, featuring ambient/drone pioneer Laraaji.
@@ -451,6 +343,114 @@
 - [Terre Thaemlitz: Solo Piano Performance](https://canopycanopycanopy.com) (4)  
   Roulette · Boerum Hill  
   The latest iteration of Thaemlitz's ongoing series of solo piano works, followed by a conversation with Triple Canopy contributing editor Ciarán Finlayson. A joint presentation of the 2026 Triple Canopy Symposium and…
+- [Exclusive Tour of The Amateur Comedy Club in Sniffen Court](https://calendar.aiany.org/2026/11/15/exclusive-tour-of-the-amateur-comedy-club-in-sniffen-court/) (3)  
+  Center for Architecture / AIA New York · Greenwich Village  
+  An 'Elsewhere' pick: an exclusive guided tour of the historic Amateur Comedy Club building in the hidden Sniffen Court mews.
+
+## Monday, November 16
+
+- **7pm** — [Dorsky & Hiler, Pgm 1: Nathaniel Dorsky](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62321) (5)  
+  Anthology Film Archives · East Village  
+  A program of lyrical silent 16mm films by major contemporary experimental filmmaker Nathaniel Dorsky.
+- **8pm** — [Unregistered HyperCam: Tales From the Aughts](https://www.wonderville.nyc/events/unregistered-hypercam-tales-from-the-aughts-11-16-26) (3)  
+  Wonderville · Bushwick  
+  A nostalgic screening/clip-show night revisiting early-2000s internet video and screen-capture culture (named for the watermarked HyperCam screen recorder), at Wonderville.
+- **8pm** — [the FORT90 BROADCAST SYSTEM presents: FORT90 TV](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-16-26) (3)  
+  Wonderville · Bushwick  
+  A live pirate-TV-style variety broadcast staged by the FORT90 Broadcast System at Wonderville.
+- [Movement Research at the Judson Church | Nov 16, 2026](https://movementresearch.org/events/1472/) (4)  
+  Movement Research · East Village  
+  Performance program at Judson Church featuring Miranda Brown & Noa Rui-Piin Weiss, Leah Fournier, Celeste Goldes, and Chloe London.
+- Paprika (35mm) (3)  
+  Nitehawk Cinema · Williamsburg  
+  Satoshi Kon's final film screens on 35mm as part of Nitehawk's Anime After Dark series.
+
+## Tuesday, November 17
+
+- **6:15pm** — New Books Series: Celebrating Recent Work by Claudia Breger (Art's Assemblies) (3)  
+  Columbia Society of Fellows / Heyman Center · Morningside Heights · free  
+  Claudia Breger discusses Art's Assemblies, which reconnects twenty-first-century philosophical frameworks to the political aesthetics of European modernisms developed in response to historical fascism.
+- **6:30pm** — Dansaekhwa: Korean Abstract Art and Its Cultural Impact (3)  
+  Asia Society · Upper East Side  
+  Launch of a book on Dansaekhwa, the 1970s South Korean abstract art movement, with author Dr. Yeon Shim Chung and Artnet critic Andrew Russeth.
+- **6:30pm** — Matter of Intelligence Seminar 8: Collective Intelligence, Collective Agency (5)  
+  The New School · Greenwich Village · free  
+  Artist Agnieszka Kurant in conversation with neuroscientist/AI researcher Ida Momennejad on collective intelligence as an emergent property of ecosystems, drawing on living systems, AI agent swarms, and the digital…
+- **7pm** — [Theory of Seeing](https://www.e-flux.com/events/6783400/theory-of-seeing/) (4)  
+  e-flux · Clinton Hill  
+  A program at the e-flux Screening Room exploring theories of perception and visuality.
+- **7pm** — [Dorsky & Hiler, Pgm 2: Jerome Hiler](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62323) (5)  
+  Anthology Film Archives · East Village  
+  A program of silent 16mm films by experimental filmmaker Jerome Hiler, Dorsky's longtime collaborator.
+- **7pm** — [MoMA After Hours: Taking Back Our Space](https://www.moma.org) (4)  
+  MoMA · Midtown  
+  A late-night party inspired by the Taking Back Our Space exhibition, featuring a performance by K8 Hardy, readings from the Whitney Review, a dance performance by Amanda Krische, a participatory textile installation by…
+- [MAKEMAKE Presents: Wholly Unwinding (A New Musical) - NYC Premiere](https://www.nationalsawdust.org/event/visionintoart-in-residence-wholly-unwinding-the-canticle-of-cerebral-palsy-the-songs-of-my-scars-a-new-musical) (4)  
+  National Sawdust · Williamsburg  
+  Blending folk concert, musical, immersive ritual, and dance party, Wholly Unwinding transforms the audience into fellow travelers on a journey of radical self-discovery and embodied healing.
+- Matías Piñeiro's From where do you start when drawing a flower? (4)  
+  Light Industry · Brooklyn  
+  Light Industry presents a screening of Argentine filmmaker Matías Piñeiro's From where do you start when drawing a flower?, continuing the venue's core program of adventurous contemporary and repertory cinema.
+- [Seminar 8: Collective Intelligence, Collective Agency](https://veralistcenter.org/events/seminar-8-collective-intelligence-collective-agency) (5)  
+  Vera List Center for Art and Politics · Greenwich Village · free  
+  Part of the Matter of Intelligence Seminar Series, this session examines collective intelligence and collective agency across art, science, and critical theory.
+- [Matías Piñeiro's Keep Your Archive to Yourself!](https://www.lightindustry.org/drawingaflower) (4)  
+  Light Industry · Brooklyn  
+  A screening of work by Argentine filmmaker Matías Piñeiro, part of Light Industry's microcinema program of experimental and arthouse cinema.
+- [Open Performance](https://movementresearch.org/events/1457/) (3)  
+  Movement Research · East Village  
+  An open, uncurated performance platform for movement artists presented by Movement Research.
+- [W. E. B. Du Bois: Rebel With a Cause](https://www.maysles.org/calendar/web-du-bois-rebel-with-a-cause) (3)  
+  Maysles Documentary Center · Harlem  
+  A documentary screening on the life and legacy of scholar and activist W. E. B. Du Bois, presented by Maysles Documentary Center.
+
+## Wednesday, November 18
+
+- **6pm** — [Statistics in the Era of Computation](https://www.simonsfoundation.org/events/statistics-in-the-era-of-computation/) (5)  
+  Simons Foundation · Flatiron · free  
+  Presidential Lecture by AI and machine-learning researcher Kyunghyun Cho on statistics in the era of large-scale computation.
+- **6:15pm** — New Books Series: Celebrating Recent Work by Branka Arsić (Ambient Life) (3.3)  
+  Columbia Society of Fellows / Heyman Center · Morningside Heights · free  
+  Branka Arsić discusses Ambient Life, reframing Herman Melville as an environmental thinker who reoriented human identity, perception, and relation through ecology.
+- **6:30pm** — Unworlding, Unbuilding, and Trans Anarchitectures: Jack Halberstam and Nicole Eisenman in Conversation with Claire Bishop (4)  
+  CUNY Graduate Center · Midtown · free  
+  Queer theorist Jack Halberstam and MacArthur-winning artist Nicole Eisenman discuss the 1970s idea of 'anarchitecture,' connecting bodily transformation to the unmaking of the built environment, moderated by art…
+- **7pm** — [Bar Laika presents Playback 0042 with Chantal Michelle](https://www.e-flux.com/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/) (3)  
+  e-flux · Clinton Hill  
+  A performance by Chantal Michelle at Bar Laika by e-flux, part of the Playback series.
+- **7pm** — [Dorsky & Hiler, Pgm 3: Nathaniel Dorsky's 'Arboretum Cycle'](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62325) (5)  
+  Anthology Film Archives · East Village  
+  A screening of Nathaniel Dorsky's 'Arboretum Cycle,' a major work of contemporary lyrical silent cinema.
+- **7:30pm** — Aga Khan Master Musicians and Vincent Peirani in Concert (3)  
+  Asia Society · Upper East Side  
+  Concert featuring newly created works inspired by the ancient routes connecting trade and culture between Asia and the Mediterranean.
+- **7:30pm** — Concert: Aga Khan Master Musicians with Vincent Peirani (4)  
+  Asia Society · Upper East Side  
+  The Aga Khan Master Musicians perform alongside French accordionist Vincent Peirani, drawing on musical traditions from Central Asia, the Middle East, and the Mediterranean.
+- **8pm** — [Qasim Naqvi: Slow Television](https://roulette.org/event/qasim-naqvi-slow-television/) (4)  
+  Roulette · Boerum Hill · $25  
+  For his Roulette Commission, Qasim Naqvi performs two new works for modular synthesizer and chamber ensemble.
+- **8pm** — [Amy Ching-Yan Lam + Jacqueline Waters](https://www.poetryproject.org/events/amy-ching-yan-lam-jacqueline-waters) (3)  
+  The Poetry Project · East Village · $10  
+  A reading with interdisciplinary artist/writer Amy Ching-Yan Lam and poet Jacqueline Waters.
+- [Next Wave 2026: La Distance — Tiago Rodrigues](https://www.bam.org/theater/2026/la-distance) (3)  
+  Brooklyn Academy of Music · Fort Greene  
+  A daughter chooses Martian exile, leaving her earthbound father behind: Tiago Rodrigues on maintaining human connection across unnavigable distances.
+- [MAKEMAKE Presents: Opera Praktikos' La Sonnambula](https://www.nationalsawdust.org/event/opera-praktikos-presents-la-sonnambula) (4)  
+  National Sawdust · Williamsburg  
+  Opera Praktikos reimagines Bellini & Romani's La Sonnambula with accessibility built in from the start, integrating spoken, sung, and signed languages into one expressive whole.
+- [Scientific Publishing at the Edge: Trust and Authority in the Age of AI and Open Access](https://www.nyas.org/shaping-science/events/scientific-publishing-at-the-edge-trust-and-authority-in-the-age-of-ai-and-open-access) (3)  
+  New York Academy of Sciences · FiDi · free for members  
+  A virtual discussion on how AI and open-access models are reshaping trust and authority in scientific publishing.
+- Agadez: 'Queendoms' (3)  
+  DROM · East Village  
+  A performance by Agadez, presented by World Music Institute as part of its global traditions programming.
+- [The Battle to Breathe - Film Screening and Q&A](https://www.nyas.org/shaping-science/events/the-battle-to-breathe-film-screening-and-qa) (4)  
+  New York Academy of Sciences · FiDi · free for members  
+  An in-person film screening and Q&A on the struggle for clean air and respiratory health.
+- [Back to the Present: 50 Years of Free Expression with Franklin Furnace](https://www.printedmatter.org/programs/events/2344) (3)  
+  Printed Matter · Chelsea  
+  A conversation marking the launch of Franklin Furnace's 50th-anniversary anthology on avant-garde art and the ongoing fight to defend creative freedom.
 
 ---
 [Full calendar](https://wfreudenheim.github.io/EventScout/)
