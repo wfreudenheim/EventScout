@@ -8177,5 +8177,129 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:20:27.854Z"
+  },
+  {
+    "id": "world-music-institute-2027-04-25-leenalchi",
+    "title": "LEENALCHI",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-04-25",
+    "time_start": "19:30",
+    "description": "Korean band Leenalchi fuses traditional pansori vocals with electronic and pop production, at Pioneer Works.",
+    "url": "https://www.worldmusicinstitute.org/leenalchi-at-pioneer-works/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "pansori"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:22:00.186Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-12-postcolonial-motion-taxis-and-travelogue",
+    "title": "Postcolonial Motion: Taxis and Travelogues",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-12",
+    "time_start": "19:00",
+    "description": "Screening program examining postcolonial mobility and travel through essay films and travelogues.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62218",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:22:00.210Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-14-zorn-i-ii-zorn-iii",
+    "title": "ZORN I + II / ZORN III",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-14",
+    "time_start": "17:45",
+    "description": "Multi-part film/concert program centered on avant-garde composer John Zorn, with actor-musician Mathieu Amalric and Zorn appearing in person for select screenings. Repeats several times through Nov 25.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62193",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:22:00.210Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-22-andy-warhol-s-screen-tests-conrad-ventur",
+    "title": "Andy Warhol's 'Screen Tests' + Conrad Ventur's 'Screen Tests Revisited', Pgm 2",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-22",
+    "time_start": "17:00",
+    "description": "Second program of Warhol/Ventur screen-test portraits. Repeats Nov 27.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62295",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Contemporary Art (general)",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:22:00.211Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-30-day-with-out-art-2026-seeds-in-a-dying-c",
+    "title": "Day With(out) Art 2026: Seeds in a Dying Colony",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-30",
+    "time_start": "19:00",
+    "description": "Annual free Day With(out) Art program presenting activist video and film works responding to the HIV/AIDS crisis.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62184",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:22:00.211Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-11-einst-rzende-neubauten-liebeslieder",
+    "title": "Einstürzende Neubauten: Liebeslieder",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-11",
+    "time_start": "20:15",
+    "description": "Screening centered on the pioneering German industrial band Einstürzende Neubauten, with musician Gudrun Gut appearing in person.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62269",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:22:00.209Z"
   }
 ]

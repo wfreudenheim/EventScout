@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:19:07.966Z"
+    "last_checked": "2026-11-11T08:22:00.222Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:22:17.835Z"
+    "last_checked": "2026-11-11T08:22:00.231Z"
   },
   {
     "id": "roulette",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:19:07.852Z"
+    "last_checked": "2026-11-11T08:22:00.239Z"
   },
   {
     "id": "artists-space",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:22:17.859Z"
+    "last_checked": "2026-11-11T08:22:00.249Z"
   },
   {
     "id": "union-docs",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:22:17.873Z"
+    "last_checked": "2026-11-11T08:22:00.259Z"
   },
   {
     "id": "center-for-architecture",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:22:17.887Z"
+    "last_checked": "2026-11-11T08:22:00.268Z"
   },
   {
     "id": "microscope-gallery",
@@ -3314,7 +3314,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:13.821Z"
+    "last_checked": "2026-11-11T08:22:00.204Z"
   },
   {
     "id": "barbes",
