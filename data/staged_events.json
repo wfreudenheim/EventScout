@@ -8038,5 +8038,46 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-11-11T08:19:07.976Z"
+  },
+  {
+    "id": "mono-no-aware-2026-12-02-mono-no-aware-xx-expanded-cinema-arts-fe",
+    "title": "Mono No Aware XX: Expanded Cinema Arts Festival",
+    "venue_id": "mono-no-aware",
+    "venue_name": "Mono No Aware",
+    "date": "2026-12-02",
+    "description": "Mono No Aware's 20th anniversary Expanded Cinema Arts Festival, featuring over 100 artists of the moving image across multiple host venues. Free and open to the public, December 2-14, 2026; RSVP required due to limited host capacity.",
+    "url": "http://www.mononoawarefilm.com/mono-no-aware-xx-program",
+    "price": "free",
+    "format": "festival",
+    "interest_score": 5,
+    "tags": [
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:26.170Z"
+  },
+  {
+    "id": "culturehub-2026-11-13-livestream-tiresias-presents-new-weird-f",
+    "title": "LIVESTREAM | Tiresias Presents New Weird Future",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-11-13",
+    "description": "CultureHub's monthly livestream of a La MaMa production, broadcast using its new CultureHub Broadcaster tool; a speculative, myth-inflected theatrical work.",
+    "url": "https://www.culturehub.org/events/tiresias-presents-new-weird-future",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Worldbuilding, speculative design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:19:30.217Z"
   }
 ]

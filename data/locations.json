@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:22:09.613Z"
+    "last_checked": "2026-11-11T08:19:26.146Z"
   },
   {
     "id": "the-new-school",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:22:09.656Z"
+    "last_checked": "2026-11-11T08:19:26.157Z"
   },
   {
     "id": "caveat",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:09.668Z"
+    "last_checked": "2026-11-11T08:19:26.164Z"
   },
   {
     "id": "rockefeller-university",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:09.679Z"
+    "last_checked": "2026-11-11T08:19:26.182Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2297,7 +2297,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:13.747Z"
+    "last_checked": "2026-11-11T08:19:30.183Z"
   },
   {
     "id": "blank-forms",
@@ -2321,7 +2321,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:13.769Z"
+    "last_checked": "2026-11-11T08:19:30.203Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2554,7 +2554,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:13.780Z"
+    "last_checked": "2026-11-11T08:19:30.212Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.989Z"
+    "last_checked": "2026-11-11T08:19:30.227Z"
   },
   {
     "id": "la-mama",
@@ -2934,7 +2934,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:22:13.808Z"
+    "last_checked": "2026-11-11T08:19:30.235Z"
   },
   {
     "id": "onassis-onx",
