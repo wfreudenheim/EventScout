@@ -8653,5 +8653,165 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:30:11.686Z"
+  },
+  {
+    "id": "whitney-2026-11-13-live-music-by-emily-a-sprague-and-leya",
+    "title": "Live Music by Emily A. Sprague and Leya",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-13",
+    "time_start": "18:30",
+    "description": "Ambient/modular-synth artist Emily A. Sprague performs alongside experimental duo Leya as part of the Whitney's Free Friday Nights, pairing live electronic and textural sound with the museum's galleries.",
+    "url": "https://whitney.org/events/emily-sprague-leya",
+    "price": "free",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:11.082Z"
+  },
+  {
+    "id": "elsewhere-2026-12-11-scenic-route-presents-mark-william-lewis",
+    "title": "Scenic Route Presents: Mark William Lewis, Slauson Malone 1, Operelly +more",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-12-11",
+    "time_start": "19:00",
+    "description": "Scenic Route curates an experimental-leaning bill headlined by genre-bending artist Slauson Malone 1, with Mark William Lewis and Operelly.",
+    "url": "https://www.elsewhere.club/events/2003988300954",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:11.097Z"
+  },
+  {
+    "id": "elsewhere-2026-12-12-lip-critic-the-house-of-1-000-drums",
+    "title": "Lip Critic & The House of 1,000 Drums",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-12-12",
+    "time_start": "19:00",
+    "description": "Noise-rap/industrial outfit Lip Critic plays Elsewhere's full venue with The House of 1,000 Drums.",
+    "url": "https://www.elsewhere.club/events/2003473419931",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "noise"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:11.098Z"
+  },
+  {
+    "id": "elsewhere-2026-11-14-x-coast-6-sense-pan-c-room-waddle-y2aura",
+    "title": "X-Coast, 6 Sense, Pan!c Room: Waddle, Y2aura, Nijeii, Duco",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-14",
+    "time_start": "22:30",
+    "description": "A late-night electronic/bass club night at Elsewhere's full venue featuring X-Coast, 6 Sense, and the Pan!c Room collective.",
+    "url": "https://www.elsewhere.club/events/1996459381754",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:11.097Z"
+  },
+  {
+    "id": "morus-2026-11-14-radical-history-walking-tour",
+    "title": "Radical History Walking Tour",
+    "venue_id": "morus",
+    "venue_name": "Museum of Reclaimed Urban Space",
+    "date": "2026-11-14",
+    "time_start": "15:00",
+    "description": "MoRUS's signature walking tour visits community gardens, former squats, and tenement sites where residents faced off with gentrification and financial power; runs every Saturday and Sunday at 3pm.",
+    "url": "https://morusnyc.org/join-our-tours/",
+    "format": "tour",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:11.115Z"
+  },
+  {
+    "id": "the-brick-2027-01-27-the-exponential-festival-bit-girl",
+    "title": "The Exponential Festival: bit_girl",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2027-01-27",
+    "time_start": "19:00",
+    "description": "A tech-inflected performance in which a figure born from glitch weaves live feedback loops through linked video systems and cables spilling from a server rack; part of The Exponential Festival at Brick Aux.",
+    "url": "https://www.bricktheater.com/event/the-exponential-festival-bit_girl/2027-01-27/",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:11.135Z"
+  },
+  {
+    "id": "the-brick-2027-01-05-the-exponential-festival-partners",
+    "title": "The Exponential Festival: Partners",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2027-01-05",
+    "time_start": "20:00",
+    "description": "An interactive solo performance in which an audience member is handed a script and a mission to help an actor find their soulmate, part of The Exponential Festival at Brick Aux.",
+    "url": "https://www.bricktheater.com/event/the-exponential-festival-partners/2027-01-05/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:11.135Z"
+  },
+  {
+    "id": "the-brick-2027-01-14-the-exponential-festival-tongues-in-the-",
+    "title": "The Exponential Festival: Tongues in the Garden",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2027-01-14",
+    "time_start": "19:00",
+    "description": "A surreal, myth-inflected solo performance in which a British tourist's picnic is hijacked by the Greek god Pan and other beings, part of The Exponential Festival at Brick Aux.",
+    "url": "https://www.bricktheater.com/event/the-exponential-festival-tongues-in-the-garden/2027-01-14/",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding, speculative design, design fiction"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:11.135Z"
   }
 ]

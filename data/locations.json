@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:37:29.536Z"
+    "last_checked": "2026-11-11T08:31:11.092Z"
   },
   {
     "id": "the-drawing-center",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:32:20.682Z",
+    "last_checked": "2026-11-11T08:31:11.111Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -2012,7 +2012,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:31:06.392Z"
+    "last_checked": "2026-11-11T08:31:11.130Z"
   },
   {
     "id": "mono-no-aware",
@@ -3193,7 +3193,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:32:20.701Z"
+    "last_checked": "2026-11-11T08:31:11.146Z"
   },
   {
     "id": "morbid-anatomy",

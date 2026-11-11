@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "franklin-furnace",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.711Z",
-    "completed_at": "2026-10-21T07:27:43.711Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "rooftop-films",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.720Z",
-    "completed_at": "2026-10-21T07:27:43.720Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "public-records",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.740Z",
-    "completed_at": "2026-10-21T07:27:43.740Z",
-    "events_found": 9,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "helix-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:44.350Z",
-    "completed_at": "2026-10-21T07:27:44.350Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "swiss-institute",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:27:44.362Z",
@@ -4997,6 +4957,46 @@
     "completed_at": "2026-11-11T08:30:11.729Z",
     "events_found": 4,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "whitney",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:11.093Z",
+    "completed_at": "2026-11-11T08:31:11.093Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "elsewhere",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:11.112Z",
+    "completed_at": "2026-11-11T08:31:11.112Z",
+    "events_found": 6,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "morus",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:11.132Z",
+    "completed_at": "2026-11-11T08:31:11.132Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "the-brick",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:11.148Z",
+    "completed_at": "2026-11-11T08:31:11.148Z",
+    "events_found": 4,
+    "events_new": 3,
     "status": "completed"
   }
 ]
