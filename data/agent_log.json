@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "wonderville",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:41.779Z",
-    "completed_at": "2026-10-21T07:27:41.779Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyu-game-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:41.786Z",
-    "completed_at": "2026-10-21T07:27:41.786Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "abrons-arts-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:41.793Z",
-    "completed_at": "2026-10-21T07:27:41.793Z",
-    "events_found": 5,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "moma-ps1",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:27:42.412Z",
@@ -4997,6 +4967,36 @@
     "completed_at": "2026-11-11T08:24:23.684Z",
     "events_found": 7,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "moma-ps1",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:25:44.829Z",
+    "completed_at": "2026-11-11T08:25:44.829Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "national-sawdust",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:25:44.850Z",
+    "completed_at": "2026-11-11T08:25:44.850Z",
+    "events_found": 12,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:25:44.859Z",
+    "completed_at": "2026-11-11T08:25:44.860Z",
+    "events_found": 10,
+    "events_new": 0,
     "status": "completed"
   }
 ]

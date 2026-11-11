@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:27:23.112Z"
+    "last_checked": "2026-11-11T08:25:44.826Z"
   },
   {
     "id": "new-museum",
@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:27:26.662Z"
+    "last_checked": "2026-11-11T08:25:44.849Z"
   },
   {
     "id": "issue-project-room",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:19:07.876Z"
+    "last_checked": "2026-11-11T08:25:44.858Z"
   },
   {
     "id": "knockdown-center",
