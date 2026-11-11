@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "printed-matter",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.087Z",
-    "completed_at": "2026-10-21T07:27:43.087Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "poetry-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.690Z",
-    "completed_at": "2026-10-21T07:27:43.690Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "center-for-book-arts",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:43.700Z",
-    "completed_at": "2026-10-21T07:27:43.700Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "franklin-furnace",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:27:43.711Z",
@@ -4997,6 +4967,36 @@
     "completed_at": "2026-11-11T08:26:25.932Z",
     "events_found": 12,
     "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "swiss-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:30:11.708Z",
+    "completed_at": "2026-11-11T08:30:11.708Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "white-columns",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:30:11.720Z",
+    "completed_at": "2026-11-11T08:30:11.720Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "participant-inc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:30:11.729Z",
+    "completed_at": "2026-11-11T08:30:11.729Z",
+    "events_found": 4,
+    "events_new": 0,
     "status": "completed"
   }
 ]

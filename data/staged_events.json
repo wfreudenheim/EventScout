@@ -8634,5 +8634,24 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:26:25.917Z"
+  },
+  {
+    "id": "swiss-institute-2026-11-11-film-series-moonless-march",
+    "title": "Film Series | Moonless March",
+    "venue_id": "swiss-institute",
+    "venue_name": "Swiss Institute",
+    "date": "2026-11-11",
+    "time_start": "19:00",
+    "description": "A film screening in Swiss Institute's program series, screened in connection with its offsite exhibition program.",
+    "url": "https://swissinstitute.net/programs/film-series-marching-with-the-kasama",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:30:11.686Z"
   }
 ]
