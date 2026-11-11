@@ -4347,5 +4347,1305 @@
     "source_agent": "aggregator:web-sweep",
     "status": "archived",
     "discovered_at": "2026-11-01T07:28:45.894Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-08-a-sunday-assembly-with-fred-moten-and-jo",
+    "title": "A Sunday Assembly with Fred Moten and Jordan Jones",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-08",
+    "description": "A conversation/reading event featuring poet and critical theorist Fred Moten alongside Jordan Jones, part of Maysles' Sunday Assembly series.",
+    "url": "https://www.maysles.org/calendar/sunday-assembly-fred-moten-jordan-jones",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:23:15.204Z"
+  },
+  {
+    "id": "barbes-2026-11-08-ben-monder-theo-bleckmann",
+    "title": "Ben Monder / Theo Bleckmann",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-08",
+    "time_start": "18:00",
+    "description": "A duo performance of electric guitar and effected vocals.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music & Sound Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.155Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-08-berlin-super-80-films-from-the-west-germ",
+    "title": "Berlin Super 80: Films from the West German Underground",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-08",
+    "time_start": "17:00",
+    "description": "A compilation program of experimental Super 8 films from the 1980s West German underground film scene.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62280",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation / moving image",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:26:13.473Z"
+  },
+  {
+    "id": "nublu-2026-11-08-bia-ferreira",
+    "title": "Bia Ferreira",
+    "venue_id": "nublu",
+    "venue_name": "Nublu",
+    "date": "2026-11-08",
+    "time_start": "20:00",
+    "description": "Brazilian singer, songwriter, multi-instrumentalist, and artivist Bia Ferreira performs.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.213Z"
+  },
+  {
+    "id": "index-space-2026-11-08-building-interactive-apps",
+    "title": "Building Interactive Apps",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-11-08",
+    "description": "A workshop on building interactive applications, presented by Index Greenpoint.",
+    "url": "https://www.index-space.org/programming/building-interactive-apps-evt-rxHb9HGqQC5nArW?view=list",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:37:21.830Z"
+  },
+  {
+    "id": "interference-archive-2026-11-08-changing-lanes-anti-car-films",
+    "title": "Changing Lanes & Anti-Car Films",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2026-11-08",
+    "time_start": "18:00",
+    "description": "A screening of four documentaries exploring how social movements have challenged the commodification and policing of urban mobility and pushed back against car-centric city design; doors 5:30pm, pre-show 6pm, main program 6:45pm.",
+    "url": "https://interferencearchive.org/event/changing-lanes-anti-car-films/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:23:14.551Z"
+  },
+  {
+    "id": "barbes-2026-11-08-clube-do-choro-with-regional-samauma",
+    "title": "Clube do Choro with Regional Samauma",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-08",
+    "time_start": "15:30",
+    "description": "A weekly choro jam in Barbès' front room with a rotating cast of the finest Brazilian musicians.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.154Z"
+  },
+  {
+    "id": "drom-2026-11-08-farah-siraj-miel-y-l-mon-",
+    "title": "Farah Siraj 'Miel y Límon'",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-08",
+    "description": "World Music Institute concert blending Jordanian and Latin musical traditions.",
+    "url": "https://worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-07T07:22:33.858Z"
+  },
+  {
+    "id": "drom-2026-11-08-farah-siraj-featuring-javier-lim-n-miel-",
+    "title": "Farah Siraj featuring Javier Limón: 'Miel y Limón'",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-08",
+    "time_start": "19:30",
+    "description": "WMI Collaborations series concert previewing Farah Siraj's forthcoming album Miel y Limón, produced by 10-time Grammy winner Javier Limón.",
+    "url": "https://www.worldmusicinstitute.org",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.774Z"
+  },
+  {
+    "id": "world-music-institute-2026-11-08-farah-siraj-miel-y-lim-n-",
+    "title": "Farah Siraj: 'Miel y Limón'",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-11-08",
+    "description": "World Music Institute presents Farah Siraj's 'Miel y Limón' at Drom.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:19:53.642Z"
+  },
+  {
+    "id": "drom-2026-11-08-farah-siraj-miel-y-lim-n-",
+    "title": "Farah Siraj: 'Miel y Limón'",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-08",
+    "description": "A performance by Jordanian-American singer-songwriter Farah Siraj, presented by World Music Institute.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-11T07:25:38.717Z"
+  },
+  {
+    "id": "the-drawing-center-2026-11-08-form-shadow-motion-selections-from-the-b",
+    "title": "Form, Shadow, Motion: Selections from the Burger Collection, Hong Kong",
+    "venue_id": "the-drawing-center",
+    "venue_name": "The Drawing Center",
+    "date": "2026-11-08",
+    "description": "Group exhibition of works on paper from the Burger Collection, Hong Kong, exploring form, shadow, and motion through drawing; on view through January 24, 2027.",
+    "url": "https://drawingcenter.org/exhibitions/form-shadow-motion",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:32:17.155Z"
+  },
+  {
+    "id": "green-wood-2026-11-08-green-wood-s-greatest-hits",
+    "title": "Green-Wood's Greatest Hits",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-08",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "description": "A walking tour hitting the highlights of Green-Wood Cemetery's history, monuments, and notable stories.",
+    "url": "https://www.green-wood.com/event/green-woods-greatest-hits-18/",
+    "format": "walk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:32:13.625Z"
+  },
+  {
+    "id": "the-brick-2026-11-08-i-can-steal-your-mother",
+    "title": "I Can Steal Your Mother",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2026-11-08",
+    "description": "A fully-illustrated, autobiographical comedy hour from artist/comedian Max Wittert, composed of over 1,200 original drawings presented as a surreal live storytime; running through November 15.",
+    "url": "https://www.bricktheater.com/event/i-can-steal-your-mother/2026-11-08/",
+    "price": "$25-50",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:32:20.688Z"
+  },
+  {
+    "id": "the-kitchen-2026-11-08-improvisation-archive-and-homage-symposi",
+    "title": "Improvisation, Archive and Homage Symposium (Day 2)",
+    "venue_id": "the-kitchen",
+    "venue_name": "The Kitchen",
+    "date": "2026-11-08",
+    "time_start": "14:00",
+    "description": "Second day of the two-day symposium on improvisation, archive, and homage, part of Josiah McElheny: Instrument Object, with musicians and composers Claire Chase, Mary Halvorson, Ikue Mori, Tomeka Reid, Jason Moran, and Craig Taborn, moderated by John Corbett. Followed by a closing reception for the exhibition.",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-18T07:18:04.491Z"
+  },
+  {
+    "id": "the-kitchen-2026-11-08-josiah-mcelheny-instrument-object",
+    "title": "Josiah McElheny: Instrument Object",
+    "venue_id": "the-kitchen",
+    "venue_name": "The Kitchen",
+    "date": "2026-11-08",
+    "description": "An exhibition by Josiah McElheny on view September 10 through November 8, exploring musical instruments as sculptural objects at the intersection of sound and visual art.",
+    "url": "https://thekitchen.org/on-view/instrument-object/",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:23:28.670Z"
+  },
+  {
+    "id": "microscope-gallery-2026-11-08-luc-a-hinojosa-gaxiola-sonando-gravedad-",
+    "title": "Lucía Hinojosa Gaxiola: \"Sonando Gravedad\" Album Release (preceded by Stepančić.Gidron)",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-11-08",
+    "time_start": "18:00",
+    "time_end": null,
+    "description": "Album release performance by Lucía Hinojosa Gaxiola for \"Sonando Gravedad,\" preceded by a set from Stepančić.Gidron (Teodora Stepančić & Assaf Gidron), at Microscope Gallery.",
+    "url": "https://microscopegallery.com/lucia-honijosa-gaxiola-album-release/",
+    "price": null,
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:22:09.625Z"
+  },
+  {
+    "id": "film-forum-2026-11-08-raise-the-red-lantern",
+    "title": "RAISE THE RED LANTERN",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-08",
+    "time_start": "12:40",
+    "description": "Repertory run of Zhang Yimou's 1991 Chinese drama, playing through Thursday, November 19.",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "price": "$18 general / $12 member",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:32:17.096Z"
+  },
+  {
+    "id": "terraza-7-2026-11-08-sheffa-music-trio-candombe-jazz-concert-",
+    "title": "SHEFFA MUSIC TRIO | Candombe Jazz Concert & Jam | First Set",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-08",
+    "description": "Sheffa Music Trio performs Candombe jazz, fusing Afro-Uruguayan candombe rhythms with jazz, followed by a jam.",
+    "url": "https://www.terraza7.com/detalles-y-registro/sheffa-music-trio-candombe-jazz-concert-jam-first-set-2",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc."
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:28:45.894Z"
+  },
+  {
+    "id": "terraza-7-2026-11-08-sheffa-music-trio-candombe-jazz-night-se",
+    "title": "SHEFFA MUSIC TRIO | Candombe Jazz Night | Second Set Jam Session",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-08",
+    "description": "Sheffa Music Trio continues their Candombe jazz night with a second-set jam session blending Afro-Uruguayan rhythms with jazz.",
+    "url": "https://www.terraza7.com/detalles-y-registro/sheffa-music-trio-candombe-jazz-night-second-set-jam-session-2",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions — raga, gamelan, cumbia, samba, flamenco, qawwali, afrobeat, klezmer, diaspora music, etc."
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:28:45.894Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-08-small-file-media-festival-screening-and-",
+    "title": "Small File Media Festival: Screening and Workshop",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-08",
+    "time_start": "13:00",
+    "time_end": "16:30",
+    "description": "First New York appearance of the Small File Media Festival, bringing together artists pioneering small-file eco-media; a screening followed by a workshop on video compression techniques.",
+    "price": "free",
+    "format": "workshop",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environmental Art",
+      "Experimental Animation & Moving Image",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.062Z"
+  },
+  {
+    "id": "la-mama-2026-11-08-the-greatest-story-ever",
+    "title": "The Greatest Story Ever",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-08",
+    "description": "Paul Budraitis performs an intimate blend of sci-fi and lo-fi theater about a spaceship pilot who refuses to come home; running Oct 29-Nov 8 at La MaMa.",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:13:17.064Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-08-the-killing-35mm-",
+    "title": "The Killing (35mm)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-08",
+    "time_start": "12:00",
+    "description": "Kubrick and Jim Thompson's darkly comic racetrack-heist noir, a narrative breakthrough in Kubrick's filmography. Part of the Kubrick retrospective.",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "noir"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.063Z"
+  },
+  {
+    "id": "la-mama-2026-11-09-12-angry-electrics-a-poetry-electric-bea",
+    "title": "12 Angry Electrics: a Poetry Electric beat",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-09",
+    "description": "A Poetry Electric reading event at La MaMa titled \"12 Angry Electrics.\"",
+    "url": "https://lamama.org/poetryelectric-12angryelectrics/",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:32:09.443Z"
+  },
+  {
+    "id": "asia-society-2026-11-09-725-salon-xu-jilin",
+    "title": "725 Salon: Xu Jilin",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-09",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "Historian Xu Jilin traces intellectual transformations of Chinese intellectuals from the late Qing dynasty to the present; conducted in Chinese with AI-translated subtitles.",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:13:55.278Z"
+  },
+  {
+    "id": "elsewhere-2026-11-09-adult-a-place-to-bury-strangers-kill-alt",
+    "title": "ADULT. + A Place to Bury Strangers, Kill Alters",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "Electro-industrial/noise pioneers ADULT. co-headline with noise-rock/shoegaze act A Place to Bury Strangers, plus experimental noise project Kill Alters, at The Hall.",
+    "url": "https://www.elsewhere.club/events/1989618769298",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "noise"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-18T07:32:23.177Z"
+  },
+  {
+    "id": "nypl-live-2026-11-09-amos-gitai-the-challenge-of-archives",
+    "title": "Amos Gitai & the Challenge of Archives",
+    "venue_id": "nypl-live",
+    "venue_name": "LIVE from NYPL",
+    "date": "2026-11-09",
+    "time_start": "18:30",
+    "description": "Filmmaker Amos Gitai discusses his book on archives and his lectures at the Collège de France, accompanied by a screening of his short film The Book of Amos.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:17:15.211Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-09-booktalk-curious-matter-exhibitions-book",
+    "title": "Booktalk: Curious Matter: Exhibitions, Books, and the Practice of Inquiry",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "Raymond E. Mingst and Arthur Bruso discuss their exhibitions, artists' books, and inquiry-based curatorial practice.",
+    "url": "https://shop.centerforbookarts.org/products/book-talk-curious-matter-exhibitions-books-and-the-practice-of-inquiry",
+    "price": "$5",
+    "format": "talk",
+    "interest_score": 2.2,
+    "tags": [
+      "curatorial"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:23:16.973Z"
+  },
+  {
+    "id": "poetry-project-2026-11-09-christeene-geo-wyex",
+    "title": "Christeene + Geo Wyex",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-09",
+    "time_start": "20:00",
+    "description": "A reading pairing performance artist Christeene with Geo Wyex at The Poetry Project.",
+    "url": "https://www.poetryproject.org/events/christeene-geo-wyex",
+    "price": "$10",
+    "format": "reading",
+    "interest_score": 4,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:33:51.166Z"
+  },
+  {
+    "id": "cooper-union-2026-11-09-conversations-in-tusculum",
+    "title": "Conversations in Tusculum",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "A talk in Cooper Union's Conversations in Tusculum series.",
+    "url": "https://cooper.edu/index.php/events-and-exhibitions/events/conversations-tusculum",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:46.568Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-09-criterion-presents-the-craft-of-acting-l",
+    "title": "Criterion presents The Craft of Acting: Léa Seydoux",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "A special live recording of the Criterion Channel's series The Craft of Acting, an intimate conversation between actress Léa Seydoux and author Isaac Butler about her career and craft.",
+    "format": "talk",
+    "interest_score": 2.1,
+    "tags": [
+      "criterion"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:24.064Z"
+  },
+  {
+    "id": "public-records-2026-11-09-durations-festival-2026",
+    "title": "DURATIONS Festival 2026",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "Opening of the multi-day DURATIONS Festival at Public Records, spanning experimental music, talks, and interdisciplinary programming through November 15.",
+    "url": "https://link.dice.fm/B0381fb292fc",
+    "format": "festival",
+    "interest_score": 4,
+    "tags": [
+      "experimental-music"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-27T07:34:14.691Z"
+  },
+  {
+    "id": "public-records-2026-11-09-durations-civic-crash-course-chlo-bass-j",
+    "title": "DURATIONS: Civic Crash Course — Chloë Bass, Jeremy Toussaint-Baptiste, Hal Foster",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-09",
+    "time_start": "18:00",
+    "description": "Discussion on civic engagement and duration in art with artist Chloë Bass, sound artist Jeremy Toussaint-Baptiste, and critic Hal Foster. DURATIONS festival, Public Records.",
+    "url": "https://link.dice.fm/Ua4a0f349521",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Contemporary Art",
+      "Experimental Music & Sound",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-15T15:14:57.153Z"
+  },
+  {
+    "id": "public-records-2026-11-09-durations-triple-canopy-presents-civic-c",
+    "title": "DURATIONS: Triple Canopy presents Civic Crash Course with Chloe Bass, Jeremy Toussaint-Baptiste, Hal Foster",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-09",
+    "time_start": "18:00",
+    "description": "A DURATIONS Festival talk presented by art/theory publication Triple Canopy, featuring critical theorist Hal Foster alongside artists Chloe Bass and Jeremy Toussaint-Baptiste.",
+    "url": "https://link.dice.fm/Ua4a0f349521",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-04T07:25:09.865Z"
+  },
+  {
+    "id": "public-records-2026-11-09-durations-triple-canopy-presents-civic-c",
+    "title": "DURATIONS: Triple Canopy presents Civic Crash Course with Chloë Bass, Jeremy Toussaint-Baptiste, Hal Foster",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-09",
+    "time_start": "18:00",
+    "description": "Part of the DURATIONS festival: arts/critical-theory publication Triple Canopy hosts a discussion with artists Chloë Bass and Jeremy Toussaint-Baptiste and critic Hal Foster.",
+    "url": "https://link.dice.fm/Ua4a0f349521",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & critical theory",
+      "Contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:23:35.918Z"
+  },
+  {
+    "id": "public-records-2026-11-09-durations-william-basinski-cholla",
+    "title": "DURATIONS: William Basinski + Cholla",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "Tape-loop legend William Basinski (The Disintegration Loops) performs in the Sound Room as part of Public Records' DURATIONS festival; second night Nov 10 with muein.",
+    "url": "https://link.dice.fm/e57306599f8c",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music & Sound"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-15T15:14:57.153Z"
+  },
+  {
+    "id": "movement-research-2026-11-09-movement-research-at-the-judson-church-n",
+    "title": "Movement Research at the Judson Church | Nov 9, 2026",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-11-09",
+    "description": "Performance program at Judson Church featuring Laura Coe and Ángel De Paz, Chloë Engel, Bao Nguyen, and Dahlia Qumhiyeh.",
+    "url": "https://movementresearch.org/events/1471/",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:32:09.474Z"
+  },
+  {
+    "id": "wonderville-2026-11-09-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-09",
+    "time_start": "20:00",
+    "description": "Another installment of the FORT90 Broadcast System's video/film programming night at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-9-26",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:29:59.961Z"
+  },
+  {
+    "id": "nitehawk-2026-11-09-the-spook-who-sat-by-the-door",
+    "title": "The Spook Who Sat by the Door",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-09",
+    "description": "A former CIA agent trains Black teenagers as guerrilla fighters in this Adventures in Black Cinema selection.",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:17:15.487Z"
+  },
+  {
+    "id": "wonderville-2026-11-09-the-variety-show-variety-party-",
+    "title": "The Variety Show Variety Party!",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-09",
+    "time_start": "19:00",
+    "description": "A variety show and party at Wonderville featuring a mixed lineup of acts.",
+    "url": "https://www.wonderville.nyc/events/the-variety-show-variety-party-11-9-26",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:37:29.545Z"
+  },
+  {
+    "id": "triple-canopy-2026-11-09-triple-canopy-symposium-2026-nov-9-15-pu",
+    "title": "Triple Canopy Symposium 2026 (Nov 9–15, Public Records + Roulette)",
+    "venue_id": "triple-canopy",
+    "venue_name": "Triple Canopy",
+    "date": "2026-11-09",
+    "description": "Five days of conversations, performances, and festivities with Critical Minded; Nov 9–10 at Public Records (part of the Durations festival), Nov 13–15 at Roulette. Lineup and registration TBA.",
+    "url": "https://www.canopycanopycanopy.com/",
+    "format": "conference",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "philosophy_theory",
+      "contemporary_art",
+      "experimental_music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-08-09T17:46:03.831Z"
+  },
+  {
+    "id": "light-industry-2026-11-10-a-benefit-for-la-voz-popular",
+    "title": "A Benefit for La Voz Popular",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-11-10",
+    "description": "Benefit film screening introduced by critic Tobi Haslett, presented at Light Industry in support of La Voz Popular.",
+    "url": "https://www.lightindustry.org/lavozpopularbenefit",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:30:45.101Z"
+  },
+  {
+    "id": "asia-society-2026-11-10-ai-and-india-navigating-the-ai-revolutio",
+    "title": "AI and India: Navigating the AI Revolution",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-10",
+    "time_start": "18:30",
+    "description": "A panel on how India can use AI to expand opportunity while managing risks to workers, inequality, and democratic institutions.",
+    "url": "https://asiasociety.org/new-york",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-14T07:17:50.267Z"
+  },
+  {
+    "id": "wonderville-2026-11-10-bacon-eggs-toons-a-free-animation-screen",
+    "title": "Bacon, Eggs, & Toons - A Free Animation Screening presented by K Downs x BODEGA x BEC",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-10",
+    "time_start": "19:30",
+    "time_end": "23:00",
+    "description": "A free animation screening night presented by K Downs, BODEGA, and BEC at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/bacon-eggs-toons-a-free-animation-screening-presented-by-k-downs-x-bodega-x-bec-11-10-26",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "animation"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:29:59.961Z"
+  },
+  {
+    "id": "nypl-live-2026-11-10-before-new-york-eric-sanderson-with-mich",
+    "title": "Before New York: Eric Sanderson with Michael Kimmelman",
+    "venue_id": "nypl-live",
+    "venue_name": "LIVE from NYPL",
+    "date": "2026-11-10",
+    "time_start": "18:00",
+    "description": "Eric Sanderson discusses Before New York, tracing the city's natural geography from before Henry Hudson's arrival to the present, with journalist Michael Kimmelman.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:17:15.212Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-10-bookbinding-iii-hardcover-editioning",
+    "title": "Bookbinding III: Hardcover Editioning",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-10",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "A multi-session hands-on workshop (Tuesdays through December 8) on hardcover edition bookbinding with Hadley Vogel.",
+    "url": "https://shop.centerforbookarts.org/products/26fbb300i",
+    "price": "$525",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & creative tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:27:30.648Z"
+  },
+  {
+    "id": "columbia-heyman-2026-11-10-celebrating-recent-work-by-matthew-engel",
+    "title": "Celebrating Recent Work by Matthew Engelke: An Honest Death",
+    "venue_id": "columbia-heyman",
+    "venue_name": "Columbia Society of Fellows / Heyman Center",
+    "date": "2026-11-10",
+    "time_start": "18:15",
+    "description": "Panel discussion honoring An Honest Death: Life's End and Humanist Funerals, an ethnographic account of funerals for people without religious belief.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:17:15.369Z"
+  },
+  {
+    "id": "printed-matter-2026-11-10-correspondences-de-appel-1975-2025",
+    "title": "Correspondences: de Appel 1975–2025",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-10",
+    "description": "A program and archival display exploring 50 years of de Appel, the pioneering Amsterdam experimental art space.",
+    "url": "https://www.printedmatter.org/programs/events/2333",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-18T07:25:19.264Z"
+  },
+  {
+    "id": "public-records-2026-11-10-durations-william-basinski-muein",
+    "title": "DURATIONS: William Basinski, muein",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "description": "Part of the DURATIONS festival: a second night of ambient/tape-loop work from William Basinski.",
+    "url": "https://link.dice.fm/rb97ee1b56f3",
+    "format": "music",
+    "interest_score": 5,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Experimental & electronic music",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-09-23T07:23:35.918Z"
+  },
+  {
+    "id": "light-industry-2026-11-10-f-lix-zurita-s-caminos-del-silencio",
+    "title": "Félix Zurita's Caminos del Silencio",
+    "venue_id": "light-industry",
+    "venue_name": "Light Industry",
+    "date": "2026-11-10",
+    "description": "A screening of Félix Zurita's Caminos del Silencio, introduced by critic Tobi Haslett, as part of Light Industry's ongoing program of rare and avant-garde film presentations.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:25:24.275Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-11-10-framing-america-portraiture-identity-and",
+    "title": "Framing America: Portraiture, Identity, and Belonging",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-11-10",
+    "time_start": "17:00",
+    "description": "Closing reception and panel discussion with participating photographers from Portraits of America, moderated by curator Stephanie S. Lee, exploring identity, representation, and belonging through portraiture.",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:17:15.131Z"
+  },
+  {
+    "id": "e-flux-2026-11-10-here-already",
+    "title": "Here, Already",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Film screening at e-flux Screening Room.",
+    "url": "https://www.e-flux.com/events/6783397/here-already/",
+    "price": null,
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-21T07:18:39.480Z"
+  },
+  {
+    "id": "public-records-2026-11-10-hurricane-in-the-fog-machine",
+    "title": "Hurricane in the Fog Machine",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "description": "Jesús Hilario-Reyes & Benjamin Krusling with Mira Dayal discuss sirens, emergency signals, transmission, and transcendence — on the street and in the club. Part of the Triple Canopy Symposium, presented with Durations.",
+    "url": "https://canopycanopycanopy.com",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-07T07:19:46.923Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-10-j-hoberman-across-the-movi-verse",
+    "title": "J. Hoberman: Across the Movi-verse",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-10",
+    "description": "Two curated evenings of film criticism and screenings guest-curated by critic J. Hoberman, celebrating publication of his new essay collection.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:13:17.115Z"
+  },
+  {
+    "id": "blank-forms-2026-11-10-keiji-haino-solo-duo-with-loren-connors",
+    "title": "Keiji Haino Solo & Duo with Loren Connors",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-11-10",
+    "time_start": "19:30",
+    "description": "Legendary Japanese noise/free-improvisation artist Keiji Haino performs solo and in duo with guitarist Loren Connors at Blank Forms. Doors 6:30pm, performance 7:30pm.",
+    "url": "https://www.blankforms.org/events/keiji-haino-solo-duo-with-loren-connors",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [
+      "noise",
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-14T07:25:46.081Z"
+  },
+  {
+    "id": "film-forum-2026-11-10-manhattan-by-numbers",
+    "title": "MANHATTAN BY NUMBERS",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-10",
+    "time_start": "18:00",
+    "description": "Final screening in the 'NYC in Transit' series of Amir Naderi's 1993 independent film about New York City, introduced in person by star John Wojda.",
+    "url": "https://filmforum.org/film/manhattan-by-numbers-nyc-in-transit",
+    "price": "$18 general / $12 member",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental, horror, documentary, Southeast Asian cinema",
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:32:17.096Z"
+  },
+  {
+    "id": "nitehawk-2026-11-10-paprika-35mm-anime-after-dark",
+    "title": "Paprika (35mm) — Anime After Dark",
+    "venue_id": "nitehawk",
+    "venue_name": "Nitehawk Cinema",
+    "date": "2026-11-10",
+    "description": "35mm screenings of Satoshi Kon's final film Paprika, part of monthly Anime After Dark series. Also screens 11/16.",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-28T07:13:55.230Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-11-10-portraits-of-america-exhibition",
+    "title": "Portraits of America Exhibition",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-11-10",
+    "description": "Group photography exhibition bringing together portraits of individuals whose distinct histories, cultural backgrounds, and lived experiences reflect the evolving idea of American identity. On view Oct 12 - Nov 10, 2026.",
+    "url": "https://www.flushingtownhall.org/show-details/portraits-of-america-exhibition",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary art (general)",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-10-21T07:34:36.290Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-10-remake",
+    "title": "REMAKE",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-10",
+    "description": "A documentary film screening presented at Maysles Documentary Center as part of its ongoing community film program.",
+    "url": "https://www.maysles.org/calendar/remake",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:22:21.607Z"
+  },
+  {
+    "id": "cooper-union-2026-11-10-stanley-wolukau-wanambwa-henry-wolf-chai",
+    "title": "Stanley Wolukau-Wanambwa: Henry Wolf Chair in Photography Artist Talk",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "description": "Photographer and critic Stanley Wolukau-Wanambwa delivers an artist talk as the Henry Wolf Chair in Photography at Cooper Union.",
+    "url": "https://cooper.edu/index.php/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "photography",
+      "artist-talk"
+    ],
+    "matched_categories": [
+      "Contemporary art",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-01T07:19:46.568Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-11-10-the-2nd-indiechina-film-festival",
+    "title": "The 2nd IndieChina Film Festival",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-11-10",
+    "description": "Underground documentaries, hybrid works, and narrative features by U-Wei Bin HajiSaari, Tan Chui Mui, Zhao Dayong and more, reflecting authenticity, innovation, and social critique. Runs through Nov 15.",
+    "url": "https://www.filmlinc.org",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [
+      "film-festival"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:18:00.662Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-10-the-lecture-in-planning-series-lips-pane",
+    "title": "The Lecture in Planning Series (LiPS) Panel",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-10",
+    "time_start": "13:30",
+    "description": "A panel discussion in GSAPP's Lecture in Planning Series, part of the Urban Planning program.",
+    "url": "https://www.arch.columbia.edu/events/4379-the-lecture-in-planning-series-li-ps-panel",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "urban-planning"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism — lectures, tours, adaptive reuse, public space",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:32:17.113Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-10-the-new-social-environment-imagining-an-",
+    "title": "The New Social Environment: Imagining an Archipelago",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-10",
+    "time_start": "13:00",
+    "description": "Curator Jessamine Batario and artists Juana Valdés, Thea Canlas, Isa Gagarin, and Mariana Ramos Ortiz discuss Imagining an Archipelago: Art from Cuba, Guam, the Philippines, Puerto Rico, and Their Diasporas.",
+    "url": "https://brooklynrail.org",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-11-08T08:18:00.690Z"
+  },
+  {
+    "id": "electronic-arts-intermix-2026-11-10-trust-safety-artistic-expression-vs-plat",
+    "title": "Trust & Safety: Artistic Expression vs. Platform Censorship",
+    "venue_id": "electronic-arts-intermix",
+    "venue_name": "Electronic Arts Intermix",
+    "date": "2026-11-10",
+    "time_start": "19:00",
+    "description": "A screening of challenging works by Peggy Ahwesh, Alex Bag, Ellen Cantor, Barbara Hammer, and Muntadas from EAI's collection, selected in relation to Vimeo's content moderation policies, followed by a conversation with Rebecca Cleman (EAI) and Michael Connor (Rhizome) on building alternative, federated technological infrastructure like PeerTube for circulating challenging media art.",
+    "url": "https://www.eai.org",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [
+      "media-art",
+      "infrastructure"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Philosophy & Critical Theory",
+      "Climate & Environment",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "archived",
+    "discovered_at": "2026-10-25T07:17:24.607Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-10-world-trade-center-transportation-master",
+    "title": "World Trade Center Transportation Master Planning and Design: 25 Years Later",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-10",
+    "time_start": "18:00",
+    "time_end": "19:30",
+    "description": "A talk revisiting the master-plan framework for Lower Manhattan transportation systems established after 9/11, reflecting 25 years on from the rebuilding of the World Trade Center site.",
+    "url": "https://calendar.aiany.org/2026/11/10/world-trade-center-transportation-master-planning-and-design-25-years-later/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [
+      "transportation"
+    ],
+    "matched_categories": [
+      "Architecture & urbanism",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "archived",
+    "discovered_at": "2026-11-04T07:23:16.932Z"
   }
 ]
