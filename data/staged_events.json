@@ -8079,5 +8079,103 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:19:30.217Z"
+  },
+  {
+    "id": "interference-archive-2027-01-31-call-and-response-songbooks-to-power-the",
+    "title": "Call and Response: Songbooks to Power the Movement",
+    "venue_id": "interference-archive",
+    "venue_name": "Interference Archive",
+    "date": "2027-01-31",
+    "description": "Ongoing exhibition (through Jan 31, 2027) showcasing songbooks from Interference Archive's collection drawn from the labor movement, civil rights movement, and socialist schools, exploring why movements sing together.",
+    "url": "https://interferencearchive.org/exhibition/call-and-response-songbooks-to-power-the-movement/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:20:27.782Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-11-22-found-footage-filmmaking-steenbeck-editi",
+    "title": "Found Footage Filmmaking & Steenbeck Editing Workshop",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-11-22",
+    "time_start": "14:00",
+    "time_end": "17:00",
+    "description": "A hands-on workshop on found-footage filmmaking and Steenbeck flatbed editing techniques at Millennium Film Workshop. Registration was listed as full as of 11/10.",
+    "url": "https://www.millenniumfilm.org/",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:20:27.823Z"
+  },
+  {
+    "id": "japan-society-2027-01-10-gen-ichir-inokuma-s-nyc-salon",
+    "title": "Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2027-01-10",
+    "description": "Ongoing gallery exhibition (Oct 6, 2026 - Jan 10, 2027) on painter Gen'ichirō Inokuma's New York salon and circle. Free admission on First Fridays.",
+    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:20:27.839Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-17-w-e-b-du-bois-rebel-with-a-cause",
+    "title": "W. E. B. Du Bois: Rebel With a Cause",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-17",
+    "description": "A documentary screening on the life and legacy of scholar and activist W. E. B. Du Bois, presented by Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/web-du-bois-rebel-with-a-cause",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:20:27.854Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-20-mad-bills-to-pay",
+    "title": "Mad Bills to Pay",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-20",
+    "description": "A documentary screening at Maysles Documentary Center; the prefetched page listed only the title, with no further synopsis available.",
+    "url": "https://www.maysles.org/calendar/mad-bills-to-pay-2026",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:20:27.854Z"
   }
 ]
