@@ -1,76 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "green-wood",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:45.037Z",
-    "completed_at": "2026-10-21T07:27:45.037Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyu-itp",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:45.625Z",
-    "completed_at": "2026-10-21T07:27:45.625Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "microscope-gallery",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:45.635Z",
-    "completed_at": "2026-10-21T07:27:45.635Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "vera-list-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:45.642Z",
-    "completed_at": "2026-10-21T07:27:45.642Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "mono-no-aware",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:45.650Z",
-    "completed_at": "2026-10-21T07:27:45.650Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "rockaway-film-festival",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:46.226Z",
-    "completed_at": "2026-10-21T07:27:46.226Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "aaww",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:46.238Z",
-    "completed_at": "2026-10-21T07:27:46.238Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "blank-forms",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:27:46.263Z",
@@ -4995,6 +4925,76 @@
     "scrape_tier_used": 3,
     "started_at": "2026-11-11T08:31:21.634Z",
     "completed_at": "2026-11-11T08:31:21.634Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "green-wood",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:31.363Z",
+    "completed_at": "2026-11-11T08:31:31.363Z",
+    "events_found": 5,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "drom",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:31.378Z",
+    "completed_at": "2026-11-11T08:31:31.378Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "flushing-town-hall",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:31.385Z",
+    "completed_at": "2026-11-11T08:31:31.385Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "terraza-7",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:31.403Z",
+    "completed_at": "2026-11-11T08:31:31.403Z",
+    "events_found": 7,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "film-forum",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:31.419Z",
+    "completed_at": "2026-11-11T08:31:31.419Z",
+    "events_found": 8,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "columbia-gsapp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:31.433Z",
+    "completed_at": "2026-11-11T08:31:31.433Z",
+    "events_found": 5,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "sculpture-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:31:31.443Z",
+    "completed_at": "2026-11-11T08:31:31.444Z",
     "events_found": 2,
     "events_new": 0,
     "status": "completed"

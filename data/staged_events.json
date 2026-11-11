@@ -8849,5 +8849,303 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:31:21.576Z"
+  },
+  {
+    "id": "green-wood-2026-11-15-birding-in-peace",
+    "title": "Birding In Peace",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-15",
+    "time_start": "06:30",
+    "time_end": "08:00",
+    "description": "An early-morning walking tour before public hours offering exclusive access to the many bird species that inhabit Green-Wood.",
+    "url": "https://www.green-wood.com/event/birding-in-peace-32/2026-11-15/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.333Z"
+  },
+  {
+    "id": "green-wood-2026-11-28-green-wood-after-hours",
+    "title": "Green-Wood After Hours",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-28",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "description": "An after-dark walking tour through Green-Wood's history, legends, and secrets, including access to the normally locked Catacombs.",
+    "url": "https://www.green-wood.com/event/green-wood-after-hours-61/",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.333Z"
+  },
+  {
+    "id": "drom-2026-11-13-lpr-presents-why-",
+    "title": "LPR Presents Why?",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-13",
+    "time_start": "18:30",
+    "description": "Yoni Wolf's genre-blending project Why? brings its introspective, lyrically dense indie-hip-hop/alt songwriting to DROM.",
+    "url": "https://dromnyc.com/event/lpr-presents-why/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.367Z"
+  },
+  {
+    "id": "drom-2026-11-11-tjo-presents-isabella-kensington-single-",
+    "title": "TJO Presents Isabella Kensington Single Release Show",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-11",
+    "time_start": "19:00",
+    "description": "British-American singer-songwriter Isabella Kensington debuts a new single and video, drawing on influences from Gracie Abrams and Maisie Peters.",
+    "url": "https://dromnyc.com/event/tjo-presents-isabella-kensington-ep-release-video-debut-show/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.367Z"
+  },
+  {
+    "id": "terraza-7-2026-11-13-moneco-chicha-peruana",
+    "title": "MONECO | Chicha Peruana",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-13",
+    "description": "Peruvian chicha music performance at Terraza 7.",
+    "url": "https://www.terraza7.com/detalles-y-registro/moneco-chicha-peruana-first-set-7",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.389Z"
+  },
+  {
+    "id": "terraza-7-2026-11-14-guachinangos-new-york-sounds-of-son-jaro",
+    "title": "Guachinangos – New York Sounds of Son Jarocho",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-14",
+    "description": "A performance of son jarocho, the Afro-Mexican folk music tradition of Veracruz, reimagined by a New York-based ensemble.",
+    "url": "https://www.terraza7.com/detalles-y-registro/guachinangos-new-york-sounds-of-son-jarocho-first-set-14",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "son-jarocho"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.390Z"
+  },
+  {
+    "id": "terraza-7-2026-11-16-rom-n-d-az-la-rumba-de-los-lunes",
+    "title": "Román Díaz & La Rumba de los Lunes",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-16",
+    "description": "Afro-Cuban rumba performance led by percussionist Román Díaz as part of Terraza 7's Monday rumba series.",
+    "url": "https://www.terraza7.com/detalles-y-registro/roman-diaz-la-rumba-de-los-lunes-43",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.390Z"
+  },
+  {
+    "id": "terraza-7-2026-11-20-la-china-sonidera-nyc-ensemble-cumbia-oa",
+    "title": "La China Sonidera — NYC Ensemble | Cumbia Oaxaqueña",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-20",
+    "description": "A New York ensemble performing cumbia oaxaqueña, a regional Mexican cumbia style.",
+    "url": "https://www.terraza7.com/detalles-y-registro/la-china-sonidera-nyc-ensemble-cumbia-oaxaquena-first-set",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "cumbia"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.390Z"
+  },
+  {
+    "id": "terraza-7-2026-11-28-xiomara-torres-la-voz-del-mar-colombian-",
+    "title": "Xiomara Torres | \"La Voz del Mar\" | Colombian Pacific Coast Music",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-28",
+    "description": "Vocalist Xiomara Torres performs traditional music from Colombia's Pacific coast.",
+    "url": "https://www.terraza7.com/detalles-y-registro/xiomara-torres-la-voz-del-mar-colombian-pacific-coast-music-first-set-4",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "traditional-music"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.391Z"
+  },
+  {
+    "id": "terraza-7-2026-12-08-dan-neville-sextet-jazz-inspired-by-colo",
+    "title": "Dan Neville Sextet | Jazz Inspired by Colombia's Pacific Coast",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-12-08",
+    "description": "A sextet led by Dan Neville performing jazz inspired by the music of Colombia's Pacific coast.",
+    "url": "https://www.terraza7.com/detalles-y-registro/dan-neville-sextet-jazz-inspired-by-colombias-pacific-coast-first-set",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.391Z"
+  },
+  {
+    "id": "film-forum-2026-11-14-threeasfour-full-circle-q-a-with-sean-on",
+    "title": "threeASFOUR: Full Circle — Q&A with Sean Ono Lennon",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-14",
+    "time_start": "19:00",
+    "description": "Documentary on the fashion/art collective threeASFOUR, with a post-screening Q&A featuring filmmaker Sean Ono Lennon and subjects Gabi Asfour, Angela Donhauser, and Adi Gil.",
+    "url": "https://filmforum.org/events/event/threeasfour-full-circle-november-14",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.406Z"
+  },
+  {
+    "id": "film-forum-2026-11-24-nelly-and-monsieur-arnaud",
+    "title": "Nelly and Monsieur Arnaud",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-24",
+    "time_start": "18:10",
+    "description": "A one-off repertory screening of Claude Sautet's 1995 drama starring Michel Serrault and Emmanuelle Béart.",
+    "url": "https://filmforum.org/film/nelly-and-monsieur-arnaud",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.406Z"
+  },
+  {
+    "id": "film-forum-2026-12-11-l-innocente",
+    "title": "L'Innocente",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-12-11",
+    "description": "A one-week repertory run of Luchino Visconti's final film.",
+    "url": "https://filmforum.org/film/linnocente",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.407Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-11-brick-mortar-and-memory-architecture-and",
+    "title": "Brick, Mortar, and Memory: Architecture and Placemaking in Jackson Ward",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-11",
+    "time_start": "13:00",
+    "description": "A Preservation Lecture Series talk on architecture and placemaking in Richmond's historic Jackson Ward neighborhood.",
+    "url": "https://www.arch.columbia.edu/events/4284-brick-mortar-and-memory-architecture-and-placemaking-in-jackson-ward",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "preservation"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.423Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-11-distinguished-leaders-a-conversation-wit",
+    "title": "Distinguished Leaders: A Conversation with Laurie Golub, Chief Operating Officer of Affinius Capital",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-11",
+    "time_start": "18:15",
+    "description": "A lecture conversation with Laurie Golub, COO of real estate investment firm Affinius Capital.",
+    "url": "https://www.arch.columbia.edu/events/4363-distinguished-leaders-a-conversation-with-laurie-golub-chief-operating-officer-of-affinius-capital",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:31:31.423Z"
   }
 ]

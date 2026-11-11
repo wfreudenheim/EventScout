@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:32:17.109Z"
+    "last_checked": "2026-11-11T08:31:31.417Z"
   },
   {
     "id": "anthology-film-archives",
@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:32:17.127Z"
+    "last_checked": "2026-11-11T08:31:31.431Z"
   },
   {
     "id": "e-flux",
@@ -531,7 +531,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Correct URL is /events/ not /exhibitions. /exhibitions/ also has show listings.",
-    "last_checked": "2026-11-08T08:32:17.150Z"
+    "last_checked": "2026-11-11T08:31:31.442Z"
   },
   {
     "id": "the-kitchen",
@@ -3242,7 +3242,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:32:13.642Z"
+    "last_checked": "2026-11-11T08:31:31.362Z"
   },
   {
     "id": "canyon",
@@ -3391,7 +3391,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:18:00.630Z"
+    "last_checked": "2026-11-11T08:31:31.376Z"
   },
   {
     "id": "summerstage",
@@ -3472,7 +3472,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.802Z"
+    "last_checked": "2026-11-11T08:31:31.383Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3521,7 +3521,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:32:17.091Z"
+    "last_checked": "2026-11-11T08:31:31.401Z"
   },
   {
     "id": "lincoln-center-summer",
