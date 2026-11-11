@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "harvestworks",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:40.534Z",
-    "completed_at": "2026-10-21T07:27:40.534Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "onassis-onx",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:41.099Z",
-    "completed_at": "2026-10-21T07:27:41.099Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "world-music-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:41.116Z",
-    "completed_at": "2026-10-21T07:27:41.116Z",
-    "events_found": 6,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "issue-project-room",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:27:41.124Z",
@@ -4997,6 +4967,36 @@
     "completed_at": "2026-11-11T08:22:00.269Z",
     "events_found": 3,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "creative-time",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:23:05.403Z",
+    "completed_at": "2026-11-11T08:23:05.403Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:23:05.433Z",
+    "completed_at": "2026-11-11T08:23:05.433Z",
+    "events_found": 12,
+    "events_new": 5,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "abrons-arts-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-11T08:23:05.457Z",
+    "completed_at": "2026-11-11T08:23:05.457Z",
+    "events_found": 4,
+    "events_new": 1,
     "status": "completed"
   }
 ]

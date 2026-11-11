@@ -8301,5 +8301,125 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:22:00.209Z"
+  },
+  {
+    "id": "wonderville-2026-11-19-wordhack-feat-kameelah-janan-rasheed-ram",
+    "title": "WordHack feat. Kameelah Janan Rasheed, Ramsey Nasser and Jenn Schiffer",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-19",
+    "time_start": "19:00",
+    "time_end": "22:00",
+    "description": "WordHack's ongoing series on code, language and electronic literature, featuring poet-artist Kameelah Janan Rasheed alongside creative coders Ramsey Nasser and Jenn Schiffer.",
+    "url": "https://www.wonderville.nyc/events/wordhack-11-19-26",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:23:05.411Z"
+  },
+  {
+    "id": "wonderville-2026-11-22-flapo-the-flash-laptop-and-phone-orchest",
+    "title": "FLAPO (the Flash Laptop And Phone Orchestra)",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-22",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "description": "A live performance by FLAPO, an orchestra made up entirely of laptops and phones playing improvised electronic music.",
+    "url": "https://www.wonderville.nyc/events/flapo-the-flash-laptop-and-phone-orchestra-11-22-26",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "electronic-music"
+    ],
+    "matched_categories": [
+      "Experimental Music",
+      "Art & Technology",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:23:05.411Z"
+  },
+  {
+    "id": "wonderville-2026-11-16-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-16",
+    "time_start": "20:00",
+    "description": "A live pirate-TV-style variety broadcast staged by the FORT90 Broadcast System at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-16-26",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:23:05.410Z"
+  },
+  {
+    "id": "wonderville-2026-11-17-nico-davis-friends",
+    "title": "Nico Davis & Friends",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-17",
+    "time_start": "20:00",
+    "description": "A live music set from Nico Davis and friends at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/nico-davis-friends-11-17-26",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:23:05.410Z"
+  },
+  {
+    "id": "wonderville-2026-11-18-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-18",
+    "time_start": "20:00",
+    "description": "A second open hive night for Killer Queen, the giant twin-cabinet arcade game, at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-11-18-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:23:05.410Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-11-05-en-par-bola-conversations-on-tragedy",
+    "title": "En Parábola/Conversations on Tragedy",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-11-05",
+    "description": "Natalia Lassalle-Morillo's program En Parábola/Conversations on Tragedy, running November 5–December 20, 2026 at Abrons Arts Center.",
+    "url": "https://abronsartscenter.org/programs/enparabola",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-11T08:23:05.439Z"
   }
 ]
