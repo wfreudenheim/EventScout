@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:25:44.826Z"
+    "last_checked": "2026-11-15T08:24:12.002Z"
   },
   {
     "id": "new-museum",
@@ -3029,7 +3029,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:23:05.431Z"
+    "last_checked": "2026-11-15T08:24:11.987Z"
   },
   {
     "id": "nyu-game-center",

@@ -1,26 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "printed-matter",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:38:16.376Z",
-    "completed_at": "2026-10-21T07:38:16.376Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "swiss-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:38:16.391Z",
-    "completed_at": "2026-10-21T07:38:16.391Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "nypl-live",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:39:18.033Z",
@@ -4997,6 +4977,26 @@
     "completed_at": "2026-11-15T08:20:26.924Z",
     "events_found": 4,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:24:11.989Z",
+    "completed_at": "2026-11-15T08:24:11.989Z",
+    "events_found": 10,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "moma-ps1",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:24:12.005Z",
+    "completed_at": "2026-11-15T08:24:12.005Z",
+    "events_found": 8,
+    "events_new": 7,
     "status": "completed"
   }
 ]

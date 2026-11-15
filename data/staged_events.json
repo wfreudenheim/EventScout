@@ -7824,5 +7824,242 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:20:26.913Z"
+  },
+  {
+    "id": "wonderville-2026-11-16-the-fort90-broadcast-system-presents-the",
+    "title": "THE FORT90 BROADCAST SYSTEM presents: THE FORT90 FILM CLUB (\"LEFTOVERS\" volume 4, part 2)",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-16",
+    "time_start": "20:00",
+    "description": "A recurring public-access-style screening series at Wonderville presenting found/experimental video compilations under the FORT90 banner.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-16-26",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.959Z"
+  },
+  {
+    "id": "wonderville-2026-11-22-sonosphere",
+    "title": "SONOSPHERE",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-22",
+    "time_start": "20:00",
+    "time_end": "23:00",
+    "description": "A sound-focused performance event at Wonderville's arcade bar.",
+    "url": "https://www.wonderville.nyc/events/sonosphere-11-22-26",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.961Z"
+  },
+  {
+    "id": "wonderville-2026-11-23-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-23",
+    "time_start": "20:00",
+    "description": "Another installment of the recurring FORT90 public-access-style video broadcast/screening series at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-23-26",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.962Z"
+  },
+  {
+    "id": "wonderville-2026-11-20-club-massive-jungle-is-hardcore",
+    "title": "Club Massive: Jungle Is Hardcore",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-20",
+    "time_start": "20:00",
+    "description": "A club night at Wonderville focused on jungle and hardcore electronic music.",
+    "url": "https://www.wonderville.nyc/events/club-massive-jungle-is-hardcore-11-20-26",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "electronic-music"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.960Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-15-courtyard-commission-precious-okoyomon",
+    "title": "Courtyard Commission: Precious Okoyomon",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-15",
+    "description": "Artist and poet Precious Okoyomon transforms the MoMA PS1 courtyard into a living, growing forest of plants, interactive sculpture, and sound for this inaugural Courtyard Commission, blending native and invasive species, cultivated and wild growth. On view through 2028.",
+    "url": "https://www.momaps1.org/en/programs/747-courtyard-commission-precious-okoyomon",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 5,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Climate & Environment",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.992Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-15-teresa-margolles-en-el-lugar-de-los-hech",
+    "title": "Teresa Margolles: En el Lugar de los Hechos (At the Scene)",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-15",
+    "description": "Trained as a forensic pathologist and photographer, Margolles presents work examining transnational violence at the US-Mexico border, tracing disappearances and femicides through methodical research and site-responsive interventions. Ends Feb 8, 2027.",
+    "url": "https://www.momaps1.org/en/programs/760-teresa-margolles",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.993Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-15-masao-gozu-windows-and-bars",
+    "title": "Masao Gozu: Windows and Bars",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-15",
+    "description": "The first US museum exhibition on photographer Masao Gozu, presenting his Windows and Harry's Bar series shot through tenement windows across NYC from the 1970s to today, an extended architectural study of the city's built landscape. Ends Mar 15, 2027.",
+    "url": "https://www.momaps1.org/en/programs/799-masao-gozu-windows-and-bars",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "landscape",
+      "museum-exhibition"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Architecture & Urbanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.993Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-15-homeroom-artists-against-the-bomb",
+    "title": "Homeroom: Artists Against the Bomb",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-15",
+    "description": "An exhibition presenting the international artistic campaign Artists Against the Bomb, spanning posters, design, film, photography, literature, music, sculpture, and ephemera in support of nuclear weapons abolition. Ends Feb 8, 2027.",
+    "url": "https://www.momaps1.org/en/programs/838-homeroom-artists-against-the-bomb",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 2.5,
+    "tags": [
+      "sculpture",
+      "photography"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.993Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-15-hard-art",
+    "title": "Hard Art",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-15",
+    "description": "A major exhibition examining the legacy of abstract painting by Black artists in the US from 1969 to today, featuring over forty artists across painting, sculpture, video, and sound. Ends Mar 15, 2027.",
+    "url": "https://www.momaps1.org/en/programs/744-hard-art",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 2.5,
+    "tags": [
+      "sculpture",
+      "painting"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.993Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-15-modern-spotlight-fred-wilson",
+    "title": "Modern Spotlight: Fred Wilson",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-15",
+    "description": "A focused presentation of Fred Wilson's sculpture To Die Upon A Kiss, created with Murano glassblowers and inspired by depictions of Black figures in Venetian art history. Ends Sep 6, 2027.",
+    "url": "https://www.momaps1.org/en/programs/884-modern-spotlight-fred-wilson",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 2.2,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.993Z"
+  },
+  {
+    "id": "moma-ps1-2026-11-15-new-york-fashion-at-ps1-1980-1984",
+    "title": "New York Fashion at PS1, 1980-1984",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2026-11-15",
+    "description": "An exhibition revisiting MoMA PS1's early fashion program, part of a wider Multi-Disciplinary Program spanning sound, performance, poetry, film, and architecture, drawn from museum archives and ephemera. Ends Mar 15, 2027.",
+    "url": "https://www.momaps1.org/en/programs/793-new-york-fashion-at-ps1-1980-1984",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:11.993Z"
   }
 ]
