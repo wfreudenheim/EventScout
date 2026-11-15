@@ -6738,5 +6738,187 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:16:05.897Z"
+  },
+  {
+    "id": "filmmakers-coop-2026-11-18-grief",
+    "title": "GRIEF",
+    "venue_id": "filmmakers-coop",
+    "venue_name": "Film-Makers' Cooperative",
+    "date": "2026-11-18",
+    "time_start": "19:30",
+    "time_end": null,
+    "description": "FMC filmmaker-member, Advisory Board member, and guest curator Devon Narine-Singh presents a program of avant-garde films exploring grief.",
+    "url": "https://film-makerscoop.com/screenings/grief",
+    "price": "unknown",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:45.747Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-12-02-the-cool-world",
+    "title": "The Cool World",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-12-02",
+    "time_start": null,
+    "time_end": null,
+    "description": "Screening of Shirley Clarke's 1964 independent film THE COOL WORLD, a landmark of American independent cinema, at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/the-cool-world",
+    "price": "unknown",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:45.770Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-22-the-children-s-storefront",
+    "title": "The Children's Storefront",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-22",
+    "time_start": null,
+    "time_end": null,
+    "description": "Documentary screening presented at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/childrens-storefront",
+    "price": "unknown",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:45.770Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-11-23-american-pachuco-the-legend-of-luis-vald",
+    "title": "American Pachuco: The Legend of Luis Valdez",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-11-23",
+    "time_start": null,
+    "time_end": null,
+    "description": "Documentary on playwright and filmmaker Luis Valdez, founder of El Teatro Campesino, screened at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/american-pachuco-luis-valdez",
+    "price": "unknown",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:45.770Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-12-03-nuns-vs-the-vatican",
+    "title": "Nuns vs The Vatican",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-12-03",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Documentary screening of \"Nuns vs the Vatican\" at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/nuns-vs-vatican-12-3-7pm",
+    "price": "unknown",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:45.771Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-12-04-nuns-vs-the-vatican",
+    "title": "Nuns vs The Vatican",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-12-04",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Documentary screening of \"Nuns vs the Vatican\" at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/nuns-vs-vatican-12-4-7pm",
+    "price": "unknown",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:45.771Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-12-05-nuns-vs-the-vatican",
+    "title": "Nuns vs The Vatican",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-12-05",
+    "time_start": "15:00",
+    "time_end": null,
+    "description": "Documentary screening of \"Nuns vs the Vatican\" at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/nuns-vs-vatican-12-5-3pm",
+    "price": "unknown",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:45.771Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-12-05-nuns-vs-the-vatican",
+    "title": "Nuns vs The Vatican",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-12-05",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Documentary screening of \"Nuns vs the Vatican\" at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/nuns-vs-vatican-12-5-7pm",
+    "price": "unknown",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:45.771Z"
   }
 ]

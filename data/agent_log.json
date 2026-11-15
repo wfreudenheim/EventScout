@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "japan-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:47.582Z",
-    "completed_at": "2026-10-21T07:27:47.582Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "summerstage",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:34:34.343Z",
-    "completed_at": "2026-10-21T07:34:34.343Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "bam",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:34:35.012Z",
-    "completed_at": "2026-10-21T07:34:35.012Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "cooper-union",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:34:35.042Z",
-    "completed_at": "2026-10-21T07:34:35.042Z",
-    "events_found": 5,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "bard-graduate-center",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:34:35.057Z",
@@ -4995,6 +4955,46 @@
     "scrape_tier_used": 3,
     "started_at": "2026-11-15T08:16:05.934Z",
     "completed_at": "2026-11-15T08:16:05.934Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "filmmakers-coop",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:16:45.767Z",
+    "completed_at": "2026-11-15T08:16:45.767Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "maysles-documentary-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:16:45.780Z",
+    "completed_at": "2026-11-15T08:16:45.780Z",
+    "events_found": 10,
+    "events_new": 7,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "millennium-film-workshop",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:16:45.786Z",
+    "completed_at": "2026-11-15T08:16:45.786Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "creative-time",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:16:45.793Z",
+    "completed_at": "2026-11-15T08:16:45.793Z",
     "events_found": 1,
     "events_new": 0,
     "status": "completed"
