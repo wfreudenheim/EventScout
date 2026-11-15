@@ -1,76 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "culturehub",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.866Z",
-    "completed_at": "2026-10-25T07:17:24.866Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "printed-matter",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.878Z",
-    "completed_at": "2026-10-25T07:17:24.878Z",
-    "events_found": 7,
-    "events_new": 5,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "brooklyn-rail",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.902Z",
-    "completed_at": "2026-10-25T07:17:24.902Z",
-    "events_found": 6,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "blank-forms",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.917Z",
-    "completed_at": "2026-10-25T07:17:24.917Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "the-shed",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.923Z",
-    "completed_at": "2026-10-25T07:17:24.923Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "microscope-gallery",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:23:13.088Z",
-    "completed_at": "2026-10-25T07:23:13.088Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyu-itp",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:23:13.104Z",
-    "completed_at": "2026-10-25T07:23:13.104Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "vera-list-center",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:23:13.122Z",
@@ -4997,6 +4927,76 @@
     "completed_at": "2026-11-15T08:32:06.963Z",
     "events_found": 2,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "jack-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:59.736Z",
+    "completed_at": "2026-11-15T08:32:59.736Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "green-wood",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:59.767Z",
+    "completed_at": "2026-11-15T08:32:59.767Z",
+    "events_found": 7,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "drom",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:59.782Z",
+    "completed_at": "2026-11-15T08:32:59.782Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "flushing-town-hall",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:59.797Z",
+    "completed_at": "2026-11-15T08:32:59.797Z",
+    "events_found": 4,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "terraza-7",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:59.818Z",
+    "completed_at": "2026-11-15T08:32:59.818Z",
+    "events_found": 12,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "film-forum",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:59.835Z",
+    "completed_at": "2026-11-15T08:32:59.835Z",
+    "events_found": 12,
+    "events_new": 8,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "columbia-gsapp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:59.849Z",
+    "completed_at": "2026-11-15T08:32:59.849Z",
+    "events_found": 2,
+    "events_new": 2,
     "status": "completed"
   }
 ]

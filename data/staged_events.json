@@ -8823,5 +8823,435 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:32:06.953Z"
+  },
+  {
+    "id": "green-wood-2026-12-06-conifers-2pm-",
+    "title": "Conifers (2pm)",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-12-06",
+    "time_start": "14:00",
+    "time_end": "15:00",
+    "description": "New site-specific sound/performance work by Gelsey Bell (voice, daxophone) and Jess Tsang (percussion), meditating on growth, death, and renewal in the forest, staged at Green-Wood Cemetery.",
+    "url": "https://www.green-wood.com/event/conifers/",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.741Z"
+  },
+  {
+    "id": "green-wood-2026-12-06-conifers-4pm-",
+    "title": "Conifers (4pm)",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-12-06",
+    "time_start": "16:00",
+    "time_end": "17:00",
+    "description": "Second performance of the same evening: a new site-specific sound/performance work by Gelsey Bell (voice, daxophone) and Jess Tsang (percussion), meditating on growth, death, and renewal in the forest, staged at Green-Wood Cemetery.",
+    "url": "https://www.green-wood.com/event/conifers-2/",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Climate & Environment",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.741Z"
+  },
+  {
+    "id": "green-wood-2026-11-22-green-wood-s-greatest-hits",
+    "title": "Green-Wood's Greatest Hits",
+    "venue_id": "green-wood",
+    "venue_name": "Green-Wood Cemetery",
+    "date": "2026-11-22",
+    "time_start": "13:00",
+    "time_end": "14:30",
+    "description": "Guided walking tour through Green-Wood's history, following stories from George Washington's troops to the landmark's famous residents.",
+    "url": "https://www.green-wood.com/event/green-woods-greatest-hits-20/",
+    "price": "varies",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.740Z"
+  },
+  {
+    "id": "drom-2026-11-15-orkhan-zeynalli",
+    "title": "Orkhan Zeynalli",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-15",
+    "time_start": "18:30",
+    "description": "Azerbaijani musician Orkhan Zeynalli performs a fusion of traditional Azerbaijani influences and contemporary hip-hop.",
+    "url": "https://dromnyc.com/event/orkhan-zeynalli-2/",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.770Z"
+  },
+  {
+    "id": "drom-2026-11-18-agadez",
+    "title": "Agadez",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-18",
+    "time_start": "18:30",
+    "description": "Italian singer-songwriter Agadez performs music drawing on the Sacred Feminine, archeo-mythology, and shamanism, with voice, frame drums, and guitar evoking archaic and tribal sound worlds.",
+    "url": "https://dromnyc.com/event/agedaz-presented-in-partnership-with-wmi/",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.770Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-12-12-calpulli-s-navidad",
+    "title": "Calpulli's Navidad",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-12-12",
+    "description": "Theatrical dance work where mariachi trumpets meet Tchaikovsky's strings and Aztec-inspired dance shares the stage with ballet, following a young girl discovering what it means to belong to two cultures at once.",
+    "url": "https://www.flushingtownhall.org/show-details/calpullis-navidad",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [
+      "mariachi"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.785Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-12-05-2026-native-american-market-social",
+    "title": "2026 Native American Market & Social",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-12-05",
+    "description": "Community-building afternoon centered on Native American traditions, featuring artwork, dancing, drumming, singing, and shared stories, with guest singer Josie Tourrant.",
+    "url": "https://www.flushingtownhall.org/show-details/2026-native-american-market-social",
+    "price": "free",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.785Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-12-09-monthly-jazz-jam-celebrating-jewish-comp",
+    "title": "Monthly Jazz Jam: Celebrating Jewish Composers of Christmas Music & Their Songs",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-12-09",
+    "description": "Open jazz jam led by Carol Sudhalter celebrating the Jewish composers behind holiday classics like \"White Christmas,\" \"Let It Snow,\" and \"Santa Baby.\" Musicians of all levels welcome to play.",
+    "url": "https://www.flushingtownhall.org/show-details/monthly-jazz-jam-celebrating-jewish-composers-of-christmas-music-their-songs",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.785Z"
+  },
+  {
+    "id": "terraza-7-2026-12-20-max-pollak-the-rumbatap-jam",
+    "title": "Max Pollak | The RumbaTap Jam",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-12-20",
+    "description": "Max Pollak leads a RumbaTap jam, blending tap dance with Afro-Cuban rumba in an embodied, percussive performance.",
+    "url": "https://www.terraza7.com/detalles-y-registro/max-pollak-the-rumbatap-jam-3",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.803Z"
+  },
+  {
+    "id": "terraza-7-2026-11-20-la-china-sonidera-nyc-ensemble-cumbia-oa",
+    "title": "La China Sonidera — NYC Ensemble | Cumbia Oaxaqueña (Second Set)",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-11-20",
+    "description": "Second set: NYC ensemble La China Sonidera performs cumbia oaxaqueña, a regional Mexican cumbia tradition.",
+    "url": "https://www.terraza7.com/detalles-y-registro/la-china-sonidera-nyc-ensemble-cumbia-oaxaquena-second-set",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "cumbia"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.802Z"
+  },
+  {
+    "id": "terraza-7-2026-12-08-dan-neville-sextet-jazz-inspired-by-colo",
+    "title": "Dan Neville Sextet | Jazz Inspired by Colombia's Pacific Coast (Second Set)",
+    "venue_id": "terraza-7",
+    "venue_name": "Terraza 7",
+    "date": "2026-12-08",
+    "description": "Second set: Dan Neville Sextet performs jazz inspired by the musical traditions of Colombia's Pacific coast.",
+    "url": "https://www.terraza7.com/detalles-y-registro/dan-neville-sextet-jazz-inspired-by-colombias-pacific-coast-second-set",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.802Z"
+  },
+  {
+    "id": "film-forum-2026-11-15-threeasfour-full-circle-q-a-with-sean-on",
+    "title": "threeASFOUR: Full Circle — Q&A with Sean Ono Lennon, Gabi Asfour, Angela Donhauser & Adi Gil",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-15",
+    "time_start": "14:30",
+    "description": "Screening of the documentary threeASFOUR: Full Circle followed by a Q&A with filmmaker Sean Ono Lennon and his subjects, fashion collective threeASFOUR members Gabi Asfour, Angela Donhauser, and Adi Gil.",
+    "url": "https://filmforum.org/events/event/threeasfour-full-circle-november-15",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.821Z"
+  },
+  {
+    "id": "film-forum-2026-11-19-raise-the-red-lantern-zhang-yimou-",
+    "title": "Raise the Red Lantern (Zhang Yimou)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-19",
+    "description": "Repertory run (through Nov 19) of Zhang Yimou's Raise the Red Lantern, a visually sumptuous classic of Chinese cinema.",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.821Z"
+  },
+  {
+    "id": "film-forum-2026-11-20-all-of-a-sudden-sneak-preview-q-a-with-r",
+    "title": "All of a Sudden — Sneak Preview & Q&A with Ryûsuke Hamaguchi",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-20",
+    "time_start": "18:30",
+    "description": "Sneak preview screening of All of a Sudden followed by a Q&A with filmmaker Ryûsuke Hamaguchi, co-presented by Filmmaker Magazine.",
+    "url": "https://filmforum.org/events/event/all-of-a-sudden-november-20",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.821Z"
+  },
+  {
+    "id": "film-forum-2026-12-06-joan-of-arc-1948-in-35mm-ingrid-bergman",
+    "title": "Joan of Arc (1948) in 35mm — Ingrid Bergman",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-12-06",
+    "time_start": "17:30",
+    "description": "Special 35mm screening of Joan of Arc (1948) starring Ingrid Bergman, presented as part of the Rossellini 120 retrospective.",
+    "url": "https://filmforum.org/film/joan-of-arc-rossellini-120",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.822Z"
+  },
+  {
+    "id": "film-forum-2026-11-15-silent-lubitsch-so-this-is-paris",
+    "title": "Silent Lubitsch: So This Is Paris",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-15",
+    "time_start": "18:20",
+    "description": "Opening night of the Silent Lubitsch repertory series with So This Is Paris; the series continues with a different silent Lubitsch film each Monday.",
+    "url": "https://filmforum.org/series/silent-lubitsch",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.821Z"
+  },
+  {
+    "id": "film-forum-2026-11-16-threeasfour-full-circle-introduced-by-co",
+    "title": "threeASFOUR: Full Circle — Introduced by Co-Director Brian C. González",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-16",
+    "time_start": "18:50",
+    "description": "Screening of threeASFOUR: Full Circle introduced by co-director Brian C. González, co-presented by BerkleeNYC.",
+    "url": "https://filmforum.org/events/event/threeasfour-full-circle-november-16",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.821Z"
+  },
+  {
+    "id": "film-forum-2026-11-29-when-caesar-was-king-the-comedy-genius-o",
+    "title": "When Caesar Was King: The Comedy Genius of Sid Caesar",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-29",
+    "time_start": "15:30",
+    "description": "Special screening celebrating the comedy genius of Sid Caesar.",
+    "url": "https://filmforum.org/film/when-caesar-was-king-2026",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.822Z"
+  },
+  {
+    "id": "film-forum-2026-12-04-the-friend-s-house-is-here",
+    "title": "The Friend's House Is Here",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-12-04",
+    "description": "Theatrical opening of The Friend's House Is Here at Film Forum.",
+    "url": "https://filmforum.org/film/the-friends-house-is-here",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.822Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-19-the-library-is-open-34-max-bond-the-life",
+    "title": "THE LIBRARY IS OPEN 34: Max Bond: The Life and Work of the People's Architect",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-19",
+    "time_start": "12:30",
+    "description": "Talk in the Library Is Open series on architect J. Max Bond Jr., examining his life and work as \"the people's architect.\"",
+    "url": "https://www.arch.columbia.edu/events/4230-the-library-is-open-34-max-bond-the-life-and-work-of-the-people-s-architect",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.837Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-16-alumni-conversations-karl-wadia-06-msaad",
+    "title": "Alumni Conversations: Karl Wadia '06 MSAAD",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-16",
+    "time_start": "18:30",
+    "description": "Alumni conversation series talk with Karl Wadia, GSAPP M.S. Architecture and Urban Design alum.",
+    "url": "https://www.arch.columbia.edu/events/4371-alumni-conversations-karl-wadia-06-msaad",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [
+      "urban-design"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:59.837Z"
   }
 ]
