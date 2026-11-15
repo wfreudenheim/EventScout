@@ -8061,5 +8061,112 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:24:11.993Z"
+  },
+  {
+    "id": "poetry-project-2026-11-20-crackhead-barney-ann-liv-young",
+    "title": "Crackhead Barney + Ann Liv Young",
+    "venue_id": "poetry-project",
+    "venue_name": "The Poetry Project",
+    "date": "2026-11-20",
+    "time_start": "20:00",
+    "description": "A reading/performance pairing provocateur Crackhead Barney with experimental performance artist Ann Liv Young.",
+    "url": "https://www.poetryproject.org/events/crackhead-barney-ann-liv-young",
+    "price": "$10",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:54.644Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-12-16-hanji-here",
+    "title": "Hanji, Here",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-12-16",
+    "time_start": "18:00",
+    "description": "A book talk by artist Aimee Lee on hanji, traditional Korean handmade paper, and its contemporary art applications.",
+    "url": "https://shop.centerforbookarts.org/products/curatorial-walkthrough-of-paper-cuts-copy",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2.2,
+    "tags": [
+      "contemporary-art"
+    ],
+    "matched_categories": [
+      "Language & Culture",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:54.657Z"
+  },
+  {
+    "id": "franklin-furnace-2026-11-18-printed-matter-book-launch-back-to-the-p",
+    "title": "Printed Matter Book Launch: Back to the Present: 50 Years of Free Expression with Franklin Furnace",
+    "venue_id": "franklin-furnace",
+    "venue_name": "Franklin Furnace",
+    "date": "2026-11-18",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "A launch celebration at Printed Matter for Franklin Furnace's 50th-anniversary book, with readings, Martha Wilson trivia, and cake.",
+    "url": "https://franklinfurnace.org/printed_matter_book_launch/",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:54.678Z"
+  },
+  {
+    "id": "fridman-gallery-2026-12-13-mirrored-in-time",
+    "title": "Mirrored in Time",
+    "venue_id": "fridman-gallery",
+    "venue_name": "Fridman Gallery",
+    "date": "2026-12-13",
+    "description": "A group exhibition featuring Alexa Kumiko Hatanaka, Naomi Lisiki, Will Maxen, and sound artist/curator Daniel Neumann; on view through December 13 (opened November 11).",
+    "url": "https://fridmangallery.com/2026/10/11/exhibitions-mirrored-in-time-11-11-12-13-2026/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "sound-art"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:54.694Z"
+  },
+  {
+    "id": "fridman-gallery-2026-11-15-a-world-of-her-own",
+    "title": "A World of Her Own",
+    "venue_id": "fridman-gallery",
+    "venue_name": "Fridman Gallery",
+    "date": "2026-11-15",
+    "description": "A solo project-room exhibition by Madeleine Skrzynecka, on view through December 13.",
+    "url": "https://fridmangallery.com/2026/10/11/madeleine-skrzynecka-a-world-of-her-own-nov-11-dec-13-2026/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:24:54.694Z"
   }
 ]
