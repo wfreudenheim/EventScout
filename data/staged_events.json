@@ -8648,5 +8648,118 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:27:46.517Z"
+  },
+  {
+    "id": "whitney-2026-11-18-member-preview-days-for-artport-a-histor",
+    "title": "Member Preview Days for Artport: A History of Internet Art",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-18",
+    "time_start": "12:00",
+    "time_end": "18:00",
+    "description": "Members get early access to Artport, an exhibition tracing the history of net art, internet art pioneers, and early new-media practices.",
+    "url": "https://whitney.org/events/member-preview-days-artport",
+    "price": "members only",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [
+      "net-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:31:18.855Z"
+  },
+  {
+    "id": "elsewhere-2026-12-18-shabe-yalda-with-club-joon",
+    "title": "Shabe Yalda with Club Joon",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-12-18",
+    "time_start": "22:30",
+    "description": "A celebration of Shabe Yalda (Persian Winter Solstice Night) presented by Club Joon, featuring music rooted in Persian and Iranian diaspora culture.",
+    "url": "https://www.elsewhere.club/events/2004089579882",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:31:18.869Z"
+  },
+  {
+    "id": "elsewhere-2026-12-18-combo-chimbita-10-year-anniversary-w-yas",
+    "title": "Combo Chimbita - 10 Year Anniversary w/ Yasser Tejeda, Discolocas",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-12-18",
+    "time_start": "19:00",
+    "description": "Colombian psychedelic cumbia band Combo Chimbita celebrates its 10th anniversary at Elsewhere, joined by Dominican guitarist Yasser Tejeda and Discolocas.",
+    "url": "https://www.elsewhere.club/events/2004442030070",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "cumbia"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:31:18.870Z"
+  },
+  {
+    "id": "elsewhere-2026-12-04-laylit",
+    "title": "Laylit",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-12-04",
+    "time_start": "22:00",
+    "description": "Laylit is a Brooklyn-based club night and party series celebrating Arabic, Southwest Asian, and North African (SWANA) music and diaspora culture.",
+    "url": "https://www.elsewhere.club/events/2002090179622",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:31:18.869Z"
+  },
+  {
+    "id": "the-brick-2027-01-14-the-exponential-festival-i-prefer-to-die",
+    "title": "The Exponential Festival: I Prefer To Die In This Moment",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2027-01-14",
+    "time_start": "20:00",
+    "description": "Written, directed, and choreographed by Iris McCloughan, an embodied performance exploring sex, desire, power, and disappearance, part of The Exponential Festival at The Brick Theater.",
+    "url": "https://www.bricktheater.com/event/the-exponential-festival-i-prefer-to-die-in-this-moment/2027-01-14/",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:31:18.890Z"
   }
 ]
