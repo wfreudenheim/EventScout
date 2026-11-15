@@ -8168,5 +8168,195 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:24:54.694Z"
+  },
+  {
+    "id": "public-records-2026-11-15-kara-lis-coverdale-molina-pavel-milyakov",
+    "title": "Kara-Lis Coverdale, Molina, Pavel Milyakov presents 'Thrill'",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-15",
+    "time_start": "18:00",
+    "description": "Experimental ambient/drone artist Kara-Lis Coverdale performs alongside Molina and Pavel Milyakov's 'Thrill' project.",
+    "url": "https://link.dice.fm/Refaffbf2140",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "ambient",
+      "drone"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.873Z"
+  },
+  {
+    "id": "public-records-2026-11-19-bhangra-liberation-orchestra",
+    "title": "Bhangra Liberation Orchestra",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-19",
+    "time_start": "19:00",
+    "description": "Live performance by the Bhangra Liberation Orchestra, blending Punjabi bhangra rhythms with contemporary arrangements.",
+    "url": "https://link.dice.fm/Rd9e3c90b693",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.873Z"
+  },
+  {
+    "id": "public-records-2026-11-19-discostan-with-omid-walizadeh-mansaf-mam",
+    "title": "Discostan with Omid Walizadeh, Mansaf Mama",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-19",
+    "time_start": "22:30",
+    "description": "Discostan's SWANA/South Asian diaspora dance party with Omid Walizadeh and Mansaf Mama in the Sound Room.",
+    "url": "https://link.dice.fm/s20ed64583a2",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.873Z"
+  },
+  {
+    "id": "public-records-2026-11-15-durations-my-brunch-in-the-new-age-with-",
+    "title": "DURATIONS: My Brunch in the New Age with Francis Harris & Sruly Lazaros",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-15",
+    "time_start": "10:00",
+    "description": "Durations series ambient/electronic brunch set from Francis Harris and Sruly Lazaros in The Atrium.",
+    "url": "https://resy.com/cities/new-york-ny/venues/public-records/events/my-brunch-in-the-new-age-with-francis-harris-sruly-lazaros-2026-11-15-6",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.870Z"
+  },
+  {
+    "id": "public-records-2026-12-04-john-beltran-live-",
+    "title": "John Beltran [Live]",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-04",
+    "time_start": "19:00",
+    "description": "Live performance from ambient/techno pioneer John Beltran in the Sound Room.",
+    "url": "https://link.dice.fm/le8dd5c3406f",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.878Z"
+  },
+  {
+    "id": "public-records-2026-11-15-yu-su-ghost-dubs-live-k-wata-live-ayanna",
+    "title": "Yu Su, Ghost Dubs [Live], K Wata [Live], Ayanna Heaven",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-15",
+    "time_start": "16:00",
+    "description": "Club afternoon in The Atrium with electronic producer Yu Su alongside Ghost Dubs, K Wata, and Ayanna Heaven.",
+    "url": "https://link.dice.fm/de6a1812266f",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.872Z"
+  },
+  {
+    "id": "public-records-2026-12-05-lizzie-steiner-reluctant-princess-album-",
+    "title": "Lizzie Steiner – 'Reluctant Princess' Album Release, Conversation, + Performance",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-05",
+    "time_start": "18:00",
+    "description": "Album release event for Lizzie Steiner's 'Reluctant Princess' combining a conversation and live performance at Upstairs.",
+    "url": "https://link.dice.fm/cc4c452b227e",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.879Z"
+  },
+  {
+    "id": "public-records-2026-12-05-genevieve-artadi-ft-louis-cole-chiquita-",
+    "title": "Genevieve Artadi ft. Louis Cole & Chiquita Magic",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-05",
+    "time_start": "19:00",
+    "description": "Live performance from Genevieve Artadi featuring Louis Cole and Chiquita Magic.",
+    "url": "https://link.dice.fm/add7f9902d33",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.879Z"
+  },
+  {
+    "id": "public-records-2026-12-10-international-anthem-presents-josh-johns",
+    "title": "International Anthem presents Josh Johnson – ANIMATIVE with Anna Butterss & Ben Lumsdaine",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-10",
+    "time_start": "19:00",
+    "description": "Experimental jazz label International Anthem presents saxophonist Josh Johnson's ANIMATIVE project with Anna Butterss and Ben Lumsdaine.",
+    "url": "https://link.dice.fm/a5f37a42c194",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:25:58.880Z"
   }
 ]

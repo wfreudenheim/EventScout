@@ -1,36 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "anthology-film-archives",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.576Z",
-    "completed_at": "2026-10-25T07:17:24.576Z",
-    "events_found": 5,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "moma",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.585Z",
-    "completed_at": "2026-10-25T07:17:24.585Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "japan-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.604Z",
-    "completed_at": "2026-10-25T07:17:24.604Z",
-    "events_found": 12,
-    "events_new": 11,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "electronic-arts-intermix",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:17:24.618Z",
@@ -4997,6 +4967,36 @@
     "completed_at": "2026-11-15T08:24:54.706Z",
     "events_found": 2,
     "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:25:58.906Z",
+    "completed_at": "2026-11-15T08:25:58.906Z",
+    "events_found": 12,
+    "events_new": 9,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "swiss-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:25:58.913Z",
+    "completed_at": "2026-11-15T08:25:58.913Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "white-columns",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:25:58.920Z",
+    "completed_at": "2026-11-15T08:25:58.920Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]
