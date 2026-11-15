@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:25:44.849Z"
+    "last_checked": "2026-11-15T08:27:46.460Z"
   },
   {
     "id": "issue-project-room",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:25:44.858Z"
+    "last_checked": "2026-11-15T08:27:46.475Z"
   },
   {
     "id": "knockdown-center",
@@ -591,7 +591,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:22:21.026Z"
+    "last_checked": "2026-11-15T08:27:46.524Z"
   },
   {
     "id": "light-industry",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:24:23.620Z"
+    "last_checked": "2026-11-15T08:27:46.487Z"
   },
   {
     "id": "bitforms",
@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:24:23.635Z"
+    "last_checked": "2026-11-15T08:27:46.500Z"
   },
   {
     "id": "printed-matter",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-11-15T08:15:59.218Z"
+    "last_checked": "2026-11-15T08:27:46.513Z"
   },
   {
     "id": "the-shed",

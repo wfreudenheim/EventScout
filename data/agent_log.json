@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "electronic-arts-intermix",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.618Z",
-    "completed_at": "2026-10-25T07:17:24.618Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "museum-of-moving-image",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.646Z",
-    "completed_at": "2026-10-25T07:17:24.646Z",
-    "events_found": 8,
-    "events_new": 6,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "asia-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.665Z",
-    "completed_at": "2026-10-25T07:17:24.665Z",
-    "events_found": 6,
-    "events_new": 5,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "abrons-arts-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.679Z",
-    "completed_at": "2026-10-25T07:17:24.679Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "data-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.697Z",
-    "completed_at": "2026-10-25T07:17:24.697Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "barbes",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.713Z",
-    "completed_at": "2026-10-25T07:17:24.713Z",
-    "events_found": 12,
-    "events_new": 10,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "union-docs",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:17:24.723Z",
@@ -4997,6 +4937,66 @@
     "completed_at": "2026-11-15T08:25:58.920Z",
     "events_found": 1,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "national-sawdust",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:27:46.462Z",
+    "completed_at": "2026-11-15T08:27:46.462Z",
+    "events_found": 12,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:27:46.476Z",
+    "completed_at": "2026-11-15T08:27:46.476Z",
+    "events_found": 10,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-architecture",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:27:46.488Z",
+    "completed_at": "2026-11-15T08:27:46.488Z",
+    "events_found": 7,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "cooper-union",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:27:46.501Z",
+    "completed_at": "2026-11-15T08:27:46.501Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "printed-matter",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:27:46.514Z",
+    "completed_at": "2026-11-15T08:27:46.514Z",
+    "events_found": 10,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bam",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:27:46.525Z",
+    "completed_at": "2026-11-15T08:27:46.525Z",
+    "events_found": 2,
+    "events_new": 1,
     "status": "completed"
   }
 ]

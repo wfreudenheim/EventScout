@@ -8358,5 +8358,295 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:25:58.880Z"
+  },
+  {
+    "id": "roulette-2026-12-03-interpretations-gerry-hemingway-lina-and",
+    "title": "Interpretations: Gerry Hemingway, Lina Andonovska, and Earl Howard // Kyle Motl, Eli Wallace, and Nick Neuburg",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-03",
+    "time_start": "20:00",
+    "description": "The Interpretations series returns with two improvising ensembles: a percussion/flute/sax/synth quartet and a piano/percussion/bass trio.",
+    "url": "https://roulette.org/event/hemingway-andonovska-howard-motl-wallace-neuburg/",
+    "price": "$20",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.466Z"
+  },
+  {
+    "id": "roulette-2026-12-04-matthew-shipp-william-parker-a-whole-sys",
+    "title": "Matthew Shipp & William Parker: A Whole System Of",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-04",
+    "time_start": "20:00",
+    "description": "Two jazz legends present a rare improvised duo concert, showcasing their deeply developed musical communion.",
+    "url": "https://roulette.org/event/matthew-shipp-william-parker-duo-a-whole-system-of/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.466Z"
+  },
+  {
+    "id": "roulette-2026-12-02-amelia-heintzelman-how-dogs-play-night-2",
+    "title": "Amelia Heintzelman: How Dogs Play (Night 2)",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-02",
+    "time_start": "20:00",
+    "description": "Second performance of Amelia Heintzelman's physical, athletic ensemble piece How Dogs Play.",
+    "url": "https://roulette.org/event/amelia-heintzelman-how-dogs-play-2/",
+    "price": "$25",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.466Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-21-ai-a-series-part-7-from-world-models-to-",
+    "title": "AI+A Series, Part 7: From World Models to the Built World",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-21",
+    "time_start": "12:00",
+    "time_end": "17:30",
+    "description": "Part of AIANY's AI+Architecture series, examining how AI 'world models' intersect with and reshape the built environment.",
+    "url": "https://calendar.aiany.org/2026/11/21/aia-series-part-7-from-world-models-to-the-built-world/",
+    "price": "free",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.479Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-20-building-tour-p-e-guerin-architectural-h",
+    "title": "Building Tour: P.E. Guerin Architectural Hardware and Foundry",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-20",
+    "time_start": "09:30",
+    "time_end": "11:30",
+    "description": "AIANY Interiors Committee tour of the artisanal craft behind P.E. Guerin, a historic architectural hardware foundry in Manhattan.",
+    "url": "https://calendar.aiany.org/2026/11/20/building-tour-p-e-guerin-architectural-hardware-and-foundry/",
+    "price": "varies",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [
+      "building-tour"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.478Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-20-aia-brooklyn-double-header-sunnyside-gar",
+    "title": "AIA Brooklyn Double Header: Sunnyside Gardens Tour followed by Nerton Construction Shop Tour and Reception",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-20",
+    "description": "A tour of the Sunnyside Gardens planned community followed by a construction shop tour and reception.",
+    "url": "https://calendar.aiany.org/2026/11/20/aia-brooklyn-double-header-sunnyside-gardens-tour-followed-by-nerton-construction-shop-tour-and-reception/",
+    "price": "varies",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.478Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-21-walking-tour-privately-owned-public-spac",
+    "title": "Walking Tour: Privately Owned Public Spaces (POPS) in Midtown North",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-21",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A walking tour examining privately owned public spaces (POPS) in Midtown North and their role in the urban fabric.",
+    "url": "https://calendar.aiany.org/2026/11/21/walking-tour-privately-owned-public-spaces-pops-in-midtown-north-5/",
+    "price": "free",
+    "format": "walk",
+    "interest_score": 3,
+    "tags": [
+      "public-space"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.478Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-21-reimagining-justice-film-screening-serie",
+    "title": "Reimagining Justice Film Screening Series: The Alabama Solution",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-21",
+    "time_start": "15:00",
+    "time_end": "18:30",
+    "description": "A screening in the Reimagining Justice documentary film series, presented in partnership with Maysles Documentary Center.",
+    "url": "https://calendar.aiany.org/2026/11/21/reimagining-justice-film-screening-series-the-alabama-solution/",
+    "price": "free",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.479Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-17-ornamental-cornices-manhattan-s-sheet-me",
+    "title": "Ornamental Cornices: Manhattan's Sheet-Metal Masterpieces",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-17",
+    "description": "A Skyscraper Museum program on the craft and history of Manhattan's ornamental sheet-metal cornices.",
+    "url": "https://calendar.aiany.org/2026/11/17/the-skyscraper-museum/",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.478Z"
+  },
+  {
+    "id": "cooper-union-2026-12-01-current-work-forms-of-intelligence-labor",
+    "title": "Current Work | Forms of Intelligence: Labor",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-12-01",
+    "time_start": "18:30",
+    "description": "A talk in the Current Work series examining 'forms of intelligence' through the lens of labor, connecting AI/cognitive questions to work and economy.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/current-work-forms-intelligence-labor",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.491Z"
+  },
+  {
+    "id": "cooper-union-2026-11-19-david-reinfurt-for-open-flat-file",
+    "title": "David Reinfurt for Open Flat File",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-11-19",
+    "time_start": "18:30",
+    "description": "Designer and writer David Reinfurt presents Open Flat File, his project exploring archival and publishing systems.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/david-reinfurt-open-flat-file",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.491Z"
+  },
+  {
+    "id": "printed-matter-2026-11-15-paris-photo-book-talks",
+    "title": "Paris Photo — Book Talks",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-15",
+    "description": "Offsite book talks organized by Printed Matter as part of the Paris Photo fair, November 12-15, 2026.",
+    "url": "https://www.printedmatter.org/programs/events/2336",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.504Z"
+  },
+  {
+    "id": "printed-matter-2027-01-21-risolab-talks-vol-6-jia-sung",
+    "title": "RisoLAB Talks Vol. 6: Jia Sung",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2027-01-21",
+    "description": "Artist Jia Sung discusses risograph printing and artist's book-making in conversation with Sarula Bao.",
+    "url": "https://www.printedmatter.org/programs/events/2346",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.504Z"
+  },
+  {
+    "id": "bam-2027-01-01-bam-free-music",
+    "title": "BAM Free Music",
+    "venue_id": "bam",
+    "venue_name": "Brooklyn Academy of Music",
+    "date": "2027-01-01",
+    "description": "A free music series returning for a second season, focusing on African diasporic artists and styles in a listening, mingling, and dancing space.",
+    "url": "https://www.bam.org/bfm",
+    "price": "free",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:27:46.517Z"
   }
 ]
