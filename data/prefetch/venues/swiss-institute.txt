@@ -1,9 +1,8 @@
 VENUE:swiss-institute | Swiss Institute
 URL:https://swissinstitute.net/
-FETCHED:2026-11-11T06:39:54.695Z
+FETCHED:2026-11-15T06:37:49.753Z
 
 * Exhibitions [/exhibitions]
-    * Current [/exhibitions]
     * Past [/exhibitions/past]
 
  * Programs [/programs]
@@ -66,22 +65,6 @@ SWISS INSTITUTE
 
 CALENDAR
 
-Exhibitions
-
-SI OFFSITE | RAFAŁ SKOCZEK: KINO DRIFT
-
-Presented at WSA, 161 Water Street, 7th Floor, New York, NY 10038
-
-Wed Sep 23—Sat Nov 14 2026
-
-[https://swissinstitute.net/exhibitions/si-offsite-rafał-skoczek-kino-drift]
-Programs
-
-FILM SERIES | MOONLESS MARCH
-
-Wed Nov 11 2026, 7:00pm
-
-[https://swissinstitute.net/programs/film-series-marching-with-the-kasama]
 Programs
 
 BOOK LAUNCH | NOLAN OSWALD DENNIS: ECLIPTICS
@@ -89,12 +72,6 @@ BOOK LAUNCH | NOLAN OSWALD DENNIS: ECLIPTICS
 Sat Dec 12 2026, 12:00—2:00pm
 
 [https://swissinstitute.net/programs/book-launch-nolan-oswald-dennis-ecliptics]
-
-FILM SERIES | MOONLESS MARCH
-
-Wed Nov 11 2026, 7:00pm
-
-[https://swissinstitute.net/programs/film-series-marching-with-the-kasama]
 
 BOOK LAUNCH | NOLAN OSWALD DENNIS: ECLIPTICS
 

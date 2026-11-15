@@ -1,6 +1,6 @@
 VENUE:anthology-film-archives | Anthology Film Archives
 URL:https://www.anthologyfilmarchives.org/film_screenings/calendar
-FETCHED:2026-11-11T06:39:47.205Z
+FETCHED:2026-11-15T06:37:43.080Z
 
 ANTHOLOGY FILM ARCHIVES
 
@@ -31,7 +31,7 @@ ANTHOLOGY FILM ARCHIVES
  * Mailing List [/contact/mailing-list]
  * Directions [/contact/directions]
 
-FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-11]
+FILM SCREENINGS [/film_screenings] / FILM CALENDAR [/film_screenings/calendar] MONTH VIEW [/film_screenings/calendar?view=month] LIST VIEW [/film_screenings/calendar?view=list#day-15]
 
 November 2026
 QUARTERLY PDF [/AFA_456_2013Cal_complete.pdf?v=1] | RSS [/rss] Filter by Program Essential Cinema Premieres/Revivals Retrospectives Series Special Screenings AFA Preservations New Filmmakers

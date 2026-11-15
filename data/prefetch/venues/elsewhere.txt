@@ -1,6 +1,6 @@
 VENUE:elsewhere | Elsewhere
 URL:https://www.elsewhere.club/events
-FETCHED:2026-11-11T06:39:57.007Z
+FETCHED:2026-11-15T06:37:52.582Z
 
 CALENDAR
 
@@ -44,78 +44,6 @@ Genre
  * Metal
  * Other
 
-Wed, Nov 11
-
-INTERNET GIRL, SIPPER, GODLY THE RULER [/events/1996815850963]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/internet-girl-sipper-godly-the-ruler-tickets-1996815850963]
-
-Thu, Nov 12
-
-THE BONES OF J.R. JONES, CHRIS KASPER [/events/1993711008295]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/the-bones-of-jr-jones-chris-kasper-tickets-1993711008295]
-
-Fri, Nov 13
-
-OMNI, SAUDI OIL, BOYSCOUTMARIE [/events/1999542593724]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/omni-saudi-oil-boyscoutmarie-tickets-1999542593724]
-
-Fri, Nov 13
-
-CHATROOM LISTENING SESSION: CLASSICNEWWAVE + MTALI BANDA - FREE W/ RSVP [/events/2004443927746]
- * CLUB
- * CHATROOM
-
-9:00 PM
-Buy Tickets [https://www.eventbrite.com/e/chatroom-listening-session-classicnewwave-mtali-banda-free-w-rsvp-tickets-2004443927746]
-
-Fri, Nov 13
-
-ELSEWHERE PRESENTS: LUKE ALEXANDER @ 99 SCOTT - DEDRO, SHANKZ, MATTY CHIUCH [/presents/1996804499009]
- * CLUB
- * ↗ ELSEWHERE PRESENTS
-
-10:00 PM
-Buy Tickets [https://www.eventbrite.com/e/elsewhere-presents-luke-alexander-99-scott-dedro-shankz-matty-chiuch-tickets-1996804499009]
-
-Fri, Nov 13
-
-CUT COPY (DJ), ራሄል (RACHEL), DISCO BAMBINO, KRISTINE BARILLI, GRAVITATIONAL [/events/1998379149832]
- * CLUB
- * FULL VENUE
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/cut-copy-dj-rachel-disco-bambino-kristine-barilli-gravitational-tickets-1998379149832]
-
-Sat, Nov 14
-
-FREAK SLUG, MILA DEGRAY, LUCKY [/events/1992976963748]
- * LIVE
- * THE HALL
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/freak-slug-mila-degray-lucky-tickets-1992976963748]
-
-Sat, Nov 14
-
-MOTHER SOKI, EVIL ADELINE, LOCKIMARA [/events/2002749580909]
- * LIVE
- * ZONE ONE
-
-7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/mother-soki-evil-adeline-lockimara-tickets-2002749580909]
-
 Sat, Nov 14
 
 X-COAST, 6 SENSE, PAN!C ROOM: WADDLE, Y2AURA, NIJEII, DUCO [/events/1996459381754]
@@ -136,21 +64,21 @@ Buy Tickets [https://www.eventbrite.com/e/colleen-green-sad13-tickets-1999616564
 
 Mon, Nov 16
 
-SAHN [/events/2002953848880]
+SAHN, LANA LOU [/events/2002953848880]
  * LIVE
  * ZONE ONE
 
 7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/sahn-tickets-2002953848880]
+Buy Tickets [https://www.eventbrite.com/e/sahn-lana-lou-tickets-2002953848880]
 
 Wed, Nov 18
 
-MAGI MERLIN [/events/1999055438630]
+MAGI MERLIN, SYTË [/events/1999055438630]
  * LIVE
  * ZONE ONE
 
 7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/magi-merlin-tickets-1999055438630]
+Buy Tickets [https://www.eventbrite.com/e/magi-merlin-syte-tickets-1999055438630]
 
 Thu, Nov 19
 
@@ -215,14 +143,23 @@ SNAKEHIPS, L3NI, TWOFACED, K.ONE, ANYTHING GOES: TONE TROY + MORE [/events/19934
 10:30 PM
 Buy Tickets [https://www.eventbrite.com/e/snakehips-l3ni-twofaced-kone-anything-goes-tone-troy-more-tickets-1993478754618]
 
+Sat, Nov 21
+
+CHATROOM: TAINA ENIKEYI - FREE W/ RSVP [/events/2004790780191]
+ * CLUB
+ * CHATROOM
+
+10:30 PM
+Buy Tickets [https://www.eventbrite.com/e/chatroom-taina-enikeyi-free-w-rsvp-tickets-2004790780191]
+
 Wed, Nov 25
 
-DAYBREAK - WOAH NELLIE, HUGE MILES & TRAVIS GEORGE [/events/2003715932292]
+DAYBREAK, WOAH NELLIEE, HUGH MILES & TRAVIS GEORGE [/events/2003715932292]
  * CLUB
  * FULL VENUE
 
 10:00 PM
-Buy Tickets [https://www.eventbrite.com/e/daybreak-woah-nellie-huge-miles-travis-george-tickets-2003715932292]
+Buy Tickets [https://www.eventbrite.com/e/daybreak-woah-nelliee-hugh-miles-travis-george-tickets-2003715932292]
 
 Fri, Nov 27
 
@@ -257,7 +194,7 @@ STATIC DRESS, I PROMISED THE WORLD, SEPTEMBERISTHEONLYTIMEIDONTTHINKOFYOU [/even
  * LIVE
  * THE HALL
 
-7:00 PM
+6:30 PM
 Buy Tickets [https://www.eventbrite.com/e/static-dress-i-promised-the-world-septemberistheonlytimeidontthinkofyou-tickets-1996807683534]
 
 Fri, Dec 4
@@ -367,3 +304,66 @@ LIP CRITIC & THE HOUSE OF 1,000 DRUMS [/events/2003473419931]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/lip-critic-the-house-of-1000-drums-tickets-2003473419931]
+
+Sat, Dec 12
+
+DESCENDANTS [/events/2004662919757]
+ * CLUB
+ * FULL VENUE
+
+10:30 PM
+Buy Tickets [https://www.eventbrite.com/e/descendants-tickets-2004662919757]
+
+Sun, Dec 13
+
+INTO IT. OVER IT., PRAWN, SPORTS., SOIREE [/events/1996809683516]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/into-it-over-it-prawn-sports-soiree-tickets-1996809683516]
+
+Thu, Dec 17
+
+REVEREND BARON, JOHN ANDREWS AND THE YAWNS [/events/2004310948000]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/reverend-baron-john-andrews-and-the-yawns-tickets-2004310948000]
+
+Fri, Dec 18
+
+SOSMULA - TILL THE LAST STAR DIES TOUR 2026 W/ RICKY HIL [/events/2002591068795]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/sosmula-till-the-last-star-dies-tour-2026-w-ricky-hil-tickets-2002591068795]
+
+Fri, Dec 18
+
+COMBO CHIMBITA - 10 YEAR ANNIVERSARY W/ YASSER TEJEDA, DISCOLOCAS [/events/2004442030070]
+ * LIVE
+ * THE HALL
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/combo-chimbita-10-year-anniversary-w-yasser-tejeda-discolocas-tickets-2004442030070]
+
+Fri, Dec 18
+
+SHABE YALDA WITH CLUB JOON [/events/2004089579882]
+ * CLUB
+ * ZONE ONE
+
+10:30 PM
+Buy Tickets [https://www.eventbrite.com/e/shabe-yalda-with-club-joon-tickets-2004089579882]
+
+Sat, Dec 19
+
+SOUR WIDOWS, TAXIDERMISTS, DIMITRI GIANNOPOULOS [/events/2003012533407]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/sour-widows-taxidermists-dimitri-giannopoulos-tickets-2003012533407]

@@ -1,6 +1,6 @@
 VENUE:moma-ps1 | MoMA PS1
 URL:https://www.momaps1.org/en/calendar
-FETCHED:2026-11-11T06:39:50.747Z
+FETCHED:2026-11-15T06:37:46.477Z
 
 Skip to content
 EN [/en/calendar?save_locale=true] ES [/es/calendar?save_locale=true]
@@ -102,8 +102,9 @@ Close
 Close
 
 Change Date
-Today, Wed, Nov 11
-The building is closed today
+Today, Sun, Nov 15
+Open
+12–6 p.m.
 Expand All Collapse all
 MoMA PS1
 
@@ -149,20 +150,6 @@ Trained as a forensic pathologist and a photographer, Margolles has created work
 
 More Info [/en/programs/760-teresa-margolles]
 
-Exhibition
-
-NEW YORK FASHION AT PS1, 1980–1984
-
-[/en/programs/793-new-york-fashion-at-ps1-1980-1984]
-
-Ends Mar 15, 2027
-
-+ Open New York Fashion at PS1, 1980–1984 – Close New York Fashion at PS1, 1980–1984
-
-Opening this fall, New York Fashion at PS1, 1980–1984 revisits the museum’s fashion program, initiated in 1980 as part of its wider Multi-Disciplinary Program, which spanned sound, performance, poetry, film, and architecture. Featuring notes, correspondence, photographs, and ephemera drawn from the MoMA PS1 archives, among others, the exhibition focuses on projects realized at the museum by independent curator Hollywood Di Russo (1946–2005) with designers in the city. A stylist and make-up artist, Di Russo aimed to highlight fashion’s influence on visual culture and the arts, outside the commercial realm and the formal conventions of costume display.
-
-More Info [/en/programs/793-new-york-fashion-at-ps1-1980-1984]
-
 MoMA PS1
 
 HARD ART
@@ -176,6 +163,20 @@ Ends Mar 15, 2027
 This fall, MoMA PS1 will present Hard Art, a major exhibition that examines the legacy of abstract painting by Black artists in the US from 1969 to today. Hard Art features over forty artists and juxtaposes historical paintings by practitioners who came to prominence in the 1970s with recent conceptually driven practices that incorporate sculpture, video, sound, and painting. Organized thematically, the exhibition traces the legacy of three generations of artists including Frank Bowling, Mark Bradford, Peter Bradley, Barbara Chase-Riboud, Ed Clark, Melvin Edwards, Jennie C. Jones, Joe Overstreet, and Raymond Saunders, alongside new and recent works by Aria Dean, Torkwase Dyson, Nikita Gale, Suzanne Jackson, Rindon Johnson, Caroline Kent, Carolyn Lazard, Eric N. Mack, Charisse Pearlina Weston, and SoiL Thornton, among others.
 
 More Info [/en/programs/744-hard-art]
+
+Exhibition
+
+MASAO GOZU: WINDOWS AND BARS
+
+[/en/programs/799-masao-gozu-windows-and-bars]
+
+Ends Mar 15, 2027
+
++ Open Masao Gozu: Windows and Bars – Close Masao Gozu: Windows and Bars
+
+The first US museum exhibition to highlight the singular practice of Masao Gozu (Japanese, b. 1946), Windows and Bars presents a focused selection of his photographs dating from the 1970s through today. The exhibition highlights key works from Gozu’s Windows and Harry’s Bar series, opening apertures onto the city’s past and offering a quiet rumination on the sweep of time. Born in Nagano Prefecture, Japan, Gozu emigrated to New York City in 1970. Walking the city streets, he began to photograph the city’s inhabitants through the windows of tenement buildings, from Bay Ridge to Little Italy. An extended architectural study, the series suggests the window as a proscenium through which to glimpse the theater of everyday life. Gozu’s subjects rarely meet the gaze of the camera; ambiguous protagonists, they watch scenes unfolding outside of the frame. Gozu continued this series until 2004, taking thousands of images. He recently began returning to these locations to photograph them anew, capturing dramatic shifts and, in some cases, surprising continuity in the city’s built landscape.
+
+More Info [/en/programs/799-masao-gozu-windows-and-bars]
 
 Exhibition
 
@@ -193,17 +194,17 @@ More Info [/en/programs/884-modern-spotlight-fred-wilson]
 
 Exhibition
 
-MASAO GOZU: WINDOWS AND BARS
+NEW YORK FASHION AT PS1, 1980–1984
 
-[/en/programs/799-masao-gozu-windows-and-bars]
+[/en/programs/793-new-york-fashion-at-ps1-1980-1984]
 
 Ends Mar 15, 2027
 
-+ Open Masao Gozu: Windows and Bars – Close Masao Gozu: Windows and Bars
++ Open New York Fashion at PS1, 1980–1984 – Close New York Fashion at PS1, 1980–1984
 
-The first US museum exhibition to highlight the singular practice of Masao Gozu (Japanese, b. 1946), Windows and Bars presents a focused selection of his photographs dating from the 1970s through today. The exhibition highlights key works from Gozu’s Windows and Harry’s Bar series, opening apertures onto the city’s past and offering a quiet rumination on the sweep of time. Born in Nagano Prefecture, Japan, Gozu emigrated to New York City in 1970. Walking the city streets, he began to photograph the city’s inhabitants through the windows of tenement buildings, from Bay Ridge to Little Italy. An extended architectural study, the series suggests the window as a proscenium through which to glimpse the theater of everyday life. Gozu’s subjects rarely meet the gaze of the camera; ambiguous protagonists, they watch scenes unfolding outside of the frame. Gozu continued this series until 2004, taking thousands of images. He recently began returning to these locations to photograph them anew, capturing dramatic shifts and, in some cases, surprising continuity in the city’s built landscape.
+Opening this fall, New York Fashion at PS1, 1980–1984 revisits the museum’s fashion program, initiated in 1980 as part of its wider Multi-Disciplinary Program, which spanned sound, performance, poetry, film, and architecture. Featuring notes, correspondence, photographs, and ephemera drawn from the MoMA PS1 archives, among others, the exhibition focuses on projects realized at the museum by independent curator Hollywood Di Russo (1946–2005) with designers in the city. A stylist and make-up artist, Di Russo aimed to highlight fashion’s influence on visual culture and the arts, outside the commercial realm and the formal conventions of costume display.
 
-More Info [/en/programs/799-masao-gozu-windows-and-bars]
+More Info [/en/programs/793-new-york-fashion-at-ps1-1980-1984]
 
 Nov 19
 Open

@@ -1,6 +1,6 @@
 VENUE:data-society | Data & Society
 URL:https://datasociety.net/
-FETCHED:2026-11-11T06:39:46.140Z
+FETCHED:2026-11-15T06:37:41.922Z
 
 Skip to main content
 Search Search
@@ -72,19 +72,19 @@ Read more [https://datasociety.net/research-library/generative-ais-labor-impacts
 
 THE LATEST FROM DATA & SOCIETY
 
-https://datasociety.net/news-events/how-ai-civics-can-build-public-power-over-tech/
+https://datasociety.net/research-library/how-ai-civics-can-build-public-power-over-tech/
 
 HOW AI CIVICS CAN BUILD PUBLIC POWER OVER TECH
 
-[https://datasociety.net/news-events/how-ai-civics-can-build-public-power-over-tech/]
+[https://datasociety.net/research-library/how-ai-civics-can-build-public-power-over-tech/]
 Meg Young, Khari Johnson, Sareeta Amrute, Hannah Sassaman, and Justin Hendrix discussed how AI civics can help realize a more democratic vision of…
- * AI civics [/news-events/?subject=ai-civics]
- * artificial intelligence [/news-events/?subject=artificial-intelligence]
- * civics [/news-events/?subject=civics]
- * * community engagement [/news-events/?subject=community-engagement]
-   * democracy [/news-events/?subject=democracy]
+ * AI civics [/research-library/?subject=ai-civics]
+ * artificial intelligence [/research-library/?subject=artificial-intelligence]
+ * civics [/research-library/?subject=civics]
+ * * community engagement [/research-library/?subject=community-engagement]
+   * democracy [/research-library/?subject=democracy]
 
-November 6, 2026
+October 6, 2026
 Event
 https://datasociety.net/news-events/a-referendum-on-the-tech-industry-our-statement-on-the-midterm-elections/
 

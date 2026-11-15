@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-11-11T06:39:51.735Z
+FETCHED:2026-11-15T06:37:47.507Z
 
 /
 
@@ -14,37 +14,39 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk
+/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century
 
-STANLEY WOLUKAU-WANAMBWA: HENRY WOLF CHAIR IN PHOTOGRAPHY ARTIST TALK [/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk]
+ESPINOSA NOVA, A REVIVAL FROM THE MEXICAN 16TH CENTURY [/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century]
 
-November 10, 2026
-7:00pm
+November 16, 2026
+12:30pm
 
-Event Details [/events-and-exhibitions/events/stanley-wolukau-wanambwa-henry-wolf-chair-photography-artist-talk]
- * /events-and-exhibitions/events/public-art-fund-talks-camille-henrot
+Cristóbal Henestrosa describe the development of the Espinosa Nova typeface
 
-   PUBLIC ART FUND TALKS: CAMILLE HENROT [/events-and-exhibitions/events/public-art-fund-talks-camille-henrot]
-
-   November 12, 2026
-   6:30pm
- * /events-and-exhibitions/events/representation-lecture-mark-west-seeing-things-pareidolia-and
-
-   REPRESENTATION LECTURE | MARK WEST: SEEING THINGS, PAREIDOLIA AND THE DISCOVERY OF FORM [/events-and-exhibitions/events/representation-lecture-mark-west-seeing-things-pareidolia-and]
-
-   November 12, 2026
-   6:30pm
- * /events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century
-
-   ESPINOSA NOVA, A REVIVAL FROM THE MEXICAN 16TH CENTURY [/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century]
-
-   November 16, 2026
-   12:30pm
+Event Details [/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century]
  * /events-and-exhibitions/events/visiting-lecture-sean-lally-snags-glitches-and-unintended
 
    VISITING LECTURE | SEAN LALLY: SNAGS, GLITCHES AND UNINTENDED CONSEQUENCES [/events-and-exhibitions/events/visiting-lecture-sean-lally-snags-glitches-and-unintended]
 
    November 17, 2026
+   6:30pm
+ * /events-and-exhibitions/events/room-sixty-years-front-line-history
+
+   IN THE ROOM: SIXTY YEARS ON THE FRONT LINE OF HISTORY [/events-and-exhibitions/events/room-sixty-years-front-line-history]
+
+   November 18, 2026
+   7:00pm
+ * /events-and-exhibitions/events/david-reinfurt-open-flat-file
+
+   DAVID REINFURT FOR OPEN FLAT FILE [/events-and-exhibitions/events/david-reinfurt-open-flat-file]
+
+   November 19, 2026
+   6:30pm
+ * /events-and-exhibitions/events/current-work-forms-intelligence-labor
+
+   CURRENT WORK | FORMS OF INTELLIGENCE: LABOR [/events-and-exhibitions/events/current-work-forms-intelligence-labor]
+
+   December 1, 2026
    6:30pm
 
 ONGOING EXHIBITIONS
@@ -59,6 +61,11 @@ ONGOING EXHIBITIONS
    PUBLISHING ARCHITECTURE AT THE COOPER UNION [/events-and-exhibitions/exhibitions/publishing-architecture-cooper-union]
 
    October 29, 2026 to November 25, 2026
+ * /events-and-exhibitions/exhibitions/november-10-view-exhibitions
+
+   NOVEMBER 10 ON VIEW EXHIBITIONS [/events-and-exhibitions/exhibitions/november-10-view-exhibitions]
+
+   November 10, 2026 to November 14, 2026
 
  * Founded by inventor, industrialist and philanthropist Peter Cooper in 1859, The Cooper Union for the Advancement of Science and Art offers education in art, architecture and engineering, as well as courses in the humanities and social sciences.
 

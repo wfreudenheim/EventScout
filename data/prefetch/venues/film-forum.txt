@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-11-11T06:39:56.064Z
+FETCHED:2026-11-15T06:37:51.396Z
 
 Skip to Content
 
@@ -10,10 +10,10 @@ FILM FORUM [https://filmforum.org/]
 
 SLIDESHOW
 
+ * https://filmforum.org/film/threeasfour-full-circle
  *
  * https://filmforum.org/film/fatherland
  * https://filmforum.org/film/once-upon-a-time-in-harlem
- * https://filmforum.org/film/threeasfour-full-circle
  * https://filmforum.org/film/the-court-jester-ffjr-2026
  *
  *
@@ -44,58 +44,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
+ * SUN
+ * MON
+ * TUE
  * WED
  * THU
  * FRI
  * SAT
- * SUN
- * MON
- * TUE
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 1:30 3:00 4:15 5:40 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45
-
-Special Screening!5 Short Films Supported by the Displacement Film Fund [https://filmforum.org/film/displacement-film-fund]
-6:00 7:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 1:30 3:00 4:15 5:40 7:00 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00 8:15
-
-Opens Today!threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 7:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 5:40 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00 8:15
-
-threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 7:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 5:40 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25(OC) 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45(OC) 6:00 8:15
 
 FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
 THE COURT JESTER [https://filmforum.org/film/the-court-jester-ffjr-2026]
@@ -141,6 +96,34 @@ FATHERLAND [https://filmforum.org/film/fatherland]
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
 1:00 3:45 8:50(OC)
 
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 4:40 6:50 9:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 6:00 8:15
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 4:40 6:50 9:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 6:00 8:15
+
+Showtimes coming soon!
+
+Showtimes coming soon!
+
 Donate [https://donate.filmforum.org/give/]
 
 SUPPORT OUR NONPROFIT CINEMA
@@ -159,23 +142,24 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-5 SHORT FILMS SUPPORTED BY THE DISPLACEMENT FILM FUND
-HOSTED BY CATE BLANCHETT WITH MARYNA ER GORBACH AND MO HARAWE IN PERSON [https://filmforum.org/events/event/displacement-film-fund-november-11]
+THREEASFOUR: FULL CIRCLE
+Q&A WITH FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL [https://filmforum.org/events/event/threeasfour-full-circle-november-15]
 
-Wednesday, November 11
-6:00   7:00
+Sunday, November 15
+2:30
 
 THREEASFOUR: FULL CIRCLE
-Q&A WITH FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL [https://filmforum.org/events/event/threeasfour-full-circle-november-13]
+INTRODUCED BY CO-DIRECTOR BRIAN C. GONZÁLEZ, CO-PRESENTED BY BERKLEENYC [https://filmforum.org/events/event/threeasfour-full-circle-november-16]
 
-Friday, November 13
-7:00
+Monday, November 16
+6:50
 
-THREEASFOUR: FULL CIRCLE
-Q&A WITH FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL [https://filmforum.org/events/event/threeasfour-full-circle-november-14]
+ALL OF A SUDDEN
+SNEAK PREVIEW SCREENING AND Q&A WITH FILMMAKER RYÛSUKE HAMAGUCHI,
+CO-PRESENTED BY FILMMAKER MAGAZINE [https://filmforum.org/events/event/all-of-a-sudden-november-20]
 
-Saturday, November 14
-7:00
+Friday, November 20
+6:30
 
 GET EMAIL NEWS
 
@@ -192,28 +176,27 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+THE COURT JESTER [https://filmforum.org/film/the-court-jester-ffjr-2026]
+11:00
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 6:20 8:30
+
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 1:30 3:00 4:15 5:40 8:20
+1:10 3:40 6:20 8:50
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
+1:20(OC) 3:20 5:20 7:20
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45
-
-Special Screening!5 Short Films Supported by the Displacement Film Fund [https://filmforum.org/film/displacement-film-fund]
-6:00 7:00
+1:00 3:45(OC) 6:00 8:15
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
-https://filmforum.org/film/displacement-film-fund
-5 Short Films Supported by the Displacement Film Fund
-Hosted by Cate Blanchett with Maryna Er Gorbach and Mo Harawe in person [https://filmforum.org/film/displacement-film-fund]
-
-Wednesday, November 11
-6:00   7:00
-
-Buy Tickets [https://my.filmforum.org/events/displacement-film-fund-shorts]
+https://filmforum.org/film/threeasfour-full-circle
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/threeasfour-full-circle] Watch Trailer [https://filmforum.org/film/threeasfour-full-circle#trailer]
 https://filmforum.org/film/raise-the-red-lantern
 Zhang Yimou’s
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
@@ -243,13 +226,6 @@ THE PARENT TRAP
 
 COMING SOON [https://filmforum.org/coming_soon]
 
-https://filmforum.org/film/threeasfour-full-circle
-
-THREEASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-
-Opens Friday, November 13
-
-SHOWTIMES & TICKETS [https://my.filmforum.org/events/threeasfour-full-circle] Watch Trailer [ https://filmforum.org/film/threeasfour-full-circle#trailer ]
 https://filmforum.org/series/silent-lubitsch
 
 SILENT LUBITSCH [https://filmforum.org/series/silent-lubitsch]
@@ -264,7 +240,8 @@ ROSSELLINI 120 [https://filmforum.org/series/rossellini]
 
 Friday, November 20 – Thursday, December 10
 
-Films in this Series ROME, OPEN CITY PAISAN VOYAGE TO ITALY (JOURNEY TO ITALY) L’AMORE GERMANY, YEAR ZERO DOV’È LA LIBERTÀ? (WHERE IS FREEDOM?) THE MAN WITH A CROSS GENERAL DELLA ROVERE LES CARABINIERS THE ROSSELLINIS THE FLOWERS OF ST. FRANCIS EUROPA ’51 STROMBOLI THE MACHINE TO KILL BAD PEOPLE INDIA: MATRI BHUMI FEAR JOAN OF ARC AT THE STAKE JOAN OF ARC ANNO UNO VIVA L’ITALIA!
+Films in this Series ROME, OPEN CITY PAISAN VOYAGE TO ITALY (JOURNEY TO ITALY) L’AMORE GERMANY, YEAR ZERO DOV’È LA LIBERTÀ? (WHERE IS FREEDOM?) THE MAN WITH A CROSS GENERAL DELLA ROVERE LES CARABINIERS THE ROSSELLINIS THE FLOWERS OF ST. FRANCIS EUROPA ’51 STROMBOLI THE MACHINE TO KILL BAD PEOPLE INDIA: MATRI BHUMI FEAR JOAN OF ARC AT THE STAKE Ingrid Bergman in
+JOAN OF ARC (1948) in 35mm ANNO UNO VIVA L’ITALIA!
 Watch Trailer [ https://filmforum.org/series/rossellini#trailer ]
 https://filmforum.org/film/nelly-and-monsieur-arnaud
 
@@ -298,6 +275,15 @@ THE FRIEND’S HOUSE IS HERE [https://filmforum.org/film/the-friends-house-is-he
 Opens Friday, December 4
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/the-friends-house-is-here] Watch Trailer [ https://filmforum.org/film/the-friends-house-is-here#trailer ]
+https://filmforum.org/film/joan-of-arc-rossellini-120
+
+INGRID BERGMAN IN
+JOAN OF ARC (1948) IN 35MM [https://filmforum.org/film/joan-of-arc-rossellini-120]
+
+Sunday, December 6
+5:30
+
+Buy Tickets [https://my.filmforum.org/events/joan-of-arc-1948]
 https://filmforum.org/film/linnocente
 
 LUCHINO VISCONTI’S

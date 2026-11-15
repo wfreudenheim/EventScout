@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "blank-forms",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-21T07:27:46.263Z",
-    "completed_at": "2026-10-21T07:27:46.263Z",
-    "events_found": 4,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "bisr",
     "scrape_tier_used": 3,
     "started_at": "2026-10-21T07:27:46.272Z",
@@ -4996,6 +4986,16 @@
     "started_at": "2026-11-11T08:31:31.443Z",
     "completed_at": "2026-11-11T08:31:31.444Z",
     "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-11-15T06:37:39.661Z",
+    "completed_at": "2026-11-15T06:37:39.661Z",
+    "events_found": 0,
     "events_new": 0,
     "status": "completed"
   }

@@ -1,6 +1,6 @@
 VENUE:maysles-documentary-center | Maysles Documentary Center
 URL:https://www.maysles.org/
-FETCHED:2026-11-11T06:39:48.673Z
+FETCHED:2026-11-15T06:37:44.454Z
 
 /
 
@@ -31,46 +31,6 @@ UPCOMING EVENTS
 
 Featured
 
-Nov 11
-[/calendar/runa-simi]
-November 11, 2026
-
-RUNA SIMI [/calendar/runa-simi]
-November 11, 2026
-
-Read more → [/calendar/runa-simi]
-November 11, 2026
-
-Nov 12
-[/calendar/be-troit-experience]
-November 12, 2026
-
-THE BE-TROIT EXPERIENCE [/calendar/be-troit-experience]
-November 12, 2026
-
-Read more → [/calendar/be-troit-experience]
-November 12, 2026
-
-Nov 13
-[/calendar/future-beyond-rikers-film-festival-friday]
-November 13, 2026
-
-FUTURE BEYOND RIKERS: A Film Festival (Nov 13) [/calendar/future-beyond-rikers-film-festival-friday]
-November 13, 2026
-
-Read more → [/calendar/future-beyond-rikers-film-festival-friday]
-November 13, 2026
-
-Nov 14
-[/calendar/future-beyond-rikers-film-festival-saturday]
-November 14, 2026
-
-FUTURE BEYOND RIKERS: A Film Festival (Nov 14) [/calendar/future-beyond-rikers-film-festival-saturday]
-November 14, 2026
-
-Read more → [/calendar/future-beyond-rikers-film-festival-saturday]
-November 14, 2026
-
 Nov 17
 [/calendar/web-du-bois-rebel-with-a-cause]
 November 17, 2026
@@ -100,6 +60,76 @@ November 21, 2026
 
 Read more → [/calendar/the-alabama-solution]
 November 21, 2026
+
+Nov 22
+[/calendar/childrens-storefront]
+November 22, 2026
+
+THE CHILDREN'S STOREFRONT [/calendar/childrens-storefront]
+November 22, 2026
+
+Read more → [/calendar/childrens-storefront]
+November 22, 2026
+
+Nov 23
+[/calendar/american-pachuco-luis-valdez]
+November 23, 2026
+
+AMERICAN PACHUCO: The Legend of Luis Valdez [/calendar/american-pachuco-luis-valdez]
+November 23, 2026
+
+Read more → [/calendar/american-pachuco-luis-valdez]
+November 23, 2026
+
+Dec 2
+[/calendar/the-cool-world]
+December 2, 2026
+
+THE COOL WORLD [/calendar/the-cool-world]
+December 2, 2026
+
+Read more → [/calendar/the-cool-world]
+December 2, 2026
+
+Dec 3
+[/calendar/nuns-vs-vatican-12-3-7pm]
+December 3, 2026
+
+NUNS vs THE VATICAN [/calendar/nuns-vs-vatican-12-3-7pm]
+December 3, 2026
+
+Read more → [/calendar/nuns-vs-vatican-12-3-7pm]
+December 3, 2026
+
+Dec 4
+[/calendar/nuns-vs-vatican-12-4-7pm]
+December 4, 2026
+
+NUNS vs THE VATICAN [/calendar/nuns-vs-vatican-12-4-7pm]
+December 4, 2026
+
+Read more → [/calendar/nuns-vs-vatican-12-4-7pm]
+December 4, 2026
+
+Dec 5
+[/calendar/nuns-vs-vatican-12-5-3pm]
+December 5, 2026
+
+NUNS vs THE VATICAN [/calendar/nuns-vs-vatican-12-5-3pm]
+December 5, 2026
+
+Read more → [/calendar/nuns-vs-vatican-12-5-3pm]
+December 5, 2026
+
+Dec 5
+[/calendar/nuns-vs-vatican-12-5-7pm]
+December 5, 2026
+
+NUNS vs THE VATICAN [/calendar/nuns-vs-vatican-12-5-7pm]
+December 5, 2026
+
+Read more → [/calendar/nuns-vs-vatican-12-5-7pm]
+December 5, 2026
 
 Albert Maysles
 

@@ -1,7 +1,8 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-11-11T06:39:47.672Z
+FETCHED:2026-11-15T06:37:43.290Z
 
+LoginRegisterForgot password
 Subscribe
 
 e-flux announcements are a trusted source for exhibitions, open calls, and institutional programs from across the international art world.
@@ -37,13 +38,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/
-
-Current & Upcoming
-And the Dogs Were Silent: A Convening by Sharifa Rhodes-Pitts [/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/]
-November 12, 2026, 6pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts-tickets-2004036302528]
 /events/6783400/theory-of-seeing/
 
 Current & Upcoming
@@ -91,15 +85,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-Screenings, In-person, Talks
-/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/
-
-And the Dogs Were Silent: A Convening by Sharifa Rhodes-Pitts
-
-[/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/]
-November 12, 2026, 6pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts-tickets-2004036302528]
 In-person, Screenings, Talks
 /events/6783400/theory-of-seeing/
 
@@ -130,6 +115,14 @@ e-flux
 Get tickets [https://www.eventbrite.com/e/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler-tickets-2004033514188]
 Archive
 
+Screenings, In-person, Talks
+/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/
+
+And the Dogs Were Silent: A Convening by Sharifa Rhodes-Pitts
+
+[/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/]
+November 12, 2026, 6pm
+e-flux Screening Room
 In-person, Screenings
 /events/6783397/here-already/
 
@@ -156,12 +149,4 @@ La Merde! The Mole!
 [/events/6783399/la-merde-the-mole-nbsp/]
 November 5, 2026, 7pm
 e-flux Screening Room
-In-person
-/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/
-
-Bar Laika presents Playback 0041 with Smalltown Supersound
-
-[/events/6783404/bar-laika-presents-playback-0041-with-smalltown-supersound/]
-November 5, 2026, 7pm
-Bar Laika by e-flux
 Load more

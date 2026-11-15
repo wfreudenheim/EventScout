@@ -1,6 +1,6 @@
 VENUE:blank-forms | Blank Forms
 URL:https://www.blankforms.org/
-FETCHED:2026-11-11T06:39:46.212Z
+FETCHED:2026-11-15T06:37:41.967Z
 
 Skip to main content
 Menu
@@ -25,67 +25,37 @@ BLANK FORMS,
 NEW YORK
 
 [https://www.blankforms.org]
-Event [/events]
-
-/events/blank-forms-9th-annual-gala-honoring-keiji-haino-and-jim-shaw
-Nov 9, 2026, 7 – 10pm
-
-BLANK FORMS 9TH ANNUAL GALA HONORING KEIJI HAINO AND JIM SHAW
-
-[/events/blank-forms-9th-annual-gala-honoring-keiji-haino-and-jim-shaw]
-
-THE ANGEL ORENSANZ FOUNDATION,
-NEW YORK
-
-[http://www.orensanzevents.com/contact.html]
 Record [/blank-forms-editions]
 /publications/eliane-radigue-occam-xiii-occam-river-xi-occam-v
 ÉLIANE RADIGUE: OCCAM XIII, OCCAM RIVER XI, OCCAM V
 
 [/publications/eliane-radigue-occam-xiii-occam-river-xi-occam-v]
+Event [/events]
+
+/events/fushitsusha
+Nov 14, 2026
+6:30pm (doors), 8:00pm (performance)
+
+FUSHITSUSHA
+
+[/events/fushitsusha]
+
+BLANK FORMS,
+NEW YORK
+
+[https://www.blankforms.org]
 
 UPCOMING
 
 Event [/events]
 
-/events/keiji-haino-solo-duo-with-loren-connors
-Nov 10, 2026
-6:30pm (doors), 7:30pm (performance)
-Sold Out
+/events/shouji-hara-and-loren-connors
+Nov 17, 2026
+5:00pm (doors), 7:00pm (performance)
 
-KEIJI HAINO SOLO & DUO WITH LOREN CONNORS
+SHOUJI HARA AND LOREN CONNORS
 
-[/events/keiji-haino-solo-duo-with-loren-connors]
-
-BLANK FORMS,
-NEW YORK
-
-[https://www.blankforms.org]
-Event [/events]
-
-/events/keiji-haino
-Nov 12, 2026
-6:30pm (doors), 7:30pm (performance)
-Sold Out
-
-KEIJI HAINO
-
-[/events/keiji-haino]
-
-BLANK FORMS,
-NEW YORK
-
-[https://www.blankforms.org]
-Event [/events]
-
-/events/fushitsusha
-Nov 14, 2026
-6:30pm (doors), 7:30pm (performance)
-Sold Out
-
-FUSHITSUSHA
-
-[/events/fushitsusha]
+[/events/shouji-hara-and-loren-connors]
 
 BLANK FORMS,
 NEW YORK

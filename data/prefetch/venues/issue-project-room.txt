@@ -1,6 +1,6 @@
 VENUE:issue-project-room | Issue Project Room
 URL:https://issueprojectroom.org/events
-FETCHED:2026-11-11T06:39:47.196Z
+FETCHED:2026-11-15T06:37:43.309Z
 
 /
 https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue-project-room/ https://www.instagram.com/issueprojectroom https://soundcloud.com/issueprojectroom
@@ -22,18 +22,6 @@ https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue
 
 UPCOMING EVENTS
 
-/event/eden-girma-dreamclubradi0 /event/eden-girma-dreamclubradi0
-
-Artists-In-Residence 2026 [/program/artists-residence-2026]
-
-EDEN GIRMA: DREAMCLUB_RADI0 [/event/eden-girma-dreamclubradi0]
-
-Friday, November 13, 2026 - 8:00 pm
-MITU580
-
-ISSUE presents DREAMCLUB_RADI0, an extra-dimensional radio program which takes place at 3:⚐ℹ︎.?⛽︎ A.M. every night. On this special evening, join your hosts as they make a rare visit to the material plane at MITU580.
-
-More [/event/eden-girma-dreamclubradi0] Tickets [https://issueprojectroom.ticketspice.com/eden-girma-dreamclubradi0]
 /event/webb-crawford-passed-away-also-may /event/webb-crawford-passed-away-also-may
 
 Artists-In-Residence 2026 [/program/artists-residence-2026]
@@ -96,6 +84,18 @@ PAST EVENTS
  * 2004 [/events/archive/2004]
  * 2003 [/events/archive/2003]
 
+/event/eden-girma-dreamclubradi0 /event/eden-girma-dreamclubradi0
+
+Artists-In-Residence 2026
+
+EDEN GIRMA: DREAMCLUB_RADI0 [/event/eden-girma-dreamclubradi0]
+
+Fri 13 Nov, 2026, 8pm
+MITU580
+
+ISSUE presents DREAMCLUB_RADI0, an extra-dimensional radio program which takes place at 3:⚐ℹ︎.?⛽︎ A.M. every night. On this special evening, join your hosts as they make a rare visit to the material plane at MITU580.
+
+More [/event/eden-girma-dreamclubradi0]
 /event/rocio-sanchez-caminos /event/rocio-sanchez-caminos
 
 Artists-In-Residence 2026
@@ -172,14 +172,4 @@ Fri 18 Sep, 2026, 8pm
 ISSUE presents the first commission from Eden Girma (2026 AIR). Part dreamscape and part summoning circle, an intimate diasporic familial archive is pieced together through the eyes of a five-year-old child.
 
 More [/event/eden-girma-i-hope-i-wont-make-any-mistakes]
-/event/no-neck-blues-band /event/no-neck-blues-band
-
-NO-NECK BLUES BAND [/event/no-neck-blues-band]
-
-Sat 12 Sep, 2026, 8pm
-First Unitarian Congregational Society
-
-Formed in NYC in 1993, the improvising collective No-Neck Blues Band (NNCK) favors anonymity, autonomy, and obfuscation. Alongside founding member Keith Connolly (2016 AIR), they return to open ISSUE’s Fall season at First Unitarian Congregational Society in Brooklyn.
-
-More [/event/no-neck-blues-band]
  * Load More [?page=1]

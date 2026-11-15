@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-11-11T06:39:55.895Z
+FETCHED:2026-11-15T06:37:51.001Z
 
 /
  * The School
@@ -850,92 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=3&month=11&time_range=week&year=2026 /events?day=19&month=11&time_range=week&year=2026
-Nov 11 – Nov 18
+/events?day=7&month=11&time_range=week&year=2026 /events?day=23&month=11&time_range=week&year=2026
+Nov 15 – Nov 22
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Today at 12:15pm
-
-The Encounters Series: “Ibero-American Patterns”
-
-[/events/4377-the-encounters-series-ibero-american-patterns]
-
-Today at 1pm
-
-Brick, Mortar, and Memory: Architecture and Placemaking in Jackson Ward
-
-Preservation Lecture Series
-
-[/events/4284-brick-mortar-and-memory-architecture-and-placemaking-in-jackson-ward]
-
-Today at 2pm
-
-Resume & Spring 2027 Recruiting Preparation Workshop
-
-Career Services
-
-New York
-
-[/events/4375-resume-spring-2027-recruiting-preparation-workshop]
-
-Today at 6pm
-
-Virtual
-
-Fall 2026 Online Info Session: PhD in Architecture
-
-[/events/4368-fall-2026-online-info-session-ph-d-in-architecture]
-
-Today at 6:15pm
-
-Distinguished Leaders: A conversation with Laurie Golub, Chief Operating Officer of Affinius Capital
-
-Lecture
-
-New York
-
-[/events/4363-distinguished-leaders-a-conversation-with-laurie-golub-chief-operating-officer-of-affinius-capital]
-
-Thu, Nov 12    12:45pm
-
-MSRED Architect-Developer Dialogue: Claire Weisz, WXY + Sally Gilliland, Hudson Properties
-
-Lecture
-
-New York
-
-[/events/4354-msred-architect-developer-dialogue-claire-weisz-wxy-sally-gilliland-hudson-properties]
-
-Thu, Nov 12    2pm
-
-Virtual
-
-Fall 2026 Online Info Session: PhD in Urban Planning
-
-[/events/4367-fall-2026-online-info-session-ph-d-in-urban-planning]
-
-Thu, Nov 12    6:30pm
-
-Alumni Conversations: Frankie Lui ‘07 MSAUD, Yunchao Xu '07 MSAAD, Ziyu Zhuang '07 MSAUD
-
-Alumni
-
-New York
-
-[/events/4370-alumni-conversations-frankie-lui-07-msaud-yunchao-xu-07-msaad-ziyu-zhuang-07-msaud]
-
-Fri, Nov 13    10am
-
-CONSTRUCTING (unorthodox) PRACTICE
-
-Conference
-
-[/events/4283-constructing-unorthodox-practice]
 
 Mon, Nov 16    6:30pm
 
@@ -956,3 +878,27 @@ Alumni
 New York
 
 [/events/4372-world-architecture-festival-gsapp-dinner]
+
+Thu, Nov 19    12:30pm
+
+THE LIBRARY IS OPEN 34: Max Bond: The Life and Work of the People’s Architect
+
+Library is Open
+
+[/events/4230-the-library-is-open-34-max-bond-the-life-and-work-of-the-people-s-architect]
+
+Fri, Nov 20    10am
+
+Virtual
+
+GSAPP Admissions Info Session
+
+[/events/4382-gsapp-admissions-info-session]
+
+Fri, Nov 20    4pm
+
+Virtual
+
+Admissions Info Session: Professional Opportunities for Students
+
+[/events/4386-admissions-info-session-professional-opportunities-for-students]
