@@ -6315,5 +6315,428 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-11T08:31:31.407Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-12-08-film-comment-live-across-the-movi-verse-",
+    "title": "Film Comment Live: Across the Movi-verse with J. Hoberman",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-12-08",
+    "time_start": "18:30",
+    "time_end": null,
+    "description": "Film critic J. Hoberman marks the publication of his new essay collection with screenings of Gregory La Cava's Gabriel Over the White House and Dave Fleischer's Betty Boop for President, followed by a conversation and book signing.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.122Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-12-18-la-gradiva-q-a-with-director-marine-atla",
+    "title": "La Gradiva: Q&A with director Marine Atlan",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-12-18",
+    "time_start": "18:00",
+    "time_end": null,
+    "description": "Director Marine Atlan discusses her acclaimed feature debut La Gradiva, which follows a group of French teenagers on a high school trip to Naples, in a post-screening Q&A at its NYFF64 opening.",
+    "url": "",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.124Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-12-19-la-gradiva-q-a-with-director-marine-atla",
+    "title": "La Gradiva: Q&A with director Marine Atlan",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-12-19",
+    "time_start": "15:00",
+    "time_end": null,
+    "description": "Second post-screening Q&A session with director Marine Atlan on her feature debut La Gradiva.",
+    "url": "",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.124Z"
+  },
+  {
+    "id": "film-at-lincoln-center-2026-12-10-film-comment-live-best-of-2026",
+    "title": "Film Comment Live: Best of 2026",
+    "venue_id": "film-at-lincoln-center",
+    "venue_name": "Film at Lincoln Center",
+    "date": "2026-12-10",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Film Comment editors Devika Girish and Clinton Krute are joined by Michael Koresky and Alison Willmore for a real-time countdown and discussion of the magazine's year-end critics' poll results.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.123Z"
+  },
+  {
+    "id": "brooklyn-raga-massive-2026-11-19-concert-jam-camila-celin-on-raga-as-medi",
+    "title": "Concert & Jam: Camila Celin on Raga as Meditation",
+    "venue_id": "brooklyn-raga-massive",
+    "venue_name": "Brooklyn Raga Massive",
+    "date": "2026-11-19",
+    "time_start": null,
+    "time_end": null,
+    "description": "Camila Celin leads an intimate exploration of Hindustani classical raga rooted in years of musical sadhana, treating melody, improvisation, and presence as meditation, followed by a free open jam session for musicians of any level.",
+    "url": "",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "improvisation",
+      "raga",
+      "hindustani"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.146Z"
+  },
+  {
+    "id": "the-kitchen-2026-12-04-steffani-jemison-cant-opening-reception",
+    "title": "Steffani Jemison: Cant — Opening Reception",
+    "venue_id": "the-kitchen",
+    "venue_name": "The Kitchen",
+    "date": "2026-12-04",
+    "time_start": "16:00",
+    "time_end": "18:00",
+    "description": "Opening reception for Steffani Jemison's first New York institutional solo exhibition, which combines sound, sculpture, and photography, including a sonic installation built from a repurposed bird-repelling device playing against a live FM feed of the gallery's surroundings, probing hostile architecture, restriction, and technologies of violence.",
+    "url": "",
+    "price": "free",
+    "format": "opening",
+    "interest_score": 5,
+    "tags": [
+      "sculpture",
+      "photography",
+      "installation"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Art & Technology",
+      "Philosophy & Critical Theory",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.160Z"
+  },
+  {
+    "id": "the-kitchen-2027-01-21-steffani-jemison-flight-theater-performa",
+    "title": "Steffani Jemison: Flight Theater (performance series)",
+    "venue_id": "the-kitchen",
+    "venue_name": "The Kitchen",
+    "date": "2027-01-21",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "Live performance series extending Jemison's ongoing Flight Theater project, created with writer Quincy Flowers and dramaturg Elliot Reed, unfolding vignettes of language and movement games that probe flight, embodied communication, and shared space between performers and audience. Additional performances on January 28 and February 4, 2027.",
+    "url": "",
+    "price": "$10-30",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.160Z"
+  },
+  {
+    "id": "japan-society-2026-11-22-the-oldest-profession",
+    "title": "The Oldest Profession",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-11-22",
+    "time_start": "17:00",
+    "time_end": null,
+    "description": "4K restoration of Noboru Tanaka's 1974 film, shot guerrilla-style on location in Osaka's Kamagasaki district, documenting real residents alongside its fictional narrative; part of the Nikkatsu's Golden Age of Eros retrospective.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.174Z"
+  },
+  {
+    "id": "japan-society-2027-01-10-gen-ichiro-inokuma-s-nyc-salon",
+    "title": "Gen'ichiro Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2027-01-10",
+    "time_start": null,
+    "time_end": null,
+    "description": "First New York solo museum exhibition of Japanese painter Gen'ichiro Inokuma's twenty years in the city, tracing his exchanges with Jasper Johns, Mark Rothko, and Robert Rauschenberg. On view through January 10, 2027.",
+    "url": "",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "museum-exhibition"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.173Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-16-tschabalala-self-in-conversation-with-de",
+    "title": "Tschabalala Self in Conversation with Derek Fordjour",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-16",
+    "time_start": null,
+    "time_end": null,
+    "description": "Artist Tschabalala Self joins artist Derek Fordjour for an in-person conversation at the Rail's Industry City headquarters, on the occasion of her exhibition Tools of Worship at Petzel.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.188Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-11-20-steve-locke-i-said-what-i-said",
+    "title": "Steve Locke: I Said What I Said",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-11-20",
+    "time_start": "13:00",
+    "time_end": null,
+    "description": "Artist Steve Locke joins arts leader Sarah Workneh for a Zoom conversation on the occasion of his exhibition I Said What I Said at Alexander Gray Associates.",
+    "url": "",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.189Z"
+  },
+  {
+    "id": "bard-graduate-center-2027-01-03-goddesses-in-the-machine-fashion-in-amer",
+    "title": "Goddesses in the Machine: Fashion in American Silent Film",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2027-01-03",
+    "time_start": null,
+    "time_end": null,
+    "description": "Exhibition examining the fashion and costume design of American silent film, on view at the BGC Gallery from September 18, 2026 through January 3, 2027.",
+    "url": "",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 2.1,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.201Z"
+  },
+  {
+    "id": "printed-matter-2026-11-19-eric-copeland-demon-portraits-with-dem-p",
+    "title": "Eric Copeland: Demon Portraits with Dem Passwords",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "New York launch of Demon Portraits, a letter-by-letter cut-and-paste text work composed over Aldous Huxley's Brave New World, by visual artist and Black Dice member Eric Copeland.",
+    "url": "",
+    "price": "varies",
+    "format": "reading",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.211Z"
+  },
+  {
+    "id": "printed-matter-2026-12-05-illegal-rave-flyers-of-the-90s",
+    "title": "ILLEGAL: Rave Flyers of the 90s",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-12-05",
+    "time_start": "14:00",
+    "time_end": "17:00",
+    "description": "Book launch celebrating a collection of 1990s rave flyer design and ephemera from New York's underground electronic music scene.",
+    "url": "",
+    "price": "varies",
+    "format": "reading",
+    "interest_score": 2.1,
+    "tags": [
+      "electronic-music"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.211Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-15-the-long-long-trailer-the-minnellis-",
+    "title": "The Long, Long Trailer (The Minnellis)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-15",
+    "time_start": "12:30",
+    "time_end": null,
+    "description": "35mm Technicolor screening of Vincente Minnelli's romantic comedy starring Lucille Ball and Desi Arnaz, part of MoMI's series The Minnellis.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.221Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-15-hold-onto-me-always-on-sunday-greek-film",
+    "title": "Hold Onto Me (Always on Sunday: Greek Film Series)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-15",
+    "time_start": "15:00",
+    "time_end": null,
+    "description": "Screening in MoMI's Always on Sunday Greek film series.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.221Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-15-the-cobweb-the-minnellis-",
+    "title": "The Cobweb (The Minnellis)",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-15",
+    "time_start": "16:00",
+    "time_end": null,
+    "description": "Vincente Minnelli's dark 1950s psychological melodrama, screening as part of MoMI's series The Minnellis.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.221Z"
+  },
+  {
+    "id": "film-forum-2026-11-25-all-of-a-sudden-film-forum-run-",
+    "title": "All of a Sudden (Film Forum run)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-25",
+    "time_start": null,
+    "time_end": null,
+    "description": "Ryusuke Hamaguchi's latest film starring Virginie Efira as a nursing-home director whose life shifts after meeting a Japanese playwright, both reckoning with their remaining time.",
+    "url": "",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:15:59.231Z"
+  },
+  {
+    "id": "blank-forms-2026-11-17-shouji-hara-and-loren-connors",
+    "title": "Shouji Hara and Loren Connors",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-11-17",
+    "time_start": "19:00",
+    "description": "A live performance by experimental guitarist Shouji Hara and longtime improvising guitarist Loren Connors, presented by Blank Forms. Doors at 5:00pm, performance at 7:00pm.",
+    "url": "https://www.blankforms.org/events/shouji-hara-and-loren-connors",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:16:05.897Z"
   }
 ]

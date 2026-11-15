@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:31:31.417Z"
+    "last_checked": "2026-11-15T08:15:59.241Z"
   },
   {
     "id": "anthology-film-archives",
@@ -560,7 +560,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-18T07:18:04.531Z"
+    "last_checked": "2026-11-15T08:15:59.168Z"
   },
   {
     "id": "bam",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:18:00.674Z"
+    "last_checked": "2026-11-15T08:15:59.142Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-08T08:18:00.607Z"
+    "last_checked": "2026-11-15T08:15:59.228Z"
   },
   {
     "id": "moma",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-11-11T08:24:23.654Z"
+    "last_checked": "2026-11-15T08:15:59.218Z"
   },
   {
     "id": "the-shed",
@@ -1208,7 +1208,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Sweep 2026-07: queue-it bot wall blocks fetching. Try off-peak or newsletter.",
-    "last_checked": "2026-10-25T07:17:24.922Z"
+    "last_checked": "2026-11-15T08:15:59.246Z"
   },
   {
     "id": "performance-space-ny",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:26:25.863Z"
+    "last_checked": "2026-11-15T08:15:59.208Z"
   },
   {
     "id": "the-stone",
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:20:27.849Z"
+    "last_checked": "2026-11-15T08:15:59.182Z"
   },
   {
     "id": "asia-society",
@@ -2297,7 +2297,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:30.183Z"
+    "last_checked": "2026-11-15T08:16:05.891Z"
   },
   {
     "id": "blank-forms",
@@ -2321,7 +2321,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:30.203Z"
+    "last_checked": "2026-11-15T08:16:05.907Z"
   },
   {
     "id": "experimental-intermedia",
@@ -2554,7 +2554,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:30.212Z"
+    "last_checked": "2026-11-15T08:16:05.917Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.927Z"
+    "last_checked": "2026-11-15T08:15:59.196Z"
   },
   {
     "id": "nypl-live",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:30.227Z"
+    "last_checked": "2026-11-15T08:16:05.924Z"
   },
   {
     "id": "la-mama",
@@ -2934,7 +2934,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:30.235Z"
+    "last_checked": "2026-11-15T08:16:05.932Z"
   },
   {
     "id": "onassis-onx",
@@ -3496,7 +3496,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-11T07:25:38.520Z"
+    "last_checked": "2026-11-15T08:15:59.155Z"
   },
   {
     "id": "terraza-7",
