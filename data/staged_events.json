@@ -7714,5 +7714,115 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-11-15T08:18:18.650Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-27-andy-warhol-s-screen-tests-conrad-ventur",
+    "title": "Andy Warhol's 'Screen Tests' + Conrad Ventur's 'Screen Tests Revisited', Pgm 1",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-27",
+    "time_start": "18:30",
+    "description": "A pairing of Andy Warhol's iconic 1960s Screen Tests portrait films with artist Conrad Ventur's contemporary revisitation of the same subjects.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62293",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:20:26.858Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-27-andy-warhol-s-screen-tests-conrad-ventur",
+    "title": "Andy Warhol's 'Screen Tests' + Conrad Ventur's 'Screen Tests Revisited', Pgm 2",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-27",
+    "time_start": "20:45",
+    "description": "A pairing of Andy Warhol's iconic 1960s Screen Tests portrait films with artist Conrad Ventur's contemporary revisitation of the same subjects.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62296",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:20:26.858Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-15-zorn-i-ii",
+    "title": "Zorn I + II",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-15",
+    "time_start": "17:45",
+    "description": "Screening devoted to avant-garde composer John Zorn, with actor Mathieu Amalric and Zorn appearing in person for this showing.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62194",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:20:26.851Z"
+  },
+  {
+    "id": "simons-foundation-2026-12-04-shades-of-blue",
+    "title": "Shades of Blue",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-12-04",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "An interdisciplinary conversation on the color blue across vision science, art conservation, and archaeology, with speakers Eero P. Simoncelli, Marco Leona, Samir Patel and Sandhya Jain-Patel.",
+    "url": "https://www.simonsfoundation.org/events/shades-of-blue/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Contemporary Art",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:20:26.900Z"
+  },
+  {
+    "id": "bitforms-2026-12-13-dear-data-amor-mu-oz-claudia-hart-maya-m",
+    "title": "Dear Data (Amor Muñoz, Claudia Hart & Maya Man)",
+    "venue_id": "bitforms",
+    "venue_name": "bitforms gallery",
+    "date": "2026-12-13",
+    "description": "On view October 2 – December 13, 2026 at bitforms gallery. Group exhibition exploring data visualization and generative/digital practice with Amor Muñoz, Claudia Hart and Maya Man.",
+    "url": "https://www.bitforms.art/exhibition/dear-data",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "data-visualization"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:20:26.913Z"
   }
 ]
