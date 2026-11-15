@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:19:26.146Z"
+    "last_checked": "2026-11-15T08:17:26.054Z"
   },
   {
     "id": "the-new-school",
@@ -840,7 +840,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-04T07:37:34.474Z"
+    "last_checked": "2026-11-15T08:17:26.111Z"
   },
   {
     "id": "simons-foundation",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:19:26.157Z"
+    "last_checked": "2026-11-15T08:17:26.071Z"
   },
   {
     "id": "caveat",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:26.164Z"
+    "last_checked": "2026-11-15T08:17:26.102Z"
   },
   {
     "id": "rockefeller-university",
@@ -1749,7 +1749,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:17:15.424Z"
+    "last_checked": "2026-11-15T08:17:26.086Z"
   },
   {
     "id": "wendys-subway",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:26.182Z"
+    "last_checked": "2026-11-15T08:17:26.042Z"
   },
   {
     "id": "filmmakers-coop",

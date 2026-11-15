@@ -6920,5 +6920,124 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:16:45.771Z"
+  },
+  {
+    "id": "microscope-gallery-2026-11-15-marni-kotak-america-on-the-dark-side-of-",
+    "title": "Marni Kotak: America on the Dark Side of the Moon",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-11-15",
+    "time_start": "",
+    "time_end": "",
+    "description": "Solo exhibition by performance artist Marni Kotak, presented by Microscope Gallery at Grace Exhibition Space (182 Ave C), on view through Nov 28. Kotak is known for radical, embodied and durational performance work.",
+    "url": "https://microscopegallery.com/marni-kotak-america-on-the-dark-side-of-the-moon/",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [
+      "performance-art"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:17:26.060Z"
+  },
+  {
+    "id": "microscope-gallery-2026-11-15-artist-talk-marni-kotak-in-conversation-",
+    "title": "Artist Talk: Marni Kotak in Conversation with Natasha Kurchanova",
+    "venue_id": "microscope-gallery",
+    "venue_name": "Microscope Gallery",
+    "date": "2026-11-15",
+    "time_start": "15:00",
+    "time_end": "",
+    "description": "A conversation between performance artist Marni Kotak and art historian Natasha Kurchanova, held in conjunction with Kotak's current exhibition at Grace Exhibition Space.",
+    "url": "https://microscopegallery.com/artist-talk-marni-kotak-natasha-kurchanova/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 2.5,
+    "tags": [
+      "performance-art",
+      "artist-talk"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:17:26.059Z"
+  },
+  {
+    "id": "electronic-arts-intermix-2026-11-15-overexposed-art-technology-and-the-body",
+    "title": "Overexposed: Art, Technology, and the Body",
+    "venue_id": "electronic-arts-intermix",
+    "venue_name": "Electronic Arts Intermix",
+    "date": "2026-11-15",
+    "time_start": "",
+    "time_end": "",
+    "description": "Group exhibition at Museum of the Moving Image featuring experimental film and video artists Peggy Ahwesh, Barbara Hammer, and Leslie Thornton, exploring the intersection of art, technology, and embodiment. On view through Jan 3, 2027.",
+    "url": "https://movingimage.org/event/overexposed/",
+    "price": "varies",
+    "format": "gallery",
+    "interest_score": 4.8,
+    "tags": [
+      "experimental-film",
+      "video-art",
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:17:26.076Z"
+  },
+  {
+    "id": "electronic-arts-intermix-2026-11-15-theresa-hak-kyung-cha-multiple-offerings",
+    "title": "Theresa Hak Kyung Cha: Multiple Offerings",
+    "venue_id": "electronic-arts-intermix",
+    "venue_name": "Electronic Arts Intermix",
+    "date": "2026-11-15",
+    "time_start": "",
+    "time_end": "",
+    "description": "Exhibition at Artists Space surveying the multimedia, video and text-based work of Korean American artist and writer Theresa Hak Kyung Cha. On view through Nov 21.",
+    "url": "https://artistsspace.org/exhibitions/theresa-hak-kyung-cha-multiple-offerings",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Contemporary Art",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:17:26.076Z"
+  },
+  {
+    "id": "vera-list-center-2027-01-25-seminar-9-intelligencemaxxing",
+    "title": "Seminar 9: Intelligencemaxxing",
+    "venue_id": "vera-list-center",
+    "venue_name": "Vera List Center for Art and Politics",
+    "date": "2027-01-25",
+    "time_start": "",
+    "time_end": "",
+    "description": "Continuation of the Vera List Center's Matter of Intelligence seminar series, interrogating contemporary obsessions with optimizing and maximizing intelligence (human and artificial). Free, livestreamed and video documented.",
+    "url": "https://veralistcenter.org/events/seminar-9-intelligencemaxxing",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:17:26.090Z"
   }
 ]
