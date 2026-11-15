@@ -31,7 +31,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-25T07:17:24.748Z",
+    "last_checked": "2026-11-15T08:18:18.626Z",
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
     "generated_scraper": null
@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:22:00.222Z"
+    "last_checked": "2026-11-15T08:18:18.561Z"
   },
   {
     "id": "spectacle-theater",
@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:31:31.431Z"
+    "last_checked": "2026-11-15T08:18:18.602Z"
   },
   {
     "id": "e-flux",
@@ -645,7 +645,7 @@
     "scrape_tier": 2,
     "structured_source": null,
     "generated_scraper": "scrapers/union-docs.ts",
-    "last_checked": "2026-11-15T06:37:39.659Z"
+    "last_checked": "2026-11-15T08:18:18.546Z"
   },
   {
     "id": "whitney",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-11T08:31:11.092Z"
+    "last_checked": "2026-11-15T08:18:18.582Z"
   },
   {
     "id": "the-drawing-center",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:15:59.228Z"
+    "last_checked": "2026-11-15T08:18:18.648Z"
   },
   {
     "id": "moma",
@@ -1108,7 +1108,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.901Z",
+    "last_checked": "2026-11-15T08:18:18.533Z",
     "scrape_notes": "Sweep 2026-07: now 403s via WebFetch too (worked in March). | Audit 2026-07: blocks plain HTTP clients (403; WebFetch worked March 2026). Tier 3 WebFetch only."
   },
   {
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:15:59.208Z"
+    "last_checked": "2026-11-15T08:18:18.539Z"
   },
   {
     "id": "the-stone",
@@ -1774,7 +1774,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.889Z"
+    "last_checked": "2026-11-15T08:18:18.525Z"
   },
   {
     "id": "cybernetics-library",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.841Z"
+    "last_checked": "2026-11-15T08:18:18.592Z"
   },
   {
     "id": "aaww",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:26:25.931Z"
+    "last_checked": "2026-11-15T08:18:18.617Z"
   },
   {
     "id": "nowadays",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:16:05.924Z"
+    "last_checked": "2026-11-15T08:18:18.572Z"
   },
   {
     "id": "la-mama",
@@ -3077,7 +3077,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:23:05.451Z"
+    "last_checked": "2026-11-15T08:18:18.658Z"
   },
   {
     "id": "movement-research",
@@ -3338,7 +3338,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-08T08:18:00.710Z"
+    "last_checked": "2026-11-15T08:18:18.638Z"
   },
   {
     "id": "jalopy-theatre",
@@ -3391,7 +3391,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:31:31.376Z"
+    "last_checked": "2026-11-15T08:18:18.608Z"
   },
   {
     "id": "summerstage",

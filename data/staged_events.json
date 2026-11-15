@@ -7039,5 +7039,680 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:17:26.090Z"
+  },
+  {
+    "id": "wendys-subway-2026-11-20-states-of-emergency-a-spatial-history-of",
+    "title": "States of Emergency: A Spatial History of the French Colonial Continuum — Book Launch with Léopold Lambert",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-11-20",
+    "time_start": "19:00",
+    "time_end": "",
+    "description": "Book launch for Léopold Lambert's study of the colonial continuum linking the Algerian Revolution, the Kanak Insurrection, and France's banlieues uprisings, in conversation with Meriam Soltan and Miriam Ticktin on anticolonial solidarity and critical legal geography.",
+    "url": "https://www.wendyssubway.com",
+    "price": "free",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.502Z"
+  },
+  {
+    "id": "wendys-subway-2026-12-17-writing-club-at-home-with-zoe-imani-shar",
+    "title": "Writing Club at Home with Zoe Imani Sharpe: On Cuts",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-12-17",
+    "time_start": "19:00",
+    "time_end": "20:30",
+    "description": "Online writing session focusing on works by Sky Hopinka, Gordon Matta-Clark, and Betye Saar, exploring gesture, intimacy, and architecture.",
+    "url": "https://www.wendyssubway.com",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.506Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-15-zorn-ii-mathieu-amalric-amalric-zorn",
+    "title": "ZORN II (Mathieu Amalric) — Amalric <-> Zorn",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-15",
+    "time_start": "17:45",
+    "time_end": "",
+    "description": "Second installment of Amalric's documentary portrait of composer John Zorn, filmed 2016-2018, showing Zorn as social catalyst within the New York Underground scene. Also screens Nov 16, 21, and 24.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.550Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-15-zorn-iii-mathieu-amalric-with-john-zorn-",
+    "title": "ZORN III (Mathieu Amalric, with John Zorn & Barbara Hannigan) — Amalric <-> Zorn",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-15",
+    "time_start": "20:45",
+    "time_end": "",
+    "description": "Third film in Amalric's Zorn trilogy, capturing soprano Barbara Hannigan's rehearsals for Zorn's vocally extreme song cycle 'Jumalattaret'. Also screens Nov 16, 22, and 25.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.550Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-15-ma-tres-anciens-com-die-c-est-presque-au",
+    "title": "MAÎTRES ANCIENS – COMÉDIE + C'EST PRESQUE AU BOUT DU MONDE (Mathieu Amalric)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-15",
+    "time_start": "15:00",
+    "time_end": "",
+    "description": "Amalric's filmed version of Thomas Bernhard's theater piece about an actor alone in a pandemic-emptied theater, railing against 'Heideggerians' among others; preceded by a short exploring the origins of singing. Also screens Nov 22.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.550Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-20-faces-moving-image-portraiture-series-op",
+    "title": "Faces: Moving-Image Portraiture (series opens)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-20",
+    "time_start": "",
+    "time_end": "",
+    "description": "A series surveying cinematic portraiture in the art-historical sense, from Warhol's SCREEN TESTS and Gregory Markopoulos's GALAXIE to Yoko Ono's FILM NO. 5 (SMILE) and shorts by Stan Brakhage, Narcisa Hirsch, and others; runs through Nov 30.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.553Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-15-hugo-jacobs-levitt-maas-essential-cinema",
+    "title": "Hugo / Jacobs / Levitt / Maas — Essential Cinema",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-15",
+    "time_start": "20:30",
+    "time_end": "",
+    "description": "A program of preserved avant-garde 16mm shorts including Ian Hugo's BELLS OF ATLANTIS, Ken Jacobs' LITTLE STABS AT HAPPINESS (with Jack Smith), Helen Levitt/James Agee's IN THE STREET, and Willard Maas' GEOGRAPHY OF THE BODY.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.552Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-16-new-shores-program-1-nathaniel-dorsky-in",
+    "title": "New Shores Program 1: Nathaniel Dorsky (in person)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-16",
+    "time_start": "19:00",
+    "time_end": "",
+    "description": "Silent 16mm portrait films by Nathaniel Dorsky, including CARACOLE, NAOS, and DREAMS REVEAL A WEIGHTLESS WORLD, with the filmmaker present. Complements the DOC NYC premiere of ILLUMINATIONS, a new documentary on Dorsky and Jerome Hiler.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.551Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-17-new-shores-program-2-jerome-hiler-in-per",
+    "title": "New Shores Program 2: Jerome Hiler (in person)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-17",
+    "time_start": "19:00",
+    "time_end": "",
+    "description": "Silent 16mm films by Jerome Hiler, including CARELESS PASSAGE, WORDS OF MERCURY, and NEW SHORES, meditating on the origins of sight and superimposed color imagery, with the filmmaker present.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.551Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-17-devo-restorations-and-revelations-collec",
+    "title": "DEVO: Restorations and Revelations — Collected Film and Video Works 1976-84",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-17",
+    "time_start": "19:30",
+    "time_end": "",
+    "description": "New restorations of DEVO's Dadaist companion films and music videos (SATISFACTION, FREEDOM OF CHOICE, WHIP IT) plus rare live footage, curated by archivist and musician Peter Conheim, with discussion and Q&A.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.552Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-18-epilogue-program-3-nathaniel-dorsky-s-ar",
+    "title": "Epilogue Program 3: Nathaniel Dorsky's 'Arboretum Cycle' (in person)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-18",
+    "time_start": "19:00",
+    "time_end": "",
+    "description": "Rare complete screening of Dorsky's seven-film 'Arboretum Cycle' (ELOHIM through EPILOGUE), silent 16mm meditations on light photographed in San Francisco's Arboretum across the stages of life, with the filmmaker present.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.552Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-20-no-food-no-money-no-jewels-notes-from-th",
+    "title": "NO FOOD NO MONEY NO JEWELS + NOTES FROM THE INTERZONE (filmmakers in person)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-20",
+    "time_start": "",
+    "time_end": "",
+    "description": "Angela Christlieb, Simon Lee, and Eve Sussman present a vérité/constructed-set collage following factory workers, followed by Christlieb's associative diary film NOTES FROM THE INTERZONE.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.553Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-21-barbara-mathieu-amalric-",
+    "title": "BARBARA (Mathieu Amalric)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-21",
+    "time_start": "19:45",
+    "time_end": "",
+    "description": "Amalric's experimental biopic of chanteuse Barbara, starring Jeanne Balibar, that folds questions of representation and biographical filmmaking into a quasi-abstract meditation on identity. Also screens Nov 23.",
+    "url": "https://www.anthologyfilmarchives.org",
+    "price": "varies",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.550Z"
+  },
+  {
+    "id": "culturehub-2026-11-19-tethering-an-arcade-with-deep-soul-ties",
+    "title": "Tethering: An Arcade with Deep Soul Ties",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-11-19",
+    "time_start": "18:00",
+    "time_end": "21:00",
+    "description": "A four-night interactive arcade of games exploring invisible bonds that feed the soul, animated by inner lives, musical expression, and ever-present spirits; also runs Nov 20 (and ran Nov 12-13).",
+    "url": "https://culturehub.org",
+    "price": "varies",
+    "format": "other",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.564Z"
+  },
+  {
+    "id": "whitney-2026-11-19-operator-act-iii",
+    "title": "Operator: Act III",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-19",
+    "time_start": "",
+    "time_end": "",
+    "description": "An 80-minute multimedia performance by duo Operator (Ania Catherine and Dejha Ti) moving between computational choreography and spoken narrative, theater aware of its own construction. Runs through Nov 22; the Nov 21 1pm performance is livestreamed as a live-mixed broadcast-art piece.",
+    "url": "https://whitney.org",
+    "price": "varies",
+    "format": "performance",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.576Z"
+  },
+  {
+    "id": "whitney-2026-11-21-artport-a-history-of-internet-art-exhibi",
+    "title": "artport: A History of Internet Art (exhibition opens, with new commission by Jazsalyn)",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-21",
+    "time_start": "",
+    "time_end": "",
+    "description": "Marking the 25th anniversary of the Whitney's artport net-art commissioning platform, this exhibition surveys a quarter-century of net art online and in the gallery, including a new commission, Warpmode, This is not a game!, by Jazsalyn.",
+    "url": "https://whitney.org",
+    "price": "varies",
+    "format": "opening",
+    "interest_score": 4,
+    "tags": [
+      "net-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.576Z"
+  },
+  {
+    "id": "asia-society-2026-11-18-aga-khan-master-musicians-vincent-peiran",
+    "title": "Aga Khan Master Musicians & Vincent Peirani",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-11-18",
+    "time_start": "",
+    "time_end": "",
+    "description": "Musicians representing Central Asian and Middle Eastern traditions perform a program of jointly created works inspired by the historic trade routes connecting Asia and the Mediterranean.",
+    "url": "https://worldmusicinstitute.org",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.585Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-19-the-library-is-open-34-max-bond-brian-go",
+    "title": "The Library is Open 34: Max Bond — Brian Goldstein on Max Bond: The Life and Work of the People's Architect",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-19",
+    "time_start": "12:30",
+    "time_end": "",
+    "description": "Brian Goldstein discusses the first biography of architect Max Bond, who championed freedom through architecture and transformed Black history and modernism, with Shelley Hayreh and Shawn Rickenbacker.",
+    "url": "https://www.arch.columbia.edu",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [
+      "modernism"
+    ],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.595Z"
+  },
+  {
+    "id": "public-records-2026-12-06-laura-itandehui-nyc-debut-wmi-next-gen-s",
+    "title": "Laura Itandehui (NYC debut) — WMI Next Gen Series",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-06",
+    "time_start": "20:00",
+    "time_end": "",
+    "description": "Oaxaca-born vocalist Laura Itandehui blends jazz and vocal improvisation while staying rooted in Latin American musical traditions, presented by World Music Institute.",
+    "url": "https://worldmusicinstitute.org",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "improvisation",
+      "world-music"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.611Z"
+  },
+  {
+    "id": "pioneer-works-2026-11-15-live-with-terence-tao-on-the-mathpocalyp",
+    "title": "Live with Terence Tao on the Mathpocalypse — Janna Levin in conversation",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-11-15",
+    "time_start": "19:00",
+    "time_end": "",
+    "description": "Janna Levin talks with mathematician Terence Tao about his new book Six Math Essentials, human creativity in mathematics, and the fallout of OpenAI's 'mathpocalypse' of machine-generated proofs.",
+    "url": "https://pioneerworks.org",
+    "price": "varies",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI & Cognitive Science",
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.620Z"
+  },
+  {
+    "id": "barbes-2026-11-20-k8a-shahzad-ismaily-iva-bittov-",
+    "title": "K8A / Shahzad Ismaily / Iva Bittová",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-20",
+    "time_start": "20:00",
+    "time_end": "",
+    "description": "Legendary Czech violinist, vocalist, and composer Iva Bittová, who has spent decades blurring folk, avant-garde, and theatrical expression, joined by Shahzad Ismaily.",
+    "url": "https://www.barbesbrooklyn.com",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.630Z"
+  },
+  {
+    "id": "barbes-2026-11-16-lavalle-shipp-parker",
+    "title": "LaValle - Shipp - Parker",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-16",
+    "time_start": "19:00",
+    "time_end": "",
+    "description": "Bassist Mike LaValle invites James Shipp (vibes) and Chris Parker (guitar) for an evening of improvisation drawn from their collective songbook.",
+    "url": "https://www.barbesbrooklyn.com",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.629Z"
+  },
+  {
+    "id": "barbes-2026-11-15-clube-do-choro-with-regional-samauma",
+    "title": "Clube do Choro with Regional Samauma",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-15",
+    "time_start": "15:30",
+    "time_end": "",
+    "description": "A weekly choro jam in Barbès' front room with a rotating cast of Brazilian musicians.",
+    "url": "https://www.barbesbrooklyn.com",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.629Z"
+  },
+  {
+    "id": "barbes-2026-11-16-tropical-vortex-presents-el-vapor-de-bro",
+    "title": "Tropical Vortex presents: El Vapor de Brooklyn",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-16",
+    "time_start": "21:00",
+    "time_end": "",
+    "description": "A diasporic take on Puerto Rican plena and bomba with vinyl selectors Sonido Chichadelico and Adrian is Hungry plus guests.",
+    "url": "https://www.barbesbrooklyn.com",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.629Z"
+  },
+  {
+    "id": "barbes-2026-11-17-slavic-soul-party",
+    "title": "Slavic Soul Party",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-17",
+    "time_start": "21:00",
+    "time_end": "",
+    "description": "Matt Moran's Balkan-inspired brass band plays its weekly residency at Barbès, now in its 25th year.",
+    "url": "https://www.barbesbrooklyn.com",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "balkan"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.629Z"
+  },
+  {
+    "id": "barbes-2026-11-18-mamady-kouyate-s-mandingo-ambassadors",
+    "title": "Mamady Kouyate's Mandingo Ambassadors",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-18",
+    "time_start": "22:00",
+    "time_end": "",
+    "description": "The sound of Guinea's 1970s funk from one of the masters of the legendary Syliphone label.",
+    "url": "https://www.barbesbrooklyn.com",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.630Z"
+  },
+  {
+    "id": "barbes-2026-11-20-cheo-y-los-consentidos-de-la-casa",
+    "title": "Cheo y Los Consentidos de la Casa",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-20",
+    "time_start": "22:00",
+    "time_end": "",
+    "description": "The funky side of old-school salsa led by Cheo on electric guitar (Los Amigos Invisibles, DJ Afro), followed by an all-vinyl salsa DJ set.",
+    "url": "https://www.barbesbrooklyn.com",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "salsa"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.630Z"
+  },
+  {
+    "id": "barbes-2026-11-21-guachinangos",
+    "title": "Guachinangos",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-21",
+    "time_start": "22:00",
+    "time_end": "",
+    "description": "Cumbia with a Mexican son jarocho flavor.",
+    "url": "https://www.barbesbrooklyn.com",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "cumbia",
+      "son-jarocho"
+    ],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.630Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-15-the-cobweb-35mm-the-minnellis",
+    "title": "The Cobweb (35mm) — The Minnellis",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-15",
+    "time_start": "16:00",
+    "time_end": "",
+    "description": "A 35mm restoration of Vincente Minnelli's Cinemascope psychiatric-hospital melodrama starring Lauren Bacall, Richard Widmark, and Lillian Gish.",
+    "url": "https://movingimage.org",
+    "price": "free for members",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "restoration"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.641Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-11-15-en-par-bola-conversations-on-tragedy-fil",
+    "title": "En Parábola / Conversations on Tragedy (film installation)",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-11-15",
+    "time_start": "10:30",
+    "time_end": "20:15",
+    "description": "Natalia Lassalle-Morillo's film installation reassembles the myth of Antigone through nonprofessional actors from Puerto Rico and NYC's Puerto Rican diaspora, examining collective consciousness shaped by environmental, economic, political, and spiritual tragedy. On view through Dec 20, with timed screenings of Pt 1 & Pt 2 throughout the day.",
+    "url": "https://abronsartscenter.org",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 4,
+    "tags": [
+      "consciousness",
+      "installation",
+      "diaspora"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Language & Culture",
+      "Climate & Environment",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:18:18.650Z"
   }
 ]
