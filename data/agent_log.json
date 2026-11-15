@@ -1,76 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "drom",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.806Z",
-    "completed_at": "2026-10-25T07:17:24.806Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nublu",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.813Z",
-    "completed_at": "2026-10-25T07:17:24.813Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "public-records",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.821Z",
-    "completed_at": "2026-10-25T07:17:24.821Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "joe-s-pub",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.828Z",
-    "completed_at": "2026-10-25T07:17:24.828Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "kaufman-music-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.836Z",
-    "completed_at": "2026-10-25T07:17:24.836Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "webster-hall",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.845Z",
-    "completed_at": "2026-10-25T07:17:24.845Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "film-at-lincoln-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:17:24.859Z",
-    "completed_at": "2026-10-25T07:17:24.859Z",
-    "events_found": 5,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "culturehub",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:17:24.866Z",
@@ -4996,6 +4926,76 @@
     "started_at": "2026-11-15T08:31:18.902Z",
     "completed_at": "2026-11-15T08:31:18.902Z",
     "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "participant-inc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:06.892Z",
+    "completed_at": "2026-11-15T08:32:06.892Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:06.907Z",
+    "completed_at": "2026-11-15T08:32:06.907Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "amant",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:06.923Z",
+    "completed_at": "2026-11-15T08:32:06.923Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "la-mama",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:06.936Z",
+    "completed_at": "2026-11-15T08:32:06.936Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "movement-research",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:06.944Z",
+    "completed_at": "2026-11-15T08:32:06.944Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:06.950Z",
+    "completed_at": "2026-11-15T08:32:06.950Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-15T08:32:06.963Z",
+    "completed_at": "2026-11-15T08:32:06.963Z",
+    "events_found": 2,
     "events_new": 1,
     "status": "completed"
   }

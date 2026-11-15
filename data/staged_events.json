@@ -8761,5 +8761,67 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-15T08:31:18.890Z"
+  },
+  {
+    "id": "recess-art-2026-12-19-iron-palm-wine-koneh-pelawoe",
+    "title": "Iron + Palm Wine: Koneh Pelawoe",
+    "venue_id": "recess-art",
+    "venue_name": "Recess",
+    "date": "2026-12-19",
+    "description": "An on-view exhibition by YATTA at Recess, running November 11 through December 19, 2026, drawing on Liberian cultural tradition and material practice.",
+    "url": "https://www.recessart.org/projects/613-iron-palm-wine-koneh-pelawoe",
+    "price": "free",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:06.895Z"
+  },
+  {
+    "id": "la-mama-2026-12-06-la-mama-puppet-festival-2026",
+    "title": "La MaMa Puppet Festival 2026",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-12-06",
+    "description": "La MaMa's annual puppet festival, running November 11 through December 6, 2026, showcasing puppetry and object-theater works by multiple artists.",
+    "url": "http://lamama.org/la-mama-puppet-festival-2026/",
+    "price": "varies",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:06.926Z"
+  },
+  {
+    "id": "index-space-2026-12-02-unruly-play",
+    "title": "Unruly Play",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-12-02",
+    "description": "A workshop/event at Index Chinatown hosted by Imagination of Things, centered on play, improvisation, and unstructured creative exploration.",
+    "url": "https://www.index-space.org/programming/unruly-play-evt-JKCwtaJGFMZDPtN?view=list",
+    "price": "varies",
+    "format": "workshop",
+    "interest_score": 2.1,
+    "tags": [
+      "improvisation"
+    ],
+    "matched_categories": [
+      "Games & Interactive",
+      "Worldbuilding & Speculative Design",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-15T08:32:06.953Z"
   }
 ]
