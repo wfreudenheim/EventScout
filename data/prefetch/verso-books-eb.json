@@ -4,139 +4,199 @@
     "date": "2026-12-05",
     "description": "An intimate literary day in Brooklyn, limited to 13 guests. Travel by private van to Cafe con Libros, The Little Book Shop and much more.",
     "url": "https://www.eventbrite.com/e/driven-by-books-book-crawl-tickets-2003244705841",
-    "venue_name": "Book Club Bar"
+    "venue_name": "Book Club Bar",
+    "format": "tour",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "ROMANTASY Book Club",
     "date": "2026-12-02",
     "description": "reading FIRE POWER by Mir Benitz",
     "url": "https://www.eventbrite.com/e/romantasy-book-club-tickets-2004101305955",
-    "venue_name": "Liz's Book Bar"
+    "venue_name": "Liz's Book Bar",
+    "format": "reading",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "ROMANCE Book Club",
     "date": "2026-12-01",
-    "description": "reading  RETURN TO SENDER by Stephanie Parente",
+    "description": "reading RETURN TO SENDER by Stephanie Parente",
     "url": "https://www.eventbrite.com/e/romance-book-club-tickets-2004101278874",
-    "venue_name": "The Ripped Bodice"
+    "venue_name": "The Ripped Bodice",
+    "format": "reading",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "SCI-FI Book Club",
     "date": "2026-12-06",
     "description": "reading HOMEBOUND by Portia Elan",
     "url": "https://www.eventbrite.com/e/sci-fi-book-club-tickets-2004101346075",
-    "venue_name": "Spritzenhaus33"
+    "venue_name": "Spritzenhaus33",
+    "format": "reading",
+    "interest_score": 2,
+    "matched_categories": ["Worldbuilding & Speculative Design"]
   },
   {
     "title": "HEA Romance Book Club  - \"The Guest Book\" by Mae Marvel",
     "date": "2026-11-18",
-    "description": "Book Club Bar's in-person romance book club! We're reading \"The Guest Book\" by Mae Marvel .",
+    "description": "Book Club Bar's in-person romance book club! We're reading \"The Guest Book\" by Mae Marvel.",
     "url": "https://www.eventbrite.com/e/hea-romance-book-club-the-guest-book-by-mae-marvel-tickets-2003745123604",
-    "venue_name": "Book Club Bar"
+    "venue_name": "Book Club Bar",
+    "format": "reading",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "FICTION Book Club",
     "date": "2026-12-06",
     "description": "reading CRUELTY FREE by Caroline Glenn",
     "url": "https://www.eventbrite.com/e/fiction-book-club-tickets-2004101373156",
-    "venue_name": "Everything's Jake NYC Bar & Lounge"
+    "venue_name": "Everything's Jake NYC Bar & Lounge",
+    "format": "reading",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "November Sci-Fi Book Club: Shroud",
     "date": "2026-11-30",
     "description": "Join us for our monthly Sci-Fi Book Club! For November, we will be discussing SHROUD by Adrian Tchaikovsky.",
     "url": "https://www.eventbrite.com/e/november-sci-fi-book-club-shroud-tickets-2003714377642",
-    "venue_name": "667 Washington Ave"
+    "venue_name": "667 Washington Ave",
+    "format": "reading",
+    "interest_score": 2,
+    "matched_categories": ["Worldbuilding & Speculative Design"]
   },
   {
     "title": "Indie Press Book Club: \"Obscure Destinies\" by Rebecca Brown",
     "date": "2026-11-21",
     "description": "Book Club Bar's in-person small press book club! This month we're reading \"Obscure Destinies\" by Rebecca Brown",
     "url": "https://www.eventbrite.com/e/indie-press-book-club-obscure-destinies-by-rebecca-brown-tickets-2004249576436",
-    "venue_name": "Book Club Bar"
+    "venue_name": "Book Club Bar",
+    "format": "reading",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "LBB Lit Fic Book Club: The Palm House by Gwendoline Riley",
     "date": "2027-01-21",
     "description": "Join us as we discuss our next literary fiction book club pick: The Palm House by Gwendoline Riley.",
     "url": "https://www.eventbrite.com/e/lbb-lit-fic-book-club-the-palm-house-by-gwendoline-riley-tickets-2004790028944",
-    "venue_name": "Liz's Book Bar"
+    "venue_name": "Liz's Book Bar",
+    "format": "reading",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "In-Store: Sophia Veltfort: This Vital Absence w/ Lily Akerman",
     "date": "2026-11-18",
-    "description": "\"Reading Sophia Veltfort’s book I knew, early on, that we’ve got a significant new novelist in our midst.\" —Michael Cunningham",
+    "description": "\"Reading Sophia Veltfort's book I knew, early on, that we've got a significant new novelist in our midst.\" -- Michael Cunningham",
     "url": "https://www.eventbrite.com/e/in-store-sophia-veltfort-this-vital-absence-w-lily-akerman-tickets-2003373597359",
-    "venue_name": "Books Are Magic Montague"
+    "venue_name": "Books Are Magic Montague",
+    "format": "reading",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "Queer Book Store Crawl",
     "date": "2026-12-19",
-    "description": "Join us for a little Saturday morning adventure as we check out a few booking on a quest to find some new Fall Book you curl up with.",
+    "description": "Join us for a little Saturday morning adventure as we check out a few bookshops.",
     "url": "https://www.eventbrite.com/e/queer-book-store-crawl-tickets-2004167521006",
-    "venue_name": "Sweet Pickle Books"
+    "venue_name": "Sweet Pickle Books",
+    "format": "tour",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "TURNING PAGE and BOUNTIFUL book signing at Torn Page NYC",
     "date": "2026-11-22",
-    "description": "Please join us for this special one night only event the critically acclaimed solo play TURNING PAGE written and performed by Angelica Page.",
+    "description": "Please join us for this special one night only event: the critically acclaimed solo play TURNING PAGE written and performed by Angelica Page.",
     "url": "https://www.eventbrite.com/e/turning-page-and-bountiful-book-signing-at-torn-page-nyc-tickets-2000053845893",
-    "venue_name": "Torn Page"
+    "venue_name": "Torn Page",
+    "format": "performance",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "The Brooklyn Rare Book Fair",
     "date": "2026-12-04",
     "description": "Thousands of rare books and one-of-a-kind ephemera in one North Williamsburg loft, all on view and available for purchase",
     "url": "https://www.eventbrite.com/e/the-brooklyn-rare-book-fair-tickets-2003779377057",
-    "venue_name": "XX V"
+    "venue_name": "XX V",
+    "format": "festival",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "Hand-Quilted Needle Books",
     "date": "2026-11-29",
     "description": "Create your own hand-quilted needle book! Hosted by El Lang.",
     "url": "https://www.eventbrite.com/e/hand-quilted-needle-books-tickets-2004176140788",
-    "venue_name": "Old Stone House of Brooklyn"
+    "venue_name": "Old Stone House of Brooklyn",
+    "format": "workshop",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "November Romance Book Club: A Dance of Lies",
     "date": "2026-11-23",
     "description": "Join us for our monthly Romance Book Club! For November, we will be discussing A DANCE OF LIES by Brittney Arena.",
     "url": "https://www.eventbrite.com/e/november-romance-book-club-a-dance-of-lies-tickets-2003145301520",
-    "venue_name": "667 Washington Ave"
+    "venue_name": "667 Washington Ave",
+    "format": "reading",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "December Romance + Queer Book Club: Immortal Game",
     "date": "2026-12-14",
     "description": "Join us for Book Club! For December, we're combining Queer and Romance, and we will be discussing IMMORTAL GAME by Allison Saft.",
     "url": "https://www.eventbrite.com/e/december-romance-queer-book-club-immortal-game-tickets-2004778594744",
-    "venue_name": "667 Washington Ave"
+    "venue_name": "667 Washington Ave",
+    "format": "reading",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "Chloe Gong + Shannon J. Spann: Deadlock",
     "date": "2026-11-20",
     "description": "Join us for a release event with New York Times bestselling author Chloe Gong, discussing her new YA novel DEADLOCK.",
     "url": "https://www.eventbrite.com/e/chloe-gong-shannon-j-spann-deadlock-tickets-1992582384551",
-    "venue_name": "Strand Book Store"
+    "venue_name": "Strand Book Store",
+    "format": "reading",
+    "interest_score": 2,
+    "matched_categories": []
   },
   {
     "title": "Grief, Flowers and Plain Speak",
     "date": "2026-11-19",
     "description": "Anna Walsh, funeral director, talks with writer and teacher, LA Warman about grief, risk, intimacy and LA's forthcoming novel, Debt.",
     "url": "https://www.eventbrite.com/e/grief-flowers-and-plain-speak-tickets-2003724703527",
-    "venue_name": "242 Prospect Park W"
+    "venue_name": "242 Prospect Park W",
+    "format": "talk",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "Offsite: Ryan Schreiber: Weird Era w/ Amanda Petrusich",
     "date": "2026-12-01",
-    "description": "\"A fascinating exploration into Pitchfork, and as a tribute, I put it at number one in my list of top books of the year.\" —Fred Armisen",
+    "description": "\"A fascinating exploration into Pitchfork, and as a tribute, I put it at number one in my list of top books of the year.\" -- Fred Armisen",
     "url": "https://www.eventbrite.com/e/offsite-ryan-schreiber-weird-era-w-amanda-petrusich-tickets-2003089546756",
-    "venue_name": "Public Records, Sound Room"
+    "venue_name": "Public Records, Sound Room",
+    "format": "talk",
+    "interest_score": 2,
+    "matched_categories": ["Sound & Music"]
   },
   {
-    "title": "The Wisdom Bar-\"The Real Process Behind Writing a Novel: Author's Account\"",
+    "title": "The Wisdom Bar - \"The Real Process Behind Writing a Novel: Author's Account\"",
     "date": "2026-11-19",
-    "description": "An Author’s Firsthand Account of His Speculative Fiction Debut. Expert-led lectures in bars and creative spaces across NYC.",
+    "description": "An Author's Firsthand Account of His Speculative Fiction Debut. Expert-led lectures in bars and creative spaces across NYC.",
     "url": "https://www.eventbrite.com/e/the-wisdom-bar-the-real-process-behind-writing-a-novel-authors-account-tickets-2003410977163",
-    "venue_name": "Bibliotheque"
+    "venue_name": "Bibliotheque",
+    "format": "talk",
+    "interest_score": 4,
+    "matched_categories": ["Worldbuilding & Speculative Design"]
   }
 ]

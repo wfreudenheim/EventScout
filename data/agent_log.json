@@ -1,76 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "moma-ps1",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:09.192Z",
-    "completed_at": "2026-10-25T07:31:09.192Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "national-sawdust",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:09.222Z",
-    "completed_at": "2026-10-25T07:31:09.222Z",
-    "events_found": 12,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "roulette",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:09.877Z",
-    "completed_at": "2026-10-25T07:31:09.877Z",
-    "events_found": 10,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "cooper-union",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:09.896Z",
-    "completed_at": "2026-10-25T07:31:09.896Z",
-    "events_found": 4,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "architectural-league",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:09.906Z",
-    "completed_at": "2026-10-25T07:31:09.906Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "center-for-architecture",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:09.925Z",
-    "completed_at": "2026-10-25T07:31:09.925Z",
-    "events_found": 12,
-    "events_new": 8,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyas",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:09.951Z",
-    "completed_at": "2026-10-25T07:31:09.951Z",
-    "events_found": 11,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "bam",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:31:09.959Z",
@@ -4996,6 +4926,76 @@
     "started_at": "2026-11-18T08:13:18.587Z",
     "completed_at": "2026-11-18T08:13:18.587Z",
     "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "caveat",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:17:15.287Z",
+    "completed_at": "2026-11-18T08:17:15.287Z",
+    "events_found": 4,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "lectures-on-tap-prospect-park-south",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:17:15.299Z",
+    "completed_at": "2026-11-18T08:17:15.299Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyc-resistor",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:17:15.837Z",
+    "completed_at": "2026-11-18T08:17:15.837Z",
+    "events_found": 8,
+    "events_new": 8,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "pioneer-works",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:17:16.341Z",
+    "completed_at": "2026-11-18T08:17:16.341Z",
+    "events_found": 8,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:17:16.349Z",
+    "completed_at": "2026-11-18T08:17:16.349Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "caveat",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:17:16.357Z",
+    "completed_at": "2026-11-18T08:17:16.357Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:17:16.862Z",
+    "completed_at": "2026-11-18T08:17:16.862Z",
+    "events_found": 1,
     "events_new": 1,
     "status": "completed"
   }

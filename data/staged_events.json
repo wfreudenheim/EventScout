@@ -7851,5 +7851,376 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-11-18T08:13:18.579Z"
+  },
+  {
+    "id": "caveat-2026-12-06-i-will-not-die-alone",
+    "title": "I Will Not Die Alone",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-12-06",
+    "description": "Join Kamala Rose on a journey of personal growth as she uses music and comedy to search for hope in NYC's bleak dating landscape.",
+    "url": "https://www.eventbrite.com/e/i-will-not-die-alone-tickets-2000643754325",
+    "format": "performance",
+    "interest_score": 3.1,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.267Z"
+  },
+  {
+    "id": "caveat-2026-11-24-science-tonight-ooops-all-reporter-sketc",
+    "title": "Science Tonight! - Ooops All Reporter Sketches",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-11-24",
+    "description": "A late-night comedy talk show with guests scientists who are prepared, and improvisers who are not, to talk about science.",
+    "url": "https://www.eventbrite.com/e/science-tonight-ooops-all-reporter-sketches-tickets-2004092039238",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.268Z"
+  },
+  {
+    "id": "caveat-2026-12-03-nerd-nite",
+    "title": "Nerd Nite",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-12-03",
+    "description": "Nerd Nite NYC is back at Caveat NYC with three fun-yet-informative presentations!",
+    "url": "https://www.eventbrite.com/e/nerd-nite-tickets-2002678540425",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.266Z"
+  },
+  {
+    "id": "caveat-2026-12-09-wait-wait-don-t-shoot-me-",
+    "title": "Wait Wait...Don't Shoot Me!",
+    "venue_id": "caveat",
+    "venue_name": "Caveat",
+    "date": "2026-12-09",
+    "description": "A Palestinian comic's double life collides at an Israeli checkpoint, forcing her to face the cost of liberation.",
+    "url": "https://www.eventbrite.com/e/wait-waitdont-shoot-me-tickets-2002103850512",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.266Z"
+  },
+  {
+    "id": "lectures-on-tap-prospect-park-south-2026-11-21-lectures-on-tap-the-story-of-lithium-fro",
+    "title": "Lectures on Tap - \"The Story of Lithium: From the Big Bang to Your Brain\"",
+    "venue_id": "lectures-on-tap-prospect-park-south",
+    "venue_name": "Lectures on Tap (Prospect Park South)",
+    "date": "2026-11-21",
+    "description": "Professors, experts, and storytellers giving thought-provoking lectures in NYC bars.",
+    "url": "https://www.eventbrite.com/e/lectures-on-tap-the-story-of-lithium-from-the-big-bang-to-your-brain-tickets-2003428059256",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Science & Technology Studies / History of Science",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.290Z"
+  },
+  {
+    "id": "nyc-resistor-2026-11-20-all-decked-out-a-cyberdeck-open-mic-",
+    "title": "All Decked Out: A Cyberdeck \"Open Mic\"",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-11-20",
+    "description": "Show off your cyberdeck creations at this \"open mic\" event and celebrate the creation and use of our own bespoke hardware.",
+    "url": "https://www.eventbrite.com/e/all-decked-out-a-cyberdeck-open-mic-tickets-2003244844255",
+    "format": "other",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.816Z"
+  },
+  {
+    "id": "nyc-resistor-2026-11-27-synthesizer-night-nyc-resistor",
+    "title": "Synthesizer Night @ NYC Resistor",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-11-27",
+    "description": "Gathering musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. BYO synth encouraged!",
+    "url": "https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2004492689594",
+    "format": "other",
+    "interest_score": 4,
+    "tags": [
+      "synthesizer"
+    ],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.813Z"
+  },
+  {
+    "id": "nyc-resistor-2026-11-21-soldering-workshop-make-an-led-tile",
+    "title": "Soldering Workshop: Make an LED Tile",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-11-21",
+    "description": "Soldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole solder",
+    "url": "https://www.eventbrite.com/e/soldering-workshop-make-an-led-tile-tickets-2004123329829",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "soldering"
+    ],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.815Z"
+  },
+  {
+    "id": "nyc-resistor-2026-11-22-locksport-workshop",
+    "title": "Locksport Workshop",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-11-22",
+    "description": "Ethics, theory and hands on practice of lockpicking",
+    "url": "https://www.eventbrite.com/e/locksport-workshop-tickets-2004601891219",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.816Z"
+  },
+  {
+    "id": "nyc-resistor-2026-11-25-nycresistor-ham-radio-club",
+    "title": "NYCResistor Ham Radio Club",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-11-25",
+    "description": "Monthly Amateur Radio club meeting of NYCResistor",
+    "url": "https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1633091463529",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.815Z"
+  },
+  {
+    "id": "nyc-resistor-2026-11-29-still-life-painting-masks-on-",
+    "title": "Still Life Painting: < MASKS ON >",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-11-29",
+    "description": "Beginner friendly, guided Still Life Painting session: Masks Required",
+    "url": "https://www.eventbrite.com/e/still-life-painting-masks-on-tickets-2004868294037",
+    "format": "workshop",
+    "interest_score": 2.2,
+    "tags": [
+      "painting"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.816Z"
+  },
+  {
+    "id": "nyc-resistor-2026-11-18-public-craft-night-1st-fridays-and-3rd-w",
+    "title": "Public Craft Night 1st Fridays and 3rd Wednesdays of the Month < MASKS ON >",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-11-18",
+    "description": "Learn, make, and share at NYC Resistor (18+; high quality masks required and provided on request)",
+    "url": "https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-920215347877",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.815Z"
+  },
+  {
+    "id": "nyc-resistor-2026-11-19-public-craft-night-mondays-and-thursdays",
+    "title": "Public Craft Night Mondays and Thursdays!",
+    "venue_id": "nyc-resistor",
+    "venue_name": "NYC Resistor",
+    "date": "2026-11-19",
+    "description": "Learn, make and share at NYC Resistor (all events18+)",
+    "url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098747981",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & Creative Tech"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:15.815Z"
+  },
+  {
+    "id": "pioneer-works-2026-12-01-ksi-yc",
+    "title": "Księżyc",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-12-01",
+    "description": "Experimental slavic folk music presented in collaboration with Unsound Festival.",
+    "url": "https://www.eventbrite.com/e/ksiezyc-tickets-2004623641274",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:16.323Z"
+  },
+  {
+    "id": "pioneer-works-2026-12-13-press-play-2026-sunday",
+    "title": "Press Play 2026: Sunday",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-12-13",
+    "description": "Our weekend-long fair of books, records, art, ephemera, talks, and workshops returns on December 12-13, 2026",
+    "url": "https://www.eventbrite.com/e/press-play-2026-sunday-tickets-2003527753444",
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:16.321Z"
+  },
+  {
+    "id": "pioneer-works-2027-04-13-leenalchi-femcel",
+    "title": "Leenalchi, Femcel",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2027-04-13",
+    "description": "Seoul alt-pop sensation Leenalchi live at Pioneer Works, co-presented with WMI.",
+    "url": "https://www.eventbrite.com/e/leenalchi-femcel-tickets-1990028695398",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:16.321Z"
+  },
+  {
+    "id": "pioneer-works-2026-11-21-energy-build",
+    "title": "Energy Build",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-11-21",
+    "description": "An experiment in self-care as collective care.",
+    "url": "https://www.eventbrite.com/e/energy-build-tickets-2002832276253",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:16.321Z"
+  },
+  {
+    "id": "pioneer-works-2026-12-06-american-sign-language-tour-of-there-s-n",
+    "title": "American Sign Language Tour of There's no me without you",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2026-12-06",
+    "description": "Join Pioneer Works for a ASL tour of There's no me without you by Finnegan Shannon, featuring works by Alex Dolores Salerno.",
+    "url": "https://www.eventbrite.com/e/american-sign-language-tour-of-theres-no-me-without-you-tickets-2003789764125",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:16.321Z"
+  },
+  {
+    "id": "pioneer-works-2027-03-10-live-on-stage-jonathan-richman-feat-tomm",
+    "title": "LIVE! ON STAGE: JONATHAN RICHMAN feat. TOMMY LARKINS on the drums!",
+    "venue_id": "pioneer-works",
+    "venue_name": "Pioneer Works",
+    "date": "2027-03-10",
+    "description": "The long-awaited NYC return of Jonathan Richman.",
+    "url": "https://www.eventbrite.com/e/live-on-stage-jonathan-richman-feat-tommy-larkins-on-the-drums-tickets-2004627207942",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:16.322Z"
+  },
+  {
+    "id": "public-records-2026-12-01-offsite-ryan-schreiber-weird-era-w-amand",
+    "title": "Offsite: Ryan Schreiber: Weird Era w/ Amanda Petrusich",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-01",
+    "description": "\"A fascinating exploration into Pitchfork, and as a tribute, I put it at number one in my list of top books of the year.\" -- Fred Armisen",
+    "url": "https://www.eventbrite.com/e/offsite-ryan-schreiber-weird-era-w-amanda-petrusich-tickets-2003089546756",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:eventbrite",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:17:16.847Z"
   }
 ]
