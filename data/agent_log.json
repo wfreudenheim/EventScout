@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "bam",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:09.959Z",
-    "completed_at": "2026-10-25T07:31:09.959Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "poetry-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:10.636Z",
-    "completed_at": "2026-10-25T07:31:10.636Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "center-for-book-arts",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:10.646Z",
-    "completed_at": "2026-10-25T07:31:10.646Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "franklin-furnace",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:10.660Z",
-    "completed_at": "2026-10-25T07:31:10.660Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "public-records",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:31:10.702Z",
@@ -4997,6 +4957,46 @@
     "completed_at": "2026-11-18T08:17:16.862Z",
     "events_found": 1,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyu-itp",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:21:53.453Z",
+    "completed_at": "2026-11-18T08:21:53.453Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "sfpc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:21:53.463Z",
+    "completed_at": "2026-11-18T08:21:53.463Z",
+    "events_found": 7,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "microscope-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:21:53.472Z",
+    "completed_at": "2026-11-18T08:21:53.472Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "mono-no-aware",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:21:53.478Z",
+    "completed_at": "2026-11-18T08:21:53.478Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]

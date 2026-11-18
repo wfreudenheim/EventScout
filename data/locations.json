@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:17:26.054Z"
+    "last_checked": "2026-11-18T08:21:53.450Z"
   },
   {
     "id": "the-new-school",
@@ -840,7 +840,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:17:26.111Z"
+    "last_checked": "2026-11-18T08:21:53.461Z"
   },
   {
     "id": "simons-foundation",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:17:26.071Z"
+    "last_checked": "2026-11-18T08:21:53.470Z"
   },
   {
     "id": "caveat",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:17:26.042Z"
+    "last_checked": "2026-11-18T08:21:53.476Z"
   },
   {
     "id": "filmmakers-coop",
