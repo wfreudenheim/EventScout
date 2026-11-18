@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "film-forum",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:22.644Z",
-    "completed_at": "2026-10-25T07:37:22.644Z",
-    "events_found": 10,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "columbia-gsapp",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:22.659Z",
-    "completed_at": "2026-10-25T07:37:22.659Z",
-    "events_found": 4,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "sculpture-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:22.672Z",
-    "completed_at": "2026-10-25T07:37:22.672Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "whitney",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:22.687Z",
-    "completed_at": "2026-10-25T07:37:22.687Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "the-drawing-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:22.699Z",
-    "completed_at": "2026-10-25T07:37:22.699Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "elsewhere",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:23.362Z",
-    "completed_at": "2026-10-25T07:37:23.362Z",
-    "events_found": 9,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "the-brick",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:37:23.373Z",
@@ -4997,6 +4937,66 @@
     "completed_at": "2026-11-18T08:25:48.788Z",
     "events_found": 1,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:27:44.697Z",
+    "completed_at": "2026-11-18T08:27:44.697Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "movement-research",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:27:44.710Z",
+    "completed_at": "2026-11-18T08:27:44.710Z",
+    "events_found": 3,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:27:44.724Z",
+    "completed_at": "2026-11-18T08:27:44.724Z",
+    "events_found": 5,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "jack-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:27:44.737Z",
+    "completed_at": "2026-11-18T08:27:44.737Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "green-wood",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:27:44.751Z",
+    "completed_at": "2026-11-18T08:27:44.751Z",
+    "events_found": 6,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "terraza-7",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:27:44.766Z",
+    "completed_at": "2026-11-18T08:27:44.766Z",
+    "events_found": 9,
+    "events_new": 6,
     "status": "completed"
   }
 ]
