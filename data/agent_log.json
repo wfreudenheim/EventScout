@@ -1,56 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "jack-arts",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:21.887Z",
-    "completed_at": "2026-10-25T07:37:21.887Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "green-wood",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:21.897Z",
-    "completed_at": "2026-10-25T07:37:21.897Z",
-    "events_found": 0,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "drom",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:22.598Z",
-    "completed_at": "2026-10-25T07:37:22.598Z",
-    "events_found": 4,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "flushing-town-hall",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:22.609Z",
-    "completed_at": "2026-10-25T07:37:22.609Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "terraza-7",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:22.626Z",
-    "completed_at": "2026-10-25T07:37:22.626Z",
-    "events_found": 11,
-    "events_new": 5,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "film-forum",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:37:22.644Z",
@@ -4996,6 +4946,56 @@
     "started_at": "2026-11-18T08:23:01.001Z",
     "completed_at": "2026-11-18T08:23:01.001Z",
     "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "swiss-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:25:48.749Z",
+    "completed_at": "2026-11-18T08:25:48.749Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "white-columns",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:25:48.759Z",
+    "completed_at": "2026-11-18T08:25:48.759Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "participant-inc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:25:48.774Z",
+    "completed_at": "2026-11-18T08:25:48.774Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:25:48.781Z",
+    "completed_at": "2026-11-18T08:25:48.781Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "amant",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:25:48.788Z",
+    "completed_at": "2026-11-18T08:25:48.788Z",
+    "events_found": 1,
     "events_new": 0,
     "status": "completed"
   }
