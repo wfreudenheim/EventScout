@@ -8261,5 +8261,202 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-18T08:22:09.861Z"
+  },
+  {
+    "id": "wonderville-2026-11-24-wonderville-s-last-tuesday-of-the-month-",
+    "title": "Wonderville's Last Tuesday of the month PLAYTEST",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-24",
+    "time_start": "19:00",
+    "time_end": "22:00",
+    "description": "Monthly open playtest night where independent game developers bring in-progress games for public feedback.",
+    "url": "https://www.wonderville.nyc/events/playtest-11-24-26",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.428Z"
+  },
+  {
+    "id": "wonderville-2026-11-25-killer-queen-open-hive-night",
+    "title": "Killer Queen Open Hive Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-25",
+    "time_start": "20:00",
+    "description": "Open hive night for Killer Queen, the multiplayer arcade cabinet game, at Wonderville's Brooklyn arcade.",
+    "url": "https://www.wonderville.nyc/events/kq-open-hive-night-11-25-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.429Z"
+  },
+  {
+    "id": "wonderville-2026-11-29-song-for-medusa-book-release-party",
+    "title": "Song for Medusa Book Release Party",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-29",
+    "time_start": "14:30",
+    "time_end": "17:30",
+    "description": "Book release party for \"Song for Medusa\" held at Wonderville's arcade space.",
+    "url": "https://www.wonderville.nyc/events/song-for-medusa-book-release-party-11-29-26",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.430Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-12-05-ofrendas-and-memory-making-la-parranda-a",
+    "title": "Ofrendas and Memory Making: La Parranda Across the Diaspora",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-12-05",
+    "time_start": "12:00",
+    "time_end": "15:00",
+    "description": "A workshop exploring ofrendas and memory-making traditions through La Parranda across the Caribbean and Latin diaspora.",
+    "url": "https://abronsartscenter.org/programs/LES-parranda2026",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [
+      "diaspora"
+    ],
+    "matched_categories": [
+      "Language & Culture",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.457Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-12-15-bodymorphosis",
+    "title": "Bodymorphosis",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-12-15",
+    "time_start": "16:30",
+    "description": "A performance exploring bodily transformation, presented in partnership with Triangle Arts Association at Abrons Arts Center.",
+    "url": "https://abronsartscenter.org/programs/bodymorphosis",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.458Z"
+  },
+  {
+    "id": "abrons-arts-center-2026-12-20-en-par-bola-conversations-on-tragedy",
+    "title": "En Parábola/Conversations on Tragedy",
+    "venue_id": "abrons-arts-center",
+    "venue_name": "Abrons Arts Center",
+    "date": "2026-12-20",
+    "description": "Natalia Lassalle-Morillo's exhibition/program at Abrons Arts Center, running November 5 through December 20, 2026.",
+    "url": "https://abronsartscenter.org/programs/enparabola",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.457Z"
+  },
+  {
+    "id": "moma-ps1-2027-03-15-hard-art",
+    "title": "Hard Art",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2027-03-15",
+    "description": "A survey of abstract painting by Black American artists from 1969 to today, featuring over forty artists across generations.",
+    "url": "https://www.momaps1.org/en/programs/744-hard-art",
+    "format": "gallery",
+    "interest_score": 2.2,
+    "tags": [
+      "painting"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.473Z"
+  },
+  {
+    "id": "moma-ps1-2027-03-15-masao-gozu-windows-and-bars",
+    "title": "Masao Gozu: Windows and Bars",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2027-03-15",
+    "description": "The first US museum exhibition of photographer Masao Gozu, featuring his Windows and Harry's Bar series shot through NYC tenement windows from the 1970s onward.",
+    "url": "https://www.momaps1.org/en/programs/799-masao-gozu-windows-and-bars",
+    "format": "gallery",
+    "interest_score": 2.2,
+    "tags": [
+      "museum-exhibition"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.473Z"
+  },
+  {
+    "id": "moma-ps1-2027-09-06-modern-spotlight-fred-wilson",
+    "title": "Modern Spotlight: Fred Wilson",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2027-09-06",
+    "description": "A spotlight on Fred Wilson's sculpture To Die Upon a Kiss, inspired by Othello and created with Murano glassblowers.",
+    "url": "https://www.momaps1.org/en/programs/884-modern-spotlight-fred-wilson",
+    "format": "gallery",
+    "interest_score": 2.2,
+    "tags": [
+      "sculpture"
+    ],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.473Z"
+  },
+  {
+    "id": "moma-ps1-2027-03-15-new-york-fashion-at-ps1-1980-1984",
+    "title": "New York Fashion at PS1, 1980–1984",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2027-03-15",
+    "description": "An exhibition revisiting MoMA PS1's early fashion program through archival photographs, correspondence, and ephemera.",
+    "url": "https://www.momaps1.org/en/programs/793-new-york-fashion-at-ps1-1980-1984",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:22.472Z"
   }
 ]

@@ -62,7 +62,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:24:12.002Z"
+    "last_checked": "2026-11-18T08:22:22.481Z"
   },
   {
     "id": "new-museum",
@@ -3029,7 +3029,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:24:11.987Z"
+    "last_checked": "2026-11-18T08:22:22.452Z"
   },
   {
     "id": "nyu-game-center",
@@ -3077,7 +3077,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:18:18.658Z"
+    "last_checked": "2026-11-18T08:22:22.467Z"
   },
   {
     "id": "movement-research",
