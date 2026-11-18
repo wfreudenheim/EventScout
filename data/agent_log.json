@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "vera-list-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:23:13.122Z",
-    "completed_at": "2026-10-25T07:23:13.122Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "mono-no-aware",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:23:13.131Z",
@@ -4997,6 +4987,16 @@
     "completed_at": "2026-11-15T08:32:59.849Z",
     "events_found": 2,
     "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-11-18T06:41:07.890Z",
+    "completed_at": "2026-11-18T06:41:07.890Z",
+    "events_found": 0,
+    "events_new": 0,
     "status": "completed"
   }
 ]

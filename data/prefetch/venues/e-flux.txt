@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-11-15T06:37:43.290Z
+FETCHED:2026-11-18T06:41:09.662Z
 
 LoginRegisterForgot password
 Subscribe
@@ -38,13 +38,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783400/theory-of-seeing/
-
-Current & Upcoming
-Theory of Seeing [/events/6783400/theory-of-seeing/]
-November 17, 2026, 7pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/theory-of-seeing-tickets-2004033142075]
 /events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/
 
 Current & Upcoming
@@ -62,6 +55,13 @@ TELLUS with Paul DeMarinis and "Birdcalls" by Louise Lawler  
 November 19, 2026, 7pm
 e-flux
 Get tickets [https://www.eventbrite.com/e/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler-tickets-2004033514188]
+/events/6783406/what-happened-to-video-art-a-symposium-on-artists-rsquo-moving-images/
+
+Current & Upcoming
+What Happened to Video Art?: A Symposium on Artists’ Moving Images [/events/6783406/what-happened-to-video-art-a-symposium-on-artists-rsquo-moving-images/]
+December 5, 2026, 12pm
+e-flux Screening Room
+RSVP [https://www.eventbrite.com/e/what-happened-to-video-art-a-symposium-on-artists-moving-images-tickets-2004922806084]
 
 With our international collaborators, e-flux organizes a wide range of symposia, screenings, and performances, many of which are livestreamed and archived on e-flux Events.
 
@@ -85,15 +85,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-In-person, Screenings, Talks
-/events/6783400/theory-of-seeing/
-
-Theory of Seeing
-
-[/events/6783400/theory-of-seeing/]
-November 17, 2026, 7pm
-e-flux Screening Room
-Get tickets [https://www.eventbrite.com/e/theory-of-seeing-tickets-2004033142075]
 In-person
 /events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/
 
@@ -113,8 +104,25 @@ TELLUS with Paul DeMarinis and "Birdcalls" by Louise Lawler
 November 19, 2026, 7pm
 e-flux
 Get tickets [https://www.eventbrite.com/e/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler-tickets-2004033514188]
+In-person, Symposia, Talks
+/events/6783406/what-happened-to-video-art-a-symposium-on-artists-rsquo-moving-images/
+
+What Happened to Video Art?: A Symposium on Artists’ Moving Images
+
+[/events/6783406/what-happened-to-video-art-a-symposium-on-artists-rsquo-moving-images/]
+December 5, 2026, 12pm
+e-flux Screening Room
+RSVP [https://www.eventbrite.com/e/what-happened-to-video-art-a-symposium-on-artists-moving-images-tickets-2004922806084]
 Archive
 
+In-person, Screenings, Talks
+/events/6783400/theory-of-seeing/
+
+Theory of Seeing
+
+[/events/6783400/theory-of-seeing/]
+November 17, 2026, 7pm
+e-flux Screening Room
 Screenings, In-person, Talks
 /events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/
 
@@ -138,15 +146,5 @@ With an Acre — An Afternoon with the CCA
 
 [/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/]
 November 7, 2026, 3pm
-e-flux Screening Room
-In-person, Screenings, Talks
-/events/6783399/la-merde-the-mole-nbsp/
-
-La Merde! The Mole!
-
- 
-
-[/events/6783399/la-merde-the-mole-nbsp/]
-November 5, 2026, 7pm
 e-flux Screening Room
 Load more

@@ -1,6 +1,6 @@
 VENUE:cooper-union | Cooper Union
 URL:https://cooper.edu/events-and-exhibitions
-FETCHED:2026-11-15T06:37:47.507Z
+FETCHED:2026-11-18T06:41:13.540Z
 
 /
 
@@ -14,28 +14,16 @@ COOPER UNION [/]
 
 EVENTS & EXHIBITIONS
 
-/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century
+/events-and-exhibitions/events/room-sixty-years-front-line-history
 
-ESPINOSA NOVA, A REVIVAL FROM THE MEXICAN 16TH CENTURY [/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century]
+IN THE ROOM: SIXTY YEARS ON THE FRONT LINE OF HISTORY [/events-and-exhibitions/events/room-sixty-years-front-line-history]
 
-November 16, 2026
-12:30pm
+November 18, 2026
+7:00pm
 
-Cristóbal Henestrosa describe the development of the Espinosa Nova typeface
+Pulitzer Prize–winning photographer David Hume Kennerly in conversation with ABC News Presidential Historian Mark K. Updegrove
 
-Event Details [/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th-century]
- * /events-and-exhibitions/events/visiting-lecture-sean-lally-snags-glitches-and-unintended
-
-   VISITING LECTURE | SEAN LALLY: SNAGS, GLITCHES AND UNINTENDED CONSEQUENCES [/events-and-exhibitions/events/visiting-lecture-sean-lally-snags-glitches-and-unintended]
-
-   November 17, 2026
-   6:30pm
- * /events-and-exhibitions/events/room-sixty-years-front-line-history
-
-   IN THE ROOM: SIXTY YEARS ON THE FRONT LINE OF HISTORY [/events-and-exhibitions/events/room-sixty-years-front-line-history]
-
-   November 18, 2026
-   7:00pm
+Event Details [/events-and-exhibitions/events/room-sixty-years-front-line-history]
  * /events-and-exhibitions/events/david-reinfurt-open-flat-file
 
    DAVID REINFURT FOR OPEN FLAT FILE [/events-and-exhibitions/events/david-reinfurt-open-flat-file]
@@ -48,24 +36,25 @@ Event Details [/events-and-exhibitions/events/espinosa-nova-revival-mexican-16th
 
    December 1, 2026
    6:30pm
+ * /events-and-exhibitions/events/jan-wilker-open-flat-file
+
+   JAN WILKER FOR OPEN FLAT FILE [/events-and-exhibitions/events/jan-wilker-open-flat-file]
+
+   December 10, 2026
+   6:30pm
 
 ONGOING EXHIBITIONS
 
- * /architecture/exhibitions/primers-handmade-utopia
-
-   PRIMERS FOR A HANDMADE UTOPIA [/architecture/exhibitions/primers-handmade-utopia]
-
-   October 08, 2026 to November 15, 2026
  * /events-and-exhibitions/exhibitions/publishing-architecture-cooper-union
 
    PUBLISHING ARCHITECTURE AT THE COOPER UNION [/events-and-exhibitions/exhibitions/publishing-architecture-cooper-union]
 
    October 29, 2026 to November 25, 2026
- * /events-and-exhibitions/exhibitions/november-10-view-exhibitions
+ * /events-and-exhibitions/exhibitions/november-17-view-exhibitions
 
-   NOVEMBER 10 ON VIEW EXHIBITIONS [/events-and-exhibitions/exhibitions/november-10-view-exhibitions]
+   NOVEMBER 17 ON VIEW EXHIBITIONS [/events-and-exhibitions/exhibitions/november-17-view-exhibitions]
 
-   November 10, 2026 to November 14, 2026
+   November 17, 2026 to November 28, 2026
 
  * Founded by inventor, industrialist and philanthropist Peter Cooper in 1859, The Cooper Union for the Advancement of Science and Art offers education in art, architecture and engineering, as well as courses in the humanities and social sciences.
 

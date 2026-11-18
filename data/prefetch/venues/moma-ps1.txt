@@ -1,6 +1,6 @@
 VENUE:moma-ps1 | MoMA PS1
 URL:https://www.momaps1.org/en/calendar
-FETCHED:2026-11-15T06:37:46.477Z
+FETCHED:2026-11-18T06:41:12.184Z
 
 Skip to content
 EN [/en/calendar?save_locale=true] ES [/es/calendar?save_locale=true]
@@ -102,9 +102,8 @@ Close
 Close
 
 Change Date
-Today, Sun, Nov 15
-Open
-12–6 p.m.
+Today, Wed, Nov 18
+The building is closed today
 Expand All Collapse all
 MoMA PS1
 
@@ -150,7 +149,35 @@ Trained as a forensic pathologist and a photographer, Margolles has created work
 
 More Info [/en/programs/760-teresa-margolles]
 
-MoMA PS1
+Music
+
+SCHOOL NITE
+
+[/en/programs/889-school-nite]
+
+Ends Apr 15, 2027
+
++ Open School Nite – Close School Nite
+
+School Nite is MoMA PS1’s new, after-hours music series amplifying the next generation of sound. Rising digital, internet-based, and underground acts take over our former schoolhouse with live performances. Across genres and disciplines, the series spotlights rising talent and the scenes shaping culture in real time, with after-hours gallery access to MoMA PS1’s exhibitions and a cash bar.
+
+More Info [/en/programs/889-school-nite]
+
+Exhibition
+
+NEW YORK FASHION AT PS1, 1980–1984
+
+[/en/programs/793-new-york-fashion-at-ps1-1980-1984]
+
+Ends Mar 15, 2027
+
++ Open New York Fashion at PS1, 1980–1984 – Close New York Fashion at PS1, 1980–1984
+
+New York Fashion at PS1, 1980–1984 revisits the museum’s fashion program, initiated in 1980 as part of its wider Multi-Disciplinary Program, which spanned sound, performance, poetry, film, and architecture. Featuring notes, correspondence, photographs, and ephemera drawn from the MoMA PS1 archives, among others, the exhibition focuses on projects realized at the museum by independent curator Hollywood Di Russo (1946–2005) with designers in the city. A stylist and make-up artist, Di Russo aimed to highlight fashion’s influence on visual culture and the arts, outside the commercial realm and the formal conventions of costume display.
+
+More Info [/en/programs/793-new-york-fashion-at-ps1-1980-1984]
+
+Exhibition
 
 HARD ART
 
@@ -160,7 +187,7 @@ Ends Mar 15, 2027
 
 + Open Hard Art – Close Hard Art
 
-This fall, MoMA PS1 will present Hard Art, a major exhibition that examines the legacy of abstract painting by Black artists in the US from 1969 to today. Hard Art features over forty artists and juxtaposes historical paintings by practitioners who came to prominence in the 1970s with recent conceptually driven practices that incorporate sculpture, video, sound, and painting. Organized thematically, the exhibition traces the legacy of three generations of artists including Frank Bowling, Mark Bradford, Peter Bradley, Barbara Chase-Riboud, Ed Clark, Melvin Edwards, Jennie C. Jones, Joe Overstreet, and Raymond Saunders, alongside new and recent works by Aria Dean, Torkwase Dyson, Nikita Gale, Suzanne Jackson, Rindon Johnson, Caroline Kent, Carolyn Lazard, Eric N. Mack, Charisse Pearlina Weston, and SoiL Thornton, among others.
+Hard Art examines the legacy of abstract painting by Black artists in the US from 1969 to today. Hard Art features over forty artists and juxtaposes historical paintings by practitioners who came to prominence in the 1970s with recent conceptually driven practices that incorporate sculpture, video, sound, and painting. Organized thematically, the exhibition traces the legacy of three generations of artists including Frank Bowling, Mark Bradford, Peter Bradley, Barbara Chase-Riboud, Ed Clark, Melvin Edwards, Jennie C. Jones, Joe Overstreet, and Raymond Saunders, alongside new and recent works by Aria Dean, Torkwase Dyson, Nikita Gale, Suzanne Jackson, Rindon Johnson, Caroline Kent, Carolyn Lazard, Eric N. Mack, Charisse Pearlina Weston, and SoiL Thornton, among others.
 
 More Info [/en/programs/744-hard-art]
 
@@ -191,20 +218,6 @@ Ends Sep 6, 2027
 Fred Wilson’s sculpture To Die Upon A Kiss (2011) takes its title from the final lines spoken by Othello in William Shakespeare’s play. Set in sixteenth-century Venice, Othello traces the Black general’s path to a tragic fate. Invited to represent the United States at the Venice Biennale in 2003, Wilson took inspiration from the many people of African descent who appear in artistic depictions of Venetian life across the centuries, figures whose first-person accounts remain absent from the historical record. He collaborated with glassblowers on the Venetian Island of Murano to create elaborate chandeliers using black glass, titling each after a line from Othello’s closing monologue.
 
 More Info [/en/programs/884-modern-spotlight-fred-wilson]
-
-Exhibition
-
-NEW YORK FASHION AT PS1, 1980–1984
-
-[/en/programs/793-new-york-fashion-at-ps1-1980-1984]
-
-Ends Mar 15, 2027
-
-+ Open New York Fashion at PS1, 1980–1984 – Close New York Fashion at PS1, 1980–1984
-
-Opening this fall, New York Fashion at PS1, 1980–1984 revisits the museum’s fashion program, initiated in 1980 as part of its wider Multi-Disciplinary Program, which spanned sound, performance, poetry, film, and architecture. Featuring notes, correspondence, photographs, and ephemera drawn from the MoMA PS1 archives, among others, the exhibition focuses on projects realized at the museum by independent curator Hollywood Di Russo (1946–2005) with designers in the city. A stylist and make-up artist, Di Russo aimed to highlight fashion’s influence on visual culture and the arts, outside the commercial realm and the formal conventions of costume display.
-
-More Info [/en/programs/793-new-york-fashion-at-ps1-1980-1984]
 
 Nov 19
 Open

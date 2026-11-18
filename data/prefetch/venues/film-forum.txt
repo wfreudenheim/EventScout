@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-11-15T06:37:51.396Z
+FETCHED:2026-11-18T06:41:19.420Z
 
 Skip to Content
 
@@ -14,7 +14,6 @@ SLIDESHOW
  *
  * https://filmforum.org/film/fatherland
  * https://filmforum.org/film/once-upon-a-time-in-harlem
- * https://filmforum.org/film/the-court-jester-ffjr-2026
  *
  *
  * https://filmforum.org/film/little-fugitive-ffjr-2026
@@ -44,85 +43,182 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
- * SUN
- * MON
- * TUE
  * WED
  * THU
  * FRI
  * SAT
+ * SUN
+ * MON
+ * TUE
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 4:40 6:50 9:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 6:00 8:15
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 2:30 4:40 6:50 9:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:25 2:25 4:30 6:30 8:30
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00 3:45 6:00 8:15
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+2:30 4:40 6:50 9:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:30
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:30 3:30 8:15
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:00
+
+Opens Today!ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+ROME, OPEN CITY [https://filmforum.org/film/rome-open-city-rossellini-120]
+12:30
+
+Opens Today!ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+PAISAN [https://filmforum.org/film/paisan-rossellini-120]
+2:45
+
+Opens Today!ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+VOYAGE TO ITALY [https://filmforum.org/film/voyage-to-italy-rossellini-120]
+5:30
+
+Sneak Preview!ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
+6:30
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+2:30 4:40 6:50 9:00
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+12:20 3:00 5:40 8:20
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+12:30 4:00(OC) 8:15
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+1:30(OC) 6:00
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+VOYAGE TO ITALY [https://filmforum.org/film/voyage-to-italy-rossellini-120]
+12:20
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+ROME, OPEN CITY [https://filmforum.org/film/rome-open-city-rossellini-120]
+2:30 7:20
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+PAISAN [https://filmforum.org/film/paisan-rossellini-120]
+4:45
 
 FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-THE COURT JESTER [https://filmforum.org/film/the-court-jester-ffjr-2026]
+LITTLE FUGITIVE [https://filmforum.org/film/little-fugitive-ffjr-2026]
 11:00
 
+Sneak Preview!ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
+12:30
+
 threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 6:20 8:30
+2:30 4:40 6:50 9:00
 
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-1:10 3:40 6:20 8:50
+12:20 5:10 7:50
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-1:20(OC) 3:20 5:20 7:20
+12:30 3:00(OC) 7:30
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45(OC) 6:00 8:15
+5:10(OC)
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+L'AMORE [https://filmforum.org/film/lamore-rossellini-120]
+12:50
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+ROME, OPEN CITY [https://filmforum.org/film/rome-open-city-rossellini-120]
+2:40
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+PAISAN [https://filmforum.org/film/paisan-rossellini-120]
+4:50
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+GERMANY, YEAR ZERO [https://filmforum.org/film/germany-year-zero-rossellini-120]
+7:25
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+VOYAGE TO ITALY [https://filmforum.org/film/voyage-to-italy-rossellini-120-rossellini-120]
+9:10
 
 threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 6:50 9:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 8:00
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:20(OC) 2:20 4:20 6:00 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45(OC) 6:00 8:15
-
-Opens Today!SILENT LUBITSCH [https://filmforum.org/series/silent-lubitsch]
-SO THIS IS PARIS [https://filmforum.org/film/so-this-is-paris-silent-lubitsch]
-6:20
-
-threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 6:50 9:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 5:40 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30(OC) 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 8:50(OC)
-
-threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 6:50 9:00
+2:30 4:40 6:50 9:00
 
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
 12:20 3:00 5:40 8:20
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
+12:30(OC) 4:00 8:15
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00 8:15
+1:30 6:00
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+ROME, OPEN CITY [https://filmforum.org/film/rome-open-city-rossellini-120]
+12:15
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+VOYAGE TO ITALY [https://filmforum.org/film/voyage-to-italy-rossellini-120]
+2:45 8:40
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+GERMANY, YEAR ZERO [https://filmforum.org/film/germany-year-zero-rossellini-120]
+4:50
+
+SILENT LUBITSCH [https://filmforum.org/series/silent-lubitsch]
+LADY WINDERMERE'S FAN [https://filmforum.org/film/lady-windermeres-fan-silent-lubitsch]
+6:30
 
 threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 6:50 9:00
+2:30 4:40 6:50 9:00
 
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
 12:20 3:00 5:40 8:20
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
+12:30 4:00 8:15(OC)
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00 8:15
+1:30 6:00(OC)
 
-Showtimes coming soon!
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+GERMANY, YEAR ZERO [https://filmforum.org/film/germany-year-zero-rossellini-120]
+12:15
 
-Showtimes coming soon!
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+DOV’È LA LIBERTÀ? [https://filmforum.org/film/dove-la-liberta-rossellini-120]
+2:00
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+THE MAN WITH A CROSS [https://filmforum.org/film/the-man-with-a-cross-rossellini-120]
+4:10
+
+Special Screening!NELLY AND MONSIEUR ARNAUD [https://filmforum.org/film/nelly-and-monsieur-arnaud]
+6:10
 
 Donate [https://donate.filmforum.org/give/]
 
@@ -143,15 +239,10 @@ Other ways to support Film Forum [http://filmforum.org/support]
 UPCOMING EVENTS [https://filmforum.org/events]
 
 THREEASFOUR: FULL CIRCLE
-Q&A WITH FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL [https://filmforum.org/events/event/threeasfour-full-circle-november-15]
+SCREENING INTRODUCED BY FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL,
+CO-PRESENTED BY PARSONS SCHOOL OF DESIGN [https://filmforum.org/events/event/threeasfour-full-circle-november-19]
 
-Sunday, November 15
-2:30
-
-THREEASFOUR: FULL CIRCLE
-INTRODUCED BY CO-DIRECTOR BRIAN C. GONZÁLEZ, CO-PRESENTED BY BERKLEENYC [https://filmforum.org/events/event/threeasfour-full-circle-november-16]
-
-Monday, November 16
+Thursday, November 19
 6:50
 
 ALL OF A SUDDEN
@@ -160,6 +251,12 @@ CO-PRESENTED BY FILMMAKER MAGAZINE [https://filmforum.org/events/event/all-of-a-
 
 Friday, November 20
 6:30
+
+VOYAGE TO ITALY
+INTRODUCED BY ISABELLA ROSSELLINI [https://filmforum.org/events/event/voyage-to-italy-530]
+
+Friday, November 20
+5:30
 
 GET EMAIL NEWS
 
@@ -176,32 +273,31 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
-FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
-THE COURT JESTER [https://filmforum.org/film/the-court-jester-ffjr-2026]
-11:00
-
 threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 6:20 8:30
+12:20 2:30 4:40 6:50 9:00
 
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-1:10 3:40 6:20 8:50
+12:20 3:00 5:40 8:20
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-1:20(OC) 3:20 5:20 7:20
+12:25 2:25 4:30 6:30 8:30
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45(OC) 6:00 8:15
+1:00 3:45 6:00 8:15
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
 https://filmforum.org/film/threeasfour-full-circle
 threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+
+ENDS SOON
+
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/threeasfour-full-circle] Watch Trailer [https://filmforum.org/film/threeasfour-full-circle#trailer]
 https://filmforum.org/film/raise-the-red-lantern
 Zhang Yimou’s
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
 
-Friday, November 6 – Thursday, November 19
+HELD OVER THROUGH THURSDAY, NOVEMBER 26
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/raise-the-red-lantern] Watch Trailer [https://filmforum.org/film/raise-the-red-lantern#trailer]
 https://filmforum.org/film/fatherland
@@ -213,26 +309,25 @@ SHOWTIMES & TICKETS [https://my.filmforum.org/events/once-upon-a-time-in-harlem]
 https://filmforum.org/series/film-forum-jr.-series-page#now-playing
 FILM FORUM Jr. [https://filmforum.org/series/film-forum-jr.-series-page#now-playing]
 
-THE COURT JESTER
-Sunday, November 15
+LITTLE FUGITIVE
+Sunday, November 22
 11:00
 
-Films in this Series Danny Kaye in
-THE COURT JESTER Morris Engel & Ruth Orkin’s
+Films in this Series Morris Engel & Ruth Orkin’s
 LITTLE FUGITIVE Walt Disney’s
 PINOCCHIO Ingrid Bergman & Bing Crosby in
 THE BELLS OF ST. MARY’S Nancy Meyers’
 THE PARENT TRAP
+https://filmforum.org/series/silent-lubitsch#now-playing
+SILENT LUBITSCH [https://filmforum.org/series/silent-lubitsch#now-playing]
+
+LADY WINDERMERE’S FAN
+Monday, November 23
+6:30 – 35mm
+
+Films in this Series LADY WINDERMERE’S FAN THE MARRIAGE CIRCLE I DON’T WANT TO BE A MAN THE OYSTER PRINCESS MADAME DUBARRY THE DOLL SO THIS IS PARIS KOHLHIESEL’S DAUGHTERS THE STUDENT PRINCE (IN OLD HEIDELBERG) THE WILDCAT (THE MOUNTAIN CAT)
 
 COMING SOON [https://filmforum.org/coming_soon]
-
-https://filmforum.org/series/silent-lubitsch
-
-SILENT LUBITSCH [https://filmforum.org/series/silent-lubitsch]
-
-Mondays beginning November 16
-
-Films in this Series SO THIS IS PARIS LADY WINDERMERE’S FAN THE MARRIAGE CIRCLE I DON’T WANT TO BE A MAN THE OYSTER PRINCESS MADAME DUBARRY THE DOLL KOHLHIESEL’S DAUGHTERS THE STUDENT PRINCE (IN OLD HEIDELBERG) THE WILDCAT (THE MOUNTAIN CAT)
 
 https://filmforum.org/series/rossellini
 
@@ -284,6 +379,14 @@ Sunday, December 6
 5:30
 
 Buy Tickets [https://my.filmforum.org/events/joan-of-arc-1948]
+https://filmforum.org/film/dog-star-man
+
+DOG STAR MAN [https://filmforum.org/film/dog-star-man]
+
+Wednesday, December 9
+8:00
+
+Buy Tickets [https://my.filmforum.org/dog-star-man]
 https://filmforum.org/film/linnocente
 
 LUCHINO VISCONTI’S

@@ -1,6 +1,6 @@
 VENUE:vera-list-center | Vera List Center for Art and Politics
 URL:https://veralistcenter.org/events/
-FETCHED:2026-11-15T06:37:44.384Z
+FETCHED:2026-11-18T06:41:12.192Z
 
 Skip to Content
 
@@ -17,14 +17,6 @@ SEP 29, 2025–MAY 31, 2027
 [/events/matter-of-intelligence-seminar-series]
 
 UPCOMING
-
-SEMINAR
-
-SEMINAR 8: COLLECTIVE INTELLIGENCE, COLLECTIVE AGENCY
-
-NOV 17, 2026
-
-[/events/seminar-8-collective-intelligence-collective-agency]
 
 SYMPOSIUM
 
@@ -43,6 +35,14 @@ JAN 25, 2027
 [/events/seminar-9-intelligencemaxxing]
 
 RECENT
+
+SEMINAR
+
+SEMINAR 8: COLLECTIVE INTELLIGENCE, COLLECTIVE AGENCY
+
+NOV 17, 2026
+
+[/events/seminar-8-collective-intelligence-collective-agency]
 
 BOOK LAUNCH, LECTURE
 
@@ -163,14 +163,6 @@ TESTING, TESTING
 APR 9, 2026
 
 [/events/testing-testing]
-
-SEMINAR
-
-SEMINAR 4: AFTER THE NATIVE INFORMANT
-
-MAR 23, 2026
-
-[/events/seminar-4-after-the-native-informant]
 
 AS FOR PROTOCOLS SEMINAR
 

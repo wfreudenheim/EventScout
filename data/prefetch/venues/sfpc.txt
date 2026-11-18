@@ -1,6 +1,6 @@
 VENUE:sfpc | School for Poetic Computation
 URL:https://sfpc.study/
-FETCHED:2026-11-15T06:37:40.833Z
+FETCHED:2026-11-18T06:41:08.433Z
 
 * faq [/faq]
  * classes [/classes]
@@ -56,7 +56,7 @@ WINTER 2027 ONLINE CLASSES
 
 JANUARY 17 - MARCH 27, 2026 · 10 CLASSES
 
-ONLINE CLASS [/sessions/winter-27/narrative-constellations]
+APPLICATIONS CLOSED [/sessions/winter-27/narrative-constellations]
 
 NARRATIVE CONSTELLATIONS
 
@@ -64,7 +64,7 @@ WITH APRIL SOETARMAN
 
 SUN 3PM ET OR WED 6:30PM ET ·10 WEEKS · ONLINE (ZOOM)
 
-ONLINE CLASS [/sessions/winter-27/indigenous-cartography-and-gis]
+APPLICATIONS CLOSED [/sessions/winter-27/indigenous-cartography-and-gis]
 
 INDIGENOUS CARTOGRAPHY & GIS
 
@@ -104,7 +104,7 @@ WITH ALIA ELKATTAN AND FRED WORDIE
 
 WED 12PM ET OR SUN 11AM ET ·10 WEEKS · ONLINE (ZOOM)
 
-ONLINE CLASS [/sessions/winter-27/everything-good-is-collage]
+APPLICATIONS CLOSED [/sessions/winter-27/everything-good-is-collage]
 
 EVERYTHING GOOD IS COLLAGE
 

@@ -1,6 +1,6 @@
 VENUE:whitney | Whitney Museum of American Art
 URL:https://whitney.org/events
-FETCHED:2026-11-15T06:37:51.169Z
+FETCHED:2026-11-18T06:41:19.741Z
 
 Skip to main content
 /
@@ -59,18 +59,25 @@ SERVICES
 
 Close filters
 En español Online Members
-/events/closer-look-fall2026
+/events/member-preview-days-artport
 
 TODAY’S EVENTS
 
  * 12 pm
 
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+   MEMBER PREVIEW DAYS FOR ARTPORT: A HISTORY OF INTERNET ART
 
-   Floor 7
+   Floor 6, Galleries
 
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+   [/events/member-preview-days-artport]
+   Members [/events?tags%5B%5D=member_events]
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Floor 5, Neil Bluhm Family Galleries
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
 
  * 1 pm
 
@@ -99,155 +106,32 @@ TODAY’S EVENTS
    [/events/exhibition-tour-lichtenstein]
    Tours [/events?tags%5B%5D=free_tours]
 
+ * 4 pm
+
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+
+   Floor 7
+
+   [/events/closer-look-fall2026]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
 View more
 
 ----------------------------------------
 
 ALL UPCOMING EVENTS
 
- * NOV 15
-
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
-
-   Sunday, November 15, 2026
-   12 pm
-
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Sunday, November 15, 2026
-   1 pm
-
-   [/events/untitled-america-exh-tour-2026]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Sunday, November 15, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Sunday, November 15, 2026
-   3 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
-
- * NOV 16
-
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
-
-   Monday, November 16, 2026
-   11 am
-
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, November 16, 2026
-   12 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Monday, November 16, 2026
-   1 pm
-
-   [/events/untitled-america-exh-tour-2026]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Monday, November 16, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, November 16, 2026
-   3 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   AFTER-HOURS TOURS OF ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, November 16, 2026
-   6:45 pm
-
-   [/events/after-hours-lichtenstein]
-
-   Open to Patron, Circle, Fellow, Sponsor, and Benefactor Members
-
-   Members [/events?tags%5B%5D=member_events]
-
- *  
-
-   AFTER-HOURS TOURS OF ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, November 16, 2026
-   7:15 pm
-
-   [/events/after-hours-lichtenstein]
-
-   Open to Patron, Circle, Fellow, Sponsor, and Benefactor Members
-
-   Members [/events?tags%5B%5D=member_events]
-
- *  
-
-   CONTEMPORARIES TOURS OF ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, November 16, 2026
-   7:45 pm
-
-   [/events/contemporaries-tours-lichtenstein]
-
-   Contemporaries and Contemporaries Patron members
-
-   Members [/events?tags%5B%5D=member_events]
-
- *  
-
-   CONTEMPORARIES TOURS OF ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, November 16, 2026
-   8:15 pm
-
-   [/events/contemporaries-tours-lichtenstein]
-
-   Contemporaries and Contemporaries Patron members
-
-   Members [/events?tags%5B%5D=member_events]
-
  * NOV 18
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Wednesday, November 18, 2026
+   12 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
 
    MEMBER PREVIEW DAYS FOR ARTPORT: A HISTORY OF INTERNET ART
 
@@ -262,9 +146,74 @@ ALL UPCOMING EVENTS
 
  *  
 
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Wednesday, November 18, 2026
+   1 pm
+
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Wednesday, November 18, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
    EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
 
    Wednesday, November 18, 2026
+   3 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+
+   Wednesday, November 18, 2026
+   4 pm
+
+   [/events/closer-look-fall2026]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ * NOV 19–DEC 3
+
+   HOLIDAY MEMBER SHOPPING WEEKS 
+
+   November 19–December 3, 2026
+
+   [/events/holiday-member-shopping-2026]
+
+   Open to all members
+
+   Members [/events?tags%5B%5D=member_events]
+
+ * NOV 19
+
+   MEMBER PREVIEW DAYS FOR ARTPORT: A HISTORY OF INTERNET ART
+
+   Thursday, November 19, 2026
+   10:30 am–6 pm
+
+   [/events/member-preview-days-artport]
+
+   Open to all members
+
+   Members [/events?tags%5B%5D=member_events]
+
+ *  
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Thursday, November 19, 2026
    12 pm
 
    [/events/exhibition-tour-lichtenstein]
@@ -274,13 +223,76 @@ ALL UPCOMING EVENTS
 
    EXHIBITION TOUR: “UNTITLED” (AMERICA) 
 
-   Wednesday, November 18, 2026
+   Thursday, November 19, 2026
    1 pm
 
    [/events/untitled-america-exh-tour-2026]
    Tours [/events?tags%5B%5D=free_tours]
 
-682 events
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Thursday, November 19, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Thursday, November 19, 2026
+   3 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   ACT III
+
+   Thursday, November 19, 2026
+   7–8:30 pm
+
+   [/events/operator-act-iii]
+   Performances [/events?tags%5B%5D=performances]
+
+ * NOV 20
+
+   MEMBER PREVIEW DAYS FOR ARTPORT: A HISTORY OF INTERNET ART
+
+   Friday, November 20, 2026
+   10:30 am–5 pm
+
+   [/events/member-preview-days-artport]
+
+   Open to all members
+
+   Members [/events?tags%5B%5D=member_events]
+
+ *  
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, November 20, 2026
+   12 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Friday, November 20, 2026
+   1 pm
+
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
+
+669 events
 
 ON THE HOUR
 

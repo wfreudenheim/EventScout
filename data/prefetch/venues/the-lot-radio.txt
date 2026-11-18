@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-11-15T06:37:52.657Z
+FETCHED:2026-11-18T06:41:20.850Z
 
 Skip to content
 Menu
@@ -20,41 +20,70 @@ More actions
 
 THE LOT RADIO — LIVE NOW
 
-TODAY’SLINEUP11.15.2026
+TODAY’SLINEUP11.18.2026
 
  * 12am —to 10am
    RESTREAM
 
- * 10am —to 12pm
-   Lise & Vito
+ * 11am —to 12pm
+   Compulsory Joy! with Timo Ellis
 
  * 12pm —to 2pm
-   Yu Su
+   PRINCE LANGUAGE
 
  * 2pm —to 4pm
-   Takuya Nakamura
+   marvelito & hellotones 'El Hijo de PueblaYork'
+   Cumbia, Electronica
+ * 4pm —to 5pm
+   FaltyDL invites Braille
 
- * 4pm —to 6pm
-   Warm Welcome with Spiral Eddie
-   Electronica, House
+ * 5pm —to 6pm
+   Razor-N-Tape with JKriv
+   House, Disco, Global
  * 6pm —to 7pm
-   Eto Ano
-
+   Sassy 009
+   Alternative Pop, Breaks, Experimental Electronic, Pop, Rock
  * 7pm —to 8pm
-   ???? with Doula
-
+   The 8th Path Records invites MOON
+   Electro, Afrobeats, Soukous, Gqom
  * 8pm —to 10pm
-   Black Rave Culture
+   ANALOG SOUL
 
  * 10pm —to 12am
-   Kindergarten: Teqmun & Vertigo
-   Techno, Electro, Breaks
+   GEMS with Rose Kourts: Labradorite
+   House, Techno
 
 STAFF PICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+BLISS POINT INVITES EVITA
+
+11.16.2026
+
+Electronica
+
+ * Play
+ * Detail: Bliss Point invites Evita [/shows/bliss-point/2026-11-16-1600]
+ *
+
+/shows/bliss-point/2026-11-16-1600
+
+YU SU & BUTTECHNO
+
+Lise & Vito
+
+11.15.2026
+
+Techno, IDM
+
+ * Play
+ * Detail: Yu Su & buttechno [/shows/special-guests/2026-11-15-1200]
+ *
+
+/shows/special-guests/2026-11-15-1200
 
 THE CARRY NATION SHOW WITH STERLING JUAN DIAZ AND WILL AUTOMAGIC
 
@@ -126,52 +155,24 @@ alternative, Ambient, Cloud Rap, Indie
 
 /shows/special-guests/2026-11-11-1200
 
-RE:NI
-
-re:ni
-
-11.10.2026
-
-Jungle, Techno, Dubstep
-
- * Play
- * Detail: re:ni [/shows/special-guests/2026-11-10-1400]
- *
-
-/shows/special-guests/2026-11-10-1400
-
-NYKSAN
-
-Nyksan
-
-11.09.2026
-
-Techno, Electro, Experimental Electronic, IDM, Alternative Club
-
- * Play
- * Detail: Nyksan [/shows/special-guests/2026-11-09-1900]
- *
-
-/shows/special-guests/2026-11-09-1900
-
 FEATURED RESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * threehzRResident [/artists/threehz]
- * Brian DeGrawRResident [/artists/brian-degraw]
- * Samer GhadryRResident [/artists/samer-ghadry]
- * MarvelitoRResident [/artists/marvelito]
- * HDRResident [/artists/hd]
- * Dave Stringer HughesRResident [/artists/dave-stringer-hughes]
- * YOUNGBLOODSRResident [/artists/youngbloods]
- * x3butterflyRResident [/artists/x3butterfly]
- * DuneskaRResident [/artists/duneska]
- * R Gamble RResident [/artists/r-gamble]
- * Ella HussleRResident [/artists/ella-hussle]
- * MoMA ReadyRResident [/artists/moma-ready]
+ * Alejandra SabillónRResident [/artists/alejandra-sabiloln]
+ * Galcher LustwerkRResident [/artists/galcher-lustwerk]
+ * Sam O.B.RResident [/artists/sam-ob]
+ * Nick BoydRResident [/artists/nick-boyd]
+ * LiseRResident [/artists/lise]
+ * Off-BrandRResident [/artists/off-brand]
+ * Kush JonesRResident [/artists/kush-jones]
+ * Lauren FlaxRResident [/artists/lauren-flax]
+ * KfeelzRResident [/artists/kfeelz]
+ * Brian SearsRResident [/artists/brian-sears]
+ * adobeprincessRResident [/artists/adobeprincess]
+ * OhyungRResident [/artists/ohyung]
 
 WE ARE THE LOT RADIO
 

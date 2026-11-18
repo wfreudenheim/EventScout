@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-11-15T06:37:51.001Z
+FETCHED:2026-11-18T06:41:19.480Z
 
 /
  * The School
@@ -850,34 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=7&month=11&time_range=week&year=2026 /events?day=23&month=11&time_range=week&year=2026
-Nov 15 – Nov 22
+/events?day=10&month=11&time_range=week&year=2026 /events?day=26&month=11&time_range=week&year=2026
+Nov 18 – Nov 25
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Mon, Nov 16    6:30pm
-
-Alumni Conversations: Karl Wadia ‘06 MSAAD
-
-Alumni
-
-New York
-
-[/events/4371-alumni-conversations-karl-wadia-06-msaad]
-
-Tue, Nov 17    8:30pm
-
-World Architecture Festival / GSAPP Dinner
-
-Alumni
-
-New York
-
-[/events/4372-world-architecture-festival-gsapp-dinner]
 
 Thu, Nov 19    12:30pm
 
@@ -902,3 +882,13 @@ Virtual
 Admissions Info Session: Professional Opportunities for Students
 
 [/events/4386-admissions-info-session-professional-opportunities-for-students]
+
+Tue, Nov 24    12pm
+
+Tuesday Talks
+
+Alumni
+
+New York, Virtual
+
+[/events/4279-tuesday-talks]
