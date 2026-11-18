@@ -8969,5 +8969,39 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-18T08:28:35.494Z"
+  },
+  {
+    "id": "the-brick-2027-01-07-the-exponential-festival-even-cowboys-ge",
+    "title": "The Exponential Festival: Even Cowboys Get the Blues",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2027-01-07",
+    "time_start": "19:00",
+    "description": "A satirical \"real-life adult cartoon\" by ankita sharma about a telehealth therapist taking a cowboy on a joyride to death, jabbing at Americana. Plays January 7-9 at The Brick Theater as part of the Exponential Festival.",
+    "url": "https://www.bricktheater.com/event/the-exponential-festival-even-cowboys-get-the-blues/2027-01-07/",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:30:14.848Z"
+  },
+  {
+    "id": "the-brick-2027-01-28-the-exponential-festival-target-practice",
+    "title": "The Exponential Festival: Target Practice",
+    "venue_id": "the-brick",
+    "venue_name": "The Brick",
+    "date": "2027-01-28",
+    "time_start": "20:00",
+    "description": "A coming-of-age thriller by Kara Hadden drawing on slasher movies and Columbine copycat narratives. Plays January 28-30 at The Brick Theater as part of the Exponential Festival.",
+    "url": "https://www.bricktheater.com/event/the-exponential-festival-target-practice/2027-01-28/",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:30:14.849Z"
   }
 ]
