@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "columbia-heyman",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:13:55.208Z",
-    "completed_at": "2026-10-28T07:13:55.208Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyu-game-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:13:55.225Z",
-    "completed_at": "2026-10-28T07:13:55.225Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nitehawk",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:13:55.246Z",
-    "completed_at": "2026-10-28T07:13:55.246Z",
-    "events_found": 8,
-    "events_new": 6,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nyas",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:13:55.256Z",
-    "completed_at": "2026-10-28T07:13:55.256Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "data-society",
     "scrape_tier_used": 3,
     "started_at": "2026-10-28T07:13:55.272Z",
@@ -4997,6 +4957,46 @@
     "completed_at": "2026-11-18T08:28:02.450Z",
     "events_found": 2,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "national-sawdust",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:28:35.467Z",
+    "completed_at": "2026-11-18T08:28:35.467Z",
+    "events_found": 12,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "roulette",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:28:35.482Z",
+    "completed_at": "2026-11-18T08:28:35.482Z",
+    "events_found": 10,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-architecture",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:28:35.491Z",
+    "completed_at": "2026-11-18T08:28:35.491Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "cooper-union",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:28:35.504Z",
+    "completed_at": "2026-11-18T08:28:35.504Z",
+    "events_found": 3,
+    "events_new": 1,
     "status": "completed"
   }
 ]

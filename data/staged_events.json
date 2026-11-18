@@ -8927,5 +8927,47 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-18T08:28:02.430Z"
+  },
+  {
+    "id": "roulette-2026-12-05-kit-fitzgerald-selected-video-work-1976-",
+    "title": "Kit Fitzgerald: Selected Video Work 1976–2026",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-05",
+    "time_start": "19:00",
+    "description": "A celebration of the groundbreaking work of video artist Kit Fitzgerald, showcasing her lush visual style through two U.S. premieres.",
+    "url": "https://roulette.org/event/kit-fitzgerald/",
+    "price": "$25",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Art & Technology"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:28:35.471Z"
+  },
+  {
+    "id": "cooper-union-2026-12-10-jan-wilker-for-open-flat-file",
+    "title": "Jan Wilker for Open Flat File",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-12-10",
+    "time_start": "18:30",
+    "description": "Designer Jan Wilker, co-founder of Hyperakt, presents in the Open Flat File series on design and visual practice.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/jan-wilker-open-flat-file",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:28:35.494Z"
   }
 ]
