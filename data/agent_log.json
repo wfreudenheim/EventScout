@@ -1,26 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "movement-research",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:21.869Z",
-    "completed_at": "2026-10-25T07:37:21.869Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "danspace-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:37:21.878Z",
-    "completed_at": "2026-10-25T07:37:21.878Z",
-    "events_found": 4,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "jack-arts",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:37:21.887Z",
@@ -4997,6 +4977,26 @@
     "completed_at": "2026-11-18T08:22:22.484Z",
     "events_found": 7,
     "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "anthology-film-archives",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:23:00.986Z",
+    "completed_at": "2026-11-18T08:23:00.986Z",
+    "events_found": 12,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "simons-foundation",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:23:01.001Z",
+    "completed_at": "2026-11-18T08:23:01.001Z",
+    "events_found": 4,
+    "events_new": 0,
     "status": "completed"
   }
 ]

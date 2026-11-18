@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:20:26.875Z"
+    "last_checked": "2026-11-18T08:23:00.984Z"
   },
   {
     "id": "spectacle-theater",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:20:26.909Z"
+    "last_checked": "2026-11-18T08:23:00.999Z"
   },
   {
     "id": "center-for-architecture",

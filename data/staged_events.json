@@ -8458,5 +8458,134 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-18T08:22:22.472Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-28-ec-jennings-kirsanoff",
+    "title": "EC: JENNINGS / KIRSANOFF",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-28",
+    "time_start": "17:15",
+    "description": "Essential Cinema program pairing British documentary pioneer Humphrey Jennings with French avant-garde silent filmmaker Dimitri Kirsanoff.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62236",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "documentary",
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:23:00.959Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-30-cin-maton-program-2",
+    "title": "CINÉMATON, PROGRAM 2",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-30",
+    "time_start": "18:30",
+    "description": "Program 2 of Gérard Courant's experimental 'Cinématon' portrait-film project.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62304",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:23:00.959Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-22-portrait-collections",
+    "title": "PORTRAIT COLLECTIONS",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-22",
+    "time_start": "19:30",
+    "description": "'Portrait Collections', part of a themed program on portraiture in experimental film at Anthology Film Archives.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62298",
+    "format": "screening",
+    "interest_score": 3.8,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:23:00.956Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-21-zorn-i-ii",
+    "title": "ZORN I + II",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-21",
+    "time_start": "17:00",
+    "description": "Repertory screening of 'Zorn I + II', part of a multi-part filmmaker retrospective at Anthology Film Archives.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62196",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:23:00.956Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-21-film-no-5-smile-",
+    "title": "FILM NO. 5 (SMILE)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-21",
+    "time_start": "18:00",
+    "description": "Repertory screening of the experimental short 'Film No. 5 (Smile)'.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62289",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:23:00.956Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-22-zorn-iii",
+    "title": "ZORN III",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-22",
+    "time_start": "17:30",
+    "description": "Repertory screening of 'Zorn III', continuing the filmmaker retrospective at Anthology.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62202",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "repertory-screening"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:23:00.956Z"
   }
 ]
