@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:32:59.834Z"
+    "last_checked": "2026-11-18T08:33:14.430Z"
   },
   {
     "id": "anthology-film-archives",
@@ -448,7 +448,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:32:59.847Z"
+    "last_checked": "2026-11-18T08:33:14.447Z"
   },
   {
     "id": "e-flux",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:31:18.865Z"
+    "last_checked": "2026-11-18T08:33:14.464Z"
   },
   {
     "id": "the-drawing-center",
@@ -701,7 +701,7 @@
     "structured_source": null,
     "generated_scraper": null,
     "scrape_notes": "Website is fully JS-rendered (Nuxt). Cannot be scraped by WebFetch. Needs Eventbrite search or mailing list.",
-    "last_checked": "2026-11-08T08:32:17.167Z"
+    "last_checked": "2026-11-18T08:33:14.473Z"
   },
   {
     "id": "do-not-research",
@@ -1478,7 +1478,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:31:18.886Z",
+    "last_checked": "2026-11-18T08:33:14.493Z",
     "scrape_notes": "Site moved to elsewhere.club (redirect found in sweep 2026-07). Mostly club/indie — cherry-pick electronic/experimental."
   },
   {
@@ -2012,7 +2012,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:31:11.130Z"
+    "last_checked": "2026-11-18T08:33:14.508Z"
   },
   {
     "id": "mono-no-aware",

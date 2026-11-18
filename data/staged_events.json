@@ -9003,5 +9003,190 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-18T08:30:14.849Z"
+  },
+  {
+    "id": "film-forum-2026-12-09-dog-star-man",
+    "title": "Dog Star Man",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-12-09",
+    "time_start": "20:00",
+    "description": "Screening of Stan Brakhage's landmark experimental/avant-garde film Dog Star Man.",
+    "url": "https://filmforum.org/film/dog-star-man",
+    "price": "$18 general / $12 member",
+    "format": "screening",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.412Z"
+  },
+  {
+    "id": "film-forum-2026-11-19-threeasfour-full-circle",
+    "title": "threeASFOUR: Full Circle",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-19",
+    "time_start": "18:50",
+    "description": "Screening of the documentary threeASFOUR: Full Circle, introduced by filmmaker Sean Ono Lennon with subjects Gabi Asfour, Angela Donhauser, and Adi Gil; co-presented with Parsons School of Design.",
+    "url": "https://filmforum.org/events/event/threeasfour-full-circle-november-19",
+    "price": "$18 general / $12 member",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.410Z"
+  },
+  {
+    "id": "film-forum-2026-11-20-voyage-to-italy",
+    "title": "Voyage to Italy",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-20",
+    "time_start": "17:30",
+    "description": "Screening of Roberto Rossellini's Voyage to Italy (Journey to Italy), introduced by Isabella Rossellini, opening the Rossellini 120 retrospective.",
+    "url": "https://filmforum.org/events/event/voyage-to-italy-530",
+    "price": "$18 general / $12 member",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.411Z"
+  },
+  {
+    "id": "film-forum-2026-11-23-lady-windermere-s-fan-silent-lubitsch-",
+    "title": "Lady Windermere's Fan (Silent Lubitsch)",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-23",
+    "time_start": "18:30",
+    "description": "35mm screening of Ernst Lubitsch's silent comedy Lady Windermere's Fan, part of the Silent Lubitsch retrospective series.",
+    "url": "https://filmforum.org/film/lady-windermeres-fan-silent-lubitsch",
+    "price": "$18 general / $12 member",
+    "format": "screening",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.411Z"
+  },
+  {
+    "id": "columbia-gsapp-2026-11-24-tuesday-talks",
+    "title": "Tuesday Talks",
+    "venue_id": "columbia-gsapp",
+    "venue_name": "Columbia GSAPP",
+    "date": "2026-11-24",
+    "time_start": "12:00",
+    "description": "An alumni talk in GSAPP's Tuesday Talks series, held in New York and streamed virtually.",
+    "url": "https://www.arch.columbia.edu/events/4279-tuesday-talks",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.435Z"
+  },
+  {
+    "id": "whitney-2026-11-19-act-iii",
+    "title": "Act III",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-19",
+    "time_start": "19:00",
+    "time_end": "20:30",
+    "description": "A live performance presented as part of the Whitney's performance programming.",
+    "url": "https://whitney.org/events/operator-act-iii",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.452Z"
+  },
+  {
+    "id": "elsewhere-2026-12-09-they-are-gutting-a-body-of-water-taxider",
+    "title": "they are gutting a body of water, Taxidermists",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-12-09",
+    "time_start": "19:00",
+    "description": "A shoegaze/noise-rock double bill featuring they are gutting a body of water and Taxidermists.",
+    "url": "https://www.elsewhere.club/events/2002961522833",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2.9,
+    "tags": [
+      "water",
+      "noise"
+    ],
+    "matched_categories": [
+      "Sound & Music",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.479Z"
+  },
+  {
+    "id": "elsewhere-2026-12-19-perreo-intenso-noche-buena",
+    "title": "Perreo Intenso: Noche Buena",
+    "venue_id": "elsewhere",
+    "venue_name": "Elsewhere",
+    "date": "2026-12-19",
+    "time_start": "22:30",
+    "description": "A Noche Buena-themed reggaetón and perreo dance party.",
+    "url": "https://www.elsewhere.club/events/2004433123430",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.480Z"
+  },
+  {
+    "id": "morus-2026-11-21-radical-history-walking-tour",
+    "title": "Radical History Walking Tour",
+    "venue_id": "morus",
+    "venue_name": "Museum of Reclaimed Urban Space",
+    "date": "2026-11-21",
+    "time_start": "15:00",
+    "description": "A walking tour through Lower East Side sites of tenant activism, squats, and community gardens where residents faced off with gentrification and financial power; offered every Saturday and Sunday, with custom tours also available.",
+    "url": "https://morusnyc.org/join-our-tours/",
+    "format": "tour",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:33:14.498Z"
   }
 ]
