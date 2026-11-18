@@ -31,7 +31,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:18:18.626Z",
+    "last_checked": "2026-11-18T08:13:18.550Z",
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
     "generated_scraper": null
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:20:26.882Z"
+    "last_checked": "2026-11-18T08:13:18.586Z"
   },
   {
     "id": "roulette",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:20:26.889Z"
+    "last_checked": "2026-11-18T08:13:18.441Z"
   },
   {
     "id": "artists-space",
@@ -1133,7 +1133,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: /calendar 404s, no obvious replacement (JS nav). WebFetch root and locate events path during sweep.",
-    "last_checked": "2026-10-21T07:38:16.279Z"
+    "last_checked": "2026-11-18T08:13:18.495Z"
   },
   {
     "id": "cooper-union",
@@ -1503,7 +1503,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.937Z"
+    "last_checked": "2026-11-18T08:13:18.556Z"
   },
   {
     "id": "columbia-soa-lenfest",
@@ -1580,7 +1580,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.823Z"
+    "last_checked": "2026-11-18T08:13:18.453Z"
   },
   {
     "id": "vera-list-center",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:17:26.102Z"
+    "last_checked": "2026-11-18T08:13:18.540Z"
   },
   {
     "id": "rockefeller-university",
@@ -2223,7 +2223,7 @@
     "relevance_score": 3,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:19:07.915Z"
+    "last_checked": "2026-11-18T08:13:18.507Z"
   },
   {
     "id": "japan-society",
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:15:59.182Z"
+    "last_checked": "2026-11-18T08:13:18.575Z"
   },
   {
     "id": "asia-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:18:18.592Z"
+    "last_checked": "2026-11-18T08:13:18.520Z"
   },
   {
     "id": "aaww",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:15:59.196Z"
+    "last_checked": "2026-11-18T08:13:18.529Z"
   },
   {
     "id": "nypl-live",
@@ -2600,7 +2600,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:17:15.231Z"
+    "last_checked": "2026-11-18T08:13:18.432Z"
   },
   {
     "id": "helix-center",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:18:18.572Z"
+    "last_checked": "2026-11-18T08:13:18.485Z"
   },
   {
     "id": "la-mama",
@@ -3053,7 +3053,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-04T07:31:06.478Z"
+    "last_checked": "2026-11-18T08:13:18.477Z"
   },
   {
     "id": "abrons-arts-center",
@@ -3472,7 +3472,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:32:59.795Z"
+    "last_checked": "2026-11-18T08:13:18.406Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3546,7 +3546,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-10-28T07:13:55.184Z"
+    "last_checked": "2026-11-18T08:13:18.465Z"
   },
   {
     "id": "bryant-park-picnics",
