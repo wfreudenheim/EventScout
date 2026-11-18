@@ -8873,5 +8873,59 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-18T08:27:44.756Z"
+  },
+  {
+    "id": "printed-matter-2026-12-03-em-aull-pieces-of-a-dream",
+    "title": "Em Aull: Pieces of a Dream",
+    "venue_id": "printed-matter",
+    "venue_name": "Printed Matter",
+    "date": "2026-12-03",
+    "description": "Book launch and conversation with Em Aull and Ambrose Nzams at Printed Matter.",
+    "url": "https://www.printedmatter.org/programs/events/2348",
+    "format": "reading",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:28:02.381Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-21-type-as-image-beyond-the-grid",
+    "title": "Type as Image: Beyond the Grid",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-21",
+    "time_start": "11:00",
+    "time_end": "17:00",
+    "description": "A letterpress workshop with Sarah Nicholls exploring type as image, running Saturday-Sunday, November 21-22.",
+    "url": "https://shop.centerforbookarts.org/products/26flp102i",
+    "price": "$420 + $30 materials fee",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:28:02.430Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-12-04-ode-to-teachers",
+    "title": "Ode to Teachers",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-12-04",
+    "time_start": "17:00",
+    "description": "A book talk by Goda Palekaitė on her work Ode to Teachers.",
+    "url": "https://shop.centerforbookarts.org/products/goda",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:28:02.430Z"
   }
 ]
