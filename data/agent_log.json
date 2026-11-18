@@ -1,56 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "public-records",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:10.702Z",
-    "completed_at": "2026-10-25T07:31:10.702Z",
-    "events_found": 12,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "time-spans",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:11.374Z",
-    "completed_at": "2026-10-25T07:31:11.374Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "helix-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:11.388Z",
-    "completed_at": "2026-10-25T07:31:11.388Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "swiss-institute",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:11.415Z",
-    "completed_at": "2026-10-25T07:31:11.415Z",
-    "events_found": 5,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "white-columns",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-25T07:31:11.435Z",
-    "completed_at": "2026-10-25T07:31:11.435Z",
-    "events_found": 2,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "participant-inc",
     "scrape_tier_used": 3,
     "started_at": "2026-10-25T07:31:11.446Z",
@@ -4995,6 +4945,56 @@
     "scrape_tier_used": 3,
     "started_at": "2026-11-18T08:21:53.478Z",
     "completed_at": "2026-11-18T08:21:53.478Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wendys-subway",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:22:09.879Z",
+    "completed_at": "2026-11-18T08:22:09.879Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "interference-archive",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:22:09.887Z",
+    "completed_at": "2026-11-18T08:22:09.887Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "maysles-documentary-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:22:09.895Z",
+    "completed_at": "2026-11-18T08:22:09.895Z",
+    "events_found": 9,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "millennium-film-workshop",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:22:09.902Z",
+    "completed_at": "2026-11-18T08:22:09.902Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "creative-time",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-18T08:22:09.909Z",
+    "completed_at": "2026-11-18T08:22:09.909Z",
     "events_found": 1,
     "events_new": 0,
     "status": "completed"

@@ -8222,5 +8222,44 @@
     "source_agent": "aggregator:eventbrite",
     "status": "staged",
     "discovered_at": "2026-11-18T08:17:16.847Z"
+  },
+  {
+    "id": "wendys-subway-2026-11-21-member-workshop-accessing-utopia-with-ar",
+    "title": "Member Workshop: Accessing Utopia with Ariana Faye Allensworth and Babette Thomas",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-11-21",
+    "time_start": "12:00",
+    "description": "A member workshop exploring utopian thinking and collective imagination, led by Ariana Faye Allensworth and Babette Thomas.",
+    "url": "https://wendyssubway.com/programs/workshops/",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Worldbuilding & Speculative Design"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:09.859Z"
+  },
+  {
+    "id": "wendys-subway-2026-12-05-after-hours-joyce-joumaa-disappearance-i",
+    "title": "After Hours: Joyce Joumaa — Disappearance Is Not Death",
+    "venue_id": "wendys-subway",
+    "venue_name": "Wendy's Subway",
+    "date": "2026-12-05",
+    "time_start": "00:00",
+    "time_end": "02:00",
+    "description": "A late-night After Hours workshop with artist Joyce Joumaa centered on her work Disappearance Is Not Death.",
+    "url": "https://wendyssubway.com/programs/workshops/",
+    "format": "workshop",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-18T08:22:09.861Z"
   }
 ]
