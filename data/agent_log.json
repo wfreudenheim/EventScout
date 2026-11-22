@@ -1,56 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "electronic-arts-intermix",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:24.515Z",
-    "completed_at": "2026-10-28T07:19:24.515Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "elsewhere",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:24.532Z",
-    "completed_at": "2026-10-28T07:19:24.532Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "bard-graduate-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:20:42.993Z",
-    "completed_at": "2026-10-28T07:20:42.993Z",
-    "events_found": 5,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "bitforms",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:20:43.009Z",
-    "completed_at": "2026-10-28T07:20:43.009Z",
-    "events_found": 4,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "blank-forms",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:20:43.026Z",
-    "completed_at": "2026-10-28T07:20:43.026Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "film-forum",
     "scrape_tier_used": 3,
     "started_at": "2026-10-28T07:24:32.104Z",
@@ -4998,6 +4948,56 @@
     "completed_at": "2026-11-22T08:13:49.694Z",
     "events_found": 0,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "blank-forms",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:19:02.532Z",
+    "completed_at": "2026-11-22T08:19:02.532Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "brooklyn-rail",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:19:02.549Z",
+    "completed_at": "2026-11-22T08:19:02.549Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "data-society",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:19:02.560Z",
+    "completed_at": "2026-11-22T08:19:02.560Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "culturehub",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:19:02.569Z",
+    "completed_at": "2026-11-22T08:19:02.569Z",
+    "events_found": 2,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "onassis-onx",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:19:02.580Z",
+    "completed_at": "2026-11-22T08:19:02.580Z",
+    "events_found": 1,
+    "events_new": 1,
     "status": "completed"
   }
 ]

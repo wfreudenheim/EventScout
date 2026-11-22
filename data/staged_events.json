@@ -6295,5 +6295,133 @@
     "source_agent": "aggregator:eventbrite",
     "status": "staged",
     "discovered_at": "2026-11-22T08:13:49.342Z"
+  },
+  {
+    "id": "blank-forms-2026-12-12-shirtlifters",
+    "title": "Shirtlifters",
+    "venue_id": "blank-forms",
+    "venue_name": "Blank Forms",
+    "date": "2026-12-12",
+    "time_start": "19:00",
+    "time_end": null,
+    "description": "A performance event at Blank Forms, doors at 7:00pm with the performance beginning at 8:00pm. No further program details were listed on the site.",
+    "url": "https://www.blankforms.org/events/shirtlifters",
+    "price": null,
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:02.524Z"
+  },
+  {
+    "id": "brooklyn-rail-2026-12-01-the-new-social-environment-1411-olivia-r",
+    "title": "The New Social Environment #1411: Olivia Reavey: Distension",
+    "venue_id": "brooklyn-rail",
+    "venue_name": "The Brooklyn Rail",
+    "date": "2026-12-01",
+    "time_start": "13:00",
+    "time_end": null,
+    "description": "A conversation/talk in The Brooklyn Rail's 'The New Social Environment' series centered on artist Olivia Reavey's work 'Distension.'",
+    "url": "https://brooklynrail.org/event/2026/12/01/olivia-reavey-distension/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general) — gallery openings, exhibitions, sculpture, photography"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:02.536Z"
+  },
+  {
+    "id": "data-society-2026-12-03-the-ai-factory-data-centers-power-and-re",
+    "title": "The AI Factory: Data Centers, Power, and Resistance in Late Industrial Pennsylvania",
+    "venue_id": "data-society",
+    "venue_name": "Data & Society",
+    "date": "2026-12-03",
+    "time_start": null,
+    "time_end": null,
+    "description": "A Data & Society event presenting research showing how data centers have become a flashpoint for diverse communities navigating competing desires for economic prosperity and political power.",
+    "url": "https://datasociety.net/research-library/the-ai-factory-data-centers-power-and-resistance-in-late-industrial-pennsylvania/",
+    "price": null,
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies, history of science, philosophy of science",
+      "Climate & environmental art, ecology, speculative futures"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:02.551Z"
+  },
+  {
+    "id": "culturehub-2026-12-10-e-x-t-r-a-c-t-us",
+    "title": "e-x-t-r-a-c-t.us",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-12-10",
+    "time_start": null,
+    "time_end": null,
+    "description": "A new venture by CultureHub Resident Artist Esther Bouquet examining what ethically sourced personal data could look like in a market hungry for authenticity and attention.",
+    "url": "https://www.culturehub.org/events/e-x-t-r-a-c-tus",
+    "price": null,
+    "format": "other",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:02.562Z"
+  },
+  {
+    "id": "culturehub-2026-12-17-livestream-allegra-and-the-cello-in-move",
+    "title": "LIVESTREAM | Allegra and the Cello, In Movements",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-12-17",
+    "time_start": null,
+    "time_end": null,
+    "description": "CultureHub's monthly livestream of a La MaMa production, broadcast using CultureHub's own broadcasting tool, the CultureHub Broadcaster.",
+    "url": "https://culturehub.org/events/allegra-and-the-cello-in-movements",
+    "price": null,
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:02.562Z"
+  },
+  {
+    "id": "onassis-onx-2026-10-12-3etv-on-somerset-house-studios",
+    "title": "3ETV on Somerset House Studios",
+    "venue_id": "onassis-onx",
+    "venue_name": "Onassis ONX",
+    "date": "2026-10-12",
+    "time_start": null,
+    "time_end": null,
+    "description": "A bespoke 9-channel TV station curated and produced by Somerset House Studios, developed with HEK (Basel), M+ (Hong Kong), Onassis ONX (Athens/New York), and Pioneer Works (New York); broadcasting online continuously from Oct 12 through Dec 18, 2026 at 3etv.net.",
+    "url": "https://www.onx.studio/onx-programming/3etv",
+    "price": "free",
+    "format": "other",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation",
+      "Experimental animation, video art, moving image, game engine cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:02.573Z"
   }
 ]
