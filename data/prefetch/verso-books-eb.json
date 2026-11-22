@@ -4,139 +4,179 @@
     "date": "2026-12-05",
     "description": "An intimate literary day in Brooklyn, limited to 13 guests. Travel by private van to Cafe con Libros, The Little Book Shop and much more.",
     "url": "https://www.eventbrite.com/e/driven-by-books-book-crawl-tickets-2003244705841",
-    "venue_name": "Book Club Bar"
+    "venue_name": "Book Club Bar",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "ROMANTASY Book Club",
     "date": "2026-12-02",
     "description": "reading FIRE POWER by Mir Benitz",
     "url": "https://www.eventbrite.com/e/romantasy-book-club-tickets-2004101305955",
-    "venue_name": "Liz's Book Bar"
+    "venue_name": "Liz's Book Bar",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "ROMANCE Book Club",
     "date": "2026-12-01",
     "description": "reading  RETURN TO SENDER by Stephanie Parente",
     "url": "https://www.eventbrite.com/e/romance-book-club-tickets-2004101278874",
-    "venue_name": "The Ripped Bodice"
+    "venue_name": "The Ripped Bodice",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "Books Through Bars Fundraiser",
     "date": "2026-12-08",
     "description": "Help purchase books for the NYC Books Through Bars program.",
     "url": "https://www.eventbrite.com/e/books-through-bars-fundraiser-tickets-2004913412989",
-    "venue_name": "Liz's Book Bar"
+    "venue_name": "Liz's Book Bar",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "SCI-FI Book Club",
     "date": "2026-12-06",
     "description": "reading HOMEBOUND by Portia Elan",
     "url": "https://www.eventbrite.com/e/sci-fi-book-club-tickets-2004101346075",
-    "venue_name": "Spritzenhaus33"
+    "venue_name": "Spritzenhaus33",
+    "interest_score": 3,
+    "matched_categories": ["Worldbuilding & Speculative Design"]
   },
   {
     "title": "In-Store: Paul Grimstad: Cold Fusion w/ Max Lawton",
     "date": "2027-01-07",
-    "description": "“Charming and quick-witted…and often darkly funny—the book reads as an experiment in surrealist whimsy as coping mechanism.” —Kirkus Reviews",
+    "description": "\"Charming and quick-witted…and often darkly funny—the book reads as an experiment in surrealist whimsy as coping mechanism.\" —Kirkus Reviews",
     "url": "https://www.eventbrite.com/e/in-store-paul-grimstad-cold-fusion-w-max-lawton-tickets-2004903604652",
-    "venue_name": "Books Are Magic Montague"
+    "venue_name": "Books Are Magic Montague",
+    "interest_score": 3,
+    "matched_categories": ["Philosophy & Critical Theory"]
   },
   {
     "title": "FICTION Book Club",
     "date": "2026-12-06",
     "description": "reading CRUELTY FREE by Caroline Glenn",
     "url": "https://www.eventbrite.com/e/fiction-book-club-tickets-2004101373156",
-    "venue_name": "Everything's Jake NYC Bar & Lounge"
+    "venue_name": "Everything's Jake NYC Bar & Lounge",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "November Sci-Fi Book Club: Shroud",
     "date": "2026-11-30",
     "description": "Join us for our monthly Sci-Fi Book Club! For November, we will be discussing SHROUD by Adrian Tchaikovsky.",
     "url": "https://www.eventbrite.com/e/november-sci-fi-book-club-shroud-tickets-2003714377642",
-    "venue_name": "667 Washington Ave"
+    "venue_name": "667 Washington Ave",
+    "interest_score": 3,
+    "matched_categories": ["Worldbuilding & Speculative Design"]
   },
   {
     "title": "MURDER Book Club",
     "date": "2026-12-07",
     "description": "reading THE MIDNIGHT TAXI by Yosha Gunasekera",
     "url": "https://www.eventbrite.com/e/murder-book-club-tickets-2004101392213",
-    "venue_name": "Moxy NYC East Village"
+    "venue_name": "Moxy NYC East Village",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "LBB Lit Fic Book Club: The Palm House by Gwendoline Riley",
     "date": "2027-01-21",
     "description": "Join us as we discuss our next literary fiction book club pick: The Palm House by Gwendoline Riley.",
     "url": "https://www.eventbrite.com/e/lbb-lit-fic-book-club-the-palm-house-by-gwendoline-riley-tickets-2004790028944",
-    "venue_name": "Liz's Book Bar"
+    "venue_name": "Liz's Book Bar",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "Books & Burlesque",
     "date": "2026-12-12",
     "description": "Books and Burlesque combines award-winning writers with exciting burlesque performers for an evening of literary & sexy live entertainment.",
     "url": "https://www.eventbrite.com/e/books-burlesque-tickets-2003328270786",
-    "venue_name": "Caveat"
+    "venue_name": "Caveat",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "Queer Book Store Crawl",
     "date": "2026-12-19",
     "description": "Join us for a little Saturday morning adventure as we check out a few booking on a quest to find some new Fall Book you curl up with.",
     "url": "https://www.eventbrite.com/e/queer-book-store-crawl-tickets-2004167521006",
-    "venue_name": "Sweet Pickle Books"
+    "venue_name": "Sweet Pickle Books",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "TURNING PAGE and BOUNTIFUL book signing at Torn Page NYC",
     "date": "2026-11-22",
     "description": "Please join us for this special one night only event the critically acclaimed solo play TURNING PAGE written and performed by Angelica Page.",
     "url": "https://www.eventbrite.com/e/turning-page-and-bountiful-book-signing-at-torn-page-nyc-tickets-2000053845893",
-    "venue_name": "Torn Page"
+    "venue_name": "Torn Page",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "December Romance + Queer Book Club: Immortal Game",
     "date": "2026-12-14",
     "description": "Join us for Book Club! For December, we're combining Queer and Romance, and we will be discussing IMMORTAL GAME by Allison Saft.",
     "url": "https://www.eventbrite.com/e/december-romance-queer-book-club-immortal-game-tickets-2004778594744",
-    "venue_name": "667 Washington Ave"
+    "venue_name": "667 Washington Ave",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "HEA Romance Book Club  - \"The Twelve Loves of Christmas\"",
     "date": "2026-12-16",
     "description": "Book Club Bar's in-person romance book club! We're reading \"The Twelve Loves of Christmas\" by various authors.",
     "url": "https://www.eventbrite.com/e/hea-romance-book-club-the-twelve-loves-of-christmas-tickets-2005057475885",
-    "venue_name": "Book Club Bar"
+    "venue_name": "Book Club Bar",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "The Brooklyn Rare Book Fair",
     "date": "2026-12-04",
     "description": "Thousands of rare books and one-of-a-kind ephemera in one North Williamsburg loft, all on view and available for purchase",
     "url": "https://www.eventbrite.com/e/the-brooklyn-rare-book-fair-tickets-2003779377057",
-    "venue_name": "XX V"
+    "venue_name": "XX V",
+    "interest_score": 2,
+    "matched_categories": []
   },
   {
     "title": "Hand-Quilted Needle Books",
     "date": "2026-11-29",
     "description": "Create your own hand-quilted needle book! Hosted by El Lang.",
     "url": "https://www.eventbrite.com/e/hand-quilted-needle-books-tickets-2004176140788",
-    "venue_name": "Old Stone House of Brooklyn"
+    "venue_name": "Old Stone House of Brooklyn",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "The Botanical Field Book: Bind a Journal, Learn to Observe",
     "date": "2026-12-03",
     "description": "Make a field book with your own hands, then learn how to fill it by looking more closely.",
     "url": "https://www.eventbrite.com/e/the-botanical-field-book-bind-a-journal-learn-to-observe-tickets-2005111931764",
-    "venue_name": "Jolie Studio"
+    "venue_name": "Jolie Studio",
+    "interest_score": 2,
+    "matched_categories": ["Climate & Environment"]
   },
   {
     "title": "Sapphic Lit Book Club: \"Ribbonwood\" by Ruby Landers",
     "date": "2026-12-10",
     "description": "Book Club Bar's in-person sapphic lit book club! This month we're reading \"Ribbonwood\" by Ruby Landers.",
     "url": "https://www.eventbrite.com/e/sapphic-lit-book-club-ribbonwood-by-ruby-landers-tickets-2004785264694",
-    "venue_name": "Book Club Bar - Bushwick"
+    "venue_name": "Book Club Bar - Bushwick",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "December Fantasy + SciFi Book Club: Foundryside",
     "date": "2026-12-07",
     "description": "Join us for Book Club! For December, we're combining Fantasy and SciFi, and we will be discussing FOUNDRYSIDE by Robert Jackson Bennett.",
     "url": "https://www.eventbrite.com/e/december-fantasy-scifi-book-club-foundryside-tickets-2004659712163",
-    "venue_name": "667 Washington Ave"
+    "venue_name": "667 Washington Ave",
+    "interest_score": 3,
+    "matched_categories": ["Worldbuilding & Speculative Design"]
   }
 ]

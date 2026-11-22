@@ -1,76 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "center-for-architecture",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:20.084Z",
-    "completed_at": "2026-10-28T07:19:20.084Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "columbia-gsapp",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:20.113Z",
-    "completed_at": "2026-10-28T07:19:20.113Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "cooper-union",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:20.129Z",
-    "completed_at": "2026-10-28T07:19:20.129Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "creative-time",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:20.148Z",
-    "completed_at": "2026-10-28T07:19:20.148Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "culturehub",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:24.424Z",
-    "completed_at": "2026-10-28T07:19:24.424Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "danspace-project",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:24.470Z",
-    "completed_at": "2026-10-28T07:19:24.470Z",
-    "events_found": 5,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "e-flux",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:19:24.495Z",
-    "completed_at": "2026-10-28T07:19:24.495Z",
-    "events_found": 4,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "electronic-arts-intermix",
     "scrape_tier_used": 3,
     "started_at": "2026-10-28T07:19:24.515Z",
@@ -4999,5 +4929,75 @@
     "events_new": 0,
     "status": "failed",
     "error": "scraper returned 0 events (site redesigned?)"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "caveat",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:13:48.587Z",
+    "completed_at": "2026-11-22T08:13:48.587Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyc-resistor",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:13:48.981Z",
+    "completed_at": "2026-11-22T08:13:48.981Z",
+    "events_found": 8,
+    "events_new": 4,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "new-museum",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:13:48.985Z",
+    "completed_at": "2026-11-22T08:13:48.985Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "pioneer-works",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:13:49.339Z",
+    "completed_at": "2026-11-22T08:13:49.339Z",
+    "events_found": 7,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:13:49.347Z",
+    "completed_at": "2026-11-22T08:13:49.347Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "caveat",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:13:49.351Z",
+    "completed_at": "2026-11-22T08:13:49.351Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "caveat",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:13:49.694Z",
+    "completed_at": "2026-11-22T08:13:49.694Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "completed"
   }
 ]

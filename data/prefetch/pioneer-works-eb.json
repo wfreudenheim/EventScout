@@ -4,139 +4,179 @@
     "date": "2026-12-18",
     "description": "Night 1 of 2 nights of performances, alongside a video installation at Pioneer Works in Brooklyn, NY.",
     "url": "https://www.eventbrite.com/e/son-lux-mmeadows-vines-tickets-1989843845507",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 3,
+    "matched_categories": ["Sound & Music", "Art & Technology"]
   },
   {
     "title": "Members Night: Broadcast and Beers",
     "date": "2026-12-01",
     "description": "Join us at Pioneer Works to celebrate the release of Broadcast Issue 04.",
     "url": "https://www.eventbrite.com/e/members-night-broadcast-and-beers-tickets-2001090865647",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "Son Lux, Samora Pinderhughes, Holland Andrews",
     "date": "2026-12-19",
     "description": "Presenting night 2 of 2 nights of performances, alongside a video installation at Pioneer Works in Brooklyn, NY.",
     "url": "https://www.eventbrite.com/e/son-lux-samora-pinderhughes-holland-andrews-tickets-1989844734165",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 3,
+    "matched_categories": ["Sound & Music", "Art & Technology"]
   },
   {
     "title": "Supper Club with Chama Mama",
     "date": "2026-12-16",
     "description": "Join the Pioneer Works Supper Club for a meal featuring Chama Mama.",
     "url": "https://www.eventbrite.com/e/supper-club-with-chama-mama-tickets-1993629712136",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "LIVE! ON STAGE: JONATHAN RICHMAN feat. TOMMY LARKINS on drums! - Night #1",
     "date": "2027-03-10",
     "description": "The long-awaited NYC return...",
     "url": "https://www.eventbrite.com/e/live-on-stage-jonathan-richman-feat-tommy-larkins-on-drums-night-1-tickets-2004627207942",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 1,
+    "matched_categories": []
   },
   {
     "title": "Księżyc",
     "date": "2026-12-01",
     "description": "Experimental slavic folk music presented in collaboration with Unsound Festival.",
     "url": "https://www.eventbrite.com/e/ksiezyc-tickets-2004623641274",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 4,
+    "matched_categories": ["Sound & Music", "World Music & Global Traditions"]
   },
   {
     "title": "Press Play 2026: Sunday",
     "date": "2026-12-13",
     "description": "Our  weekend-long fair of books, records, art, ephemera, talks, and workshops returns on December 12–13, 2026",
     "url": "https://www.eventbrite.com/e/press-play-2026-sunday-tickets-2003527753444",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 3,
+    "matched_categories": ["Contemporary Art"]
   },
   {
     "title": "Fall 2026 Daily Admission",
     "date": "2026-11-22",
     "description": "Get ready to join us in person for daily fun and activities all through Fall 2026!",
     "url": "https://www.eventbrite.com/e/fall-2026-daily-admission-tickets-2001136657612",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "American Sign Language Tour of There's no me without you",
     "date": "2026-12-06",
     "description": "Join Pioneer Works for a ASL tour of There's no me without you by Finnegan Shannon, featuring works by Alex Dolores Salerno.",
     "url": "https://www.eventbrite.com/e/american-sign-language-tour-of-theres-no-me-without-you-tickets-2003789764125",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 3,
+    "matched_categories": ["Contemporary Art"]
   },
   {
     "title": "Leenalchi, Femcel",
     "date": "2027-04-13",
     "description": "Seoul alt-pop sensation Leenalchi live at Pioneer Works, co-presented with WMI.",
     "url": "https://www.eventbrite.com/e/leenalchi-femcel-tickets-1990028695398",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 2,
+    "matched_categories": ["World Music & Global Traditions"]
   },
   {
     "title": "Tara Clerkin Trio",
     "date": "2027-02-06",
     "description": "Pioneer Works presents the Tara Clerkin Trio, live in PW's Main Hall.",
     "url": "https://www.eventbrite.com/e/tara-clerkin-trio-tickets-2002628791625",
-    "venue_name": "Pioneer Works"
+    "venue_name": "Pioneer Works",
+    "interest_score": 3,
+    "matched_categories": ["Sound & Music"]
   },
   {
     "title": "Out-FRONT! Fest. 2027: Alex Romania + Stacy Lynn Smith & Tristan Koepke",
     "date": "2027-01-13",
     "description": "A Festival presented by Pioneers Go East Collective: Gian Marco Riccardo Lo Forte, Remi Harris, Philip Treviño, and Alexa Grae",
     "url": "https://www.eventbrite.com/e/out-front-fest-2027-alex-romania-stacy-lynn-smith-tristan-koepke-tickets-2003469162196",
-    "venue_name": "Judson Memorial Church"
+    "venue_name": "Judson Memorial Church",
+    "interest_score": 3,
+    "matched_categories": ["Contemporary Art"]
   },
   {
     "title": "Out-FRONT! Fest. 2027: Alex Romania + Stacy Lynn Smith & Same As Sister",
     "date": "2027-01-14",
     "description": "A Festival presented by Pioneers Go East Collective: Gian Marco Riccardo Lo Forte, Remi Harris, Philip Treviño, and Alexa Grae",
     "url": "https://www.eventbrite.com/e/out-front-fest-2027-alex-romania-stacy-lynn-smith-same-as-sister-tickets-2003477688699",
-    "venue_name": "Judson Memorial Church"
+    "venue_name": "Judson Memorial Church",
+    "interest_score": 3,
+    "matched_categories": ["Contemporary Art"]
   },
   {
     "title": "S.E. Rogie Listening Session: Palm Wine Music",
     "date": "2026-12-12",
     "description": "a listening session that will contextualize Rogie's place in the palm wine genre",
     "url": "https://www.eventbrite.com/e/se-rogie-listening-session-palm-wine-music-tickets-2003418245904",
-    "venue_name": "Recess"
+    "venue_name": "Recess",
+    "interest_score": 4,
+    "matched_categories": ["World Music & Global Traditions"]
   },
   {
     "title": "Small Works: $100 & Under",
     "date": "2026-11-24",
     "description": "Small Works is back!! Each year, Small Works: $100 & Under features hundreds of small-scale artworks, sized at 6 x 6 inches or less.",
     "url": "https://www.eventbrite.com/e/small-works-100-under-registration-2004084073412",
-    "venue_name": "Fountain House Gallery"
+    "venue_name": "Fountain House Gallery",
+    "interest_score": 2,
+    "matched_categories": ["Contemporary Art"]
   },
   {
     "title": "Current Work Forms of Intelligence: Labor",
     "date": "2026-12-01",
-    "description": "With AI forecasted to eliminate much “unnecessary” work, what should architects do more of?",
+    "description": "With AI forecasted to eliminate much \"unnecessary\" work, what should architects do more of?",
     "url": "https://www.eventbrite.com/e/current-work-forms-of-intelligence-labor-tickets-2004234358920",
-    "venue_name": "Frederick P. Rose Auditorium"
+    "venue_name": "Frederick P. Rose Auditorium",
+    "interest_score": 4,
+    "matched_categories": ["Architecture & Urbanism", "Neuroscience, AI & Cognitive Science"]
   },
   {
     "title": "Good Work Live!",
     "date": "2026-12-01",
     "description": "At Good Work_ Live, Dan Toomey and his news associates bring their YouTube channel to the live stage",
     "url": "https://www.eventbrite.com/e/good-work-live-tickets-1999627855745",
-    "venue_name": "Caveat"
+    "venue_name": "Caveat",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "Black Wander: A Reading with Camille T. Dungy & Patricia Spears Jones",
     "date": "2026-12-18",
     "description": "The groundbreaking anthology edited by Camille T. Dungy Black Nature: Four Centuries of African American Nature Poetry (UGA, 2009)",
     "url": "https://www.eventbrite.com/e/black-wander-a-reading-with-camille-t-dungy-patricia-spears-jones-tickets-2005057405675",
-    "venue_name": "Recess"
+    "venue_name": "Recess",
+    "interest_score": 3,
+    "matched_categories": ["Climate & Environment"]
   },
   {
     "title": "Get Work",
     "date": "2026-12-05",
     "description": "Comedians interview for real jobs using fake resumes.",
     "url": "https://www.eventbrite.com/e/get-work-tickets-2003369185162",
-    "venue_name": "Caveat"
+    "venue_name": "Caveat",
+    "interest_score": 0,
+    "matched_categories": []
   },
   {
     "title": "The New Frame 2026: Prototopia",
     "date": "2026-11-22",
     "description": "A day of innovative experience design featuring projects from the 2026 cohort of the Experience Design Certificate Program, by Odyssey Works",
     "url": "https://www.eventbrite.com/e/the-new-frame-2026-prototopia-tickets-2003833981380",
-    "venue_name": "100 Sutton St"
+    "venue_name": "100 Sutton St",
+    "interest_score": 4,
+    "matched_categories": ["Worldbuilding & Speculative Design"]
   }
 ]

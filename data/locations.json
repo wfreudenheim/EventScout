@@ -31,7 +31,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:17:16.339Z",
+    "last_checked": "2026-11-22T08:13:49.338Z",
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
     "generated_scraper": null
@@ -91,7 +91,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-10-21T07:38:16.215Z"
+    "last_checked": "2026-11-22T08:13:48.985Z"
   },
   {
     "id": "eyebeam",
@@ -817,7 +817,7 @@
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/nyc-resistor/",
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:17:15.835Z"
+    "last_checked": "2026-11-22T08:13:48.979Z"
   },
   {
     "id": "sfpc",
@@ -1003,7 +1003,7 @@
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/caveat/",
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:17:16.355Z"
+    "last_checked": "2026-11-22T08:13:49.693Z"
   },
   {
     "id": "triple-canopy",
@@ -2839,7 +2839,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:25:48.780Z"
+    "last_checked": "2026-11-22T08:13:49.346Z"
   },
   {
     "id": "amant",
