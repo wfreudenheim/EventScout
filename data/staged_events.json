@@ -7298,5 +7298,151 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-22T08:24:27.232Z"
+  },
+  {
+    "id": "fridman-gallery-2026-12-13-a-world-of-her-own",
+    "title": "A World of Her Own",
+    "venue_id": "fridman-gallery",
+    "venue_name": "Fridman Gallery",
+    "date": "2026-12-13",
+    "description": "Solo exhibition by Madeleine Skrzynecka in Fridman Gallery's Project Room. On view November 15 through December 13, 2026.",
+    "url": "https://fridmangallery.com/2026/10/11/madeleine-skrzynecka-a-world-of-her-own-nov-11-dec-13-2026/",
+    "format": "gallery",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "contemporary art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:25:16.671Z"
+  },
+  {
+    "id": "public-records-2027-01-27-junior-boys-the-gore-screening-listening",
+    "title": "Junior Boys – 'The Gore' Screening + Listening Experience",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2027-01-27",
+    "time_start": "18:00",
+    "description": "A combined screening and listening session built around Junior Boys' album 'The Gore', in the Sound Room.",
+    "url": "https://link.dice.fm/l1ffbdcb1acf",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "experimental music / sound art",
+      "film & cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:25:16.684Z"
+  },
+  {
+    "id": "public-records-2027-03-06-sinkane-he-s-gone-album-release-show",
+    "title": "Sinkane – 'He's Gone' Album Release Show",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2027-03-06",
+    "time_start": "19:00",
+    "description": "Album release show for Sinkane's 'He's Gone', blending Sudanese-American funk, afrobeat, and psych influences.",
+    "url": "https://link.dice.fm/N9602496adeb",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "afrobeat"
+    ],
+    "matched_categories": [
+      "world music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:25:16.684Z"
+  },
+  {
+    "id": "public-records-2026-11-27-anthony-linell-jin-synth-trailcam-320-r-",
+    "title": "Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-11-27",
+    "time_start": "23:00",
+    "description": "Multi-room club night across Sound Room, The Atrium, and Upstairs, headlined by dark ambient/techno producer Anthony Linell alongside Jin Synth, Trailcam, 320, and R Gamble & Scallywag.",
+    "url": "https://link.dice.fm/p7ffcae9d842",
+    "format": "music",
+    "interest_score": 2.1,
+    "tags": [
+      "ambient"
+    ],
+    "matched_categories": [
+      "experimental music / sound art",
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:25:16.682Z"
+  },
+  {
+    "id": "public-records-2026-12-03-shane-butler-heavy-debt-record-release-w",
+    "title": "Shane Butler 'Heavy Debt' Record Release with Silk Fence, Strugglin'",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-03",
+    "time_start": "19:00",
+    "description": "Record release show for Shane Butler's 'Heavy Debt' with support from Silk Fence and Strugglin', in the Sound Room.",
+    "url": "https://link.dice.fm/k8d679fe39aa",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "experimental music / sound art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:25:16.682Z"
+  },
+  {
+    "id": "public-records-2026-12-11-iiisa-tanto-te-he-querido-album-release-",
+    "title": "iiisa 'tanto te he querido' Album Release with Efraín Rozas, MIRA MIRA",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-11",
+    "time_start": "19:00",
+    "description": "Album release show for iiisa with Efraín Rozas, known for ritual and Andean-inflected experimental sound work, and MIRA MIRA.",
+    "url": "https://link.dice.fm/A4a61c027fba",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "andean"
+    ],
+    "matched_categories": [
+      "world music & global traditions",
+      "experimental music / sound art",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:25:16.684Z"
+  },
+  {
+    "id": "public-records-2026-12-13-layerhythm-presents-triple-thread",
+    "title": "LayeRhythm presents Triple Thread",
+    "venue_id": "public-records",
+    "venue_name": "Public Records",
+    "date": "2026-12-13",
+    "time_start": "16:00",
+    "description": "LayeRhythm-presented afternoon show, Triple Thread, in the Sound Room drawing on rhythmic and global musical traditions.",
+    "url": "https://link.dice.fm/u01f2a98cd07",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "global-music"
+    ],
+    "matched_categories": [
+      "world music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:25:16.684Z"
   }
 ]

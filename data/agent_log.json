@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "drom",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.209Z",
-    "completed_at": "2026-11-01T07:19:24.209Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "nublu",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.226Z",
-    "completed_at": "2026-11-01T07:19:24.226Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "public-records",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.235Z",
-    "completed_at": "2026-11-01T07:19:24.235Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "joe-s-pub",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.246Z",
-    "completed_at": "2026-11-01T07:19:24.246Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "kaufman-music-center",
     "scrape_tier_used": 3,
     "started_at": "2026-11-01T07:19:24.257Z",
@@ -4996,6 +4956,46 @@
     "scrape_tier_used": 3,
     "started_at": "2026-11-22T08:24:27.261Z",
     "completed_at": "2026-11-22T08:24:27.261Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "fridman-gallery",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:25:16.680Z",
+    "completed_at": "2026-11-22T08:25:16.680Z",
+    "events_found": 2,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "public-records",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:25:16.699Z",
+    "completed_at": "2026-11-22T08:25:16.699Z",
+    "events_found": 12,
+    "events_new": 6,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "time-spans",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:25:16.703Z",
+    "completed_at": "2026-11-22T08:25:16.703Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "swiss-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:25:16.708Z",
+    "completed_at": "2026-11-22T08:25:16.708Z",
     "events_found": 1,
     "events_new": 0,
     "status": "completed"
