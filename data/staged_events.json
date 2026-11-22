@@ -7043,5 +7043,49 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-22T08:19:37.647Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-12-06-nuns-vs-the-vatican",
+    "title": "Nuns vs the Vatican",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-12-06",
+    "time_start": "15:00",
+    "description": "Documentary following a community of Catholic nuns in a standoff with Vatican authorities over their autonomy and mission.",
+    "url": "https://www.maysles.org/calendar/nuns-vs-vatican-12-6-3pm",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:22.804Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-12-06-nuns-vs-the-vatican",
+    "title": "Nuns vs the Vatican",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-12-06",
+    "time_start": "19:00",
+    "description": "Documentary following a community of Catholic nuns in a standoff with Vatican authorities over their autonomy and mission.",
+    "url": "https://www.maysles.org/calendar/nuns-vs-vatican-12-6-7pm",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:22.804Z"
   }
 ]
