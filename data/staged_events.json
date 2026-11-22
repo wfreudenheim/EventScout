@@ -6423,5 +6423,625 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-22T08:19:02.573Z"
+  },
+  {
+    "id": "la-mama-2026-11-23-everything-that-follows",
+    "title": "Everything That Follows",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-23",
+    "time_start": "18:00",
+    "description": "Loco7 Dance Puppet Theatre Company's interdisciplinary work combining movement, puppetry, and visual art to explore connection, survival, and transformation. Final performance of its run as part of La MaMa's Puppet Festival 2026.",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.782Z"
+  },
+  {
+    "id": "la-mama-2026-12-17-allegra-the-cello-in-movements-new-opera",
+    "title": "Allegra & The Cello, In Movements (new opera, streaming)",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-12-17",
+    "time_start": "19:30",
+    "description": "A new opera by Catherine Filloux (libretto) and Julia Schwartz (music) about the first female doctor to take the opera stage, set in the tense days before a high-stakes trial. Streamed live from La MaMa.",
+    "format": "performance",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.784Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-11-26-gallery-tour-goddesses-in-the-machine-fa",
+    "title": "Gallery Tour: Goddesses in the Machine: Fashion in American Silent Film",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-11-26",
+    "time_start": "12:30",
+    "time_end": "13:15",
+    "description": "A weekly Thursday docent-led tour of Bard Graduate Center's exhibition on fashion in American silent film, led by a BGC gallery educator.",
+    "format": "tour",
+    "interest_score": 2.1,
+    "tags": [
+      "silent-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.794Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-27-13-most-beautiful-screen-tests-revisited",
+    "title": "13 Most Beautiful / Screen Tests Revisited: Mario Montez (Program 1)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-27",
+    "time_start": "18:30",
+    "description": "Andy Warhol's 1960s silent Screen Test film portraits paired with Conrad Ventur's 21st-century restagings of the same sitters, a poetic meditation on time and portraiture. Part of the Faces: Moving-Image Portraiture series.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation/video art/moving image",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.803Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-28-film-no-5-smile-fluxfilm-no-16-bottoms",
+    "title": "Film No. 5 (Smile) + Fluxfilm No. 16: Bottoms",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-28",
+    "time_start": "20:00",
+    "description": "Yoko Ono and John Lennon's high-speed-camera meditation on Lennon's face, paired with Ono's Fluxus-era Fluxfilm No. 16. Part of the Faces: Moving-Image Portraiture series.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation/video art/moving image",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.803Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-30-galaxie",
+    "title": "Galaxie",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-30",
+    "time_start": "20:45",
+    "description": "Gregory Markopoulos's 1966 16mm feature comprising thirty in-camera-edited portraits of 1960s New York cultural figures including Jonas Mekas, Jasper Johns, Susan Sontag, and W.H. Auden. Part of the Faces: Moving-Image Portraiture series.",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental animation/video art/moving image",
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.803Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-12-01-faces-moving-image-portraiture",
+    "title": "Faces: Moving-Image Portraiture",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-12-01",
+    "description": "A series surveying the tradition of cinematic portraiture in avant-garde film and video, featuring Andy Warhol's Screen Tests, Yoko Ono, Gregory Markopoulos, Stan Brakhage, Gerard Courant's Cinematon, and dozens of other experimental filmmakers. Runs through December 1.",
+    "format": "festival",
+    "interest_score": 3.8,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation/video art/moving image",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.803Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-12-02-millennium-film-journal-no-84-launch-scr",
+    "title": "Millennium Film Journal No. 84: Launch Screening",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-12-02",
+    "description": "A screening of films discussed in Millennium Film Journal No. 84: Circulation, programmed by Grahame Weinbren, Vince Warne, and MFJ editors, celebrating 60 years of the Millennium Film Workshop and surveying contemporary experimental film distribution.",
+    "format": "screening",
+    "interest_score": 3.8,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental animation/video art/moving image",
+      "Film & cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.803Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-25-zorn-iii-amalric-zorn-",
+    "title": "ZORN III (Amalric <-> Zorn)",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-25",
+    "time_start": "18:45",
+    "description": "Mathieu Amalric's 2022 documentary portrait of composer John Zorn, following soprano Barbara Hannigan's rehearsals of Zorn's song cycle. Part of the Amalric <-> Zorn series on filmmaker Mathieu Amalric's collaborations with musician John Zorn.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Experimental/electronic music & sound art",
+      "Film & cinema",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.804Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-12-04-every-contact-leaves-a-trace",
+    "title": "Every Contact Leaves a Trace",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-12-04",
+    "description": "Director Lynne Sachs traces the imprint of strangers' business cards collected over decades, contacting and filming their owners in a meditation on memory and forgetting. Sachs will appear in person for select screenings, Dec 4-8.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.803Z"
+  },
+  {
+    "id": "museum-of-moving-image-2026-11-26-momi-lab-public-tour",
+    "title": "MoMI LAB Public Tour",
+    "venue_id": "museum-of-moving-image",
+    "venue_name": "Museum of the Moving Image",
+    "date": "2026-11-26",
+    "time_start": "17:00",
+    "description": "Free, educator-led demo and tour of the MoMI LAB exploring how emerging technologies are reshaping creativity, culture, and everyday life.",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & creative tech"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.817Z"
+  },
+  {
+    "id": "asia-society-2026-12-02-mountains-seas-and-the-mallet-living-nat",
+    "title": "Mountains, Seas, and the Mallet: Living National Treasure Ōsumi Yukie and the Way of Metal",
+    "venue_id": "asia-society",
+    "venue_name": "Asia Society",
+    "date": "2026-12-02",
+    "time_start": "18:30",
+    "time_end": "20:00",
+    "description": "A Museum Salon Series conversation with Ōsumi Yukie, the first female metalcraft artist designated a Japanese Living National Treasure, on nature-inspired traditional Japanese metalcraft. Moderated by Boxi Liu, with KOGEI USA.",
+    "format": "talk",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.831Z"
+  },
+  {
+    "id": "world-music-institute-2026-11-23-daryl-black-eagle-jamieson-with-lee-rana",
+    "title": "Daryl \"Black Eagle\" Jamieson with Lee Ranaldo: Live Conversation & Music",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2026-11-23",
+    "time_start": "18:00",
+    "description": "A free live conversation and music session with Pocasset Wampanoag clan chief and Eastern Medicine Singers drum director Daryl \"Black Eagle\" Jamieson, hosted by Lee Ranaldo of Sonic Youth. Virtual.",
+    "price": "free",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental/electronic music & sound art",
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.843Z"
+  },
+  {
+    "id": "drom-2027-03-25-farah-siraj",
+    "title": "Farah Siraj",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2027-03-25",
+    "description": "Jordanian-born singer-songwriter Farah Siraj blends flamenco, Arabic, and Mediterranean musical traditions, presented by World Music Institute.",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music",
+      "flamenco"
+    ],
+    "matched_categories": [
+      "World music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.878Z"
+  },
+  {
+    "id": "flushing-town-hall-2026-12-12-mexican-headpiece-making-workshop",
+    "title": "Mexican Headpiece Making Workshop",
+    "venue_id": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "date": "2026-12-12",
+    "description": "A pre-show workshop taught by Calpulli's wardrobe designer Alberto Lopez on making Mexican headpieces used in festive occasions and folkloric dance, held an hour before Calpulli's Navidad.",
+    "price": "$9",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [
+      "folkloric"
+    ],
+    "matched_categories": [
+      "World music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.894Z"
+  },
+  {
+    "id": "barbes-2026-11-27-red-baraat",
+    "title": "Red Baraat",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-27",
+    "time_start": "22:00",
+    "description": "Sunny Jain's group merges hard-driving North Indian bhangra with hip-hop, jazz, and punk energy.",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.902Z"
+  },
+  {
+    "id": "barbes-2026-11-29-zack-bullish-solo-shamisen",
+    "title": "Zack Bullish: Solo Shamisen",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-29",
+    "time_start": "16:00",
+    "description": "Brooklyn-raised, Japan-trained musician Zack Bullish performs solo on the Tsugaru-shamisen, playing traditional Aomori folk music and his own compositions.",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.902Z"
+  },
+  {
+    "id": "barbes-2026-11-22-clube-do-choro-with-regional-sama-ma",
+    "title": "Clube do Choro with Regional Samaúma",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-22",
+    "time_start": "15:30",
+    "description": "A weekly Brazilian choro jam in Barbès's front room with a rotating cast of Brazilian musicians.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.901Z"
+  },
+  {
+    "id": "barbes-2026-11-23-myla-goldberg-quince-marcum",
+    "title": "Myla Goldberg & Quince Marcum",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-23",
+    "time_start": "19:00",
+    "description": "New compositions on diverse topics performed on mostly maligned instruments such as accordion, banjo, tzouras, and bouzouki.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental/electronic music & sound art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.901Z"
+  },
+  {
+    "id": "barbes-2026-11-23-tropical-vortex-presents-a-b-e-l-a",
+    "title": "Tropical Vortex Presents: A.B.E.L.A",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-23",
+    "time_start": "21:00",
+    "description": "Asociación de Bateristas Electrónicos de Latinoamerica performs, with resident DJs Adrian is Hungry and Sonido Chichadelico.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental/electronic music & sound art",
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.901Z"
+  },
+  {
+    "id": "barbes-2026-11-24-slavic-soul-party",
+    "title": "Slavic Soul Party",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-24",
+    "time_start": "21:00",
+    "description": "Weekly Balkan brass band bacchanalia at Barbès.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "balkan"
+    ],
+    "matched_categories": [
+      "World music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.901Z"
+  },
+  {
+    "id": "barbes-2026-11-25-mamady-kouyate-s-mandingo-ambassadors",
+    "title": "Mamady Kouyate's Mandingo Ambassadors",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-25",
+    "time_start": "22:00",
+    "description": "The sound of 1970s Guinean funk from a master of the legendary Syliphone label.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.902Z"
+  },
+  {
+    "id": "barbes-2026-11-28-found-sound-nation-presents-mara-rosenbl",
+    "title": "Found Sound Nation presents: Mara Rosenbloom + Selendis S.A. Johnson",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-28",
+    "time_start": "15:00",
+    "description": "Found Sound Nation, which encourages the diminishing of ethnic, cultural, and stylistic boundaries in music-making, presents a performance by Mara Rosenbloom and Selendis S.A. Johnson.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental/electronic music & sound art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.902Z"
+  },
+  {
+    "id": "barbes-2026-11-28-sanda-weigl-friends",
+    "title": "Sanda Weigl & Friends",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-28",
+    "time_start": "20:00",
+    "description": "Romanian folk and Gypsy music reimagined by vocalist Sanda Weigl and friends.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.902Z"
+  },
+  {
+    "id": "barbes-2026-11-28-yallah-yallah",
+    "title": "Yallah Yallah",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-28",
+    "time_start": "22:00",
+    "description": "Guitarists Amit Peled and Segev Harosh pay homage to 1980s drum-machine-driven Middle Eastern pop.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions",
+      "Experimental/electronic music & sound art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.902Z"
+  },
+  {
+    "id": "barbes-2026-11-29-hum-hammer-howl",
+    "title": "Hum, Hammer & Howl",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-29",
+    "time_start": "18:00",
+    "description": "Martín Olaso, Chris Stromquist, and Steve LaRosa perform electronics and free jazz for guitar, drums, and saxophone.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental/electronic music & sound art"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.902Z"
+  },
+  {
+    "id": "barbes-2026-11-29-baklava-express",
+    "title": "Baklava Express",
+    "venue_id": "barbes",
+    "venue_name": "Barbès",
+    "date": "2026-11-29",
+    "time_start": "22:00",
+    "description": "Oudist Josh Kaye leads a Middle Eastern-inspired fusion ensemble.",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World music & global traditions"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.902Z"
+  },
+  {
+    "id": "data-society-2026-12-03-what-if-we-could-rebuild-the-internet-",
+    "title": "What If We Could Rebuild the Internet?",
+    "venue_id": "data-society",
+    "venue_name": "Data & Society",
+    "date": "2026-12-03",
+    "time_start": "14:00",
+    "description": "Rutgers professor Britt Paris discusses her book Radical Infrastructures: Imagining the Internet from the Ground Up, examining alternative internet infrastructure projects versus market-driven development, in conversation with Mizue Aizeki.",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [
+      "infrastructure"
+    ],
+    "matched_categories": [
+      "Philosophy/critical theory/media theory",
+      "STS/history of science",
+      "Climate & Environment",
+      "Architecture & Urbanism"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.909Z"
+  },
+  {
+    "id": "performance-space-ny-2026-11-22-queer-art-summit-becoming-what-we-practi",
+    "title": "Queer|Art Summit: Becoming What We Practice",
+    "venue_id": "performance-space-ny",
+    "venue_name": "Performance Space New York",
+    "date": "2026-11-22",
+    "time_start": "11:00",
+    "time_end": "18:00",
+    "description": "A two-day summit celebrating Queer|Art|Mentorship's 15th anniversary, bringing artists, scholars, and organizers together on community practices and queer artistry in times of crisis, closing day.",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Philosophy/critical theory/media theory",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.916Z"
+  },
+  {
+    "id": "performance-space-ny-2026-11-22-opening-up-the-body-spirit-possession",
+    "title": "Opening Up The Body: Spirit Possession",
+    "venue_id": "performance-space-ny",
+    "venue_name": "Performance Space New York",
+    "date": "2026-11-22",
+    "time_start": "16:00",
+    "description": "Anh Vo leads a workshop beginning with Qi Gong exercises to tune awareness of the energetic body, moving into improvisational exercises grounded in bodily free association. Closing event of the Queer|Art Summit, presented with Performance Space New York's Open Movement.",
+    "format": "workshop",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.916Z"
+  },
+  {
+    "id": "nyu-game-center-2026-12-03-nyu-game-center-lecture-series-patrick-t",
+    "title": "NYU Game Center Lecture Series: Patrick Trinh",
+    "venue_id": "nyu-game-center",
+    "venue_name": "NYU Game Center",
+    "date": "2026-12-03",
+    "time_start": "19:00",
+    "time_end": "20:30",
+    "description": "Professor Patrick Trinh presents an experimental performance/talk exploring the overlap between games and NYC club/rave culture, drawing on McKenzie Wark's Gamer Theory and Raving, the Situationist International, and the origins of techno.",
+    "format": "talk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art",
+      "Experimental/electronic music & sound art",
+      "Philosophy/critical theory/media theory"
+    ],
+    "source_agent": "aggregator:inbox",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:15.927Z"
+  },
+  {
+    "id": "electronic-arts-intermix-2026-12-05-kit-fitzgerald-selected-video-work-1976-",
+    "title": "Kit Fitzgerald: Selected Video Work 1976-2026",
+    "venue_id": "electronic-arts-intermix",
+    "venue_name": "Electronic Arts Intermix",
+    "date": "2026-12-05",
+    "time_start": "19:00",
+    "description": "Screening of selected video works spanning 1976-2026 by pioneering video artist Kit Fitzgerald, presented at Roulette and promoted via Electronic Arts Intermix, which distributes and preserves her work.",
+    "url": "https://roulette.org/event/kit-fitzgerald/",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [
+      "video-art"
+    ],
+    "matched_categories": [
+      "experimental animation / moving image",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:19:37.647Z"
   }
 ]

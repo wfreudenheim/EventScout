@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:23:00.984Z"
+    "last_checked": "2026-11-22T08:19:15.815Z"
   },
   {
     "id": "spectacle-theater",
@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:28:35.464Z"
+    "last_checked": "2026-11-22T08:19:15.870Z"
   },
   {
     "id": "issue-project-room",
@@ -390,7 +390,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:21:53.450Z"
+    "last_checked": "2026-11-22T08:19:37.609Z"
   },
   {
     "id": "the-new-school",
@@ -840,7 +840,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:21:53.461Z"
+    "last_checked": "2026-11-22T08:19:37.631Z"
   },
   {
     "id": "simons-foundation",
@@ -967,7 +967,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:21:53.470Z"
+    "last_checked": "2026-11-22T08:19:37.637Z"
   },
   {
     "id": "caveat",
@@ -1056,7 +1056,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:15:59.142Z"
+    "last_checked": "2026-11-22T08:19:15.892Z"
   },
   {
     "id": "museum-of-moving-image",
@@ -1085,7 +1085,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:18:18.648Z"
+    "last_checked": "2026-11-22T08:19:15.823Z"
   },
   {
     "id": "moma",
@@ -1236,7 +1236,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-01T07:19:24.197Z"
+    "last_checked": "2026-11-22T08:19:15.921Z"
   },
   {
     "id": "secret-science-club",
@@ -1605,7 +1605,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:13:18.540Z"
+    "last_checked": "2026-11-22T08:19:37.644Z"
   },
   {
     "id": "rockefeller-university",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:28:02.424Z"
+    "last_checked": "2026-11-22T08:19:15.800Z"
   },
   {
     "id": "the-stone",
@@ -1749,7 +1749,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:17:26.086Z"
+    "last_checked": "2026-11-22T08:19:37.653Z"
   },
   {
     "id": "wendys-subway",
@@ -2037,7 +2037,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:21:53.476Z"
+    "last_checked": "2026-11-22T08:19:37.660Z"
   },
   {
     "id": "filmmakers-coop",
@@ -2248,7 +2248,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:13:18.575Z"
+    "last_checked": "2026-11-22T08:19:15.888Z"
   },
   {
     "id": "asia-society",
@@ -2273,7 +2273,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:13:18.520Z"
+    "last_checked": "2026-11-22T08:19:15.836Z"
   },
   {
     "id": "aaww",
@@ -2414,7 +2414,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:17:16.860Z"
+    "last_checked": "2026-11-22T08:19:15.852Z"
   },
   {
     "id": "nowadays",
@@ -2577,7 +2577,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:19:02.548Z"
+    "last_checked": "2026-11-22T08:19:15.924Z"
   },
   {
     "id": "nypl-live",
@@ -2649,7 +2649,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:19:02.559Z"
+    "last_checked": "2026-11-22T08:19:15.913Z"
   },
   {
     "id": "n-plus-one",
@@ -2721,7 +2721,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:22:09.907Z"
+    "last_checked": "2026-11-22T08:19:15.840Z"
   },
   {
     "id": "canal-projects",
@@ -2910,7 +2910,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:32:06.935Z"
+    "last_checked": "2026-11-22T08:19:15.790Z"
   },
   {
     "id": "harvestworks",
@@ -3053,7 +3053,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:13:18.477Z"
+    "last_checked": "2026-11-22T08:19:15.936Z"
   },
   {
     "id": "abrons-arts-center",
@@ -3077,7 +3077,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:22:22.467Z"
+    "last_checked": "2026-11-22T08:19:15.827Z"
   },
   {
     "id": "movement-research",
@@ -3314,7 +3314,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-11T08:22:00.204Z"
+    "last_checked": "2026-11-22T08:19:15.847Z"
   },
   {
     "id": "barbes",
@@ -3338,7 +3338,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:18:18.638Z"
+    "last_checked": "2026-11-22T08:19:15.907Z"
   },
   {
     "id": "jalopy-theatre",
@@ -3391,7 +3391,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:32:59.780Z"
+    "last_checked": "2026-11-22T08:19:15.884Z"
   },
   {
     "id": "summerstage",
@@ -3472,7 +3472,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:13:18.406Z"
+    "last_checked": "2026-11-22T08:19:15.898Z"
   },
   {
     "id": "brooklyn-raga-massive",
@@ -3627,7 +3627,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-07-27T15:32:29.524Z"
+    "last_checked": "2026-11-22T08:19:15.875Z"
   },
   {
     "id": "joe-s-pub",
@@ -3641,7 +3641,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-11-01T07:19:24.244Z"
+    "last_checked": "2026-11-22T08:19:15.857Z"
   },
   {
     "id": "nublu",
@@ -3669,7 +3669,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-11-01T07:19:24.255Z"
+    "last_checked": "2026-11-22T08:19:15.861Z"
   },
   {
     "id": "webster-hall",
@@ -3683,7 +3683,7 @@
     "relevance_score": 2.5,
     "added_by": "aggregator",
     "status": "pending",
-    "last_checked": "2026-11-01T07:19:24.266Z"
+    "last_checked": "2026-11-22T08:19:15.866Z"
   },
   {
     "id": "bronx-park",
