@@ -1,6 +1,6 @@
 VENUE:the-lot-radio | The Lot Radio
 URL:https://www.thelotradio.com/
-FETCHED:2026-11-18T06:41:20.850Z
+FETCHED:2026-11-22T06:40:04.592Z
 
 Skip to content
 Menu
@@ -20,44 +20,70 @@ More actions
 
 THE LOT RADIO — LIVE NOW
 
-TODAY’SLINEUP11.18.2026
+TODAY’SLINEUP11.22.2026
 
- * 12am —to 10am
+ * 12am —to 12pm
    RESTREAM
 
- * 11am —to 12pm
-   Compulsory Joy! with Timo Ellis
+ * 12pm —to 1pm
+   Malik Hendricks
 
- * 12pm —to 2pm
-   PRINCE LANGUAGE
+ * 1pm —to 2pm
+   Brian DeGraw Spirit Spasm
+   Experimental Electronic, Ambient, Neo-Classical, Film Score, Experimental
+ * 2pm —to 3pm
+   Selective Listening with Alyssa Stowers
 
- * 2pm —to 4pm
-   marvelito & hellotones 'El Hijo de PueblaYork'
-   Cumbia, Electronica
- * 4pm —to 5pm
-   FaltyDL invites Braille
+ * 3pm —to 4pm
+   Swimming with Kfeelz and Xander
+   Experimental Electronic, Ambient, New Age, Downtempo, Beats
+ * 4pm —to 6pm
+   456 Dub Street with Dan Tager
 
- * 5pm —to 6pm
-   Razor-N-Tape with JKriv
-   House, Disco, Global
  * 6pm —to 7pm
-   Sassy 009
-   Alternative Pop, Breaks, Experimental Electronic, Pop, Rock
+   SAG Radio with Discostan and Omid Walizadeh
+   Disco, Electro
  * 7pm —to 8pm
-   The 8th Path Records invites MOON
-   Electro, Afrobeats, Soukous, Gqom
- * 8pm —to 10pm
-   ANALOG SOUL
+   Radio Slave
 
+ * 8pm —to 10pm
+   SYNTHICIDE with Mills and Andi
+   House, Techno, Acid, Trance
  * 10pm —to 12am
-   GEMS with Rose Kourts: Labradorite
-   House, Techno
+   Sorry Records with MIRA MIRA
+   House, Experimental Electronic, Jazz, Disco
 
 STAFF PICKS
 
 A mix of our beloved residents and special guests — Our favorite shows handpicked by our staff.
 
 All sessions [/the-index]
+
+SASSY 009
+
+Sassy 009
+
+11.18.2026
+
+Alternative Pop, Breaks, Experimental Electronic, Pop, Rock
+
+ * Play
+ * Detail: Sassy 009 [/shows/special-guests/2026-11-18-1800]
+ *
+
+/shows/special-guests/2026-11-18-1800
+
+MARVELITO WITH EL BLANCO NINO AND AXEL
+
+Marvelito, El Blanco Nino
+
+11.18.2026
+
+ * Play
+ * Detail: marvelito with El Blanco Nino and Axel [/shows/like-that-records/2026-11-18-1400]
+ *
+
+/shows/like-that-records/2026-11-18-1400
 
 BLISS POINT INVITES EVITA
 
@@ -127,52 +153,24 @@ House, Techno
 
 /shows/special-guests/2026-11-11-1700
 
-EMA
-
-EMA
-
-11.11.2026
-
-Downtempo
-
- * Play
- * Detail: EMA [/shows/special-guests/2026-11-11-1400]
- *
-
-/shows/special-guests/2026-11-11-1400
-
-UNTITLED (HALO)
-
-untitled (halo)
-
-11.11.2026
-
-alternative, Ambient, Cloud Rap, Indie
-
- * Play
- * Detail: untitled (halo) [/shows/special-guests/2026-11-11-1200]
- *
-
-/shows/special-guests/2026-11-11-1200
-
 FEATURED RESIDENTS
 
 Get to know our Residents — Whose contributions keep our radio fresh and exciting.
 
 All artists [/artists]
 
- * Alejandra SabillónRResident [/artists/alejandra-sabiloln]
- * Galcher LustwerkRResident [/artists/galcher-lustwerk]
- * Sam O.B.RResident [/artists/sam-ob]
- * Nick BoydRResident [/artists/nick-boyd]
- * LiseRResident [/artists/lise]
- * Off-BrandRResident [/artists/off-brand]
- * Kush JonesRResident [/artists/kush-jones]
- * Lauren FlaxRResident [/artists/lauren-flax]
- * KfeelzRResident [/artists/kfeelz]
- * Brian SearsRResident [/artists/brian-sears]
- * adobeprincessRResident [/artists/adobeprincess]
- * OhyungRResident [/artists/ohyung]
+ * Boo LeanRResident [/artists/boo-lean]
+ * b4RResident [/artists/b4]
+ * Love InjectionRResident [/artists/love-injection]
+ * Ron Like HellRResident [/artists/ron-like-hell]
+ * Mickey PérezRResident [/artists/mickey-perez]
+ * Black Rave CultureRResident [/artists/black-rave-culture]
+ * Love LettersRResident [/artists/love-letters]
+ * DevoyeRResident [/artists/devoye]
+ * Kiernan LaveauxRResident [/artists/kiernan-laveaux]
+ * Raymond SchwabRResident [/artists/raymond-schwab]
+ * dj cowriiieRResident [/artists/dj-cowriiie]
+ * AcemoRResident [/artists/acemo]
 
 WE ARE THE LOT RADIO
 

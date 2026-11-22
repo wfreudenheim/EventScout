@@ -1,6 +1,6 @@
 VENUE:film-forum | Film Forum
 URL:https://filmforum.org/now-playing
-FETCHED:2026-11-18T06:41:19.420Z
+FETCHED:2026-11-22T06:40:02.376Z
 
 Skip to Content
 
@@ -10,13 +10,13 @@ FILM FORUM [https://filmforum.org/]
 
 SLIDESHOW
 
+ *
  * https://filmforum.org/film/threeasfour-full-circle
  *
  * https://filmforum.org/film/fatherland
  * https://filmforum.org/film/once-upon-a-time-in-harlem
- *
- *
  * https://filmforum.org/film/little-fugitive-ffjr-2026
+ *
  * https://filmforum.org/film/all-of-a-sudden
  * https://filmforum.org/film/pinocchio-ffjr-2026
  * https://filmforum.org/film/the-friends-house-is-here
@@ -43,88 +43,13 @@ Login [https://my.filmforum.org/account/update]
 
 PLAYING THIS WEEK
 
+ * SUN
+ * MON
+ * TUE
  * WED
  * THU
  * FRI
  * SAT
- * SUN
- * MON
- * TUE
-
-threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 6:50 9:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 5:40 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00 8:15
-
-threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 6:50 9:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 5:40 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00 8:15
-
-threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-2:30 4:40 6:50 9:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 5:30
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:30 3:30 8:15
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00
-
-Opens Today!ROSSELLINI 120 [https://filmforum.org/series/rossellini]
-ROME, OPEN CITY [https://filmforum.org/film/rome-open-city-rossellini-120]
-12:30
-
-Opens Today!ROSSELLINI 120 [https://filmforum.org/series/rossellini]
-PAISAN [https://filmforum.org/film/paisan-rossellini-120]
-2:45
-
-Opens Today!ROSSELLINI 120 [https://filmforum.org/series/rossellini]
-VOYAGE TO ITALY [https://filmforum.org/film/voyage-to-italy-rossellini-120]
-5:30
-
-Sneak Preview!ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
-6:30
-
-threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-2:30 4:40 6:50 9:00
-
-RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 5:40 8:20
-
-FATHERLAND [https://filmforum.org/film/fatherland]
-12:30 4:00(OC) 8:15
-
-ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:30(OC) 6:00
-
-ROSSELLINI 120 [https://filmforum.org/series/rossellini]
-VOYAGE TO ITALY [https://filmforum.org/film/voyage-to-italy-rossellini-120]
-12:20
-
-ROSSELLINI 120 [https://filmforum.org/series/rossellini]
-ROME, OPEN CITY [https://filmforum.org/film/rome-open-city-rossellini-120]
-2:30 7:20
-
-ROSSELLINI 120 [https://filmforum.org/series/rossellini]
-PAISAN [https://filmforum.org/film/paisan-rossellini-120]
-4:45
 
 FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
 LITTLE FUGITIVE [https://filmforum.org/film/little-fugitive-ffjr-2026]
@@ -220,6 +145,72 @@ THE MAN WITH A CROSS [https://filmforum.org/film/the-man-with-a-cross-rossellini
 Special Screening!NELLY AND MONSIEUR ARNAUD [https://filmforum.org/film/nelly-and-monsieur-arnaud]
 6:10
 
+Opens Today!ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
+12:15(OC) 2:30 6:30
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 6:20
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+4:10 6:50
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+2:30 4:25
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:20 8:30
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+GENERAL DELLA ROVERE [https://filmforum.org/film/general-della-rovere-rossellini-120]
+12:15
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+DOV’È LA LIBERTÀ? [https://filmforum.org/film/dove-la-liberta-rossellini-120]
+3:00
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+THE MAN WITH A CROSS [https://filmforum.org/film/the-man-with-a-cross-rossellini-120]
+5:40
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+LES CARABINIERS [https://filmforum.org/film/les-carabiniers-rossellini-120]
+7:40
+
+ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
+12:15(OC) 2:30 6:30
+
+threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
+12:20 6:20
+
+RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
+4:10 6:50
+
+FATHERLAND [https://filmforum.org/film/fatherland]
+2:30 4:25
+
+ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
+12:20 8:30
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+THE ROSSELLINIS [https://filmforum.org/film/the-rossellinis-rossellini-120]
+12:20
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+ROME, OPEN CITY [https://filmforum.org/film/rome-open-city-rossellini-120]
+2:30
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+THE FLOWERS OF ST. FRANCIS [https://filmforum.org/film/the-flowers-of-st-francis-rossellini-120]
+4:45
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+EUROPA '51 [https://filmforum.org/film/europa-51-rossellini-120]
+7:10
+
+Showtimes coming soon!
+
+Showtimes coming soon!
+
 Donate [https://donate.filmforum.org/give/]
 
 SUPPORT OUR NONPROFIT CINEMA
@@ -238,25 +229,23 @@ Other ways to support Film Forum [http://filmforum.org/support]
 
 UPCOMING EVENTS [https://filmforum.org/events]
 
-THREEASFOUR: FULL CIRCLE
-SCREENING INTRODUCED BY FILMMAKER SEAN ONO LENNON AND SUBJECTS GABI ASFOUR, ANGELA DONHAUSER, & ADI GIL,
-CO-PRESENTED BY PARSONS SCHOOL OF DESIGN [https://filmforum.org/events/event/threeasfour-full-circle-november-19]
-
-Thursday, November 19
-6:50
-
 ALL OF A SUDDEN
-SNEAK PREVIEW SCREENING AND Q&A WITH FILMMAKER RYÛSUKE HAMAGUCHI,
-CO-PRESENTED BY FILMMAKER MAGAZINE [https://filmforum.org/events/event/all-of-a-sudden-november-20]
+SNEAK PREVIEW SCREENING AND Q&A WITH FILMMAKER RYÛSUKE HAMAGUCHI [https://filmforum.org/events/event/all-of-a-sudden-november-22]
 
-Friday, November 20
+Sunday, November 22
+12:30
+
+LITTLE FUGITIVE
+INTRODUCED BY MARY ENGEL, DAUGHTER OF DIRECTORS MORRIS ENGEL AND RUTH ORKIN [https://filmforum.org/events/event/little-fugitive-november-22]
+
+Sunday, November 22
+11:00
+
+LADY WINDERMERE’S FAN
+INTRODUCED BY AUTHOR DAVID WEIR [https://filmforum.org/events/event/lady-windermeres-fan-november-23]
+
+Monday, November 23
 6:30
-
-VOYAGE TO ITALY
-INTRODUCED BY ISABELLA ROSSELLINI [https://filmforum.org/events/event/voyage-to-italy-530]
-
-Friday, November 20
-5:30
 
 GET EMAIL NEWS
 
@@ -273,20 +262,55 @@ SEARCH
 Sign up for email news
 Today's Schedule
 
+FILM FORUM JR. [https://filmforum.org/series/film-forum-jr.-series-page]
+LITTLE FUGITIVE [https://filmforum.org/film/little-fugitive-ffjr-2026]
+11:00
+
+Sneak Preview!ALL OF A SUDDEN [https://filmforum.org/film/all-of-a-sudden]
+12:30
+
 threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
-12:20 2:30 4:40 6:50 9:00
+2:30 4:40 6:50 9:00
 
 RAISE THE RED LANTERN [https://filmforum.org/film/raise-the-red-lantern]
-12:20 3:00 5:40 8:20
+12:20 5:10 7:50
 
 FATHERLAND [https://filmforum.org/film/fatherland]
-12:25 2:25 4:30 6:30 8:30
+12:30 3:00(OC) 7:30
 
 ONCE UPON A TIME IN HARLEM [https://filmforum.org/film/once-upon-a-time-in-harlem]
-1:00 3:45 6:00 8:15
+5:10(OC)
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+L'AMORE [https://filmforum.org/film/lamore-rossellini-120]
+12:50
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+ROME, OPEN CITY [https://filmforum.org/film/rome-open-city-rossellini-120]
+2:40
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+PAISAN [https://filmforum.org/film/paisan-rossellini-120]
+4:50
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+GERMANY, YEAR ZERO [https://filmforum.org/film/germany-year-zero-rossellini-120]
+7:25
+
+ROSSELLINI 120 [https://filmforum.org/series/rossellini]
+VOYAGE TO ITALY [https://filmforum.org/film/voyage-to-italy-rossellini-120-rossellini-120]
+9:10
 
 NOW PLAYING [https://filmforum.org/now_playing]
 
+https://filmforum.org/series/rossellini#now-playing
+ROSSELLINI 120 [https://filmforum.org/series/rossellini#now-playing]
+
+Friday, November 20 – Thursday, December 10
+
+Films in this Series ROME, OPEN CITY PAISAN VOYAGE TO ITALY (JOURNEY TO ITALY) L’AMORE GERMANY, YEAR ZERO DOV’È LA LIBERTÀ? (WHERE IS FREEDOM?) THE MAN WITH A CROSS GENERAL DELLA ROVERE LES CARABINIERS THE ROSSELLINIS THE FLOWERS OF ST. FRANCIS EUROPA ’51 STROMBOLI THE MACHINE TO KILL BAD PEOPLE INDIA: MATRI BHUMI FEAR JOAN OF ARC AT THE STAKE Ingrid Bergman in
+JOAN OF ARC (1948) in 35mm ANNO UNO VIVA L’ITALIA!
+Watch Trailer [https://filmforum.org/series/rossellini#trailer]
 https://filmforum.org/film/threeasfour-full-circle
 threeASFOUR: FULL CIRCLE [https://filmforum.org/film/threeasfour-full-circle]
 
@@ -329,15 +353,6 @@ Films in this Series LADY WINDERMERE’S FAN THE MARRIAGE CIRCLE I DON’T WANT 
 
 COMING SOON [https://filmforum.org/coming_soon]
 
-https://filmforum.org/series/rossellini
-
-ROSSELLINI 120 [https://filmforum.org/series/rossellini]
-
-Friday, November 20 – Thursday, December 10
-
-Films in this Series ROME, OPEN CITY PAISAN VOYAGE TO ITALY (JOURNEY TO ITALY) L’AMORE GERMANY, YEAR ZERO DOV’È LA LIBERTÀ? (WHERE IS FREEDOM?) THE MAN WITH A CROSS GENERAL DELLA ROVERE LES CARABINIERS THE ROSSELLINIS THE FLOWERS OF ST. FRANCIS EUROPA ’51 STROMBOLI THE MACHINE TO KILL BAD PEOPLE INDIA: MATRI BHUMI FEAR JOAN OF ARC AT THE STAKE Ingrid Bergman in
-JOAN OF ARC (1948) in 35mm ANNO UNO VIVA L’ITALIA!
-Watch Trailer [ https://filmforum.org/series/rossellini#trailer ]
 https://filmforum.org/film/nelly-and-monsieur-arnaud
 
 CLAUDE SAUTET’S
@@ -394,7 +409,7 @@ L’INNOCENTE [https://filmforum.org/film/linnocente]
 
 Friday, December 11 – Thursday, December 17
 
-Watch Trailer [ https://filmforum.org/film/linnocente#trailer ]
+SHOWTIMES & TICKETS [https://my.filmforum.org/events/linnocente] Watch Trailer [ https://filmforum.org/film/linnocente#trailer ]
 https://filmforum.org/film/to-hold-a-mountain
 
 TO HOLD A MOUNTAIN [https://filmforum.org/film/to-hold-a-mountain]
@@ -402,6 +417,14 @@ TO HOLD A MOUNTAIN [https://filmforum.org/film/to-hold-a-mountain]
 Opens Wednesday, December 16
 
 SHOWTIMES & TICKETS [https://my.filmforum.org/events/to-hold-a-mountain] Watch Trailer [ https://filmforum.org/film/to-hold-a-mountain#trailer ]
+https://filmforum.org/film/accident-2026
+
+JOSEPH LOSEY’S
+ACCIDENT [https://filmforum.org/film/accident-2026]
+
+Friday, December 18 – Thursday, December 24
+
+Watch Trailer [ https://filmforum.org/film/accident-2026#trailer ]
 
 NEWS AND OFFERS
 

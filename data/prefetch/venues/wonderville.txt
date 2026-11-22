@@ -1,6 +1,6 @@
 VENUE:wonderville | Wonderville
 URL:https://www.wonderville.nyc/
-FETCHED:2026-11-18T06:41:11.082Z
+FETCHED:2026-11-22T06:39:53.205Z
 
 WONDERVILLE [/]
 
@@ -45,7 +45,7 @@ Sign Up
 
 Thank you!
 
-Wonderville Weekly 11/12/26 [https://mailchi.mp/wonderville/wonderville-weekly-11-12-26]
+Wonderville Weekly 11/19/26 [https://mailchi.mp/wonderville/wonderville-weekly-11-19-26]
 
 ----------------------------------------
 
@@ -75,36 +75,6 @@ EVENTS
 
 Featured
 
-Nov 17
-[/events/nico-davis-friends-11-17-26]
-8:00 PM20:008:00 PM
-November 17, 2026 – November 18, 2026
-Nico Davis & Friends [/events/nico-davis-friends-11-17-26]
-8:00 PM20:008:00 PM
-November 17, 2026 – November 18, 2026
-Read more → [/events/nico-davis-friends-11-17-26]
-8:00 PM20:008:00 PM
-November 17, 2026 – November 18, 2026
-Nov 18
-[/events/kq-open-hive-night-11-18-26]
-8:00 PM20:008:00 PM
-November 18, 2026 – November 19, 2026
-Killer Queen Open Hive Night [/events/kq-open-hive-night-11-18-26]
-8:00 PM20:008:00 PM
-November 18, 2026 – November 19, 2026
-Read more → [/events/kq-open-hive-night-11-18-26]
-8:00 PM20:008:00 PM
-November 18, 2026 – November 19, 2026
-Nov 19
-[/events/wordhack-11-19-26]
-7:00 PM – 10:00 PM19:00 – 22:007:00 PM – 10:00 PM
-November 19, 2026
-WordHack feat. Kameelah Janan Rasheed, Ramsey Nasser and Jenn Schiffer [/events/wordhack-11-19-26]
-7:00 PM – 10:00 PM19:00 – 22:007:00 PM – 10:00 PM
-November 19, 2026
-Read more → [/events/wordhack-11-19-26]
-7:00 PM – 10:00 PM19:00 – 22:007:00 PM – 10:00 PM
-November 19, 2026
 Nov 20
 [/events/club-massive-jungle-is-hardcore-11-20-26]
 8:00 PM20:008:00 PM
@@ -155,6 +125,16 @@ November 22, 2026
 Read more → [/events/sonosphere-11-22-26]
 8:00 PM – 11:00 PM20:00 – 23:008:00 PM – 11:00 PM
 November 22, 2026
+Nov 22
+[/events/sunday-social-11-22-26]
+11:00 PM23:0011:00 PM
+November 22, 2026 – November 23, 2026
+Sunday Social [/events/sunday-social-11-22-26]
+11:00 PM23:0011:00 PM
+November 22, 2026 – November 23, 2026
+Read more → [/events/sunday-social-11-22-26]
+11:00 PM23:0011:00 PM
+November 22, 2026 – November 23, 2026
 Nov 23
 [/events/the-fort90-broadcast-system-presents-fort90-tv-11-23-26]
 8:00 PM20:008:00 PM
@@ -245,6 +225,26 @@ November 30, 2026
 Read more → [/events/robot-karaoke-11-30-26]
 7:00 PM – 10:00 PM19:00 – 22:007:00 PM – 10:00 PM
 November 30, 2026
+Nov 30
+[/events/the-fort90-broadcast-system-presents-fort90-tv-11-30-26]
+8:00 PM20:008:00 PM
+November 30, 2026 – December 1, 2026
+the FORT90 BROADCAST SYSTEM presents: FORT90 TV [/events/the-fort90-broadcast-system-presents-fort90-tv-11-30-26]
+8:00 PM20:008:00 PM
+November 30, 2026 – December 1, 2026
+Read more → [/events/the-fort90-broadcast-system-presents-fort90-tv-11-30-26]
+8:00 PM20:008:00 PM
+November 30, 2026 – December 1, 2026
+Dec 1
+[/events/rhythm-dance-games-night-12-1-26]
+7:00 PM – 11:00 PM19:00 – 23:007:00 PM – 11:00 PM
+December 1, 2026
+Rhythm & Dance Games Night [/events/rhythm-dance-games-night-12-1-26]
+7:00 PM – 11:00 PM19:00 – 23:007:00 PM – 11:00 PM
+December 1, 2026
+Read more → [/events/rhythm-dance-games-night-12-1-26]
+7:00 PM – 11:00 PM19:00 – 23:007:00 PM – 11:00 PM
+December 1, 2026
 
 View all events [https://www.wonderville.nyc/events]
 

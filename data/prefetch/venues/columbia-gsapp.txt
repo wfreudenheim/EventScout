@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-11-18T06:41:19.480Z
+FETCHED:2026-11-22T06:40:03.507Z
 
 /
  * The School
@@ -850,38 +850,14 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=10&month=11&time_range=week&year=2026 /events?day=26&month=11&time_range=week&year=2026
-Nov 18 – Nov 25
+/events?day=14&month=11&time_range=week&year=2026 /events?day=30&month=11&time_range=week&year=2026
+Nov 22 – Nov 29
 Week
 [/events?time_range=week]
 Month
 [/events?time_range=month]
 Semester
 [/events?time_range=semester]
-
-Thu, Nov 19    12:30pm
-
-THE LIBRARY IS OPEN 34: Max Bond: The Life and Work of the People’s Architect
-
-Library is Open
-
-[/events/4230-the-library-is-open-34-max-bond-the-life-and-work-of-the-people-s-architect]
-
-Fri, Nov 20    10am
-
-Virtual
-
-GSAPP Admissions Info Session
-
-[/events/4382-gsapp-admissions-info-session]
-
-Fri, Nov 20    4pm
-
-Virtual
-
-Admissions Info Session: Professional Opportunities for Students
-
-[/events/4386-admissions-info-session-professional-opportunities-for-students]
 
 Tue, Nov 24    12pm
 

@@ -9662,5 +9662,405 @@
     "date": "2026-11-18T00:02:02.000Z",
     "file": "data/inbox/1208-just-announced-kou-records-presents.html",
     "processed": true
+  },
+  {
+    "uid": 1209,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Hassan Aliyu and Ade Ogundimu: Restless Objects at Gallery Oldham",
+    "date": "2026-11-18T07:10:10.000Z",
+    "file": "data/inbox/1209-hassan-aliyu-and-ade-ogundimu-restless-objects-at-.html",
+    "processed": false
+  },
+  {
+    "uid": 1210,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "Rail Weekly",
+    "date": "2026-11-18T13:31:14.000Z",
+    "file": "data/inbox/1210-rail-weekly.html",
+    "processed": false
+  },
+  {
+    "uid": 1211,
+    "from": "\"La MaMa\" <programs@lamama.org>",
+    "subject": "Weekend 2 of Puppet Festival 2026 & A Workshop for Artists This Week",
+    "date": "2026-11-18T14:48:09.000Z",
+    "file": "data/inbox/1211-weekend-2-of-puppet-festival-2026-a-workshop-for-a.html",
+    "processed": false
+  },
+  {
+    "uid": 1212,
+    "from": "\"Bard Graduate Center\" <news@bgc.bard.edu>",
+    "subject": "Our Last BGC Lecture of the Year",
+    "date": "2026-11-18T15:03:56.000Z",
+    "file": "data/inbox/1212-our-last-bgc-lecture-of-the-year.html",
+    "processed": false
+  },
+  {
+    "uid": 1213,
+    "from": "\"NYPL Connect\" <enews@email.nypl.org>",
+    "subject": "Hot off the presses! NYPL's Best Books of 2026 📚🥳",
+    "date": "2026-11-18T15:12:43.000Z",
+    "file": "data/inbox/1213-hot-off-the-presses-nypl-s-best-books-of-2026.html",
+    "processed": false
+  },
+  {
+    "uid": 1214,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Koffler Arts celebrates 50 years with 2027 anniversary program",
+    "date": "2026-11-18T18:09:56.000Z",
+    "file": "data/inbox/1214-koffler-arts-celebrates-50-years-with-2027-anniver.html",
+    "processed": false
+  },
+  {
+    "uid": 1215,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Crocodile Dose",
+    "date": "2026-11-18T18:17:05.000Z",
+    "file": "data/inbox/1215-crocodile-dose.html",
+    "processed": false
+  },
+  {
+    "uid": 1216,
+    "from": "\"Anthology Film Archives\" <info@anthologyfilmarchives.org>",
+    "subject": "This Week at AFA: Faces – Moving-Image Portraiture; NO FOOD NO MONEY NO JEWELS; Theresa Hak Kyung Cha; Amalric/Zorn; Dorsky/Hiler; Lost and Found & EC",
+    "date": "2026-11-18T19:15:38.000Z",
+    "file": "data/inbox/1216-this-week-at-afa-faces-moving-image-portraiture-no.html",
+    "processed": false
+  },
+  {
+    "uid": 1217,
+    "from": "\"MoMI News\" <info@movingimage.org>",
+    "subject": "Merch Meet, Minnelli's Gigi, Kubrick's Lolita, The Muppets Take Manhattan, and more",
+    "date": "2026-11-18T21:03:45.000Z",
+    "file": "data/inbox/1217-merch-meet-minnelli-s-gigi-kubrick-s-lolita-the-mu.html",
+    "processed": false
+  },
+  {
+    "uid": 1218,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "Announcing the 2026 Carolyn Bush Award Recipient",
+    "date": "2026-11-18T22:00:17.000Z",
+    "file": "data/inbox/1218-announcing-the-2026-carolyn-bush-award-recipient.html",
+    "processed": false
+  },
+  {
+    "uid": 1219,
+    "from": "\"Abrons Arts Center\" <abrons@henrystreet.org>",
+    "subject": "Our Annual Talent Show Returns!",
+    "date": "2026-11-18T22:00:48.000Z",
+    "file": "data/inbox/1219-our-annual-talent-show-returns.html",
+    "processed": false
+  },
+  {
+    "uid": 1220,
+    "from": "\"The Kitchen\" <info@thekitchen.org>",
+    "subject": "The Future of Art Starts Here: Make Your Year-End Gift Today!",
+    "date": "2026-11-18T22:01:09.000Z",
+    "file": "data/inbox/1220-the-future-of-art-starts-here-make-your-year-end-g.html",
+    "processed": false
+  },
+  {
+    "uid": 1221,
+    "from": "\"Asia Society NY\" <reply@e.asiasociety.org>",
+    "subject": "Traditional Japanese metalcraft with a Living National Treasure",
+    "date": "2026-11-18T22:01:00.000Z",
+    "file": "data/inbox/1221-traditional-japanese-metalcraft-with-a-living-nati.html",
+    "processed": false
+  },
+  {
+    "uid": 1222,
+    "from": "\"Japan Society\" <info@japansociety.org>",
+    "subject": "A year of Japan Society, plus a limited-edition tote bag.",
+    "date": "2026-11-18T22:21:47.000Z",
+    "file": "data/inbox/1222-a-year-of-japan-society-plus-a-limited-edition-tot.html",
+    "processed": false
+  },
+  {
+    "uid": 1223,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "Ready, Set, Compete: Miami Beach, December 1",
+    "date": "2026-11-18T23:04:06.000Z",
+    "file": "data/inbox/1223-ready-set-compete-miami-beach-december-1.html",
+    "processed": false
+  },
+  {
+    "uid": 1224,
+    "from": "\"World Music Institute\" <kate@worldmusicinstitute.org>",
+    "subject": "Announcing World Music Institute's REVOLVE Festival",
+    "date": "2026-11-18T23:58:33.000Z",
+    "file": "data/inbox/1224-announcing-world-music-institute-s-revolve-festiva.html",
+    "processed": false
+  },
+  {
+    "uid": 1225,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Art Antwerp presents its sixth edition",
+    "date": "2026-11-19T07:11:55.000Z",
+    "file": "data/inbox/1225-art-antwerp-presents-its-sixth-edition.html",
+    "processed": false
+  },
+  {
+    "uid": 1226,
+    "from": "\"Montez Press\" <info@montezpress.com>",
+    "subject": "Montez Press November News",
+    "date": "2026-11-19T10:02:46.000Z",
+    "file": "data/inbox/1226-montez-press-november-news.html",
+    "processed": false
+  },
+  {
+    "uid": 1227,
+    "from": "\"Vera List Center\" <vlc@newschool.edu>",
+    "subject": "Rewatch the VLC Forum 2026 online!",
+    "date": "2026-11-19T14:02:08.000Z",
+    "file": "data/inbox/1227-rewatch-the-vlc-forum-2026-online.html",
+    "processed": false
+  },
+  {
+    "uid": 1228,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Francis Whorrall-Campbell on Alex Margo Arden’s “Nothing Personal” at Nicoletta Fiorucci Foundation, London",
+    "date": "2026-11-19T15:10:02.000Z",
+    "file": "data/inbox/1228-review-francis-whorrall-campbell-on-alex-margo-ard.html",
+    "processed": false
+  },
+  {
+    "uid": 1229,
+    "from": "\"Bard Graduate Center\" <news@bgc.bard.edu>",
+    "subject": "Just 5 Days Until BGC Giving Day!",
+    "date": "2026-11-19T15:09:43.000Z",
+    "file": "data/inbox/1229-just-5-days-until-bgc-giving-day.html",
+    "processed": false
+  },
+  {
+    "uid": 1230,
+    "from": "\"Film at Lincoln Center\" <noreply@filmlinc.org>",
+    "subject": "Andrey Zvyagintsev’s French Oscar Entry Minotaur + All of a Sudden Opens Next Week + More!",
+    "date": "2026-11-19T15:39:41.000Z",
+    "file": "data/inbox/1230-andrey-zvyagintsev-s-french-oscar-entry-minotaur-a.html",
+    "processed": false
+  },
+  {
+    "uid": 1231,
+    "from": "\"Verso Books\" <verso@versobooks.com>",
+    "subject": "📓 Introducing Verso Notes 📓",
+    "date": "2026-11-19T15:45:52.000Z",
+    "file": "data/inbox/1231-introducing-verso-notes.html",
+    "processed": false
+  },
+  {
+    "uid": 1232,
+    "from": "\"ISSUE Project Room\" <info@issueprojectroom.org>",
+    "subject": "Announcing ISSUE's 2027 Artists-In-Residence",
+    "date": "2026-11-19T16:16:41.000Z",
+    "file": "data/inbox/1232-announcing-issue-s-2027-artists-in-residence.html",
+    "processed": false
+  },
+  {
+    "uid": 1233,
+    "from": "\"Flushing Town Hall\" <boxoffice@flushingtownhall.ccsend.com>",
+    "subject": "A Christmas show the whole family will remember 🎄",
+    "date": "2026-11-19T17:07:24.000Z",
+    "file": "data/inbox/1233-a-christmas-show-the-whole-family-will-remember.html",
+    "processed": false
+  },
+  {
+    "uid": 1234,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Sentient Earth",
+    "date": "2026-11-19T18:20:41.000Z",
+    "file": "data/inbox/1234-sentient-earth.html",
+    "processed": false
+  },
+  {
+    "uid": 1235,
+    "from": "\"Nitehawk Cinema\" <newsletter@nitehawkcinema.com>",
+    "subject": "Hungry Tiger Edition",
+    "date": "2026-11-19T18:04:48.000Z",
+    "file": "data/inbox/1235-hungry-tiger-edition.html",
+    "processed": false
+  },
+  {
+    "uid": 1236,
+    "from": "\"n+1\" <editors@nplusonemag.com>",
+    "subject": "Michel and Mom",
+    "date": "2026-11-19T18:55:57.000Z",
+    "file": "data/inbox/1236-michel-and-mom.html",
+    "processed": false
+  },
+  {
+    "uid": 1237,
+    "from": "\"Printed Matter, Inc.\" <development@printedmatter.org>",
+    "subject": "Give the gift of artists' books 🎁 and support Printed Matter this holiday season ✨",
+    "date": "2026-11-19T19:27:18.000Z",
+    "file": "data/inbox/1237-give-the-gift-of-artists-books-and-support-printed.html",
+    "processed": false
+  },
+  {
+    "uid": 1238,
+    "from": "\"barbès\" <BarbesParkSlope@pb08.wixemails.com>",
+    "subject": "This Week at Barbes",
+    "date": "2026-11-19T20:51:41.000Z",
+    "file": "data/inbox/1238-this-week-at-barbes.html",
+    "processed": false
+  },
+  {
+    "uid": 1239,
+    "from": "\"Screen Slate Recommends\" <jon@screenslate.com>",
+    "subject": "Screen Slate Recommends Lucy Sante screening and book signing – Friday",
+    "date": "2026-11-19T20:58:39.000Z",
+    "file": "data/inbox/1239-screen-slate-recommends-lucy-sante-screening-and-b.html",
+    "processed": false
+  },
+  {
+    "uid": 1240,
+    "from": "\"Triple Canopy\" <backoffice@canopycanopycanopy.com>",
+    "subject": "“Does everyone think like this?”",
+    "date": "2026-11-19T21:07:46.000Z",
+    "file": "data/inbox/1240-does-everyone-think-like-this.html",
+    "processed": false
+  },
+  {
+    "uid": 1241,
+    "from": "\"Creative Time\" <digital@creativetime.org>",
+    "subject": "Announcing the Public Programming for Consejos de las Estrellas by Guadalupe Maravilla",
+    "date": "2026-11-19T21:27:20.000Z",
+    "file": "data/inbox/1241-announcing-the-public-programming-for-consejos-de-.html",
+    "processed": false
+  },
+  {
+    "uid": 1242,
+    "from": "\"Rhizome News\" <info@rhizome.org>",
+    "subject": "Last Chance to Apply for a Rhizome Microgrant!",
+    "date": "2026-11-19T21:33:30.000Z",
+    "file": "data/inbox/1242-last-chance-to-apply-for-a-rhizome-microgrant.html",
+    "processed": false
+  },
+  {
+    "uid": 1243,
+    "from": "\"Asia Society\" <reply@e.asiasociety.org>",
+    "subject": "Elevate Asian Voices this Giving Tuesday",
+    "date": "2026-11-19T21:39:02.000Z",
+    "file": "data/inbox/1243-elevate-asian-voices-this-giving-tuesday.html",
+    "processed": false
+  },
+  {
+    "uid": 1244,
+    "from": "\"Data & Society\" <info@datasociety.net>",
+    "subject": "A public interest AI agenda for the incoming Congress, December events with Britt Paris and danah boyd, surfacing sociotechnical research",
+    "date": "2026-11-19T22:01:04.000Z",
+    "file": "data/inbox/1244-a-public-interest-ai-agenda-for-the-incoming-congr.html",
+    "processed": false
+  },
+  {
+    "uid": 1245,
+    "from": "\"Performance Space New York\" <info@performancespacenewyork.org>",
+    "subject": "🔀 Queer|Art Summit this weekend, [Sat-Sun, Nov 21 + 22]",
+    "date": "2026-11-20T00:30:23.000Z",
+    "file": "data/inbox/1245-queer-art-summit-this-weekend-sat-sun-nov-21-22.html",
+    "processed": false
+  },
+  {
+    "uid": 1246,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "I Think. I Don’t. I Do. exhibition at Woonhuis",
+    "date": "2026-11-20T07:10:00.000Z",
+    "file": "data/inbox/1246-i-think-i-don-t-i-do-exhibition-at-woonhuis.html",
+    "processed": false
+  },
+  {
+    "uid": 1247,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "🔊 Tune in: Steve Locke, Roy Lichtenstein, and Faith Ringgold",
+    "date": "2026-11-20T13:02:13.000Z",
+    "file": "data/inbox/1247-tune-in-steve-locke-roy-lichtenstein-and-faith-rin.html",
+    "processed": false
+  },
+  {
+    "uid": 1248,
+    "from": "\"Nikil Saval\" <foundation@nplusonemag.com>",
+    "subject": "A note about n+1",
+    "date": "2026-11-20T14:30:12.000Z",
+    "file": "data/inbox/1248-a-note-about-n-1.html",
+    "processed": false
+  },
+  {
+    "uid": 1249,
+    "from": "\"Wave Farm + WGXC 90.7-FM\" <info@wavefarm.org>",
+    "subject": "Support Artist Opportunities",
+    "date": "2026-11-20T16:04:13.000Z",
+    "file": "data/inbox/1249-support-artist-opportunities.html",
+    "processed": false
+  },
+  {
+    "uid": 1250,
+    "from": "\"NYU Game Center\" <gamecenter@nyu.edu>",
+    "subject": "Game Design Days 2026 lineup is here!",
+    "date": "2026-11-20T16:47:53.000Z",
+    "file": "data/inbox/1250-game-design-days-2026-lineup-is-here.html",
+    "processed": false
+  },
+  {
+    "uid": 1251,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "Paul Krugman & Heather Cox Richardson in Conversation - Video 🎥",
+    "date": "2026-11-20T17:48:13.000Z",
+    "file": "data/inbox/1251-paul-krugman-heather-cox-richardson-in-conversatio.html",
+    "processed": false
+  },
+  {
+    "uid": 1252,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Galaxie",
+    "date": "2026-11-20T18:23:27.000Z",
+    "file": "data/inbox/1252-galaxie.html",
+    "processed": false
+  },
+  {
+    "uid": 1253,
+    "from": "\"Casey Lardner, Genspace\" <genspace@ghost.io>",
+    "subject": "How to fund a community lab",
+    "date": "2026-11-20T19:27:11.000Z",
+    "file": "data/inbox/1253-how-to-fund-a-community-lab.html",
+    "processed": false
+  },
+  {
+    "uid": 1254,
+    "from": "\"MoMI Film\" <info@movingimage.org>",
+    "subject": "See Vincente Minnelli’s exquisite, Paris-set Best Picture winner GIGI in 35mm!",
+    "date": "2026-11-20T21:17:08.000Z",
+    "file": "data/inbox/1254-see-vincente-minnelli-s-exquisite-paris-set-best-p.html",
+    "processed": false
+  },
+  {
+    "uid": 1255,
+    "from": "\"Massimiliano Gioni\" <info@newmuseum.org>",
+    "subject": "Invest in Artists, Invest in the Future",
+    "date": "2026-11-20T22:30:50.000Z",
+    "file": "data/inbox/1255-invest-in-artists-invest-in-the-future.html",
+    "processed": false
+  },
+  {
+    "uid": 1256,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "Updates from The Center for Fiction",
+    "date": "2026-11-21T15:01:58.000Z",
+    "file": "data/inbox/1256-updates-from-the-center-for-fiction.html",
+    "processed": false
+  },
+  {
+    "uid": 1257,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "REVIEW: Kirsty Bell on Susan Hiller’s “Bad Dreams” at KW Institute for Contemporary Art, Berlin",
+    "date": "2026-11-21T15:10:05.000Z",
+    "file": "data/inbox/1257-review-kirsty-bell-on-susan-hiller-s-bad-dreams-at.html",
+    "processed": false
+  },
+  {
+    "uid": 1258,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Watcher in the Attic",
+    "date": "2026-11-21T16:56:37.000Z",
+    "file": "data/inbox/1258-the-watcher-in-the-attic.html",
+    "processed": false
   }
 ]

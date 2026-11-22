@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-11-18T06:41:08.991Z
+FETCHED:2026-11-22T06:39:48.607Z
 
 CULTUREHUB [/]
 
@@ -38,6 +38,14 @@ We Talked a Door Into Being [/events/we-talked-a-door-into-being]
 Three AI-driven puppets wait for their creator to return, hoping one day to venture outside and see the real world. RSVP → [/events/we-talked-a-door-into-being]
 
 Read more → [/events/we-talked-a-door-into-being]
+
+Dec 10
+[/events/e-x-t-r-a-c-tus]
+e-x-t-r-a-c-t.us [/events/e-x-t-r-a-c-tus]
+
+In a market hungry for authenticity and attention, see what ethically sourced data from a real person can look like in a new venture created by Resident Artist Esther Bouquet. RSVP → [https://www.culturehub.org/events/e-x-t-r-a-c-tus]
+
+Read more → [/events/e-x-t-r-a-c-tus]
 
 Dec 17
 [/events/allegra-and-the-cello-in-movements]

@@ -1,6 +1,6 @@
 VENUE:issue-project-room | Issue Project Room
 URL:https://issueprojectroom.org/events
-FETCHED:2026-11-18T06:41:09.686Z
+FETCHED:2026-11-22T06:39:49.514Z
 
 /
 https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue-project-room/ https://www.instagram.com/issueprojectroom https://soundcloud.com/issueprojectroom
@@ -22,18 +22,6 @@ https://www.facebook.com/issueprojectroom https://www.linkedin.com/company/issue
 
 UPCOMING EVENTS
 
-/event/webb-crawford-passed-away-also-may /event/webb-crawford-passed-away-also-may
-
-Artists-In-Residence 2026 [/program/artists-residence-2026]
-
-WEBB CRAWFORD: THAT PASSED AWAY, THIS ALSO MAY [/event/webb-crawford-passed-away-also-may]
-
-Thursday, November 19, 2026 - 8:00 pm
-22 Boerum Place, Brooklyn 11201
-
-Webb Crawford presents that passed away, this also may. For their culminating residency commission at ISSUE’s 22 Boerum Pl. theater, Crawford and collaborator Emma Mistele will play the organistrum in trio with Sam Boston performing on his self-built electric duochord with wheel.
-
-More [/event/webb-crawford-passed-away-also-may] Tickets [https://issueprojectroom.ticketspice.com/webb-crawford-that-passed-away-this-also-may]
 /event/kou-records-presents-eric-wubbels-altarpiece-h-af-k-ben-greenberg /event/kou-records-presents-eric-wubbels-altarpiece-h-af-k-ben-greenberg
 
 KOU RECORDS PRESENTS: ERIC WUBBELS’ ALTARPIECE H. AF K. / BEN GREENBERG [/event/kou-records-presents-eric-wubbels-altarpiece-h-af-k-ben-greenberg]
@@ -94,6 +82,18 @@ PAST EVENTS
  * 2004 [/events/archive/2004]
  * 2003 [/events/archive/2003]
 
+/event/webb-crawford-passed-away-also-may /event/webb-crawford-passed-away-also-may
+
+Artists-In-Residence 2026
+
+WEBB CRAWFORD: THAT PASSED AWAY, THIS ALSO MAY [/event/webb-crawford-passed-away-also-may]
+
+Thu 19 Nov, 2026, 8pm
+22 Boerum Place, Brooklyn 11201
+
+Webb Crawford presents that passed away, this also may. For their culminating residency commission at ISSUE’s 22 Boerum Pl. theater, Crawford and collaborator Emma Mistele will play the organistrum in trio with Sam Boston performing on his self-built electric duochord with wheel.
+
+More [/event/webb-crawford-passed-away-also-may]
 /event/eden-girma-dreamclubradi0 /event/eden-girma-dreamclubradi0
 
 Artists-In-Residence 2026
@@ -170,16 +170,4 @@ Wed 23 Sep, 2026, 8pm
 In partnership with Franklin Furnace as part of their 50th anniversary commemoration and November release of "Back to the Present: 50 Years of Free Expression with Franklin Furnace" ISSUE presents an evening of performance and conversation.
 
 More [/event/back-present-50-years-free-expression-franklin-furnace]
-/event/eden-girma-i-hope-i-wont-make-any-mistakes /event/eden-girma-i-hope-i-wont-make-any-mistakes
-
-Artists-In-Residence 2026
-
-EDEN GIRMA: I HOPE / I WON'T MAKE / ANY MISTAK(E)S [/event/eden-girma-i-hope-i-wont-make-any-mistakes]
-
-Fri 18 Sep, 2026, 8pm
-22 Boerum Place, Brooklyn 11201
-
-ISSUE presents the first commission from Eden Girma (2026 AIR). Part dreamscape and part summoning circle, an intimate diasporic familial archive is pieced together through the eyes of a five-year-old child.
-
-More [/event/eden-girma-i-hope-i-wont-make-any-mistakes]
  * Load More [?page=1]

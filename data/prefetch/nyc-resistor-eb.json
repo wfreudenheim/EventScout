@@ -1,202 +1,142 @@
 [
   {
-    "title": "Synthesizer Night @ NYC Resistor",
-    "date": "2026-11-27",
-    "description": "Gathering musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. BYO synth encouraged!",
-    "url": "https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2004492689594",
-    "venue_name": "NYC Resistor",
-    "format": "other",
-    "interest_score": 4,
-    "matched_categories": ["Hackerspaces & Creative Tech", "Sound & Music"]
-  },
-  {
-    "title": "Public Craft Night Mondays and Thursdays!",
-    "date": "2026-11-19",
-    "description": "Learn, make and share at NYC Resistor (all events18+)",
-    "url": "https://www.eventbrite.com/e/public-craft-night-mondays-and-thursdays-tickets-1992098747981",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 2,
-    "matched_categories": ["Hackerspaces & Creative Tech"]
-  },
-  {
-    "title": "NYCResistor Ham Radio Club",
-    "date": "2026-11-25",
-    "description": "Monthly Amateur Radio club meeting of NYCResistor",
-    "url": "https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1633091463529",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 3,
-    "matched_categories": ["Hackerspaces & Creative Tech"]
-  },
-  {
-    "title": "Public Craft Night 1st Fridays and 3rd Wednesdays of the Month < MASKS ON >",
-    "date": "2026-11-18",
-    "description": "Learn, make, and share at NYC Resistor (18+; high quality masks required and provided on request)",
-    "url": "https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-920215347877",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 2,
-    "matched_categories": ["Hackerspaces & Creative Tech"]
-  },
-  {
-    "title": "Craft Your Own 12\" x 16\" Wooden Picture Frame",
+    "title": "Locksport Workshop",
     "date": "2026-11-22",
-    "description": "In this hands-on class, you'll learn essential woodworking skills while crafting a 12\" x 16\" picture frame from poplar wood.",
-    "url": "https://www.eventbrite.com/e/craft-your-own-12-x-16-wooden-picture-frame-tickets-2004151789954",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 1,
-    "matched_categories": []
-  },
-  {
-    "title": "Soldering Workshop: Make an LED Tile",
-    "date": "2026-11-21",
-    "description": "Soldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole solder",
-    "url": "https://www.eventbrite.com/e/soldering-workshop-make-an-led-tile-tickets-2004123329829",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 3,
-    "matched_categories": ["Hackerspaces & Creative Tech"]
+    "description": "Ethics, theory and hands on practice of lockpicking",
+    "url": "https://www.eventbrite.com/e/locksport-workshop-tickets-2004601891219",
+    "venue_name": "NYCResistor"
   },
   {
     "title": "Sewing Machines: How to Make a Tote Bag",
     "date": "2026-12-18",
-    "description": "Absolute beginners are welcome. Learn how to thread and use a Sewing Machine. Make a Tote bag at NYC Resistor!",
+    "description": "Absolute beginners are welcome. Learn how to thread and use a Sewing Machine.  Make a Tote bag at NYC Resistor!",
     "url": "https://www.eventbrite.com/e/sewing-machines-how-to-make-a-tote-bag-tickets-2004867831654",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 1,
-    "matched_categories": []
+    "venue_name": "NYC Resistor"
   },
   {
-    "title": "Resistor Holiday Market: CRAFT DAY",
-    "date": "2026-12-06",
-    "description": "Jewelry, ceramics, knits, accessories, leather goods, tinctures, sculptures, clothing, and more! Show you care and gift local this season!",
-    "url": "https://www.eventbrite.com/e/resistor-holiday-market-craft-day-tickets-2004676600677",
-    "venue_name": "NYC Resistor",
-    "format": "other",
-    "interest_score": 1,
-    "matched_categories": []
-  },
-  {
-    "title": "The Writers' Room NYC",
-    "date": "2026-12-09",
-    "description": "Where NYC writers, actors, and theater lovers connect through live script readings, cold reads, and creative collaboration - $10",
-    "url": "https://www.eventbrite.com/e/the-writers-room-nyc-tickets-2003100145457",
-    "venue_name": "Producers Club Theaters",
-    "format": "reading",
-    "interest_score": 0,
-    "matched_categories": []
-  },
-  {
-    "title": "NYC Object Show Hangout",
-    "date": "2026-12-19",
-    "description": "An OSC event hosted in NYC where Object Show fans can socialize with each other, meet & greet creators, & watch brand new content.",
-    "url": "https://www.eventbrite.com/e/nyc-object-show-hangout-tickets-2003178601120",
-    "venue_name": "SVA Theatre",
-    "format": "other",
-    "interest_score": 0,
-    "matched_categories": []
-  },
-  {
-    "title": "Mask Chains 101  < MASKS ON >",
-    "date": "2026-11-28",
-    "description": "You will learn the basics of wire wrapping your own mask chain and go home with your own wire wrapped flower mask chain.",
-    "url": "https://www.eventbrite.com/e/mask-chains-101-masks-on-tickets-2004486179121",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 1,
-    "matched_categories": []
-  },
-  {
-    "title": "NYC Trout Unlimited 42nd Anniversary, Annual Holiday Party",
-    "date": "2026-12-03",
-    "description": "Come celebrate 42 years of NYC Trout Unlimited with us at our holiday celebration!",
-    "url": "https://www.eventbrite.com/e/nyc-trout-unlimited-42nd-anniversary-annual-holiday-party-tickets-2003839869993",
-    "venue_name": "Phebe's",
-    "format": "other",
-    "interest_score": 0,
-    "matched_categories": []
-  },
-  {
-    "title": "Resistor Holiday Market: PAPER DAY",
-    "date": "2026-12-05",
-    "description": "Zines, comics, books, paintings, cards, screen prints, woodblock, lithographs and stickers! Show you care and gift local this season!",
-    "url": "https://www.eventbrite.com/e/resistor-holiday-market-paper-day-tickets-2004676333879",
-    "venue_name": "NYC Resistor",
-    "format": "other",
-    "interest_score": 1,
-    "matched_categories": []
+    "title": "Craft Your Own 12” x 16” Wooden Picture Frame",
+    "date": "2026-11-22",
+    "description": "In this hands-on class, you’ll learn essential woodworking skills while crafting a 12” x 16” picture frame from poplar wood.",
+    "url": "https://www.eventbrite.com/e/craft-your-own-12-x-16-wooden-picture-frame-tickets-2004151789954",
+    "venue_name": "NYC Resistor"
   },
   {
     "title": "Still Life Painting: < MASKS ON >",
     "date": "2026-11-29",
     "description": "Beginner friendly, guided Still Life Painting session: Masks Required",
     "url": "https://www.eventbrite.com/e/still-life-painting-masks-on-tickets-2004868294037",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 1,
-    "matched_categories": []
+    "venue_name": "NYCResistor"
   },
   {
-    "title": "Locksport Workshop",
-    "date": "2026-11-22",
-    "description": "Ethics, theory and hands on practice of lockpicking",
-    "url": "https://www.eventbrite.com/e/locksport-workshop-tickets-2004601891219",
-    "venue_name": "NYC Resistor",
-    "format": "workshop",
-    "interest_score": 3,
-    "matched_categories": ["Hackerspaces & Creative Tech"]
+    "title": "Make Along: Make a Pinhole Polaroid Camera from a Beer or Soda Can!",
+    "date": "2026-12-13",
+    "description": "Learn how to make a pinhole polaroid camera with stuff you can find around the house, but don't worry, we'll provide all the materials.",
+    "url": "https://www.eventbrite.com/e/make-along-make-a-pinhole-polaroid-camera-from-a-beer-or-soda-can-tickets-2004867969065",
+    "venue_name": "NYCResistor"
   },
   {
-    "title": "All Decked Out: A Cyberdeck \"Open Mic\"",
-    "date": "2026-11-20",
-    "description": "Show off your cyberdeck creations at this \"open mic\" event and celebrate the creation and use of our own bespoke hardware.",
-    "url": "https://www.eventbrite.com/e/all-decked-out-a-cyberdeck-open-mic-tickets-2003244844255",
-    "venue_name": "NYC Resistor",
-    "format": "other",
-    "interest_score": 4,
-    "matched_categories": ["Hackerspaces & Creative Tech"]
+    "title": "NYCResistor Ham Radio Club",
+    "date": "2026-11-25",
+    "description": "Monthly Amateur Radio club meeting of NYCResistor",
+    "url": "https://www.eventbrite.com/e/nycresistor-ham-radio-club-tickets-1633091463529",
+    "venue_name": "NYC Resistor"
   },
   {
-    "title": "Tango Meet NYC:  Introductory Tango Class by audience",
-    "date": "2026-11-24",
-    "description": "Intro to Tango| No Experience or Partner Needed!",
-    "url": "https://www.eventbrite.com/e/tango-meet-nyc-introductory-tango-class-by-audience-tickets-2004087506681",
-    "venue_name": "Pearl Studios NYC",
-    "format": "workshop",
-    "interest_score": 0,
-    "matched_categories": []
+    "title": "Synthesizer Night @ NYC Resistor",
+    "date": "2026-11-27",
+    "description": "Gathering musicians, enthusiasts, and curious minds to connect, collaborate, and share their passion for synthesis. BYO synth encouraged!",
+    "url": "https://www.eventbrite.com/e/synthesizer-night-nyc-resistor-tickets-2004492689594",
+    "venue_name": "NYC Resistor"
   },
   {
-    "title": "NYC Doll Convention 2027",
-    "date": "2027-04-17",
-    "description": "The NYC Doll Convention is a two-day event focusing on focusing on Ball Jointed Dolls and related toys.",
-    "url": "https://www.eventbrite.com/e/nyc-doll-convention-2027-tickets-1991790813942",
-    "venue_name": "33 35th St building 5",
-    "format": "festival",
-    "interest_score": 0,
-    "matched_categories": []
+    "title": "Soldering Workshop: Make an LED Tile",
+    "date": "2026-12-02",
+    "description": "Soldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole solder",
+    "url": "https://www.eventbrite.com/e/soldering-workshop-make-an-led-tile-tickets-2004867478598",
+    "venue_name": "NYC Resistor"
   },
   {
-    "title": "Kids Cupcake Creations @ Partake NYC",
+    "title": "TouchDesigner, ESP32s and Sensors!",
     "date": "2026-11-29",
-    "description": "A little frosting, a few sprinkles, and a whole lot of fall fun!",
-    "url": "https://www.eventbrite.com/e/kids-cupcake-creations-partake-nyc-tickets-2004204055281",
-    "venue_name": "Partake NYC",
-    "format": "workshop",
-    "interest_score": 0,
-    "matched_categories": []
+    "description": "Wire a motion sensor to an ESP32 and stream the live data into TouchDesigner over OSC and MQTT. No Arduino experience needed!",
+    "url": "https://www.eventbrite.com/e/touchdesigner-esp32s-and-sensors-tickets-2004801732951",
+    "venue_name": "NYCResistor"
   },
   {
-    "title": "Improv Comedy Workshop, Times Square NYC",
-    "date": "2026-11-21",
-    "description": "Every week features 2 hours of improv comedy game play under the direction of working professional comedic improv actors.",
-    "url": "https://www.eventbrite.com/e/improv-comedy-workshop-times-square-nyc-tickets-2000051739593",
-    "venue_name": "Broadway Comedy Club",
-    "format": "workshop",
-    "interest_score": 0,
-    "matched_categories": []
+    "title": "Mask Chains 101  < MASKS ON >",
+    "date": "2026-11-28",
+    "description": "You will learn the basics of wire wrapping your own mask chain and go home with your own wire wrapped flower mask chain.",
+    "url": "https://www.eventbrite.com/e/mask-chains-101-masks-on-tickets-2004486179121",
+    "venue_name": "NYC Resistor"
+  },
+  {
+    "title": "Resistor Holiday Market: CRAFT DAY",
+    "date": "2026-12-06",
+    "description": "Jewelry, ceramics, knits, accessories, leather goods, tinctures, sculptures, clothing, and more! Show you care and gift local this season!",
+    "url": "https://www.eventbrite.com/e/resistor-holiday-market-craft-day-tickets-2004676600677",
+    "venue_name": "NYC Resistor"
+  },
+  {
+    "title": "Digital Marketers NYC Meetup",
+    "date": "2026-12-08",
+    "description": "A monthly marketing event and mixer for founders and marketers.",
+    "url": "https://www.eventbrite.com/e/digital-marketers-nyc-meetup-tickets-2004675855448",
+    "venue_name": "26 Broadway"
+  },
+  {
+    "title": "Resistor Holiday Market: PAPER DAY",
+    "date": "2026-12-05",
+    "description": "Zines, comics, books, paintings, cards, screen prints, woodblock, lithographs and stickers! Show you care and gift local this season!",
+    "url": "https://www.eventbrite.com/e/resistor-holiday-market-paper-day-tickets-2004676333879",
+    "venue_name": "NYC Resistor"
+  },
+  {
+    "title": "Public Craft Night 1st Fridays and 3rd Wednesdays of the Month < MASKS ON >",
+    "date": "2026-12-04",
+    "description": "Learn, make, and share at NYC Resistor (18+; high quality masks required and provided on request)",
+    "url": "https://www.eventbrite.com/e/public-craft-night-1st-fridays-and-3rd-wednesdays-of-the-month-masks-on-tickets-920215759107",
+    "venue_name": "NYC Resistor"
+  },
+  {
+    "title": "Black Professionals in NYC | Holiday Social: A Toast to Us!",
+    "date": "2026-12-17",
+    "description": "Join us for an elevated night out and a toast to 2026 with Black Professionals in NYC!",
+    "url": "https://www.eventbrite.com/e/black-professionals-in-nyc-holiday-social-a-toast-to-us-registration-2004617057582",
+    "venue_name": "Lagos TSQ"
+  },
+  {
+    "title": "Latino Outdoors NYC | Book Club",
+    "date": "2026-11-28",
+    "description": "Join us for a discussion of Patty Krawec’s Becoming Kin followed by a walk in Prospect Park",
+    "url": "https://www.eventbrite.com/e/latino-outdoors-nyc-book-club-tickets-2004834689525",
+    "venue_name": "Bon Tree"
+  },
+  {
+    "title": "Third Thursday NYC - Community Meet Up",
+    "date": "2026-12-17",
+    "description": "Join us for Third Thursday — where New York’s Cannabis community connects. Nothing for sale! 21+ Only.",
+    "url": "https://www.eventbrite.com/e/third-thursday-nyc-community-meet-up-tickets-1976773783600",
+    "venue_name": "The Delancey Rooftop"
+  },
+  {
+    "title": "Homeschool Field Trip: Art & Discovery at The Met",
+    "date": "2026-12-11",
+    "description": "Join us for a fun day exploring amazing art and sparking curiosity with fellow homeschoolers at The Met!",
+    "url": "https://www.eventbrite.com/e/homeschool-field-trip-art-discovery-at-the-met-tickets-2004411932046",
+    "venue_name": "The Metropolitan Museum of Art"
+  },
+  {
+    "title": "Ninja Turtle Paint + Munch @ Partake NYC",
+    "date": "2026-11-22",
+    "description": "Cowabunga, little artists!  Ninja Turtle Paint & Brunch at Partake NYC, Nov. 22, 3-7PM. $35 includes brunch & supplies!",
+    "url": "https://www.eventbrite.com/e/ninja-turtle-paint-munch-partake-nyc-tickets-2004202983074",
+    "venue_name": "Partake NYC"
+  },
+  {
+    "title": "Soldering Workshop: Absolute Beginner Circuits 101",
+    "date": "2026-11-29",
+    "description": "Are you an artist eyeing electronics? Maybe cyberdeck curious?  A mod synth builder? Tired of squirmy breadboards? Learn soldering!",
+    "url": "https://www.eventbrite.com/e/soldering-workshop-absolute-beginner-circuits-101-tickets-2004263308509",
+    "venue_name": "MAKEPHILIA (apartment 4R)"
   }
 ]

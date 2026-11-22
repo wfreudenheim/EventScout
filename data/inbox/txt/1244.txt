@@ -1,0 +1,81 @@
+UID:1244 | 2026-11-19 | "Data & Society" <info@datasociety.net> | A public interest AI agenda for the incoming Congress, December events with Britt Paris and danah boyd, surfacing sociotechnical research
+
+November 19, 2026
+
+AROUND THE INSTITUTE
+
+ 
+
+A PUBLIC INTEREST AI AGENDA FOR THE INCOMING CONGRESS
+
+Driven by popular anger over corruption, unaffordability, and data centers, the results of the midterm elections handed a powerful mandate to an incoming Congress: govern AI in the interest of the public, not tech oligarchs and corporations. Now, where to begin? To answer this question, we’ve put together a list of suggestions for Congress to tackle out of the gate. For now, we’ve focused on specific issues on which Congress has a strong mandate to deliver, tied to the broader discontent about AI that motivated so many voters. Immediate wins on these issues would send a message to the American public that the tech industry will no longer enjoy unchecked power, and would set a foundation for longer-horizon ambitions should a new governing opportunity emerge in 2029. The next two years are critical: Congress must reclaim the public oversight and agency that Americans have demanded, and show that it is poised to deliver on a vision for AI in society that puts people first. Read our recommendations, by Policy Director Brian J. Chen, Director of Research Alice Marwick, AI on the Ground Program Director Ranjit Singh, Policy Manager Serena Oduro, and Executive Director Janet Haven.
+
+In a companion piece in Tech Policy Press, Marwick reports on what she heard when she asked top scholars and policy experts about their tech regulation wishlists. Their answers spanned affordability, privacy, advertising market transparency, scams, data access, and expanding regulatory capacity, and include ideas big and small that may be viable at the state level given new slates of enthusiastic Democratic leaders around the country. “As civil society organizations, thinktanks, and policy shops scramble to readjust their policy priorities in the wake of [the] election, it is important to think beyond AI,” Marwick concludes. “Expanding regulatory capacity, passing comprehensive privacy legislation, and mandating data access for researchers may not be flashy, but these policies will have real-world implications for technology companies and, potentially, enormous benefits for the average American.” 
+
+On the Tech Policy Press podcast, Chen also assesses the impact of the midterms, together with Center for Democracy & Technology (CDT) CEO Alexandra Reeve Givens and Public Citizen Co-President Robert Weissman. “Delivering on issues that voters care about like affordability in the immediate and near term is critical, but there is an opportunity right now to reimagine what an alternative political economy of technology could look like, what it should look like going forward,” he says. 
+
+Plus: Marwick tells TechCrunch that in the wake of the midterms, she expects the tech industry to try to pivot back toward the middle: “But it’s a little too late….Tech companies should be asking themselves how their products can make people’s lives better, because right now, it doesn’t seem like they are.” On the Peoples and Things podcast, she discusses the role of moral judgment in empirical research on tech and society, and on CDT’s Tech Talks, she discusses the unique opportunities and challenges civil society researchers face, from accessing platform data to translating findings into insights that reach the right audiences.  
+
+DECEMBER 3: WHAT IF WE COULD REBUILD THE INTERNET?
+
+Rescheduled from May: If we could start from scratch, how might we rebuild or reimagine the internet to be more just and equitable? In her new book Radical Infrastructures: Imagining the Internet from the Ground Up, Rutgers Associate Professor Britt Paris critically examines and contextualizes the promises, utility, and obstacles to building a completely new internet. Drawing from eight years of interviews, site visits, and document and policy analysis, she examines ongoing alternative internet infrastructure projects and contrasts them with the market-driven solutions that drive the internet’s development today. On December 3 at 2 p.m. ET, in a conversation with Mizue Aizeki, executive director of the Collaborative Research Center for Resilience, moderated by D&S postdoctoral fellow Ana Carolina de Assis Nunes, Paris will reflect on the pitfalls and opportunities of existing internet infrastructure, and explore the grounded tactics and opportunities needed to develop and maintain a people-centered internet. Learn more and RSVP.
+
+Plus: On December 1, together with Columbia World Projects, All Tech Is Human, and the Technology Policy and Innovation specialization at Columbia SIPA, we’re co-hosting a discussion with D&S founder danah boyd about her book Data Are Made, Not Found: A Story of Politics, Power, and the Civil Servants Who Saved the US Census. boyd will be joined by Social Science Research Council President and CEO Daniel Goroff and Columbia Professor Alma Steingart in a conversation about the politics of data production and what it takes to preserve the public infrastructure our democracy depends on. This in-person event will take place at 5:30 p.m. at The Forum at Columbia University; learn more and register here.
+
+How to Run an AI Friction Audit
+
+When an AI agrees with you, is it telling you the truth, or just telling you what keeps you talking? Who decides what is safe enough to ship? Dialogue depends on healthy friction — but not all friction is made equal, and it helps to evaluate, eliminate, or deploy it selectively where it could be of most value. On Points, D&S affiliate Bogdana Rakova outlines how to do an interactive “friction audit,” and how it can be useful to policymakers working on AI regulatory frameworks, educators teaching at the intersection of AI, data, and society, and AI governance teams inside companies building or deploying AI systems. Auditing friction can be a powerful way to broaden AI evaluation and auditing practices by taking into account the real-world legal, organizational, and sociotechnical contexts where they are built and deployed: learn how to conduct your own.
+
+Surfacing Sociotechnical Research
+
+For organizations like Data & Society that produce original sociotechnical research outside of institutional centers like universities, working with the infrastructures of public knowledge can be a remarkable challenge. Independent researchers can create breathtaking, high-stakes research, but if the results of that research are not accessible and discoverable, then it has no chance of reaching its audience or making a difference in the world. Having experienced this challenge for a decade, D&S worked with expert research librarian Kathleen Burlingame to assess and overhaul our own repository of sociotechnical research. The results included updated metadata practices, new organizational typologies, and a set of best practices for making our mark on the public infrastructures of knowledge. Her report, Surfacing Sociotechnical Research, lays out that process of refinement, and names clear steps that independent organizations can take to give their research the best chance of being found, cited, and used to improve the world.
+
+Plus: AI-powered monitoring tools are rarely marketed as worker surveillance, D&S Labor Futures Researcher Alexandra Mateescu tells Capital & Main. “Instead they are sold as ‘loss prevention’ or ‘workflow management’ tools. This language…obscures what the technology actually does ‘both to employees and to consumers.’”
+
+Building Public Power Over Tech with AI Civics
+
+On a rainy Friday night earlier this month, the house was packed at the Stavros Niarchos Foundation Library (SNFL) in NYC for our powerhouse conversation about AI civics, moderated by Justin Hendrix and featuring Sareeta Amrute, Khari Johnson, Hannah Sassaman, and Meg Young, with an introduction from Janet Haven. Among the questions explored was one we’ve been hearing a lot amid the rapid advancement of AI: What can I do? Our panelists had a to say about this, starting with: People who are affected by AI-driven decisions should be part of the decisions being made about AI. If you missed the event, it’s available to watch online! 
+
+Through our AI Civics program, we’re partnering with organizations across a range of sectors that are integral to the health of our communities and civic fabric, beginning with libraries. Dianne Connery of the Pottsboro Library in Pottsboro, Texas (one of our partners in the cohort of librarians we’re working with to co-design our AI civics toolkit — coming this spring!) wrote for Public Libraries Online about our recent convening of that cohort in Washington, DC. “It turns out a library serving a few hundred people and one serving tens of thousands have a lot in common. We keep running into the same questions. Who gets represented in AI? Who gets left out? Who gets a say?” she writes. Libraries “hold exactly what AI companies want for their training data: local history, community knowledge, and decades of carefully organized information. That gives us a real say in what gets shared, on what terms, and who benefits.”
+
+Plus: We’re releasing a series of videos where these librarians speak to the importance of AI civics and what it means in their communities. We hope you’ll watch and share!
+
+FIELD NOTES
+
+ 
+
+“Anthropic is about to become one of the most important companies of the 21st century. If it wants to steward our country, our economy and our lives, Anthropic must do much more to earn the public’s trust. We need a plan for how it will build AI safely, and not just reliance on a few people’s judgment calls.” [“I Spent a Year Talking to Anthropic Employees. Here’s What They Believe,” by Jasmine Sun, The New York Times] 
+
+“AI is responsible for the [recent spate of tech outages], but not because the singularity is here. Rather, most of the complex systems we run on are held together with duct tape. AI itself isn’t breaking those things; we’re using AI to break them faster….In that sense, the outages are a preview of what AI disruption will really look like: not some swarm of Terminators, but everyday inconveniences that affect millions of lives and cost billions to fix.” [“Everything Is Breaking,” by Kate Klonick, The Atlantic]
+
+“Within hours of being injected with insulin that was meant for her roommate, 93-year-old Emma Lewis’ blood sugar plummeted, and she was rushed to a nearby medical center. Twelve days later, she died. Felicia Kaye, the licensed practical nurse who gave the injection in May 2022, was not an employee of Peachtree Centre, where Lewis lived. She was a gig worker who picked up her shift on the nursing app ShiftKey. She wasn’t familiar with Lewis or her roommate and never received orientation on any of the facility’s policies and procedures. ‘It’s pretty much you get the keys [to the medication cart] and just figure it out yourself,’ Kaye testified this August.” [“Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly,” by Varsha Bansal and Maddy Varner, Proof News]
+
+“The creative generation of new stories is antithetical to the very premise of machine learning, which draws from historical data and regenerates and recasts narratives from the past. It’s hard, in fact, not to see contemporary AI as a strategic effort to contain and control the latitude of political possibilities, offering brainstorming companions that steer users toward familiar solutions and writing tools that reduce communication to a series of ready-made templates that distill the statistical mean of conventional wisdom. The ‘struggle against perfect communication’ can happen only by rejecting the narrow limits of these tools and reclaiming the right to tell stories about the future that are mutable and open-ended, and that serve no obvious instrumental goal.” [“Donna Haraway’s Utopian Promise,” by Meghan O’Gieblyn, The Yale Review]
+
+NETWORK EVENTS
+
+ 
+
+December 9, 2026
+
+Independent Tech Researchers Meet-Up (Brooklyn)
+
+Civil Society Research Network
+
+December 9-10, 2026
+
+Public AI Summit: AI for Everyday Life
+
+Data Nutrition Project and AI Pedagogy Project
+
+Was this email forwarded to you?
+
+SUBSCRIBE TO THIS NEWSLETTER
+
+For more information, visit datasociety.net.
+
+Graphic by Surbhi Chawla/Getty Images
+
+This newsletter is curated with support from Eryn Loeb, Surbhi Chawla, and Sona Rai.
+
+Data & Society studies the social implications of data-centric technologies, automation, and AI.

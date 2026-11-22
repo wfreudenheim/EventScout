@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "architectural-league",
-    "scrape_tier_used": 3,
-    "started_at": "2026-10-28T07:18:41.703Z",
-    "completed_at": "2026-10-28T07:18:41.703Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "center-for-architecture",
     "scrape_tier_used": 3,
     "started_at": "2026-10-28T07:19:20.084Z",
@@ -4998,5 +4988,16 @@
     "events_found": 1,
     "events_new": 1,
     "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-11-22T06:39:46.534Z",
+    "completed_at": "2026-11-22T06:39:46.534Z",
+    "events_found": 0,
+    "events_new": 0,
+    "status": "failed",
+    "error": "scraper returned 0 events (site redesigned?)"
   }
 ]

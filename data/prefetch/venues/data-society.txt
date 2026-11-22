@@ -1,6 +1,6 @@
 VENUE:data-society | Data & Society
 URL:https://datasociety.net/
-FETCHED:2026-11-18T06:41:08.968Z
+FETCHED:2026-11-22T06:39:48.389Z
 
 Skip to main content
 Search Search
@@ -72,6 +72,57 @@ Read more [https://datasociety.net/research-library/generative-ais-labor-impacts
 
 THE LATEST FROM DATA & SOCIETY
 
+https://datasociety.net/research-library/a-public-interest-ai-agenda-for-the-incoming-congress/
+
+A PUBLIC INTEREST AI AGENDA FOR THE INCOMING CONGRESS
+
+[https://datasociety.net/research-library/a-public-interest-ai-agenda-for-the-incoming-congress/]
+The results of the midterm elections handed a powerful mandate to an incoming Congress: govern AI in the interest of the public, not tech oligarchs…
+ * government regulation [/research-library/?subject=government-regulation]
+ * accountability [/research-library/?subject=accountability]
+ * AI agents [/research-library/?subject=ai-agents]
+ * * artificial intelligence [/research-library/?subject=artificial-intelligence]
+   * chatbot [/research-library/?subject=chatbot]
+   * data center [/research-library/?subject=data-center]
+   * democracy [/research-library/?subject=democracy]
+   * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
+   * hacking [/research-library/?subject=hacking]
+   * infrastructure [/research-library/?subject=infrastructure]
+   * personal data [/research-library/?subject=personal-data]
+   * privacy [/research-library/?subject=privacy]
+   * public data [/research-library/?subject=public-data]
+   * public policy [/research-library/?subject=public-policy]
+   * scams [/research-library/?subject=scams]
+   * technology industry [/research-library/?subject=technology-industry]
+   * transparency [/research-library/?subject=transparency]
+   * trust [/research-library/?subject=trust]
+
+November 19, 2026
+Points
+https://datasociety.net/news-events/what-if-we-could-rebuild-the-internet/
+
+WHAT IF WE COULD REBUILD THE INTERNET?
+
+[https://datasociety.net/news-events/what-if-we-could-rebuild-the-internet/]
+Britt Paris discusses her years-long research, reflects on the pitfalls and opportunities of existing internet infrastructure, and explores the…
+ * digital infrastructure [/news-events/?subject=digital-infrastructure]
+ * infrastructure [/news-events/?subject=infrastructure]
+ * technology industry [/news-events/?subject=technology-industry]
+
+December 3, 2026
+Event
+https://datasociety.net/research-library/the-ai-factory-data-centers-power-and-resistance-in-late-industrial-pennsylvania/
+
+THE AI FACTORY: DATA CENTERS, POWER, AND RESISTANCE IN LATE INDUSTRIAL PENNSYLVANIA
+
+[https://datasociety.net/research-library/the-ai-factory-data-centers-power-and-resistance-in-late-industrial-pennsylvania/]
+Our research shows that data centers represent a lightning rod issue for broad, diverse communities that desire both prosperity and power.
+ * data center [/research-library/?subject=data-center]
+ * artificial intelligence [/research-library/?subject=artificial-intelligence]
+ * Pennsylvania [/research-library/?subject=pennsylvania]
+
+September 21, 2026
+Report
 https://datasociety.net/research-library/how-ai-civics-can-build-public-power-over-tech/
 
 HOW AI CIVICS CAN BUILD PUBLIC POWER OVER TECH
@@ -86,49 +137,6 @@ Meg Young, Khari Johnson, Sareeta Amrute, Hannah Sassaman, and Justin Hendrix di
 
 October 6, 2026
 Event
-https://datasociety.net/news-events/a-referendum-on-the-tech-industry-our-statement-on-the-midterm-elections/
-
-A REFERENDUM ON THE TECH INDUSTRY: OUR STATEMENT ON THE MIDTERM ELECTIONS
-
-[https://datasociety.net/news-events/a-referendum-on-the-tech-industry-our-statement-on-the-midterm-elections/]
-Through their ballots, Americans spoke out against the industry’s vision of an unstoppable AI-dominated future.
- * democracy [/news-events/?subject=democracy]
- * artificial intelligence [/news-events/?subject=artificial-intelligence]
- * governance of artificial intelligence [/news-events/?subject=governance-of-artificial-intelligence]
- * * government regulation [/news-events/?subject=government-regulation]
-
-November 4, 2026
-News
-https://datasociety.net/research-library/the-questions-litigators-and-enforcers-should-be-asking-tech-companies/
-
-THE QUESTIONS LITIGATORS AND ENFORCERS SHOULD BE ASKING TECH COMPANIES
-
-[https://datasociety.net/research-library/the-questions-litigators-and-enforcers-should-be-asking-tech-companies/]
-To determine where accountability for harm lies, its important for enforcers to understand how the generative AI tech stack operates.
- * law [/research-library/?subject=law]
- * accountability [/research-library/?subject=accountability]
- * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * * technology industry [/research-library/?subject=technology-industry]
-
-November 4, 2026
-Points
-https://datasociety.net/research-library/why-we-are-turning-a-worker-lens-on-the-ai-economy/
-
-WHY WE ARE TURNING A WORKER LENS ON THE AI ECONOMY
-
-[https://datasociety.net/research-library/why-we-are-turning-a-worker-lens-on-the-ai-economy/]
-It is critical to focus on the reality of how AI is playing out for workers: to interrogate in real time how AI is actually impacting them…
- * labor [/research-library/?subject=labor]
- * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * care industry [/research-library/?subject=care-industry]
- * * economic justice [/research-library/?subject=economic-justice]
-   * economy [/research-library/?subject=economy]
-   * future of work [/research-library/?subject=future-of-work]
-   * home care services [/research-library/?subject=home-care-services]
-   * invisible labor [/research-library/?subject=invisible-labor]
-
-September 30, 2026
-Points
 
 ----------------------------------------
 
@@ -301,6 +309,19 @@ Explore full library [https://datasociety.net/research-library/] View Curated Co
 NEWS AND EVENTS
 
 All News and Events [https://datasociety.net/news-events/]
+News
+November 4, 2026
+
+A REFERENDUM ON THE TECH INDUSTRY: OUR STATEMENT ON THE MIDTERM ELECTIONS
+
+[https://datasociety.net/news-events/a-referendum-on-the-tech-industry-our-statement-on-the-midterm-elections/]
+Through their ballots, Americans spoke out against the industry’s vision of an unstoppable AI-dominated future.
+ * artificial intelligence [/news-events/?subject=artificial-intelligence]
+ * democracy [/news-events/?subject=democracy]
+ * governance of artificial intelligence [/news-events/?subject=governance-of-artificial-intelligence]
+ * * government regulation [/news-events/?subject=government-regulation]
+
+https://datasociety.net/news-events/a-referendum-on-the-tech-industry-our-statement-on-the-midterm-elections/
 Audio
 November 6, 2026
 
@@ -323,33 +344,19 @@ Maia Woluchem, program director of Trustworthy Infrastructures discusses why she
  * data center [/research-library/?subject=data-center]
 
 https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/
-Testimony
-October 9, 2026
+Event
+September 28, 2026
 
-TESTIMONY TO NY CITY COUNCIL HEARING: EXAMINING THE RISKS POSED BY AI
+WHO GETS TO DECIDE HOW AI ENTERS OUR SCHOOLS?
 
-[https://datasociety.net/research-library/testimony-to-the-nyc-council-hearing-on-examining-the-risks-posed-by-ai/]
-Policy Director Brian J. Chen urges the City Council to protect New Yorkers from the dangerous and reckless corporate practices currently being perpetrated by leading AI companies.
- * AI agents [/research-library/?subject=ai-agents]
+[https://datasociety.net/research-library/who-gets-to-decide-how-ai-enters-our-schools/]
+We explore how AI's role in classrooms is being shaped in New York City and beyond.
  * artificial intelligence [/research-library/?subject=artificial-intelligence]
- * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
- * * government regulation [/research-library/?subject=government-regulation]
-   * New York City [/research-library/?subject=new-york-city]
-   * technology governance [/research-library/?subject=technology-governance]
-   * technology industry [/research-library/?subject=technology-industry]
+ * education [/research-library/?subject=education]
+ * educational technology [/research-library/?subject=educational-technology]
+ * * young people [/research-library/?subject=young-people]
 
-https://datasociety.net/research-library/testimony-to-the-nyc-council-hearing-on-examining-the-risks-posed-by-ai/
-Congressional letter
-September 17, 2026
-
-LETTER TO CONGRESS ON PACING THE FRONTIER
-
-[https://datasociety.net/research-library/letter-to-congress-on-pacing-the-frontier/]
-Recent incidents concerning rogue AI agents committing cyberattacks have catalyzed a unique moment of political attention on AI safety and regulation. In a letter to Congress, we…
- * accountability [/research-library/?subject=accountability]
- * governance of artificial intelligence [/research-library/?subject=governance-of-artificial-intelligence]
-
-https://datasociety.net/research-library/letter-to-congress-on-pacing-the-frontier/
+https://datasociety.net/research-library/who-gets-to-decide-how-ai-enters-our-schools/
 Previous Next
 
 JOIN US AND DONATE TODAY

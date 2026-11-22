@@ -1,6 +1,6 @@
 VENUE:e-flux | e-flux
 URL:https://www.e-flux.com/live
-FETCHED:2026-11-18T06:41:09.662Z
+FETCHED:2026-11-22T06:39:50.255Z
 
 LoginRegisterForgot password
 Subscribe
@@ -38,23 +38,6 @@ Overview
 e-flux [/]Events [/events]
 Current & UpcomingArchive
 Subscribe
-/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/
-
-Current & Upcoming
-Bar Laika presents Playback 0042 with Chantal Michelle [/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/]
-November 18, 2026, 7pm
-Bar Laika by e-flux
-
-/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/
-
-Current & Upcoming
-
-TELLUS with Paul DeMarinis and "Birdcalls" by Louise Lawler  
-
-[/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/]
-November 19, 2026, 7pm
-e-flux
-Get tickets [https://www.eventbrite.com/e/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler-tickets-2004033514188]
 /events/6783406/what-happened-to-video-art-a-symposium-on-artists-rsquo-moving-images/
 
 Current & Upcoming
@@ -85,25 +68,6 @@ Calendar
 Filter
 Done
 Current & Upcoming
-In-person
-/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/
-
-Bar Laika presents Playback 0042 with Chantal Michelle
-
-[/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/]
-November 18, 2026, 7pm
-Bar Laika by e-flux
-Performances, In-person
-/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/
-
-TELLUS with Paul DeMarinis and "Birdcalls" by Louise Lawler
-
- 
-
-[/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/]
-November 19, 2026, 7pm
-e-flux
-Get tickets [https://www.eventbrite.com/e/tellus-with-paul-demarinis-and-birdcalls-by-louise-lawler-tickets-2004033514188]
 In-person, Symposia, Talks
 /events/6783406/what-happened-to-video-art-a-symposium-on-artists-rsquo-moving-images/
 
@@ -115,6 +79,24 @@ e-flux Screening Room
 RSVP [https://www.eventbrite.com/e/what-happened-to-video-art-a-symposium-on-artists-moving-images-tickets-2004922806084]
 Archive
 
+Performances, In-person
+/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/
+
+TELLUS with Paul DeMarinis and "Birdcalls" by Louise Lawler
+
+ 
+
+[/events/6783402/tellus-with-paul-demarinis-and-birdcalls-by-nbsp-louise-lawler-nbsp/]
+November 19, 2026, 7pm
+e-flux
+In-person
+/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/
+
+Bar Laika presents Playback 0042 with Chantal Michelle
+
+[/events/6783388/bar-laika-presents-playback-0042-with-chantal-michelle/]
+November 18, 2026, 7pm
+Bar Laika by e-flux
 In-person, Screenings, Talks
 /events/6783400/theory-of-seeing/
 
@@ -130,21 +112,5 @@ And the Dogs Were Silent: A Convening by Sharifa Rhodes-Pitts
 
 [/events/6783403/and-the-dogs-were-silent-a-convening-by-sharifa-rhodes-pitts/]
 November 12, 2026, 6pm
-e-flux Screening Room
-In-person, Screenings
-/events/6783397/here-already/
-
-Here, Already
-
-[/events/6783397/here-already/]
-November 10, 2026, 7pm
-e-flux Screening Room
-In-person, Screenings, Talks
-/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/
-
-With an Acre — An Afternoon with the CCA
-
-[/events/6783401/with-an-acre-mdash-an-afternoon-with-the-cca/]
-November 7, 2026, 3pm
 e-flux Screening Room
 Load more
