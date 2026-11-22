@@ -8143,5 +8143,108 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-22T08:31:12.584Z"
+  },
+  {
+    "id": "la-mama-2026-11-27-jump-start-2026",
+    "title": "Jump Start 2026",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-27",
+    "time_start": null,
+    "time_end": null,
+    "description": "Experimental performance festival at La MaMa, running November 27 through 29, 2026.",
+    "url": "https://lamama.org/jump-start-2026/",
+    "price": null,
+    "format": "festival",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:31:24.325Z"
+  },
+  {
+    "id": "la-mama-2026-12-17-allegra-the-cello-in-movements-a-new-ope",
+    "title": "Allegra & the Cello, In Movements, a New Opera",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-12-17",
+    "time_start": "19:30",
+    "time_end": null,
+    "description": "A new opera streamed live from La MaMa on December 17 at 7:30pm Eastern Time.",
+    "url": "https://lamama.org/allegra-the-cello-in-movements/",
+    "price": null,
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:31:24.325Z"
+  },
+  {
+    "id": "index-space-2026-12-03-skill-for-skill",
+    "title": "Skill For Skill",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-12-03",
+    "time_start": null,
+    "time_end": null,
+    "description": "A peer skill-sharing session hosted by Skillhaus at Index Greenpoint.",
+    "url": "https://www.index-space.org/programming/skill-for-skill-evt-QFtATGFzwpJmHq2?view=list",
+    "price": null,
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & creative tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:31:24.338Z"
+  },
+  {
+    "id": "movement-research-2026-12-01-open-performance",
+    "title": "Open Performance",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-12-01",
+    "time_start": null,
+    "time_end": null,
+    "description": "An informal open platform for dance/movement artists to share work-in-progress, presented by Movement Research.",
+    "url": "https://movementresearch.org/events/1458/",
+    "price": null,
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:31:24.353Z"
+  },
+  {
+    "id": "movement-research-2026-12-02-feldenkrais-method-",
+    "title": "Feldenkrais Method®",
+    "venue_id": "movement-research",
+    "venue_name": "Movement Research",
+    "date": "2026-12-02",
+    "time_start": null,
+    "time_end": null,
+    "description": "A weekly somatic movement class taught by Antonio Ramos at Movement Research, running December 2 through 30, 2026.",
+    "url": "https://movementresearch.org/classes/3071/",
+    "price": null,
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:31:24.353Z"
   }
 ]

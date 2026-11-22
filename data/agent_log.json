@@ -1,86 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "e-flux",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:03.756Z",
-    "completed_at": "2026-11-01T07:20:03.756Z",
-    "events_found": 9,
-    "events_new": 6,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "bam",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:03.766Z",
-    "completed_at": "2026-11-01T07:20:03.766Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "light-industry",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:03.778Z",
-    "completed_at": "2026-11-01T07:20:03.778Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "whitney",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:03.795Z",
-    "completed_at": "2026-11-01T07:20:03.795Z",
-    "events_found": 3,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "the-drawing-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:03.804Z",
-    "completed_at": "2026-11-01T07:20:03.804Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "moma-ps1",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:59.070Z",
-    "completed_at": "2026-11-01T07:20:59.070Z",
-    "events_found": 9,
-    "events_new": 9,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "film-forum",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:59.098Z",
-    "completed_at": "2026-11-01T07:20:59.098Z",
-    "events_found": 9,
-    "events_new": 3,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "national-sawdust",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:59.133Z",
-    "completed_at": "2026-11-01T07:20:59.133Z",
-    "events_found": 12,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "issue-project-room",
     "scrape_tier_used": 3,
     "started_at": "2026-11-01T07:20:59.147Z",
@@ -4997,6 +4917,86 @@
     "started_at": "2026-11-22T08:31:12.605Z",
     "completed_at": "2026-11-22T08:31:12.605Z",
     "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "white-columns",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:31:24.297Z",
+    "completed_at": "2026-11-22T08:31:24.297Z",
+    "events_found": 2,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "participant-inc",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:31:24.306Z",
+    "completed_at": "2026-11-22T08:31:24.306Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "recess-art",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:31:24.314Z",
+    "completed_at": "2026-11-22T08:31:24.314Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "amant",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:31:24.322Z",
+    "completed_at": "2026-11-22T08:31:24.322Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "la-mama",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:31:24.336Z",
+    "completed_at": "2026-11-22T08:31:24.336Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "index-space",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:31:24.350Z",
+    "completed_at": "2026-11-22T08:31:24.350Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "movement-research",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:31:24.363Z",
+    "completed_at": "2026-11-22T08:31:24.363Z",
+    "events_found": 3,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "danspace-project",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:31:24.370Z",
+    "completed_at": "2026-11-22T08:31:24.370Z",
+    "events_found": 4,
     "events_new": 0,
     "status": "completed"
   }
