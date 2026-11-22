@@ -1157,7 +1157,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:28:35.503Z"
+    "last_checked": "2026-11-22T08:26:29.188Z"
   },
   {
     "id": "printed-matter",
@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-11-18T08:28:02.401Z"
+    "last_checked": "2026-11-22T08:26:29.241Z"
   },
   {
     "id": "the-shed",
@@ -1310,7 +1310,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:28:02.409Z"
+    "last_checked": "2026-11-22T08:26:29.200Z"
   },
   {
     "id": "mcnally-jackson",
@@ -1653,7 +1653,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:28:02.417Z"
+    "last_checked": "2026-11-22T08:26:29.211Z"
   },
   {
     "id": "bard-graduate-center",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:19:15.800Z"
+    "last_checked": "2026-11-22T08:26:29.220Z"
   },
   {
     "id": "the-stone",
@@ -1895,7 +1895,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:28:02.439Z"
+    "last_checked": "2026-11-22T08:26:29.230Z"
   },
   {
     "id": "franklin-furnace",
@@ -1919,7 +1919,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:28:02.448Z"
+    "last_checked": "2026-11-22T08:26:29.235Z"
   },
   {
     "id": "emily-harvey-foundation",

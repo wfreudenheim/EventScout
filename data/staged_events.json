@@ -7551,5 +7551,142 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-22T08:26:00.874Z"
+  },
+  {
+    "id": "cooper-union-2026-12-04-finnish-cultural-institute-in-new-york-l",
+    "title": "Finnish Cultural Institute in New York Lecture | Paulina Sawczuk: Design as an Encounter — Between Context, Culture and Place",
+    "venue_id": "cooper-union",
+    "venue_name": "Cooper Union",
+    "date": "2026-12-04",
+    "time_start": "12:30",
+    "description": "Lecture by designer Paulina Sawczuk on design as an encounter between context, culture, and place, presented by the Finnish Cultural Institute in New York at Cooper Union.",
+    "url": "https://cooper.edu/events-and-exhibitions/events/finnish-cultural-institute-new-york-lecture-paulina-sawczuk-design",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:29.172Z"
+  },
+  {
+    "id": "architectural-league-2026-12-17-design-work-in-the-city-a-listening-sess",
+    "title": "Design Work in the City: A Listening Session with the Department of Cultural Affairs",
+    "venue_id": "architectural-league",
+    "venue_name": "Architectural League of New York",
+    "date": "2026-12-17",
+    "description": "A listening session with NYC Department of Cultural Affairs Commissioner Diya Vij, organized with the Public Design Alliance, on design work in the city.",
+    "url": "https://archleague.org/event/design-work-in-the-city/",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:29.192Z"
+  },
+  {
+    "id": "nyas-2027-05-06-2027-annual-symposium-for-the-leon-levy-",
+    "title": "2027 Annual Symposium for the Leon Levy Scholarships in Neuroscience",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-05-06",
+    "description": "Hybrid symposium showcasing research from the Leon Levy Scholars in Neuroscience program.",
+    "url": "https://www.nyas.org/shaping-science/events/2027-annual-symposium-for-the-leon-levy-scholarships-in-neuroscience",
+    "price": "free for members",
+    "format": "conference",
+    "interest_score": 4,
+    "tags": [
+      "neuroscience"
+    ],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science",
+      "Neuroscience, AI & Cognitive Science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:29.203Z"
+  },
+  {
+    "id": "nyas-2027-05-13-trust-in-science-and-medicine",
+    "title": "Trust in Science and Medicine",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-05-13",
+    "description": "Hybrid event addressing public trust in science and medicine.",
+    "url": "https://www.nyas.org/shaping-science/events/trust-in-science-and-medicine",
+    "price": "free for members",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Science & technology studies"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:29.203Z"
+  },
+  {
+    "id": "nyas-2027-06-10-reimagining-neurodegeneration-treatments",
+    "title": "Reimagining Neurodegeneration Treatments: Unraveling Proteinopathy and Neuroimmune Signaling",
+    "venue_id": "nyas",
+    "venue_name": "New York Academy of Sciences",
+    "date": "2027-06-10",
+    "description": "Hybrid scientific session on new approaches to neurodegeneration treatment, covering proteinopathy and neuroimmune signaling.",
+    "url": "https://www.nyas.org/shaping-science/events/reimagining-neurodegeneration-treatments",
+    "price": "free for members",
+    "format": "conference",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:29.203Z"
+  },
+  {
+    "id": "bard-graduate-center-2026-12-17-gallery-tour-goddesses-in-the-machine-fa",
+    "title": "Gallery Tour: Goddesses in the Machine: Fashion...",
+    "venue_id": "bard-graduate-center",
+    "venue_name": "Bard Graduate Center",
+    "date": "2026-12-17",
+    "description": "Guided gallery tour of the exhibition \"Goddesses in the Machine: Fashion...\" at Bard Graduate Center.",
+    "url": "https://www.bgc.bard.edu/events/1656/17-dec-2026-gallery-tour",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:29.215Z"
+  },
+  {
+    "id": "center-for-book-arts-2026-11-23-relief-printing-anywhere",
+    "title": "Relief Printing Anywhere",
+    "venue_id": "center-for-book-arts",
+    "venue_name": "Center for Book Arts",
+    "date": "2026-11-23",
+    "time_start": "18:00",
+    "time_end": "20:00",
+    "description": "Virtual printmaking workshop series on relief printing techniques that can be done anywhere, taught by Beth Sheehan; runs Mondays November 23-30.",
+    "url": "https://shop.centerforbookarts.org/products/26fpm012v",
+    "price": "pay-what-you-can (suggested $80)",
+    "format": "workshop",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Hackerspaces & creative tech"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:29.223Z"
   }
 ]

@@ -1,76 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "bam",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.330Z",
-    "completed_at": "2026-11-01T07:19:24.330Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "japan-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.348Z",
-    "completed_at": "2026-11-01T07:19:24.348Z",
-    "events_found": 2,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "mcnally-jackson",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.364Z",
-    "completed_at": "2026-11-01T07:19:24.364Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "helix-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.374Z",
-    "completed_at": "2026-11-01T07:19:24.374Z",
-    "events_found": 1,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "printed-matter",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.388Z",
-    "completed_at": "2026-11-01T07:19:24.388Z",
-    "events_found": 6,
-    "events_new": 2,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "sfpc",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:46.503Z",
-    "completed_at": "2026-11-01T07:19:46.503Z",
-    "events_found": 9,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "simons-foundation",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:46.522Z",
-    "completed_at": "2026-11-01T07:19:46.522Z",
-    "events_found": 3,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "center-for-architecture",
     "scrape_tier_used": 3,
     "started_at": "2026-11-01T07:19:46.533Z",
@@ -4997,6 +4927,76 @@
     "started_at": "2026-11-22T08:26:00.889Z",
     "completed_at": "2026-11-22T08:26:00.889Z",
     "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "cooper-union",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:26:29.190Z",
+    "completed_at": "2026-11-22T08:26:29.190Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "architectural-league",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:26:29.201Z",
+    "completed_at": "2026-11-22T08:26:29.201Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyas",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:26:29.212Z",
+    "completed_at": "2026-11-22T08:26:29.212Z",
+    "events_found": 4,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "bard-graduate-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:26:29.221Z",
+    "completed_at": "2026-11-22T08:26:29.221Z",
+    "events_found": 3,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "center-for-book-arts",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:26:29.231Z",
+    "completed_at": "2026-11-22T08:26:29.231Z",
+    "events_found": 4,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "franklin-furnace",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:26:29.236Z",
+    "completed_at": "2026-11-22T08:26:29.236Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "printed-matter",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:26:29.242Z",
+    "completed_at": "2026-11-22T08:26:29.242Z",
+    "events_found": 8,
     "events_new": 0,
     "status": "completed"
   }
