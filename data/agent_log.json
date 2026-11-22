@@ -1,66 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "la-mama",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:13:17.094Z",
-    "completed_at": "2026-11-01T07:13:17.094Z",
-    "events_found": 4,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "sculpture-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:13:17.111Z",
-    "completed_at": "2026-11-01T07:13:17.111Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "anthology-film-archives",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:13:17.127Z",
-    "completed_at": "2026-11-01T07:13:17.127Z",
-    "events_found": 5,
-    "events_new": 4,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "the-drawing-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:13:17.145Z",
-    "completed_at": "2026-11-01T07:13:17.145Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "japan-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:13:17.157Z",
-    "completed_at": "2026-11-01T07:13:17.157Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "museum-of-moving-image",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.101Z",
-    "completed_at": "2026-11-01T07:19:24.101Z",
-    "events_found": 12,
-    "events_new": 9,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "abrons-arts-center",
     "scrape_tier_used": 3,
     "started_at": "2026-11-01T07:19:24.116Z",
@@ -4998,6 +4938,66 @@
     "completed_at": "2026-11-22T08:20:22.835Z",
     "events_found": 1,
     "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "world-music-institute",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:20:55.516Z",
+    "completed_at": "2026-11-22T08:20:55.516Z",
+    "events_found": 11,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "anthology-film-archives",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:20:55.532Z",
+    "completed_at": "2026-11-22T08:20:55.532Z",
+    "events_found": 12,
+    "events_new": 3,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "issue-project-room",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:20:55.539Z",
+    "completed_at": "2026-11-22T08:20:55.539Z",
+    "events_found": 3,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "e-flux",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:20:55.548Z",
+    "completed_at": "2026-11-22T08:20:55.548Z",
+    "events_found": 1,
+    "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "light-industry",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:20:55.554Z",
+    "completed_at": "2026-11-22T08:20:55.554Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "simons-foundation",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:20:55.563Z",
+    "completed_at": "2026-11-22T08:20:55.563Z",
+    "events_found": 3,
+    "events_new": 1,
     "status": "completed"
   }
 ]

@@ -7087,5 +7087,177 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-22T08:20:22.804Z"
+  },
+  {
+    "id": "world-music-institute-2027-03-25-farah-siraj",
+    "title": "Farah Siraj",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-03-25",
+    "time_start": "19:30",
+    "description": "Jordanian singer-songwriter Farah Siraj performs at DROM, blending Arabic maqam, flamenco, and jazz influences.",
+    "url": "https://www.worldmusicinstitute.org/mielylimondrom/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [
+      "flamenco",
+      "maqam"
+    ],
+    "matched_categories": [
+      "World music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:55.501Z"
+  },
+  {
+    "id": "world-music-institute-2027-04-17-revolve-festival",
+    "title": "Revolve Festival",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-04-17",
+    "time_start": "20:00",
+    "description": "A world-music festival presented by World Music Institute at The Sultan Room; specific lineup details were not listed on the page.",
+    "url": "https://www.worldmusicinstitute.org/revolve_20270417/",
+    "format": "festival",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:55.501Z"
+  },
+  {
+    "id": "world-music-institute-2027-04-30-leo-middea",
+    "title": "Leo Middea",
+    "venue_id": "world-music-institute",
+    "venue_name": "World Music Institute",
+    "date": "2027-04-30",
+    "time_start": "19:30",
+    "description": "Brazilian singer-multi-instrumentalist Leo Middea performs at Webster Hall, presented by World Music Institute.",
+    "url": "https://www.worldmusicinstitute.org/leo-middea-at-webster-hall/",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [
+      "world-music"
+    ],
+    "matched_categories": [
+      "World music & global traditions",
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:55.501Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-23-portrait-studies",
+    "title": "Portrait Studies",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-23",
+    "time_start": "18:30",
+    "description": "Another entry in Anthology's repertory series on cinematic portraiture.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62300",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:55.521Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-24-dynamic-portraits",
+    "title": "Dynamic Portraits",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-24",
+    "time_start": "18:45",
+    "description": "Another entry in Anthology's repertory series on cinematic portraiture.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62306",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:55.522Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-24-portraits-of-the-artist",
+    "title": "Portraits of the Artist",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-24",
+    "time_start": "20:30",
+    "description": "Another entry in Anthology's repertory series on cinematic portraiture, focused on filmmaker/artist self-representation.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62309",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & cinema — repertory, experimental",
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:55.522Z"
+  },
+  {
+    "id": "e-flux-2026-12-05-what-happened-to-video-art-a-symposium-o",
+    "title": "What Happened to Video Art?: A Symposium on Artists' Moving Images",
+    "venue_id": "e-flux",
+    "venue_name": "e-flux",
+    "date": "2026-12-05",
+    "time_start": "12:00",
+    "description": "e-flux hosts an international symposium examining the trajectory of video art as an artists' moving-image medium, with talks and screenings organized with e-flux's collaborators.",
+    "url": "https://www.e-flux.com/events/6783406/what-happened-to-video-art-a-symposium-on-artists-rsquo-moving-images/",
+    "format": "talk",
+    "interest_score": 5,
+    "tags": [
+      "video-art",
+      "moving-image"
+    ],
+    "matched_categories": [
+      "Experimental animation, video art, moving image, game engine cinema",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:55.541Z"
+  },
+  {
+    "id": "simons-foundation-2026-12-09-from-the-body-to-the-brain-understanding",
+    "title": "From the Body to the Brain: Understanding Sensory Differences in Autism",
+    "venue_id": "simons-foundation",
+    "venue_name": "Simons Foundation",
+    "date": "2026-12-09",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "description": "A Presidential Lecture by neuroscientist Lauren Orefice on the neural and sensory mechanisms underlying sensory processing differences in autism.",
+    "url": "https://www.simonsfoundation.org/events/from-the-body-to-the-brain-understanding-sensory-differences-in-autism/",
+    "price": "free",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Neuroscience, AI, cognitive science, brain-computer interfaces"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:20:55.556Z"
   }
 ]
