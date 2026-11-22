@@ -1,46 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "abrons-arts-center",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.116Z",
-    "completed_at": "2026-11-01T07:19:24.116Z",
-    "events_found": 2,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "asia-society",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.145Z",
-    "completed_at": "2026-11-01T07:19:24.145Z",
-    "events_found": 10,
-    "events_new": 5,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "barbes",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.172Z",
-    "completed_at": "2026-11-01T07:19:24.172Z",
-    "events_found": 12,
-    "events_new": 11,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
-    "target_id": "performance-space-ny",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:19:24.199Z",
-    "completed_at": "2026-11-01T07:19:24.199Z",
-    "events_found": 1,
-    "events_new": 1,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "drom",
     "scrape_tier_used": 3,
     "started_at": "2026-11-01T07:19:24.209Z",
@@ -4998,6 +4958,46 @@
     "completed_at": "2026-11-22T08:20:55.563Z",
     "events_found": 3,
     "events_new": 1,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "wonderville",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:24:27.245Z",
+    "completed_at": "2026-11-22T08:24:27.245Z",
+    "events_found": 8,
+    "events_new": 2,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "nyu-game-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:24:27.251Z",
+    "completed_at": "2026-11-22T08:24:27.251Z",
+    "events_found": 1,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "abrons-arts-center",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:24:27.256Z",
+    "completed_at": "2026-11-22T08:24:27.256Z",
+    "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "aggregator-agent",
+    "target_id": "summerstage",
+    "scrape_tier_used": 3,
+    "started_at": "2026-11-22T08:24:27.261Z",
+    "completed_at": "2026-11-22T08:24:27.261Z",
+    "events_found": 1,
+    "events_new": 0,
     "status": "completed"
   }
 ]

@@ -7259,5 +7259,44 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-22T08:20:55.556Z"
+  },
+  {
+    "id": "wonderville-2026-11-30-the-fort90-broadcast-system-presents-for",
+    "title": "the FORT90 BROADCAST SYSTEM presents: FORT90 TV",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-11-30",
+    "time_start": "20:00",
+    "description": "A live broadcast-style variety show night from the FORT90 collective, blending media and performance at Wonderville's arcade space.",
+    "url": "https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-30-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Art & technology, generative art, creative coding, new media, interactive installation"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:24:27.232Z"
+  },
+  {
+    "id": "wonderville-2026-12-01-rhythm-dance-games-night",
+    "title": "Rhythm & Dance Games Night",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-12-01",
+    "time_start": "19:00",
+    "time_end": "23:00",
+    "description": "A night dedicated to rhythm and dance arcade games at Wonderville.",
+    "url": "https://www.wonderville.nyc/events/rhythm-dance-games-night-12-1-26",
+    "format": "other",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Games & interactive art, game design, VR/AR"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:24:27.232Z"
   }
 ]
