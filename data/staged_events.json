@@ -7444,5 +7444,112 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-22T08:25:16.684Z"
+  },
+  {
+    "id": "roulette-2026-12-10-darmstadt-at-80-festival-mivos-quartet-p",
+    "title": "Darmstadt at 80 Festival: Mivos Quartet Plays Rebecca Saunders and Herbert Brün // GBSR Duo // Yaron Deutsch",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-10",
+    "time_start": "20:00",
+    "description": "Two evenings bring together artists representing the radical spirit that continues to shape the landscape of contemporary music, marking 80 years of the Darmstadt new-music tradition.",
+    "url": "https://roulette.org/event/darmstadt-at-80-festival-mivos-quartet-rebecca-saunders-herbert-brun-yaron-deutsch-gbsr-duo/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:00.847Z"
+  },
+  {
+    "id": "roulette-2026-12-11-darmstadt-at-80-festival-international-c",
+    "title": "Darmstadt at 80 Festival: International Contemporary Ensemble x Tri-Centric Plays Anthony Braxton's Thunder Music // GBSR Duo Plays Stockhausen's Kontakte",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-11",
+    "time_start": "20:00",
+    "description": "Two evenings bring together artists representing the radical spirit that continues to shape the landscape of contemporary music, featuring Anthony Braxton's systems-based composition and Stockhausen's landmark electronic/percussion work Kontakte.",
+    "url": "https://roulette.org/event/darmstadt-at-80-international-contemporary-ensemble-x-tri-centric-anthony-braxtons-thunder-music/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [
+      "landscape"
+    ],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth",
+      "Philosophy, critical theory, media theory, cybernetics, posthumanism",
+      "Climate & Environment"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:00.848Z"
+  },
+  {
+    "id": "roulette-2026-12-12-bill-frisell-solo-a-concert-to-benefit-r",
+    "title": "Bill Frisell Solo: A Concert to Benefit Roulette",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-12",
+    "time_start": "20:00",
+    "description": "Legendary guitarist and composer Bill Frisell, a longtime Roulette regular, returns for a solo set benefiting the venue.",
+    "url": "https://roulette.org/event/a-concert-to-benefit-roulette-bill-frisell/",
+    "price": "varies",
+    "format": "music",
+    "interest_score": 2,
+    "tags": [],
+    "matched_categories": [
+      "Experimental music, electronic music, sound art, noise, modular synth"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:00.848Z"
+  },
+  {
+    "id": "national-sawdust-2027-01-12-inside-prototype-2027-a-conversation-wit",
+    "title": "Inside PROTOTYPE 2027—A Conversation with OperaWire",
+    "venue_id": "national-sawdust",
+    "venue_name": "National Sawdust",
+    "date": "2027-01-12",
+    "time_start": "19:30",
+    "description": "A season preview celebrating the launch of PROTOTYPE 2027, featuring intimate performances and conversations with composers, performers, and creative teams about the stories behind the festival's new works.",
+    "url": "https://www.nationalsawdust.org/event/inside-prototype-2027--a-conversation-with-operawire",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary art (general)"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:00.864Z"
+  },
+  {
+    "id": "center-for-architecture-2026-11-28-walking-tour-two-squares-union-to-madiso",
+    "title": "Walking Tour: Two Squares (Union to Madison)",
+    "venue_id": "center-for-architecture",
+    "venue_name": "Center for Architecture / AIA New York",
+    "date": "2026-11-28",
+    "time_start": "10:30",
+    "time_end": "12:30",
+    "description": "A walking tour tracing 65 years of political and economic history (from 1865 onward) captured in New York City's urban texture, from 14th to 26th Street between Union Square and Madison Square.",
+    "url": "https://calendar.aiany.org/2026/11/28/walking-tour-two-squares-union-to-madison-8/",
+    "format": "walk",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Architecture & urbanism"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-22T08:26:00.874Z"
   }
 ]

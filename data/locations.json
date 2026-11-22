@@ -272,7 +272,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-22T08:19:15.870Z"
+    "last_checked": "2026-11-22T08:26:00.871Z"
   },
   {
     "id": "issue-project-room",
@@ -330,7 +330,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:28:35.481Z"
+    "last_checked": "2026-11-22T08:26:00.860Z"
   },
   {
     "id": "knockdown-center",
@@ -591,7 +591,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:27:46.524Z"
+    "last_checked": "2026-11-22T08:26:00.888Z"
   },
   {
     "id": "light-industry",
@@ -904,7 +904,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-18T08:28:35.489Z"
+    "last_checked": "2026-11-22T08:26:00.882Z"
   },
   {
     "id": "bitforms",
