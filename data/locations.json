@@ -1182,7 +1182,7 @@
     "added_by": "manual",
     "status": "active",
     "scrape_notes": "Audit 2026-07: direct node fetch fails (TLS/DNS). Try WebFetch; if that fails too, find alternate source.",
-    "last_checked": "2026-11-22T08:26:29.241Z"
+    "last_checked": "2026-11-25T08:21:28.518Z"
   },
   {
     "id": "the-shed",
@@ -1310,7 +1310,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:26:29.200Z"
+    "last_checked": "2026-11-25T08:21:28.528Z"
   },
   {
     "id": "mcnally-jackson",
@@ -1653,7 +1653,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:26:29.211Z"
+    "last_checked": "2026-11-25T08:21:28.533Z"
   },
   {
     "id": "bard-graduate-center",
@@ -1678,7 +1678,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:26:29.220Z"
+    "last_checked": "2026-11-25T08:21:28.539Z"
   },
   {
     "id": "the-stone",
@@ -1895,7 +1895,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:26:29.230Z"
+    "last_checked": "2026-11-25T08:21:28.543Z"
   },
   {
     "id": "franklin-furnace",
