@@ -7728,5 +7728,140 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-25T08:22:59.375Z"
+  },
+  {
+    "id": "la-mama-2026-11-27-mirrored-pool",
+    "title": "Mirrored Pool",
+    "venue_id": "la-mama",
+    "venue_name": "La MaMa",
+    "date": "2026-11-27",
+    "description": "An experimental performance work at La MaMa running November 27–29, 2026.",
+    "url": "https://lamama.org/mirrored-pool/",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:27:36.766Z"
+  },
+  {
+    "id": "index-space-2026-12-06-breaking-walled-gardens",
+    "title": "Breaking Walled Gardens",
+    "venue_id": "index-space",
+    "venue_name": "Index Space",
+    "date": "2026-12-06",
+    "description": "A discussion/program at Index Greenpoint about closed digital platforms and open alternatives.",
+    "url": "https://www.index-space.org/programming/breaking-walled-gardens-evt-x2nKhq1Bp5aRsaP?view=list",
+    "format": "talk",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Art & Technology",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:27:36.786Z"
+  },
+  {
+    "id": "danspace-project-2027-01-14-malcolm-x-betts-fly-baby-fly",
+    "title": "Malcolm-X Betts: Fly Baby Fly",
+    "venue_id": "danspace-project",
+    "venue_name": "Danspace Project",
+    "date": "2027-01-14",
+    "description": "A new dance work by Malcolm-X Betts presented site-specifically at St. Mark's Church, running January 14–23, 2027.",
+    "url": "https://danspaceproject.org/calendar/ws2027-betts/",
+    "format": "performance",
+    "interest_score": 5,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:27:36.801Z"
+  },
+  {
+    "id": "drom-2026-11-29-susan-mckeown",
+    "title": "Susan McKeown",
+    "venue_id": "drom",
+    "venue_name": "DROM",
+    "date": "2026-11-29",
+    "time_start": "18:30",
+    "description": "Grammy-winning Irish folk artist Susan McKeown performs live, bringing a powerful, soulful voice in a night of deep folk music.",
+    "url": "https://dromnyc.com/event/susan-mckeown-2/",
+    "format": "music",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "World Music & Global Traditions"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:27:37.236Z"
+  },
+  {
+    "id": "film-forum-2026-11-26-the-flowers-of-st-francis-introduced-by-",
+    "title": "THE FLOWERS OF ST. FRANCIS — Introduced by Isabella and Tomasso Rossellini",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-26",
+    "time_start": "16:45",
+    "description": "A screening of Roberto Rossellini's 1950 film, part of the Rossellini 120 retrospective, introduced in person by his children Isabella and Tomasso Rossellini.",
+    "url": "https://filmforum.org/events/event/the-flowers-of-st-francis-november-26",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:27:37.263Z"
+  },
+  {
+    "id": "film-forum-2026-11-29-when-caesar-was-king-post-event-conversa",
+    "title": "WHEN CAESAR WAS KING — Post-Event Conversation",
+    "venue_id": "film-forum",
+    "venue_name": "Film Forum",
+    "date": "2026-11-29",
+    "time_start": "15:30",
+    "description": "A special screening on the comedy genius of Sid Caesar, followed by a post-event conversation with Sid Caesar biographer David Margolick and Film Forum's Bruce Goldstein.",
+    "url": "https://filmforum.org/film/when-caesar-was-king-2026",
+    "price": "$18",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:27:37.263Z"
+  },
+  {
+    "id": "whitney-2026-11-25-exhibition-tour-the-lost-world-the-art-o",
+    "title": "Exhibition Tour: The Lost World: The Art of Minnie Evans",
+    "venue_id": "whitney",
+    "venue_name": "Whitney Museum of American Art",
+    "date": "2026-11-25",
+    "time_start": "14:00",
+    "description": "A free guided tour of The Lost World: The Art of Minnie Evans, a self-taught visionary artist, on Floor 8 of the Whitney. Recurs regularly in the museum's daily schedule.",
+    "url": "https://whitney.org/events/minnie-evans-tour",
+    "price": "free",
+    "format": "tour",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:27:37.291Z"
   }
 ]

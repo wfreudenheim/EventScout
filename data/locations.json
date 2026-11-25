@@ -176,7 +176,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-22T08:31:12.592Z"
+    "last_checked": "2026-11-25T08:27:37.273Z"
   },
   {
     "id": "anthology-film-archives",
@@ -672,7 +672,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-22T08:31:08.660Z"
+    "last_checked": "2026-11-25T08:27:37.298Z"
   },
   {
     "id": "the-drawing-center",
@@ -2791,7 +2791,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:24.291Z"
+    "last_checked": "2026-11-25T08:27:36.738Z"
   },
   {
     "id": "participant-inc",
@@ -2815,7 +2815,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:24.304Z"
+    "last_checked": "2026-11-25T08:27:36.748Z"
   },
   {
     "id": "recess-art",
@@ -2839,7 +2839,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:24.312Z"
+    "last_checked": "2026-11-25T08:27:36.755Z"
   },
   {
     "id": "amant",
@@ -2863,7 +2863,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:24.321Z"
+    "last_checked": "2026-11-25T08:27:36.763Z"
   },
   {
     "id": "culturehub",
@@ -2910,7 +2910,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:24.334Z"
+    "last_checked": "2026-11-25T08:27:36.782Z"
   },
   {
     "id": "harvestworks",
@@ -2981,7 +2981,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:24.348Z"
+    "last_checked": "2026-11-25T08:27:36.792Z"
   },
   {
     "id": "babycastles",
@@ -3100,7 +3100,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:24.362Z"
+    "last_checked": "2026-11-25T08:27:36.798Z"
   },
   {
     "id": "danspace-project",
@@ -3123,7 +3123,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:24.369Z"
+    "last_checked": "2026-11-25T08:27:36.806Z"
   },
   {
     "id": "chocolate-factory",
@@ -3170,7 +3170,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:12.549Z"
+    "last_checked": "2026-11-25T08:27:37.287Z"
   },
   {
     "id": "the-brick",
@@ -3242,7 +3242,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-18T08:27:44.749Z"
+    "last_checked": "2026-11-25T08:27:37.280Z"
   },
   {
     "id": "canyon",
@@ -3392,7 +3392,7 @@
     "relevance_score": 3.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:31:12.560Z"
+    "last_checked": "2026-11-25T08:27:37.254Z"
   },
   {
     "id": "summerstage",
