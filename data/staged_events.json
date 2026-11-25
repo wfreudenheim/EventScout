@@ -7534,5 +7534,135 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-25T08:16:05.431Z"
+  },
+  {
+    "id": "bisr-2026-12-04-occasional-evening-who-are-you-polly-mag",
+    "title": "Occasional Evening: Who Are You, Polly Maggoo? — a Screening and Discussion",
+    "venue_id": "bisr",
+    "venue_name": "Brooklyn Institute for Social Research",
+    "date": "2026-12-04",
+    "time_start": "19:00",
+    "time_end": "21:30",
+    "description": "A screening of William Klein's 1966 satirical fashion-world film followed by a discussion, part of BISR's Occasional Evenings series pairing film with critical commentary.",
+    "url": "https://thebrooklyninstitute.com/items/events/occasional-evening-who-are-you-polly-maggoo-a-screening-and-discussion/",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Film & Cinema",
+      "Philosophy & Critical Theory"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:17:48.691Z"
+  },
+  {
+    "id": "culturehub-2026-12-02-gan-dissolved-in-what-we-love",
+    "title": "GAN 間: Dissolved in What We Love",
+    "venue_id": "culturehub",
+    "venue_name": "CultureHub",
+    "date": "2026-12-02",
+    "description": "Young artists from Seoul and New York present a performance/installation asking what shame is dissolved in the Korean beauty standards we take pride in, exploring identity and cultural critique through emerging media.",
+    "url": "https://www.culturehub.org/events/gan-dissolved-in-what-we-love",
+    "format": "performance",
+    "interest_score": 3,
+    "tags": [
+      "installation"
+    ],
+    "matched_categories": [
+      "Contemporary Art",
+      "Art & Technology",
+      "Language & Culture"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:17:48.705Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-25-zorn-iii",
+    "title": "ZORN III",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-25",
+    "time_start": "18:45",
+    "description": "The concluding part of a multi-part experimental/structural film work screened across several evenings at Anthology Film Archives.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62203",
+    "format": "screening",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:17:48.719Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-28-portraits-of-the-artist",
+    "title": "PORTRAITS OF THE ARTIST",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-28",
+    "time_start": "18:00",
+    "description": "A program in Anthology's avant-garde Portraits series, screening experimental films depicting artists through the portrait film form.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62310",
+    "format": "screening",
+    "interest_score": 3.8,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Contemporary Art",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:17:48.719Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-29-dynamic-portraits",
+    "title": "DYNAMIC PORTRAITS",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-29",
+    "time_start": "19:30",
+    "description": "A program in Anthology's avant-garde Portraits series, screening experimental films exploring movement and embodiment through portraiture.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62307",
+    "format": "screening",
+    "interest_score": 3.8,
+    "tags": [
+      "experimental-film"
+    ],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:17:48.718Z"
+  },
+  {
+    "id": "anthology-film-archives-2026-11-25-family-portraits",
+    "title": "FAMILY PORTRAITS",
+    "venue_id": "anthology-film-archives",
+    "venue_name": "Anthology Film Archives",
+    "date": "2026-11-25",
+    "time_start": "18:30",
+    "description": "A program in Anthology's avant-garde Portraits series, screening experimental short films exploring family relationships through the portrait film form.",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62312",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [
+      "short-film"
+    ],
+    "matched_categories": [
+      "Film & Cinema",
+      "Experimental Animation & Moving Image"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:17:48.719Z"
   }
 ]

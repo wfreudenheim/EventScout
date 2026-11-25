@@ -31,7 +31,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:13:49.338Z",
+    "last_checked": "2026-11-25T08:17:21.999Z",
     "scrape_tier": 1,
     "structured_source": "https://www.eventbrite.com/d/ny--new-york/pioneer-works/",
     "generated_scraper": null
@@ -209,7 +209,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-22T08:20:55.531Z"
+    "last_checked": "2026-11-25T08:17:48.734Z"
   },
   {
     "id": "spectacle-theater",
@@ -301,7 +301,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-22T08:20:55.538Z"
+    "last_checked": "2026-11-25T08:17:21.967Z"
   },
   {
     "id": "roulette",
@@ -473,7 +473,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-22T08:20:55.547Z"
+    "last_checked": "2026-11-25T08:17:21.975Z"
   },
   {
     "id": "artists-space",
@@ -615,7 +615,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-22T08:20:55.553Z"
+    "last_checked": "2026-11-25T08:17:21.981Z"
   },
   {
     "id": "union-docs",
@@ -874,7 +874,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-22T08:20:55.562Z"
+    "last_checked": "2026-11-25T08:17:21.987Z"
   },
   {
     "id": "center-for-architecture",
@@ -933,7 +933,7 @@
     "scrape_tier": 3,
     "structured_source": null,
     "generated_scraper": null,
-    "last_checked": "2026-11-15T08:20:26.923Z"
+    "last_checked": "2026-11-25T08:17:21.993Z"
   },
   {
     "id": "microscope-gallery",
@@ -1823,7 +1823,7 @@
     "relevance_score": 4,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:20:22.798Z"
+    "last_checked": "2026-11-25T08:17:22.005Z"
   },
   {
     "id": "montez-press-radio",
@@ -2554,7 +2554,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-15T08:16:05.917Z"
+    "last_checked": "2026-11-25T08:17:48.700Z"
   },
   {
     "id": "brooklyn-rail",
@@ -2887,7 +2887,7 @@
     "relevance_score": 4.5,
     "added_by": "manual",
     "status": "active",
-    "last_checked": "2026-11-22T08:19:02.568Z"
+    "last_checked": "2026-11-25T08:17:48.715Z"
   },
   {
     "id": "la-mama",
