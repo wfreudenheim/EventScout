@@ -7456,5 +7456,83 @@
     "source_agent": "aggregator:inbox",
     "status": "staged",
     "discovered_at": "2026-11-25T08:12:04.023Z"
+  },
+  {
+    "id": "filmmakers-coop-2026-12-01-internal-external-travelogues",
+    "title": "Internal / External Travelogues",
+    "venue_id": "filmmakers-coop",
+    "venue_name": "Film-Makers' Cooperative",
+    "date": "2026-12-01",
+    "time_start": "19:00",
+    "description": "Guest curator Carter Haskins presents a rare 16mm screening of Stan Brakhage's UNCONSCIOUS LONDON STRATA, CITY STREAMING, and THE LOST FILMS.",
+    "url": "https://film-makerscoop.com/screenings/internal-external-travelogues",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:16:05.382Z"
+  },
+  {
+    "id": "maysles-documentary-center-2026-12-07-west-side-familia",
+    "title": "WEST SIDE FAMILIA",
+    "venue_id": "maysles-documentary-center",
+    "venue_name": "Maysles Documentary Center",
+    "date": "2026-12-07",
+    "description": "Documentary screening at Maysles Documentary Center.",
+    "url": "https://www.maysles.org/calendar/west-side-familia",
+    "format": "screening",
+    "interest_score": 2.1,
+    "tags": [
+      "documentary"
+    ],
+    "matched_categories": [
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:16:05.398Z"
+  },
+  {
+    "id": "millennium-film-workshop-2026-11-28-the-personal-cinema-of-dylan-mars-greenb",
+    "title": "The Personal Cinema of Dylan Mars Greenberg",
+    "venue_id": "millennium-film-workshop",
+    "venue_name": "Millennium Film Workshop",
+    "date": "2026-11-28",
+    "time_start": "20:00",
+    "description": "Screening of experimental, personal-cinema works by filmmaker Dylan Mars Greenberg at Millennium Film Workshop. Doors at 7:30pm, films at 8:00pm.",
+    "format": "screening",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Experimental Animation & Moving Image",
+      "Film & Cinema"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:16:05.419Z"
+  },
+  {
+    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
+    "title": "Gen'ichirō Inokuma's NYC Salon",
+    "venue_id": "japan-society",
+    "venue_name": "Japan Society",
+    "date": "2026-10-06",
+    "description": "Exhibition of works by Japanese painter Gen'ichirō Inokuma exploring his decades living and working in New York City, including objects from his personal collection on loan from MIMOCA. On view through January 10, 2027.",
+    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
+    "price": "$20 ($15 students/seniors, free for members)",
+    "format": "gallery",
+    "interest_score": 3,
+    "tags": [],
+    "matched_categories": [
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:16:05.431Z"
   }
 ]
