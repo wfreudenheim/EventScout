@@ -7664,5 +7664,69 @@
     "source_agent": "aggregator:web-sweep",
     "status": "staged",
     "discovered_at": "2026-11-25T08:17:48.719Z"
+  },
+  {
+    "id": "wonderville-2026-12-06-creative-media-technology-student-showca",
+    "title": "Creative Media & Technology Student Showcase",
+    "venue_id": "wonderville",
+    "venue_name": "Wonderville",
+    "date": "2026-12-06",
+    "time_start": "14:30",
+    "time_end": "17:30",
+    "description": "A student showcase of creative media and technology projects at Wonderville, spanning interactive art, game design, and new media work.",
+    "url": "https://www.wonderville.nyc/events/creative-media-technology-student-showcase-12-6-26",
+    "format": "gallery",
+    "interest_score": 3.1,
+    "tags": [
+      "new-media",
+      "game-design",
+      "interactive-art"
+    ],
+    "matched_categories": [
+      "Art & Technology",
+      "Games & Interactive"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:22:26.269Z"
+  },
+  {
+    "id": "moma-ps1-2027-04-15-school-nite",
+    "title": "School Nite",
+    "venue_id": "moma-ps1",
+    "venue_name": "MoMA PS1",
+    "date": "2027-04-15",
+    "description": "MoMA PS1's after-hours music series spotlighting digital, internet-based, and underground acts, with live performances and after-hours gallery access; running through April 15, 2027.",
+    "url": "https://www.momaps1.org/en/programs/889-school-nite",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music",
+      "Contemporary Art"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:22:26.302Z"
+  },
+  {
+    "id": "roulette-2026-12-17-ka-baird-chris-ryan-williams-enthalpy-re",
+    "title": "Ka Baird & Chris Ryan Williams \"Enthalpy\" Record Release // Leila Bordreuil & Luke Stewart",
+    "venue_id": "roulette",
+    "venue_name": "Roulette",
+    "date": "2026-12-17",
+    "time_start": "20:00",
+    "description": "Ka Baird and Chris Ryan Williams celebrate their first duo album on Outside Time Records, opened by an improvised cello and bass duo from Leila Bordreuil and Luke Stewart.",
+    "url": "https://roulette.org/event/ka-baird-chris-ryan-williams-leila-bordreuil-luke-stewart/",
+    "price": "$25",
+    "format": "music",
+    "interest_score": 4,
+    "tags": [],
+    "matched_categories": [
+      "Sound & Music"
+    ],
+    "source_agent": "aggregator:web-sweep",
+    "status": "staged",
+    "discovered_at": "2026-11-25T08:22:59.375Z"
   }
 ]
