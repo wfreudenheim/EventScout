@@ -10062,5 +10062,293 @@
     "date": "2026-11-21T16:56:37.000Z",
     "file": "data/inbox/1258-the-watcher-in-the-attic.html",
     "processed": true
+  },
+  {
+    "uid": 1259,
+    "from": "\"Flushing Town Hall\" <boxoffice@flushingtownhall.ccsend.com>",
+    "subject": "Gather around now friends...",
+    "date": "2026-11-22T15:30:40.000Z",
+    "file": "data/inbox/1259-gather-around-now-friends.html",
+    "processed": false
+  },
+  {
+    "uid": 1260,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "The Little Mermaid",
+    "date": "2026-11-22T15:58:13.000Z",
+    "file": "data/inbox/1260-the-little-mermaid.html",
+    "processed": false
+  },
+  {
+    "uid": 1261,
+    "from": "\"Terraza7\" <info@terraza7.com>",
+    "subject": "Upcoming — Terraza 7 & Acoustic Memories: Migrant Sounds of New York",
+    "date": "2026-11-23T04:47:56.000Z",
+    "file": "data/inbox/1261-upcoming-terraza-7-acoustic-memories-migrant-sound.html",
+    "processed": false
+  },
+  {
+    "uid": 1262,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "Pélagie Gbaguidi: Iteration at Tim Van Laere Gallery",
+    "date": "2026-11-23T07:09:51.000Z",
+    "file": "data/inbox/1262-p-lagie-gbaguidi-iteration-at-tim-van-laere-galler.html",
+    "processed": false
+  },
+  {
+    "uid": 1263,
+    "from": "\"n+1\" <foundation@nplusonemag.com>",
+    "subject": "Holiday pie",
+    "date": "2026-11-23T17:27:07.000Z",
+    "file": "data/inbox/1263-holiday-pie.html",
+    "processed": false
+  },
+  {
+    "uid": 1264,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "Birds, Orphans and Fools",
+    "date": "2026-11-23T18:06:34.000Z",
+    "file": "data/inbox/1264-birds-orphans-and-fools.html",
+    "processed": false
+  },
+  {
+    "uid": 1265,
+    "from": "\"Nitehawk Cinema\" <newsletter@nitehawkcinema.com>",
+    "subject": "This week: The Last Waltz, Citizen Kane and Night at the Museum",
+    "date": "2026-11-23T18:03:02.000Z",
+    "file": "data/inbox/1265-this-week-the-last-waltz-citizen-kane-and-night-at.html",
+    "processed": false
+  },
+  {
+    "uid": 1266,
+    "from": "\"World Music Institute\" <kate@worldmusicinstitute.org>",
+    "subject": "Lineup for the Inaugural R/evolve Festival announced",
+    "date": "2026-11-23T19:04:07.000Z",
+    "file": "data/inbox/1266-lineup-for-the-inaugural-r-evolve-festival-announc.html",
+    "processed": false
+  },
+  {
+    "uid": 1267,
+    "from": "\"Pablo Helguera, Director, Vera List Center for Art and Politics\" <vlc@newschool.edu>",
+    "subject": "A New Chapter, A Shared Commitment",
+    "date": "2026-11-23T19:15:38.000Z",
+    "file": "data/inbox/1267-a-new-chapter-a-shared-commitment.html",
+    "processed": false
+  },
+  {
+    "uid": 1268,
+    "from": "\"Printed Matter\" <news@printedmatter.org>",
+    "subject": "Announcing the 2027 LA Art Book Fair!",
+    "date": "2026-11-23T19:30:40.000Z",
+    "file": "data/inbox/1268-announcing-the-2027-la-art-book-fair.html",
+    "processed": false
+  },
+  {
+    "uid": 1269,
+    "from": "\"Janet Haven\" <development@datasociety.net>",
+    "subject": "Who gets a say in the future of AI?",
+    "date": "2026-11-23T19:41:24.000Z",
+    "file": "data/inbox/1269-who-gets-a-say-in-the-future-of-ai.html",
+    "processed": false
+  },
+  {
+    "uid": 1270,
+    "from": "\"The New York Academy of Sciences\" <nyas@nyas.org>",
+    "subject": "Academy eNews: November 2026",
+    "date": "2026-11-23T20:04:05.000Z",
+    "file": "data/inbox/1270-academy-enews-november-2026.html",
+    "processed": false
+  },
+  {
+    "uid": 1271,
+    "from": "\"SOF/Heyman\" <sofheyman@news.mail.columbia.edu>",
+    "subject": "Missed an event? Watch our videos this holiday weekend",
+    "date": "2026-11-23T20:32:33.000Z",
+    "file": "data/inbox/1271-missed-an-event-watch-our-videos-this-holiday-week.html",
+    "processed": false
+  },
+  {
+    "uid": 1272,
+    "from": "\"Afropop Worldwide\" <info@afropop.org>",
+    "subject": "ABARAKA means THANK YOU",
+    "date": "2026-11-23T21:05:43.000Z",
+    "file": "data/inbox/1272-abaraka-means-thank-you.html",
+    "processed": false
+  },
+  {
+    "uid": 1273,
+    "from": "\"Asia Society NY\" <reply@e.asiasociety.org>",
+    "subject": "A performance honoring the late Ryuichi Sakamoto and more upcoming events",
+    "date": "2026-11-23T22:01:09.000Z",
+    "file": "data/inbox/1273-a-performance-honoring-the-late-ryuichi-sakamoto-a.html",
+    "processed": false
+  },
+  {
+    "uid": 1274,
+    "from": "\"Jalopy Theatre and School of Music\" <mail@jalopytheatre.org>",
+    "subject": "⏰ Jalopy's Only FREE 4 Day Festival Is Almost Here!",
+    "date": "2026-11-24T02:01:50.000Z",
+    "file": "data/inbox/1274-jalopy-s-only-free-4-day-festival-is-almost-here.html",
+    "processed": false
+  },
+  {
+    "uid": 1275,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "ARCOlisboa 2027 opens the call for applications for its tenth edition of the General Programme",
+    "date": "2026-11-24T07:09:54.000Z",
+    "file": "data/inbox/1275-arcolisboa-2027-opens-the-call-for-applications-fo.html",
+    "processed": false
+  },
+  {
+    "uid": 1276,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "ZKM | Center for Art and Media presents Hidden on Tape. Early Video Art in Europe",
+    "date": "2026-11-24T14:13:53.000Z",
+    "file": "data/inbox/1276-zkm-center-for-art-and-media-presents-hidden-on-ta.html",
+    "processed": false
+  },
+  {
+    "uid": 1277,
+    "from": "\"Terraza7\" <info@terraza7.com>",
+    "subject": "Help keep the music going this giving season!",
+    "date": "2026-11-24T14:58:09.000Z",
+    "file": "data/inbox/1277-help-keep-the-music-going-this-giving-season.html",
+    "processed": false
+  },
+  {
+    "uid": 1278,
+    "from": "\"Blank Forms\" <mail@blankforms.org>",
+    "subject": "Just announced: SHIRTLIFTERS on December 12",
+    "date": "2026-11-24T15:03:25.000Z",
+    "file": "data/inbox/1278-just-announced-shirtlifters-on-december-12.html",
+    "processed": false
+  },
+  {
+    "uid": 1279,
+    "from": "\"e-flux Agenda\" <art-agenda@mailer.e-flux.com>",
+    "subject": "FEATURE: Hanne Lippard talks to Daniel Muzyczuk",
+    "date": "2026-11-24T15:09:53.000Z",
+    "file": "data/inbox/1279-feature-hanne-lippard-talks-to-daniel-muzyczuk.html",
+    "processed": false
+  },
+  {
+    "uid": 1280,
+    "from": "\"Verso Books\" <verso@versobooks.com>",
+    "subject": "📚 Now available: An urgent work of investigative reporting on how the West profits from slaughter in Gaza and Yemen 📚",
+    "date": "2026-11-24T15:30:47.000Z",
+    "file": "data/inbox/1280-now-available-an-urgent-work-of-investigative-repo.html",
+    "processed": false
+  },
+  {
+    "uid": 1281,
+    "from": "\"SculptureCenter\" <info@sculpture-center.org>",
+    "subject": "Berenice Olmedo: Epithumia | Opening Jan 27 (6–8pm), On View Jan 28–Apr 19, 2027",
+    "date": "2026-11-24T15:45:35.000Z",
+    "file": "data/inbox/1281-berenice-olmedo-epithumia-opening-jan-27-6-8pm-on-.html",
+    "processed": false
+  },
+  {
+    "uid": 1282,
+    "from": "\"The Graduate Center\" <gcevents@gc.cuny.edu>",
+    "subject": "Carol Jenkins Moderates \"Black America: The Last 10 Years\"",
+    "date": "2026-11-24T16:05:09.000Z",
+    "file": "data/inbox/1282-carol-jenkins-moderates-black-america-the-last-10-.html",
+    "processed": false
+  },
+  {
+    "uid": 1283,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "🎞️ Tune In: Artists talks and screenings this month",
+    "date": "2026-11-24T16:31:56.000Z",
+    "file": "data/inbox/1283-tune-in-artists-talks-and-screenings-this-month.html",
+    "processed": false
+  },
+  {
+    "uid": 1284,
+    "from": "\"n+1\" <subs@nplusonemag.com>",
+    "subject": "Take 25% off everything in the n+1 shop",
+    "date": "2026-11-24T17:08:58.000Z",
+    "file": "data/inbox/1284-take-25-off-everything-in-the-n-1-shop.html",
+    "processed": false
+  },
+  {
+    "uid": 1285,
+    "from": "\"Ali Rosa-Salas\" <abrons@henrystreet.org>",
+    "subject": "Inside: Your 2026 Abrons Yearbook",
+    "date": "2026-11-24T18:01:36.000Z",
+    "file": "data/inbox/1285-inside-your-2026-abrons-yearbook.html",
+    "processed": false
+  },
+  {
+    "uid": 1286,
+    "from": "\"Museum of the Moving Image\" <info@movingimage.org>",
+    "subject": "Support MoMI — You Belong Here",
+    "date": "2026-11-24T18:21:44.000Z",
+    "file": "data/inbox/1286-support-momi-you-belong-here.html",
+    "processed": false
+  },
+  {
+    "uid": 1287,
+    "from": "\"Screen Slate\" <jon@screenslate.com>",
+    "subject": "L’Indiscret",
+    "date": "2026-11-24T18:30:11.000Z",
+    "file": "data/inbox/1287-l-indiscret.html",
+    "processed": false
+  },
+  {
+    "uid": 1288,
+    "from": "\"Jalopy Theatre & School of Music\" <jordhan@jalopytheatre.org>",
+    "subject": "Twenty years of Jalopy",
+    "date": "2026-11-24T18:34:41.000Z",
+    "file": "data/inbox/1288-twenty-years-of-jalopy.html",
+    "processed": false
+  },
+  {
+    "uid": 1289,
+    "from": "\"Wendy's Subway\" <info@wendyssubway.com>",
+    "subject": "Out now: Figure Eight by Zoe Imani Sharpe",
+    "date": "2026-11-24T20:00:34.000Z",
+    "file": "data/inbox/1289-out-now-figure-eight-by-zoe-imani-sharpe.html",
+    "processed": false
+  },
+  {
+    "uid": 1290,
+    "from": "\"e-flux Film\" <video@mailer.e-flux.com>",
+    "subject": "“What Happened to Video Art?”: a symposium on artists’ moving images at e-flux",
+    "date": "2026-11-24T20:14:42.000Z",
+    "file": "data/inbox/1290-what-happened-to-video-art-a-symposium-on-artists-.html",
+    "processed": false
+  },
+  {
+    "uid": 1291,
+    "from": "\"NYU Game Center\" <gamecenter@nyu.edu>",
+    "subject": "Next Week: Game Design Days, Lecture Series, and No Quarter!",
+    "date": "2026-11-24T20:20:28.000Z",
+    "file": "data/inbox/1291-next-week-game-design-days-lecture-series-and-no-q.html",
+    "processed": false
+  },
+  {
+    "uid": 1292,
+    "from": "\"The Brooklyn Rail\" <hq@brooklynrail.org>",
+    "subject": "🎞️ Correction / Tune In: Artists talks and screenings this month",
+    "date": "2026-11-24T20:36:25.000Z",
+    "file": "data/inbox/1292-correction-tune-in-artists-talks-and-screenings-th.html",
+    "processed": false
+  },
+  {
+    "uid": 1293,
+    "from": "\"Onassis ONX\" <contact@onx.studio>",
+    "subject": "Onassis ONX Award with Lumen Prize 🏆 Techno Firma Opens at PAMM 📂 Artifice: Operating Conditions at ONX",
+    "date": "2026-11-24T20:53:49.000Z",
+    "file": "data/inbox/1293-onassis-onx-award-with-lumen-prize-techno-firma-op.html",
+    "processed": false
+  },
+  {
+    "uid": 1294,
+    "from": "\"MoMA\" <newsletters@moma.org>",
+    "subject": "Water, water, everywhere",
+    "date": "2026-11-24T22:07:27.000Z",
+    "file": "data/inbox/1294-water-water-everywhere.html",
+    "processed": false
   }
 ]

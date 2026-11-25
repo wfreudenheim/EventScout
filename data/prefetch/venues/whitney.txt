@@ -1,6 +1,6 @@
 VENUE:whitney | Whitney Museum of American Art
 URL:https://whitney.org/events
-FETCHED:2026-11-22T06:40:02.947Z
+FETCHED:2026-11-25T06:43:29.106Z
 
 Skip to main content
 /
@@ -72,23 +72,14 @@ TODAY’S EVENTS
    [/events/holiday-member-shopping-2026]
    Members [/events?tags%5B%5D=member_events]
 
- * 11 am
-
-   ACT III
-
-   Floor 3, Theater
-
-   [/events/operator-act-iii]
-   Performances [/events?tags%5B%5D=performances]
-
  * 12 pm
 
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
 
-   Floor 7
+   Floor 5, Neil Bluhm Family Galleries
 
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
 
  * 1 pm
 
@@ -117,14 +108,14 @@ TODAY’S EVENTS
    [/events/exhibition-tour-lichtenstein]
    Tours [/events?tags%5B%5D=free_tours]
 
- * 5 pm
+ * 4 pm
 
-   ACT III
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
 
-   Floor 3, Theater
+   Floor 7
 
-   [/events/operator-act-iii]
-   Performances [/events?tags%5B%5D=performances]
+   [/events/closer-look-fall2026]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
 
 View more
 
@@ -143,116 +134,6 @@ ALL UPCOMING EVENTS
    Open to all members
 
    Members [/events?tags%5B%5D=member_events]
-
- * NOV 22
-
-   ACT III
-
-   Sunday, November 22, 2026
-   11 am–1 pm
-
-   [/events/operator-act-iii]
-   Performances [/events?tags%5B%5D=performances]
-
- *  
-
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
-
-   Sunday, November 22, 2026
-   12 pm
-
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Sunday, November 22, 2026
-   1 pm
-
-   [/events/untitled-america-exh-tour-2026]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Sunday, November 22, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Sunday, November 22, 2026
-   3 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   ACT III
-
-   Sunday, November 22, 2026
-   5–7 pm
-
-   [/events/operator-act-iii]
-   Performances [/events?tags%5B%5D=performances]
-
- * NOV 23
-
-   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
-
-   Monday, November 23, 2026
-   11 am
-
-   [/events/closer-look-fall2026]
-   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, November 23, 2026
-   12 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
-
-   Monday, November 23, 2026
-   1 pm
-
-   [/events/untitled-america-exh-tour-2026]
-   Tours [/events?tags%5B%5D=free_tours]
-
- *  
-
-   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
-
-   Monday, November 23, 2026
-   2 pm
-
-   [/events/minnie-evans-tour]
-   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
-
- *  
-
-   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
-
-   Monday, November 23, 2026
-   3 pm
-
-   [/events/exhibition-tour-lichtenstein]
-   Tours [/events?tags%5B%5D=free_tours]
 
  * NOV 25
 
@@ -294,7 +175,117 @@ ALL UPCOMING EVENTS
    [/events/exhibition-tour-lichtenstein]
    Tours [/events?tags%5B%5D=free_tours]
 
-709 events
+ *  
+
+   A CLOSER LOOK: GUIDED CLOSE-LOOKING THROUGH DIALOGUE
+
+   Wednesday, November 25, 2026
+   4 pm
+
+   [/events/closer-look-fall2026]
+   Tours [/events?tags%5B%5D=free_tours] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ * NOV 27
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, November 27, 2026
+   12 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: “UNTITLED” (AMERICA) 
+
+   Friday, November 27, 2026
+   1 pm
+
+   [/events/untitled-america-exh-tour-2026]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   EXHIBITION TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Friday, November 27, 2026
+   2 pm
+
+   [/events/minnie-evans-tour]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   EXHIBITION TOUR: ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, November 27, 2026
+   3 pm
+
+   [/events/exhibition-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours]
+
+ *  
+
+   FREE FRIDAY NIGHTS
+
+   Friday, November 27, 2026
+   5–10 pm
+
+   [/visit/free-admission/free-friday-nights]
+   Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   15-MINUTE TOUR: HIGHLIGHTS OF THE EXHIBITION “UNTITLED” (AMERICA)
+
+   Friday, November 27, 2026
+   6 pm
+
+   [/events/untitled-america-15min-ffn]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   15-MINUTE TOUR: HIGHLIGHTS OF THE EXHIBITION “UNTITLED” (AMERICA)
+
+   Friday, November 27, 2026
+   6:30 pm
+
+   [/events/untitled-america-15min-ffn]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights]
+
+ *  
+
+   15-MINUTE TOUR: HIGHLIGHTS OF ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, November 27, 2026
+   7 pm
+
+   [/events/15-min-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ *  
+
+   15-MINUTE TOUR: HIGHLIGHTS OF ROY LICHTENSTEIN: LIKE NEW
+
+   Friday, November 27, 2026
+   7:30 pm
+
+   [/events/15-min-tour-lichtenstein]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+ *  
+
+   15-MINUTE TOUR: THE LOST WORLD: THE ART OF MINNIE EVANS
+
+   Friday, November 27, 2026
+   8 pm
+
+   [/events/minnie-evans-15-min-tours]
+   Tours [/events?tags%5B%5D=free_tours] Free Friday Nights [/events?tags%5B%5D=free_friday_nights] Free Second Sundays [/events?tags%5B%5D=free_second_sundays]
+
+694 events
 
 ON THE HOUR
 

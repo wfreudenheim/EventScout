@@ -1,6 +1,6 @@
 VENUE:elsewhere | Elsewhere
 URL:https://www.elsewhere.club/events
-FETCHED:2026-11-22T06:40:03.528Z
+FETCHED:2026-11-25T06:43:30.132Z
 
 CALENDAR
 
@@ -43,24 +43,6 @@ Genre
  * World
  * Metal
  * Other
-
-Sat, Nov 21
-
-SNAKEHIPS, L3NI, TWOFACED, K.ONE, ANYTHING GOES: TONE TROY + MORE [/events/1993478754618]
- * CLUB
- * FULL VENUE
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/snakehips-l3ni-twofaced-kone-anything-goes-tone-troy-more-tickets-1993478754618]
-
-Sat, Nov 21
-
-CHATROOM: TAINA ENIKEYI - FREE W/ RSVP [/events/2004790780191]
- * CLUB
- * CHATROOM
-
-10:30 PM
-Buy Tickets [https://www.eventbrite.com/e/chatroom-taina-enikeyi-free-w-rsvp-tickets-2004790780191]
 
 Wed, Nov 25
 
@@ -122,7 +104,7 @@ DARIUS (DJ SET) [/events/2004909057963]
  * CLUB
  * FULL VENUE
 
-10:00 PM
+11:30 PM
 Buy Tickets [https://www.eventbrite.com/e/darius-dj-set-tickets-2004909057963]
 
 Fri, Dec 4
@@ -131,7 +113,7 @@ LAYLIT [/events/2002090179622]
  * CLUB
  * FULL VENUE
 
-10:00 PM
+11:00 PM
 Buy Tickets [https://www.eventbrite.com/e/laylit-tickets-2002090179622]
 
 Sat, Dec 5
@@ -190,12 +172,12 @@ Buy Tickets [https://www.eventbrite.com/e/bike-routes-good-sleepy-tickets-200281
 
 Wed, Dec 9
 
-TONI, BADE [/events/2004924749898]
+TONI, BADE, HANNA ROJO [/events/2004924749898]
  * LIVE
  * ZONE ONE
 
 7:00 PM
-Buy Tickets [https://www.eventbrite.com/e/toni-bade-tickets-2004924749898]
+Buy Tickets [https://www.eventbrite.com/e/toni-bade-hanna-rojo-tickets-2004924749898]
 
 Wed, Dec 9
 
@@ -343,12 +325,12 @@ Buy Tickets [https://www.eventbrite.com/e/dylan-brady-nick-leon-tickets-20046550
 
 Thu, Dec 31
 
-ELSEWHERE NEW YEAR'S EVE: SAN PACHO + MORE TBA [/events/2002092482510]
+ELSEWHERE NEW YEAR'S EVE: SAN PACHO, BEN MILLER, MARTA, SORAYA + MORE [/events/2002092482510]
  * CLUB
  * FULL VENUE
 
 9:00 PM
-Buy Tickets [https://www.eventbrite.com/e/elsewhere-new-years-eve-san-pacho-more-tba-tickets-2002092482510]
+Buy Tickets [https://www.eventbrite.com/e/elsewhere-new-years-eve-san-pacho-ben-miller-marta-soraya-more-tickets-2002092482510]
 
 Thu, Dec 31
 
@@ -367,3 +349,21 @@ PARLOUR MAGIC, RYAL [/events/2000289873859]
 
 7:00 PM
 Buy Tickets [https://www.eventbrite.com/e/parlour-magic-ryal-tickets-2000289873859]
+
+Fri, Jan 1
+
+NEW YEAR'S DAY: SOUL SUMMIT [/events/2004449764203]
+ * CLUB
+ * FULL VENUE
+
+11:00 PM
+Buy Tickets [https://www.eventbrite.com/e/new-years-day-soul-summit-tickets-2004449764203]
+
+Sat, Jan 2
+
+FLURRY + SMALL POND + BORIS & THE MESS [/events/2004976836691]
+ * LIVE
+ * ZONE ONE
+
+7:00 PM
+Buy Tickets [https://www.eventbrite.com/e/flurry-small-pond-boris-the-mess-tickets-2004976836691]

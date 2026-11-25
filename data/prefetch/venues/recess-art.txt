@@ -1,6 +1,6 @@
 VENUE:recess-art | Recess
 URL:https://www.recessart.org/
-FETCHED:2026-11-22T06:40:00.544Z
+FETCHED:2026-11-25T06:43:27.286Z
 
 Skip to content
 Recess homepage [/]
@@ -8,7 +8,7 @@ Open main menu
 On View November 11–December 19, 2026: Iron + Palm Wine: Koneh Pelawoe
 [https://www.recessart.org/projects/613-iron-palm-wine-koneh-pelawoe]
 
-November 22, 2026
+November 25, 2026
 
 ARTISTS & YOUTH AS VISIONARIES IN AN ECOSYSTEM  OF CARE AND ACCOUNTABILITY
 
@@ -88,5 +88,5 @@ Support Recess [https://www.recessart.org/donate]
 
 EXPLORE THEMES
 
-Care [/explore?theme=6] Economics [/explore?theme=11] Somatics [/explore?theme=13] Critical Writing [/explore?program=5-critical-writing] Indigeneity [/explore?theme=20] Abolition [/explore?theme=8] Environmental Justice [/explore?theme=19] Disability Justice [/explore?theme=9] Gender [/explore?theme=12] Blackness [/explore?theme=10] Equity [/explore?theme=7] Archival Work [/explore?theme=21] Session [/explore?program=4-session] Race [/explore?theme=16] Assembly [/explore?program=3-assembly] Queerness [/explore?theme=15]
+Equity [/explore?theme=7] Somatics [/explore?theme=13] Indigeneity [/explore?theme=20] Critical Writing [/explore?program=5-critical-writing] Assembly [/explore?program=3-assembly] Archival Work [/explore?theme=21] Blackness [/explore?theme=10] Queerness [/explore?theme=15] Environmental Justice [/explore?theme=19] Race [/explore?theme=16] Economics [/explore?theme=11] Disability Justice [/explore?theme=9] Gender [/explore?theme=12] Session [/explore?program=4-session] Care [/explore?theme=6] Abolition [/explore?theme=8]
 Shop [https://recessart.bigcartel.com/]

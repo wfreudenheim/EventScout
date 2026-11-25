@@ -1,6 +1,6 @@
 VENUE:columbia-gsapp | Columbia GSAPP
 URL:https://www.arch.columbia.edu/events
-FETCHED:2026-11-22T06:40:03.507Z
+FETCHED:2026-11-25T06:43:33.252Z
 
 /
  * The School
@@ -850,8 +850,8 @@ Event times are listed in Eastern Standard Time unless otherwise noted in the de
 
 JUMP TO DATE
 ALL LOCATIONSNEW YORK
-/events?day=14&month=11&time_range=week&year=2026 /events?day=30&month=11&time_range=week&year=2026
-Nov 22 – Nov 29
+/events?day=17&month=11&time_range=week&year=2026 /events?day=3&month=12&time_range=week&year=2026
+Nov 25 – Dec 2
 Week
 [/events?time_range=week]
 Month
@@ -859,12 +859,12 @@ Month
 Semester
 [/events?time_range=semester]
 
-Tue, Nov 24    12pm
+Wed, Dec 2    1pm
 
-Tuesday Talks
+MSRED Lecture: MaryAnne Gilmartin, MAG Partners
 
-Alumni
+Lecture
 
-New York, Virtual
+New York
 
-[/events/4279-tuesday-talks]
+[/events/4355-msred-lecture-mary-anne-gilmartin-mag-partners]

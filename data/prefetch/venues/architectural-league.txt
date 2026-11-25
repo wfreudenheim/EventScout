@@ -1,6 +1,6 @@
 VENUE:architectural-league | Architectural League of New York
 URL:https://archleague.org/events/
-FETCHED:2026-11-22T06:39:56.197Z
+FETCHED:2026-11-25T06:43:24.020Z
 
 /
 
@@ -74,7 +74,7 @@ FROM FIELD TO FORM: OCEAN FLORA
 
 [https://archleague.org/event/from-field-to-form-ocean-flora/]
 
-A group of experts will discuss the use of marine resources as building materials.
+A group of experts discussed the use of marine resources as building materials.
 
 From Field to Form
 

@@ -1,6 +1,6 @@
 VENUE:sculpture-center | SculptureCenter
 URL:https://www.sculpture-center.org/events/
-FETCHED:2026-11-22T06:40:02.597Z
+FETCHED:2026-11-25T06:43:29.261Z
 
 /
  * Exhibitions [/exhibitions/]
@@ -18,7 +18,7 @@ FETCHED:2026-11-22T06:40:02.597Z
  * Shop [/shop/]
 
 Closed until
-12pm Sunday
+12pm tomorrow
 
  * Exhibitions [/exhibitions/]
  * Events [/events/]
@@ -36,7 +36,7 @@ Closed until
  * Shop [/shop/]
 
 Closed until
-12pm Sunday
+12pm tomorrow
 
 44–19 Purves Street
 Long Island City, NY 11101
@@ -58,6 +58,7 @@ EVENTS
 
 View by Year, Type, Program
 Close
+ * 2027
  * 2026
  * 2025
  * 2024
@@ -82,8 +83,8 @@ Close
  * 2005
  * 2004
 
- * Public Program
  * Opening
+ * Public Program
  * Benefit
  * Film Screening
  * Performance
@@ -104,12 +105,15 @@ Close
 
 UPCOMING
 
-Pat 0leszko: Fool Disclosure Book Launch  [/events/15067/pat-0leszko-fool-disclosure-book-launch-nbsp]
+Pat Oleszko: Fool Disclosure Book Launch [/events/15067/pat-oleszko-fool-disclosure-book-launch]
 Thu, Dec 10, 2026
-6:30–8pm [/events/15067/pat-0leszko-fool-disclosure-book-launch-nbsp]
+6:30–8pm [/events/15067/pat-oleszko-fool-disclosure-book-launch]
 Off-Site Program: War Trash [/events/15062/off-site-program-war-trash]
 Sat, Dec 12, 2026
 3–5:30pm [/events/15062/off-site-program-war-trash]
+Berenice Olmedo: Epithumia and In Practice: Jianxin Tian Opening Reception [/events/15078/berenice-olmedo-epithumia-and-in-practice-jianxin-tian-opening-reception]
+Wed, Jan 27, 2027
+6–8pm [/events/15078/berenice-olmedo-epithumia-and-in-practice-jianxin-tian-opening-reception]
 
 ARCHIVE
 
@@ -698,12 +702,6 @@ Performance Program: Jeanine Oleson [/events/910/the-eccentrics-performance-prog
 Tue, Mar 1, 2016
 7–8pm [/events/910/the-eccentrics-performance-program-jeanine-oleson]
 First Saturdays
-First Saturdays in the Loft: Won't You Be My Neighbor? [/events/10101/first-saturdays-in-the-loft-won-t-you-be-my-neighbor]
-Sat, Feb 6, 2016
-9–10am [/events/10101/first-saturdays-in-the-loft-won-t-you-be-my-neighbor]
-The Eccentrics
-Performance Program: Georgia Sagri [/events/909/the-eccentrics-performance-program-georgia-sagri]
-Tue, Feb 2, 2016
-7–8pm [/events/909/the-eccentrics-performance-p
+First Saturdays in the Loft: Won't You Be My Neighbor? [/events/10101/first-saturdays-in-the-loft-won-t-you-be-my-ne
 
 [truncated]

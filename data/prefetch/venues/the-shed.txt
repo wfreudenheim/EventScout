@@ -1,6 +1,6 @@
 VENUE:the-shed | The Shed
 URL:https://theshed.queue-it.net/?c=theshed&e=shedsafetynet&ver=v3-ruby-3.7.1&cver=195&man=Economy%20Production%20SafetyNet&t=https%3A%2F%2Fwww.theshed.org%2Fprogram
-FETCHED:2026-11-22T06:40:03.754Z
+FETCHED:2026-11-25T06:43:29.902Z
 
 Your browser is outdated and cannot be used. Update your browser to the most current version, and try again.
 
@@ -25,11 +25,11 @@ Total number of users in line: 0
 
 Your number in line: calculating...
 Number of users in line ahead of you: calculating... It is your turn
-Expected arrival time on the website: 1:40 AM EST The line is paused.
+Expected arrival time on the website: 1:44 AM EST The line is paused.
 Thank you for waiting. You are now being redirected to the website. You're almost there. You will be redirected to the website as soon as possible. Your estimated wait time is: less than a minute
 
  
-Status last updated: 1:40:03 AM EST
+Status last updated: 1:43:29 AM EST
 
 PLEASE NOTIFY ME WHEN IT IS MY TURN:
 

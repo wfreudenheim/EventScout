@@ -1,6 +1,6 @@
 VENUE:culturehub | CultureHub
 URL:https://www.culturehub.org/
-FETCHED:2026-11-22T06:39:48.607Z
+FETCHED:2026-11-25T06:43:18.995Z
 
 CULTUREHUB [/]
 
@@ -23,21 +23,13 @@ EVENTS [/events]
 
 Events
 
-Nov 12
-[/events/tethering-an-arcade-with-deep-soul-ties]
-Tethering: An Arcade with Deep Soul Ties [/events/tethering-an-arcade-with-deep-soul-ties]
+Dec 2
+[/events/gan-dissolved-in-what-we-love]
+GAN 間: Dissolved in What We Love [/events/gan-dissolved-in-what-we-love]
 
-A game show that cultivates ardent ties to people, aliens, angels, land, and music. Tickets → [https://culturehub.org/events/tethering-an-arcade-with-deep-soul-ties]
+Young artists from Seoul and New York ask what shame is dissolved in the Korean beauty we take pride in. RSVP → [https://www.culturehub.org/events/gan-dissolved-in-what-we-love]
 
-Read more → [/events/tethering-an-arcade-with-deep-soul-ties]
-
-Nov 21
-[/events/we-talked-a-door-into-being]
-We Talked a Door Into Being [/events/we-talked-a-door-into-being]
-
-Three AI-driven puppets wait for their creator to return, hoping one day to venture outside and see the real world. RSVP → [/events/we-talked-a-door-into-being]
-
-Read more → [/events/we-talked-a-door-into-being]
+Read more → [/events/gan-dissolved-in-what-we-love]
 
 Dec 10
 [/events/e-x-t-r-a-c-tus]
@@ -46,6 +38,14 @@ e-x-t-r-a-c-t.us [/events/e-x-t-r-a-c-tus]
 In a market hungry for authenticity and attention, see what ethically sourced data from a real person can look like in a new venture created by Resident Artist Esther Bouquet. RSVP → [https://www.culturehub.org/events/e-x-t-r-a-c-tus]
 
 Read more → [/events/e-x-t-r-a-c-tus]
+
+Dec 14
+[/events/culturehub-cocktail-party]
+CultureHub Cocktail Party [/events/culturehub-cocktail-party]
+
+An end of year party and fundraiser for CultureHub. More → [https://culturehub.org/events/culturehub-cocktail-party]
+
+Read more → [/events/culturehub-cocktail-party]
 
 Dec 17
 [/events/allegra-and-the-cello-in-movements]
@@ -61,6 +61,15 @@ Read more → [/events/allegra-and-the-cello-in-movements]
 READ [/read]
 
 ___LZSettings_N4IgpgdghgRgNmAMlAXgTxALgGZTgZzABoQ84BRAN0gBd8tcDiQBLGsAW3wEkIAlAPYB3LAGYSNWAhoBhAXACuHCPUwAmCVLA0A4gprsATljUAGEhwEwWCOYuWqArBas2weg2GOZzIOAKgAEwBBODgAeUMABSgAcwY8QhJ-IJjYsABlFhQwLAAWEiFDKAAHbnYuAHU2AAtEFggAawSmEnwBQxoMpQ4oQzRyzlUQCAEAWnbOkDaa4QyavrAAIX0aARUsEYF5xemQGFX1ngBjddCWWIgOWk3j2i89g4Mj7lOILJzN-F6wx8OVV7rOwdTbwKDHZokJ5rAFvDI0NAIL4ARwUizGMA6gQeJCCgRkUBoABU4jI4FB8IRhqMILkSKcwmBjjQWOsAKqGOCbQxgIJ7BkIZmsiBEtAlXKYACMEjYSMwID4vMCewR4oAclBrqD-PF6fJBSz1txlfKAGymNSOQJ5AAcYDUeVNkrAolEAE5TYE3Y5jqbTcc9tj8BcILc+gIFIQuSQakqvESwAAPGibFVJrrZCV+PrpPYlOKZTNYSWiDSsXrpYL4cXMviE1mbSUAOldon58iUEGqgRoNTEpl8sVWD0wjl8cBY+Bo3Arhc+o-Hk+ns-Ol2uEBT8oQ2BTbQnQaiXkEIilEnTq6uNy3YB3e3wsyERNlEpohgUzHvwiJNSUMGgNiwV93xmYRyETO5DBKTcgI-B9FSCABZDokAaZocESWDhCiQwWDuQC32YEpDAEQIFGZABFBRcMaAA1FgwCEchoHgMATUYJIQE-IQYinSI2RKU4OAaWIqFoYYFAEgQhIgXUQGuSRAkJKAogEYNDVDeUYDAfwhDGFkaCREgiJYXp+gQ7QgiUzYaTpTimXWRSzIsxTJGs9ZbOwGwjCwUBJHiTAIAUMJ6UJMBYg6DAAqCuAAF9cX0AQZGIkp8OAvwLhqGhMUTFoOKExNWLkDcrxgqF-AhY1NjdUxAlMU08jHX1zUcMBJQAdmwSVTDalVihUbAOi4HyQGIyR1OGlBhsoPB3ywXwFAgNhNmxeIYrizjjjwCVQByzBQGmxQJS6+bFs3EAAFIQHWyL9pmo6BxIBalvlS61pIAR82ONgbpAA7ZqlB6QCes7Xve7BsEITcdqmu65se07NhKHLrphw64aBhH5SRq71o6C4GmG3bbrRhd4eei6rpIH6-olMcyZBnG2kaBjCdR-6TvJlbKZAanYZ8enlrCnH1qgRbenU1QAG0AF0SB5PAlnKxpKs0pWxlEKA3TaqBHFNUsoFwQJHDam0YElNQAxioA
+
+/read/scribble-laiyi-ohlsen
+Making complex systems coherent: An interview with Lai Yi Ohlsen [/read/scribble-laiyi-ohlsen]
+
+Scribble
+
+November 10, 2026
+
+Read more → [/read/scribble-laiyi-ohlsen]
 
 /read/scribble-lizz-thabet
 How to Create and Live in the Worlds We Want: An Interview with Lizz Thabet [/read/scribble-lizz-thabet]
@@ -322,12 +331,3 @@ Ajani Brannum
 Jun 20, 2023
 
 Read more → [/read/on-re-fest-2023]
-
-/read/somus-mask
-Somu's Mask and New Mythos for the Metaverse [/read/somus-mask]
-
-Andrea Kim [https://www.culturehub.org/andrea-kim]
-
-Feb 6, 2023
-
-Read more → [/read/somus-mask]

@@ -1,16 +1,6 @@
 [
   {
     "agent_type": "aggregator-agent",
-    "target_id": "issue-project-room",
-    "scrape_tier_used": 3,
-    "started_at": "2026-11-01T07:20:59.147Z",
-    "completed_at": "2026-11-01T07:20:59.147Z",
-    "events_found": 3,
-    "events_new": 0,
-    "status": "completed"
-  },
-  {
-    "agent_type": "aggregator-agent",
     "target_id": "roulette",
     "scrape_tier_used": 3,
     "started_at": "2026-11-01T07:20:59.172Z",
@@ -4997,6 +4987,16 @@
     "started_at": "2026-11-22T08:31:24.370Z",
     "completed_at": "2026-11-22T08:31:24.370Z",
     "events_found": 4,
+    "events_new": 0,
+    "status": "completed"
+  },
+  {
+    "agent_type": "venue-agent",
+    "target_id": "union-docs",
+    "scrape_tier_used": 2,
+    "started_at": "2026-11-25T06:43:15.951Z",
+    "completed_at": "2026-11-25T06:43:15.951Z",
+    "events_found": 0,
     "events_new": 0,
     "status": "completed"
   }
