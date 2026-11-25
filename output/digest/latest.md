@@ -1,144 +1,42 @@
-# Event Scout · Week of Sun, Nov 22
+# Event Scout · Week of Wed, Nov 25
 
-61 events scoring 3+ from Sun, Nov 22 to Sun, Nov 29.
+68 events scoring 3+ from Wed, Nov 25 to Wed, Dec 2.
 
 ## Top picks
 
-- **Sun, Nov 22 · 2:45pm** — [EC: Lawrence Jordan](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62235) (5)  
+- **Tue, Dec 1** — A Conversation with DeeDee Halleck and Miss Video 4 u (5)  
+  Light Industry · Brooklyn  
+  A conversation with media activist and video art pioneer DeeDee Halleck, co-founder of Paper Tiger TV and Deep Dish TV, exploring her decades of work in community video and media activism, at Light Industry.
+- **Tue, Dec 1** — [Counterfictional Futures: Speculations On Biological Intelligence](https://www.index-space.org/programming/counterfictional-futures-speculations-on-biological-intelligence-evt-PYpXNSziFSHMFd5?view=list) (5)  
+  Index Space · Chinatown  
+  A speculative talk exploring counterfictional futures and biological intelligence, hosted by Tony Wang at Index Chinatown.
+- **Wed, Dec 2** — [Mono No Aware XX: Expanded Cinema Arts Festival](http://www.mononoawarefilm.com/mono-no-aware-xx-program) (5)  
+  Mono No Aware · Gowanus · free  
+  Mono No Aware's 20th anniversary Expanded Cinema Arts Festival, featuring over 100 artists of the moving image across multiple host venues. Free and open to the public, December 2-14, 2026; RSVP required due to limited…
+- **Wed, Nov 25 · 6:45pm** — [ZORN III](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62203) (4)  
   Anthology Film Archives · East Village  
-  Essential Cinema program dedicated to Lawrence Jordan, a pioneering collage animator.
-- **Tue, Nov 24** — [Tellus Audio Cassette Magazine Anthology Vol. 1: Listening Session and Conversation](https://www.printedmatter.org/programs/events/2340) (5)  
-  Printed Matter · Chelsea  
-  A listening session and conversation on the Tellus Audio Cassette Magazine anthology with Joseph Nechvatal, Carol Parkinson, and Claudia Gould, moderated by Bradford Thomason, at Printed Matter.
-- **Sun, Nov 22 · 11am** — Queer|Art Summit: Becoming What We Practice (4)  
-  Performance Space New York · East Village  
-  A two-day summit celebrating Queer|Art|Mentorship's 15th anniversary, bringing artists, scholars, and organizers together on community practices and queer artistry in times of crisis, closing day.
-- **Sun, Nov 22 · 3pm** — [FLAPO (the Flash Laptop And Phone Orchestra)](https://www.wonderville.nyc/events/flapo-the-flash-laptop-and-phone-orchestra-11-22-26) (4)  
-  Wonderville · Bushwick  
-  A live performance by FLAPO, an orchestra made up entirely of laptops and phones playing improvised electronic music.
-- **Sun, Nov 22 · 4pm** — Opening Up The Body: Spirit Possession (4)  
-  Performance Space New York · East Village  
-  Anh Vo leads a workshop beginning with Qi Gong exercises to tune awareness of the energetic body, moving into improvisational exercises grounded in bodily free association. Closing event of the Queer|Art Summit,…
-- **Sun, Nov 22 · 5pm** — [Andy Warhol's 'Screen Tests' + Conrad Ventur's 'Screen Tests Revisited', Pgm 2](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62295) (4)  
+  The concluding part of a multi-part experimental/structural film work screened across several evenings at Anthology Film Archives.
+- **Thu, Nov 26 · 4:45pm** — [THE FLOWERS OF ST. FRANCIS — Introduced by Isabella and Tomasso Rossellini](https://filmforum.org/events/event/the-flowers-of-st-francis-november-26) (4)  
+  Film Forum · West Village · $18  
+  A screening of Roberto Rossellini's 1950 film, part of the Rossellini 120 retrospective, introduced in person by his children Isabella and Tomasso Rossellini.
+- **Fri, Nov 27 · 6:30pm** — [Andy Warhol's 'Screen Tests' + Conrad Ventur's 'Screen Tests Revisited', Pgm 1](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62293) (4)  
   Anthology Film Archives · East Village  
-  Second program of Warhol/Ventur screen-test portraits. Repeats Nov 27.
-
-## Sunday, November 22
-
-- **11am** — Queer|Art Summit: Becoming What We Practice (4)  
-  Performance Space New York · East Village  
-  A two-day summit celebrating Queer|Art|Mentorship's 15th anniversary, bringing artists, scholars, and organizers together on community practices and queer artistry in times of crisis, closing day.
-- **12:30pm** — [ALL OF A SUDDEN - Sneak Preview & Q&A with filmmaker Ryûsuke Hamaguchi](https://filmforum.org/events/event/all-of-a-sudden-november-22) (3)  
-  Film Forum · West Village  
-  A sneak preview screening of Ryûsuke Hamaguchi's new film followed by a Q&A with the acclaimed Japanese director, ahead of its official opening November 25.
-- **2pm** — [Found Footage Filmmaking & Steenbeck Editing Workshop](https://www.millenniumfilm.org/) (3)  
-  Millennium Film Workshop · Bushwick  
-  A hands-on workshop on found-footage filmmaking and Steenbeck flatbed editing techniques at Millennium Film Workshop. Registration was listed as full as of 11/10.
-- **2:45pm** — [EC: Lawrence Jordan](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62235) (5)  
-  Anthology Film Archives · East Village  
-  Essential Cinema program dedicated to Lawrence Jordan, a pioneering collage animator.
-- **3pm** — [FLAPO (the Flash Laptop And Phone Orchestra)](https://www.wonderville.nyc/events/flapo-the-flash-laptop-and-phone-orchestra-11-22-26) (4)  
-  Wonderville · Bushwick  
-  A live performance by FLAPO, an orchestra made up entirely of laptops and phones playing improvised electronic music.
-- **3:30pm** — Clube do Choro with Regional Samaúma (3)  
-  Barbès · Park Slope  
-  A weekly Brazilian choro jam in Barbès's front room with a rotating cast of Brazilian musicians.
-- **4pm** — Opening Up The Body: Spirit Possession (4)  
-  Performance Space New York · East Village  
-  Anh Vo leads a workshop beginning with Qi Gong exercises to tune awareness of the energetic body, moving into improvisational exercises grounded in bodily free association. Closing event of the Queer|Art Summit,…
-- **5pm** — [Andy Warhol's 'Screen Tests' + Conrad Ventur's 'Screen Tests Revisited', Pgm 2](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62295) (4)  
-  Anthology Film Archives · East Village  
-  Second program of Warhol/Ventur screen-test portraits. Repeats Nov 27.
-- **5pm** — The Oldest Profession (4)  
-  Japan Society · Midtown East  
-  4K restoration of Noboru Tanaka's 1974 film, shot guerrilla-style on location in Osaka's Kamagasaki district, documenting real residents alongside its fictional narrative; part of the Nikkatsu's Golden Age of Eros…
-- **5:30pm** — [ZORN III](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62202) (3)  
-  Anthology Film Archives · East Village  
-  Repertory screening of 'Zorn III', continuing the filmmaker retrospective at Anthology.
-- **7:30pm** — [PORTRAIT COLLECTIONS](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62298) (3.8)  
-  Anthology Film Archives · East Village  
-  'Portrait Collections', part of a themed program on portraiture in experimental film at Anthology Film Archives.
-- **8pm** — [Henry Threadgill's Zooid](https://roulette.org/event/henry-threadgill-zooid-cut-you-where-you-was/) (3)  
-  Roulette · Boerum Hill · $55  
-  Pulitzer-winning composer, saxophonist and flutist Henry Threadgill returns with Zooid, performing music from new album Cut You Where You Was (Pi Recordings).
-- **8pm** — [SONOSPHERE](https://www.wonderville.nyc/events/sonosphere-11-22-26) (3)  
-  Wonderville · Bushwick  
-  A sound-focused performance event at Wonderville's arcade bar.
-- **8pm** — [Flamenco Jazz Jam](https://dromnyc.com/event/flamenco-jazz-jam-5/) (3)  
-  DROM · East Village  
-  A jam session fusing the raw power of flamenco with the soul of jazz, featuring deep grooves and spontaneous solos.
-- MoMI Merch Meet (3.8)  
-  Museum of the Moving Image · Astoria  
-  MoMI's first artisan market featuring local makers of art, apparel, toys, zines, comics, and housewares inspired by the moving image.
-- [Locksport Workshop](https://www.eventbrite.com/e/locksport-workshop-tickets-2004601891219) (3)  
-  NYC Resistor · Downtown Brooklyn  
-  Ethics, theory and hands on practice of lockpicking
-- [Caracas Trio | Venezuelan Jazz | Latin Grammy Nominated](https://www.terraza7.com/detalles-y-registro/caracas-trio-venezuelan-jazz-latin-grammy-nominated-first-set) (3)  
-  Terraza 7 · Elmhurst  
-  Latin Grammy-nominated Caracas Trio performs Venezuelan jazz across two sets at Terraza 7.
-
-## Monday, November 23
-
-- **6pm** — Everything That Follows (3)  
-  La MaMa · East Village  
-  Loco7 Dance Puppet Theatre Company's interdisciplinary work combining movement, puppetry, and visual art to explore connection, survival, and transformation. Final performance of its run as part of La MaMa's Puppet…
-- **6pm** — Daryl "Black Eagle" Jamieson with Lee Ranaldo: Live Conversation & Music (4)  
-  World Music Institute · Various · free  
-  A free live conversation and music session with Pocasset Wampanoag clan chief and Eastern Medicine Singers drum director Daryl "Black Eagle" Jamieson, hosted by Lee Ranaldo of Sonic Youth. Virtual.
-- **6:30pm** — [Portrait Studies](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62300) (3)  
-  Anthology Film Archives · East Village  
-  Another entry in Anthology's repertory series on cinematic portraiture.
-- **7pm** — Myla Goldberg & Quince Marcum (3)  
-  Barbès · Park Slope  
-  New compositions on diverse topics performed on mostly maligned instruments such as accordion, banjo, tzouras, and bouzouki.
-- **8pm** — [Talujon with Brian Chase and John Hollenbeck](https://roulette.org/event/talujon-brian-chase-john-hollenbeck/) (3)  
-  Roulette · Boerum Hill · $25  
-  Percussion ensemble Talujon joins composers/soloists Brian Chase and John Hollenbeck to premiere two new works.
-- **8pm** — [the FORT90 BROADCAST SYSTEM presents: FORT90 TV](https://www.wonderville.nyc/events/the-fort90-broadcast-system-presents-fort90-tv-11-23-26) (3)  
-  Wonderville · Bushwick  
-  Another installment of the recurring FORT90 public-access-style video broadcast/screening series at Wonderville.
-- **8:45pm** — [CINÉMATON, PROGRAM 1](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62302) (4)  
-  Anthology Film Archives · East Village  
-  First program drawn from Gérard Courant's "Cinématon," an ongoing project of thousands of short silent portrait-films of artists and filmmakers — one of the longest film projects ever made.
-- **9pm** — Tropical Vortex Presents: A.B.E.L.A (3)  
-  Barbès · Park Slope  
-  Asociación de Bateristas Electrónicos de Latinoamerica performs, with resident DJs Adrian is Hungry and Sonido Chichadelico.
-- [Maestro Román Díaz & La Rumba de los Lunes](https://www.terraza7.com/detalles-y-registro/maestro-roman-diaz-la-rumba-de-los-lunes) (4)  
-  Terraza 7 · Elmhurst  
-  Maestro Román Díaz leads La Rumba de los Lunes, an Afro-Cuban rumba session, at Terraza 7.
-
-## Tuesday, November 24
-
-- **12pm** — [Tuesday Talks](https://www.arch.columbia.edu/events/4279-tuesday-talks) (3)  
-  Columbia GSAPP · Morningside Heights  
-  An alumni talk in GSAPP's Tuesday Talks series, held in New York and streamed virtually.
-- **6:30pm** — [NY Gypsy All-Stars ft. Hüsnü Şenlendirici](https://dromnyc.com/event/ny-gypsy-all-stars-ft-husnu-senlendirici-2/) (4)  
-  DROM · East Village  
-  NY Gypsy All-Stars perform with renowned Turkish clarinetist Hüsnü Şenlendirici, blending Balkan and Middle Eastern jazz, funk, and cross-cultural grooves.
-- **6:45pm** — [Dynamic Portraits](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62306) (3)  
-  Anthology Film Archives · East Village  
-  Another entry in Anthology's repertory series on cinematic portraiture.
-- **7pm** — [Wonderville's Last Tuesday of the month PLAYTEST](https://www.wonderville.nyc/events/playtest-11-24-26) (3)  
-  Wonderville · Bushwick  
-  Monthly open playtest night where independent game developers bring in-progress games for public feedback.
-- **7pm** — [Eric Stern's Cuban Jazz Project](https://www.terraza7.com/detalles-y-registro/eric-sterns-cuban-jazz-project-first-set-14) (3)  
-  Terraza 7 · Elmhurst  
-  A two-set performance of Cuban jazz at Terraza 7.
-- **8:30pm** — [Portraits of the Artist](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62309) (3)  
-  Anthology Film Archives · East Village  
-  Another entry in Anthology's repertory series on cinematic portraiture, focused on filmmaker/artist self-representation.
-- **9pm** — Slavic Soul Party (3)  
-  Barbès · Park Slope  
-  Weekly Balkan brass band bacchanalia at Barbès.
-- [Tellus Audio Cassette Magazine Anthology Vol. 1: Listening Session and Conversation](https://www.printedmatter.org/programs/events/2340) (5)  
-  Printed Matter · Chelsea  
-  A listening session and conversation on the Tellus Audio Cassette Magazine anthology with Joseph Nechvatal, Carol Parkinson, and Claudia Gould, moderated by Bradford Thomason, at Printed Matter.
+  A pairing of Andy Warhol's iconic 1960s Screen Tests portrait films with artist Conrad Ventur's contemporary revisitation of the same subjects.
 
 ## Wednesday, November 25
 
+- **2pm** — [Exhibition Tour: The Lost World: The Art of Minnie Evans](https://whitney.org/events/minnie-evans-tour) (3)  
+  Whitney Museum of American Art · Meatpacking · free  
+  A free guided tour of The Lost World: The Art of Minnie Evans, a self-taught visionary artist, on Floor 8 of the Whitney. Recurs regularly in the museum's daily schedule.
+- **6:30pm** — [FAMILY PORTRAITS](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62312) (3)  
+  Anthology Film Archives · East Village  
+  A program in Anthology's avant-garde Portraits series, screening experimental short films exploring family relationships through the portrait film form.
 - **6:45pm** — ZORN III (Amalric <-> Zorn) (3)  
   Anthology Film Archives · East Village  
   Mathieu Amalric's 2022 documentary portrait of composer John Zorn, following soprano Barbara Hannigan's rehearsals of Zorn's song cycle. Part of the Amalric <-> Zorn series on filmmaker Mathieu Amalric's collaborations…
+- **6:45pm** — [ZORN III](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62203) (4)  
+  Anthology Film Archives · East Village  
+  The concluding part of a multi-part experimental/structural film work screened across several evenings at Anthology Film Archives.
 - **10pm** — Mamady Kouyate's Mandingo Ambassadors (3)  
   Barbès · Park Slope  
   The sound of 1970s Guinean funk from a master of the legendary Syliphone label.
@@ -154,6 +52,12 @@
 - [Baden Goyo Trio | Venezuelan Jazz](https://www.terraza7.com/detalles-y-registro/baden-goyo-trio-venezuelan-jazz-first-set-2) (3)  
   Terraza 7 · Elmhurst  
   Baden Goyo Trio performs Venezuelan jazz across two sets at Terraza 7.
+
+## Thursday, November 26
+
+- **4:45pm** — [THE FLOWERS OF ST. FRANCIS — Introduced by Isabella and Tomasso Rossellini](https://filmforum.org/events/event/the-flowers-of-st-francis-november-26) (4)  
+  Film Forum · West Village · $18  
+  A screening of Roberto Rossellini's 1950 film, part of the Rossellini 120 retrospective, introduced in person by his children Isabella and Tomasso Rossellini.
 
 ## Friday, November 27
 
@@ -175,6 +79,9 @@
 - [Jump Start 2026](https://lamama.org/jump-start-2026/) (3)  
   La MaMa · East Village  
   Experimental performance festival at La MaMa, running November 27 through 29, 2026.
+- [Mirrored Pool](https://lamama.org/mirrored-pool/) (3)  
+  La MaMa · East Village  
+  An experimental performance work at La MaMa running November 27–29, 2026.
 
 ## Saturday, November 28
 
@@ -190,12 +97,18 @@
 - **5:15pm** — [EC: JENNINGS / KIRSANOFF](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62236) (4)  
   Anthology Film Archives · East Village  
   Essential Cinema program pairing British documentary pioneer Humphrey Jennings with French avant-garde silent filmmaker Dimitri Kirsanoff.
+- **6pm** — [PORTRAITS OF THE ARTIST](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62310) (3.8)  
+  Anthology Film Archives · East Village  
+  A program in Anthology's avant-garde Portraits series, screening experimental films depicting artists through the portrait film form.
 - **8pm** — Film No. 5 (Smile) + Fluxfilm No. 16: Bottoms (4)  
   Anthology Film Archives · East Village  
   Yoko Ono and John Lennon's high-speed-camera meditation on Lennon's face, paired with Ono's Fluxus-era Fluxfilm No. 16. Part of the Faces: Moving-Image Portraiture series.
 - **8pm** — Sanda Weigl & Friends (3)  
   Barbès · Park Slope  
   Romanian folk and Gypsy music reimagined by vocalist Sanda Weigl and friends.
+- **8pm** — The Personal Cinema of Dylan Mars Greenberg (3)  
+  Millennium Film Workshop · Bushwick  
+  Screening of experimental, personal-cinema works by filmmaker Dylan Mars Greenberg at Millennium Film Workshop. Doors at 7:30pm, films at 8:00pm.
 - **10pm** — Yallah Yallah (3)  
   Barbès · Park Slope  
   Guitarists Amit Peled and Segev Harosh pay homage to 1980s drum-machine-driven Middle Eastern pop.
@@ -205,12 +118,21 @@
 
 ## Sunday, November 29
 
+- **3:30pm** — [WHEN CAESAR WAS KING — Post-Event Conversation](https://filmforum.org/film/when-caesar-was-king-2026) (3)  
+  Film Forum · West Village · $18  
+  A special screening on the comedy genius of Sid Caesar, followed by a post-event conversation with Sid Caesar biographer David Margolick and Film Forum's Bruce Goldstein.
 - **4pm** — Zack Bullish: Solo Shamisen (4)  
   Barbès · Park Slope  
   Brooklyn-raised, Japan-trained musician Zack Bullish performs solo on the Tsugaru-shamisen, playing traditional Aomori folk music and his own compositions.
 - **6pm** — Hum, Hammer & Howl (3)  
   Barbès · Park Slope  
   Martín Olaso, Chris Stromquist, and Steve LaRosa perform electronics and free jazz for guitar, drums, and saxophone.
+- **6:30pm** — [Susan McKeown](https://dromnyc.com/event/susan-mckeown-2/) (3)  
+  DROM · East Village  
+  Grammy-winning Irish folk artist Susan McKeown performs live, bringing a powerful, soulful voice in a night of deep folk music.
+- **7:30pm** — [DYNAMIC PORTRAITS](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62307) (3.8)  
+  Anthology Film Archives · East Village  
+  A program in Anthology's avant-garde Portraits series, screening experimental films exploring movement and embodiment through portraiture.
 - **10pm** — Baklava Express (3)  
   Barbès · Park Slope  
   Oudist Josh Kaye leads a Middle Eastern-inspired fusion ensemble.
@@ -226,6 +148,108 @@
 - [TouchDesigner, ESP32s and Sensors!](https://www.eventbrite.com/e/touchdesigner-esp32s-and-sensors-tickets-2004801732951) (4)  
   NYC Resistor · Downtown Brooklyn  
   Wire a motion sensor to an ESP32 and stream the live data into TouchDesigner over OSC and MQTT. No Arduino experience needed!
+
+## Monday, November 30
+
+- **6:30pm** — [Saidiya Hartman: AICA-USA Kippy Stroud Distinguished Critic Lecture](https://veralistcenter.org) (3)  
+  Vera List Center for Art and Politics · Greenwich Village · free  
+  Scholar and writer Saidiya Hartman delivers the 20th annual Distinguished Critic Lecture on contemporary art criticism. Theresa Lang Center, The New School; in person and livestreamed.
+- **6:30pm** — [CINÉMATON, PROGRAM 2](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62304) (4)  
+  Anthology Film Archives · East Village  
+  Program 2 of Gérard Courant's experimental 'Cinématon' portrait-film project.
+- **7pm** — [Day With(out) Art 2026: Seeds in a Dying Colony](https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62184) (3)  
+  Anthology Film Archives · East Village · free  
+  Annual free Day With(out) Art program presenting activist video and film works responding to the HIV/AIDS crisis.
+- **7pm** — [Roger Consiglio, Máximo Valdés, Rafael Monteagudo & La Rumba de los Lunes](https://www.terraza7.com/detalles-y-registro/roger-consiglio-maximo-valdes-rafael-monteagudo-la-rumba-de-los-lunes) (4)  
+  Terraza 7 · Elmhurst  
+  Guest musicians join Terraza 7's recurring Monday Afro-Cuban rumba session.
+- **8:45pm** — Galaxie (4)  
+  Anthology Film Archives · East Village  
+  Gregory Markopoulos's 1966 16mm feature comprising thirty in-camera-edited portraits of 1960s New York cultural figures including Jonas Mekas, Jasper Johns, Susan Sontag, and W.H. Auden. Part of the Faces: Moving-Image…
+- Game Design Days (3)  
+  NYU Game Center · Downtown Brooklyn  
+  A week of playful pop-up events and programming highlighting local game design organizations, culminating in No Quarter, the NYU Game Center's premier community exhibition (runs through Dec. 4).
+- [Movement Research at the Judson Church | Nov 30, 2026](https://movementresearch.org/events/1473/) (3)  
+  Movement Research · East Village  
+  A shared-bill performance evening at Judson Church featuring Jungwoong Kim, Davalois Fearon, Rochelle Phillips, and evan ray suzuki.
+- Little Children (35mm) with Q&A with Patrick Wilson (3)  
+  Nitehawk Cinema · Williamsburg  
+  35mm screening of Todd Field's Little Children followed by a Q&A with star Patrick Wilson.
+
+## Tuesday, December 1
+
+- **6:30pm** — [Current Work | Forms of Intelligence: Labor](https://cooper.edu/events-and-exhibitions/events/current-work-forms-intelligence-labor) (3)  
+  Cooper Union · East Village · free  
+  A talk in the Current Work series examining 'forms of intelligence' through the lens of labor, connecting AI/cognitive questions to work and economy.
+- **6:30pm** — Law and Climate Action (Climate Conversations) (3)  
+  Columbia Society of Fellows / Heyman Center · Morningside Heights · free  
+  Roundtable with lawyers and scholars of law and environmental humanities discussing how current law can both facilitate and impede climate action.
+- **7pm** — [Internal / External Travelogues](https://film-makerscoop.com/screenings/internal-external-travelogues) (3)  
+  Film-Makers' Cooperative · Midtown  
+  Guest curator Carter Haskins presents a rare 16mm screening of Stan Brakhage's UNCONSCIOUS LONDON STRATA, CITY STREAMING, and THE LOST FILMS.
+- **8pm** — [Amelia Heintzelman: How Dogs Play (Night 1)](https://roulette.org/event/amelia-heintzelman-how-dogs-play/) (3)  
+  Roulette · Boerum Hill · $25  
+  Three performers collide, spin, fall, and intertwine in an athletic maze of child's play and menacing acts, for Heintzelman's Roulette Commission.
+- [Hannah Ishizaki, Chiori Miyagawa, and Mark Campbell: A Thousand Generations](https://www.nationalsawdust.org/event/hannah-ishizaki-chiori-miyagawa-and-mark-campbell-a-thousand-generations) (4)  
+  National Sawdust · Williamsburg  
+  A one-act chamber opera in 11 scenes for three vocalists, chamber ensemble, and electronics, based on the Japanese folk story 'Tsuru no Ongaeshi,' splitting the narrative between 15th-century Japan and the contemporary…
+- A Conversation with DeeDee Halleck and Miss Video 4 u (5)  
+  Light Industry · Brooklyn  
+  A conversation with media activist and video art pioneer DeeDee Halleck, co-founder of Paper Tiger TV and Deep Dish TV, exploring her decades of work in community video and media activism, at Light Industry.
+- [Current Work | Forms of Intelligence: Labor](https://archleague.org/event/current-work-forms-of-intelligence-labor/) (4)  
+  Architectural League of New York  
+  A talk examining how architects' work may change as AI is forecast to eliminate much routine labor, questioning what architectural practice should prioritize instead.
+- [Księżyc](https://www.eventbrite.com/e/ksiezyc-tickets-2004623641274) (4)  
+  Pioneer Works · Red Hook  
+  Experimental slavic folk music presented in collaboration with Unsound Festival.
+- [Counterfictional Futures: Speculations On Biological Intelligence](https://www.index-space.org/programming/counterfictional-futures-speculations-on-biological-intelligence-evt-PYpXNSziFSHMFd5?view=list) (5)  
+  Index Space · Chinatown  
+  A speculative talk exploring counterfictional futures and biological intelligence, hosted by Tony Wang at Index Chinatown.
+- Faces: Moving-Image Portraiture (3.8)  
+  Anthology Film Archives · East Village  
+  A series surveying the tradition of cinematic portraiture in avant-garde film and video, featuring Andy Warhol's Screen Tests, Yoko Ono, Gregory Markopoulos, Stan Brakhage, Gerard Courant's Cinematon, and dozens of…
+- [Open Performance](https://movementresearch.org/events/1458/) (3)  
+  Movement Research · East Village  
+  An informal open platform for dance/movement artists to share work-in-progress, presented by Movement Research.
+- Millennium Actress (25th Anniversary) (3)  
+  Nitehawk Cinema · Williamsburg  
+  Anime After Dark closes 2026 with a 25th anniversary screening of Satoshi Kon's Millennium Actress.
+
+## Wednesday, December 2
+
+- **6pm** — [The Search for Randomness](https://www.simonsfoundation.org/events/the-search-for-randomness/) (3)  
+  Simons Foundation · Flatiron · free  
+  Presidential Lecture by mathematician Persi Diaconis on randomness, probability, and chance.
+- **6:30pm** — Museum Salon Series: Living National Treasure Ōsumi Yukie and the Way of Metal (3)  
+  Asia Society · Upper East Side  
+  A conversation with Ōsumi Yukie, the first female metalcraft artist designated a Japanese Living National Treasure, moderated by specialist Boxi Liu.
+- [Next Wave 2026: 'HUMAN' — puppetry at the ocean's depths](https://www.bam.org/theater/2026/human) (4)  
+  Brooklyn Academy of Music · Fort Greene  
+  Kaleidoscopic puppetry-driven performance transporting audiences to the ocean's depths to ask what humanity means in a world where humans no longer exist.
+- [Mono No Aware XX: 20th Anniversary Expanded Cinema Arts Festival](http://www.mononoawarefilm.com/call-for-entries-mono-no-aware-xx-2026) (4)  
+  Mono No Aware · Gowanus  
+  Mono No Aware's 20th anniversary Expanded Cinema Arts Festival, running December 2-13, 2026, celebrating experimental and expanded film practice; call for entries currently open. The Learning Lab closes for the year…
+- [Mono No Aware XX 2026: Expanded Cinema Arts Festival](http://mononoawarefilm.com/call-for-entries-mono-no-aware-xx-2026) (4)  
+  Mono No Aware · Gowanus  
+  20th anniversary edition of Mono No Aware's Expanded Cinema Arts Festival, running Dec 2-13, 2026.
+- [Mono No Aware XX: Expanded Cinema Arts Festival](http://www.mononoawarefilm.com/mono-no-aware-xx-program) (5)  
+  Mono No Aware · Gowanus · free  
+  Mono No Aware's 20th anniversary Expanded Cinema Arts Festival, featuring over 100 artists of the moving image across multiple host venues. Free and open to the public, December 2-14, 2026; RSVP required due to limited…
+- [The Cool World](https://www.maysles.org/calendar/the-cool-world) (3)  
+  Maysles Documentary Center · Harlem · unknown  
+  Screening of Shirley Clarke's 1964 independent film THE COOL WORLD, a landmark of American independent cinema, at Maysles Documentary Center.
+- True Stories (35mm) (3)  
+  Nitehawk Cinema · Williamsburg  
+  David Byrne's cult 1986 film screens on 35mm in the VIDEO STORE GEMS series with Night Owl Video.
+- [Soldering Workshop: Make an LED Tile](https://www.eventbrite.com/e/soldering-workshop-make-an-led-tile-tickets-2004867478598) (3)  
+  NYC Resistor · Downtown Brooklyn  
+  Soldering is one of the most important skills you'll need for working with electronics. Come join us for an introductory through-hole solder
+- Millennium Film Journal No. 84: Launch Screening (3.8)  
+  Anthology Film Archives · East Village  
+  A screening of films discussed in Millennium Film Journal No. 84: Circulation, programmed by Grahame Weinbren, Vince Warne, and MFJ editors, celebrating 60 years of the Millennium Film Workshop and surveying…
+- [GAN 間: Dissolved in What We Love](https://www.culturehub.org/events/gan-dissolved-in-what-we-love) (3)  
+  CultureHub · East Village  
+  Young artists from Seoul and New York present a performance/installation asking what shame is dissolved in the Korean beauty standards we take pride in, exploring identity and cultural critique through emerging media.
 
 ---
 [Full calendar](https://wfreudenheim.github.io/EventScout/)

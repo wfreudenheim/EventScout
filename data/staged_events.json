@@ -7517,25 +7517,6 @@
     "discovered_at": "2026-11-25T08:16:05.419Z"
   },
   {
-    "id": "japan-society-2026-10-06-gen-ichir-inokuma-s-nyc-salon",
-    "title": "Gen'ichirō Inokuma's NYC Salon",
-    "venue_id": "japan-society",
-    "venue_name": "Japan Society",
-    "date": "2026-10-06",
-    "description": "Exhibition of works by Japanese painter Gen'ichirō Inokuma exploring his decades living and working in New York City, including objects from his personal collection on loan from MIMOCA. On view through January 10, 2027.",
-    "url": "https://japansociety.org/gallery/genichiro-inokumas-nyc-salon/",
-    "price": "$20 ($15 students/seniors, free for members)",
-    "format": "gallery",
-    "interest_score": 3,
-    "tags": [],
-    "matched_categories": [
-      "Contemporary Art"
-    ],
-    "source_agent": "aggregator:web-sweep",
-    "status": "staged",
-    "discovered_at": "2026-11-25T08:16:05.431Z"
-  },
-  {
     "id": "bisr-2026-12-04-occasional-evening-who-are-you-polly-mag",
     "title": "Occasional Evening: Who Are You, Polly Maggoo? — a Screening and Discussion",
     "venue_id": "bisr",
